@@ -1,0 +1,115 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {
+    "affiliates_count": 30
+  },
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": true,
+    "highlightedTweets": "40"
+  },
+  "id": "VXNlcjoxNTk5NTg3MjMyMTc1ODQ5NDcy",
+  "isBlueVerified": true,
+  "isProfileTranslatable": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 05 02:12:13 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pplx.ai/download",
+            "expanded_url": "http://pplx.ai/download",
+            "url": "https://t.co/BBZ1kG0TVG",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "plex.it",
+            "expanded_url": "http://plex.it",
+            "url": "https://t.co/hpxxMepIkW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8432,
+    "followersCount": 279779,
+    "following": false,
+    "friendsCount": 58,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3124,
+    "location": "San Francisco, CA",
+    "mediaCount": 371,
+    "name": "Perplexity",
+    "normalFollowersCount": 279779,
+    "pinnedTweetIdsStr": [
+      "1894068197936304296"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1599587232175849472/1742152741",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "perplexity_ai",
+    "statusesCount": 755,
+    "translatorType": "none",
+    "url": "https://t.co/hpxxMepIkW",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 714,
+        "name": "Technology Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1601094761712177152"
+  },
+  "profileImageShape": "Square",
+  "restId": "1599587232175849472",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false,
+    "reason": {
+      "description": {
+        "entities": [
+          {
+            "fromIndex": 69,
+            "ref": {
+              "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 79
+          }
+        ],
+        "text": "This account is verified because it's an official organization on X. Learn more"
+      },
+      "verifiedSinceMsec": "1678032991322"
+    }
+  }
+}

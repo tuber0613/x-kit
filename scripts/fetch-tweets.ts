@@ -2,7 +2,24 @@ import { XAuthClient } from "./utils";
 import { get } from "lodash";
 import dayjs from "dayjs";
 import fs from "fs-extra";
-import type { TweetApiUtilsData } from "twitter-openapi-typescript";
+
+// Define a type for the structured data we save
+interface FormattedTweetData {
+  user: {
+    screenName?: string;
+    name?: string;
+    profileImageUrl?: string;
+    description?: string;
+    followersCount?: number;
+    friendsCount?: number;
+    location?: string;
+  };
+  images: string[];
+  videos: string[];
+  tweetUrl: string;
+  fullText?: string;
+  createdAt?: string; // Added createdAt
+}
 
 const client = await XAuthClient();
 
@@ -10,14 +27,16 @@ const resp = await client.getTweetApi().getHomeLatestTimeline({
   count: 100,
 });
 
-// 过滤出原创推文
-const originalTweets = resp.data.data.filter((tweet) => {
+// The type from the API response might be different, let's keep tweet as any for simplicity here
+// or infer it if possible, but for now 'any' avoids issues with filtering.
+const originalTweets: any[] = resp.data.data.filter((tweet: any) => { // Explicitly use any for tweet here
+  // The linter error on referenced_tweets suggests the original type might be wrong anyway
   return !tweet.referenced_tweets || tweet.referenced_tweets.length === 0;
 });
 
-const rows: TweetApiUtilsData[] = [];
+const rows: FormattedTweetData[] = []; // Use our custom type
 // 输出所有原创推文的访问地址
-originalTweets.forEach((tweet) => {
+originalTweets.forEach((tweet) => { // tweet is still any from filtering
   const isQuoteStatus = get(tweet, "raw.result.legacy.isQuoteStatus");
   if (isQuoteStatus) {
     return;
@@ -32,10 +51,14 @@ originalTweets.forEach((tweet) => {
     return;
   }
   const screenName = get(tweet, "user.legacy.screenName");
-  const tweetUrl = `https://x.com/${screenName}/status/${get(
-    tweet,
-    "raw.result.legacy.idStr"
-  )}`;
+  const tweetIdStr = get(tweet, "raw.result.legacy.idStr"); // Get ID string once
+
+  if (!screenName || !tweetIdStr) { // Add basic check
+      console.warn("Skipping tweet due to missing screenName or ID:", JSON.stringify(tweet).substring(0, 200) + '...'); // Log truncated tweet
+      return;
+  }
+
+  const tweetUrl = `https://x.com/${screenName}/status/${tweetIdStr}`;
   // 提取用户信息
   const user = {
     screenName: get(tweet, "user.legacy.screenName"),
@@ -67,34 +90,46 @@ originalTweets.forEach((tweet) => {
     })
     .filter(Boolean);
 
-  rows.push({
-    // @ts-ignore
+  rows.push({ // This object now matches FormattedTweetData
     user,
     images,
     videos,
     tweetUrl,
     fullText,
+    createdAt,
   });
 });
 
 const outputPath = `./tweets/${dayjs().format("YYYY-MM-DD")}.json`;
-let existingRows: TweetApiUtilsData[] = [];
+let existingRows: FormattedTweetData[] = []; // Use our custom type
 
 // 如果文件存在，读取现有内容
 if (fs.existsSync(outputPath)) {
-  existingRows = JSON.parse(fs.readFileSync(outputPath, 'utf-8'));
+  // Need error handling for JSON parsing
+  try {
+      const fileContent = fs.readFileSync(outputPath, 'utf-8');
+      // Basic check if file content is not empty before parsing
+      if (fileContent.trim()) {
+        existingRows = JSON.parse(fileContent);
+      }
+  } catch (err) {
+      console.error(`Error reading or parsing existing file ${outputPath}:`, err);
+      // Decide how to proceed, maybe start with empty existingRows
+      existingRows = [];
+  }
 }
 
 // 合并现有数据和新数据
-const allRows = [...existingRows, ...rows];
+const allRows: FormattedTweetData[] = [...existingRows, ...rows]; // Use our custom type
 
 // 通过 tweetUrl 去重
 const uniqueRows = Array.from(
-  new Map(allRows.map(row => [row.tweetUrl, row])).values()
+  // Ensure row object matches FormattedTweetData for map key access
+  new Map(allRows.map((row: FormattedTweetData) => [row.tweetUrl, row])).values()
 );
 
-// 按照 createdAt 倒序排序
-const sortedRows = uniqueRows.sort((a, b) => {
+// 按照 createdAt 倒序排序 - Use our custom type for a, b
+const sortedRows = uniqueRows.sort((a: FormattedTweetData, b: FormattedTweetData) => {
   const urlA = new URL(a.tweetUrl);
   const urlB = new URL(b.tweetUrl);
   const idA = urlA.pathname.split('/').pop() || '';
@@ -106,3 +141,5 @@ fs.writeFileSync(
   outputPath,
   JSON.stringify(sortedRows, null, 2)
 );
+
+console.log(`Successfully fetched and saved ${rows.length} new tweets to ${outputPath}. Total unique tweets: ${sortedRows.length}`); // Add a success log

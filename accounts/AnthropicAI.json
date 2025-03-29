@@ -1,0 +1,102 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {
+    "affiliates_count": 1
+  },
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": true,
+    "highlightedTweets": "39"
+  },
+  "id": "VXNlcjoxMzUzODM2MzU4OTAxNTAxOTUy",
+  "isBlueVerified": true,
+  "isProfileTranslatable": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 25 22:45:28 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant Claude at https://t.co/aRbQ97tMeF.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Claude.ai",
+            "expanded_url": "http://Claude.ai",
+            "url": "https://t.co/aRbQ97tMeF",
+            "indices": [
+              138,
+              161
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "anthropic.com",
+            "expanded_url": "http://anthropic.com",
+            "url": "https://t.co/MfFw1lb0rR",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1099,
+    "followersCount": 498313,
+    "following": false,
+    "friendsCount": 35,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 5673,
+    "location": "",
+    "mediaCount": 360,
+    "name": "Anthropic",
+    "normalFollowersCount": 498313,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1353836358901501952/1719228429",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AnthropicAI",
+    "statusesCount": 845,
+    "translatorType": "none",
+    "url": "https://t.co/MfFw1lb0rR",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "profileImageShape": "Square",
+  "restId": "1353836358901501952",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false,
+    "reason": {
+      "description": {
+        "entities": [
+          {
+            "fromIndex": 69,
+            "ref": {
+              "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 79
+          }
+        ],
+        "text": "This account is verified because it's an official organization on X. Learn more"
+      },
+      "verifiedSinceMsec": "1679500803795"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Microsoft",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1701324249624150016/tcox7Ax3_bigger.jpg"
+      },
+      "description": "Microsoft",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "businessAccount": {
+    "affiliates_count": 0
+  },
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": true,
+    "highlightedTweets": "2"
+  },
+  "id": "VXNlcjoyMTQ1NzI4OQ==",
+  "isBlueVerified": true,
+  "isProfileTranslatable": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 21 02:32:24 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "We advance science and technology to benefit humanity.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "microsoft.com/research",
+            "expanded_url": "https://microsoft.com/research",
+            "url": "https://t.co/KL2NpxDG4n",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5626,
+    "followersCount": 560383,
+    "following": false,
+    "friendsCount": 1849,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 6790,
+    "location": "",
+    "mediaCount": 2248,
+    "name": "Microsoft Research",
+    "normalFollowersCount": 560383,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/21457289/1704906115",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1603123064140890112/bSq-JVnp_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "MSFTResearch",
+    "statusesCount": 9796,
+    "translatorType": "none",
+    "url": "https://t.co/KL2NpxDG4n",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "profileImageShape": "Square",
+  "restId": "21457289",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false,
+    "reason": {
+      "description": {
+        "entities": [
+          {
+            "fromIndex": 54,
+            "ref": {
+              "url": "https://twitter.com/Microsoft",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 64
+          },
+          {
+            "fromIndex": 71,
+            "ref": {
+              "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 81
+          }
+        ],
+        "text": "This account is verified because it's an affiliate of @Microsoft on X. Learn more"
+      },
+      "verifiedSinceMsec": "1548980314977"
+    }
+  }
+}
