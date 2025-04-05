@@ -1,11 +1,151 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 116719,
+      "friendsCount": 1308,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnzOODnWAAASu3u.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1908628107755389117",
+    "fullText": "发现 Gemini 虽然不能根据 URL 给你全文获取或者翻译网页内容，但是可以帮你摘要并翻译网页内容，这点可能是得益于 Google 的爬虫能抓取到这些网站的数据。 https://t.co/wDT7Uie59W",
+    "createdAt": "Sat Apr 05 21:09:36 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 271542,
+      "friendsCount": 74,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnzM9DWXEAAxhRa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/1908625693870612893",
+    "fullText": "A new training technique speeds up diffusion transformers’ learning by aligning their embeddings with those from a pretrained model like DINOv2. \n\nThe method, called Representation Alignment (REPA), adds a loss term that encourages the diffusion model to produce embeddings https://t.co/Yy7a06NZyP",
+    "createdAt": "Sat Apr 05 21:00:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Kyle_L_Wiggers",
+      "name": "Kyle Wiggers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1836973800082063360/X_1Y4dGj_normal.jpg",
+      "description": "Technology journalist. AI Editor @TechCrunch (kyle.wiggers@techcrunch.com). Signal: kyle.901 Pronouns: he/him.",
+      "followersCount": 66844,
+      "friendsCount": 6095,
+      "location": "Manhattan, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kyle_L_Wiggers/status/1908625636471582939",
+    "fullText": "Meta releases Llama 4, a new crop of flagship AI models https://t.co/dX5pUM7MVB",
+    "createdAt": "Sat Apr 05 20:59:46 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "levie",
+      "name": "Aaron Levie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+      "description": "ceo @box - unleash the power of your content with AI",
+      "followersCount": 2539138,
+      "friendsCount": 687,
+      "location": "Bay Area"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnzK0MLa0AA9ZO1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/levie/status/1908624434984018340",
+    "fullText": "Wow. Meta just launched its new Llama 4 open-weight model family. Pretty incredible cost/performance. Up to 10M token context windows. We're reaching the point where you're not paying a penalty with open models, but you get all the benefits control. Pretty incredible. https://t.co/rVRoQvBycQ",
+    "createdAt": "Sat Apr 05 20:55:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "I make apps grow really fast. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 481283,
+      "friendsCount": 1878,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnzLoQFWsAA8XoY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/1908624239709532406",
+    "fullText": "Pronouns are back in bio https://t.co/t9tG0KLdys",
+    "createdAt": "Sat Apr 05 20:54:13 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
+      "followersCount": 240971,
+      "friendsCount": 7836,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GnzJiIfbQAAFmUh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1908621932872052924",
+    "fullText": "https://t.co/0U4LVAhAd5",
+    "createdAt": "Sat Apr 05 20:45:03 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg",
+      "description": "",
+      "followersCount": 218800694,
+      "friendsCount": 1101,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/1908621496563753202",
+    "fullText": "Starlink airborne continuity test with HC SSF POE2 https://t.co/JY7U5CUXci",
+    "createdAt": "Sat Apr 05 20:43:19 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1737543874615349248/QRmHmR_N_normal.png",
+      "description": "The future of AI is open-source. Let's build together.",
+      "followersCount": 44987,
+      "friendsCount": 362,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1908619756044730368/pu/vid/avc1/896x720/-Ibo48YP0AlTcxw3.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/1908619883203395974",
+    "fullText": "Llama 4 models are now available for free on Together Chat! https://t.co/YfvFChWl5J",
+    "createdAt": "Sat Apr 05 20:36:55 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "AIatMeta",
       "name": "AI at Meta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
       "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
-      "followersCount": 657568,
+      "followersCount": 657847,
       "friendsCount": 270,
       "location": ""
     },
@@ -23,7 +163,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1737543874615349248/QRmHmR_N_normal.png",
       "description": "The future of AI is open-source. Let's build together.",
-      "followersCount": 44966,
+      "followersCount": 44987,
       "friendsCount": 362,
       "location": "San Francisco, CA"
     },
@@ -41,7 +181,7 @@
       "name": "Jim Fan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
       "description": "NVIDIA Sr. Research Manager. Co-Lead of GR00T (Humanoid Robotics) & GEAR Lab. Solving Physical AI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
-      "followersCount": 300603,
+      "followersCount": 300616,
       "friendsCount": 3018,
       "location": "Views my own. Contact →"
     },
@@ -59,7 +199,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 240958,
+      "followersCount": 240971,
       "friendsCount": 7836,
       "location": "United States"
     },
@@ -75,7 +215,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 394827,
+      "followersCount": 394834,
       "friendsCount": 2963,
       "location": ""
     },
@@ -93,7 +233,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nDM me elsewhere (email). Limited replies. \nWrites @interconnectsai\nWriting https://t.co/a2XaScWqPe",
-      "followersCount": 47177,
+      "followersCount": 47182,
       "friendsCount": 818,
       "location": "Seattle"
     },
@@ -109,7 +249,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 132935,
+      "followersCount": 132943,
       "friendsCount": 4658,
       "location": "Miami / New York / Paris"
     },
@@ -125,7 +265,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 132935,
+      "followersCount": 132943,
       "friendsCount": 4658,
       "location": "Miami / New York / Paris"
     },
@@ -144,7 +284,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
       "followersCount": 58680,
-      "friendsCount": 33387,
+      "friendsCount": 33388,
       "location": "latent space"
     },
     "images": [],
@@ -159,7 +299,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Open source generative AI. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
-      "followersCount": 267441,
+      "followersCount": 267447,
       "friendsCount": 19,
       "location": "London"
     },
@@ -175,7 +315,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Open source generative AI. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
-      "followersCount": 267441,
+      "followersCount": 267447,
       "friendsCount": 19,
       "location": "London"
     },
@@ -192,7 +332,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
       "followersCount": 58680,
-      "friendsCount": 33387,
+      "friendsCount": 33388,
       "location": "latent space"
     },
     "images": [
@@ -209,7 +349,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nDM me elsewhere (email). Limited replies. \nWrites @interconnectsai\nWriting https://t.co/a2XaScWqPe",
-      "followersCount": 47177,
+      "followersCount": 47182,
       "friendsCount": 818,
       "location": "Seattle"
     },
@@ -225,7 +365,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 76946,
+      "followersCount": 76957,
       "friendsCount": 1070,
       "location": "HQ: San Francisco, CA"
     },
@@ -297,7 +437,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 132935,
+      "followersCount": 132943,
       "friendsCount": 4658,
       "location": "Miami / New York / Paris"
     },
@@ -333,7 +473,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I also teach how to leverage and build with LLMs & AI Agents ⬇️",
-      "followersCount": 236534,
+      "followersCount": 236544,
       "friendsCount": 600,
       "location": ""
     },
@@ -351,7 +491,7 @@
       "name": "AI at Meta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
       "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
-      "followersCount": 657568,
+      "followersCount": 657847,
       "friendsCount": 270,
       "location": ""
     },
