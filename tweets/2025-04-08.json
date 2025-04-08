@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
+      "followersCount": 241918,
+      "friendsCount": 7835,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1909600471460774086",
+    "fullText": "Instead of techno-futurism we'll end up with Luddite-regressivism.",
+    "createdAt": "Tue Apr 08 13:33:25 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 25002,
+      "friendsCount": 897,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1909598356223229952/pu/vid/avc1/1106x720/fR4qWSA47ecCzJZJ.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/1909599750355402926",
+    "fullText": "把任意网站变成MCP服务器的一个项目：sitemcp\n\nsitemcp会抓取网站内容并缓存，支持使用micromatch指定抓取的页面路径以及CSS选择器来精细化选择页面内容，并把抓取的内容用作MCP服务器的数据源\n\n它等于是把静态网站变成了一个可交互的知识库，配合MCP客户端进行提问，解锁了更丰富的应用场景\n\n#MCP https://t.co/V3N7sxHRko",
+    "createdAt": "Tue Apr 08 13:30:33 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Kyle_L_Wiggers",
+      "name": "Kyle Wiggers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1836973800082063360/X_1Y4dGj_normal.jpg",
+      "description": "Technology journalist. AI Editor @TechCrunch (kyle.wiggers@techcrunch.com). Signal: kyle.901 Pronouns: he/him.",
+      "followersCount": 66842,
+      "friendsCount": 6105,
+      "location": "Manhattan, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kyle_L_Wiggers/status/1909596962535461182",
+    "fullText": "Mira Murati’s AI startup gains prominent ex-OpenAI advisors https://t.co/Sm94CyAKO1",
+    "createdAt": "Tue Apr 08 13:19:29 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870151418864140289/LPX3j0s7_normal.jpg",
+      "description": "Building for the next era of art, entertainment and human creativity. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 242380,
+      "friendsCount": 312,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1909593795894661120/pu/vid/avc1/1280x720/I9wHrNFnRHR0pydQ.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/1909594237533819092",
+    "fullText": "Gen:48 returns this April 26th to 28th. Mark your calendar and assemble your team for another 48-hours of filmmaking.\n\nRegister today at the link below. https://t.co/cNOvZ5vlBc",
+    "createdAt": "Tue Apr 08 13:08:39 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 402139,
+      "friendsCount": 495,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1909592346926166016/vid/avc1/1280x720/oS90C__ng8JL4NdQ.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/1909593493267230885",
+    "fullText": "How to build an AI agent from scratch.\n\nThis is the question I get the most, so I recorded this video to show you from the very beginning how you can get started.\n\nYou can do this in Python, TypeScript, JavaScript, or Ruby. https://t.co/Vw38uGLrAJ",
+    "createdAt": "Tue Apr 08 13:05:41 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "bentossell",
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad || I help non-technical people build apps with AI - https://t.co/8PA6dEGhGE || ex-founder makerpad (acq by zapier)",
-      "followersCount": 154225,
+      "followersCount": 154217,
       "friendsCount": 383,
       "location": "vibe coders  → "
     },
@@ -23,7 +109,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155311,
+      "followersCount": 155307,
       "friendsCount": 4942,
       "location": "Montréal, Québec"
     },
@@ -41,7 +127,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "I make apps grow really fast. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 481713,
+      "followersCount": 481723,
       "friendsCount": 1879,
       "location": "New York, NY"
     },
@@ -57,8 +143,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 241923,
-      "friendsCount": 7834,
+      "followersCount": 241918,
+      "friendsCount": 7835,
       "location": "United States"
     },
     "images": [],
@@ -73,7 +159,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 398950,
+      "followersCount": 398946,
       "friendsCount": 1137,
       "location": "Austin, TX"
     },
@@ -89,8 +175,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 241923,
-      "friendsCount": 7834,
+      "followersCount": 241918,
+      "friendsCount": 7835,
       "location": "United States"
     },
     "images": [
@@ -107,8 +193,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 241923,
-      "friendsCount": 7834,
+      "followersCount": 241918,
+      "friendsCount": 7835,
       "location": "United States"
     },
     "images": [],
@@ -123,8 +209,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 241923,
-      "friendsCount": 7834,
+      "followersCount": 241918,
+      "friendsCount": 7835,
       "location": "United States"
     },
     "images": [],
@@ -139,8 +225,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 241923,
-      "friendsCount": 7834,
+      "followersCount": 241918,
+      "friendsCount": 7835,
       "location": "United States"
     },
     "images": [
@@ -160,8 +246,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 241923,
-      "friendsCount": 7834,
+      "followersCount": 241918,
+      "friendsCount": 7835,
       "location": "United States"
     },
     "images": [
@@ -178,7 +264,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155311,
+      "followersCount": 155307,
       "friendsCount": 4942,
       "location": "Montréal, Québec"
     },
@@ -194,7 +280,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 395305,
+      "followersCount": 395282,
       "friendsCount": 2961,
       "location": ""
     },
@@ -212,7 +298,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 24999,
+      "followersCount": 25002,
       "friendsCount": 897,
       "location": ""
     },
@@ -230,7 +316,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 398950,
+      "followersCount": 398946,
       "friendsCount": 1137,
       "location": "Austin, TX"
     },
@@ -246,7 +332,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 395305,
+      "followersCount": 395282,
       "friendsCount": 2961,
       "location": ""
     },
@@ -264,7 +350,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 395305,
+      "followersCount": 395282,
       "friendsCount": 2961,
       "location": ""
     },
@@ -282,7 +368,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad || I help non-technical people build apps with AI - https://t.co/8PA6dEGhGE || ex-founder makerpad (acq by zapier)",
-      "followersCount": 154225,
+      "followersCount": 154217,
       "friendsCount": 383,
       "location": "vibe coders  → "
     },
@@ -298,7 +384,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 395305,
+      "followersCount": 395282,
       "friendsCount": 2961,
       "location": ""
     },
@@ -316,7 +402,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 395305,
+      "followersCount": 395282,
       "friendsCount": 2961,
       "location": ""
     },
@@ -334,7 +420,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 81951,
+      "followersCount": 81957,
       "friendsCount": 1137,
       "location": ""
     },
@@ -352,7 +438,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 24999,
+      "followersCount": 25002,
       "friendsCount": 897,
       "location": ""
     },
@@ -370,7 +456,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 24999,
+      "followersCount": 25002,
       "friendsCount": 897,
       "location": ""
     },
@@ -440,7 +526,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 81951,
+      "followersCount": 81957,
       "friendsCount": 1137,
       "location": ""
     },
@@ -458,7 +544,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 81951,
+      "followersCount": 81957,
       "friendsCount": 1137,
       "location": ""
     },
@@ -476,7 +562,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 81951,
+      "followersCount": 81957,
       "friendsCount": 1137,
       "location": ""
     },
@@ -494,7 +580,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg",
       "description": "",
-      "followersCount": 218792963,
+      "followersCount": 218797100,
       "friendsCount": 1104,
       "location": ""
     },
@@ -512,7 +598,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg",
       "description": "",
-      "followersCount": 218792963,
+      "followersCount": 218797100,
       "friendsCount": 1104,
       "location": ""
     },
@@ -1389,6 +1475,24 @@
     "tweetUrl": "https://x.com/ParisHilton/status/1909113406164217968",
     "fullText": "Beyond proud to see My Friend Daisy at number 6 on the charts 🥹🥰🙏 Let's get it to the Top 5! https://t.co/rccIpJF946",
     "createdAt": "Mon Apr 07 05:18:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "InvitasCo",
+      "name": "Invitas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804312505528836099/IKtX5MEL_normal.jpg",
+      "description": "Upgrade capitalism. Restore peace and prosperity. Science our way to a new, glorious golden age. New to X: Forgive mistakes. United: Red/Blue. Let's fix this.",
+      "followersCount": 20104,
+      "friendsCount": 19886,
+      "location": "Worldwide"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gn4OcNqXEAAgjud.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/InvitasCo/status/1908981881812783218",
+    "fullText": "Bear markets feel terrifying—but...\n\nSince 1928:\n✅27 bear markets vs. 28 bull markets\n✅Avg bear: 9 months, -35%\n✅Avg bull: 2.7 yrs, +114%\n✅Innovation ignite rebounds\n✅Policy responses are faster and more effective\n\nRecovery? Every. Single. Time.\n\nhttps://t.co/rz9syXJmF0 https://t.co/20mQx9soCl",
+    "createdAt": "Sun Apr 06 20:35:22 +0000 2025"
   },
   {
     "user": {
