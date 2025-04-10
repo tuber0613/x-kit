@@ -1,6 +1,92 @@
 [
   {
     "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I also teach how to leverage and build with LLMs & AI Agents ⬇️",
+      "followersCount": 237659,
+      "friendsCount": 604,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/1910402754230784443",
+    "fullText": "The more you code with AI, the more you learn about its weaknesses. \n\nYou then provide refined instructions and missing context (your knowledge/expertise), which the AI uses in the next iteration to improve.\n\nRepeat and you will feel the magic.",
+    "createdAt": "Thu Apr 10 18:41:24 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "I make apps grow really fast. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 482429,
+      "friendsCount": 1878,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1910395819728982016/vid/avc1/1280x720/ZUQzyb82arz810W8.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nikitabier/status/1910401111107715273",
+    "fullText": "A common pattern in consumer AI over the last couple years:\n\nAn app that generates AI portraits of you will go viral—but then users churn after a few days. I started advising one of these apps last year called @vybeappp \nand the goal was to turn it into a durable app.\n\nWe started https://t.co/w7Tcrec98h",
+    "createdAt": "Thu Apr 10 18:34:53 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
+      "followersCount": 242071,
+      "friendsCount": 7839,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoMaljabYAMQm8X.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1910399901613338980",
+    "fullText": "https://t.co/hNc6WYVeXr",
+    "createdAt": "Thu Apr 10 18:30:04 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 3629652,
+      "friendsCount": 951,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/1910398997333970984",
+    "fullText": "openai usage has gone nuts over the past month.\n\nbut a surprisingly cool thing is you can ask the internet \"hey can we please get hundreds of thousands of more GPUs quickly\" and...the internet will deliver.\n\n🩵",
+    "createdAt": "Thu Apr 10 18:26:29 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI researcher & former stats professor turned LLM research engineer. Author of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW).",
+      "followersCount": 325396,
+      "friendsCount": 1009,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoMX9JfXQAAizgn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rasbt/status/1910397214389600687",
+    "fullText": "Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't, https://t.co/HEku7oUM64:\nThe original DeepSeek-R1 paper showed that when developing small(er) reasoning models, distillation gives better results than pure RL. In this paper, researchers follow up on https://t.co/kFzPQAOiev",
+    "createdAt": "Thu Apr 10 18:19:24 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
@@ -21,7 +107,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155315,
+      "followersCount": 155316,
       "friendsCount": 4944,
       "location": "Montréal, Québec"
     },
@@ -53,8 +139,8 @@
       "name": "Jeff Dean",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_normal.jpg",
       "description": "Chief Scientist, Google DeepMind & Google Research. Gemini Lead. Opinions stated here are my own, not those of Google. TensorFlow, MapReduce, Bigtable, ...",
-      "followersCount": 344352,
-      "friendsCount": 6232,
+      "followersCount": 344355,
+      "friendsCount": 6233,
       "location": ""
     },
     "images": [
@@ -73,7 +159,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2013700,
+      "followersCount": 2013695,
       "friendsCount": 762,
       "location": ""
     },
@@ -89,7 +175,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4074332,
+      "followersCount": 4074201,
       "friendsCount": 3,
       "location": ""
     },
@@ -105,7 +191,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 272244,
+      "followersCount": 272251,
       "friendsCount": 74,
       "location": "United States"
     },
@@ -123,7 +209,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1181943,
+      "followersCount": 1181977,
       "friendsCount": 1003,
       "location": "Palo Alto, CA"
     },
@@ -157,7 +243,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242058,
+      "followersCount": 242071,
       "friendsCount": 7839,
       "location": "United States"
     },
@@ -189,7 +275,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77132,
+      "followersCount": 77130,
       "friendsCount": 1070,
       "location": "HQ: San Francisco, CA"
     },
@@ -225,7 +311,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 191418,
+      "followersCount": 191421,
       "friendsCount": 28,
       "location": ""
     },
@@ -243,7 +329,7 @@
       "name": "Richard Socher",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1232361282759610368/YYxndVmI_normal.jpg",
       "description": "CEO  @youdotcom\nInvesting at @aixventuresHQ\n\nBefore: Stanford Adj Prof in AI/NLP, Chief Scientist at Salesforce, MetaMind",
-      "followersCount": 109553,
+      "followersCount": 109554,
       "friendsCount": 1029,
       "location": ""
     },
@@ -259,7 +345,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 3629742,
+      "followersCount": 3629652,
       "friendsCount": 951,
       "location": "SF"
     },
@@ -275,7 +361,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 174020,
+      "followersCount": 174021,
       "friendsCount": 6744,
       "location": ""
     },
@@ -293,7 +379,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4074332,
+      "followersCount": 4074201,
       "friendsCount": 3,
       "location": ""
     },
@@ -311,7 +397,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 288091,
+      "followersCount": 288076,
       "friendsCount": 1690,
       "location": "iPhone: 34.060616,-118.444359"
     },
@@ -327,7 +413,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77132,
+      "followersCount": 77130,
       "friendsCount": 1070,
       "location": "HQ: San Francisco, CA"
     },
@@ -345,7 +431,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG1rLe",
-      "followersCount": 282596,
+      "followersCount": 282593,
       "friendsCount": 59,
       "location": "San Francisco, CA"
     },
@@ -363,7 +449,7 @@
       "name": "Lex Fridman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1854713863817646088/nTmsz7jR_normal.jpg",
       "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
-      "followersCount": 4309639,
+      "followersCount": 4309509,
       "friendsCount": 519,
       "location": "Austin and Boston"
     },
@@ -379,7 +465,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1217327685057294336/DGEtbPjU_normal.jpg",
       "description": "• mom to 1 girl and 4 boys • building @TheTuringPost. As one of the readers put it: “Always scientifically minded, low hype”. Machine learning-AI-Business-Life",
-      "followersCount": 3918,
+      "followersCount": 3917,
       "friendsCount": 1390,
       "location": "Join over 80,000 readers at"
     },
@@ -395,7 +481,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 460443,
+      "followersCount": 460435,
       "friendsCount": 5538,
       "location": "Maryland, USA"
     },
@@ -413,7 +499,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1737543874615349248/QRmHmR_N_normal.png",
       "description": "The future of AI is open-source. Let's build together.",
-      "followersCount": 46192,
+      "followersCount": 46193,
       "friendsCount": 365,
       "location": "San Francisco, CA"
     },
@@ -431,7 +517,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2539648,
+      "followersCount": 2539631,
       "friendsCount": 687,
       "location": "Bay Area"
     },
