@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 547201,
+      "friendsCount": 807,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoWam53XUAA3EVR.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/1911103843062190554",
+    "fullText": "Google quietly released a powerful recommender systems library optimized for JAX and TPUs, based on Keras. It's called RecML.\n\nIt has native support for SparseCore (latest hardware for handling large distributed embeddings) https://t.co/IBNlKXUwcz",
+    "createdAt": "Sat Apr 12 17:07:17 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
+      "description": "⚡ Build context-aware, reasoning applications ⚡",
+      "followersCount": 191672,
+      "friendsCount": 28,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoWZMahXgAEiHjT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/1911102058276487458",
+    "fullText": "🤖 🌡️ ReAct Agents with Gemini\n\nBuild sophisticated ReAct agents using LangGraph and Gemini 2.5 Pro. This guide showcases a complete weather forecasting implementation, featuring state management, tool calling, and workflow control.\n\nExplore the full implementation here 👉 https://t.co/tIe7eUQUNi",
+    "createdAt": "Sat Apr 12 17:00:11 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 402630,
+      "friendsCount": 495,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/1911102016832836034",
+    "fullText": "\"pip install\" is dead. \"uv add\" is the new king.",
+    "createdAt": "Sat Apr 12 17:00:02 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Founder: @playground_ai,  @mixpanel\nPizzatarian, programmer, music maker",
+      "followersCount": 355400,
+      "friendsCount": 477,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/1911097789372924155",
+    "fullText": "Don’t fixate on competition, trends, who raised what. You’ll hardly remember it 8 years from now. Deeply follow your curiosity, build useful things w motivated people, try hard, hold a long term view, persevere, let bad days heal through time, be grateful of the good ones.",
+    "createdAt": "Sat Apr 12 16:43:14 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "I make apps grow really fast. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 483275,
+      "friendsCount": 1880,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GoWVFbdWkAA2-ea.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/1911097542126784521",
+    "fullText": "For the love of God, we need to stop the insider trading in the Trump Administration. I’m happy we’re walking back the tarriffs but this is turning into a full blown kleptocracy. \n\nMillions of dollars of AAPL call positions were opened right up until the electronics exemption. https://t.co/gB1qX5XJEa",
+    "createdAt": "Sat Apr 12 16:42:15 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "databricks",
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77173,
+      "followersCount": 77171,
       "friendsCount": 1071,
       "location": "HQ: San Francisco, CA"
     },
@@ -23,7 +109,7 @@
       "name": "Yann LeCun",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_normal.jpg",
       "description": "Professor at NYU. Chief AI Scientist at Meta.\nResearcher in AI, Machine Learning, Robotics, etc.\nACM Turing Award Laureate.",
-      "followersCount": 891958,
+      "followersCount": 891951,
       "friendsCount": 748,
       "location": "New York"
     },
@@ -39,7 +125,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nDM me elsewhere (email). Limited replies. \nWrites @interconnectsai\nWriting https://t.co/a2XaScWqPe",
-      "followersCount": 47893,
+      "followersCount": 47889,
       "friendsCount": 820,
       "location": "Seattle"
     },
@@ -55,7 +141,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242297,
+      "followersCount": 242299,
       "friendsCount": 7838,
       "location": "United States"
     },
@@ -73,7 +159,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nOur latest content ⬇️",
-      "followersCount": 317556,
+      "followersCount": 317557,
       "friendsCount": 20743,
       "location": "Cambridge, MA"
     },
@@ -91,7 +177,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242297,
+      "followersCount": 242299,
       "friendsCount": 7838,
       "location": "United States"
     },
@@ -109,7 +195,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 191680,
+      "followersCount": 191672,
       "friendsCount": 28,
       "location": ""
     },
@@ -127,7 +213,7 @@
       "name": "Yi Ma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
       "description": "Chair Professor in AI, Director of School of CDS, HKU.\nVisiting Professor of EECS, UC Berkeley.\nAuthor: High-Dim Data Analysis, https://t.co/gwaqMJp8av.",
-      "followersCount": 92143,
+      "followersCount": 92146,
       "friendsCount": 271,
       "location": "Hong Kong and Berkeley"
     },
@@ -143,7 +229,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155285,
+      "followersCount": 155281,
       "friendsCount": 4945,
       "location": "Montréal, Québec"
     },
@@ -161,7 +247,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242297,
+      "followersCount": 242299,
       "friendsCount": 7838,
       "location": "United States"
     },
@@ -179,7 +265,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 174108,
+      "followersCount": 174115,
       "friendsCount": 6747,
       "location": ""
     },
@@ -197,7 +283,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 288194,
+      "followersCount": 288202,
       "friendsCount": 1690,
       "location": "iPhone: 34.060616,-118.444359"
     },
@@ -213,7 +299,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 272507,
+      "followersCount": 272495,
       "friendsCount": 74,
       "location": "United States"
     },
@@ -231,7 +317,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155285,
+      "followersCount": 155281,
       "friendsCount": 4945,
       "location": "Montréal, Québec"
     },
@@ -249,7 +335,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2014702,
+      "followersCount": 2014708,
       "friendsCount": 762,
       "location": ""
     },
@@ -268,7 +354,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg",
       "description": "",
-      "followersCount": 219038195,
+      "followersCount": 219001837,
       "friendsCount": 1106,
       "location": ""
     },
@@ -286,7 +372,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "I make apps grow really fast. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 483249,
+      "followersCount": 483275,
       "friendsCount": 1880,
       "location": "New York, NY"
     },
@@ -304,7 +390,7 @@
       "name": "Becca Szkutak",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1727699869509554176/u5ipqIWt_normal.jpg",
       "description": "Senior writer @TechCrunch, co-host @Found, author of TC PM\n\nBBQ Betch, 2001 Coldplay apologist, Pilates teacher \nShe/her",
-      "followersCount": 6208,
+      "followersCount": 6209,
       "friendsCount": 1248,
       "location": "Brooklyn, NY"
     },
@@ -320,7 +406,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242297,
+      "followersCount": 242299,
       "friendsCount": 7838,
       "location": "United States"
     },
@@ -338,7 +424,7 @@
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI researcher & former stats professor turned LLM research engineer. Author of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW).",
-      "followersCount": 325682,
+      "followersCount": 325687,
       "friendsCount": 1009,
       "location": ""
     },
@@ -356,7 +442,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242297,
+      "followersCount": 242299,
       "friendsCount": 7838,
       "location": "United States"
     },
@@ -374,7 +460,7 @@
       "name": "Yannic Kilcher 🇸🇨",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/473191190477537280/bWjYb1Rb_normal.jpeg",
       "description": "I make videos.\nSkill &gt; Destiny.\nvi / vim",
-      "followersCount": 76238,
+      "followersCount": 76242,
       "friendsCount": 873,
       "location": ""
     },
@@ -392,7 +478,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 402626,
+      "followersCount": 402630,
       "friendsCount": 495,
       "location": "🇺🇸 Collaborations →"
     },
@@ -410,7 +496,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155285,
+      "followersCount": 155281,
       "friendsCount": 4945,
       "location": "Montréal, Québec"
     },
@@ -428,7 +514,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242297,
+      "followersCount": 242299,
       "friendsCount": 7838,
       "location": "United States"
     },
@@ -1087,7 +1173,7 @@
       "name": "OpusClip",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1651470623175213057/pXxCdS5q_normal.jpg",
       "description": "🔥 Welcome to a new era of short video creation.\n👉 Join Discord: https://t.co/3gskiXiYS1",
-      "followersCount": 6900,
+      "followersCount": 6928,
       "friendsCount": 330,
       "location": "San Francisco"
     },
