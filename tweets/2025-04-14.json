@@ -1,11 +1,77 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2015703,
+      "friendsCount": 762,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/1911893528772489695",
+    "fullText": "The AI boom is not just probably bigger than the two previous ones I've seen (integrated circuits and the internet), but also seems to be spreading faster.",
+    "createdAt": "Mon Apr 14 21:25:13 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
+      "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
+      "followersCount": 174334,
+      "friendsCount": 6748,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/1911893155001323661",
+    "fullText": "I wonder how many models with weird, messed-up names OpenAI would have to release before OpenAI’s fanbase would admit that creating GPT-5 turned out to be harder than expected.\n\n30? 50? It’s already been more than a dozen.",
+    "createdAt": "Mon Apr 14 21:23:44 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
+      "followersCount": 242416,
+      "friendsCount": 7835,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1911892340802986352",
+    "fullText": "And just like that the era of free speech is over. Replaced with an even more draconian form or speech repression, censorship, and worse.",
+    "createdAt": "Mon Apr 14 21:20:29 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 118504,
+      "friendsCount": 1309,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1911680571941494784/vid/avc1/1478x1080/ejwpkS22J0W10Crk.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1911890520651026692",
+    "fullText": "古老魔术揭秘\nhttps://t.co/OFev0YYjeG",
+    "createdAt": "Mon Apr 14 21:13:15 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 402858,
+      "followersCount": 402859,
       "friendsCount": 495,
       "location": "🇺🇸 Collaborations →"
     },
@@ -23,7 +89,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG1rLe",
-      "followersCount": 283694,
+      "followersCount": 283703,
       "friendsCount": 59,
       "location": "San Francisco, CA"
     },
@@ -77,7 +143,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1527308966614933505/N61sd5P3_normal.jpg",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 838001,
+      "followersCount": 837916,
       "friendsCount": 47,
       "location": "The Cloud"
     },
@@ -95,7 +161,7 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
-      "followersCount": 49586,
+      "followersCount": 49587,
       "friendsCount": 2989,
       "location": "San Francisco"
     },
@@ -129,7 +195,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I also teach how to leverage and build with LLMs & AI Agents ⬇️",
-      "followersCount": 238220,
+      "followersCount": 238225,
       "friendsCount": 605,
       "location": ""
     },
@@ -311,6 +377,22 @@
     "tweetUrl": "https://x.com/databricks/status/1911857047303225584",
     "fullText": "Qwen models are known for their strong performance in code completion and instruction tasks. \n\nHere’s how you can register and deploy Qwen models on Databricks using an approach similar to that for Llama-based architectures.\nhttps://t.co/vHZMia1doV https://t.co/UnZ2CB7HYx",
     "createdAt": "Mon Apr 14 19:00:15 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "CrossKelliae",
+      "name": "Kelli Cross",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1911788707440463872/QrNdK4L4_normal.jpg",
+      "description": "",
+      "followersCount": 1,
+      "friendsCount": 12,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CrossKelliae/status/1911855486137414093",
+    "fullText": "Refresh your space with the serene beauty of our forever-green fern no sunlight, no stress, just effortless charm ✨\n\nhttps://t.co/VVgeMRfhTr",
+    "createdAt": "Mon Apr 14 18:54:03 +0000 2025"
   },
   {
     "user": {
@@ -667,7 +749,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nDM me elsewhere (email). Limited replies. \nWrites @interconnectsai\nWriting https://t.co/a2XaScWqPe",
-      "followersCount": 47997,
+      "followersCount": 47999,
       "friendsCount": 820,
       "location": "Seattle"
     },
@@ -1826,7 +1908,7 @@
       "name": "Lois",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1417370868750061575/6JHAElMx_normal.jpg",
       "description": "Sometimes there is so much we feel... but so little we can say...m",
-      "followersCount": 51,
+      "followersCount": 82,
       "friendsCount": 54,
       "location": "Hauli"
     },
