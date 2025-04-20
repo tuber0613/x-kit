@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "Mostly research and code. If universe is an optimizer, what is its loss function? All opinions are my own.",
+      "followersCount": 12842,
+      "friendsCount": 9924,
+      "location": "Redmond, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Go845GObwAIQKpI.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/1913811772013941068",
+    "fullText": "🕹️ Classic 2‑player zero‑sum games fit neatly inside the RL loop:\n1️⃣ Agent = Player 1 chooses action a₁\n2️⃣ Environment = (game rules + Player 2 policy) returns next state s′ &amp; reward r = ‑u₂\n3️⃣ Iterate.\nMinimax, α‑β pruning &amp; MCTS are just different planners for step 1️⃣.\nTreat https://t.co/FF1hRUEEZD",
+    "createdAt": "Sun Apr 20 04:27:38 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 400386,
+      "followersCount": 400388,
       "friendsCount": 1162,
       "location": "Austin, TX"
     },
@@ -21,7 +39,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1775927507855998976/v1mOCezH_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 549574,
+      "followersCount": 549582,
       "friendsCount": 4992,
       "location": "San Francisco, CA"
     },
@@ -39,7 +57,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155237,
+      "followersCount": 155244,
       "friendsCount": 4977,
       "location": "Montréal, Québec"
     },
@@ -55,7 +73,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1775927507855998976/v1mOCezH_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 549574,
+      "followersCount": 549582,
       "friendsCount": 4992,
       "location": "San Francisco, CA"
     },
@@ -71,7 +89,7 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
-      "followersCount": 49761,
+      "followersCount": 49764,
       "friendsCount": 2997,
       "location": "San Francisco"
     },
@@ -89,7 +107,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "I make apps grow really fast. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 485329,
+      "followersCount": 485333,
       "friendsCount": 1883,
       "location": "New York, NY"
     },
@@ -107,7 +125,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 25573,
+      "followersCount": 25574,
       "friendsCount": 905,
       "location": ""
     },
@@ -125,7 +143,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 58855,
+      "followersCount": 58856,
       "friendsCount": 33386,
       "location": "latent space"
     },
@@ -143,7 +161,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120064,
+      "followersCount": 120081,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -161,7 +179,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242711,
+      "followersCount": 242712,
       "friendsCount": 7858,
       "location": "United States"
     },
@@ -177,7 +195,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Open source generative AI. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
-      "followersCount": 269353,
+      "followersCount": 269363,
       "friendsCount": 19,
       "location": "London"
     },
@@ -209,7 +227,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 192803,
+      "followersCount": 192810,
       "friendsCount": 28,
       "location": ""
     },
@@ -227,7 +245,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2018348,
+      "followersCount": 2018361,
       "friendsCount": 762,
       "location": ""
     },
@@ -243,7 +261,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 288999,
+      "followersCount": 289000,
       "friendsCount": 1690,
       "location": "iPhone: 34.060616,-118.444359"
     },
@@ -259,7 +277,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 120064,
+      "followersCount": 120081,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -279,7 +297,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2539924,
+      "followersCount": 2539933,
       "friendsCount": 688,
       "location": "Bay Area"
     },
@@ -295,7 +313,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 192803,
+      "followersCount": 192810,
       "friendsCount": 28,
       "location": ""
     },
@@ -313,7 +331,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242711,
+      "followersCount": 242712,
       "friendsCount": 7858,
       "location": "United States"
     },
@@ -329,7 +347,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 192803,
+      "followersCount": 192810,
       "friendsCount": 28,
       "location": ""
     },
@@ -347,7 +365,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 192803,
+      "followersCount": 192810,
       "friendsCount": 28,
       "location": ""
     },
@@ -365,7 +383,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155237,
+      "followersCount": 155244,
       "friendsCount": 4977,
       "location": "Montréal, Québec"
     },
@@ -383,7 +401,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 242711,
+      "followersCount": 242712,
       "friendsCount": 7858,
       "location": "United States"
     },
@@ -401,7 +419,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 400386,
+      "followersCount": 400388,
       "friendsCount": 1162,
       "location": "Austin, TX"
     },
@@ -633,7 +651,7 @@
       "name": "Eliezer Yudkowsky ⏹️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905066662250127360/5xxTWNZ5_normal.jpg",
       "description": "The original AI alignment person.  Missing punctuation at the end of a sentence means it's humor.  If you're not sure, it's also very likely humor.",
-      "followersCount": 197120,
+      "followersCount": 197119,
       "friendsCount": 94,
       "location": ""
     },
@@ -683,7 +701,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 83212,
+      "followersCount": 83214,
       "friendsCount": 1142,
       "location": ""
     },
