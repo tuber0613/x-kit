@@ -1,12 +1,100 @@
 [
   {
     "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1737543874615349248/QRmHmR_N_normal.png",
+      "description": "The future of AI is open-source. Let's build together.",
+      "followersCount": 46659,
+      "friendsCount": 372,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1915064057746309120/vid/avc1/1920x1080/-bv5Z0PyfESUFSn3.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/1915067065238491322",
+    "fullText": "New 2 minute tutorial: How to work with logprobs!\n\nThis allows you to get probabilities from LLMs on how confident they are for a specific answer (e.g 90% confident)\n\nhttps://t.co/rZt0pPTI7i",
+    "createdAt": "Wed Apr 23 15:35:43 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG1rLe",
+      "followersCount": 285521,
+      "friendsCount": 59,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1915064381005824000/vid/avc1/720x900/wuOgZhWFCBe94I6-.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/1915064472391336071",
+    "fullText": "Introducing Perplexity iOS Voice Assistant\n\nVoice Assistant uses web browsing and multi-app actions to book reservations, send emails and calendar invites, play media, and more—all from the Perplexity iOS app.\n\nUpdate your app in the App Store and start asking today. https://t.co/OKdlTaG9CO",
+    "createdAt": "Wed Apr 23 15:25:25 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2020094,
+      "friendsCount": 762,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpOrEuUWkAE2848.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/1915062649970139315",
+    "fullText": "Elon and Steve Jobs are both famous for pushing people to simplify their designs. I don't think this is a coincidence. Large organizations naturally generate complexity, but if you have a CEO who hates it, this tendency is kept in check. https://t.co/MWa81rOWUz",
+    "createdAt": "Wed Apr 23 15:18:10 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant Claude at https://t.co/aRbQ97tMeF.",
+      "followersCount": 517848,
+      "friendsCount": 35,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/1915062506374021216",
+    "fullText": "New report: How we detect and counter malicious uses of Claude.\n\nFor example, we found Claude was used for a sophisticated political spambot campaign, running 100+ fake social media accounts across multiple platforms.",
+    "createdAt": "Wed Apr 23 15:17:36 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "garrytan",
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1775927507855998976/v1mOCezH_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 551160,
-      "friendsCount": 4996,
+      "followersCount": 551132,
+      "friendsCount": 4995,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpOqtoDbwAAP6iG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/1915061971831210437",
+    "fullText": "1% of criminals are responsible for over 60% of violent crimes. In seeking relentless decarceration our city in recent past has gouged out its own eyes. \n\nWe don’t have to stand for it. And we want news to report the facts instead of their own fictions.\n\nhttps://t.co/O8RWLZTZHG https://t.co/gIPciHUHwx",
+    "createdAt": "Wed Apr 23 15:15:28 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1775927507855998976/v1mOCezH_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
+      "followersCount": 551132,
+      "friendsCount": 4995,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -23,7 +111,7 @@
       "name": "Russ Salakhutdinov",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/550901065751592963/J3wFUStk_normal.jpeg",
       "description": "VP, GenAI @ Meta (Multimodal LLMs, AI Agents), Professor @ CMU, ex-Director of AI research at @Apple, co-founder Perceptual Machines (acquired by Apple)",
-      "followersCount": 106181,
+      "followersCount": 106184,
       "friendsCount": 164,
       "location": "Pittsburgh, PA"
     },
@@ -39,7 +127,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "Solving the unsolvable with AI.",
-      "followersCount": 218540,
+      "followersCount": 218545,
       "friendsCount": 796,
       "location": "Santa Clara, CA"
     },
@@ -57,7 +145,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461256,
+      "followersCount": 461260,
       "friendsCount": 5532,
       "location": "Maryland, USA"
     },
@@ -75,7 +163,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2020119,
+      "followersCount": 2020094,
       "friendsCount": 762,
       "location": ""
     },
@@ -109,7 +197,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @playground_ai,  @mixpanel\nPizzatarian, programmer, music maker",
-      "followersCount": 357261,
+      "followersCount": 357254,
       "friendsCount": 490,
       "location": ""
     },
@@ -130,7 +218,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 174699,
+      "followersCount": 174700,
       "friendsCount": 6749,
       "location": ""
     },
@@ -149,7 +237,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77372,
+      "followersCount": 77370,
       "friendsCount": 1071,
       "location": "HQ: San Francisco, CA"
     },
@@ -167,7 +255,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 289658,
+      "followersCount": 289666,
       "friendsCount": 915,
       "location": "iPhone: 34.060616,-118.444359"
     },
@@ -183,7 +271,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243529,
+      "followersCount": 243510,
       "friendsCount": 7862,
       "location": "United States"
     },
@@ -201,7 +289,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I also teach how to leverage and build with LLMs & AI Agents ⬇️",
-      "followersCount": 239271,
+      "followersCount": 239274,
       "friendsCount": 606,
       "location": ""
     },
@@ -219,7 +307,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461256,
+      "followersCount": 461260,
       "friendsCount": 5532,
       "location": "Maryland, USA"
     },
@@ -237,7 +325,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I also teach how to leverage and build with LLMs & AI Agents ⬇️",
-      "followersCount": 239271,
+      "followersCount": 239274,
       "friendsCount": 606,
       "location": ""
     },
@@ -287,7 +375,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1114282,
+      "followersCount": 1114272,
       "friendsCount": 276,
       "location": "London, UK"
     },
@@ -303,7 +391,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243529,
+      "followersCount": 243510,
       "friendsCount": 7862,
       "location": "United States"
     },
@@ -319,7 +407,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 403872,
+      "followersCount": 403876,
       "friendsCount": 501,
       "location": "🇺🇸 Collaborations →"
     },
@@ -335,7 +423,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870151418864140289/LPX3j0s7_normal.jpg",
       "description": "Building for the next era of art, entertainment and human creativity. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 243935,
+      "followersCount": 243942,
       "friendsCount": 314,
       "location": "New York, USA"
     },
@@ -353,7 +441,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461256,
+      "followersCount": 461260,
       "friendsCount": 5532,
       "location": "Maryland, USA"
     },
@@ -371,7 +459,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 33654,
+      "followersCount": 33658,
       "friendsCount": 87,
       "location": ""
     },
@@ -389,7 +477,7 @@
       "name": "Karen Hao",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905964698631380993/kWKDXj4K_normal.jpg",
       "description": "ai reporter & author. national magazine award winner. words in @theatlantic. formerly @wsj @techreview. pre-order my book EMPIRE OF AI (May 20): https://t.co/wh5mCWc2mo.",
-      "followersCount": 67521,
+      "followersCount": 67522,
       "friendsCount": 1181,
       "location": "Hong Kong"
     },
@@ -407,7 +495,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 83618,
+      "followersCount": 83631,
       "friendsCount": 1144,
       "location": ""
     },
@@ -446,7 +534,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461256,
+      "followersCount": 461260,
       "friendsCount": 5532,
       "location": "Maryland, USA"
     },
@@ -464,7 +552,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243529,
+      "followersCount": 243510,
       "friendsCount": 7862,
       "location": "United States"
     },
@@ -480,7 +568,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️ proud Mediterrenean 🍋 I work on: zero-shot vision & VLMs, large multimodal models, transformers, smol-vision",
-      "followersCount": 74705,
+      "followersCount": 74704,
       "friendsCount": 4673,
       "location": "Paris"
     },
@@ -496,7 +584,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad || ai builder content + capital https://t.co/iLpIJT2Vlg || founder makerpad (acq by zapier)",
-      "followersCount": 155625,
+      "followersCount": 155627,
       "friendsCount": 383,
       "location": "vibe coders  → "
     },
@@ -512,7 +600,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243529,
+      "followersCount": 243510,
       "friendsCount": 7862,
       "location": "United States"
     },
@@ -560,7 +648,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Open source generative AI. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
-      "followersCount": 269749,
+      "followersCount": 269759,
       "friendsCount": 19,
       "location": "London"
     },
@@ -2435,6 +2523,24 @@
     "tweetUrl": "https://x.com/Sleepwell_patch/status/1914574611766706395",
     "fullText": "8+ hours of deep sleep and no more pill-popping? Sign me up!",
     "createdAt": "Tue Apr 22 06:58:53 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "RebulWorld",
+      "name": "Rebul World",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875097762406252545/cXNveVr0_normal.jpg",
+      "description": "Welcome to Rebul World! 🌈 Bringing joy & creativity to kids with our delightful toys. Explore fun, learn, and play! 🧸 #KidsToys #PlaytimeMagic",
+      "followersCount": 785,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1914537329521516544/vid/avc1/720x720/HmZVmOTgJ3JXop71.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/RebulWorld/status/1914541373665227192",
+    "fullText": "Discover the wonder of the Transformable Magnetized Enigma Block—shifting into 70+ unique shapes for endless creativity and engaging challenges! 🤩\nGet yours now 👉 https://t.co/ccuTUF45Vd https://t.co/ISvL6dAwpL",
+    "createdAt": "Tue Apr 22 04:46:48 +0000 2025"
   },
   {
     "user": {
