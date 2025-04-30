@@ -1,11 +1,152 @@
 [
   {
     "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 399313,
+      "friendsCount": 2967,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917588518542438400/vid/avc1/1920x1080/VrR13mg1SBqxXtwQ.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/1917588659760501001",
+    "fullText": "Aero-1-Audio is out on Hugging Face\n\nTrained in &lt;24h on just 16×H100\nHandles 15+ min audio seamlessly \nOutperforms bigger models like Whisper, Qwen-2-Audio &amp; commercial services from ElevenLabs/Scribe https://t.co/8lyqB4Ypdt",
+    "createdAt": "Wed Apr 30 14:35:38 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
+      "followersCount": 243868,
+      "friendsCount": 7871,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1917588299985674505",
+    "fullText": "ChatGPT just helped me recover a couple of Word documents that I didn't save before Word was force shut down. So definitely a very useful technology.",
+    "createdAt": "Wed Apr 30 14:34:12 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 399313,
+      "friendsCount": 2967,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpyjDREWYAAS_3E.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/1917587214164242728",
+    "fullText": "Building an MCP Server with Gradio is out\n\nimport gradio as gr demo = gr.Interface(fn=your_function, ...) demo.launch(mcp_server=True)  # ← that's it 🤯 https://t.co/x62qkRW5MD",
+    "createdAt": "Wed Apr 30 14:29:53 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 95895,
+      "friendsCount": 597,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpyhCj9aYAUONbt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/1917587049185698188",
+    "fullText": "Last chance to apply to the @StanfordAILab Postdoctoral Fellows Program! Join @Stanford’s legacy of excellence in AI and machine learning, and collaborate with world-class experts in advancing cutting-edge research. Application ends today, April 30: https://t.co/zkub9ub4mP https://t.co/6NMonkntP3",
+    "createdAt": "Wed Apr 30 14:29:14 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 79890,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gpyh6ShaYAMFgGR.jpg",
+      "https://pbs.twimg.com/media/Gpyh6SiboAAc7LD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/1917585963775320086",
+    "fullText": "We’re excited to announce the release of Qwen2.5-Omni-3B, enabling developers with lightweight GPU accessibility!\n\n🔹 Compared to Qwen2.5-Omni-7B model, the 3B version achieves a remarkable 50%+ reduction 🚀 in VRAM consumption during long-context sequence processing (~25k https://t.co/jU7SyD91ph",
+    "createdAt": "Wed Apr 30 14:24:55 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 399313,
+      "friendsCount": 2967,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917585317579698176/vid/avc1/1280x720/t8wTtid642QGl2lM.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/1917585421325717571",
+    "fullText": "In-Context Edit\n\nEnabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer https://t.co/s9jrW94ynn",
+    "createdAt": "Wed Apr 30 14:22:46 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
+      "followersCount": 59063,
+      "friendsCount": 33387,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpyhnrrbAAAuplg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/1917585301452775705",
+    "fullText": "love gmail design language consistency across the product\n\nand the 2024 footer https://t.co/RJSYzD2ZoE",
+    "createdAt": "Wed Apr 30 14:22:17 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 401769,
+      "friendsCount": 1177,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1917583721852477683",
+    "fullText": "“See that’s the difference between you and I.\n\nYou get money, and you get crazy.\n\nI get crazy, and I get money.”\n\n- Dwayne Michael Carter, Jr.",
+    "createdAt": "Wed Apr 30 14:16:00 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "omarsar0",
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I also teach how to leverage and build with LLMs & AI Agents ⬇️",
-      "followersCount": 240108,
+      "followersCount": 240112,
       "friendsCount": 609,
       "location": ""
     },
@@ -23,7 +164,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243894,
+      "followersCount": 243868,
       "friendsCount": 7871,
       "location": "United States"
     },
@@ -41,7 +182,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155337,
+      "followersCount": 155338,
       "friendsCount": 4989,
       "location": "Montréal, Québec"
     },
@@ -59,7 +200,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 401771,
+      "followersCount": 401769,
       "friendsCount": 1177,
       "location": "Austin, TX"
     },
@@ -75,8 +216,8 @@
       "name": "Kyle Wiggers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836973800082063360/X_1Y4dGj_normal.jpg",
       "description": "Technology journalist. AI Editor @TechCrunch (kyle.wiggers@techcrunch.com). Signal: kyle.901 Pronouns: he/him.",
-      "followersCount": 66983,
-      "friendsCount": 6213,
+      "followersCount": 66984,
+      "friendsCount": 6214,
       "location": "Manhattan, NY"
     },
     "images": [],
@@ -91,8 +232,8 @@
       "name": "Kyle Wiggers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836973800082063360/X_1Y4dGj_normal.jpg",
       "description": "Technology journalist. AI Editor @TechCrunch (kyle.wiggers@techcrunch.com). Signal: kyle.901 Pronouns: he/him.",
-      "followersCount": 66983,
-      "friendsCount": 6213,
+      "followersCount": 66984,
+      "friendsCount": 6214,
       "location": "Manhattan, NY"
     },
     "images": [],
@@ -107,7 +248,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461568,
+      "followersCount": 461557,
       "friendsCount": 5531,
       "location": "Maryland, USA"
     },
@@ -161,7 +302,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77459,
+      "followersCount": 77455,
       "friendsCount": 1073,
       "location": "HQ: San Francisco, CA"
     },
@@ -179,7 +320,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 136109,
+      "followersCount": 136108,
       "friendsCount": 4687,
       "location": "Miami / New York / Paris"
     },
@@ -197,7 +338,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155337,
+      "followersCount": 155338,
       "friendsCount": 4989,
       "location": "Montréal, Québec"
     },
@@ -213,7 +354,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155337,
+      "followersCount": 155338,
       "friendsCount": 4989,
       "location": "Montréal, Québec"
     },
@@ -231,8 +372,8 @@
       "name": "Kyle Wiggers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836973800082063360/X_1Y4dGj_normal.jpg",
       "description": "Technology journalist. AI Editor @TechCrunch (kyle.wiggers@techcrunch.com). Signal: kyle.901 Pronouns: he/him.",
-      "followersCount": 66983,
-      "friendsCount": 6213,
+      "followersCount": 66984,
+      "friendsCount": 6214,
       "location": "Manhattan, NY"
     },
     "images": [],
@@ -247,7 +388,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "I lead @Cohere_Labs. Formerly Research @Google Brain @GoogleDeepmind. ML Efficiency at scale, LLMs, ML reliability. Changing spaces where breakthroughs happen.",
-      "followersCount": 45993,
+      "followersCount": 46004,
       "friendsCount": 8722,
       "location": "Santa Monica, CA"
     },
@@ -265,7 +406,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 404899,
+      "followersCount": 404901,
       "friendsCount": 501,
       "location": "🇺🇸 Collaborations →"
     },
@@ -283,7 +424,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243894,
+      "followersCount": 243868,
       "friendsCount": 7871,
       "location": "United States"
     },
