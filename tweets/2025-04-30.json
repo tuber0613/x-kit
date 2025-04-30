@@ -1,11 +1,137 @@
 [
   {
     "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 136114,
+      "friendsCount": 4687,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpytTT4WQAAAK87.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/1917598288938782968",
+    "fullText": "We just announced what could become the largest robotics hackathon ever! June 14th (it's my birthday too haha!). https://t.co/QsIPEqKehA",
+    "createdAt": "Wed Apr 30 15:13:53 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
+      "description": "⚡ Build context-aware, reasoning applications ⚡",
+      "followersCount": 194197,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpC3J2lWsAA50HL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/1917594807985197213",
+    "fullText": "🎟️ Tickets are sold out for Interrupt — stay tuned for session highlights at https://t.co/2zVGY758u6. In the meantime, spend some time with event sponsor Cisco and help ensure AI works for you. #LangChain #Interrupt2025\n\n🔗 https://t.co/tcEXSX9BVQ https://t.co/CKSQRFROQi",
+    "createdAt": "Wed Apr 30 15:00:04 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
+      "description": "Solving the unsolvable with AI.",
+      "followersCount": 219252,
+      "friendsCount": 796,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpyqTk5XwAAo39j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/1917594798447300984",
+    "fullText": "Join Jensen Huang, Founder and CEO, NVIDIA, and Anirudh Devgan, President and CEO, @Cadence for an exclusive fireside chat at CadenceLIVE. \n\nLearn about the future of AI, accelerated computing, and electronic design. ➡️ https://t.co/y1HvWg7tfv https://t.co/keeDdjLKFh",
+    "createdAt": "Wed Apr 30 15:00:01 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "huggingface",
+      "name": "Hugging Face",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_normal.jpg",
+      "description": "The AI community building the future. https://t.co/VkRPD0Vclr",
+      "followersCount": 501004,
+      "friendsCount": 202,
+      "location": "NYC and Paris and 🌏"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gpypht-WQAEF0Yq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/huggingface/status/1917593993891684416",
+    "fullText": "Thanks for the support Jules! 🤗🤗🤗 https://t.co/9UU1Yy9mOd",
+    "createdAt": "Wed Apr 30 14:56:49 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
+      "followersCount": 1119363,
+      "friendsCount": 276,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1917581072738496512/vid/avc1/1920x1080/FQlCQtot24nrnKD4.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/1917593514566901800",
+    "fullText": "We’re helping robots self-improve with the power of LLMs. 🤖\n\nIntroducing the Summarize, Analyze, Synthesize (SAS) prompt, which analyzes how they perform tasks based on previous actions and then suggests ways for them to get better using the medium of table tennis. 🏓 https://t.co/2LupVBkJ7Z",
+    "createdAt": "Wed Apr 30 14:54:55 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
+      "description": "⚡ Build context-aware, reasoning applications ⚡",
+      "followersCount": 194197,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpynVEsbUAA03pj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/1917591537715929190",
+    "fullText": "How DocentPro powers AI trip planning with LangGraph\n\n@docentpro_sf is building an AI travel assistant that helps users go from idea → itinerary → booking. Using LangGraph + LangSmith, they’ve created a modular multi-agent system that handles discovery, planning, and real-time https://t.co/lniEAZdEjZ",
+    "createdAt": "Wed Apr 30 14:47:04 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 401773,
+      "friendsCount": 1177,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gpymj1TXoAASw8x.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1917590678730637439",
+    "fullText": "Credit where credit is due this is a very useful feature https://t.co/026Jr7peor",
+    "createdAt": "Wed Apr 30 14:43:39 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "_akhaliq",
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 399313,
+      "followersCount": 399290,
       "friendsCount": 2967,
       "location": ""
     },
@@ -23,7 +149,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243868,
+      "followersCount": 243867,
       "friendsCount": 7871,
       "location": "United States"
     },
@@ -39,7 +165,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 399313,
+      "followersCount": 399290,
       "friendsCount": 2967,
       "location": ""
     },
@@ -57,7 +183,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 95895,
+      "followersCount": 95897,
       "friendsCount": 597,
       "location": "Stanford, CA"
     },
@@ -75,7 +201,7 @@
       "name": "Qwen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
       "description": "Open foundation models for AGI.",
-      "followersCount": 79890,
+      "followersCount": 79899,
       "friendsCount": 4,
       "location": ""
     },
@@ -94,7 +220,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗)\n\ndm for promo, submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 399313,
+      "followersCount": 399290,
       "friendsCount": 2967,
       "location": ""
     },
@@ -112,7 +238,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 59063,
+      "followersCount": 59061,
       "friendsCount": 33387,
       "location": "latent space"
     },
@@ -130,7 +256,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 401769,
+      "followersCount": 401773,
       "friendsCount": 1177,
       "location": "Austin, TX"
     },
@@ -146,7 +272,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I also teach how to leverage and build with LLMs & AI Agents ⬇️",
-      "followersCount": 240112,
+      "followersCount": 240116,
       "friendsCount": 609,
       "location": ""
     },
@@ -164,7 +290,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243868,
+      "followersCount": 243867,
       "friendsCount": 7871,
       "location": "United States"
     },
@@ -182,7 +308,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155338,
+      "followersCount": 155339,
       "friendsCount": 4989,
       "location": "Montréal, Québec"
     },
@@ -200,7 +326,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 401769,
+      "followersCount": 401773,
       "friendsCount": 1177,
       "location": "Austin, TX"
     },
@@ -248,7 +374,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461557,
+      "followersCount": 461564,
       "friendsCount": 5531,
       "location": "Maryland, USA"
     },
@@ -284,7 +410,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1737543874615349248/QRmHmR_N_normal.png",
       "description": "The future of AI is open-source. Let's build together.",
-      "followersCount": 46765,
+      "followersCount": 46767,
       "friendsCount": 373,
       "location": "San Francisco, CA"
     },
@@ -302,7 +428,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77455,
+      "followersCount": 77457,
       "friendsCount": 1073,
       "location": "HQ: San Francisco, CA"
     },
@@ -320,7 +446,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 136108,
+      "followersCount": 136114,
       "friendsCount": 4687,
       "location": "Miami / New York / Paris"
     },
@@ -338,7 +464,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155338,
+      "followersCount": 155339,
       "friendsCount": 4989,
       "location": "Montréal, Québec"
     },
@@ -354,7 +480,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155338,
+      "followersCount": 155339,
       "friendsCount": 4989,
       "location": "Montréal, Québec"
     },
@@ -388,8 +514,8 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "I lead @Cohere_Labs. Formerly Research @Google Brain @GoogleDeepmind. ML Efficiency at scale, LLMs, ML reliability. Changing spaces where breakthroughs happen.",
-      "followersCount": 46004,
-      "friendsCount": 8722,
+      "followersCount": 46018,
+      "friendsCount": 8723,
       "location": "Santa Monica, CA"
     },
     "images": [
@@ -442,8 +568,8 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "I lead @Cohere_Labs. Formerly Research @Google Brain @GoogleDeepmind. ML Efficiency at scale, LLMs, ML reliability. Changing spaces where breakthroughs happen.",
-      "followersCount": 45954,
-      "friendsCount": 8721,
+      "followersCount": 46018,
+      "friendsCount": 8723,
       "location": "Santa Monica, CA"
     },
     "images": [
