@@ -1,11 +1,95 @@
 [
   {
     "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 549284,
+      "friendsCount": 806,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp4sAy0awAEEt9Q.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/1918018956188893388",
+    "fullText": "The Keras team has just released a new library: KerasRS!\n\nIt provides a collection of building blocks and code examples for shipping state-of-the-art recommender systems -- layers, metrics, losses, feature engineering utilities...\n\n It works natively with JAX, PyTorch, TF, and https://t.co/XiomArcxjM",
+    "createdAt": "Thu May 01 19:05:28 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Kyle_L_Wiggers",
+      "name": "Kyle Wiggers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1836973800082063360/X_1Y4dGj_normal.jpg",
+      "description": "Technology journalist. AI Editor @TechCrunch (kyle.wiggers@techcrunch.com). Signal: kyle.901 Pronouns: he/him.",
+      "followersCount": 66971,
+      "friendsCount": 6221,
+      "location": "Manhattan, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kyle_L_Wiggers/status/1918018741431947390",
+    "fullText": "Ai2’s new small AI model outperforms similarly-sized models from Google, Meta https://t.co/j2yy7d6HVD",
+    "createdAt": "Thu May 01 19:04:37 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 34171,
+      "friendsCount": 87,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/googleaidevs/status/1918017580037534044",
+    "fullText": "Did you know Gemma 3 supports over 140 languages? Learn how developers are using enhanced multilingual capabilities to develop their own models for diverse cultural contexts ↓ https://t.co/i3ArcPK2Ab",
+    "createdAt": "Thu May 01 19:00:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "peteratmsr",
+      "name": "Peter Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/685543333284851712/e6LozCA6_normal.jpg",
+      "description": "President, Microsoft Research",
+      "followersCount": 17043,
+      "friendsCount": 1058,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/peteratmsr/status/1918016423194182091",
+    "fullText": "How much energy and water is consumed by datacenters? Not just their operation, but also to produce and install the chips, servers, cooling, and other support equipment, plus transportation and eventual disposal? Now in @Nature, a full lifecycle analysis. https://t.co/1EVpgZhyqE",
+    "createdAt": "Thu May 01 18:55:24 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 3689159,
+      "friendsCount": 954,
+      "location": "SF"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp4n7_wawAAFzlx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/1918014405515853833",
+    "fullText": "fun showing @satyanadella our new office and talking about some of our latest progress! https://t.co/p2BGB0So7M",
+    "createdAt": "Thu May 01 18:47:23 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243797,
+      "followersCount": 243799,
       "friendsCount": 7877,
       "location": "United States"
     },
@@ -39,7 +123,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 275355,
+      "followersCount": 275360,
       "friendsCount": 74,
       "location": "United States"
     },
@@ -57,7 +141,7 @@
       "name": "Character.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1899518217577758720/C-l6v7K2_normal.jpg",
       "description": "Unleash your imagination—chat, create, explore.",
-      "followersCount": 148785,
+      "followersCount": 148784,
       "friendsCount": 12,
       "location": ""
     },
@@ -75,7 +159,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 155301,
+      "followersCount": 155298,
       "friendsCount": 4990,
       "location": "Montréal, Québec"
     },
@@ -91,7 +175,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 404985,
+      "followersCount": 404986,
       "friendsCount": 502,
       "location": "🇺🇸 Collaborations →"
     },
@@ -109,7 +193,7 @@
       "name": "Ai2",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
       "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
-      "followersCount": 69475,
+      "followersCount": 69477,
       "friendsCount": 395,
       "location": "Seattle, WA"
     },
@@ -127,7 +211,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917590735270076420/oUyStWB3_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6Xbx\nhttps://t.co/MXGUBJoMi4\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7SeM",
-      "followersCount": 841695,
+      "followersCount": 841677,
       "friendsCount": 48,
       "location": "The Cloud"
     },
@@ -145,8 +229,8 @@
       "name": "Kyle Wiggers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836973800082063360/X_1Y4dGj_normal.jpg",
       "description": "Technology journalist. AI Editor @TechCrunch (kyle.wiggers@techcrunch.com). Signal: kyle.901 Pronouns: he/him.",
-      "followersCount": 66969,
-      "friendsCount": 6220,
+      "followersCount": 66971,
+      "friendsCount": 6221,
       "location": "Manhattan, NY"
     },
     "images": [],
@@ -161,7 +245,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870151418864140289/LPX3j0s7_normal.jpg",
       "description": "Building for the next era of art, entertainment and human creativity. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 244614,
+      "followersCount": 244620,
       "friendsCount": 314,
       "location": "New York, USA"
     },
@@ -179,7 +263,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 290935,
+      "followersCount": 290924,
       "friendsCount": 746,
       "location": "iPhone: 34.060616,-118.444359"
     },
@@ -195,7 +279,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 121809,
+      "followersCount": 121802,
       "friendsCount": 1311,
       "location": "Chicago, IL"
     },
@@ -216,7 +300,7 @@
       "name": "sarah guo // conviction",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 110205,
+      "followersCount": 110207,
       "friendsCount": 2891,
       "location": "on ⛓"
     },
@@ -235,7 +319,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1192318,
+      "followersCount": 1192331,
       "friendsCount": 1006,
       "location": "Palo Alto, CA"
     },
@@ -251,7 +335,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg",
       "description": "",
-      "followersCount": 219936895,
+      "followersCount": 219940172,
       "friendsCount": 1115,
       "location": ""
     },
@@ -260,6 +344,22 @@
     "tweetUrl": "https://x.com/elonmusk/status/1917984441399492759",
     "fullText": "It’s not that all @WSJ stories are fake, but they are almost all mean-spirited and deceptive",
     "createdAt": "Thu May 01 16:48:19 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Zoom",
+      "name": "Zoom",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1772205124372336640/tHyk4TL1_normal.jpg",
+      "description": "AI-First Work Platform for Human Connection ✨",
+      "followersCount": 1058475,
+      "friendsCount": 1829,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Zoom/status/1917984053820834317",
+    "fullText": "Stay on top of the action by having AI Companion quickly summarize missed chats.",
+    "createdAt": "Thu May 01 16:46:47 +0000 2025"
   },
   {
     "user": {
@@ -281,11 +381,32 @@
   },
   {
     "user": {
+      "screenName": "theurban_center",
+      "name": "The Urban Center",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1823843228489011200/bT1_xhVY_normal.jpg",
+      "description": "To organize and give voice to the centrist community in Chicago and across Illinois. https://t.co/AFp6zf5NHw",
+      "followersCount": 277,
+      "friendsCount": 211,
+      "location": "Chicago, IL "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp4JlU8WYAIhcBu.jpg",
+      "https://pbs.twimg.com/media/Gp4JlU6WYAY3PpB.jpg",
+      "https://pbs.twimg.com/media/Gp4JlU7WYAQusyD.jpg",
+      "https://pbs.twimg.com/media/Gp4JlU-WYAQQt-J.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/theurban_center/status/1917981053886804260",
+    "fullText": "Packed house at our @MLInextgen Session w/special guest @ForrestClaypool to discuss the challenges facing #Chicago. It comes down to #leadership and Forrest challenged us to build power and cultivate relationships. It’s what we do. Time to take action! Take back our city! https://t.co/BUI5qcrzPg",
+    "createdAt": "Thu May 01 16:34:52 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 401680,
+      "followersCount": 401693,
       "friendsCount": 1180,
       "location": "Austin, TX"
     },
@@ -301,7 +422,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 275355,
+      "followersCount": 275360,
       "friendsCount": 74,
       "location": "United States"
     },
@@ -319,7 +440,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917590735270076420/oUyStWB3_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6Xbx\nhttps://t.co/MXGUBJoMi4\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7SeM",
-      "followersCount": 841695,
+      "followersCount": 841677,
       "friendsCount": 48,
       "location": "The Cloud"
     },
@@ -337,7 +458,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant Claude at https://t.co/aRbQ97tMeF.",
-      "followersCount": 521933,
+      "followersCount": 521960,
       "friendsCount": 35,
       "location": ""
     },
@@ -892,7 +1013,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 401680,
+      "followersCount": 401693,
       "friendsCount": 1180,
       "location": "Austin, TX"
     },
@@ -1014,7 +1135,7 @@
       "name": "Formula 1",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_normal.jpg",
       "description": "It's All To Drive For!\n \nThis story can only be written on track... Next up: MIAMI, May 2-4 🇺🇸",
-      "followersCount": 11049950,
+      "followersCount": 11050266,
       "friendsCount": 103,
       "location": ""
     },
@@ -1334,7 +1455,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 3689122,
+      "followersCount": 3689159,
       "friendsCount": 954,
       "location": "SF"
     },
@@ -2337,7 +2458,7 @@
       "name": "Tony Edward (Thinking Crypto Podcast)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755268797462650880/CHmOiTdY_normal.jpg",
       "description": "Thinking Crypto Podcast Founder @ThinkCryptoPod, Author of (Re)Thinking Crypto Book. https://t.co/p84XP3NfJf",
-      "followersCount": 133293,
+      "followersCount": 133301,
       "friendsCount": 4257,
       "location": "Moon"
     },
