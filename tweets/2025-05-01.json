@@ -1,11 +1,95 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2022377,
+      "friendsCount": 762,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/1917935511374533102",
+    "fullText": "I saw something recently mocking endnotes. But endnotes are a byproduct of the fact that ideas are tree-shaped and essays are linear. You can't always cram all the former into the latter. So frankly it's a bad sign not to have endnotes. It means you don't have enough ideas.",
+    "createdAt": "Thu May 01 13:33:54 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
+      "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nDM me elsewhere (email). Limited replies. \nWrites @interconnectsai\nWriting https://t.co/a2XaScWqPe",
+      "followersCount": 48834,
+      "friendsCount": 822,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/1917934297664671834",
+    "fullText": "The ChatGPT sycophancy thing shows that RLHF is hard and it's challenges aren't going away any time soon. It's required to make these models we love. It's being ignored with the other hype around RL. The RLVR stuff will \"saturate\" like pretraining and RLHF is never fully solved.",
+    "createdAt": "Thu May 01 13:29:04 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "I make apps grow really fast. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 489292,
+      "friendsCount": 1894,
+      "location": "Help growing your app ➡️"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/1917931582670733394",
+    "fullText": "There are two ways to validate a network-based product:\n\n1. The best method is repeatedly running experiments into small, closed communities because you get so many shots at bat to get the product right.\n\nHowever, it only works for communities that are:\n• Plentiful (i.e.,",
+    "createdAt": "Thu May 01 13:18:17 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "AGI.Eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
+      "followersCount": 155303,
+      "friendsCount": 4990,
+      "location": "Montréal, Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp3Y8w5WwAARKzX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/1917927957164675337",
+    "fullText": "[ Jobs.Alpha.AGI.eth 🗝️👾 ]\n\nThe Official Marketplace for α‑Jobs — Paid in $AGIALPHA\n\nGitHub: https://t.co/HvwKMqdyuD\n\nList α‑Jobs, Reward α‑AGI Agents, Validate Excellence.\n\n#AGIALPHA https://t.co/zHfhm5TwQa",
+    "createdAt": "Thu May 01 13:03:53 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
+      "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
+      "followersCount": 77462,
+      "friendsCount": 1073,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gp3ZHmRWAAAzdLS.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/1917927761890431186",
+    "fullText": "Today, we’re excited to deepen our partnership with @llama_index through a strategic investment by #DatabricksVentures!\n\nTogether, Databricks and LlamaIndex make it easier for every organization to build robust agent workflows and unlock insights from unstructured data at scale. https://t.co/uwOakOAlKJ",
+    "createdAt": "Thu May 01 13:03:06 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "allen_ai",
       "name": "Ai2",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
       "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
-      "followersCount": 69437,
+      "followersCount": 69435,
       "friendsCount": 395,
       "location": "Seattle, WA"
     },
@@ -23,7 +107,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243698,
+      "followersCount": 243739,
       "friendsCount": 7876,
       "location": "United States"
     },
@@ -41,7 +125,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243698,
+      "followersCount": 243739,
       "friendsCount": 7876,
       "location": "United States"
     },
@@ -57,7 +141,7 @@
       "name": "Andrej Karpathy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
       "description": "Building @EurekaLabsAI. Previously Director of AI @ Tesla, founding team @ OpenAI, CS231n/PhD @ Stanford. I like to train large deep neural nets 🧠🤖💥",
-      "followersCount": 1268550,
+      "followersCount": 1268601,
       "friendsCount": 974,
       "location": "Stanford"
     },
@@ -75,7 +159,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 404889,
+      "followersCount": 404913,
       "friendsCount": 502,
       "location": "🇺🇸 Collaborations →"
     },
@@ -93,7 +177,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 401578,
+      "followersCount": 401586,
       "friendsCount": 1180,
       "location": "Austin, TX"
     },
@@ -112,7 +196,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
       "followersCount": 25788,
-      "friendsCount": 923,
+      "friendsCount": 924,
       "location": ""
     },
     "images": [],
@@ -129,7 +213,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243698,
+      "followersCount": 243739,
       "friendsCount": 7876,
       "location": "United States"
     },
@@ -147,7 +231,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2022367,
+      "followersCount": 2022377,
       "friendsCount": 762,
       "location": ""
     },
@@ -165,7 +249,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243698,
+      "followersCount": 243739,
       "friendsCount": 7876,
       "location": "United States"
     },
@@ -181,7 +265,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243698,
+      "followersCount": 243739,
       "friendsCount": 7876,
       "location": "United States"
     },
@@ -215,7 +299,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 85412,
+      "followersCount": 85431,
       "friendsCount": 413,
       "location": ""
     },
@@ -233,7 +317,7 @@
       "name": "Zoom",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1772205124372336640/tHyk4TL1_normal.jpg",
       "description": "AI-First Work Platform for Human Connection ✨",
-      "followersCount": 1058453,
+      "followersCount": 1058480,
       "friendsCount": 1829,
       "location": "San Jose, CA"
     },
@@ -249,7 +333,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg",
       "description": "",
-      "followersCount": 219956318,
+      "followersCount": 219958838,
       "friendsCount": 1115,
       "location": ""
     },
@@ -267,8 +351,8 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @playground_ai,  @mixpanel\nPizzatarian, programmer, music maker",
-      "followersCount": 358264,
-      "friendsCount": 492,
+      "followersCount": 358265,
+      "friendsCount": 493,
       "location": ""
     },
     "images": [],
@@ -319,7 +403,7 @@
       "name": "Eliezer Yudkowsky ⏹️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905066662250127360/5xxTWNZ5_normal.jpg",
       "description": "The original AI alignment person.  Missing punctuation at the end of a sentence means it's humor.  If you're not sure, it's also very likely humor.",
-      "followersCount": 197483,
+      "followersCount": 197504,
       "friendsCount": 94,
       "location": ""
     },
@@ -1614,8 +1698,8 @@
       "name": "Tony Edward (Thinking Crypto Podcast)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755268797462650880/CHmOiTdY_normal.jpg",
       "description": "Thinking Crypto Podcast Founder @ThinkCryptoPod, Author of (Re)Thinking Crypto Book. https://t.co/p84XP3NfJf",
-      "followersCount": 133172,
-      "friendsCount": 4256,
+      "followersCount": 133266,
+      "friendsCount": 4257,
       "location": "Moon"
     },
     "images": [
