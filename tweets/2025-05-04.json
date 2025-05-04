@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 3696845,
+      "friendsCount": 956,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/1919075790278312315",
+    "fullText": "this is much less important than tweeting about agi, but it is nevertheless amazing to me that the entire venture industry can (in aggregate) lose money for so long and keep getting funded.\n\ni am very curious why LPs do it.\n\n(obviously if you can fund the top funds you should!)",
+    "createdAt": "Sun May 04 17:04:57 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
+      "followersCount": 291413,
+      "friendsCount": 746,
+      "location": "iPhone: 34.060616,-118.444359"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/1919074985752084990",
+    "fullText": "The work @AnthropicAI has been doing to understand Claude and its implications, from welfare to its moral code, is exactly the research we need in this space. We need to understand what we’re trying to control.",
+    "createdAt": "Sun May 04 17:01:45 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
+      "description": "⚡ Build context-aware, reasoning applications ⚡",
+      "followersCount": 194596,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqHsILNXYAAbGsi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/1919074543869571478",
+    "fullText": "🎥🤖 Build a Video Summarizer with Gemma\n\nBuild a video summarization app using Gemma LLM through Ollama locally. This Streamlit application uses LangChain to process videos and generate concise summaries automatically.\n\nWatch the full tutorial here https://t.co/r1prF1H3o3 https://t.co/Dl9C7x24Fr",
+    "createdAt": "Sun May 04 17:00:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
+      "followersCount": 461626,
+      "friendsCount": 5531,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GpgAU09XgAAon09.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/1919074543223619600",
+    "fullText": "#MayThe4th Be With You\n\n#MayThe4thBeWithYou https://t.co/qGfm3slJ8b",
+    "createdAt": "Sun May 04 17:00:00 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Suhail",
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @playground_ai,  @mixpanel\nPizzatarian, programmer, music maker",
-      "followersCount": 359011,
+      "followersCount": 359017,
       "friendsCount": 496,
       "location": ""
     },
@@ -21,7 +89,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 402073,
+      "followersCount": 402079,
       "friendsCount": 1183,
       "location": "Austin, TX"
     },
@@ -37,7 +105,7 @@
       "name": "Ben Goertzel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
       "description": "Building Beneficial AGI - CEO @asi_alliance @singularitynet, @true_agi , Interim CEO @Singularity_Fi, @SophiaVerse_AI, Chair @opencog  @HumanityPlus  @iCog_Labs",
-      "followersCount": 71246,
+      "followersCount": 71245,
       "friendsCount": 1647,
       "location": "Vashon Island, WA, USA"
     },
@@ -53,7 +121,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 318865,
+      "followersCount": 318864,
       "friendsCount": 20721,
       "location": "Cambridge, MA"
     },
@@ -71,7 +139,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243871,
+      "followersCount": 243870,
       "friendsCount": 7859,
       "location": "United States"
     },
@@ -89,7 +157,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 194592,
+      "followersCount": 194596,
       "friendsCount": 29,
       "location": ""
     },
@@ -125,7 +193,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 136568,
+      "followersCount": 136572,
       "friendsCount": 4690,
       "location": "Miami / New York / Paris"
     },
@@ -141,7 +209,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916008581545267202/CcjBn7h1_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 554191,
+      "followersCount": 554198,
       "friendsCount": 5017,
       "location": "San Francisco, CA"
     },
@@ -159,7 +227,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 402073,
+      "followersCount": 402079,
       "friendsCount": 1183,
       "location": "Austin, TX"
     },
@@ -175,7 +243,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg",
       "description": "",
-      "followersCount": 220131868,
+      "followersCount": 220126308,
       "friendsCount": 1118,
       "location": ""
     },
@@ -209,7 +277,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 402073,
+      "followersCount": 402079,
       "friendsCount": 1183,
       "location": "Austin, TX"
     },
@@ -259,7 +327,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg",
       "description": "",
-      "followersCount": 220131868,
+      "followersCount": 220126308,
       "friendsCount": 1118,
       "location": ""
     },
@@ -275,7 +343,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243871,
+      "followersCount": 243870,
       "friendsCount": 7859,
       "location": "United States"
     },
@@ -291,7 +359,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461627,
+      "followersCount": 461626,
       "friendsCount": 5531,
       "location": "Maryland, USA"
     },
@@ -309,7 +377,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 25898,
+      "followersCount": 25900,
       "friendsCount": 926,
       "location": ""
     },
@@ -327,7 +395,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg",
       "description": "",
-      "followersCount": 220131868,
+      "followersCount": 220126308,
       "friendsCount": 1118,
       "location": ""
     },
@@ -343,7 +411,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn how to build with AI in our new AI Academy: https://t.co/zQXQt0Pem8",
-      "followersCount": 72229,
+      "followersCount": 72236,
       "friendsCount": 1,
       "location": ""
     },
@@ -393,7 +461,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2023898,
+      "followersCount": 2023931,
       "friendsCount": 762,
       "location": ""
     },
@@ -411,7 +479,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243871,
+      "followersCount": 243870,
       "friendsCount": 7859,
       "location": "United States"
     },
@@ -461,7 +529,7 @@
       "name": "Formula 1",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_normal.jpg",
       "description": "It's All To Drive For!\n \nThis story can only be written on track... Next up: MIAMI, May 2-4 🇺🇸",
-      "followersCount": 11061177,
+      "followersCount": 11061294,
       "friendsCount": 104,
       "location": ""
     },
@@ -511,7 +579,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2023898,
+      "followersCount": 2023931,
       "friendsCount": 762,
       "location": ""
     },
@@ -536,6 +604,24 @@
     "tweetUrl": "https://x.com/svpino/status/1918988829257859090",
     "fullText": "I spent 6 months learning SQL.\n\nThat was back in 2000. I wasn't quite sure how useful that was going to be.\n\n25 years later, this was one of the best investments I've made.",
     "createdAt": "Sun May 04 11:19:24 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "mralexalleyne",
+      "name": "Alex Alleyne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892304416436277248/l1sz8jcG_normal.jpg",
+      "description": "Chief Revenue Officer at https://t.co/xX05MWEg1t 🌎\n\nMake Your First Million As A Beginner Online Coach Or Consultant",
+      "followersCount": 249,
+      "friendsCount": 0,
+      "location": "Dubai, United Arab Emirates"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1918987228350386176/vid/avc1/2216x1080/m4ZAbWIGs6SBn7R_.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/mralexalleyne/status/1918987419342213300",
+    "fullText": "I built an online Coaching business from $0 to $1M in just 4 months.\n\nThe truth?\n\nIt wasn't luck or some hidden advantage.\n\nIt was a simple 4-step framework ANY coach or consultant can follow without fancy tech or a massive team.\n\nMy journey didn't start at the top.\n\n13 years https://t.co/fLG7vieIZf",
+    "createdAt": "Sun May 04 11:13:48 +0000 2025"
   },
   {
     "user": {
@@ -638,6 +724,22 @@
     "tweetUrl": "https://x.com/_akhaliq/status/1918956338442309948",
     "fullText": "T2I-R1\n\nReinforcing Image Generation with Collaborative Semantic-level and Token-level CoT\n\npresent T2I-R1, a novel reasoning-enhanced text-to-image generation model, powered by RL with a bi-level CoT reasoning process https://t.co/vXlfpd3qTg",
     "createdAt": "Sun May 04 09:10:18 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "RiViTradingCo",
+      "name": "marco",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907334135598702593/ehfFMTBW_normal.jpg",
+      "description": "21 MN Chef alt: @RIVIRlive (ABB)\nhttps://t.co/UmuLQzZvJ8",
+      "followersCount": 98,
+      "friendsCount": 104,
+      "location": "Minnesota, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RiViTradingCo/status/1918953420800557099",
+    "fullText": "$MOMMY just in time.\n\nBkmRz8qd7WDkiX2ak6gX57DtgLbZeDDrXVx7k8cxaaPL",
+    "createdAt": "Sun May 04 08:58:42 +0000 2025"
   },
   {
     "user": {
@@ -1654,7 +1756,7 @@
       "name": "Google Gemini App",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1815873998682742785/xrPuqBjr_normal.jpg",
       "description": "We're the Gemini app team, your inside source for product news, tips & tricks, and unfiltered enthusiasm.",
-      "followersCount": 94528,
+      "followersCount": 94537,
       "friendsCount": 33,
       "location": "Mountain View, CA"
     },
