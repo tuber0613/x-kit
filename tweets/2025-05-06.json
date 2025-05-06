@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 25945,
+      "friendsCount": 926,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1919667114291691527/vid/avc1/2192x1080/TQgE86av_3IevWXe.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/1919670643169362273",
+    "fullText": "前两天比较火的一个模型，ChatDLM，生成速度确实快！\n\n它把Block Diffusion和MoE做了融合，在GPU上实现了2800 token/s的推理速度\n\n7B参数\n131k上下文，RoPE优化+分层缓存\n区块扩散，输入按块分组，空间扩散+跨块注意力\nMoE，32-64个专家，每次选2个参与\n推理速度，2800 token/s (A100)\n\n#LLM #ChatDLM https://t.co/Bymjd9HcyY",
+    "createdAt": "Tue May 06 08:28:41 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 85777,
+      "followersCount": 85778,
+      "friendsCount": 1147,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqQIqwIaoAAH68b.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/1919669181852877093",
+    "fullText": "写了一篇详细的教程\n\n教大家如何生成这种一图流模型或者产品介绍宣传图\n\n顺便教一下怎么用 Figma 修改从网页生成的图片 https://t.co/M2LqzyvOkB",
+    "createdAt": "Tue May 06 08:22:53 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
+      "followersCount": 85778,
       "friendsCount": 1147,
       "location": ""
     },
@@ -23,7 +59,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 86165,
+      "followersCount": 86167,
       "friendsCount": 416,
       "location": ""
     },
@@ -41,7 +77,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Open source generative AI. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
-      "followersCount": 270825,
+      "followersCount": 270826,
       "friendsCount": 19,
       "location": "London"
     },
@@ -59,7 +95,7 @@
       "name": "Andrej Karpathy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
       "description": "Building @EurekaLabsAI. Previously Director of AI @ Tesla, founding team @ OpenAI, CS231n/PhD @ Stanford. I like to train large deep neural nets 🧠🤖💥",
-      "followersCount": 1271683,
+      "followersCount": 1271701,
       "friendsCount": 975,
       "location": "Stanford"
     },
@@ -75,7 +111,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 402227,
+      "followersCount": 402231,
       "friendsCount": 1185,
       "location": "Austin, TX"
     },
@@ -91,7 +127,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 402227,
+      "followersCount": 402231,
       "friendsCount": 1185,
       "location": "Austin, TX"
     },
@@ -107,7 +143,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -125,7 +161,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -143,7 +179,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122560,
+      "followersCount": 122564,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -161,7 +197,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -179,7 +215,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -197,7 +233,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -215,7 +251,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -233,7 +269,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -251,7 +287,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -301,7 +337,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243942,
+      "followersCount": 243944,
       "friendsCount": 7864,
       "location": "United States"
     },
@@ -322,7 +358,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 25946,
+      "followersCount": 25945,
       "friendsCount": 926,
       "location": ""
     },
@@ -340,7 +376,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -359,7 +395,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461683,
+      "followersCount": 461680,
       "friendsCount": 5530,
       "location": "Maryland, USA"
     },
@@ -377,7 +413,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 243942,
+      "followersCount": 243944,
       "friendsCount": 7864,
       "location": "United States"
     },
@@ -393,7 +429,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 85777,
+      "followersCount": 85778,
       "friendsCount": 1147,
       "location": ""
     },
@@ -511,7 +547,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2541763,
+      "followersCount": 2541769,
       "friendsCount": 694,
       "location": "Bay Area"
     },
@@ -660,6 +696,24 @@
     "tweetUrl": "https://x.com/MLB/status/1919549625876275222",
     "fullText": "Christian Yelich crushes a 413-foot home run 💥 https://t.co/RFkLRbQpeQ",
     "createdAt": "Tue May 06 00:27:48 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Tennis",
+      "name": "TENNIS",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595070679904358400/mO_bgpZk_normal.jpg",
+      "description": "News: https://t.co/cRqDxhMbBd & Baseline 🗞️\nWatch Live Tennis: @TennisChannel 🎾\nPodcasts: https://t.co/AgayDZ3ZIb 🎧\nDownload the App: https://t.co/McVjj3i84Y",
+      "followersCount": 361700,
+      "friendsCount": 1304,
+      "location": "Everywhere"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1919547899199029251/vid/avc1/1080x1920/kAjZl3Bwe05gyr2C.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Tennis/status/1919548093453713682",
+    "fullText": "He’s back, happy, and single 😂 @janniksin https://t.co/G4vFQzPBRk",
+    "createdAt": "Tue May 06 00:21:43 +0000 2025"
   },
   {
     "user": {
@@ -857,7 +911,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 122560,
+      "followersCount": 122564,
       "friendsCount": 1312,
       "location": "Chicago, IL"
     },
@@ -1370,6 +1424,22 @@
     "tweetUrl": "https://x.com/hawaiianbros/status/1919438009709035596",
     "fullText": "Aloha, Phoenix, AZ! 🤙We’re officially open at 4520 E. Cactus Rd, Phoenix, AZ, 85032 and we can’t wait to meet you! If you’re in the area, stop by our new location today! 🎉 #hawaiianbros #hbros #grandopening #phoenix #arizona https://t.co/sALzSq5Bfm",
     "createdAt": "Mon May 05 17:04:17 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Kelley19433722",
+      "name": "Kelley #FREELGBT",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884592177247854592/EBRt7pAB_normal.jpg",
+      "description": "KELLEY | LGBT activist 🏳️‍🌈 Fighting for the rights of LGBT minorities. Support and Buy KELLEY #FREELGBT",
+      "followersCount": 4763,
+      "friendsCount": 1335,
+      "location": "安徽"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kelley19433722/status/1919424962944737297",
+    "fullText": "Like so many other Americans, Chris Cella fell out of the middle class and became an opioid addict. Here’s how he came back.",
+    "createdAt": "Mon May 05 16:12:27 +0000 2025"
   },
   {
     "user": {
