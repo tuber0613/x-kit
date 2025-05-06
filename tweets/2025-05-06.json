@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
+      "description": "Co-founder at @HuggingFace - open-source and open-science",
+      "followersCount": 87296,
+      "friendsCount": 5059,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqSvxQfWgAAd8rw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/1919852824373940429",
+    "fullText": "New open-source drop from the HF team - nanoVLM\n\nA super tight codebase to learn/train VLM with good performances - inspired by @karpathy 's NanoGPT\n\n750 lines of pytorch code. Training a 222M parameters nanoVLM for 6 hours on a single H100 reaches 35.3% on MMStar, matching the https://t.co/HPRyvV2ZQj",
+    "createdAt": "Tue May 06 20:32:37 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
+      "followersCount": 244019,
+      "friendsCount": 7865,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GqSvkQ1WYAAiSi7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1919852382835392690",
+    "fullText": "https://t.co/9gqaZ8wguu",
+    "createdAt": "Tue May 06 20:30:51 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "NVIDIAAI",
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "Solving the unsolvable with AI.",
-      "followersCount": 219903,
+      "followersCount": 219908,
       "friendsCount": 796,
       "location": "Santa Clara, CA"
     },
@@ -39,7 +75,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 136791,
+      "followersCount": 136802,
       "friendsCount": 4693,
       "location": "Miami / New York / Paris"
     },
@@ -73,7 +109,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 96015,
+      "followersCount": 96013,
       "friendsCount": 597,
       "location": "Stanford, CA"
     },
@@ -91,7 +127,7 @@
       "name": "gorklon rust",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919097976594837506/5JJEissI_normal.jpg",
       "description": "",
-      "followersCount": 220103140,
+      "followersCount": 220103636,
       "friendsCount": 1120,
       "location": ""
     },
@@ -109,7 +145,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2541890,
+      "followersCount": 2541899,
       "friendsCount": 694,
       "location": "Bay Area"
     },
@@ -177,7 +213,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2025079,
+      "followersCount": 2025102,
       "friendsCount": 762,
       "location": ""
     },
@@ -195,7 +231,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 194869,
+      "followersCount": 194868,
       "friendsCount": 29,
       "location": ""
     },
@@ -211,7 +247,7 @@
       "name": "AI at Meta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
       "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
-      "followersCount": 670708,
+      "followersCount": 670719,
       "friendsCount": 272,
       "location": ""
     },
@@ -229,7 +265,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916008581545267202/CcjBn7h1_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 554960,
+      "followersCount": 554975,
       "friendsCount": 5016,
       "location": "San Francisco, CA"
     },
@@ -245,7 +281,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77558,
+      "followersCount": 77554,
       "friendsCount": 1073,
       "location": "HQ: San Francisco, CA"
     },
@@ -263,7 +299,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916008581545267202/CcjBn7h1_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 554960,
+      "followersCount": 554975,
       "friendsCount": 5016,
       "location": "San Francisco, CA"
     },
@@ -281,7 +317,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 244017,
+      "followersCount": 244019,
       "friendsCount": 7865,
       "location": "United States"
     },
@@ -299,7 +335,7 @@
       "name": "gorklon rust",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919097976594837506/5JJEissI_normal.jpg",
       "description": "",
-      "followersCount": 220103140,
+      "followersCount": 220103636,
       "friendsCount": 1120,
       "location": ""
     },
@@ -317,7 +353,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2025079,
+      "followersCount": 2025102,
       "friendsCount": 762,
       "location": ""
     },
@@ -349,7 +385,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 175389,
+      "followersCount": 175391,
       "friendsCount": 6747,
       "location": ""
     },
@@ -365,7 +401,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 175389,
+      "followersCount": 175391,
       "friendsCount": 6747,
       "location": ""
     },
@@ -383,7 +419,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1737543874615349248/QRmHmR_N_normal.png",
       "description": "The future of AI is open-source. Let's build together.",
-      "followersCount": 47002,
+      "followersCount": 47000,
       "friendsCount": 373,
       "location": "San Francisco, CA"
     },
@@ -1888,8 +1924,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 232716,
-      "friendsCount": 8912,
+      "followersCount": 232725,
+      "friendsCount": 8913,
       "location": "ānanda tāṇḍava"
     },
     "images": [],
