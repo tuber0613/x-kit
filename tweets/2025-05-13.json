@@ -1,6 +1,74 @@
 [
   {
     "user": {
+      "screenName": "ESYudkowsky",
+      "name": "Eliezer Yudkowsky ⏹️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905066662250127360/5xxTWNZ5_normal.jpg",
+      "description": "The original AI alignment person.  Missing punctuation at the end of a sentence means it's humor.  If you're not sure, it's also very likely humor.",
+      "followersCount": 197813,
+      "friendsCount": 94,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ESYudkowsky/status/1922384253368627582",
+    "fullText": "🎵 We didn't start the fire 🎵 It arose from bad systemic incentives 🎵 And everyone is too angry about the object level to fix that boring meta stuff 🎵 No we didn't light it but we're trying to fight it 🎵",
+    "createdAt": "Tue May 13 20:11:36 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 137332,
+      "friendsCount": 4696,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq2tEb-XkAAPNPh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/1922383289408491629",
+    "fullText": "8x faster/cheaper @openai Whisper API thanks to Hugging Face Inference Endpoints &amp; @vllm_project! https://t.co/STYu1z5Kdv",
+    "createdAt": "Tue May 13 20:07:47 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "AGI.Eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
+      "followersCount": 154200,
+      "friendsCount": 4996,
+      "location": "Montréal, Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq2npB5XMAE5IkT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/1922376943116173623",
+    "fullText": "[ Autonomous Meta-Agentic α‑AGI Businesses  👁️✨ ]\n\nGitHub: https://t.co/K8vUQf1Onu\n\n#AGIALPHA #MetaAgentic #ASIFirst https://t.co/fTDCoAUiD0",
+    "createdAt": "Tue May 13 19:42:33 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Alber_RomGar",
+      "name": "Alberto Romero",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804979360853635072/kQtXMC_3_normal.jpg",
+      "description": "Writes a blog about AI that's actually about people",
+      "followersCount": 4830,
+      "friendsCount": 1063,
+      "location": "Madrid, Spain"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alber_RomGar/status/1922375598275436866",
+    "fullText": "How to use AI better\n\nApply these 10 lessons to increase the value you get out of AI 10x (or some other number that you find comfortable believing). These are not simple prompts or dumb slogans that sound nice but are useless. These are deep mindset reframes. Take your time to",
+    "createdAt": "Tue May 13 19:37:13 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Kyle_L_Wiggers",
       "name": "Kyle Wiggers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1836973800082063360/X_1Y4dGj_normal.jpg",
@@ -17,11 +85,29 @@
   },
   {
     "user": {
+      "screenName": "Box",
+      "name": "Box",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895242965435486208/Wfw2p9DY_normal.png",
+      "description": "Secure your content and power collaboration on one platform with Box. Questions about your account or need product support? Tweet @BoxSupport.",
+      "followersCount": 76764,
+      "friendsCount": 3159,
+      "location": "Content + AI "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq2lBwFXEAA1-Kw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Box/status/1922374086635766114",
+    "fullText": "Recently, @Google released early access to Gemini 2.5 Pro Preview (I/O edition), an updated version of 2.5 Pro that has significantly improved capabilities for coding, especially building compelling interactive web apps. Box evaluated the previous version of Gemini 2.5 Pro, so https://t.co/7JAjG3Gu5I",
+    "createdAt": "Tue May 13 19:31:12 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 59151,
+      "followersCount": 59152,
       "friendsCount": 33437,
       "location": "latent space"
     },
@@ -39,7 +125,7 @@
       "name": "Chris Olah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1422800200146378753/TdaSuRIB_normal.jpg",
       "description": "Reverse engineering neural networks at @AnthropicAI. Previously @distillpub, OpenAI Clarity Team, Google Brain. Personal account.",
-      "followersCount": 113947,
+      "followersCount": 113961,
       "friendsCount": 177,
       "location": "San Francisco, CA"
     },
@@ -55,7 +141,7 @@
       "name": "Shivon Zilis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
       "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
-      "followersCount": 193198,
+      "followersCount": 193203,
       "friendsCount": 1702,
       "location": "Palo Alto, CA"
     },
@@ -71,7 +157,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 59151,
+      "followersCount": 59152,
       "friendsCount": 33437,
       "location": "latent space"
     },
@@ -87,7 +173,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 402589,
+      "followersCount": 402590,
       "friendsCount": 1190,
       "location": "Austin, TX"
     },
@@ -121,7 +207,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 244138,
+      "followersCount": 244136,
       "friendsCount": 7868,
       "location": "United States"
     },
@@ -139,7 +225,7 @@
       "name": "Lex Fridman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1854713863817646088/nTmsz7jR_normal.jpg",
       "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
-      "followersCount": 4326380,
+      "followersCount": 4326450,
       "friendsCount": 532,
       "location": "Austin and Boston"
     },
@@ -155,7 +241,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919875122426793984/0PfPxj1q_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 556989,
+      "followersCount": 557012,
       "friendsCount": 5030,
       "location": "San Francisco, CA"
     },
@@ -173,7 +259,7 @@
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 349077,
+      "followersCount": 349087,
       "friendsCount": 1304,
       "location": "CA"
     },
@@ -204,11 +290,27 @@
   },
   {
     "user": {
+      "screenName": "OscarUrdanet",
+      "name": "Oscar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1805740965790973952/434goTl6_normal.jpg",
+      "description": "America First! MAGA. Strategic consulting, Industrial Engineer, MBA, father, common sense, no DMs",
+      "followersCount": 9137,
+      "friendsCount": 8747,
+      "location": "Florida, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OscarUrdanet/status/1922350002443321379",
+    "fullText": "Suddenly, Powell's Fed isn't \"data dependent\" anymore? Given the available data, he had to lower interest rates at least 50 basis points, but he didn't, waiting for future data that might show the Fed's desire for an excuse not to lower them. We have inflation comparable to",
+    "createdAt": "Tue May 13 17:55:30 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 291580,
+      "followersCount": 291573,
       "friendsCount": 745,
       "location": "iPhone: 34.060616,-118.444359"
     },
@@ -224,7 +326,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 550266,
+      "followersCount": 550273,
       "friendsCount": 807,
       "location": "United States"
     },
@@ -240,7 +342,7 @@
       "name": "Noam Brown",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1872883170292457472/8ywVGO5M_normal.jpg",
       "description": "Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o1 / 🍓",
-      "followersCount": 79107,
+      "followersCount": 79109,
       "friendsCount": 808,
       "location": "San Francisco, CA"
     },
@@ -256,7 +358,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6Xbx\nhttps://t.co/MXGUBJoMi4\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7SeM",
-      "followersCount": 842816,
+      "followersCount": 842804,
       "friendsCount": 48,
       "location": "The Cloud"
     },
@@ -274,7 +376,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 462005,
+      "followersCount": 462001,
       "friendsCount": 5531,
       "location": "Maryland, USA"
     },
@@ -290,7 +392,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77560,
+      "followersCount": 77561,
       "friendsCount": 1074,
       "location": "HQ: San Francisco, CA"
     },
@@ -308,7 +410,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 59151,
+      "followersCount": 59152,
       "friendsCount": 33437,
       "location": "latent space"
     },
@@ -326,7 +428,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870151418864140289/LPX3j0s7_normal.jpg",
       "description": "Building for the next era of art, entertainment and human creativity. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 245785,
+      "followersCount": 245787,
       "friendsCount": 315,
       "location": "New York, USA"
     },
@@ -347,7 +449,7 @@
       "name": "AI at Meta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
       "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
-      "followersCount": 672107,
+      "followersCount": 672118,
       "friendsCount": 272,
       "location": ""
     },
@@ -358,6 +460,24 @@
     "tweetUrl": "https://x.com/AIatMeta/status/1922336057405931850",
     "fullText": "CATransformers is a carbon-driven neural architecture and system hardware co-design framework. Using CATransformers, we discover greener CLIP models that achieve an average of 9.1% reduction potential in total lifecycle carbon emissions while maintaining accuracy (or increasing https://t.co/wtgtiAnO80",
     "createdAt": "Tue May 13 17:00:06 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "AgreeHQ",
+      "name": "Agree.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894237600472240128/4mwrviNx_normal.jpg",
+      "description": "An all-in-one agreements platform with better e-signature, smarter invoicing, and faster payment processing; powered by AI.",
+      "followersCount": 5436,
+      "friendsCount": 63,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922333746553827328/vid/avc1/1920x1080/aX-Mp2ENcKraQkVg.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/AgreeHQ/status/1922334880912048558",
+    "fullText": "Money moves faster on Agree™ — introducing the fastest path from signature to revenue. Go directly from contract to cash with better e-signature, smarter invoicing, a faster payments ... all-in-one. https://t.co/BJ2bKI9wVh",
+    "createdAt": "Tue May 13 16:55:25 +0000 2025"
   },
   {
     "user": {
@@ -394,6 +514,22 @@
     "tweetUrl": "https://x.com/KirkDBorne/status/1922330728777339198",
     "fullText": "[700-page PDF e-Book] #Algorithms for Decision-Making — brilliant and comprehensive eBook from MIT: https://t.co/cZde89XPxi https://t.co/GyqEwsQYiP",
     "createdAt": "Tue May 13 16:38:55 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "donwinslow",
+      "name": "Don Winslow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1647525880430993409/60HaCvHF_normal.jpg",
+      "description": "#1 bestselling author\n\nAuthor of 3 New York Times Critics Choice Best Books of the Year\n\n#WinslowDigitalArmy  \n\nFind great books by following: @WinslowBookClub",
+      "followersCount": 890233,
+      "friendsCount": 36273,
+      "location": "Tweets are just my opinion"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/donwinslow/status/1922330693402591584",
+    "fullText": "I'm back.\n\nCrime Novelist Don Winslow Unretires For ‘The Final Score’ https://t.co/eQP6TKlOCk via @Deadline",
+    "createdAt": "Tue May 13 16:38:47 +0000 2025"
   },
   {
     "user": {
@@ -730,6 +866,24 @@
     "tweetUrl": "https://x.com/_akhaliq/status/1922315470478139537",
     "fullText": "Blazingly fast whisper transcriptions with Inference Endpoints https://t.co/92ISrUKN0h",
     "createdAt": "Tue May 13 15:38:17 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "CAKOvalik",
+      "name": "CAKO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920526754445213696/SrfxEwVF_normal.jpg",
+      "description": "current: @heyheartfelt | former @RockstarGames @RiotGames @rushdownrevolt and @iconsarena",
+      "followersCount": 1696,
+      "friendsCount": 923,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gq1vNUSWcAEuDRV.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CAKOvalik/status/1922314913071943830",
+    "fullText": "My dad couldn't find one of his air pods. Then he took the new puppy to the vet https://t.co/8gxgXyubOz",
+    "createdAt": "Tue May 13 15:36:04 +0000 2025"
   },
   {
     "user": {
@@ -1924,7 +2078,7 @@
       "name": "Sean Wheeler, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/502943682551504896/PF7kgDzJ_normal.jpeg",
       "description": "#BackPain Expert & Doctor | Author: 'UPRISE2’ coming soon | President Bodyguitar Clinic | Spine & Body Podcast | Proud Husband and Father",
-      "followersCount": 1247,
+      "followersCount": 1250,
       "friendsCount": 314,
       "location": "United States"
     },
@@ -2303,6 +2457,22 @@
     "tweetUrl": "https://x.com/msectors/status/1921936112827666700",
     "fullText": "Changes are occurring to the MicroSectors™ FANG+™ 3X Leveraged ETNs.  Why? \n\n$FNGA (formerly $FNGU) was launched in January 2018 with fees and charges that reflected the then-current market environment. BMO is redeeming the FNGA ETNs because the costs associated with supporting https://t.co/r3ix6yxqXB",
     "createdAt": "Mon May 12 14:30:51 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "OldGloryBank",
+      "name": "Old Glory Bank",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870178230881103872/h-1Z4GoN_normal.jpg",
+      "description": "It's a free country. Bank like it.",
+      "followersCount": 23690,
+      "friendsCount": 91,
+      "location": "Sea to Shining Sea"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OldGloryBank/status/1921916602955567595",
+    "fullText": "Big news for our veterans!  President Trump is building a national center for homeless veterans using funds previously allocated for illegal immigrants.\n\nAt Old Glory Bank, our co-founders John Rich, Dr. Ben Carson, and Larry Elder are leading the charge with the McFadden",
+    "createdAt": "Mon May 12 13:13:20 +0000 2025"
   },
   {
     "user": {
