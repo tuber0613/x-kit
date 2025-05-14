@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 26417,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1922607766381924352/vid/avc1/1080x1408/NM_Kfofd-28sIOp_.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/1922609890905747588",
+    "fullText": "一款延迟超低的端到端语音模型：VITA-Audio，7B参数，首次生成音频53ms，比同规模模型快3–5倍\n\n核心是它在第一次前向传播中直接生成可解码的Audio Token Chunk\n\n与传统的自回归模型需要多次迭代生成不同，它通过预填充token的机制，使模型在接收到输入后立即开始生成音频，来响应速度 https://t.co/m1DIQo75z8",
+    "createdAt": "Wed May 14 11:08:13 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "paulg",
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2024167,
+      "followersCount": 2024183,
       "friendsCount": 763,
       "location": ""
     },
@@ -22,7 +40,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
       "description": "Co-founder at @HuggingFace - open-source and open-science",
       "followersCount": 87463,
-      "friendsCount": 5083,
+      "friendsCount": 5084,
       "location": ""
     },
     "images": [],
@@ -37,7 +55,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2024167,
+      "followersCount": 2024183,
       "friendsCount": 763,
       "location": ""
     },
@@ -53,8 +71,8 @@
       "name": "gorklon rust",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919097976594837506/5JJEissI_normal.jpg",
       "description": "",
-      "followersCount": 219896262,
-      "friendsCount": 1131,
+      "followersCount": 219897210,
+      "friendsCount": 1132,
       "location": ""
     },
     "images": [
@@ -71,7 +89,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 86761,
+      "followersCount": 86766,
       "friendsCount": 1149,
       "location": ""
     },
@@ -90,8 +108,8 @@
       "name": "gorklon rust",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919097976594837506/5JJEissI_normal.jpg",
       "description": "",
-      "followersCount": 219896262,
-      "friendsCount": 1131,
+      "followersCount": 219897210,
+      "friendsCount": 1132,
       "location": ""
     },
     "images": [],
@@ -106,7 +124,7 @@
       "name": "Michael Black",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
       "description": "Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Chief Scientist @meshcapade. Building 3D digital humans using vision, graphics, and learning.",
-      "followersCount": 77572,
+      "followersCount": 77576,
       "friendsCount": 677,
       "location": "Tübingen, Deutschland"
     },
@@ -122,8 +140,8 @@
       "name": "gorklon rust",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919097976594837506/5JJEissI_normal.jpg",
       "description": "",
-      "followersCount": 219896262,
-      "friendsCount": 1131,
+      "followersCount": 219897210,
+      "friendsCount": 1132,
       "location": ""
     },
     "images": [],
@@ -140,7 +158,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 402599,
+      "followersCount": 402608,
       "friendsCount": 1191,
       "location": "Austin, TX"
     },
@@ -174,7 +192,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 26416,
+      "followersCount": 26417,
       "friendsCount": 931,
       "location": ""
     },
@@ -210,7 +228,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461942,
+      "followersCount": 461946,
       "friendsCount": 5531,
       "location": "Maryland, USA"
     },
@@ -228,7 +246,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461942,
+      "followersCount": 461946,
       "friendsCount": 5531,
       "location": "Maryland, USA"
     },
@@ -246,7 +264,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 461942,
+      "followersCount": 461946,
       "friendsCount": 5531,
       "location": "Maryland, USA"
     },
@@ -264,7 +282,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 26416,
+      "followersCount": 26417,
       "friendsCount": 931,
       "location": ""
     },
@@ -282,7 +300,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 86761,
+      "followersCount": 86766,
       "friendsCount": 1149,
       "location": ""
     },
@@ -1024,7 +1042,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2538733,
+      "followersCount": 2538742,
       "friendsCount": 693,
       "location": "Bay Area"
     },
@@ -1220,7 +1238,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 175614,
+      "followersCount": 175616,
       "friendsCount": 6750,
       "location": ""
     },
@@ -1303,6 +1321,22 @@
     "tweetUrl": "https://x.com/SPOG1952/status/1922074796386394338",
     "fullText": "The @SeattleChannel &amp; @callananseattle are hosting @CMBobKettle &amp; @CMRobSaka to discuss public safety in Seattle, and need questions from the X community. Please reply with your public safety questions for the council members. https://t.co/TWt13JIvoZ",
     "createdAt": "Mon May 12 23:41:56 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "The_PrimeHouse",
+      "name": "The Prime House Direct",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1829596220261576705/8J3Rd9Az_normal.jpg",
+      "description": "Prime House Direct is the top choice for your online butcher. 100% American grown and sourced from regional suppliers.",
+      "followersCount": 859,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/The_PrimeHouse/status/1922046127672586482",
+    "fullText": "Our BEST deal EVER. \n* 12 Ribeyes\n* 16 FREE Burgers\n* FREE Shipping\n* An incredible $2.61/per serving!\n\nhttps://t.co/mYfprMp0a4",
+    "createdAt": "Mon May 12 21:48:01 +0000 2025"
   },
   {
     "user": {
