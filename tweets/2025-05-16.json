@@ -1,11 +1,113 @@
 [
   {
     "user": {
+      "screenName": "gdb",
+      "name": "Greg Brockman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+      "description": "President & Co-Founder @OpenAI",
+      "followersCount": 800136,
+      "friendsCount": 32,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gdb/status/1923401740986052770",
+    "fullText": "Just released Codex, a software engineering agent that can work on many tasks in parallel.\n\nIt runs on its own cloud-based compute infrastructure, and can fix bugs, answer questions about your code, run tests, etc..\n\nFeels like a step towards the future of software engineering.",
+    "createdAt": "Fri May 16 15:34:44 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 550182,
+      "friendsCount": 807,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/1923401713970454782",
+    "fullText": "Most of the time, it doesn't matter that some technology can't do something yet, because you can tell it's only a matter of incremental refinement.\n\nBut sometimes, you should pay close attention, because the failure tells you something important about  the nature of the system.",
+    "createdAt": "Fri May 16 15:34:38 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "lmarena_ai",
+      "name": "lmarena.ai (formerly lmsys.org)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641380096778055681/xRrCcdkf_normal.jpg",
+      "description": "LMArena: Open Platform for Crowdsourced AI Benchmarking. Test out the new Beta: https://t.co/Ar0MTCl5EC! Officially graduated from @lmsysorg!",
+      "followersCount": 79064,
+      "friendsCount": 204,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrFIXYHbUAE_ueu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lmarena_ai/status/1923398953468678529",
+    "fullText": "📣 Starting next week, Style Control will be the default view on the LMArena leaderboard!\n\nWe introduced Style Control last summer to help disentangle a model's response quality from stylistic factors like response length and markdown formats. Many of you said it better reflects https://t.co/vxqHbGWKSV",
+    "createdAt": "Fri May 16 15:23:40 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 3719627,
+      "friendsCount": 956,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/1923398457747787817",
+    "fullText": "today we are introducing codex.\n\nit is a software engineering agent that runs in the cloud and does tasks for you, like writing a new feature of fixing a bug.\n\nyou can run many tasks in parallel.",
+    "createdAt": "Fri May 16 15:21:41 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 407149,
+      "friendsCount": 503,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1923397787431182336/vid/avc1/1280x720/S5vTLlq0tGZ5mK6a.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/1923397980415213896",
+    "fullText": "Zerve has been the best platform for writing data science code for a while.\n\nIt's 100x better than Jupyter notebooks.\n\nNow, they have a specialized, fine-tuned AI assistant who knows all about data science code and how to use the platform.\n\nThis is a killer feature.\n\nA generalist https://t.co/YzPHaFVXpl",
+    "createdAt": "Fri May 16 15:19:48 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
+      "followersCount": 244158,
+      "friendsCount": 7869,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GrFH30lXMAEoIdp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1923397545868341328",
+    "fullText": "You can’t BS people about their own life and money. https://t.co/SWtYWxUOy2",
+    "createdAt": "Fri May 16 15:18:04 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "databricks",
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77785,
+      "followersCount": 77786,
       "friendsCount": 1077,
       "location": "HQ: San Francisco, CA"
     },
@@ -23,7 +125,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 77785,
+      "followersCount": 77786,
       "friendsCount": 1077,
       "location": "HQ: San Francisco, CA"
     },
@@ -77,7 +179,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 291500,
+      "followersCount": 291505,
       "friendsCount": 745,
       "location": "iPhone: 34.060616,-118.444359"
     },
@@ -111,7 +213,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4137483,
+      "followersCount": 4137554,
       "friendsCount": 3,
       "location": ""
     },
@@ -127,7 +229,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 175669,
+      "followersCount": 175668,
       "friendsCount": 6753,
       "location": ""
     },
@@ -146,7 +248,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 557869,
+      "followersCount": 557873,
       "friendsCount": 5032,
       "location": "San Francisco, CA"
     },
@@ -165,7 +267,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6Xbx\nhttps://t.co/MXGUBJoMi4\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7SeM",
-      "followersCount": 842358,
+      "followersCount": 842364,
       "friendsCount": 49,
       "location": "The Cloud"
     },
@@ -183,9 +285,9 @@
       "name": "汗青 HQ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1648380454565998592/mQ6cXuD0_normal.jpg",
       "description": "🤖AIGC & Arts, AI Talk: https://t.co/2adHqwLrud, https://t.co/cl3dVvAhc2",
-      "followersCount": 20068,
+      "followersCount": 20083,
       "friendsCount": 527,
-      "location": "Tokyo-to, Japan"
+      "location": "日本 東京"
     },
     "images": [
       "https://pbs.twimg.com/media/GrE74f7acAAQ5xK.jpg",
@@ -204,7 +306,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 557869,
+      "followersCount": 557873,
       "friendsCount": 5032,
       "location": "San Francisco, CA"
     },
@@ -553,6 +655,22 @@
   },
   {
     "user": {
+      "screenName": "Displate",
+      "name": "Displate",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1697231167966113792/D7Dh1_XG_normal.jpg",
+      "description": "Collect. Connect. Hang.",
+      "followersCount": 64466,
+      "friendsCount": 294,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Displate/status/1923308801509220516",
+    "fullText": "The Biggest Sale of the year is here!  Up to 40% OFF on all Displate Metal Posters! \n\nDon't miss out on this year's Displate Birthday Sale 🎁✨",
+    "createdAt": "Fri May 16 09:25:26 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "bentossell",
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
@@ -788,7 +906,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2535765,
+      "followersCount": 2535772,
       "friendsCount": 693,
       "location": "Bay Area"
     },
@@ -1138,7 +1256,7 @@
       "name": "Hebbia",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1810137626638483456/bUFO8ceN_normal.jpg",
       "description": "The AI agent platform for investors, bankers, and lawyers.\n\nSave hours of your life and get better work done. \n\nBook a demo 👉",
-      "followersCount": 6011,
+      "followersCount": 6013,
       "friendsCount": 239,
       "location": "hello@hebbia.com"
     },
@@ -1370,11 +1488,29 @@
   },
   {
     "user": {
+      "screenName": "Tennis",
+      "name": "TENNIS",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595070679904358400/mO_bgpZk_normal.jpg",
+      "description": "News: https://t.co/cRqDxhMbBd & Baseline 🗞️\nWatch Live Tennis: @TennisChannel 🎾\nPodcasts: https://t.co/AgayDZ3ZIb 🎧\nDownload the App: https://t.co/McVjj3i84Y",
+      "followersCount": 360851,
+      "friendsCount": 1303,
+      "location": "Everywhere"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1923133570069200896/vid/avc1/1080x1920/1mysP1JtZ1JhBoFh.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Tennis/status/1923133825497841935",
+    "fullText": "Ruud on Sinner’s performance: “next level sh*t”\n\n@janniksin’s response: 🤷‍♂️ https://t.co/5OvDuVCXjp",
+    "createdAt": "Thu May 15 21:50:08 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "_KarenHao",
       "name": "Karen Hao",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905964698631380993/kWKDXj4K_normal.jpg",
       "description": "ai reporter & author. national magazine award winner. words in @theatlantic. formerly @wsj @techreview. pre-order my book EMPIRE OF AI (May 20): https://t.co/wh5mCWbuwQ.",
-      "followersCount": 67603,
+      "followersCount": 67604,
       "friendsCount": 1186,
       "location": "Hong Kong"
     },
