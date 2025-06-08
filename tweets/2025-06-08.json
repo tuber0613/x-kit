@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "svlevine",
+      "name": "Sergey Levine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/990434811662680064/BKCbJypl_normal.jpg",
+      "description": "Associate Professor at UC Berkeley\nCo-founder, Physical Intelligence",
+      "followersCount": 100863,
+      "friendsCount": 127,
+      "location": "Berkeley, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svlevine/status/1931796654233194534",
+    "fullText": "I always found it puzzling how language models learn so much from next-token prediction, while video models learn so little from next frame prediction. Maybe it's because LLMs are actually brain scanners in disguise. Idle musings in my new blog post: https://t.co/BxInvWx4y0",
+    "createdAt": "Sun Jun 08 19:33:08 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
+      "followersCount": 59552,
+      "friendsCount": 33533,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs8ereBXkAANccV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/1931796502051185059",
+    "fullText": "the nightmares won’t stop for long https://t.co/vuMl34U03z",
+    "createdAt": "Sun Jun 08 19:32:31 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
+      "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
+      "followersCount": 177930,
+      "friendsCount": 6779,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs8bEtnb0AAiegK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/1931792535254671686",
+    "fullText": "A lot of people are as shitty towards @Aella_Girl as they often are to me, just because we both seek truth, care about data, and dare to be different.\n\nWhat a pitiful group of losers. 🤦‍♂️ https://t.co/pULhXmY48b",
+    "createdAt": "Sun Jun 08 19:16:46 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 412136,
+      "friendsCount": 507,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/1931792093422526693",
+    "fullText": "Coding is easy. Thinking is hard.",
+    "createdAt": "Sun Jun 08 19:15:00 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "levie",
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2538911,
+      "followersCount": 2538946,
       "friendsCount": 696,
       "location": "Bay Area"
     },
@@ -21,7 +89,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 59553,
+      "followersCount": 59552,
       "friendsCount": 33533,
       "location": "latent space"
     },
@@ -37,7 +105,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 565301,
+      "followersCount": 565321,
       "friendsCount": 5053,
       "location": "San Francisco, CA"
     },
@@ -55,7 +123,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 59553,
+      "followersCount": 59552,
       "friendsCount": 33533,
       "location": "latent space"
     },
@@ -71,7 +139,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 245839,
+      "followersCount": 245838,
       "friendsCount": 7880,
       "location": "United States"
     },
@@ -89,7 +157,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 199367,
+      "followersCount": 199368,
       "friendsCount": 32,
       "location": ""
     },
@@ -107,7 +175,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I share insights on how to build with LLMs & AI Agents ⬇️",
-      "followersCount": 248168,
+      "followersCount": 248187,
       "friendsCount": 612,
       "location": ""
     },
@@ -125,7 +193,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 78417,
+      "followersCount": 78418,
       "friendsCount": 1079,
       "location": "HQ: San Francisco, CA"
     },
@@ -145,7 +213,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 59553,
+      "followersCount": 59552,
       "friendsCount": 33533,
       "location": "latent space"
     },
@@ -163,7 +231,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 199367,
+      "followersCount": 199368,
       "friendsCount": 32,
       "location": ""
     },
@@ -197,7 +265,7 @@
       "name": "Eliezer Yudkowsky ⏹️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905066662250127360/5xxTWNZ5_normal.jpg",
       "description": "The original AI alignment person.  Missing punctuation at the end of a sentence means it's humor.  If you're not sure, it's also very likely humor.",
-      "followersCount": 199731,
+      "followersCount": 199723,
       "friendsCount": 94,
       "location": ""
     },
@@ -213,7 +281,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 59553,
+      "followersCount": 59552,
       "friendsCount": 33533,
       "location": "latent space"
     },
@@ -229,7 +297,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 177906,
+      "followersCount": 177930,
       "friendsCount": 6779,
       "location": ""
     },
@@ -245,7 +313,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 320398,
+      "followersCount": 320394,
       "friendsCount": 20709,
       "location": "Cambridge, MA"
     },
@@ -263,7 +331,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 199367,
+      "followersCount": 199368,
       "friendsCount": 32,
       "location": ""
     },
@@ -281,7 +349,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 245839,
+      "followersCount": 245838,
       "friendsCount": 7880,
       "location": "United States"
     },
@@ -299,7 +367,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn how to build with AI in our new AI Academy: https://t.co/zQXQt0Pem8",
-      "followersCount": 73364,
+      "followersCount": 73358,
       "friendsCount": 1,
       "location": ""
     },
