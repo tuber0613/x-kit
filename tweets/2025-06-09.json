@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 26972,
+      "friendsCount": 957,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1931904588636188673/vid/avc1/1920x1080/rBpFbNXTED_Vn1_L.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/1931973463469896172",
+    "fullText": "Ilya Sutskever 前两天在多伦多大学的演讲中提到的观点：总有一天，AI将覆盖人类所有技能领域，原因是人脑是生物计算机，数字计算机也终将具备同等能力 https://t.co/3VBlckDV05",
+    "createdAt": "Mon Jun 09 07:15:42 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 412195,
+      "friendsCount": 507,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/1931973038150713721",
+    "fullText": "11 ways AI/ML projects die before they even launch:\n\n1. The problem doesn't need AI\n2. There was no clear success metric\n3. The solution solves a problem no one cares about\n4. Data distribution changes, and no one notices\n5. No feedback is built into the product\n6. Inference",
+    "createdAt": "Mon Jun 09 07:14:01 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
+      "followersCount": 90082,
+      "friendsCount": 1161,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs-6x5zakAAFYXf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/1931968231478059383",
+    "fullText": "前几天发了 FLUX Kontext 的很多案例\n\n虽然大概教了一下怎么用，但还是有很多人不会\n\n这次刚好发现 Liblib 上线了 Kontext，不需要本地跑 Comfyui ，可以在线处理\n\n索性手把手一步一步教大家用\n\n顺便分享一下常见用法的 Comfyui 工作流 https://t.co/8Qwc3m1ngM",
+    "createdAt": "Mon Jun 09 06:54:55 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Michael_J_Black",
       "name": "Michael Black",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
       "description": "Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Chief Scientist @meshcapade. Building 3D digital humans using vision, graphics, and learning.",
-      "followersCount": 79164,
+      "followersCount": 79167,
       "friendsCount": 685,
       "location": "Tübingen, Deutschland"
     },
@@ -23,7 +75,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 178318,
+      "followersCount": 178334,
       "friendsCount": 6782,
       "location": ""
     },
@@ -41,7 +93,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 406809,
+      "followersCount": 406796,
       "friendsCount": 1210,
       "location": "Austin, TX"
     },
@@ -57,7 +109,7 @@
       "name": "Yi Ma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
       "description": "Chair Professor in AI, Director of School of CDS, HKU.\nVisiting Professor of EECS, UC Berkeley.\nPursuing a principled and unified theory for Intelligence.",
-      "followersCount": 94858,
+      "followersCount": 94860,
       "friendsCount": 368,
       "location": "Hong Kong and Berkeley"
     },
@@ -76,7 +128,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1926284313365979137/o2cF3MeJ_normal.jpg",
       "description": "",
-      "followersCount": 220972683,
+      "followersCount": 220971899,
       "friendsCount": 1142,
       "location": ""
     },
@@ -94,7 +146,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1926284313365979137/o2cF3MeJ_normal.jpg",
       "description": "",
-      "followersCount": 220972683,
+      "followersCount": 220971899,
       "friendsCount": 1142,
       "location": ""
     },
@@ -112,7 +164,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 26970,
+      "followersCount": 26972,
       "friendsCount": 957,
       "location": ""
     },
@@ -148,7 +200,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 178318,
+      "followersCount": 178334,
       "friendsCount": 6782,
       "location": ""
     },
@@ -164,7 +216,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 245870,
+      "followersCount": 245874,
       "friendsCount": 7881,
       "location": "United States"
     },
@@ -180,7 +232,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 406809,
+      "followersCount": 406796,
       "friendsCount": 1210,
       "location": "Austin, TX"
     },
@@ -196,7 +248,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 245870,
+      "followersCount": 245874,
       "friendsCount": 7881,
       "location": "United States"
     },
@@ -212,7 +264,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @playground_ai,  @mixpanel\nPizzatarian, programmer, music maker",
-      "followersCount": 363298,
+      "followersCount": 363292,
       "friendsCount": 507,
       "location": ""
     },
@@ -228,7 +280,7 @@
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 353589,
+      "followersCount": 353592,
       "friendsCount": 1323,
       "location": "CA"
     },
@@ -246,7 +298,7 @@
       "name": "Eliezer Yudkowsky ⏹️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905066662250127360/5xxTWNZ5_normal.jpg",
       "description": "The original AI alignment person.  Missing punctuation at the end of a sentence means it's humor.  If you're not sure, it's also very likely humor.",
-      "followersCount": 199729,
+      "followersCount": 199734,
       "friendsCount": 94,
       "location": ""
     },
@@ -262,7 +314,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "I make apps grow really fast. advisor @solana @xai @lightspeedvp. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 503443,
+      "followersCount": 503480,
       "friendsCount": 1924,
       "location": "Los Angeles"
     },
@@ -280,7 +332,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464147,
+      "followersCount": 464146,
       "friendsCount": 5534,
       "location": "Maryland, USA"
     },
@@ -298,7 +350,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "I make apps grow really fast. advisor @solana @xai @lightspeedvp. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 503443,
+      "followersCount": 503480,
       "friendsCount": 1924,
       "location": "Los Angeles"
     },
