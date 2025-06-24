@@ -1,6 +1,59 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 125593,
+      "friendsCount": 1323,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuL6PlOWwAEdWZO.jpg",
+      "https://pbs.twimg.com/media/GuL6TpQWEAAlK9S.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1937386190216327374",
+    "fullText": "最近借助 Claude Code 给 WhisperKit 贡献了 2 个 PR，都成功合并了。修复了个文件名包含句号出错的 bug，以及给 cli 加上了转译进度条。 https://t.co/ADT0Vk9OPJ",
+    "createdAt": "Tue Jun 24 05:43:57 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
+      "followersCount": 575624,
+      "friendsCount": 5075,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/1937381039929983129",
+    "fullText": "At a party tonight with politically active San Franciscans and we were just thinking... wow, NYC is cooked.",
+    "createdAt": "Tue Jun 24 05:23:29 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 408101,
+      "friendsCount": 1237,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937379932142764032/vid/avc1/628x1116/LCJ33j7rLKtnWLHk.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Austen/status/1937379999482339343",
+    "fullText": "I don’t say this lightly: \n\nZohran Mamdani’s proposal for New York City to drive down food prices by having the city run its own grocery stores is the most economically delusional thing I’ve seen in a long time.\n\nWhat planet do these people live on? https://t.co/imdKGpZegp",
+    "createdAt": "Tue Jun 24 05:19:21 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "aigclink",
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
@@ -23,7 +76,7 @@
       "name": "汗青 HQ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
       "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | Japan | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
-      "followersCount": 29643,
+      "followersCount": 29642,
       "friendsCount": 564,
       "location": "Tokyo-to, Japan"
     },
@@ -41,7 +94,7 @@
       "name": "sarah guo // conviction",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 114141,
+      "followersCount": 114143,
       "friendsCount": 2930,
       "location": "on ⛓"
     },
@@ -59,7 +112,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 91130,
+      "followersCount": 91129,
       "friendsCount": 1164,
       "location": ""
     },
@@ -80,7 +133,7 @@
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "Consultant & keynote speaker on digital growth and customer innovation. Anti-CBDC, free speech absolutist. TechMoat Consulting. Tech Strategy Podcast.",
-      "followersCount": 5495,
+      "followersCount": 5496,
       "friendsCount": 958,
       "location": "Singapore"
     },
@@ -98,7 +151,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 408106,
+      "followersCount": 408101,
       "friendsCount": 1237,
       "location": "Austin, TX"
     },
@@ -150,7 +203,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 409505,
+      "followersCount": 409511,
       "friendsCount": 3001,
       "location": ""
     },
@@ -168,7 +221,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 91130,
+      "followersCount": 91129,
       "friendsCount": 1164,
       "location": ""
     },
@@ -188,7 +241,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 408106,
+      "followersCount": 408101,
       "friendsCount": 1237,
       "location": "Austin, TX"
     },
@@ -204,7 +257,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @playground_ai,  @mixpanel\nPizzatarian, programmer, music maker",
-      "followersCount": 365846,
+      "followersCount": 365851,
       "friendsCount": 511,
       "location": ""
     },
@@ -220,7 +273,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 409505,
+      "followersCount": 409511,
       "friendsCount": 3001,
       "location": ""
     },
@@ -256,7 +309,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 409505,
+      "followersCount": 409511,
       "friendsCount": 3001,
       "location": ""
     },
@@ -274,7 +327,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 409505,
+      "followersCount": 409511,
       "friendsCount": 3001,
       "location": ""
     },
@@ -292,7 +345,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 409505,
+      "followersCount": 409511,
       "friendsCount": 3001,
       "location": ""
     },
@@ -328,7 +381,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @playground_ai,  @mixpanel\nPizzatarian, programmer, music maker",
-      "followersCount": 365846,
+      "followersCount": 365851,
       "friendsCount": 511,
       "location": ""
     },
@@ -362,7 +415,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2540172,
+      "followersCount": 2540177,
       "friendsCount": 696,
       "location": "Bay Area"
     },
@@ -834,7 +887,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 408106,
+      "followersCount": 408101,
       "friendsCount": 1237,
       "location": "Austin, TX"
     },
