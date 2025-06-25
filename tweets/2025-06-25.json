@@ -1,6 +1,92 @@
 [
   {
     "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Distributing Intelligence. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
+      "followersCount": 276191,
+      "friendsCount": 21,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/1937889381626339720",
+    "fullText": "what's the best music generation ai these days",
+    "createdAt": "Wed Jun 25 15:03:27 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: OpenAI, ex: DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 92917,
+      "friendsCount": 494,
+      "location": "Zürich, Suisse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/1937889250885681559",
+    "fullText": "What's this thing with\ntorch.distributed.destroy_process_group()\n\nhanging forever if you use\ntorch.compile(..., \"mode=reduce-overhead\")\n\nanywhere in the code!?\nIs this a known thing y'all just live with, or I'm hitting a rarity again with my (imo) extremely simple toy codebase?",
+    "createdAt": "Wed Jun 25 15:02:56 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I share insights on how to build with LLMs & AI Agents ⬇️",
+      "followersCount": 251168,
+      "friendsCount": 615,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937889012104171520/vid/avc1/1280x720/ZmTguzaSV_K_AQpg.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/1937889072489640033",
+    "fullText": "Introducing Qodo Gen CLI!\n\nBuild custom AI agents that review code, generate tests, automate release notes, and more.\n\nAutomating high-impact dev workflows has never been this easy.\n\nYou can even turn any IDE agentic. Right from your terminal!\n\nHere is the complete guide: https://t.co/nMx07WCgFD",
+    "createdAt": "Wed Jun 25 15:02:13 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 93585,
+      "friendsCount": 422,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuSfLzSbYAANUpd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kling_ai/status/1937888524872667328",
+    "fullText": "🌌 Witness the Future of AI Powered Storytelling! 🚀\n\n💖 Heartful stories, stunning visuals — a groundbreaking AI anthology series featuring the central themes of technology and humanity. From adventure to heartwarming moments, each tale takes you on a journey across time and https://t.co/n9SFBTnehs",
+    "createdAt": "Wed Jun 25 15:00:03 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 93585,
+      "friendsCount": 422,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937840298358603776/vid/avc1/3840x2160/-0iiqAYtdKOaKgRn.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/1937888523274666054",
+    "fullText": "🎬 Proudly introducing \"Loading...\", the world's first AI-generated anthology series, presented by Kling AI, in partnership with Outliers Media!\n\n🗓️ Mark your calendar &amp; stay tuned for the July 3 premiere! Join us to witness the power of Kling AI in next-level productions! https://t.co/MVkyx41yc5",
+    "createdAt": "Wed Jun 25 15:00:02 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
@@ -23,7 +109,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 180882,
+      "followersCount": 180879,
       "friendsCount": 6814,
       "location": ""
     },
@@ -41,7 +127,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 125737,
+      "followersCount": 125746,
       "friendsCount": 1324,
       "location": "Chicago, IL"
     },
@@ -59,7 +145,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6Xbx\nhttps://t.co/MXGUBJoMi4\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7SeM",
-      "followersCount": 854357,
+      "followersCount": 854378,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -77,7 +163,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 180882,
+      "followersCount": 180879,
       "friendsCount": 6814,
       "location": ""
     },
@@ -95,7 +181,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -113,7 +199,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -131,7 +217,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -149,7 +235,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 180882,
+      "followersCount": 180879,
       "friendsCount": 6814,
       "location": ""
     },
@@ -167,7 +253,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -185,7 +271,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -203,7 +289,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -221,7 +307,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -239,7 +325,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -257,7 +343,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -275,7 +361,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -294,7 +380,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -312,7 +398,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 180882,
+      "followersCount": 180879,
       "friendsCount": 6814,
       "location": ""
     },
@@ -330,7 +416,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -348,7 +434,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 464931,
+      "followersCount": 464917,
       "friendsCount": 5543,
       "location": "Maryland, USA"
     },
@@ -366,7 +452,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nDM me elsewhere (email). Limited replies. \nWrites @interconnectsai\nWriting https://t.co/a2XaScWqPe",
-      "followersCount": 51505,
+      "followersCount": 51506,
       "friendsCount": 836,
       "location": "Seattle"
     },
@@ -402,7 +488,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1166060,
+      "followersCount": 1166097,
       "friendsCount": 277,
       "location": "London, UK"
     },
@@ -420,8 +506,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 246901,
-      "friendsCount": 7899,
+      "followersCount": 246911,
+      "friendsCount": 7898,
       "location": "United States"
     },
     "images": [
@@ -438,7 +524,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 409737,
+      "followersCount": 409732,
       "friendsCount": 3003,
       "location": ""
     },
@@ -1546,7 +1632,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 3779307,
+      "followersCount": 3779340,
       "friendsCount": 962,
       "location": "SF"
     },
@@ -1632,7 +1718,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @playground_ai,  @mixpanel\nPizzatarian, programmer, music maker",
-      "followersCount": 366212,
+      "followersCount": 366220,
       "friendsCount": 510,
       "location": ""
     },
