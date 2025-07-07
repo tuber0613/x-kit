@@ -1,11 +1,95 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
+      "followersCount": 247972,
+      "friendsCount": 7923,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1942345811326812279",
+    "fullText": "Poaching will continue until the morale improves.",
+    "createdAt": "Mon Jul 07 22:11:43 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 409856,
+      "friendsCount": 1262,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1942344079209115981",
+    "fullText": "Man I wish there were a company or 99 using AI to automate creating viral TikTok videos",
+    "createdAt": "Mon Jul 07 22:04:50 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ESYudkowsky",
+      "name": "Eliezer Yudkowsky ⏹️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934759522050166788/xKpgxWW5_normal.jpg",
+      "description": "The original AI alignment person.  Missing punctuation at the end of a sentence means it's humor.  If you're not sure, it's also very likely humor.",
+      "followersCount": 202223,
+      "friendsCount": 99,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ESYudkowsky/status/1942342455858532574",
+    "fullText": "We're running a design contest for advertisements for our forthcoming book, \"If Anyone Builds It, Everyone Dies\".  4x $1000 main prizes; $200 for anything else useful; deadline Aug 10.  (Link below.)",
+    "createdAt": "Mon Jul 07 21:58:23 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 557698,
+      "friendsCount": 807,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvSUCQBXwAAJKBX.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/1942340516240318975",
+    "fullText": "In Python, if you ever need to tell whether you're looking at a bool or an int, start by checking isinstance(x, bool).\n\nBecause bools... are ints. https://t.co/u5k5flfqeA",
+    "createdAt": "Mon Jul 07 21:50:40 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "AGI.Eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
+      "followersCount": 153606,
+      "friendsCount": 5056,
+      "location": "Montréal, Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvSRs-OWIAAOqJW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/1942337546500858037",
+    "fullText": "We Choose to Ascend with AGI 🌌✨\n\nPreparing to write History 🤍✨\n\n#AGIALPHA #ASIFirst https://t.co/XBqeI4PY6y",
+    "createdAt": "Mon Jul 07 21:38:52 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "giffmana",
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 101155,
+      "followersCount": 101166,
       "friendsCount": 500,
       "location": "Zürich, Suisse"
     },
@@ -39,8 +123,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 60215,
-      "friendsCount": 33653,
+      "followersCount": 60217,
+      "friendsCount": 33652,
       "location": "latent space"
     },
     "images": [
@@ -76,7 +160,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2542027,
+      "followersCount": 2542019,
       "friendsCount": 696,
       "location": "Bay Area"
     },
@@ -92,7 +176,7 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
-      "followersCount": 52656,
+      "followersCount": 52657,
       "friendsCount": 3108,
       "location": "San Francisco"
     },
@@ -110,7 +194,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 285364,
+      "followersCount": 285368,
       "friendsCount": 79,
       "location": "United States"
     },
@@ -128,8 +212,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 247980,
-      "friendsCount": 7921,
+      "followersCount": 247972,
+      "friendsCount": 7923,
       "location": "United States"
     },
     "images": [
@@ -146,7 +230,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 221898132,
+      "followersCount": 221903396,
       "friendsCount": 1150,
       "location": ""
     },
@@ -180,7 +264,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 97405,
+      "followersCount": 97407,
       "friendsCount": 602,
       "location": "Stanford, CA"
     },
@@ -198,8 +282,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 60215,
-      "friendsCount": 33653,
+      "followersCount": 60217,
+      "friendsCount": 33652,
       "location": "latent space"
     },
     "images": [],
@@ -214,7 +298,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 297320,
+      "followersCount": 297331,
       "friendsCount": 767,
       "location": "iPhone: 34.060616,-118.444359"
     },
@@ -230,7 +314,7 @@
       "name": "The Alliance for Secure AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1917992278020272128/A3022TPT_normal.jpg",
       "description": "Mitigating AI Risks and Protecting Humanity.",
-      "followersCount": 306,
+      "followersCount": 307,
       "friendsCount": 223,
       "location": "Washington, DC"
     },
@@ -248,8 +332,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Kaggle 4X Grandmaster. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb.  AMDG.",
-      "followersCount": 247980,
-      "friendsCount": 7921,
+      "followersCount": 247972,
+      "friendsCount": 7923,
       "location": "United States"
     },
     "images": [],
@@ -280,7 +364,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 409859,
+      "followersCount": 409856,
       "friendsCount": 1262,
       "location": "Austin, TX"
     },
@@ -296,7 +380,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 416310,
+      "followersCount": 416318,
       "friendsCount": 509,
       "location": "🇺🇸 Collaborations →"
     },
@@ -314,7 +398,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 57725,
+      "followersCount": 57729,
       "friendsCount": 91,
       "location": ""
     },
@@ -332,8 +416,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 60215,
-      "friendsCount": 33653,
+      "followersCount": 60217,
+      "friendsCount": 33652,
       "location": "latent space"
     },
     "images": [],
@@ -348,7 +432,7 @@
       "name": "Character.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1899518217577758720/C-l6v7K2_normal.jpg",
       "description": "Unleash your imagination—chat, create, explore.",
-      "followersCount": 149589,
+      "followersCount": 149583,
       "friendsCount": 12,
       "location": ""
     },
@@ -400,7 +484,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant Claude at https://t.co/aRbQ97tMeF.",
-      "followersCount": 580796,
+      "followersCount": 580800,
       "friendsCount": 35,
       "location": ""
     },
@@ -436,7 +520,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 297320,
+      "followersCount": 297331,
       "friendsCount": 767,
       "location": "iPhone: 34.060616,-118.444359"
     },
@@ -527,6 +611,22 @@
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/AutoSaveMax/status/1942281076078244277",
+    "fullText": "🚨 No DUI in the last 3 years? \n\nGet car insurance as low as $19/month!\nBig savings start here 👇",
+    "createdAt": "Mon Jul 07 17:54:29 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "AutoSaveMax",
+      "name": "Save Max",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934542518399483904/-gnRW2hR_normal.jpg",
+      "description": "Helping drivers find the best car insurance—fast, simple, and personalized. Compare quotes & drive with confidence. 🚗💡",
+      "followersCount": 15,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AutoSaveMax/status/1942281076040482892",
     "fullText": "🚨 No DUI in the last 3 years? \n\nGet car insurance as low as $19/month!\nBig savings start here 👇",
     "createdAt": "Mon Jul 07 17:54:29 +0000 2025"
   },
@@ -1757,6 +1857,22 @@
   },
   {
     "user": {
+      "screenName": "StrikeFirst01",
+      "name": "Strike First",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501194615/Strike_first_normal.JPG",
+      "description": "Let's do it together",
+      "followersCount": 50,
+      "friendsCount": 68,
+      "location": "Nashville TN"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StrikeFirst01/status/1942127965812531562",
+    "fullText": "Get ready for the biggest event we’ve ever hosted, with unmatched volume and energy! Join us to be part of something extraordinary",
+    "createdAt": "Mon Jul 07 07:46:04 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "usasws",
       "name": "stephen 🇺🇸",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1935073008458285056/JajmsApD_normal.jpg",
@@ -1909,7 +2025,7 @@
       "name": "Riley Goodside",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
       "description": "llm screenshots. previously @scale_ai.",
-      "followersCount": 142532,
+      "followersCount": 142541,
       "friendsCount": 2839,
       "location": "Richmond, VA"
     },
@@ -3063,7 +3179,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1749937028655898624/ysp-gk2B_normal.jpg",
       "description": "16u IL Chill Gold | L&L Top 💯| Extra Innings Ranked | USSSA DI | 2B/OF | LH/RT | St Charles North '27 - State Champs '24 ✝️ faithmaleski@gmail.com",
       "followersCount": 406,
-      "friendsCount": 490,
+      "friendsCount": 491,
       "location": ""
     },
     "images": [
@@ -3134,8 +3250,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 238905,
-      "friendsCount": 9163,
+      "followersCount": 238916,
+      "friendsCount": 9164,
       "location": "ānanda tāṇḍava"
     },
     "images": [],
@@ -3150,7 +3266,7 @@
       "name": "Steve Shultz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1842405744886308864/JDnB-hav_normal.jpg",
       "description": "Founder, https://t.co/qBoW0MNCrH , Prophets and Patriots, XRP Zealot and Investor, Gold and Silver Enthusiast.  Founder: \"GODTALKED\"",
-      "followersCount": 19462,
+      "followersCount": 19470,
       "friendsCount": 2888,
       "location": ""
     },
