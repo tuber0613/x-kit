@@ -1,11 +1,83 @@
 [
   {
     "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 97451,
+      "friendsCount": 601,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvhn5uEXsAARleU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/1943417699172016395",
+    "fullText": "Since 2018, @StanfordHAI has been making a significant impact in advancing research at Stanford. One of its mechanisms is through the Hoffman-Yee Research Grants, designed to launch “asteroid shot” ideas that address some of our biggest challenges. https://t.co/ZIxLUzUjx5 https://t.co/jm6Eu4fqkq",
+    "createdAt": "Thu Jul 10 21:11:01 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 101509,
+      "friendsCount": 503,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvhoC46XwAAGGS7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/1943417649373024754",
+    "fullText": "Having some fun with flex_attention, but for longer seqlens (say, above 32k), create_block_mask takes FOREVER.\n\nI started looking into it, but wondering - has anyone dealt with that before? https://t.co/rAs6lZPoSz",
+    "createdAt": "Thu Jul 10 21:10:49 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 285774,
+      "friendsCount": 80,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvhllBeWYAAyIpt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/1943414928968241655",
+    "fullText": "This week, in The Batch, Andrew Ng discusses how the U.S. “One Big Beautiful Bill” will shape AI regulation.\n\nPlus:\n\n🕵️ How Anthropic researchers got 16 leading LLMs to commit blackmail\n🐝 How an AI-powered beehive keeps bees healthier\n🛒 How Walmart built a cloud- and https://t.co/yQcLenrRRc",
+    "createdAt": "Thu Jul 10 21:00:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
+      "description": "Co-founder at @HuggingFace - open-source and open-science",
+      "followersCount": 91547,
+      "friendsCount": 5218,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1943413364287295488/vid/avc1/1280x720/1XotYHeafkeDe8KO.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/1943414784851861547",
+    "fullText": "play-testing a Reachy Mini prototype (with music) https://t.co/oqZUF0T4px",
+    "createdAt": "Thu Jul 10 20:59:26 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "omarsar0",
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I share insights on how to build with LLMs & AI Agents ⬇️",
-      "followersCount": 253749,
+      "followersCount": 253753,
       "friendsCount": 628,
       "location": ""
     },
@@ -23,7 +95,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 297712,
+      "followersCount": 297710,
       "friendsCount": 767,
       "location": ""
     },
@@ -55,7 +127,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 239278,
+      "followersCount": 239285,
       "friendsCount": 9211,
       "location": "ānanda tāṇḍava"
     },
@@ -71,7 +143,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 558242,
+      "followersCount": 558250,
       "friendsCount": 807,
       "location": "United States"
     },
@@ -87,7 +159,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 52441,
+      "followersCount": 52443,
       "friendsCount": 845,
       "location": "Seattle"
     },
@@ -105,7 +177,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 222167667,
+      "followersCount": 222169723,
       "friendsCount": 1151,
       "location": ""
     },
@@ -121,7 +193,7 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
-      "followersCount": 52775,
+      "followersCount": 52776,
       "friendsCount": 3117,
       "location": "San Francisco"
     },
@@ -139,7 +211,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad || tinkerer/investor https://t.co/iLpIJT2Vlg || founder makerpad (acq by zapier)",
-      "followersCount": 160393,
+      "followersCount": 160395,
       "friendsCount": 419,
       "location": "online"
     },
@@ -155,7 +227,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Distributing Intelligence. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
-      "followersCount": 278097,
+      "followersCount": 278107,
       "friendsCount": 21,
       "location": "London"
     },
@@ -171,7 +243,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153623,
+      "followersCount": 153626,
       "friendsCount": 5057,
       "location": "Montréal, Québec"
     },
@@ -187,7 +259,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 95386,
+      "followersCount": 95395,
       "friendsCount": 419,
       "location": ""
     },
@@ -237,7 +309,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 146085,
+      "followersCount": 146095,
       "friendsCount": 4738,
       "location": "Miami / New York / Paris"
     },
@@ -255,7 +327,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 412928,
+      "followersCount": 412945,
       "friendsCount": 3024,
       "location": ""
     },
@@ -291,7 +363,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 248210,
+      "followersCount": 248220,
       "friendsCount": 7927,
       "location": "United States"
     },
@@ -309,7 +381,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 248210,
+      "followersCount": 248220,
       "friendsCount": 7927,
       "location": "United States"
     },
@@ -1880,7 +1952,7 @@
       "name": "Israel ישראל",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
       "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
-      "followersCount": 1885941,
+      "followersCount": 1886112,
       "friendsCount": 5125,
       "location": "Jerusalem, Israel"
     },
@@ -3279,7 +3351,7 @@
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29634604,
+      "followersCount": 29634596,
       "friendsCount": 229,
       "location": ""
     },
