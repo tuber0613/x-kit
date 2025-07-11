@@ -1,12 +1,114 @@
 [
   {
     "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
+      "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
+      "followersCount": 182965,
+      "friendsCount": 6825,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/1943521475438457263",
+    "fullText": "so, to sum up … still no GPT-5.",
+    "createdAt": "Fri Jul 11 04:03:23 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "svlevine",
+      "name": "Sergey Levine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/990434811662680064/BKCbJypl_normal.jpg",
+      "description": "Associate Professor at UC Berkeley\nCo-founder, Physical Intelligence",
+      "followersCount": 103370,
+      "friendsCount": 131,
+      "location": "Berkeley, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvjFLxyaUAAb0n5.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svlevine/status/1943521428688777577",
+    "fullText": "Action chunking is a great idea in robotics: by getting a model to produce a short sequence of actions, it _just works better_ for some mysterious reason. Now it turns out this can help in RL too, and it's a bit clearer why: action chunks help explore and help with backups. 🧵👇 https://t.co/MZYeS8Ailv",
+    "createdAt": "Fri Jul 11 04:03:12 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
+      "followersCount": 92844,
+      "friendsCount": 1169,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1943513476485312512/vid/avc1/1290x720/n_IYkpgwayoW2g2-.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/1943514794528850088",
+    "fullText": "终于又有可以给视频自动生成音效的开源模型了\n\n阿里开源了 ThinkSound 可以通过链式思维推理进行流匹配指导，可基于视频、文本、音频及其组合，生成或编辑音频。\n\n需要注意的是模型不能商用。\n\n我用 MJ 生成的视频测试了一下，效果很不错 https://t.co/BKPgv5CVIJ",
+    "createdAt": "Fri Jul 11 03:36:50 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "tszzl",
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 239334,
-      "friendsCount": 9213,
+      "followersCount": 239362,
+      "friendsCount": 9214,
+      "location": "ānanda tāṇḍava"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/1943514043559612761",
+    "fullText": "autists and liars do not get along",
+    "createdAt": "Fri Jul 11 03:33:51 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "DavidSHolz",
+      "name": "David",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
+      "description": "founder @midjourney, prev founder leap motion, nasa, max planck - random vibeposting @davidvibesonly",
+      "followersCount": 90545,
+      "friendsCount": 8216,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvi802RXYAA2IMR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DavidSHolz/status/1943514038463283652",
+    "fullText": "the sky is just too big for us alone - too big for our ambitions, our struggles, our greed - too big to love, or hate, or hope or touch or whisper to gently - the sky is just too big for us alone https://t.co/JvCVy8ox4M",
+    "createdAt": "Fri Jul 11 03:33:50 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 248268,
+      "friendsCount": 7930,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1943513926311747754",
+    "fullText": "Are we there yet?",
+    "createdAt": "Fri Jul 11 03:33:23 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 239362,
+      "friendsCount": 9214,
       "location": "ānanda tāṇḍava"
     },
     "images": [],
@@ -21,7 +123,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 182960,
+      "followersCount": 182965,
       "friendsCount": 6825,
       "location": ""
     },
@@ -53,7 +155,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 222187593,
+      "followersCount": 222191228,
       "friendsCount": 1151,
       "location": ""
     },
@@ -69,7 +171,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 27492,
+      "followersCount": 27496,
       "friendsCount": 988,
       "location": ""
     },
@@ -87,8 +189,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 248259,
-      "friendsCount": 7928,
+      "followersCount": 248268,
+      "friendsCount": 7930,
       "location": "United States"
     },
     "images": [],
@@ -135,7 +237,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2542908,
+      "followersCount": 2542922,
       "friendsCount": 696,
       "location": "Bay Area"
     },
@@ -151,8 +253,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 248259,
-      "friendsCount": 7928,
+      "followersCount": 248268,
+      "friendsCount": 7930,
       "location": "United States"
     },
     "images": [
@@ -185,8 +287,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 239334,
-      "friendsCount": 9213,
+      "followersCount": 239362,
+      "friendsCount": 9214,
       "location": "ānanda tāṇḍava"
     },
     "images": [],
@@ -201,7 +303,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 583574,
+      "followersCount": 583593,
       "friendsCount": 5108,
       "location": "San Francisco, CA"
     },
@@ -217,8 +319,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 248259,
-      "friendsCount": 7928,
+      "followersCount": 248268,
+      "friendsCount": 7930,
       "location": "United States"
     },
     "images": [],
@@ -233,8 +335,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 239334,
-      "friendsCount": 9213,
+      "followersCount": 239362,
+      "friendsCount": 9214,
       "location": "ānanda tāṇḍava"
     },
     "images": [],
@@ -267,7 +369,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 222187593,
+      "followersCount": 222191228,
       "friendsCount": 1151,
       "location": ""
     },
@@ -283,7 +385,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 222187593,
+      "followersCount": 222191228,
       "friendsCount": 1151,
       "location": ""
     },
@@ -301,7 +403,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Distributing Intelligence. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
-      "followersCount": 278138,
+      "followersCount": 278144,
       "friendsCount": 21,
       "location": "London"
     },
@@ -595,7 +697,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 222187593,
+      "followersCount": 222191228,
       "friendsCount": 1151,
       "location": ""
     },
@@ -611,7 +713,7 @@
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 364098,
+      "followersCount": 364128,
       "friendsCount": 1361,
       "location": "CA"
     },
@@ -638,6 +740,24 @@
     "tweetUrl": "https://x.com/trumed_az/status/1943337326736027758",
     "fullText": "Your Top Destination For 710 Deals In Phoenix 🔥 https://t.co/BFDulQU3ry",
     "createdAt": "Thu Jul 10 15:51:38 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Israel",
+      "name": "Israel ישראל",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896104075004887040/lugSJlrl_normal.jpg",
+      "description": "The official X account of the State of Israel (yes it’s really us) run by the @IsraelMFA team",
+      "followersCount": 1886126,
+      "friendsCount": 5125,
+      "location": "Jerusalem, Israel"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gve-R_wWEAA4Ub8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Israel/status/1943263939435073760",
+    "fullText": "It shouldn’t take a 84 page report to believe women.\n\nBut here it is. \n\nThe Dinah Project proves Hamas used sexual violence as a weapon of war.\n\nSpeak out. Demand Justice.\n\nRead Full Report: https://t.co/ooVitDqtoe https://t.co/aFog6b8BwI",
+    "createdAt": "Thu Jul 10 11:00:01 +0000 2025"
   },
   {
     "user": {
@@ -675,11 +795,29 @@
   },
   {
     "user": {
+      "screenName": "jamieahope",
+      "name": "Jamie A Hope",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890889495903408128/bwiBtkZR_normal.jpg",
+      "description": "Assistant managing editor of a think tank news site. Screenwriter, author, mother, wife, human, follower of Yeshua, daughter, sister, cousin",
+      "followersCount": 1008,
+      "friendsCount": 1045,
+      "location": "Somewhere dark and cold"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvbmEaNWwAAO46C.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jamieahope/status/1942994373513199796",
+    "fullText": "Woe to those who turn their backs on the children. This week the world learned the president will not keep his campaign promise to hold elite pedophile rapists accountable. God's Word is clear on who you should support when it comes to a politician vs. protecting children.  If https://t.co/TJq6aXtFDW",
+    "createdAt": "Wed Jul 09 17:08:52 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "khloekardashian",
       "name": "Khloé",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876763866408853504/3elr5ZjE_normal.jpg",
       "description": "Khloé in Wonder Land https://t.co/640w8ODLzR",
-      "followersCount": 29634605,
+      "followersCount": 29634803,
       "friendsCount": 229,
       "location": ""
     },
