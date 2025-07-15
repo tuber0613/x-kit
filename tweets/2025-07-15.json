@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
+      "description": "open-sourceress at @huggingface 🧙🏻‍♀️proud Aegean, I work on computer vision, VLMs & agents | gençleri serbest bırakın",
+      "followersCount": 77540,
+      "friendsCount": 4745,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/1945051669282091163",
+    "fullText": "is there any developer conferences willing to hear about building/deploying apps with vision/vision LM (document, image, video understanding etc)? 👀 \n\nI finally have some bandwidth to speak but I want to go more beginner friendly 🙇🏻‍♀️",
+    "createdAt": "Tue Jul 15 09:23:49 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Kimi_Moonshot",
+      "name": "Kimi.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
+      "description": "Built by Moonshot AI to empower everyone to be superhuman. https://t.co/85jA71X9gw",
+      "followersCount": 39269,
+      "friendsCount": 80,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kimi_Moonshot/status/1945050874067476962",
+    "fullText": "We've just fixed 2 bugs in Kimi-K2-Instruct huggingface repo. Please update the following files to apply the fix:\n\n- tokenizer_config.json: update chat-template so that it works for multi-turn tool calls.\n- tokenization_kimi.py: update encode method to enable encoding special",
+    "createdAt": "Tue Jul 15 09:20:40 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
@@ -23,7 +55,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 93837,
+      "followersCount": 93846,
       "friendsCount": 1171,
       "location": ""
     },
@@ -41,7 +73,7 @@
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 366558,
+      "followersCount": 366567,
       "friendsCount": 1363,
       "location": "CA"
     },
@@ -75,7 +107,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 52725,
+      "followersCount": 52726,
       "friendsCount": 846,
       "location": "Seattle"
     },
@@ -91,7 +123,7 @@
       "name": "hardmaru",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
       "description": "Building Collective Intelligence @SakanaAILabs 🧠",
-      "followersCount": 347975,
+      "followersCount": 347992,
       "friendsCount": 1694,
       "location": "Minato-ku, Tokyo"
     },
@@ -109,7 +141,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 183291,
+      "followersCount": 183294,
       "friendsCount": 6829,
       "location": ""
     },
@@ -145,7 +177,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 93837,
+      "followersCount": 93846,
       "friendsCount": 1171,
       "location": ""
     },
@@ -163,7 +195,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 248454,
+      "followersCount": 248461,
       "friendsCount": 7929,
       "location": "United States"
     },
@@ -181,7 +213,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2544680,
+      "followersCount": 2544714,
       "friendsCount": 695,
       "location": "Bay Area"
     },
@@ -197,7 +229,7 @@
       "name": "sarah guo // conviction",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 115343,
+      "followersCount": 115344,
       "friendsCount": 2949,
       "location": "on ⛓"
     },
@@ -536,6 +568,24 @@
     "tweetUrl": "https://x.com/amasad/status/1944886135156826583",
     "fullText": "Mark Cuban: https://t.co/giTemBeFvR",
     "createdAt": "Mon Jul 14 22:26:03 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 2998,
+      "friendsCount": 994,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1944885735523246080/vid/avc1/1280x720/s2tRsuC7577RpKO3.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1944886029493919877",
+    "fullText": "Why is AI the most exciting tech in 30 years? 🤔\nArthur Lewis, President, Infrastructure Solutions Group at @DellTech (@alewis0114) explained at Dell Tech World that it's all about unleashing the power of your data. He emphasized that \"the data center of yesterday won't support https://t.co/ZRZvxBSK5H",
+    "createdAt": "Mon Jul 14 22:25:38 +0000 2025"
   },
   {
     "user": {
@@ -949,7 +999,7 @@
       "name": "General Analysis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1881595505773539328/psFvvVWP_normal.jpg",
       "description": "Automated AI Safety and Red Teaming Tools— Backed by @ycombinator",
-      "followersCount": 597,
+      "followersCount": 623,
       "friendsCount": 0,
       "location": "San Francisco"
     },
@@ -1067,6 +1117,22 @@
   },
   {
     "user": {
+      "screenName": "MFH_Holding",
+      "name": "Mercurity Fintech Holding Inc (NASDAQ:MFH)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1937155843721502720/4a-5jwGc_normal.jpg",
+      "description": "Bridging traditional finance with digital innovation through digital asset services, financial advisory, and capital markets solutions.",
+      "followersCount": 81,
+      "friendsCount": 113,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MFH_Holding/status/1944753310159831543",
+    "fullText": "Mercurity Fintech Launches $500 Million “DeFi Basket” Treasury with Emphasis on Solana Ecosystem Integration\n\nMercurity Fintech ($MFH)  today announced the launch of its $500 million “DeFi Basket” Treasury marking a significant expansion of the company’s on-chain strategy and",
+    "createdAt": "Mon Jul 14 13:38:15 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "ecomtryggvi",
       "name": "Tryggvi | Ecommerce SEO",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1766394791250587648/V6t6JjOa_normal.jpg",
@@ -1082,6 +1148,24 @@
     "tweetUrl": "https://x.com/ecomtryggvi/status/1944741711529353563",
     "fullText": "Ecommerce SEO does not always have to be complicated. \n\n- Create more collections\n- Fix site structure issues\n- Improve your menu\n- Create commercial blog content to support products\n- Build backlinks\n\nWe worked with this Irish brand for just a few weeks at the start of the year. https://t.co/r5pQA40lwR",
     "createdAt": "Mon Jul 14 12:52:10 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+      "description": "",
+      "followersCount": 222432102,
+      "friendsCount": 1160,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvz9AQ-WoAArGwQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/1944707324998000751",
+    "fullText": "https://t.co/kL8FNrgjs7",
+    "createdAt": "Mon Jul 14 10:35:31 +0000 2025"
   },
   {
     "user": {
