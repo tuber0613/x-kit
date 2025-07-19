@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
+      "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
+      "followersCount": 52954,
+      "friendsCount": 847,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwQTiHdXIAEgFz9.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/1946709066103103533",
+    "fullText": "Adding a nice way to visualize the PPO objective to the rlhf book. Core for policy-gradient is L~ R*A (R=policy ratio, A = advantage).\n\nMake good actions more likely up to a point.\nMake bad actions less likely up to a point.\nThe min(...), &amp; sign of adv determine which line. https://t.co/93Az1PZP3U",
+    "createdAt": "Sat Jul 19 23:09:44 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 248827,
+      "friendsCount": 7936,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1946708509942538464",
+    "fullText": "I mean, if I got caught on camera going to a Coldplay concert, I too would resign from any job I had.",
+    "createdAt": "Sat Jul 19 23:07:31 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
+      "followersCount": 299247,
+      "friendsCount": 770,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/1946707037485748317",
+    "fullText": "Did you know that matching your workouts to your personality can (literally) make exercising more enjoyable AND give you better results? \n\nKeep that in mind the next time you plan to hit the gym.",
+    "createdAt": "Sat Jul 19 23:01:40 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "IAMNATALIELOREN",
+      "name": "Natalie Kwatinetz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/953086727014395904/y6SSyNZd_normal.jpg",
+      "description": "ARTIST",
+      "followersCount": 21306,
+      "friendsCount": 46,
+      "location": "LA, NYC "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwQWP2VXsAAPuAn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/IAMNATALIELOREN/status/1946705405180358793",
+    "fullText": "New York girls ✨✨💕✨✨@AmericanGrlDoll ❤️ https://t.co/qKQdbq6o7P",
+    "createdAt": "Sat Jul 19 22:55:11 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "levie",
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2546019,
+      "followersCount": 2546041,
       "friendsCount": 695,
       "location": "Bay Area"
     },
@@ -21,7 +89,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 183831,
+      "followersCount": 183848,
       "friendsCount": 6835,
       "location": ""
     },
@@ -37,7 +105,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153625,
+      "followersCount": 153624,
       "friendsCount": 5063,
       "location": "Montréal, Québec"
     },
@@ -55,7 +123,7 @@
       "name": "Richard Socher",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1232361282759610368/YYxndVmI_normal.jpg",
       "description": "CEO  @youdotcom\nMP @aixventuresHQ\n\nBefore: Stanford Adj Prof in AI/NLP, Chief Scientist at Salesforce, MetaMind",
-      "followersCount": 111210,
+      "followersCount": 111209,
       "friendsCount": 1056,
       "location": ""
     },
@@ -73,7 +141,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 552724,
+      "followersCount": 552729,
       "friendsCount": 1952,
       "location": "Palo Alto"
     },
@@ -89,7 +157,7 @@
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
       "description": "founder @midjourney, prev founder leap motion, nasa, max planck - random vibeposting @davidvibesonly",
-      "followersCount": 90763,
+      "followersCount": 90762,
       "friendsCount": 8278,
       "location": "San Francisco, CA"
     },
@@ -105,7 +173,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 299245,
+      "followersCount": 299247,
       "friendsCount": 770,
       "location": ""
     },
@@ -123,7 +191,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 299245,
+      "followersCount": 299247,
       "friendsCount": 770,
       "location": ""
     },
@@ -141,7 +209,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 52950,
+      "followersCount": 52954,
       "friendsCount": 847,
       "location": "Seattle"
     },
@@ -157,7 +225,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 560546,
+      "followersCount": 560540,
       "friendsCount": 810,
       "location": "United States"
     },
@@ -174,7 +242,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
       "followersCount": 248827,
-      "friendsCount": 7935,
+      "friendsCount": 7936,
       "location": "United States"
     },
     "images": [],
@@ -189,7 +257,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 183831,
+      "followersCount": 183848,
       "friendsCount": 6835,
       "location": ""
     },
@@ -205,7 +273,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153625,
+      "followersCount": 153624,
       "friendsCount": 5063,
       "location": "Montréal, Québec"
     },
@@ -224,7 +292,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
       "followersCount": 248827,
-      "friendsCount": 7935,
+      "friendsCount": 7936,
       "location": "United States"
     },
     "images": [
@@ -275,7 +343,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153625,
+      "followersCount": 153624,
       "friendsCount": 5063,
       "location": "Montréal, Québec"
     },
@@ -293,7 +361,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 79832,
+      "followersCount": 79831,
       "friendsCount": 1079,
       "location": "HQ: San Francisco, CA"
     },
@@ -311,7 +379,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 411110,
+      "followersCount": 411114,
       "friendsCount": 1273,
       "location": "Austin, TX"
     },
@@ -328,7 +396,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
       "followersCount": 248827,
-      "friendsCount": 7935,
+      "friendsCount": 7936,
       "location": "United States"
     },
     "images": [],
@@ -425,7 +493,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 183831,
+      "followersCount": 183848,
       "friendsCount": 6835,
       "location": ""
     },
@@ -523,7 +591,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Distributing Intelligence. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
-      "followersCount": 279438,
+      "followersCount": 279441,
       "friendsCount": 22,
       "location": "London"
     },
@@ -646,6 +714,22 @@
     "tweetUrl": "https://x.com/GaryMarcus/status/1946594195613131240",
     "fullText": "Quote of the day:\n\nI certainly don't agree that machines which can solve IMO problems will be useful for mathematicians doing research, in the same way that when I arrived in Cambridge UK as an undergraduate clutching my IMO gold medal I was in no position to help any of the",
     "createdAt": "Sat Jul 19 15:33:16 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "DoubleDutyBari",
+      "name": "Jabari Woods",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940124391133634560/F58lX8AC_normal.jpg",
+      "description": "Prioritizing tasks and responsibilities across both jobs as well as meeting deadlines and managing workload effectively.",
+      "followersCount": 2616,
+      "friendsCount": 164,
+      "location": "Seattle, Washington"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DoubleDutyBari/status/1946589874943115433",
+    "fullText": "On February 10, 2024, I became ill and unable to work, because of an uncontrolled diet I was sidelined from all activities and on a path to recovery. Since being employed I've always been determined to have great attendance. I wasn't well enough to return to both jobs full-time",
+    "createdAt": "Sat Jul 19 15:16:06 +0000 2025"
   },
   {
     "user": {
@@ -798,6 +882,22 @@
     "tweetUrl": "https://x.com/natolambert/status/1946561482877002212",
     "fullText": "Not falling for OpenAI’s hype-vague posting about the new IMO gold model with “general purpose RL” and whatever else “breakthrough.” Google also got IMO gold (harder than mastering AIME), but remember, simple ideas scale best.",
     "createdAt": "Sat Jul 19 13:23:17 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "winston_le30228",
+      "name": "Audentes fortuna iuvat.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747770172117508096/YylIBxcM_normal.jpg",
+      "description": "'You can't go back and change the beginning, but you can start where you and change the ending.' -- C.S. Lewis",
+      "followersCount": 72,
+      "friendsCount": 103,
+      "location": "The Midwest"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/winston_le30228/status/1946559712360583213",
+    "fullText": "@xJonNYC\n @afa_cwa\n @AFAUnitedMEC\n UA FAs...STOP THE ABUSE! NO RAISES for 10 of the last 15 years! Worsening work conditions. Retro-pay grossly insufficient after wage freezes and INFLATION. All while @united\n  spent $10B+ on share buybacks and $500M in Q1 alone. VOTE HELL NO!!",
+    "createdAt": "Sat Jul 19 13:16:15 +0000 2025"
   },
   {
     "user": {
@@ -1911,7 +2011,7 @@
       "name": "OLLY",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643652830899884032/bbRz31_U_normal.jpg",
       "description": "Never before has getting your daily dose of health been so easy, effective, and dare we say, fun. #ollywellness",
-      "followersCount": 2667,
+      "followersCount": 2671,
       "friendsCount": 104,
       "location": "San Francisco, CA"
     },
