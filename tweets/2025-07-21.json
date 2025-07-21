@@ -1,6 +1,92 @@
 [
   {
     "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 560989,
+      "friendsCount": 810,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/1947337944215523567",
+    "fullText": "Officially validated IMO gold medal, purely via search in token space, achieved in 4.5 hrs (unclear at what compute cost). The solutions read nicely as well\n https://t.co/9ptiOCNAa5",
+    "createdAt": "Mon Jul 21 16:48:40 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "demishassabis",
+      "name": "Demis Hassabis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_normal.jpg",
+      "description": "Nobel Laureate. Co-Founder & CEO @GoogleDeepMind - working on AGI. Solving disease @IsomorphicLabs. Trying to understand the fundamental nature of reality.",
+      "followersCount": 460687,
+      "friendsCount": 144,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/demishassabis/status/1947337615054671882",
+    "fullText": "Official results are in - Gemini achieved gold-medal level in the International Mathematical Olympiad! 🏆 An advanced version was able to solve 5 out of 6 problems. Incredible progress - huge congrats to @lmthang and the team! https://t.co/pp9bXF7rVj",
+    "createdAt": "Mon Jul 21 16:47:21 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "AnimaAnandkumar",
+      "name": "Prof. Anima Anandkumar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1443692617473015808/1ygwZsWX_normal.jpg",
+      "description": "Bren Professor @caltech, Time100, Fmr Sr Director of #AI research @nvidia Fmr Principal Scientist @awscloud",
+      "followersCount": 32577,
+      "friendsCount": 2259,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947335803077869568/vid/avc1/1920x1080/m2WBd0Y2H63zEvhd.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/AnimaAnandkumar/status/1947335904391242031",
+    "fullText": "I led the creation of the very first high-resolution AI-based weather model FourCastNet at @NVIDIA @Caltech in 2021. Instead of bottoms-up physics-based weather forecasting, for the first time, we were able to show that AI-based models are accurate and tens of thousands of times https://t.co/1Rp3RAfeln",
+    "createdAt": "Mon Jul 21 16:40:34 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
+      "followersCount": 1179720,
+      "friendsCount": 277,
+      "location": "London, UK"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwZPV3UWUAYP48Z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/1947333836594946337",
+    "fullText": "An advanced version of Gemini with Deep Think has officially achieved gold medal-level performance at the International Mathematical Olympiad. 🥇\n\nIt solved 5️⃣ out of 6️⃣ exceptionally difficult problems, involving algebra, combinatorics, geometry and number theory. Here’s how 🧵 https://t.co/6jz1eF56wG",
+    "createdAt": "Mon Jul 21 16:32:21 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "character_ai",
+      "name": "Character.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899518217577758720/C-l6v7K2_normal.jpg",
+      "description": "Unleash your imagination—chat, create, explore.",
+      "followersCount": 149677,
+      "friendsCount": 12,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwZPUmCbwAAYSzb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/character_ai/status/1947331132347035747",
+    "fullText": "do as I say, not as I do. https://t.co/0M6NSknDFq",
+    "createdAt": "Mon Jul 21 16:21:36 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
@@ -23,8 +109,8 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 322750,
-      "friendsCount": 20694,
+      "followersCount": 322749,
+      "friendsCount": 20693,
       "location": "Cambridge, MA"
     },
     "images": [
@@ -41,8 +127,8 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 553529,
-      "friendsCount": 1953,
+      "followersCount": 553567,
+      "friendsCount": 1954,
       "location": "Palo Alto"
     },
     "images": [],
@@ -69,11 +155,29 @@
   },
   {
     "user": {
+      "screenName": "AragonProject",
+      "name": "Aragon.eth 🦅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945509063158059008/xMJrwIJv_normal.jpg",
+      "description": "The home of onchain organizations → https://t.co/0ZJMBGpHKI Aragon gives organizations the tools to build, govern, and accrue value effectively onchain.",
+      "followersCount": 104763,
+      "friendsCount": 238,
+      "location": "Ethereum"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947320841097678848/vid/avc1/1920x1080/9eES4JbjYdJ3j1tk.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/AragonProject/status/1947321237991997703",
+    "fullText": "Aragon is now live on @chiliz 🌶️\n\nThree years ago, our team made history by powering the first onchain vote in football with @FCBarcelona\n\nToday, we’re unlocking that same capability for everyone building on Chiliz, the leading chain for sports and entertainment. https://t.co/2AMTT8uv6N",
+    "createdAt": "Mon Jul 21 15:42:17 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "_akhaliq",
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 415041,
+      "followersCount": 415046,
       "friendsCount": 3041,
       "location": ""
     },
@@ -91,8 +195,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 248931,
-      "friendsCount": 7938,
+      "followersCount": 248918,
+      "friendsCount": 7937,
       "location": "United States"
     },
     "images": [],
@@ -107,7 +211,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 418244,
+      "followersCount": 418253,
       "friendsCount": 514,
       "location": "🇺🇸 Collaborations →"
     },
@@ -123,7 +227,7 @@
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
       "description": "Co-founder at @HuggingFace - open-source and open-science",
-      "followersCount": 92297,
+      "followersCount": 92300,
       "friendsCount": 5242,
       "location": ""
     },
@@ -139,7 +243,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 79855,
+      "followersCount": 79854,
       "friendsCount": 1079,
       "location": "HQ: San Francisco, CA"
     },
@@ -157,7 +261,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "The latest breakthroughs and the future of AI for business leaders.",
-      "followersCount": 230182,
+      "followersCount": 230203,
       "friendsCount": 793,
       "location": "Santa Clara, CA"
     },
@@ -175,8 +279,8 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6Xbx\nhttps://t.co/MXGUBJoMi4\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7SeM",
-      "followersCount": 861451,
-      "friendsCount": 53,
+      "followersCount": 861452,
+      "friendsCount": 54,
       "location": "The Cloud"
     },
     "images": [],
@@ -193,7 +297,7 @@
       "name": "Opera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929542584352858112/ywlq6NFs_normal.jpg",
       "description": "Opera - your personal browser",
-      "followersCount": 631678,
+      "followersCount": 631672,
       "friendsCount": 400,
       "location": "Norway"
     },
@@ -211,7 +315,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1227846,
+      "followersCount": 1227869,
       "friendsCount": 1020,
       "location": "Palo Alto, CA"
     },
@@ -227,7 +331,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 415041,
+      "followersCount": 415046,
       "friendsCount": 3041,
       "location": ""
     },
@@ -245,7 +349,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 299576,
+      "followersCount": 299587,
       "friendsCount": 770,
       "location": ""
     },
@@ -261,7 +365,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 415041,
+      "followersCount": 415046,
       "friendsCount": 3041,
       "location": ""
     },
@@ -315,7 +419,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 299576,
+      "followersCount": 299587,
       "friendsCount": 770,
       "location": ""
     },
@@ -333,8 +437,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 248931,
-      "friendsCount": 7938,
+      "followersCount": 248918,
+      "friendsCount": 7937,
       "location": "United States"
     },
     "images": [
@@ -351,7 +455,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 415041,
+      "followersCount": 415046,
       "friendsCount": 3041,
       "location": ""
     },
@@ -423,7 +527,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 299576,
+      "followersCount": 299587,
       "friendsCount": 770,
       "location": ""
     },
@@ -448,6 +552,24 @@
     "tweetUrl": "https://x.com/Austen/status/1947285866722021563",
     "fullText": "Being an AI researcher is more lucrative than being a professional athlete right now",
     "createdAt": "Mon Jul 21 13:21:44 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "praxismedia63",
+      "name": "Mike Jansen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1578378444433510403/or4nzT5g_normal.jpg",
+      "description": "Video Producer At Praxis Media Group - Voice Over Talent - Indianapolis Colts Stadium Voice 1998-2021 - BigTen Football Championshp Stadium Voice 2011-2021",
+      "followersCount": 10262,
+      "friendsCount": 3318,
+      "location": " Indianapolis, In"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1947284810285699072/vid/avc1/1920x1080/4CR7x2kfEtuwmeeP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/praxismedia63/status/1947285370166534367",
+    "fullText": "Businesses that give back build more than just profits—they build trust.\nIf your company supports a nonprofit or community initiative, consider producing a short video that tells the story.\n🎥 Showcase the organization you support\n💬 Share why you chose to get involved\n❤️ https://t.co/3ccC3VhLcc",
+    "createdAt": "Mon Jul 21 13:19:45 +0000 2025"
   },
   {
     "user": {
