@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
+      "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
+      "followersCount": 53137,
+      "friendsCount": 847,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/1947799390019850623",
+    "fullText": "I think my dog prefers chewing on premium usb c cables over standard cables, gonna need to increase my IT budget",
+    "createdAt": "Tue Jul 22 23:22:17 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 27829,
+      "friendsCount": 1000,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwfzyfMbMAA-19r.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/1947795996697891092",
+    "fullText": "刚刚，阿里开源了其最强代码模型：Qwen3-Coder-480B-A35B-Instruct，性能媲美Claude Sonnet4 \n\n480B参数，激活参数35B，MoE，\n原生支持 256K上下文，通过YaRN可扩展到1M\n超强代码、Agent能力\n\n另外，还有一个Qwen Code，基于Gemini CLI修改的CLI工具，用来增强Qwen3‑Coder系列模型的解析器和工具支持 https://t.co/ejUJOYJti4",
+    "createdAt": "Tue Jul 22 23:08:48 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
+      "followersCount": 299744,
+      "friendsCount": 770,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/1947794257772679454",
+    "fullText": "Sam Altman mentioned that OpenAI is on track to bring over 1 million GPUs online by the end of 2025. For reference, NVIDIA is estimated to sell between 6.5 and 7 million GPUs this year. \n\nThis is massive.",
+    "createdAt": "Tue Jul 22 23:01:53 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 60500,
+      "followersCount": 60495,
       "friendsCount": 33878,
       "location": "latent space"
     },
@@ -23,7 +73,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2050102,
+      "followersCount": 2050120,
       "friendsCount": 772,
       "location": ""
     },
@@ -39,8 +89,8 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 411441,
-      "friendsCount": 1282,
+      "followersCount": 411446,
+      "friendsCount": 1283,
       "location": "Austin, TX"
     },
     "images": [
@@ -57,7 +107,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 148166,
+      "followersCount": 148171,
       "friendsCount": 4747,
       "location": "Miami / New York / Paris"
     },
@@ -75,7 +125,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 59460,
+      "followersCount": 59469,
       "friendsCount": 91,
       "location": ""
     },
@@ -91,8 +141,8 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 411441,
-      "friendsCount": 1282,
+      "followersCount": 411446,
+      "friendsCount": 1283,
       "location": "Austin, TX"
     },
     "images": [],
@@ -107,7 +157,7 @@
       "name": "Mistral AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943557042897063936/chh4Ugsb_normal.png",
       "description": "Frontier AI in your hands. https://t.co/VdyEwpQsiy Apps: https://t.co/1vZA5XdBYo https://t.co/rj5G4u5sHu",
-      "followersCount": 153630,
+      "followersCount": 153637,
       "friendsCount": 0,
       "location": "Paris, France"
     },
@@ -125,7 +175,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 299740,
+      "followersCount": 299744,
       "friendsCount": 770,
       "location": ""
     },
@@ -141,7 +191,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 60500,
+      "followersCount": 60495,
       "friendsCount": 33878,
       "location": "latent space"
     },
@@ -175,7 +225,7 @@
       "name": "Qwen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
       "description": "Open foundation models for AGI.",
-      "followersCount": 87641,
+      "followersCount": 87867,
       "friendsCount": 4,
       "location": ""
     },
@@ -193,7 +243,7 @@
       "name": "Google Gemini App",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "We're the Gemini app team, your inside source for product news, tips & tricks, and unfiltered enthusiasm.",
-      "followersCount": 152650,
+      "followersCount": 152660,
       "friendsCount": 35,
       "location": "Mountain View, CA"
     },
@@ -211,7 +261,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "The latest breakthroughs and the future of AI for business leaders.",
-      "followersCount": 230420,
+      "followersCount": 230427,
       "friendsCount": 793,
       "location": "Santa Clara, CA"
     },
@@ -247,8 +297,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 249053,
-      "friendsCount": 7940,
+      "followersCount": 249054,
+      "friendsCount": 7941,
       "location": "United States"
     },
     "images": [
@@ -265,8 +315,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 249053,
-      "friendsCount": 7940,
+      "followersCount": 249054,
+      "friendsCount": 7941,
       "location": "United States"
     },
     "images": [],
@@ -281,8 +331,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 249053,
-      "friendsCount": 7940,
+      "followersCount": 249054,
+      "friendsCount": 7941,
       "location": "United States"
     },
     "images": [],
@@ -297,7 +347,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 184526,
+      "followersCount": 184533,
       "friendsCount": 6845,
       "location": ""
     },
@@ -315,7 +365,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 127642,
+      "followersCount": 127638,
       "friendsCount": 1339,
       "location": "Chicago, IL"
     },
@@ -360,6 +410,22 @@
     "tweetUrl": "https://x.com/GaryMarcus/status/1947753997705875662",
     "fullText": "Detailed comparison of the new DeepMind and OpenAI gold performances (to the extent that is even possible), co-written with @ErnestSDavis, only at Marcus on AI. https://t.co/7IDGP1RAUF",
     "createdAt": "Tue Jul 22 20:21:55 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "aala008",
+      "name": "AquaDawg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1737515141648773120/x7NHQ1Ge_normal.jpg",
+      "description": "",
+      "followersCount": 59,
+      "friendsCount": 495,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aala008/status/1947752151260008767",
+    "fullText": "@politico If it's that outrageous he should file a libel suit haha. 😀",
+    "createdAt": "Tue Jul 22 20:14:35 +0000 2025"
   },
   {
     "user": {
@@ -491,7 +557,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 184526,
+      "followersCount": 184533,
       "friendsCount": 6845,
       "location": ""
     },
@@ -557,8 +623,8 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 411441,
-      "friendsCount": 1282,
+      "followersCount": 411446,
+      "friendsCount": 1283,
       "location": "Austin, TX"
     },
     "images": [],
@@ -1386,7 +1452,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 554044,
+      "followersCount": 554054,
       "friendsCount": 1955,
       "location": "Palo Alto"
     },
@@ -3137,6 +3203,22 @@
   },
   {
     "user": {
+      "screenName": "AlleNingTsui",
+      "name": "Allen X",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940787761767645184/x-pnnkzr_normal.jpg",
+      "description": "Grew up with trauma. Ended the cycle for my daughter. Built 6-figure assets for her from 10k debt. Helping 1M fathers grow into self-made dads their kids trust.",
+      "followersCount": 100,
+      "friendsCount": 58,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AlleNingTsui/status/1947438000503218458",
+    "fullText": "I made peace with my mom today. The person i hated for decades. I finally showed her the respect a son is supposed to show—listen to everything she said. The hardest part was admitting she didn’t do anything wrong. She just didn’t know another way was possible. I feel like",
+    "createdAt": "Mon Jul 21 23:26:15 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "ishookco",
       "name": "iShook",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1933498011901906944/2l4rGAix_normal.jpg",
@@ -3373,7 +3455,7 @@
       "name": "Bhartendu Vimal Joshi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943600560243961856/vxGGAtnz_normal.jpg",
       "description": "Bootstrapping to $1M ARR.",
-      "followersCount": 313,
+      "followersCount": 312,
       "friendsCount": 564,
       "location": ""
     },
@@ -3539,7 +3621,7 @@
       "name": "Isidore Leroy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1933506927926865921/hQtls0zA_normal.jpg",
       "description": "✨Fine wallpapers since 1842.\n🌐 Worldwide shipping\n💙 Printed with care\n🇫🇷 Made in France",
-      "followersCount": 54,
+      "followersCount": 57,
       "friendsCount": 78,
       "location": "Bordeaux, France"
     },
@@ -3589,7 +3671,7 @@
       "name": "Opera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929542584352858112/ywlq6NFs_normal.jpg",
       "description": "Opera - your personal browser",
-      "followersCount": 631722,
+      "followersCount": 631730,
       "friendsCount": 400,
       "location": "Norway"
     },
