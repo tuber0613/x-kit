@@ -1,12 +1,135 @@
 [
   {
     "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
+      "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
+      "followersCount": 53805,
+      "friendsCount": 848,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/1949836679898071464",
+    "fullText": "Algorithmic changes like GSPO for Qwen are mostly a reflection of subtle different needs of a new base model - RL dataset combo rather than being major innovation in fundamentals.\n\nInfra and data matter much more than minor RL algorithm tweaks.",
+    "createdAt": "Mon Jul 28 14:17:45 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 148926,
+      "friendsCount": 4749,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/1949835782765621735",
+    "fullText": "We thought we would get xAI open-source but got zAI so even better 😅😅😅",
+    "createdAt": "Mon Jul 28 14:14:11 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
+      "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
+      "followersCount": 80001,
+      "friendsCount": 1079,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949834497064685568/vid/avc1/1280x720/8AqxibK0yd_oZjO9.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/1949834539989172543",
+    "fullText": "Hear how leading organizations are moving agentic AI from pilot projects to production, transforming workflows, enabling real-time decisions, and laying the groundwork for enterprise-wide adoption.\n\nA conversation with Databricks CIO Naveen Zutshi and @sportsbetcomau’s Niall https://t.co/ZJiBBQASAg",
+    "createdAt": "Mon Jul 28 14:09:15 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
+      "followersCount": 416910,
+      "friendsCount": 3050,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw8yV-PXEAECAl2.png",
+      "https://pbs.twimg.com/media/Gw8zNaDX0AEzg4N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/1949833496781783165",
+    "fullText": "GLM-4.5 is now on anycoder https://t.co/mzK57R2qbN",
+    "createdAt": "Mon Jul 28 14:05:06 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870151418864140289/LPX3j0s7_normal.jpg",
+      "description": "Building for the next era of art, entertainment and human creativity. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 253260,
+      "friendsCount": 323,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949820543126888448/vid/avc1/1920x1080/eAxK_z7LlKQFYI5m.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/1949833477781610505",
+    "fullText": "We're excited to announce that we've partnered with @IMAX to bring our third edition of the AI Film Festival to select IMAX Theatres nationwide. This first-of-its-kind event includes four days of screenings across ten cities from August 17 - 20.\n\nTickets are on sale now at the https://t.co/D27tic36OH",
+    "createdAt": "Mon Jul 28 14:05:01 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 28074,
+      "friendsCount": 1003,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949827394627575808/vid/avc1/1280x720/UwSqxwwf37fxyKX9.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/1949828480885281159",
+    "fullText": "阿里刚刚开源的通义万相Wan2.2，印象最深的是其生成人体后空翻的能力，几乎无瑕疵\n\n其次是它的美学表达，电影大片的既视感，对光和色调的理解，镜头的运用，以及镜头中人物情绪的表达都提升了几个级别\n\n这次开源了三款模型\n文生视频：Wan2.2-T2V-A14B，MoE架构\n图生视频：Wan2.2-I2V-A14B，MoE架构 https://t.co/8UdgJIrIZ3",
+    "createdAt": "Mon Jul 28 13:45:10 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "AGI.Eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
+      "followersCount": 153646,
+      "friendsCount": 5079,
+      "location": "Montréal, Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw8sNiWW0AAfSXV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/1949826083349561508",
+    "fullText": "[ ✨🌌 AGI ALPHA: THE GREATEST OPPORTUNITY OF OUR TIME! 🌌✨ ]\n\nHumanity stands at the edge of a $15 quadrillion shift powered by AGI.\n\nAre you ready?\n\n📜🪐🌸 https://t.co/FItC8NO9bP 🔱✨\n\n#AGI #AGIALPHA #AGIFirst https://t.co/c8bSTKMYLP",
+    "createdAt": "Mon Jul 28 13:35:38 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 249505,
-      "friendsCount": 7957,
+      "followersCount": 249513,
+      "friendsCount": 7958,
       "location": "United States"
     },
     "images": [
@@ -23,7 +146,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 416907,
+      "followersCount": 416910,
       "friendsCount": 3050,
       "location": ""
     },
@@ -39,7 +162,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad || tinkerer/investor https://t.co/iLpIJT2Vlg || founder makerpad (acq by zapier)",
-      "followersCount": 161577,
+      "followersCount": 161579,
       "friendsCount": 421,
       "location": "online"
     },
@@ -55,7 +178,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 416907,
+      "followersCount": 416910,
       "friendsCount": 3050,
       "location": ""
     },
@@ -73,7 +196,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 416907,
+      "followersCount": 416910,
       "friendsCount": 3050,
       "location": ""
     },
@@ -91,7 +214,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 416907,
+      "followersCount": 416910,
       "friendsCount": 3050,
       "location": ""
     },
@@ -109,7 +232,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 95269,
+      "followersCount": 95263,
       "friendsCount": 1173,
       "location": ""
     },
@@ -127,7 +250,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "I lead @Cohere_Labs. Formerly Research @Google Brain @GoogleDeepmind. ML Efficiency at scale, LLMs, ML reliability. Changing spaces where breakthroughs happen.",
-      "followersCount": 48042,
+      "followersCount": 48043,
       "friendsCount": 9155,
       "location": "Santa Monica, CA"
     },
@@ -146,7 +269,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 28072,
+      "followersCount": 28074,
       "friendsCount": 1003,
       "location": ""
     },
@@ -165,7 +288,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 589746,
+      "followersCount": 589762,
       "friendsCount": 5137,
       "location": "San Francisco, CA"
     },
@@ -181,7 +304,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153648,
+      "followersCount": 153646,
       "friendsCount": 5079,
       "location": "Montréal, Québec"
     },
@@ -193,11 +316,29 @@
   },
   {
     "user": {
+      "screenName": "DigitalBDinc",
+      "name": "DigitalBDinc",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1648693488203210752/V5DNLc2J_normal.jpg",
+      "description": "We use AI to uncover what is really happening in US markets.  Math, statistics and probability are our true north.",
+      "followersCount": 710,
+      "friendsCount": 3,
+      "location": "Newport Beach, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949796647057383424/vid/avc1/1280x720/wVY_X88W81QIIcPh.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/DigitalBDinc/status/1949797006471479387",
+    "fullText": "@HCTriangle $HCTI Financial News https://t.co/ZaZenooIk1 Squeeze starts at $0.076 https://t.co/jPlsqtkptT Shortsellers exposed https://t.co/sNQ85Qz878 Report https://t.co/b0Lm6tgtox Secures major contracts and expands Ai powered EHR services nationwide https://t.co/oTmFRAC8Mh https://t.co/3VofAxCCVv",
+    "createdAt": "Mon Jul 28 11:40:06 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 419195,
+      "followersCount": 419198,
       "friendsCount": 514,
       "location": "🇺🇸 Collaborations →"
     },
@@ -215,7 +356,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 97459,
+      "followersCount": 97457,
       "friendsCount": 423,
       "location": ""
     },
@@ -249,7 +390,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️proud Aegean, I work on computer vision, VLMs & agents | gençleri serbest bırakın",
-      "followersCount": 78117,
+      "followersCount": 78121,
       "friendsCount": 4761,
       "location": "Paris"
     },
@@ -267,7 +408,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 28072,
+      "followersCount": 28074,
       "friendsCount": 1003,
       "location": ""
     },
@@ -286,7 +427,7 @@
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
       "description": "founder @midjourney, prev founder leap motion, nasa, max planck - random vibeposting @davidvibesonly",
-      "followersCount": 91233,
+      "followersCount": 91239,
       "friendsCount": 8327,
       "location": "San Francisco, CA"
     },
@@ -501,6 +642,22 @@
     "tweetUrl": "https://x.com/KirkDBorne/status/1949640592939425794",
     "fullText": "Went out for a quiet Sunday drive. Or so I thought. https://t.co/Ot6C7pnwkM",
     "createdAt": "Mon Jul 28 01:18:34 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "hansmann",
+      "name": "Will Hansmann",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1125234127291203584/t-VbzD11_normal.png",
+      "description": "",
+      "followersCount": 189,
+      "friendsCount": 449,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hansmann/status/1949636326858580379",
+    "fullText": "I'm a techno-optimist and see future abundance, but I'm clear-eyed: AI &amp; robots are coming fast.  What happens when paychecks fade? A wage-driven economy stalls. The foundational loop of capitalism - trading labor for wages - will break.  We will need a new economic contract.",
+    "createdAt": "Mon Jul 28 01:01:37 +0000 2025"
   },
   {
     "user": {
@@ -1005,6 +1162,24 @@
     "tweetUrl": "https://x.com/UVADemocracy/status/1949192749195907189",
     "fullText": "You're invited to join us for Democracy360 this October 15-17 in Charlottesville, Virginia. Take part and explore democracy from all angles as we hear from some of the nation's leading voices. Be sure to secure your free tickets today!  https://t.co/g7ZPtXiAf7",
     "createdAt": "Sat Jul 26 19:39:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "techwithkramer",
+      "name": "Techwithkramer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1717234526341013505/RfzEEZlP_normal.jpg",
+      "description": "Entrepreneur and Problem-Solver. A day without learning something new is a lost day.",
+      "followersCount": 564,
+      "friendsCount": 116,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949188242953138176/vid/avc1/724x470/s7WbkYTSdDoU1nVk.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/techwithkramer/status/1949189579418022373",
+    "fullText": "FSD just saved me and my Cyber Truck - does anyone have any explanation why these cars are crossing the intersection while I have a green light with green arrow? Did they all run the red light or am I missing something? Not the first time FSD is saving me from a crash - if you https://t.co/wOmxAV2d6Z",
+    "createdAt": "Sat Jul 26 19:26:24 +0000 2025"
   },
   {
     "user": {
