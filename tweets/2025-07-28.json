@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "ESYudkowsky",
+      "name": "Eliezer Yudkowsky ⏹️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934759522050166788/xKpgxWW5_normal.jpg",
+      "description": "The original AI alignment person.  Missing punctuation at the end of a sentence means it's humor.  If you're not sure, it's also very likely humor.",
+      "followersCount": 204051,
+      "friendsCount": 100,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ESYudkowsky/status/1949843571059958197",
+    "fullText": "A huge vulnerable population still has a little money, because it's not worthwhile for a smart criminal team to manage someone's whole life just to extract $20k/year.  Once LLMs get better at agenting, it'll be cheap to put a full-time team of experts on exploiting every human.",
+    "createdAt": "Mon Jul 28 14:45:08 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
+      "followersCount": 416913,
+      "friendsCount": 3050,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw86e37W4AAt7KU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/1949841517260034060",
+    "fullText": "GLM-4.5 \n\nCreate a pelican riding bicycle SVG https://t.co/kT2QkU3f5P",
+    "createdAt": "Mon Jul 28 14:36:58 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 28074,
+      "friendsCount": 1003,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw8ws_wagAAsBxD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/1949839039642890472",
+    "fullText": "刚刚智谱的GLM-4.5也出来了，推理、代码与智能体的统一模型\n\n4.5在单个模型中把推理、编码和智能体能力做了原生融合\n\n其在工具调用以及任务完成度上表现优秀，与Claude-4-Sonnet比有提升空间，在大部分场景中可实现平替效果\n\nGLM-4.5：总计 355B / 32B \nGLM-4.5-Air：总计 106B / 12B \n\nGLM-4.5 https://t.co/pxrEyfHv3H",
+    "createdAt": "Mon Jul 28 14:27:07 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 249497,
+      "friendsCount": 7958,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw83_90agAA3N-Q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1949838739066482809",
+    "fullText": "Makes sense https://t.co/s2SJVG3TsY",
+    "createdAt": "Mon Jul 28 14:25:56 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "rebecca_szkutak",
+      "name": "Becca Szkutak",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945669574868803584/DS45KFLN_normal.jpg",
+      "description": "Senior writer @TechCrunch\n\nBBQ Betch, 2001 Coldplay apologist, Pilates teacher \nShe/her",
+      "followersCount": 6360,
+      "friendsCount": 1246,
+      "location": "Brooklyn, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rebecca_szkutak/status/1949837598949605852",
+    "fullText": "Never thought I'd see the day but after confirming my appointment no less than 4 times, my dentist is now trying to reschedule with ME",
+    "createdAt": "Mon Jul 28 14:21:24 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "natolambert",
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 53805,
+      "followersCount": 53808,
       "friendsCount": 848,
       "location": "Seattle"
     },
@@ -21,7 +107,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 148926,
+      "followersCount": 148932,
       "friendsCount": 4749,
       "location": "Miami / New York / Paris"
     },
@@ -37,7 +123,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 80001,
+      "followersCount": 80002,
       "friendsCount": 1079,
       "location": "HQ: San Francisco, CA"
     },
@@ -55,7 +141,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 416910,
+      "followersCount": 416913,
       "friendsCount": 3050,
       "location": ""
     },
@@ -74,7 +160,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870151418864140289/LPX3j0s7_normal.jpg",
       "description": "Building for the next era of art, entertainment and human creativity. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 253260,
+      "followersCount": 253267,
       "friendsCount": 323,
       "location": "New York, USA"
     },
@@ -85,6 +171,24 @@
     "tweetUrl": "https://x.com/runwayml/status/1949833477781610505",
     "fullText": "We're excited to announce that we've partnered with @IMAX to bring our third edition of the AI Film Festival to select IMAX Theatres nationwide. This first-of-its-kind event includes four days of screenings across ten cities from August 17 - 20.\n\nTickets are on sale now at the https://t.co/D27tic36OH",
     "createdAt": "Mon Jul 28 14:05:01 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "No_code_Daddy",
+      "name": "Soham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1842436029946417152/plFsuDmO_normal.jpg",
+      "description": "Get rich or die tryin",
+      "followersCount": 13,
+      "friendsCount": 2,
+      "location": "Toronto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw8xHaQX0AA_Nb2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/No_code_Daddy/status/1949831188493050086",
+    "fullText": "You’ve had the idea for months.\n\nStill sitting in your notes app.\n\nStill waiting for “the right time.”\n\nLet me guess, you’ve watched every tutorial, tried 3 tools, and called it progress.\n\nBeen there.\n\nThat’s why I built Buildnocodehustle, and it’s now LIVE.\n\nIt’s not a Slack https://t.co/OrHZuwNX7z",
+    "createdAt": "Mon Jul 28 13:55:56 +0000 2025"
   },
   {
     "user": {
@@ -110,7 +214,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153646,
+      "followersCount": 153647,
       "friendsCount": 5079,
       "location": "Montréal, Québec"
     },
@@ -128,7 +232,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 249513,
+      "followersCount": 249497,
       "friendsCount": 7958,
       "location": "United States"
     },
@@ -142,11 +246,29 @@
   },
   {
     "user": {
+      "screenName": "LeonardoFreixas",
+      "name": "Leonardo Freixas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947799697696948225/_ML5Xnx6_normal.jpg",
+      "description": "Built in the dark. Returning with the light.\nWriting leadership truths others won’t say.\nExec-turned-Entrepreneur | The Signal ⚡ | Dad of 3",
+      "followersCount": 53,
+      "friendsCount": 73,
+      "location": "Miami, Florida"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949818452476092416/vid/avc1/720x720/vJeJIf0CSXDe2lTK.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/LeonardoFreixas/status/1949818627902914571",
+    "fullText": "You can’t grow if you keep grieving who you used to be.\n🌱 https://t.co/yAoeE2Wiv2",
+    "createdAt": "Mon Jul 28 13:06:01 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "_akhaliq",
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 416910,
+      "followersCount": 416913,
       "friendsCount": 3050,
       "location": ""
     },
@@ -162,7 +284,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad || tinkerer/investor https://t.co/iLpIJT2Vlg || founder makerpad (acq by zapier)",
-      "followersCount": 161579,
+      "followersCount": 161577,
       "friendsCount": 421,
       "location": "online"
     },
@@ -178,7 +300,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 416910,
+      "followersCount": 416913,
       "friendsCount": 3050,
       "location": ""
     },
@@ -196,7 +318,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 416910,
+      "followersCount": 416913,
       "friendsCount": 3050,
       "location": ""
     },
@@ -214,7 +336,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 416910,
+      "followersCount": 416913,
       "friendsCount": 3050,
       "location": ""
     },
@@ -232,7 +354,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 95263,
+      "followersCount": 95264,
       "friendsCount": 1173,
       "location": ""
     },
@@ -250,7 +372,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "I lead @Cohere_Labs. Formerly Research @Google Brain @GoogleDeepmind. ML Efficiency at scale, LLMs, ML reliability. Changing spaces where breakthroughs happen.",
-      "followersCount": 48043,
+      "followersCount": 48044,
       "friendsCount": 9155,
       "location": "Santa Monica, CA"
     },
@@ -288,7 +410,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 589762,
+      "followersCount": 589774,
       "friendsCount": 5137,
       "location": "San Francisco, CA"
     },
@@ -304,7 +426,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153646,
+      "followersCount": 153647,
       "friendsCount": 5079,
       "location": "Montréal, Québec"
     },
@@ -338,7 +460,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 419198,
+      "followersCount": 419208,
       "friendsCount": 514,
       "location": "🇺🇸 Collaborations →"
     },
@@ -1146,6 +1268,24 @@
     "tweetUrl": "https://x.com/ReformDAO/status/1949440622898659446",
     "fullText": "GM everyone\n\nHave you been busy all week hunting the newest coin and trend?\n\nUse today to reflect what you achieved and where you want to be next.\n\nSetting goals is the first step to grow.\n\nOur alltime goal is your success. https://t.co/tOqGGX2hhE",
     "createdAt": "Sun Jul 27 12:03:58 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "WillBerchDFW",
+      "name": "Will Berchelmann",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1944085638736703488/xlvQulNp_normal.jpg",
+      "description": "Well-traveled seeker of Metaphysics & the Unknown; passion for Rucking & Fitness; Owner of Self-Reliant Society (prepping for all at https://t.co/qZia1CGSsd).",
+      "followersCount": 335,
+      "friendsCount": 187,
+      "location": "Dallas, Texas - USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw0tGO9XoAARCrb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WillBerchDFW/status/1949264069355028948",
+    "fullText": "⚠️ There are countless reasons to be in shape, but have you considered how you'd fare physically in an emergency? Are you healthy or fit enough to go without electricity, cars, or AC for more than a few days—especially if securing provisions meant walking long distances in https://t.co/jKTGMiGelo",
+    "createdAt": "Sun Jul 27 00:22:24 +0000 2025"
   },
   {
     "user": {
