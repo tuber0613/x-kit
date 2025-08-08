@@ -1,12 +1,48 @@
 [
   {
     "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 104947,
+      "friendsCount": 511,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx0CKwaWEAAYaa9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/1953720369623232758",
+    "fullText": "https://t.co/5kzYm7AuR5(torch.bfloat16)\n\nis pure evil API design\n\nIf x is a tensor, it leaves x unaffected and returns a new converted tensor.\n\nIf x is a model, it's converted in-place. IMO, following the convention, that one should be called to_\n\nBut it gets better!\n\nIn the https://t.co/OoflaBqgTc",
+    "createdAt": "Fri Aug 08 07:30:09 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Distributing Intelligence. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
+      "followersCount": 285054,
+      "friendsCount": 23,
+      "location": "London"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx0BOKUXIAAgZgq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/1953719161084940360",
+    "fullText": "Star Wars sucks we should be building a Star Trek future instead 🖖 https://t.co/6GfekVGGAI",
+    "createdAt": "Fri Aug 08 07:25:21 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "amasad",
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 373171,
-      "friendsCount": 1383,
+      "followersCount": 373172,
+      "friendsCount": 1382,
       "location": "CA"
     },
     "images": [],
@@ -23,8 +59,8 @@
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 373171,
-      "friendsCount": 1383,
+      "followersCount": 373172,
+      "friendsCount": 1382,
       "location": "CA"
     },
     "images": [],
@@ -55,7 +91,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 561212,
+      "followersCount": 561224,
       "friendsCount": 1963,
       "location": "Palo Alto"
     },
@@ -71,7 +107,7 @@
       "name": "Hattie Zhou",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1849574118670336001/t5ZnEciH_normal.jpg",
       "description": "I want to understand things deeply and explain them well. Building friendly AI @AnthropicAI\n\nGive me anonymous feedback: https://t.co/7aBNrpbad8",
-      "followersCount": 9626,
+      "followersCount": 9627,
       "friendsCount": 844,
       "location": "San Francisco"
     },
@@ -89,7 +125,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 28256,
+      "followersCount": 28257,
       "friendsCount": 1017,
       "location": ""
     },
@@ -109,7 +145,7 @@
       "name": "Chris Olah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1422800200146378753/TdaSuRIB_normal.jpg",
       "description": "Reverse engineering neural networks at @AnthropicAI. Previously @distillpub, OpenAI Clarity Team, Google Brain. Personal account.",
-      "followersCount": 119528,
+      "followersCount": 119532,
       "friendsCount": 180,
       "location": "San Francisco, CA"
     },
@@ -125,7 +161,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 223862970,
+      "followersCount": 223864323,
       "friendsCount": 1176,
       "location": ""
     },
@@ -141,7 +177,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2550545,
+      "followersCount": 2550556,
       "friendsCount": 704,
       "location": "Bay Area"
     },
@@ -157,7 +193,7 @@
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
       "description": "founder @midjourney, prev founder leap motion, nasa, max planck - random vibeposting @davidvibesonly",
-      "followersCount": 91575,
+      "followersCount": 91581,
       "friendsCount": 8382,
       "location": "San Francisco, CA"
     },
@@ -173,7 +209,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 96584,
+      "followersCount": 96581,
       "friendsCount": 1177,
       "location": ""
     },
@@ -191,7 +227,7 @@
       "name": "Above & Beyond",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886143224764649472/Zo1cpsbM_normal.jpg",
       "description": "Balanced wisdom for self-authorship",
-      "followersCount": 452,
+      "followersCount": 453,
       "friendsCount": 54,
       "location": "My Publication:"
     },
@@ -209,7 +245,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 467403,
+      "followersCount": 467409,
       "friendsCount": 5538,
       "location": "Maryland, USA"
     },
@@ -227,7 +263,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153733,
+      "followersCount": 153734,
       "friendsCount": 5089,
       "location": "Montréal, Québec"
     },
@@ -243,7 +279,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 467403,
+      "followersCount": 467409,
       "friendsCount": 5538,
       "location": "Maryland, USA"
     },
@@ -261,7 +297,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 866682,
+      "followersCount": 866686,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -295,7 +331,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 54597,
+      "followersCount": 54601,
       "friendsCount": 848,
       "location": "Seattle"
     },
@@ -517,7 +553,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 96584,
+      "followersCount": 96581,
       "friendsCount": 1177,
       "location": ""
     },
@@ -1109,7 +1145,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 3875576,
+      "followersCount": 3875713,
       "friendsCount": 966,
       "location": "SF"
     },
@@ -1252,11 +1288,30 @@
   },
   {
     "user": {
+      "screenName": "HebbiaAI",
+      "name": "Hebbia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1810137626638483456/bUFO8ceN_normal.jpg",
+      "description": "The AI agent platform for investors, bankers, and lawyers.\n\nSave hours of your life and get better work done. \n\nBook a demo 👉",
+      "followersCount": 10491,
+      "friendsCount": 256,
+      "location": "hello@hebbia.com"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxwWfrnWkAAOwEu.jpg",
+      "https://pbs.twimg.com/media/GxwWfrtWIAAO5bs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/HebbiaAI/status/1953501578968605039",
+    "fullText": "1/ As early-access partners with @OpenAI, we’ve been stress testing GPT‑5 for weeks on the most complex financial analyst agent tasks.\n\nIt’s not hype. It’s incredible.\n\nInvesting &amp; banking jobs will never be the same. 👇🧵 https://t.co/5OSz7gNBYc",
+    "createdAt": "Thu Aug 07 17:00:45 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "PalabraAI",
       "name": "Palabra.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885334030284951552/QKfNy8Eb_normal.jpg",
       "description": "Real-Time AI Speech Interpreter",
-      "followersCount": 796,
+      "followersCount": 804,
       "friendsCount": 204,
       "location": "London"
     },
@@ -1285,6 +1340,22 @@
     "tweetUrl": "https://x.com/stellaomalley3/status/1953477264743530524",
     "fullText": "New on Beyond Gender: @LeorSapir joins me &amp; @_CryMiaRiver to expose the collapse of standards in gender medicine.\n\n“They can’t even define what they’re treating.”\n\nAffirmation isn’t care - it’s ideology in disguise.\n\nPremieres Thurs 8pm Irish / 3pm ET https://t.co/V2PbugNmNK",
     "createdAt": "Thu Aug 07 15:24:08 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "anythingai",
+      "name": "Anything",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953219821501595650/I_gBVKvV_normal.png",
+      "description": "what if the future was already here?",
+      "followersCount": 11198,
+      "friendsCount": 9,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/anythingai/status/1953475973216628901",
+    "fullText": "Make something. Launch everything.\n\nMeet Anything:\n⤑ Just describe what you want\n⤑ Get a full app\n⤑ Start now, &amp; ship ASAP",
+    "createdAt": "Thu Aug 07 15:19:00 +0000 2025"
   },
   {
     "user": {
@@ -1420,6 +1491,24 @@
     ],
     "tweetUrl": "https://x.com/NatConTalk/status/1953278077481697602",
     "fullText": "For 7 years, NatCon has shaped the conversation on the nationalist right. Now, with President Trump, VP Vance, and many other good friends in office in DC, we're taking NatCon to a whole new level. Come and join the party!\n\nNatCon 5 | Washington, DC | September 2-4, 2025 https://t.co/4g3s6fEmKn",
+    "createdAt": "Thu Aug 07 02:12:38 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "NatConTalk",
+      "name": "National Conservatism",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1674426671741698054/Jx3N3MiM_normal.jpg",
+      "description": "Register for NatCon 5 | Washington, DC | Sept. 2-4, 2025 \nhttps://t.co/lMbMgignE0",
+      "followersCount": 28057,
+      "friendsCount": 498,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1940534888370782209/vid/avc1/1920x1080/936Fmz_YnyknjA8s.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NatConTalk/status/1953278077460771070",
+    "fullText": "For 7 years, NatCon has shaped the conversation on the nationalist right. Now, with President Trump, VP Vance, and many other good friends in office in DC, we're taking NatCon to a whole new level. Come and join the party!\n\nNatCon 5 | Washington, DC | September 2-4, 2025 https://t.co/vnliv7rEjE",
     "createdAt": "Thu Aug 07 02:12:38 +0000 2025"
   },
   {
