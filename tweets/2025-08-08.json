@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "Mostly research and code. If universe is an optimizer, what is its loss function? All opinions are my own.",
+      "followersCount": 13061,
+      "friendsCount": 10507,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/1953837354323497101",
+    "fullText": "TIL: Mammals have roughly the same lifespan when measured in the number of heartbeats, regardless of body size.",
+    "createdAt": "Fri Aug 08 15:15:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 151203,
+      "friendsCount": 4751,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx1h8p6XgAA-AY_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/1953836962563207644",
+    "fullText": "So excited to announce that @huggingface @LeRobotHF can now be installed with a simple pip install and just crossed 15,000 @github stars!\n\nIt's already integrated into hundreds of robots, ranging from simple hand grippers like the SO-100/101 all the way to some of the most https://t.co/Ug0Lf7CvJM",
+    "createdAt": "Fri Aug 08 15:13:27 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 98122,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx1rMYbbsAAi7CS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/1953835877555151134",
+    "fullText": "💡 You get 2,000 free Qwen Code runs every day!\n\nRun this one simple command:\nnpx @​qwen-code/qwen-code@latest\nHit Enter, and that’s it!\n🚀 Now with Qwen OAuth support — super easy to use.\nTry it now and supercharge your vibe code! 💻⚡\nGithub：https://t.co/8ITh20WTbV https://t.co/D1olWFlno0",
+    "createdAt": "Fri Aug 08 15:09:08 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
+      "followersCount": 594069,
+      "friendsCount": 5166,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/1953831894795076000",
+    "fullText": "GPT5 likes to use tables far too much. How do I turn this off?",
+    "createdAt": "Fri Aug 08 14:53:18 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
+      "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
+      "followersCount": 80260,
+      "friendsCount": 1080,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gx1nsvSWgAAF2Np.mp4"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/1953831852524925292",
+    "fullText": "Lakeflow Declarative Pipelines is now GA, with major updates that take the complexity and cost out of building production ETL.\n\nRecent engine optimizations have reduced TCO by up to 70% for serverless pipelines, while new features make it easier to modularize, migrate, and https://t.co/XUljolZmf2",
+    "createdAt": "Fri Aug 08 14:53:08 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "Built two AI companies, wrote six books, tried to warn you about a lot of things.",
-      "followersCount": 186284,
+      "followersCount": 186287,
       "friendsCount": 6854,
       "location": ""
     },
@@ -21,7 +107,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1198939,
+      "followersCount": 1198965,
       "friendsCount": 279,
       "location": "London, UK"
     },
@@ -57,7 +143,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 414406,
+      "followersCount": 414413,
       "friendsCount": 1292,
       "location": "Austin, TX"
     },
@@ -73,7 +159,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 594094,
+      "followersCount": 594069,
       "friendsCount": 5166,
       "location": "San Francisco, CA"
     },
@@ -91,7 +177,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 594094,
+      "followersCount": 594069,
       "friendsCount": 5166,
       "location": "San Francisco, CA"
     },
@@ -107,7 +193,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 594094,
+      "followersCount": 594069,
       "friendsCount": 5166,
       "location": "San Francisco, CA"
     },
@@ -123,7 +209,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 866768,
+      "followersCount": 866776,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -141,7 +227,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 250566,
+      "followersCount": 250567,
       "friendsCount": 7983,
       "location": "United States"
     },
@@ -157,7 +243,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 250566,
+      "followersCount": 250567,
       "friendsCount": 7983,
       "location": "United States"
     },
@@ -175,7 +261,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 419421,
+      "followersCount": 419397,
       "friendsCount": 3060,
       "location": ""
     },
@@ -193,7 +279,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 419421,
+      "followersCount": 419397,
       "friendsCount": 3060,
       "location": ""
     },
@@ -211,7 +297,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 419421,
+      "followersCount": 419397,
       "friendsCount": 3060,
       "location": ""
     },
@@ -229,7 +315,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 419421,
+      "followersCount": 419397,
       "friendsCount": 3060,
       "location": ""
     },
@@ -247,7 +333,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 419421,
+      "followersCount": 419397,
       "friendsCount": 3060,
       "location": ""
     },
@@ -265,7 +351,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870151418864140289/LPX3j0s7_normal.jpg",
       "description": "Building for the next era of art, entertainment and human creativity. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 256568,
+      "followersCount": 256573,
       "friendsCount": 323,
       "location": "New York, USA"
     },
@@ -457,7 +543,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 129739,
+      "followersCount": 129738,
       "friendsCount": 1357,
       "location": "Chicago, IL"
     },
@@ -939,7 +1025,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 54628,
+      "followersCount": 54627,
       "friendsCount": 848,
       "location": "Seattle"
     },
@@ -1095,7 +1181,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 54628,
+      "followersCount": 54627,
       "friendsCount": 848,
       "location": "Seattle"
     },
@@ -1481,7 +1567,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 467362,
+      "followersCount": 467423,
       "friendsCount": 5538,
       "location": "Maryland, USA"
     },
@@ -1585,7 +1671,7 @@
       "name": "Old Glory Bank",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945179280331206656/1rAvgcNl_normal.jpg",
       "description": "It's a free country. Bank like it.",
-      "followersCount": 24223,
+      "followersCount": 24236,
       "friendsCount": 98,
       "location": "Sea to Shining Sea"
     },
@@ -1703,7 +1789,7 @@
       "name": "Windsurf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916931366161420291/020yjIAw_normal.jpg",
       "description": "Tomorrow's Editor, Today.  \n@WindsurfCurrent",
-      "followersCount": 66105,
+      "followersCount": 66135,
       "friendsCount": 19,
       "location": "Silicon Valley"
     },
@@ -1814,7 +1900,7 @@
       "name": "Microsoft Azure",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1268207800313774080/KF9pXfXU_normal.jpg",
       "description": "Limitless innovation. ☁️ Follow along for the latest news and resources from the official #MicrosoftAzure team. For help, contact @AzureSupport.",
-      "followersCount": 1065037,
+      "followersCount": 1065043,
       "friendsCount": 20,
       "location": "Redmond, WA"
     },
@@ -1971,7 +2057,7 @@
       "name": "Anything",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1953219821501595650/I_gBVKvV_normal.png",
       "description": "what if the future was already here?",
-      "followersCount": 11367,
+      "followersCount": 11650,
       "friendsCount": 9,
       "location": "SF"
     },
@@ -2157,7 +2243,7 @@
       "name": "National Conservatism",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1674426671741698054/Jx3N3MiM_normal.jpg",
       "description": "Register for NatCon 5 | Washington, DC | Sept. 2-4, 2025 \nhttps://t.co/lMbMgignE0",
-      "followersCount": 28057,
+      "followersCount": 28067,
       "friendsCount": 498,
       "location": ""
     },
