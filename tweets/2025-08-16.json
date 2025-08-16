@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "karpathy",
+      "name": "Andrej Karpathy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+      "description": "Building @EurekaLabsAI. Previously Director of AI @ Tesla, founding team @ OpenAI, CS231n/PhD @ Stanford. I like to train large deep neural nets 🧠🤖💥",
+      "followersCount": 1369346,
+      "friendsCount": 1005,
+      "location": "Stanford"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/karpathy/status/1956765908078387382",
+    "fullText": "I am (slowly) re-reading the Tolkien legendarium (of which Lord of the Rings is a small part). The whole body of work is so incredible and there's nothing else like it... it dilutes other worlds of fiction. Wait - your story doesn't have a comprehensive history/mythology spanning",
+    "createdAt": "Sat Aug 16 17:12:02 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
+      "followersCount": 61086,
+      "friendsCount": 34033,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyfRpA_bYAEpSg-.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/1956763074050023850",
+    "fullText": "alert the media https://t.co/DvEN85e2Ko",
+    "createdAt": "Sat Aug 16 17:00:46 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
+      "description": "⚡ Build context-aware, reasoning applications ⚡",
+      "followersCount": 209420,
+      "friendsCount": 36,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyfReTdaUAASH_X.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/1956762884756885518",
+    "fullText": "🤖 🕷️ ScrapeCraft: AI Web Scraping Editor\n\nUses AI and LangGraph to power intelligent web scraping with automated code generation and real-time data streaming. Simplifies complex scraping workflows through bulk URL support.\n\nCheck it out! 🚀\nhttps://t.co/FXkM2RTygd https://t.co/fcokfGoVzJ",
+    "createdAt": "Sat Aug 16 17:00:01 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "lmarena_ai",
+      "name": "lmarena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927385934024105985/dbNOM1In_normal.png",
+      "description": "LMArena: Open Platform for Community-driven AI Benchmarking. Graduated from UC Berkeley / @lmsysorg. We’re hiring: https://t.co/1OkfLq2n0I",
+      "followersCount": 87828,
+      "friendsCount": 206,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1956758809684398080/vid/avc1/1920x1080/6Hzr987SRHkFB-Gw.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/lmarena_ai/status/1956760671368155329",
+    "fullText": "🍌 Thousands of new people jumped into Image Arena Battle mode this week - our intern can barely keep up!\n\nWhat happens in Battle mode? 🧵\n\nWe partner directly with model providers to give you early access to cutting-edge models still in development, often before you can try them https://t.co/mQBaSJq5qJ",
+    "createdAt": "Sat Aug 16 16:51:13 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 105865,
+      "friendsCount": 511,
+      "location": "Zürich, Suisse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/1956760639164043698",
+    "fullText": "Goddamn, tool-use in kids is *extremely* flaky.\n\nI'm regularly impressed by the creativity of what tools my kid (4y) comes up with, especially during play.\n\nAt the same time, I'm regularly frustrated that i have to hint him the most basic tools in the most basic scenarios ever,",
+    "createdAt": "Sat Aug 16 16:51:05 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "databricks",
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 80538,
+      "followersCount": 80540,
       "friendsCount": 1080,
       "location": "HQ: San Francisco, CA"
     },
@@ -57,7 +143,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I share insights on how to build with AI Agents ⬇️",
-      "followersCount": 260111,
+      "followersCount": 260115,
       "friendsCount": 652,
       "location": ""
     },
@@ -76,7 +162,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
       "followersCount": 324739,
-      "friendsCount": 20670,
+      "friendsCount": 20668,
       "location": "Cambridge, MA"
     },
     "images": [
@@ -93,7 +179,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 291993,
+      "followersCount": 292005,
       "friendsCount": 79,
       "location": "United States"
     },
@@ -111,7 +197,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 209418,
+      "followersCount": 209420,
       "friendsCount": 36,
       "location": ""
     },
@@ -129,8 +215,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 251140,
-      "friendsCount": 7991,
+      "followersCount": 251139,
+      "friendsCount": 7990,
       "location": "United States"
     },
     "images": [],
@@ -147,7 +233,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 415701,
+      "followersCount": 415744,
       "friendsCount": 1296,
       "location": "Austin, TX"
     },
@@ -163,7 +249,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 130356,
+      "followersCount": 130362,
       "friendsCount": 1360,
       "location": "Chicago, IL"
     },
@@ -179,7 +265,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153680,
+      "followersCount": 153679,
       "friendsCount": 5078,
       "location": "Montréal, Québec"
     },
@@ -197,7 +283,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 415701,
+      "followersCount": 415744,
       "friendsCount": 1296,
       "location": "Austin, TX"
     },
@@ -229,8 +315,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 61087,
-      "friendsCount": 34032,
+      "followersCount": 61086,
+      "friendsCount": 34033,
       "location": "latent space"
     },
     "images": [
@@ -263,7 +349,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 55018,
+      "followersCount": 55013,
       "friendsCount": 850,
       "location": "Seattle"
     },
@@ -279,8 +365,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 251140,
-      "friendsCount": 7991,
+      "followersCount": 251139,
+      "friendsCount": 7990,
       "location": "United States"
     },
     "images": [],
@@ -295,8 +381,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 251140,
-      "friendsCount": 7991,
+      "followersCount": 251139,
+      "friendsCount": 7990,
       "location": "United States"
     },
     "images": [],
@@ -311,8 +397,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 251140,
-      "friendsCount": 7991,
+      "followersCount": 251139,
+      "friendsCount": 7990,
       "location": "United States"
     },
     "images": [],
@@ -327,8 +413,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 251140,
-      "friendsCount": 7991,
+      "followersCount": 251139,
+      "friendsCount": 7990,
       "location": "United States"
     },
     "images": [],
@@ -343,7 +429,7 @@
       "name": "Karen Hao",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905964698631380993/kWKDXj4K_normal.jpg",
       "description": "NYT bestselling author of EMPIRE OF AI: https://t.co/wh5mCWc2mo. ai reporter. american national magazine award winner. words in @theatlantic @wsj @techreview.",
-      "followersCount": 72641,
+      "followersCount": 72646,
       "friendsCount": 1189,
       "location": "Hong Kong"
     },
@@ -364,7 +450,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️proud Aegean, I work on computer vision, VLMs & agents | gençleri serbest bırakın",
-      "followersCount": 79025,
+      "followersCount": 79026,
       "friendsCount": 4770,
       "location": "Paris"
     },
@@ -382,7 +468,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153680,
+      "followersCount": 153679,
       "friendsCount": 5078,
       "location": "Montréal, Québec"
     },
@@ -398,7 +484,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 421797,
+      "followersCount": 421792,
       "friendsCount": 513,
       "location": "🇺🇸 Collaborations →"
     },
@@ -500,7 +586,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 224285859,
+      "followersCount": 224297417,
       "friendsCount": 1184,
       "location": ""
     },
@@ -912,7 +998,7 @@
       "name": "Steve Shultz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1842405744886308864/JDnB-hav_normal.jpg",
       "description": "Founder, https://t.co/qBoW0MNCrH , #MAGA #PATRIOT!   #XRP, Gold, Silver, #dinar zealot!   #Prophets  #JESUSCHRIST #TRUMP! 🇺🇸🙏🇺🇸",
-      "followersCount": 23359,
+      "followersCount": 23363,
       "friendsCount": 4232,
       "location": ""
     },
