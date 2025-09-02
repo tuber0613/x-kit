@@ -1,11 +1,113 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 28802,
+      "friendsCount": 1034,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzznTmvaoAAJAyL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/1962703209677689182",
+    "fullText": "无需OCR，基于ColQwen2、Qwen2.5和Weaviate对PDF进行多模态RAG的方法\n\n此方法用ColQwen2直接将PDF页面截图作为图像进行处理，去除了OCR和分块步骤\n\n首先嵌入截图，把PDF文档转换为图像截图，用 ColQwen2把截图转为向量表示\n\n把这些向量存入Weaviate向量数据库 https://t.co/DxpmARfzdU",
+    "createdAt": "Tue Sep 02 02:24:45 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 575476,
+      "friendsCount": 1972,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/1962700408289403326",
+    "fullText": "If you are under 100 years old and not working at least 80 hours a week, you will pay the price later in life.",
+    "createdAt": "Tue Sep 02 02:13:37 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI researcher & former stats professor turned LLM research engineer. Author of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW).",
+      "followersCount": 353703,
+      "friendsCount": 1051,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gzzh3iEWIAAqVjI.mp4"
+    ],
+    "tweetUrl": "https://x.com/rasbt/status/1962695306757185647",
+    "fullText": "Really liking the chainlit open source lib for building a quick but nice chat interface for any LLM. \nHere are some quick single and multi-turn examples for my Qwen3 from-scratch models: https://t.co/XnVaGVHPk8 https://t.co/Y0LlVJz0yK",
+    "createdAt": "Tue Sep 02 01:53:20 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 417509,
+      "friendsCount": 1312,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1962695174326202846",
+    "fullText": "Labor Day?\n\nSounds like some commie gobbledigook.\n\nWhen is Capital Day?",
+    "createdAt": "Tue Sep 02 01:52:49 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 417509,
+      "friendsCount": 1312,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzzgQDHWwAAyzuU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1962690122807161256",
+    "fullText": "Backyard vibes https://t.co/2igJfaobTQ",
+    "createdAt": "Tue Sep 02 01:32:44 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+      "description": "",
+      "followersCount": 225073204,
+      "friendsCount": 1194,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/1962685170013872508",
+    "fullText": "White feathers for the cowards",
+    "createdAt": "Tue Sep 02 01:13:04 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 307130,
+      "followersCount": 307137,
       "friendsCount": 784,
       "location": ""
     },
@@ -21,7 +123,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 468641,
+      "followersCount": 468652,
       "friendsCount": 5544,
       "location": "Maryland, USA"
     },
@@ -39,7 +141,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 190828,
+      "followersCount": 190830,
       "friendsCount": 6890,
       "location": ""
     },
@@ -57,7 +159,7 @@
       "name": "Google Gemini App",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3, Deep Think, and more to hundreds of millions of people.",
-      "followersCount": 188432,
+      "followersCount": 188505,
       "friendsCount": 37,
       "location": "Mountain View, CA"
     },
@@ -78,7 +180,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 424069,
+      "followersCount": 424095,
       "friendsCount": 3075,
       "location": ""
     },
@@ -96,8 +198,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 250898,
-      "friendsCount": 9771,
+      "followersCount": 250902,
+      "friendsCount": 9769,
       "location": "ānanda tāṇḍava"
     },
     "images": [],
@@ -112,7 +214,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 575456,
+      "followersCount": 575476,
       "friendsCount": 1972,
       "location": "Palo Alto"
     },
@@ -146,7 +248,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 307130,
+      "followersCount": 307137,
       "friendsCount": 784,
       "location": ""
     },
@@ -162,7 +264,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 294442,
+      "followersCount": 294454,
       "friendsCount": 79,
       "location": "United States"
     },
@@ -180,7 +282,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 225065739,
+      "followersCount": 225073204,
       "friendsCount": 1194,
       "location": ""
     },
@@ -196,7 +298,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 131773,
+      "followersCount": 131801,
       "friendsCount": 1375,
       "location": "Chicago, IL"
     },
@@ -212,7 +314,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 417500,
+      "followersCount": 417509,
       "friendsCount": 1312,
       "location": "Austin, TX"
     },
@@ -274,6 +376,24 @@
   },
   {
     "user": {
+      "screenName": "PlayTrackerNet",
+      "name": "PlayTracker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1670831464089284611/dQL6_Xb3_normal.jpg",
+      "description": "All of gaming, together. PlayTracker connects to the most popular platforms out there and unites gamer data. All games, achievements, stats - now in one place.",
+      "followersCount": 1707,
+      "friendsCount": 53,
+      "location": "Zagreb, Croatia"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gzx5EdUXUAEkast.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PlayTrackerNet/status/1962576724350157276",
+    "fullText": "Games slated to release near Silksong are being delayed to avoid competing with the most wishlisted game on Steam. \n\nIt's probably a good idea: Silksong is so big that it has a huge overlap with every game, regardless of genre.\n\nBut not all are running... how will they fare? https://t.co/XUWgRjbRd0",
+    "createdAt": "Mon Sep 01 18:02:08 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "mervenoyann",
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
@@ -323,5 +443,21 @@
     "tweetUrl": "https://x.com/KodamaTales/status/1962415343831523493",
     "fullText": "Step into the ring and enter the Baki the Grappler Giveaway now!!\n\nThis is your shot at winning a signed copy of Volume 1 by the legendary Keisuke Itagaki\n\nBring your fighting spirit and show us what you’ve got!\n\nSubmit your entry by Sep 30 at 11:59 PM PT via the link in our bio! https://t.co/bcbhLCIS4k",
     "createdAt": "Mon Sep 01 07:20:52 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "onetj",
+      "name": "TJ Thinakaran (he/him)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1504579225700823061/2PGLefNN_normal.jpg",
+      "description": "Cofounder @EZTexting . Blogging at https://t.co/BY0ih8nUal",
+      "followersCount": 498,
+      "friendsCount": 884,
+      "location": "Santa Monica, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/onetj/status/1962027732591902838",
+    "fullText": "Vibe coding is an unfortunate name. You’re not vibing, you’re wrestling. With a machine smarter and faster than you’ll ever be.\n\nYou’re just trying to get it to do what’s in your head, and somehow it makes even the best of us feel stupid. It’s exhausting. And it’s exhilarating.",
+    "createdAt": "Sun Aug 31 05:40:38 +0000 2025"
   }
 ]
