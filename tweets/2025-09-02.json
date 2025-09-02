@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 131878,
+      "friendsCount": 1375,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1963007536673460274",
+    "fullText": "有网友问我有没有去除 AI 味的提示词，说实话，真没有，包括网上号称能去掉 AI 味的提示词我都试过，没有靠谱的。\n这其实是个悖论：如果 AI 知道自己有 AI 味，它就不会写出 AI 味，你让它自己去掉 AI 味它都不知道怎么写出没有 AI 味的内容。\n就我的经验，要让写出的内容没有 AI",
+    "createdAt": "Tue Sep 02 22:34:02 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 28841,
+      "friendsCount": 1034,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz37wBDbAAcnWCh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/1963005626910752976",
+    "fullText": "阿里放出了全新智能体开发框架：AgentScope 1.0，核心是深度融合了实时介入控制、智能上下文管理、高效工具调用能力\n\n把智能体开发、部署、监控打包成了一条生产线\n\n1、基于异步架构，原生支持实时中断和自定义中断处理\n可以安全中断，支持状态持续，任务流无缝续接\n可以实时打断，支持实时干预 https://t.co/yoydQ6Hydr",
+    "createdAt": "Tue Sep 02 22:26:26 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ESYudkowsky",
+      "name": "Eliezer Yudkowsky ⏹️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934759522050166788/xKpgxWW5_normal.jpg",
+      "description": "The original AI alignment person.  Missing punctuation at the end of a sentence means it's humor.  If you're not sure, it's also very likely humor.",
+      "followersCount": 206724,
+      "friendsCount": 101,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz39_ORbAAM9SmW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ESYudkowsky/status/1963004650778722726",
+    "fullText": "If you want to join Q&amp;A with myself and Nate Soares on Thursday (Sep 4th), make sure you've submitted proof-of-purchase for your preorder of \"If Anyone Builds It, Everyone Dies\".  (And, of course, make sure you've preordered the book; as is the correct decision in any case.) https://t.co/chc2f92JdF",
+    "createdAt": "Tue Sep 02 22:22:34 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 252124,
+      "followersCount": 252126,
       "friendsCount": 7974,
       "location": "United States"
     },
@@ -26,7 +78,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 417539,
+      "followersCount": 417540,
       "friendsCount": 1313,
       "location": "Austin, TX"
     },
@@ -42,7 +94,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Distributing Intelligence. Building the Intelligent Internet @ii_posts. Founder @StabilityAI.",
-      "followersCount": 288162,
+      "followersCount": 288163,
       "friendsCount": 23,
       "location": "London"
     },
@@ -58,7 +110,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 252124,
+      "followersCount": 252126,
       "friendsCount": 7974,
       "location": "United States"
     },
@@ -76,7 +128,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 252124,
+      "followersCount": 252126,
       "friendsCount": 7974,
       "location": "United States"
     },
@@ -108,7 +160,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 252124,
+      "followersCount": 252126,
       "friendsCount": 7974,
       "location": "United States"
     },
@@ -126,7 +178,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 873312,
+      "followersCount": 873314,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -144,7 +196,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 61338,
+      "followersCount": 61335,
       "friendsCount": 34078,
       "location": "latent space"
     },
@@ -180,7 +232,7 @@
       "name": "Fei-Fei Li",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
       "description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #SpatialIntelligence #GenAI #computervision #robotics #AI-healthcare",
-      "followersCount": 518148,
+      "followersCount": 518154,
       "friendsCount": 1138,
       "location": "Stanford, CA, U.S.A."
     },
@@ -198,7 +250,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 307201,
+      "followersCount": 307203,
       "friendsCount": 784,
       "location": ""
     },
@@ -214,7 +266,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 423555,
+      "followersCount": 423556,
       "friendsCount": 514,
       "location": "🇺🇸 Collaborations →"
     },
@@ -606,7 +658,7 @@
       "name": "andrew chen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1610236905643249664/OdYs6aWP_normal.jpg",
       "description": "🇺🇸 a16z speedrun",
-      "followersCount": 316072,
+      "followersCount": 316082,
       "friendsCount": 13702,
       "location": ""
     },
@@ -1184,8 +1236,8 @@
       "name": "Hugo Larochelle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1962856110106288128/2nOBCybB_normal.jpg",
       "description": "Mila Scientific Director. Ex @Google DeepMind & Twitter Cortex. Father of 4. // Directeur scientifique à Mila. Ex @Google DeepMind & Twitter Cortex. Père de 4.",
-      "followersCount": 120696,
-      "friendsCount": 634,
+      "followersCount": 120721,
+      "friendsCount": 636,
       "location": ""
     },
     "images": [],
