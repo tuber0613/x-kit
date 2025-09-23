@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885417240146685952/kmZVMGbW_normal.png",
+      "description": "Updates for developers building with the OpenAI Platform and API • Service status: https://t.co/kZwnwdYqOS • Support: https://t.co/qCi6M5ESZU",
+      "followersCount": 226649,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/1970535239048159237",
+    "fullText": "GPT-5-Codex is live in the Responses API.\n\nIf you use the Codex CLI via API key, you can now also use GPT-5-Codex.",
+    "createdAt": "Tue Sep 23 17:06:26 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1737543874615349248/QRmHmR_N_normal.png",
+      "description": "AI pioneers train, fine-tune, and run frontier models on our GPU cloud platform.",
+      "followersCount": 50456,
+      "friendsCount": 389,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1i8_KBXkAAH4rA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/1970532635916038320",
+    "fullText": "The Washington Post processes 1.79 billion tokens every month powering \"Ask The Post AI\"\n\nThey needed reliable inference without vendor lock-in. Fixed costs. Full model ownership.\n\nTogether AI's Dedicated Endpoints delivered. https://t.co/kln19z3Vlq",
+    "createdAt": "Tue Sep 23 16:56:05 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "CaimingXiong",
+      "name": "Caiming Xiong",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/620325010444423168/rPerKdzU_normal.jpg",
+      "description": "SVP, AI Research Lead at @Salesforce | ex-MetaMind (Opinions are personal.)",
+      "followersCount": 7355,
+      "friendsCount": 466,
+      "location": "Salesforce"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CaimingXiong/status/1970530174178636195",
+    "fullText": "🤔 Ever wonder if your LLM verifier is actually reliable for your task? Stuck between scaling up for accuracy or scaling down for cost?\n\nMeet “Variation in Verification” — our new analysis framework that dissects what makes verification work (or fail).\n\n📊Paper:",
+    "createdAt": "Tue Sep 23 16:46:18 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 423355,
+      "followersCount": 423368,
       "friendsCount": 1324,
       "location": "Austin, TX"
     },
@@ -21,7 +71,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 878034,
+      "followersCount": 878045,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -39,7 +89,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 326603,
+      "followersCount": 326607,
       "friendsCount": 20637,
       "location": "Cambridge, MA"
     },
@@ -58,7 +108,7 @@
       "name": "Google Gemini App",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3, Deep Think, Nano Banana and more to hundreds of millions of people.",
-      "followersCount": 216396,
+      "followersCount": 216417,
       "friendsCount": 38,
       "location": "Mountain View, CA"
     },
@@ -74,7 +124,7 @@
       "name": "Azeem Azhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
       "description": "Exponential View @exponentialview.",
-      "followersCount": 47647,
+      "followersCount": 47649,
       "friendsCount": 2297,
       "location": "2.718281828459045"
     },
@@ -92,7 +142,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 606519,
+      "followersCount": 606528,
       "friendsCount": 5203,
       "location": "San Francisco, CA"
     },
@@ -108,7 +158,7 @@
       "name": "Stability AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1952432488648724480/9CFXnHx6_normal.png",
       "description": "We’ll help you make it like nobody’s business. Multimodal media generation and editing tools to get your idea to production. Self-deploy? 👍 Need a partner? 🤝",
-      "followersCount": 243089,
+      "followersCount": 243091,
       "friendsCount": 21,
       "location": ""
     },
@@ -145,7 +195,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 606519,
+      "followersCount": 606528,
       "friendsCount": 5203,
       "location": "San Francisco, CA"
     },
@@ -161,7 +211,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 156062,
+      "followersCount": 156068,
       "friendsCount": 4756,
       "location": "Miami / New York / Paris"
     },
@@ -215,7 +265,7 @@
       "name": "Qwen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
       "description": "Open foundation models for AGI.",
-      "followersCount": 113159,
+      "followersCount": 113191,
       "friendsCount": 4,
       "location": ""
     },
@@ -233,7 +283,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 602809,
+      "followersCount": 602828,
       "friendsCount": 1980,
       "location": "Palo Alto"
     },
@@ -269,7 +319,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I share insights on how to build with AI Agents ↓",
-      "followersCount": 265140,
+      "followersCount": 265156,
       "friendsCount": 678,
       "location": ""
     },
@@ -287,7 +337,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 424891,
+      "followersCount": 424885,
       "friendsCount": 508,
       "location": "🇺🇸 Collaborations →"
     },
@@ -739,7 +789,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 424891,
+      "followersCount": 424885,
       "friendsCount": 508,
       "location": "🇺🇸 Collaborations →"
     },
