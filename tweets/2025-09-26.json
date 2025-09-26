@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 425224,
+      "friendsCount": 509,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/1971653500930347288",
+    "fullText": "These are the best models per use case (the ones I use):\n\n• Everyday: GPT-5 and Gemini 2.5 Pro\n• Reasoning: GPT-5 Thinking\n• Real-time news: Grok 4\n• Coding: Claude Sonnet 4 and GPT-5\n• Fast: Gemini Flash 2.5\n• Images: Nano Banana\n• Video: Veo 3",
+    "createdAt": "Fri Sep 26 19:10:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 134489,
+      "friendsCount": 1394,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1971513251684102144/vid/avc1/1920x1080/nsstTwzajrmeTbVU.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1971650716839162261",
+    "fullText": "https://t.co/mMu8GglyXD 让孩子学什么，未来不会被AI取代？\n\n有人问OpenAI的CEO Sam Altman 一个问题：“你会建议自己的儿子去学习什么，才能确保30年后他的工作不会被AI取代？”\n\nAltman 的回答很有意思。他首先提到了一组让人震惊的数字：",
+    "createdAt": "Fri Sep 26 18:58:57 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "fchollet",
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 575028,
+      "followersCount": 575026,
       "friendsCount": 816,
       "location": "United States"
     },
@@ -21,7 +55,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 81909,
+      "followersCount": 81910,
       "friendsCount": 1081,
       "location": "HQ: San Francisco, CA"
     },
@@ -39,7 +73,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "The latest breakthroughs and the future of AI for business leaders.",
-      "followersCount": 238732,
+      "followersCount": 238740,
       "friendsCount": 792,
       "location": "Santa Clara, CA"
     },
@@ -57,7 +91,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 644800,
+      "followersCount": 644805,
       "friendsCount": 35,
       "location": ""
     },
@@ -89,7 +123,7 @@
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 385789,
+      "followersCount": 385791,
       "friendsCount": 1415,
       "location": "CA"
     },
@@ -107,7 +141,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 134494,
+      "followersCount": 134489,
       "friendsCount": 1394,
       "location": "Chicago, IL"
     },
@@ -125,7 +159,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2079926,
+      "followersCount": 2079887,
       "friendsCount": 779,
       "location": ""
     },
@@ -143,7 +177,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885417240146685952/kmZVMGbW_normal.png",
       "description": "Updates for developers building with the OpenAI Platform and API • Service status: https://t.co/kZwnwdYqOS • Support: https://t.co/qCi6M5ESZU",
-      "followersCount": 227230,
+      "followersCount": 227235,
       "friendsCount": 1,
       "location": ""
     },
@@ -159,7 +193,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 56561,
+      "followersCount": 56562,
       "friendsCount": 855,
       "location": "Seattle"
     },
@@ -177,7 +211,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️proud Aegean, I work on computer vision, VLMs & agents | gençleri serbest bırakın",
-      "followersCount": 80109,
+      "followersCount": 80111,
       "friendsCount": 4793,
       "location": "Paris"
     },
@@ -193,7 +227,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 326736,
+      "followersCount": 326739,
       "friendsCount": 20633,
       "location": "Cambridge, MA"
     },
@@ -209,7 +243,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 99399,
+      "followersCount": 99397,
       "friendsCount": 605,
       "location": "Stanford, CA"
     },
@@ -225,7 +259,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 318737,
+      "followersCount": 318751,
       "friendsCount": 782,
       "location": ""
     },
@@ -241,7 +275,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 81909,
+      "followersCount": 81910,
       "friendsCount": 1081,
       "location": "HQ: San Francisco, CA"
     },
@@ -259,7 +293,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 425213,
+      "followersCount": 425224,
       "friendsCount": 509,
       "location": "🇺🇸 Collaborations →"
     },
@@ -277,7 +311,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 427966,
+      "followersCount": 427963,
       "friendsCount": 3095,
       "location": ""
     },
@@ -295,7 +329,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 318737,
+      "followersCount": 318751,
       "friendsCount": 782,
       "location": ""
     },
@@ -311,7 +345,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—San Francisco Dem accelerating the boom loop—e/acc—technology brother",
-      "followersCount": 607725,
+      "followersCount": 607731,
       "friendsCount": 5218,
       "location": "San Francisco, CA"
     },
@@ -329,7 +363,7 @@
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, ONEAI OECD, co-chair @indexingai, writer @ https://t.co/3vmtHYkIJ2 Past: @openai, @business @theregister. Neural nets, distributed systems, weird futures",
-      "followersCount": 88913,
+      "followersCount": 88914,
       "friendsCount": 4641,
       "location": "San Francisco, CA"
     },
@@ -345,7 +379,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153447,
+      "followersCount": 153446,
       "friendsCount": 5103,
       "location": "Montréal, Québec"
     },
@@ -363,7 +397,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of investment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 61784,
+      "followersCount": 61787,
       "friendsCount": 34125,
       "location": "latent space"
     },
@@ -1711,7 +1745,7 @@
       "name": "Alexandr Wang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
       "description": "chief ai officer @meta, founder @scale_ai. rational in the fullness of time",
-      "followersCount": 331241,
+      "followersCount": 331267,
       "friendsCount": 838,
       "location": "San Francisco, CA"
     },
