@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+      "description": "https://t.co/9qhgzJ69UQ",
+      "followersCount": 226975364,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/1973509505918046541",
+    "fullText": ".",
+    "createdAt": "Wed Oct 01 22:05:06 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
+      "followersCount": 342190,
+      "friendsCount": 64,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2NPe4qbkAA8r3w.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/1973508460814999726",
+    "fullText": "Weight transfer is one of the biggest bottlenecks when performing distributed RL on high-capacity models.\n\nOur first Perplexity Research blog explains how Perplexity's inference engineers harnessed RDMA point-to-point communication to unlock ultra-fast parameter updates for https://t.co/UdQ0YbP90k",
+    "createdAt": "Wed Oct 01 22:00:57 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
+      "description": "The latest breakthroughs and the future of AI for business leaders.",
+      "followersCount": 239300,
+      "friendsCount": 792,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1973199959064264704/vid/avc1/1080x1080/QV8-Rw2P2BgxxsDE.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/1973508221277974707",
+    "fullText": "🔬 AI is accelerating discovery across science.\n\nFrom drug design to climate modeling to space exploration, breakthroughs once thought decades away are now within reach.\n\nJoin in-person sessions to see how #AI is:\n💊 Reshaping drug discovery and #healthcare\n🌍 Advancing climate https://t.co/kU9q7aojeY",
+    "createdAt": "Wed Oct 01 22:00:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "RichardSocher",
+      "name": "Richard Socher",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1232361282759610368/YYxndVmI_normal.jpg",
+      "description": "CEO  @youdotcom\nMP @aixventuresHQ\n\nBefore: Stanford Adj Prof in AI/NLP, Chief Scientist at Salesforce, MetaMind",
+      "followersCount": 112651,
+      "friendsCount": 1079,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RichardSocher/status/1973503545912778837",
+    "fullText": "I love longer form interviews with thoughtful journalists who go beyond the usual default questions. This was a great one on the question whether machines can think.\n\nhttps://t.co/6qHpjh8NzR",
+    "createdAt": "Wed Oct 01 21:41:25 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
+      "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
+      "followersCount": 82031,
+      "friendsCount": 1082,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1973501938164498432/vid/avc1/720x1280/9vczFL8Y7Zlt_G16.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/1973502043965804717",
+    "fullText": "Databricks’ Ken Wong shares how AI-powered BI works best when paired with real context and business semantics. It’s not replacing dashboards, but supplementing them — especially where ad hoc questions and flexible views matter most.\n\nWatch the full discussion with https://t.co/8gWDQSCzZD",
+    "createdAt": "Wed Oct 01 21:35:27 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 319287,
+      "followersCount": 319285,
       "friendsCount": 782,
       "location": ""
     },
@@ -23,7 +109,7 @@
       "name": "Ai2",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
       "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
-      "followersCount": 73614,
+      "followersCount": 73610,
       "friendsCount": 410,
       "location": "Seattle, WA"
     },
@@ -60,7 +146,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 298271,
+      "followersCount": 298270,
       "friendsCount": 91,
       "location": "United States"
     },
@@ -78,7 +164,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153404,
+      "followersCount": 153405,
       "friendsCount": 5102,
       "location": "Montréal, Québec"
     },
@@ -96,7 +182,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Figuring out AI @allen_ai, open models, RLHF, fine-tuning, etc\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book\nMountain runner",
-      "followersCount": 57037,
+      "followersCount": 57040,
       "friendsCount": 858,
       "location": "Seattle"
     },
@@ -114,7 +200,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153404,
+      "followersCount": 153405,
       "friendsCount": 5102,
       "location": "Montréal, Québec"
     },
@@ -132,7 +218,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I share insights on how to build with AI Agents ↓",
-      "followersCount": 266537,
+      "followersCount": 266553,
       "friendsCount": 681,
       "location": "DAIR.AI Academy"
     },
@@ -150,7 +236,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153404,
+      "followersCount": 153405,
       "friendsCount": 5102,
       "location": "Montréal, Québec"
     },
@@ -168,7 +254,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153404,
+      "followersCount": 153405,
       "friendsCount": 5102,
       "location": "Montréal, Québec"
     },
@@ -186,7 +272,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "The latest breakthroughs and the future of AI for business leaders.",
-      "followersCount": 239296,
+      "followersCount": 239300,
       "friendsCount": 792,
       "location": "Santa Clara, CA"
     },
@@ -204,7 +290,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153404,
+      "followersCount": 153405,
       "friendsCount": 5102,
       "location": "Montréal, Québec"
     },
@@ -222,7 +308,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 99526,
+      "followersCount": 99527,
       "friendsCount": 605,
       "location": "Stanford, CA"
     },
@@ -238,7 +324,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153404,
+      "followersCount": 153405,
       "friendsCount": 5102,
       "location": "Montréal, Québec"
     },
@@ -256,7 +342,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153404,
+      "followersCount": 153405,
       "friendsCount": 5102,
       "location": "Montréal, Québec"
     },
@@ -274,7 +360,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153404,
+      "followersCount": 153405,
       "friendsCount": 5102,
       "location": "Montréal, Québec"
     },
@@ -292,7 +378,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 881916,
+      "followersCount": 881926,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -310,7 +396,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 256265,
+      "followersCount": 256270,
       "friendsCount": 10063,
       "location": "ānanda tāṇḍava"
     },
@@ -326,7 +412,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - unleash the power of your content with AI",
-      "followersCount": 2544965,
+      "followersCount": 2544971,
       "friendsCount": 729,
       "location": "Bay Area"
     },
@@ -342,7 +428,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 424919,
+      "followersCount": 424921,
       "friendsCount": 1333,
       "location": "Austin, TX"
     },
@@ -360,7 +446,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️",
-      "followersCount": 80249,
+      "followersCount": 80251,
       "friendsCount": 4822,
       "location": "Paris"
     },
@@ -378,7 +464,7 @@
       "name": "Midjourney",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
       "description": "A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.",
-      "followersCount": 402326,
+      "followersCount": 402319,
       "friendsCount": 0,
       "location": ""
     },
@@ -394,7 +480,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 425581,
+      "followersCount": 425586,
       "friendsCount": 512,
       "location": "🇺🇸 Collaborations →"
     },
@@ -412,7 +498,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 253090,
+      "followersCount": 253095,
       "friendsCount": 7633,
       "location": "United States"
     },
@@ -430,7 +516,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 253090,
+      "followersCount": 253095,
       "friendsCount": 7633,
       "location": "United States"
     },
@@ -464,7 +550,7 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
-      "followersCount": 55764,
+      "followersCount": 55763,
       "friendsCount": 3215,
       "location": "San Francisco"
     },
@@ -660,7 +746,7 @@
       "name": "General Analysis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1881595505773539328/psFvvVWP_normal.jpg",
       "description": "Automated AI Safety and Red Teaming Tools— Backed by @ycombinator",
-      "followersCount": 1179,
+      "followersCount": 1181,
       "friendsCount": 3,
       "location": "San Francisco"
     },
@@ -1342,7 +1428,7 @@
       "name": "Gregg Roman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1095340760575107072/P1QTmyRD_normal.jpg",
       "description": "Executive Director of @MEForum",
-      "followersCount": 2536,
+      "followersCount": 2570,
       "friendsCount": 2371,
       "location": "Philadelphia, PA"
     },
@@ -2811,7 +2897,7 @@
       "name": "The Elijah List",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1255539138096332800/VtXH0PvD_normal.jpg",
       "description": "THE ELIJAH LIST is called to transmit around the world, in agreement with Scripture, fresh prophetic manna from the Lord, regarding the days in which we live.",
-      "followersCount": 37422,
+      "followersCount": 37442,
       "friendsCount": 296,
       "location": "Albany, OR"
     },
@@ -2916,7 +3002,7 @@
       "name": "ElijahStreams",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1601355969040191488/TEkK023P_normal.jpg",
       "description": "Your daily source of encouragement as our guests give fresh revelation from God. Go to https://t.co/W3oYALUEmM",
-      "followersCount": 10341,
+      "followersCount": 10347,
       "friendsCount": 51,
       "location": "Albany, OR"
     },
@@ -2934,7 +3020,7 @@
       "name": "Steve Shultz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1842405744886308864/JDnB-hav_normal.jpg",
       "description": "Founder, https://t.co/qBoW0MNCrH , #MAGA #PATRIOT!   #XRP, Gold, Silver, #dinar zealot!   #Prophets  #JESUSCHRIST #TRUMP! 🇺🇸🙏🇺🇸",
-      "followersCount": 27955,
+      "followersCount": 27960,
       "friendsCount": 5127,
       "location": ""
     },
