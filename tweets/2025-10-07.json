@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 426277,
+      "friendsCount": 513,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/1975579882244706360",
+    "fullText": "Unfortunately, most MCP implementations I've seen so far rely on:\n\n1. Exposing static API keys\n2. Giving agents over-privileged access to resources\n\nEverywhere I go, I see one of the following problems:\n\n1. Persistent credentials in config files so an agent can access resources",
+    "createdAt": "Tue Oct 07 15:12:03 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "YiMaTweets",
+      "name": "Yi Ma",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
+      "description": "Chair Prof. in AI, HKU; Visiting Prof. of EECS, UCB\nNew book on Principles of Intelligence:\nhttps://t.co/leZlkURb7j",
+      "followersCount": 102865,
+      "friendsCount": 519,
+      "location": "Hong Kong and Berkeley"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/YiMaTweets/status/1975574575355469990",
+    "fullText": "We now know the knowledge that we learn is in the form of (low-dimensional) distributions and then once learned, they are used to conduct Bayesian inference for conditioned prediction or generation. Of course, Bayesian inference now has a fancier name: \"prompt engineering\".",
+    "createdAt": "Tue Oct 07 14:50:57 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "ceobillionaire",
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153394,
+      "followersCount": 153392,
       "friendsCount": 5109,
       "location": "Montréal, Québec"
     },
@@ -23,7 +55,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
       "description": "⚡ Build context-aware, reasoning applications ⚡",
-      "followersCount": 215325,
+      "followersCount": 215331,
       "friendsCount": 40,
       "location": ""
     },
@@ -41,7 +73,7 @@
       "name": "Demis Hassabis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963993428200415232/4uxhiMYX_normal.jpg",
       "description": "Nobel Laureate. Co-Founder & CEO @GoogleDeepMind - working on AGI. Solving disease @IsomorphicLabs. Trying to understand the fundamental nature of reality.",
-      "followersCount": 495744,
+      "followersCount": 495778,
       "friendsCount": 153,
       "location": ""
     },
@@ -53,11 +85,27 @@
   },
   {
     "user": {
+      "screenName": "JoinCrowdHealth",
+      "name": "CrowdHealth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1703133886786555904/8jvowzuI_normal.jpg",
+      "description": "We provide easy to use tools that enable people to live free from the shackles of health insurance and the sickcare system. Fund humans, not health insurance.",
+      "followersCount": 21034,
+      "friendsCount": 1979,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JoinCrowdHealth/status/1975545797086486868",
+    "fullText": "We are the affordable alternative to Obamacare",
+    "createdAt": "Tue Oct 07 12:56:36 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 426267,
+      "followersCount": 426277,
       "friendsCount": 513,
       "location": "🇺🇸 Collaborations →"
     },
@@ -73,7 +121,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2082698,
+      "followersCount": 2082710,
       "friendsCount": 780,
       "location": ""
     },
@@ -89,7 +137,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153394,
+      "followersCount": 153392,
       "friendsCount": 5109,
       "location": "Montréal, Québec"
     },
@@ -121,7 +169,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 29778,
+      "followersCount": 29779,
       "friendsCount": 1074,
       "location": ""
     },
@@ -187,7 +235,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️",
-      "followersCount": 80312,
+      "followersCount": 80313,
       "friendsCount": 4843,
       "location": "Paris"
     },
@@ -225,7 +273,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 609553,
+      "followersCount": 609568,
       "friendsCount": 1978,
       "location": "Palo Alto"
     },
@@ -243,7 +291,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -261,7 +309,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -297,7 +345,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 29778,
+      "followersCount": 29779,
       "friendsCount": 1074,
       "location": ""
     },
@@ -315,7 +363,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -333,7 +381,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -351,7 +399,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -369,7 +417,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -387,7 +435,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -405,7 +453,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -423,7 +471,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 61944,
+      "followersCount": 61943,
       "friendsCount": 34187,
       "location": "latent space"
     },
@@ -441,7 +489,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -459,7 +507,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -479,7 +527,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -498,7 +546,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 470951,
+      "followersCount": 470960,
       "friendsCount": 5620,
       "location": "Maryland, USA"
     },
@@ -516,7 +564,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder 🛡 https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 426340,
+      "followersCount": 426337,
       "friendsCount": 1337,
       "location": "Austin, TX"
     },
@@ -988,7 +1036,7 @@
       "name": "Hivemapper",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1452753067565150209/0vNHg64c_normal.jpg",
       "description": "We build fresher maps for humanity. \n\nJoin a decentralized global community of mappers. Earn rewards. Change the world. Built on @solana, the home of #DePIN.",
-      "followersCount": 55327,
+      "followersCount": 55345,
       "friendsCount": 1150,
       "location": "Null Island"
     },
@@ -1301,6 +1349,22 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972671265002381312/QLJe5-gY_normal.jpg",
       "description": "MONOPOLY IS BACK AT McD’S!! GET YOUR BAG! REGISTRATION AND RULES IN THE APP. https://t.co/qx3XOdl6Z1",
+      "followersCount": 4784126,
+      "friendsCount": 12961,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/1975264724616192382",
+    "fullText": "PLAY MONOPOLY in the McD APP for a chance to WIN WIN WIN!",
+    "createdAt": "Mon Oct 06 18:19:43 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972671265002381312/QLJe5-gY_normal.jpg",
+      "description": "MONOPOLY IS BACK AT McD’S!! GET YOUR BAG! REGISTRATION AND RULES IN THE APP. https://t.co/qx3XOdl6Z1",
       "followersCount": 4784110,
       "friendsCount": 12961,
       "location": ""
@@ -1471,6 +1535,22 @@
     "tweetUrl": "https://x.com/ForkastGG/status/1975206682092560615",
     "fullText": "In September, @Courtyard_io saw a drop in their monthly NFT sales volume from USD 78M to USD 58M.\n\nStill insane numbers but falling just short of this market's USD 60M goal. https://t.co/8C5bpVyMD6",
     "createdAt": "Mon Oct 06 14:29:05 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Hornblasters",
+      "name": "Hornblasters",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1298989145054797826/Z4_u9NA1_normal.jpg",
+      "description": "The original Train Horn kit for your car truck boat whatever! | Since 2002 | Call us today 1-877-209-8179",
+      "followersCount": 34989,
+      "friendsCount": 14,
+      "location": "Tampa, FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Hornblasters/status/1975203645252833285",
+    "fullText": "HornBlasters TV https://t.co/xkGvWT4eHr",
+    "createdAt": "Mon Oct 06 14:17:01 +0000 2025"
   },
   {
     "user": {
