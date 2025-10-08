@@ -1,6 +1,92 @@
 [
   {
     "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder 🛡 https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 426492,
+      "friendsCount": 1338,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2vuDfjWUAA2bNV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1975934609402782098",
+    "fullText": "Your daily reminder to simply apply to Gauntlet AI https://t.co/7sPg5VElBb",
+    "createdAt": "Wed Oct 08 14:41:36 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 157394,
+      "friendsCount": 4765,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2vsMAXXQAAgylT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/1975932594866028831",
+    "fullText": "The @LeRobotHF team is studying the @UnitreeRobotics G1 today in case you have any questions or fun stuff you want us to try! https://t.co/gl6qeQJcTK",
+    "createdAt": "Wed Oct 08 14:33:36 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_normal.jpg",
+      "description": "⚡ Build context-aware, reasoning applications ⚡",
+      "followersCount": 215439,
+      "friendsCount": 40,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/1975931078268317817",
+    "fullText": "Tried the LangChain and LangGraph v1.0 Alpha yet? 👀It’s been a month since the release— and we’re calling on more devs to test it out + share feedback. \n🧠New middleware API for agents\n🧩Standard output/content blocks\n📦New package + major API updates\nAdopt the alpha + tell us",
+    "createdAt": "Wed Oct 08 14:27:34 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 426442,
+      "friendsCount": 513,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2vpB_dW8AAsZBX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/1975929230652490121",
+    "fullText": "There's a new version of the best mouse known to mankind. https://t.co/hk8iEaKgJd",
+    "createdAt": "Wed Oct 08 14:20:14 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 77681,
+      "friendsCount": 41,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/googleaidevs/status/1975928119878943111",
+    "fullText": "Build powerful AI agents with Gemini CLI extensions. Connect Gemini to your toolchain with an open ecosystem of integrations from partners like @Pinecone and @elastic. \n\nGet the details ⬇️\nhttps://t.co/t7Q1uGlI2U",
+    "createdAt": "Wed Oct 08 14:15:49 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Thom_Wolf",
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
@@ -23,7 +109,7 @@
       "name": "Jürgen Schmidhuber",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
       "description": "Invented principles of meta-learning (1987), GANs (1990), Transformers (1991), very deep learning (1991), etc. Our AI is used many billions of times every day.",
-      "followersCount": 165527,
+      "followersCount": 165525,
       "friendsCount": 0,
       "location": "Switzerland, KSA"
     },
@@ -41,7 +127,7 @@
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI researcher & former stats professor turned LLM research engineer. Author of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW).",
-      "followersCount": 359868,
+      "followersCount": 359876,
       "friendsCount": 1067,
       "location": ""
     },
@@ -52,6 +138,27 @@
     "tweetUrl": "https://x.com/rasbt/status/1975922614389408022",
     "fullText": "From the Hierarchical Reasoning Model (HRM) to a new Tiny Recursive Model (TRM).\n\nA few months ago, the HRM made big waves in the AI research community as it showed really good performance on the ARC challenge despite its small 27M size. (That's about 22x smaller than the https://t.co/YhMpn4hlxi",
     "createdAt": "Wed Oct 08 13:53:56 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "BevriFood",
+      "name": "Bevri",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1173950656849145857/vWuW4npM_normal.png",
+      "description": "Georgian Restaurant in Palo Alto, CA",
+      "followersCount": 213,
+      "friendsCount": 89,
+      "location": "Palo Alto, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2viqjqagAARZU8.jpg",
+      "https://pbs.twimg.com/media/G2viqjsaoAECoAs.jpg",
+      "https://pbs.twimg.com/media/G2viqjtbEAEZG0n.jpg",
+      "https://pbs.twimg.com/media/G2viqjsbIAAFmUd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BevriFood/status/1975922240475840795",
+    "fullText": "Tech Week 2025 is here, and we know what to expect.\nYou’ve been pitching, fundraising, leading panels, and your catering… just fell through. Don’t worry, we’ve got you covered.\n\nAt Bevri, we specialize in vibrant Georgian cuisine that brings people together, whether it’s a team https://t.co/4l5jC99BHt",
+    "createdAt": "Wed Oct 08 13:52:27 +0000 2025"
   },
   {
     "user": {
@@ -75,7 +182,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 157390,
+      "followersCount": 157394,
       "friendsCount": 4765,
       "location": "Miami / New York / Paris"
     },
@@ -93,7 +200,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I share insights on how to build with AI Agents ↓",
-      "followersCount": 267652,
+      "followersCount": 267655,
       "friendsCount": 683,
       "location": "DAIR.AI Academy"
     },
@@ -109,7 +216,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870151418864140289/LPX3j0s7_normal.jpg",
       "description": "Building for the next era of art, entertainment and human creativity. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 260095,
+      "followersCount": 260096,
       "friendsCount": 325,
       "location": "New York, USA"
     },
@@ -127,7 +234,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder 🛡 https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 426489,
+      "followersCount": 426492,
       "friendsCount": 1338,
       "location": "Austin, TX"
     },
@@ -143,7 +250,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️",
-      "followersCount": 80321,
+      "followersCount": 80322,
       "friendsCount": 4842,
       "location": "Paris"
     },
@@ -191,7 +298,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 577208,
+      "followersCount": 577207,
       "friendsCount": 819,
       "location": "United States"
     },
@@ -207,7 +314,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 577208,
+      "followersCount": 577207,
       "friendsCount": 819,
       "location": "United States"
     },
@@ -223,7 +330,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 319732,
+      "followersCount": 319735,
       "friendsCount": 782,
       "location": ""
     },
@@ -255,7 +362,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 577208,
+      "followersCount": 577207,
       "friendsCount": 819,
       "location": "United States"
     },
@@ -273,7 +380,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 101652,
+      "followersCount": 101651,
       "friendsCount": 444,
       "location": ""
     },
@@ -291,7 +398,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Distributing Intelligence @ii_posts. Founder @StabilityAI.",
-      "followersCount": 292149,
+      "followersCount": 292153,
       "friendsCount": 25,
       "location": "London"
     },
@@ -307,7 +414,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2083346,
+      "followersCount": 2083369,
       "friendsCount": 779,
       "location": ""
     },
@@ -1036,8 +1143,8 @@
       "name": "Dinesh D'Souza",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1969139625995497472/oIr7LrHF_normal.jpg",
       "description": "Author, Filmmaker, Host of the Dinesh D’Souza Podcast. Follow me on Locals: https://t.co/UDFY7UCJDc",
-      "followersCount": 5252905,
-      "friendsCount": 9693,
+      "followersCount": 5252376,
+      "friendsCount": 9692,
       "location": "United States"
     },
     "images": [],
@@ -1216,7 +1323,7 @@
       "name": "Retool",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1834224558267662336/doykyxMX_normal.png",
       "description": "AI that belongs in your enterprise.\n\nIntroducing enterprise AppGen → https://t.co/z1o1BI5q4P\n\n👾 https://t.co/pelrMyytas\n🙋‍♀️ https://t.co/oiOTLqDSyg",
-      "followersCount": 17737,
+      "followersCount": 17738,
       "friendsCount": 1132,
       "location": "San Francisco, CA"
     },
@@ -1336,7 +1443,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Adaptive Intelligence. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual. Changing spaces where breakthroughs happen.",
-      "followersCount": 50720,
+      "followersCount": 50728,
       "friendsCount": 9375,
       "location": "San Francisco"
     },
@@ -1440,7 +1547,7 @@
       "name": "CrowdHealth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1703133886786555904/8jvowzuI_normal.jpg",
       "description": "We provide easy to use tools that enable people to live free from the shackles of health insurance and the sickcare system. Fund humans, not health insurance.",
-      "followersCount": 21106,
+      "followersCount": 21109,
       "friendsCount": 1980,
       "location": "Austin, TX"
     },
@@ -1780,7 +1887,7 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972671265002381312/QLJe5-gY_normal.jpg",
       "description": "MONOPOLY IS BACK AT McD’S!! GET YOUR BAG! REGISTRATION AND RULES IN THE APP. https://t.co/qx3XOdl6Z1",
-      "followersCount": 4784164,
+      "followersCount": 4784050,
       "friendsCount": 12962,
       "location": ""
     },
