@@ -1,11 +1,81 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 29837,
+      "friendsCount": 1084,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1978097913541632000/vid/avc1/972x544/hnMZMlDjd3q0YAVz.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/1978101253889724476",
+    "fullText": "MIT和英伟达等放出的一款可以实时理解无限长度视频流的视觉语言模型：StreamingVLM，单块H100可达8 FPS\n\n可以用于实时视频助手、直播分析、智能监控、在线会议/课堂助手等等场景\n\n其主要通过紧凑KV缓存机制和流式对齐训练策略来实现，在其Inf-Streams-Eval长视频理解任务超GPT-4o-mini https://t.co/9wIapFMRyb",
+    "createdAt": "Tue Oct 14 14:11:04 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "AGI.Eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
+      "followersCount": 153351,
+      "friendsCount": 5114,
+      "location": "Montréal, Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3OeTVsWAAE7zV4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/1978099067025572041",
+    "fullText": "Diffusion Transformers with Representation Autoencoders\n\nZheng et al.: https://t.co/HnXARVbMtk\n\n#ArtificialIntelligence #DeepLearning #MachineLearning https://t.co/2WR4BpkA3V",
+    "createdAt": "Tue Oct 14 14:02:23 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
+      "followersCount": 320882,
+      "friendsCount": 782,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/1978098974658629762",
+    "fullText": "The average human works approx. 2,000 hours a year. With AI's operating over 30 hours nonstop, I can tell you, we're about to get a bunch of time back.",
+    "createdAt": "Tue Oct 14 14:02:01 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
+      "followersCount": 430900,
+      "friendsCount": 3124,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3ObASRXsAA4hpH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/1978095358753259783",
+    "fullText": "new vibe coding arena on Hugging Face https://t.co/pPBofb0Siy",
+    "createdAt": "Tue Oct 14 13:47:39 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "runwayml",
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870151418864140289/LPX3j0s7_normal.jpg",
       "description": "Building for the next era of art, entertainment and human creativity. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 260218,
+      "followersCount": 260221,
       "friendsCount": 325,
       "location": "New York, USA"
     },
@@ -23,7 +93,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 194703,
+      "followersCount": 194704,
       "friendsCount": 6915,
       "location": ""
     },
@@ -41,7 +111,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 328095,
+      "followersCount": 328097,
       "friendsCount": 20636,
       "location": "Cambridge, MA"
     },
@@ -59,7 +129,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 103176,
+      "followersCount": 103185,
       "friendsCount": 1204,
       "location": ""
     },
@@ -93,7 +163,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 427215,
+      "followersCount": 427199,
       "friendsCount": 513,
       "location": "🇺🇸 Collaborations →"
     },
@@ -109,7 +179,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832391601701736448/FG6P9v2-_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️",
-      "followersCount": 80736,
+      "followersCount": 80733,
       "friendsCount": 4878,
       "location": "Paris"
     },
@@ -127,7 +197,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 62808,
+      "followersCount": 62814,
       "friendsCount": 34226,
       "location": "latent space"
     },
@@ -145,7 +215,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder 🛡 https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 427744,
+      "followersCount": 427731,
       "friendsCount": 1341,
       "location": "Austin, TX"
     },
@@ -161,7 +231,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 427215,
+      "followersCount": 427199,
       "friendsCount": 513,
       "location": "🇺🇸 Collaborations →"
     },
@@ -177,7 +247,7 @@
       "name": "汗青 HQ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
       "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | Japan | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
-      "followersCount": 32889,
+      "followersCount": 32895,
       "friendsCount": 579,
       "location": "Tokyo-to, Japan"
     },
@@ -211,7 +281,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 320879,
+      "followersCount": 320882,
       "friendsCount": 782,
       "location": ""
     },
@@ -264,7 +334,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 101836,
+      "followersCount": 101837,
       "friendsCount": 445,
       "location": ""
     },
@@ -282,7 +352,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Distributing Intelligence @ii_posts. Founder @StabilityAI.",
-      "followersCount": 292717,
+      "followersCount": 292720,
       "friendsCount": 25,
       "location": "London"
     },
@@ -298,7 +368,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 29838,
+      "followersCount": 29837,
       "friendsCount": 1084,
       "location": ""
     },
@@ -316,7 +386,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 227694619,
+      "followersCount": 227686437,
       "friendsCount": 1220,
       "location": ""
     },
@@ -1098,7 +1168,7 @@
       "name": "webAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1819026513829707776/gR1i5qQY_normal.jpg",
       "description": "Enterprise-grade infrastructure for local AI deployment. Powerful models that run on your hardware, keeping data private and secure.",
-      "followersCount": 5400,
+      "followersCount": 5396,
       "friendsCount": 25,
       "location": "Austin, TX"
     },
