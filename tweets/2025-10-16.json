@@ -1,11 +1,81 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 427522,
+      "friendsCount": 513,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3Z18_wbQAAUoMR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/1978898780046135495",
+    "fullText": "Web scraping + Agents in a single FREE session!\n\nThis is a FREE, live session for anyone interested in learning about web scraping, agents, and automations.\n\nThis is happening NEXT week:\n\nThursday, October 23\n10 a.m. PT / 1 p.m. ET\n\nSome of the topics:\n\n• How to use Apify's MCP https://t.co/4vPLABObcX",
+    "createdAt": "Thu Oct 16 19:00:09 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 578374,
+      "friendsCount": 818,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3Z1OvDWAAA0LDi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/1978898718855434320",
+    "fullText": "Run your models faster with quantized low precision in Keras!\n\nYou can quantize any model (one of your own models or a KerasHub pretrained model) via `model.quantize(mode)`.\n\nSupports int4, int8, float8, GPTQ. Works with JAX, TF and torch.\n\nLinks to guides in next tweet. https://t.co/sM1TqPW8Bs",
+    "createdAt": "Thu Oct 16 18:59:55 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "twin dad // droid dealer @FactoryAI // dev tool investor + writer https://t.co/iLpIJT3taO // founder makerpad (acq by zapier)",
+      "followersCount": 166672,
+      "friendsCount": 443,
+      "location": "online"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3Z09oLWEAAeYtX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/1978897693461127457",
+    "fullText": "topping benchmarks\n\nmany such cases for droid https://t.co/3cPxnoaIU8",
+    "createdAt": "Thu Oct 16 18:55:50 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 656812,
+      "friendsCount": 35,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/1978896757489594404",
+    "fullText": "New on the Anthropic Engineering Blog: Our tips for developers on using Agent Skills, a new way to extend Claude's capabilities with instruction folders, scripts, and resources:\n\nhttps://t.co/2liRUo4AWO",
+    "createdAt": "Thu Oct 16 18:52:07 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "garrytan",
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 613006,
+      "followersCount": 613003,
       "friendsCount": 5257,
       "location": "San Francisco, CA"
     },
@@ -23,7 +93,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 471566,
+      "followersCount": 471567,
       "friendsCount": 5629,
       "location": "Maryland, USA"
     },
@@ -41,7 +111,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 471566,
+      "followersCount": 471567,
       "friendsCount": 5629,
       "location": "Maryland, USA"
     },
@@ -63,7 +133,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad // droid dealer @FactoryAI // dev tool investor + writer https://t.co/iLpIJT3taO // founder makerpad (acq by zapier)",
-      "followersCount": 166673,
+      "followersCount": 166672,
       "friendsCount": 443,
       "location": "online"
     },
@@ -79,7 +149,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 194794,
+      "followersCount": 194797,
       "friendsCount": 6912,
       "location": ""
     },
@@ -95,7 +165,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 428117,
+      "followersCount": 428115,
       "friendsCount": 1344,
       "location": "Austin, TX"
     },
@@ -113,7 +183,7 @@
       "name": "Google Gemini App",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3, Deep Think, Nano Banana and more to hundreds of millions of people.",
-      "followersCount": 233663,
+      "followersCount": 233685,
       "friendsCount": 38,
       "location": "Mountain View, CA"
     },
@@ -129,7 +199,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 889245,
+      "followersCount": 889252,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -147,7 +217,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1277954,
+      "followersCount": 1277956,
       "friendsCount": 1039,
       "location": "Palo Alto, CA"
     },
@@ -163,7 +233,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building with AI agents @dair_ai • Prev: Meta AI, Galactica LLM, Elastic, PaperswithCode, PhD • I share insights on how to build with AI Agents ↓",
-      "followersCount": 268851,
+      "followersCount": 268859,
       "friendsCount": 687,
       "location": "DAIR.AI Academy"
     },
@@ -181,7 +251,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 194794,
+      "followersCount": 194797,
       "friendsCount": 6912,
       "location": ""
     },
@@ -200,7 +270,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 656809,
+      "followersCount": 656812,
       "friendsCount": 35,
       "location": ""
     },
@@ -218,7 +288,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1234895,
+      "followersCount": 1234898,
       "friendsCount": 279,
       "location": "London, UK"
     },
@@ -236,7 +306,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 99804,
+      "followersCount": 99803,
       "friendsCount": 606,
       "location": "Stanford, CA"
     },
@@ -252,7 +322,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
-      "followersCount": 349572,
+      "followersCount": 349586,
       "friendsCount": 64,
       "location": "San Francisco, CA"
     },
@@ -288,7 +358,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 471566,
+      "followersCount": 471567,
       "friendsCount": 5629,
       "location": "Maryland, USA"
     },
@@ -1671,7 +1741,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1842405744886308864/JDnB-hav_normal.jpg",
       "description": "Founder, https://t.co/qBoW0MN4C9 , #MAGA #PATRIOT! #XRP, Gold, Silver, #dinar zealot! #Prophets #JESUSCHRIST #TRUMP! 🇺🇸🙏🇺🇸",
       "followersCount": 29632,
-      "friendsCount": 5412,
+      "friendsCount": 5413,
       "location": ""
     },
     "images": [],
@@ -2206,7 +2276,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 103445,
+      "followersCount": 103441,
       "friendsCount": 1204,
       "location": ""
     },
