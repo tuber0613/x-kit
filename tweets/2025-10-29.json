@@ -1,11 +1,101 @@
 [
   {
     "user": {
+      "screenName": "rsalakhu",
+      "name": "Russ Salakhutdinov",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/550901065751592963/J3wFUStk_normal.jpeg",
+      "description": "UPMC Professor of Computer Science @ CMU,  President Elect ICML Board, VP of Research @ Meta (Multimodal LLMs, AI Agents), ex-Director of AI research at @Apple",
+      "followersCount": 109355,
+      "friendsCount": 169,
+      "location": "Pittsburgh, PA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4dOhkoXYAEh-Oj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rsalakhu/status/1983641473792016727",
+    "fullText": "New work on Rethinking Thinking Tokens: LLMs as Improvement Operators:\n\nhttps://t.co/w51uLvX5dG\n\nReasoning training encourages LLMs to produce long chains of thought (CoT), improving accuracy via self-checking but increasing context length, compute cost, and latency. This work https://t.co/WwclwpNM3o",
+    "createdAt": "Wed Oct 29 21:05:56 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
+      "followersCount": 894810,
+      "friendsCount": 52,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983640012509114368/vid/avc1/720x720/8jri-xOb-sE9Sn32.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/1983640119916798312",
+    "fullText": "Why Brian Chesky likes lean, skilled teams:\n\n@bchesky https://t.co/fEK5ltJUll",
+    "createdAt": "Wed Oct 29 21:00:33 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 141591,
+      "friendsCount": 1440,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983494083675844608/vid/avc1/1416x720/IM4nfIsLkYboxqls.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/1983638926691893565",
+    "fullText": "虽然慢一点，但好歹也算是完成任务了😂 https://t.co/WpN1Le1EO8",
+    "createdAt": "Wed Oct 29 20:55:49 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Ex Meta AI, Elastic, PhD • Sharing insights on AI Agents  • New cohort ➞ https://t.co/EguwCjYeNk",
+      "followersCount": 270700,
+      "friendsCount": 689,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4dLi3wbMAAA9LJ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/1983637226996298210",
+    "fullText": "There is so much value in data for training/tuning LLM agents.\n\nBut there aren't too many good public ones.\n\nIf you do find a good one, it's not in a standard format, and tools vary.\n\nAgent Data Protocol attempts to solve this by unifying datasets for fine-tuning LLM agents. https://t.co/pzSkHzoNlT",
+    "createdAt": "Wed Oct 29 20:49:03 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 141591,
+      "friendsCount": 1440,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4dK_w_XQAAHm4B.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1983636667119632614",
+    "fullText": "#开源项目推荐：snapDOM：快速精准的网页截图神器\nsnapDOM 能快速且精确地将网页上的任何 HTML 元素截取为高质量、可缩放的 SVG 图片，完全保留原始元素的样式、字体、背景图片、伪元素（pseudo-elements）甚至是 Shadow https://t.co/NZaILmdiO1",
+    "createdAt": "Wed Oct 29 20:46:50 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "bengoertzel",
       "name": "Ben Goertzel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
       "description": "Building Beneficial AGI - CEO @asi_alliance @singularitynet, @true_agi , Interim CEO @Singularity_Fi, @SophiaVerse_AI, Chair @opencog  @HumanityPlus  @iCog_Labs",
-      "followersCount": 73658,
+      "followersCount": 73656,
       "friendsCount": 1645,
       "location": "Vashon Island, WA, USA"
     },
@@ -21,7 +111,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Ex Meta AI, Elastic, PhD • Sharing insights on AI Agents  • New cohort ➞ https://t.co/EguwCjYeNk",
-      "followersCount": 270710,
+      "followersCount": 270700,
       "friendsCount": 689,
       "location": "DAIR.AI Academy"
     },
@@ -37,7 +127,7 @@
       "name": "Midjourney",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
       "description": "A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.",
-      "followersCount": 403577,
+      "followersCount": 403582,
       "friendsCount": 0,
       "location": ""
     },
@@ -53,7 +143,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 63325,
+      "followersCount": 63326,
       "friendsCount": 34303,
       "location": "latent space"
     },
@@ -71,7 +161,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 79858,
+      "followersCount": 79862,
       "friendsCount": 41,
       "location": ""
     },
@@ -107,7 +197,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 196163,
+      "followersCount": 196167,
       "friendsCount": 6925,
       "location": ""
     },
@@ -139,7 +229,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 261696,
+      "followersCount": 261708,
       "friendsCount": 10425,
       "location": "San Francisco, CA"
     },
@@ -155,7 +245,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
       "description": "",
-      "followersCount": 228495627,
+      "followersCount": 228497514,
       "friendsCount": 1223,
       "location": ""
     },
@@ -173,7 +263,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 581313,
+      "followersCount": 581328,
       "friendsCount": 819,
       "location": "United States"
     },
@@ -189,7 +279,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 100187,
+      "followersCount": 100188,
       "friendsCount": 607,
       "location": "Stanford, CA"
     },
@@ -225,7 +315,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
-      "followersCount": 356641,
+      "followersCount": 356640,
       "friendsCount": 65,
       "location": "San Francisco, CA"
     },
@@ -282,7 +372,7 @@
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
       "description": "Co-founder at @HuggingFace - moonshots - angel",
-      "followersCount": 97303,
+      "followersCount": 97306,
       "friendsCount": 6133,
       "location": ""
     },
@@ -304,7 +394,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai,\nWrote The RLHF Book,\nMountain runner.",
-      "followersCount": 59112,
+      "followersCount": 59113,
       "friendsCount": 875,
       "location": "Seattle"
     },
@@ -322,7 +412,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1283649,
+      "followersCount": 1283659,
       "friendsCount": 1042,
       "location": "Palo Alto, CA"
     },
@@ -340,7 +430,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982998729931042817/R88YrV4r_normal.jpg",
       "description": "Together AI is the AI Native Cloud — purpose-built for developing and scaling AI native apps.",
-      "followersCount": 51394,
+      "followersCount": 51392,
       "friendsCount": 394,
       "location": "San Francisco, CA"
     },
@@ -358,7 +448,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4081936,
+      "followersCount": 4081995,
       "friendsCount": 972,
       "location": "SF"
     },
@@ -374,7 +464,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 668388,
+      "followersCount": 668414,
       "friendsCount": 35,
       "location": ""
     },
