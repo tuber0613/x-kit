@@ -1,11 +1,81 @@
 [
   {
     "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+      "description": "",
+      "followersCount": 228487549,
+      "friendsCount": 1223,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4co_LEaIAAXtSy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/1983599239461785611",
+    "fullText": "Just saw this in a conference room at Tesla Global Engineering HQ in Palo Alto https://t.co/yaSvLADIlv",
+    "createdAt": "Wed Oct 29 18:18:06 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 581252,
+      "friendsCount": 819,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/1983595628543516912",
+    "fullText": "Your default cognitive environment is hostile to deep thought. If you consume a minute-by-minute feed optimized for engagement, you are training your mind to be reactive, shallow, short-term.\n\nThe most potent way to think about the world is the opposite: analytical, long-term,",
+    "createdAt": "Wed Oct 29 18:03:45 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 100187,
+      "friendsCount": 607,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4cllKvXYAA4W2A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/1983595488113836075",
+    "fullText": "In this episode of @StanfordEd's School’s In, @StanfordHAI Faculty Affiliate @HariSubramonyam discusses how AI can support critical thinking and creativity in the learning process: https://t.co/9SQPyIp0pT https://t.co/n06exTpszx",
+    "createdAt": "Wed Oct 29 18:03:12 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
+      "followersCount": 356584,
+      "friendsCount": 65,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983591046425800707/vid/avc1/1280x720/M4AbWawF6vrl6JUE.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/1983591113903738970",
+    "fullText": "Perplexity Pro Subscribers can now try Email Assistant for 14 days.\n\nEmail Assistant is always private. Drafting and labelling never logs your email content, and all email chains sent or received by the Assistant are deleted after two weeks.\n\nhttps://t.co/7oM2rORR9T https://t.co/mMObteFicZ",
+    "createdAt": "Wed Oct 29 17:45:49 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Thom_Wolf",
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
       "description": "Co-founder at @HuggingFace - moonshots - angel",
-      "followersCount": 97293,
+      "followersCount": 97298,
       "friendsCount": 6132,
       "location": ""
     },
@@ -27,7 +97,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai,\nWrote The RLHF Book,\nMountain runner.",
-      "followersCount": 59101,
+      "followersCount": 59104,
       "friendsCount": 875,
       "location": "Seattle"
     },
@@ -45,7 +115,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1283565,
+      "followersCount": 1283585,
       "friendsCount": 1042,
       "location": "Palo Alto, CA"
     },
@@ -81,7 +151,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4081580,
+      "followersCount": 4081712,
       "friendsCount": 972,
       "location": "SF"
     },
@@ -97,7 +167,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 668212,
+      "followersCount": 668250,
       "friendsCount": 35,
       "location": ""
     },
@@ -115,8 +185,8 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 153074,
-      "friendsCount": 5114,
+      "followersCount": 153070,
+      "friendsCount": 5113,
       "location": "Montréal, Québec"
     },
     "images": [
@@ -144,6 +214,24 @@
     "tweetUrl": "https://x.com/togethercompute/status/1983581166071627905",
     "fullText": "AI native app builders — you have questions and we have answers at #NVIDIAGTC 🙋‍♀️\n\nRun don’t walk to booth 223 to meet with the Together Team and learn how we’ve empowered customers to scale their AI apps to meet the moment. https://t.co/FGSQ41OKut",
     "createdAt": "Wed Oct 29 17:06:17 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "BuildWithBrokk",
+      "name": "Brokk, Inc.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922713409939800064/K1y2-nn5_normal.jpg",
+      "description": "Brokk keeps LLMs on-task in million-line codebases by adding compiler-grade understanding of your code's structure and semantics",
+      "followersCount": 284,
+      "friendsCount": 17,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4b3c8PXQAAha3t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BuildWithBrokk/status/1983579583267197090",
+    "fullText": "We raised $3M from @MayfieldFund to fix AI coding at scale. \n\nBuilt by @spyced founder of Datastax &amp; Apache Cassandra chair after watching AI tools break at a million+ lines of code.\n\nBrokk gives AI semantic understanding—structure, dependencies, history. No codebase too large! https://t.co/y0W7A1yjGh",
+    "createdAt": "Wed Oct 29 17:00:00 +0000 2025"
   },
   {
     "user": {
@@ -187,7 +275,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 472485,
+      "followersCount": 472487,
       "friendsCount": 5639,
       "location": "Maryland, USA"
     },
@@ -205,7 +293,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 219159,
+      "followersCount": 219157,
       "friendsCount": 73,
       "location": ""
     },
@@ -239,7 +327,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 650520,
+      "followersCount": 650577,
       "friendsCount": 2002,
       "location": "Palo Alto"
     },
@@ -255,7 +343,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 433975,
+      "followersCount": 433983,
       "friendsCount": 3128,
       "location": ""
     },
@@ -289,7 +377,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5YmrQ",
-      "followersCount": 433975,
+      "followersCount": 433983,
       "friendsCount": 3128,
       "location": ""
     },
@@ -307,7 +395,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 322235,
+      "followersCount": 322236,
       "friendsCount": 781,
       "location": ""
     },
@@ -323,7 +411,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 302029,
+      "followersCount": 302041,
       "friendsCount": 95,
       "location": "United States"
     },
@@ -341,7 +429,7 @@
       "name": "Connor Leahy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1811707289339883520/-DWPApka_normal.jpg",
       "description": "CEO @ConjectureAI - Ex-Head of @AiEleuther - Leave me anonymous feedback: https://t.co/OJWQWKNrHk - I don't know how to save the world, but dammit I'm gonna try",
-      "followersCount": 26127,
+      "followersCount": 26128,
       "friendsCount": 578,
       "location": "London"
     },
@@ -377,7 +465,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "The latest breakthroughs and the future of AI for business leaders.",
-      "followersCount": 242885,
+      "followersCount": 242901,
       "friendsCount": 793,
       "location": "Santa Clara, CA"
     },
@@ -395,7 +483,7 @@
       "name": "Hailuo AI (MiniMax)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
       "description": "Discord: https://t.co/KEbUPiW9IC IG: https://t.co/wHxrNsP0AE",
-      "followersCount": 65425,
+      "followersCount": 65433,
       "friendsCount": 469,
       "location": "San Francisco"
     },
@@ -413,7 +501,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 472485,
+      "followersCount": 472487,
       "friendsCount": 5639,
       "location": "Maryland, USA"
     },
@@ -449,7 +537,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 894768,
+      "followersCount": 894778,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -833,7 +921,7 @@
       "name": "MSquared (M²)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945404204299792384/9_M-n5rR_normal.jpg",
       "description": "MSquared is an ecosystem of technologies, services, and standards powering a network of interconnected metaverses.\nhttps://t.co/oWkwCZPvhi",
-      "followersCount": 19495,
+      "followersCount": 19497,
       "friendsCount": 128,
       "location": "The Metaverse"
     },
@@ -1449,7 +1537,7 @@
       "name": "Palantir",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1877789778344828928/ibFj3Vhw_normal.jpg",
       "description": "Software that dominates.",
-      "followersCount": 325127,
+      "followersCount": 325237,
       "friendsCount": 46,
       "location": "Denver, CO"
     },
@@ -1571,7 +1659,7 @@
       "name": "Budweiser",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1956371355357609990/leeUDPhW_normal.jpg",
       "description": "This Bud’s For You. Content & sharing for 21+. Enjoy Responsibly. ©️ 2025 Anheuser-Busch, Budweiser®️ Lager Beer, St. Louis, MO https://t.co/VkFrH6PEgB",
-      "followersCount": 312636,
+      "followersCount": 312656,
       "friendsCount": 730,
       "location": "St Louis, MO"
     },
