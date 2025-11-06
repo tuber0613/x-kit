@@ -1,11 +1,95 @@
 [
   {
     "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 583486,
+      "friendsCount": 821,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/1986547474220368285",
+    "fullText": "If you're using Colab and you feel like training your model on GPU is slow, switch to the TPU runtime and tune the \"steps_per_execution\" parameter in model.compile() (higher = more work being done on device before moving back to host RAM)\n\nCan often see a 4-5x speedup.",
+    "createdAt": "Thu Nov 06 21:33:20 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1983681414370619392/oTT3nm5Z_normal.jpg",
       "description": "",
-      "followersCount": 228703000,
+      "followersCount": 228714238,
+      "friendsCount": 1223,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1986541819027406849/vid/avc1/802x802/FxodJmDl_PygUfPF.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/1986544343919043012",
+    "fullText": "https://t.co/RB5Yqwc6nO",
+    "createdAt": "Thu Nov 06 21:20:54 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
+      "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
+      "followersCount": 83157,
+      "friendsCount": 1081,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5GfXUlWUAAkw56.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/1986544154910900538",
+    "fullText": "We’re excited to announce a strategic partnership with @Celonis to deliver a seamless pathway for Enterprise AI that continuously improves business operations.\n\nThe integration connects the Databricks Platform with the Celonis Process Intelligence Platform, creating a continuous https://t.co/Y070GCn6lf",
+    "createdAt": "Thu Nov 06 21:20:09 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982998729931042817/R88YrV4r_normal.jpg",
+      "description": "Together AI is the AI Native Cloud — purpose-built for developing and scaling AI native apps.",
+      "followersCount": 51716,
+      "friendsCount": 393,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/1986543188551868833",
+    "fullText": "Our adaptive speculator, ATLAS, delivers 400% faster LLM inference by learning from your workloads in real-time ⚡\n\nAccording to @VentureBeat: \"The shift from static to adaptive optimization represents a fundamental rethinking of how inference platforms should work.\"",
+    "createdAt": "Thu Nov 06 21:16:18 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982998729931042817/R88YrV4r_normal.jpg",
+      "description": "Together AI is the AI Native Cloud — purpose-built for developing and scaling AI native apps.",
+      "followersCount": 51716,
+      "friendsCount": 393,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/1986543029671637299",
+    "fullText": "Our adaptive speculator, ATLAS, delivers 400% faster LLM inference by learning from your workloads in real-time ⚡   \n\nAccording to @VentureBeat: \"The shift from static to adaptive optimization represents a fundamental rethinking of how inference platforms should work.\"",
+    "createdAt": "Thu Nov 06 21:15:41 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1983681414370619392/oTT3nm5Z_normal.jpg",
+      "description": "",
+      "followersCount": 228714238,
       "friendsCount": 1223,
       "location": ""
     },
@@ -21,7 +105,7 @@
       "name": "Zoubin Ghahramani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1294283059747893248/9K2p5oV__normal.jpg",
       "description": "VP Research, Google DeepMind, ex-head of Google Brain. Professor at University of Cambridge. Machine Learning Researcher. ex-Chief Scientist & VP of AI, Uber.",
-      "followersCount": 32163,
+      "followersCount": 32165,
       "friendsCount": 679,
       "location": "Cambridge, UK"
     },
@@ -39,7 +123,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 326328,
+      "followersCount": 326324,
       "friendsCount": 784,
       "location": ""
     },
@@ -55,7 +139,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 113162,
+      "followersCount": 113163,
       "friendsCount": 533,
       "location": "Zürich, Suisse"
     },
@@ -73,7 +157,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 152603,
+      "followersCount": 152553,
       "friendsCount": 5127,
       "location": "Montréal, Québec"
     },
@@ -91,7 +175,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 254661,
+      "followersCount": 254662,
       "friendsCount": 7618,
       "location": "United States"
     },
@@ -109,7 +193,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 254661,
+      "followersCount": 254662,
       "friendsCount": 7618,
       "location": "United States"
     },
@@ -125,7 +209,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 618254,
+      "followersCount": 618248,
       "friendsCount": 5299,
       "location": "San Francisco, CA"
     },
@@ -143,7 +227,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4105699,
+      "followersCount": 4105600,
       "friendsCount": 973,
       "location": "SF"
     },
@@ -175,7 +259,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai,\nWrote The RLHF Book,\nMountain runner.",
-      "followersCount": 59501,
+      "followersCount": 59499,
       "friendsCount": 879,
       "location": "Seattle"
     },
@@ -193,7 +277,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 80474,
+      "followersCount": 80478,
       "friendsCount": 41,
       "location": ""
     },
@@ -227,7 +311,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1286555,
+      "followersCount": 1286536,
       "friendsCount": 1047,
       "location": "Palo Alto, CA"
     },
@@ -243,7 +327,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
-      "followersCount": 359675,
+      "followersCount": 359677,
       "friendsCount": 65,
       "location": "San Francisco, CA"
     },
@@ -259,7 +343,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 105025,
+      "followersCount": 105029,
       "friendsCount": 1214,
       "location": ""
     },
@@ -275,7 +359,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
-      "followersCount": 83156,
+      "followersCount": 83157,
       "friendsCount": 1081,
       "location": "HQ: San Francisco, CA"
     },
@@ -293,7 +377,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 430680,
+      "followersCount": 430672,
       "friendsCount": 1356,
       "location": "Austin, TX"
     },
@@ -737,7 +821,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
-      "followersCount": 5137,
+      "followersCount": 5138,
       "friendsCount": 1035,
       "location": "New York, USA"
     },
