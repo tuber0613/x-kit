@@ -1,11 +1,100 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 144099,
+      "friendsCount": 1446,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5fAVxLWMAAPbKp.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1988269999010554098",
+    "fullText": "FT：Meta 首席 AI 科学家 Yann LeCun 将离职创业\n\n据《金融时报》（FT）报道，Meta 首席 AI 科学家、图灵奖得主 Yann LeCun 计划在未来几个月内离开公司，并创办自己的 AI 初创企业。目前他已在为新项目筹集资金。\n\nLeCun 自 2013 年起一直负责 Meta 的基础 AI 研究实验室 https://t.co/eSWHdm6IKT",
+    "createdAt": "Tue Nov 11 15:38:02 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Ex Meta AI, Elastic, PhD • Sharing research and insights on AI Agents  • New cohort ➞ https://t.co/EguwCjYeNk",
+      "followersCount": 273301,
+      "friendsCount": 702,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5fAWZObcAEhJh3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/1988269255604007275",
+    "fullText": "This simple Claude Code hack has reduced token usage by ~90%.\n\nIt adopts the \"Code Execution with MCP\" concept published by Anthropic.\n\nRemove preloaded MCP tools from context and use Python to execute tools via bash instead.\n\nBTW, this can be optimized much further.\n\nInsane! https://t.co/17j2dN6oor",
+    "createdAt": "Tue Nov 11 15:35:05 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
+      "followersCount": 105324,
+      "friendsCount": 1217,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5e_q2MbgAA4Kr5.jpg",
+      "https://pbs.twimg.com/media/G5e_sCMbcAgDFwo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/1988268758650212352",
+    "fullText": "难道说 Trae 这次的更新成了？\n\n新模式非常屌，AI 健身数据分析产品，超级复杂，花了 3 美元搞定了 https://t.co/zzD00lVuFL",
+    "createdAt": "Tue Nov 11 15:33:06 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 431028,
+      "friendsCount": 1363,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1988267805750554652",
+    "fullText": "Today I learned that when Chad Ochocinco realized Bengals stadium had laundry, couches and showers he just lived in the stadium for the first two years of his career",
+    "createdAt": "Tue Nov 11 15:29:19 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 428989,
+      "friendsCount": 517,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5e87OibcAY2_km.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/1988265489827758454",
+    "fullText": "Here is what you need to know about Agent Protocols in 2025:\n\n• MCP (Model Context Protocol) → defines how agents access tools, data, and workflows. It's the standard behind \"agents with tool use.\"\n\n• A2A (Agent-to-Agent Protocol) → defines how agents coordinate, delegate, https://t.co/dTREf1rclC",
+    "createdAt": "Tue Nov 11 15:20:07 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 197800,
+      "followersCount": 197802,
       "friendsCount": 6948,
       "location": ""
     },
@@ -23,7 +112,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 436082,
+      "followersCount": 436079,
       "friendsCount": 3133,
       "location": ""
     },
@@ -59,7 +148,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 436082,
+      "followersCount": 436079,
       "friendsCount": 3133,
       "location": ""
     },
@@ -77,7 +166,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 428985,
+      "followersCount": 428989,
       "friendsCount": 517,
       "location": "🇺🇸 Collaborations →"
     },
@@ -96,7 +185,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Ex Meta AI, Elastic, PhD • Sharing research and insights on AI Agents  • New cohort ➞ https://t.co/EguwCjYeNk",
-      "followersCount": 273293,
+      "followersCount": 273301,
       "friendsCount": 702,
       "location": "DAIR.AI Academy"
     },
@@ -114,7 +203,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 255008,
+      "followersCount": 255013,
       "friendsCount": 7622,
       "location": "United States"
     },
@@ -130,7 +219,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 326674,
+      "followersCount": 326689,
       "friendsCount": 785,
       "location": ""
     },
@@ -146,7 +235,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 105319,
+      "followersCount": 105324,
       "friendsCount": 1217,
       "location": ""
     },
@@ -164,7 +253,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad // droid dealer @FactoryAI // dev tool investor + writer https://t.co/iLpIJT3taO // founder makerpad (acq by zapier)",
-      "followersCount": 168192,
+      "followersCount": 168193,
       "friendsCount": 448,
       "location": "online"
     },
@@ -182,7 +271,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 431020,
+      "followersCount": 431028,
       "friendsCount": 1363,
       "location": "Austin, TX"
     },
@@ -198,7 +287,7 @@
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "MiniMaxAgent: https://t.co/XzaTmAnUbn\nOpen Platform: https://t.co/fHRdSV73Hr\nMiniMax Audio: https://t.co/PVH8VtTrrl\nHailuo AI: https://t.co/3v4WcnVuNf",
-      "followersCount": 22030,
+      "followersCount": 22038,
       "friendsCount": 57,
       "location": "San Francisco"
     },
@@ -216,7 +305,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 30908,
+      "followersCount": 30909,
       "friendsCount": 1118,
       "location": ""
     },
@@ -234,7 +323,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 152330,
+      "followersCount": 152329,
       "friendsCount": 5131,
       "location": "Montréal, Québec"
     },
@@ -250,7 +339,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 30908,
+      "followersCount": 30909,
       "friendsCount": 1118,
       "location": ""
     },
@@ -433,6 +522,24 @@
     "tweetUrl": "https://x.com/aigclink/status/1988084862960669060",
     "fullText": "可以提取个人的个性化阅读品味的工具：readwren，可以把“我喜欢好看成的书”这种模糊感，变成一份40+维的AI可读的结构化报告\n\n相当于一个人机交互翻译器，对普通用户或创作者来说，把其输出的报告扔给模型，模型按你的“品味”写故事、推书或者出文案 https://t.co/ex6NjaC0Dx",
     "createdAt": "Tue Nov 11 03:22:22 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "TheSixFiveMedia",
+      "name": "Six Five Media",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
+      "description": "Deep analysis of the biggest news, releases, events, and rumors in tech. Hosted by @MoorInsStrat and @TheFuturumGroup Analysts.",
+      "followersCount": 3359,
+      "friendsCount": 1002,
+      "location": "Austin, Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1988055889404919808/vid/avc1/1920x1080/3feS5uEJE4riewaj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/TheSixFiveMedia/status/1988056256972812309",
+    "fullText": "Google's full stack is bringing a consumer-like AI experience to government. 🚀 From @googlecloud Public Sector 2025 in Washington D.C., Elizabeth Moon (Managing Director, Customer Engineering, Google Public Sector) joined @PatrickMoorhead to discuss Google's \"full stack\" https://t.co/JV6dqEXuwB",
+    "createdAt": "Tue Nov 11 01:28:42 +0000 2025"
   },
   {
     "user": {
@@ -646,7 +753,7 @@
       "name": "500x.fun",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968628490833412096/mlGB47St_normal.png",
       "description": "https://t.co/ku1hapD2PI — Launch a coin that is instantly tradeable. Trade with up to 1000x Leverage. \nNo slippage, No Funding fees.\n\nLaunching soon. Currently in Beta.",
-      "followersCount": 3249,
+      "followersCount": 3259,
       "friendsCount": 164,
       "location": "Mars"
     },
@@ -1016,7 +1123,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 436082,
+      "followersCount": 436079,
       "friendsCount": 3133,
       "location": ""
     },
@@ -1158,7 +1265,7 @@
       "name": "AI at Meta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
       "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
-      "followersCount": 726263,
+      "followersCount": 726268,
       "friendsCount": 289,
       "location": ""
     },
@@ -1316,7 +1423,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Ex Meta AI, Elastic, PhD • Sharing research and insights on AI Agents  • New cohort ➞ https://t.co/EguwCjYeNk",
-      "followersCount": 273293,
+      "followersCount": 273301,
       "friendsCount": 702,
       "location": "DAIR.AI Academy"
     },
