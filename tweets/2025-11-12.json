@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 144153,
+      "friendsCount": 1447,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5hsMy2XYAA4l9B.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1988458254234423461",
+    "fullText": "给 AI 设计“工具”时，不要把 AI 当成“程序”，要把它当成“用户”。\n\n大多数人，是把自己的后端 API 直接封装成工具给 AI。 比如查 Slack，你给了它三个 API 工具：1. 加载对话；2. 用用户 ID 查用户名；3. 用频道 ID 查频道名。 结果 AI 为了看懂一条消息，得手忙脚乱地调用三次工具，然后自己去拼凑。 https://t.co/uloFArVAh5",
+    "createdAt": "Wed Nov 12 04:06:06 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 658871,
+      "friendsCount": 2008,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/1988455153029308423",
+    "fullText": "The last 72 hours are on track to be the highest time spent in the app globally since the Inauguration. \nDon't stop scrolling guys.",
+    "createdAt": "Wed Nov 12 03:53:46 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "JeffreyTowson",
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
@@ -23,7 +57,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 472988,
+      "followersCount": 472989,
       "friendsCount": 5651,
       "location": "Maryland, USA"
     },
@@ -41,7 +75,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. Founder of @LeadershipData. Global Speaker. Top influencer #BigData #DataScience #AI #IoT #ML #B2B. PhD Astrophysics @Caltech",
-      "followersCount": 472988,
+      "followersCount": 472989,
       "friendsCount": 5651,
       "location": "Maryland, USA"
     },
@@ -59,7 +93,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 436142,
+      "followersCount": 436146,
       "friendsCount": 3132,
       "location": ""
     },
@@ -129,7 +163,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 30907,
+      "followersCount": 30909,
       "friendsCount": 1118,
       "location": ""
     },
@@ -166,7 +200,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 197940,
+      "followersCount": 197951,
       "friendsCount": 6949,
       "location": ""
     },
@@ -182,7 +216,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "'Technological innovation can be a form of participation in the divine act of creation'",
-      "followersCount": 265754,
+      "followersCount": 265760,
       "friendsCount": 10578,
       "location": "San Francisco, CA"
     },
@@ -214,7 +248,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "'Technological innovation can be a form of participation in the divine act of creation'",
-      "followersCount": 265754,
+      "followersCount": 265760,
       "friendsCount": 10578,
       "location": "San Francisco, CA"
     },
@@ -248,7 +282,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "'Technological innovation can be a form of participation in the divine act of creation'",
-      "followersCount": 265754,
+      "followersCount": 265760,
       "friendsCount": 10578,
       "location": "San Francisco, CA"
     },
@@ -264,7 +298,7 @@
       "name": "hardmaru",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
       "description": "Building @SakanaAILabs 🧠",
-      "followersCount": 366649,
+      "followersCount": 366655,
       "friendsCount": 1767,
       "location": "Minato-ku, Tokyo"
     },
@@ -341,6 +375,24 @@
     "tweetUrl": "https://x.com/dotey/status/1988368122051784931",
     "fullText": "转发：孙燕姿两年前说的话正在逐渐被验证。\n作者：@耳帝\nhttps://t.co/7jZdWbUuUu\n\n最近AI改编歌曲在油管跟B站上非常火，把一首歌改编成R&amp;B、灵魂、福音、爵士……掀起了类似于两年前的明星AI翻唱风潮，应该是Suno又进化了。 https://t.co/Rw0BA4vFg2",
     "createdAt": "Tue Nov 11 22:07:57 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "cloudHQ",
+      "name": "cloudHQ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/849399428280713221/RCGIprPK_normal.jpg",
+      "description": "Want to make the most of your time?⌛️ We made you 50 free 💌 email management #apps to increase your #productivity. 📈 10M users strong 💪",
+      "followersCount": 12507,
+      "friendsCount": 6251,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1988358953408110592/vid/avc1/1280x720/LHa-tSPHt71GmSZG.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cloudHQ/status/1988364220594012314",
+    "fullText": "🦃 Thanksgiving is almost here, and gratitude is good for business too. https://t.co/oZfHiOPqH2",
+    "createdAt": "Tue Nov 11 21:52:26 +0000 2025"
   },
   {
     "user": {
@@ -502,7 +554,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
-      "followersCount": 5498,
+      "followersCount": 5504,
       "friendsCount": 1053,
       "location": "New York, USA"
     },
@@ -570,6 +622,24 @@
   },
   {
     "user": {
+      "screenName": "m0",
+      "name": "M0",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912499168616071168/YwutsRBu_normal.jpg",
+      "description": "M0 is the universal platform powering builders of application-specific stablecoins.",
+      "followersCount": 19645,
+      "friendsCount": 30,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1988003197705990144/vid/avc1/1920x1080/vBiSPlCC_yCr5KSZ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/m0/status/1988248878752141425",
+    "fullText": "Answer the call. Sleep later. Ship now.\n\nYou can shape the entire world from your bedroom. https://t.co/qAaMRmxMjy",
+    "createdAt": "Tue Nov 11 14:14:07 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "JohnKusumi",
       "name": "John Kusumi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963715956322041856/Dya7HAdv_normal.jpg",
@@ -602,6 +672,24 @@
   },
   {
     "user": {
+      "screenName": "TLAKrecords",
+      "name": "Think Like A Key Music",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1406288172913467397/56yupq1p_normal.jpg",
+      "description": "Sonic archaeologists & new music cultivators. Rock, Prog, Psych & Folk from the outer edges. Lost classics & fresh discoveries for discerning ears worldwide!",
+      "followersCount": 503,
+      "friendsCount": 1042,
+      "location": "Texas"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1988145412734099456/pu/vid/avc1/720x1280/NehzVv58EPiBaFMK.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/TLAKrecords/status/1988145528345874476",
+    "fullText": "Upcoming reissue of Moonrider's 1975 album, remastered and expanded with 9 tracks. https://t.co/vrrQLA7UJi",
+    "createdAt": "Tue Nov 11 07:23:26 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "TheSixFiveMedia",
       "name": "Six Five Media",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1790141809168961536/r3GjIZZi_normal.jpg",
@@ -617,6 +705,24 @@
     "tweetUrl": "https://x.com/TheSixFiveMedia/status/1988003739857477814",
     "fullText": "The future of channel ecosystems goes full circle, but what does that mean? At @Cisco’s Partner Summit, @danielnewmanUV hosts Cisco SVP, Tim Coogan, to unpack the Cisco 360 Partner Program, and discuss setting a new standard for predictable, profitable, and transparent partner https://t.co/2R12vpSy4J",
     "createdAt": "Mon Nov 10 22:00:01 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "metalcloak",
+      "name": "MetalCloak",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1623044456189685761/bgFIf7Yn_normal.jpg",
+      "description": "Designer and Manufacturer of Game-Changing Products for the Off Road Enthusiast. Technology is our Passion, Customers are our Focus.    ***Made in USA***",
+      "followersCount": 3273,
+      "friendsCount": 362,
+      "location": "Rancho Cordova, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1987958687508389888/vid/avc1/576x1024/XACzBJvkpZqh85hk.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/metalcloak/status/1987958751408554285",
+    "fullText": "The Salebration Continues! 💥\nWe’re keeping the savings rolling through Veterans Day!\n\nNow’s your chance to:\n- Grab that next big upgrade for your rig\n- Save even more before the sale ends\n- Support our Veterans while you do it\n\nNeed help picking the perfect setup? Just give us a https://t.co/AbwnQFbZpg",
+    "createdAt": "Mon Nov 10 19:01:15 +0000 2025"
   },
   {
     "user": {
