@@ -1,11 +1,95 @@
 [
   {
     "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
+      "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
+      "followersCount": 83339,
+      "friendsCount": 1081,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5kaaonXwAA6cbo.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/1988649776401863149",
+    "fullText": "Kubernetes handles most workloads well, but millions of persistent gRPC connections at Databricks scale reveal the limits of default load balancing.\n\nSo we built a client-side system with a lightweight control plane and xDS-based service discovery for faster, more balanced, and https://t.co/POglRBvYUZ",
+    "createdAt": "Wed Nov 12 16:47:08 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
+      "description": "The platform for agent engineering.",
+      "followersCount": 221463,
+      "friendsCount": 73,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5kYEbiaMAAqiVU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/1988647575885615291",
+    "fullText": "Context Engineering in Practice\n\nA few common agent design principles have emerged -- offload/reduce/isolate agent context. \n\nHere, we cover examples of each across popular agents, including our own open source deepagents harness.\n\n📹:\nhttps://t.co/HjayA1lbFn https://t.co/zyVX388KZN",
+    "createdAt": "Wed Nov 12 16:38:24 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
+      "followersCount": 105442,
+      "friendsCount": 1219,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/1988647119549514202",
+    "fullText": "Kling 2.5 Turbo 的首尾帧模型发布了\n\nhttps://t.co/3tPq3T89zh",
+    "createdAt": "Wed Nov 12 16:36:35 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Adaptive Intelligence. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual. Changing spaces where breakthroughs happen.",
+      "followersCount": 52491,
+      "friendsCount": 9631,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/1988645946352357573",
+    "fullText": "What is a good resource for user testing? \n\nWe are building out some early adaptive interfaces and want to see how people navigate them.",
+    "createdAt": "Wed Nov 12 16:31:55 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 162648,
+      "friendsCount": 4793,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/1988644591864873237",
+    "fullText": "What percentage of the cloud providers revenue is AI-related now? People thought we were crazy three years ago when we said that at some point the majority of their revenue would be AI-related.",
+    "createdAt": "Wed Nov 12 16:26:32 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "StanfordHAI",
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 100629,
+      "followersCount": 100631,
       "friendsCount": 606,
       "location": "Stanford, CA"
     },
@@ -21,7 +105,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 429171,
+      "followersCount": 429174,
       "friendsCount": 517,
       "location": "🇺🇸 Collaborations →"
     },
@@ -37,7 +121,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 902410,
+      "followersCount": 902419,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -55,8 +139,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 63708,
-      "friendsCount": 34345,
+      "followersCount": 63711,
+      "friendsCount": 34346,
       "location": "latent space"
     },
     "images": [],
@@ -73,8 +157,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 63708,
-      "friendsCount": 34345,
+      "followersCount": 63711,
+      "friendsCount": 34346,
       "location": "latent space"
     },
     "images": [
@@ -109,7 +193,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 162643,
+      "followersCount": 162648,
       "friendsCount": 4793,
       "location": "Miami / New York / Paris"
     },
@@ -127,7 +211,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 436280,
+      "followersCount": 436286,
       "friendsCount": 3134,
       "location": ""
     },
@@ -145,7 +229,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 436280,
+      "followersCount": 436286,
       "friendsCount": 3134,
       "location": ""
     },
@@ -163,7 +247,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 436280,
+      "followersCount": 436286,
       "friendsCount": 3134,
       "location": ""
     },
@@ -215,7 +299,7 @@
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
-      "followersCount": 367289,
+      "followersCount": 367296,
       "friendsCount": 1100,
       "location": ""
     },
@@ -231,7 +315,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 678587,
+      "followersCount": 678614,
       "friendsCount": 35,
       "location": ""
     },
@@ -247,7 +331,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 326772,
+      "followersCount": 326777,
       "friendsCount": 785,
       "location": ""
     },
@@ -263,7 +347,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 429171,
+      "followersCount": 429174,
       "friendsCount": 517,
       "location": "🇺🇸 Collaborations →"
     },
@@ -279,7 +363,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️",
-      "followersCount": 82931,
+      "followersCount": 82938,
       "friendsCount": 4961,
       "location": "Paris"
     },
@@ -297,7 +381,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 436280,
+      "followersCount": 436286,
       "friendsCount": 3134,
       "location": ""
     },
@@ -315,7 +399,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4490521,
+      "followersCount": 4490601,
       "friendsCount": 4,
       "location": ""
     },
@@ -331,7 +415,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 102634,
+      "followersCount": 102638,
       "friendsCount": 465,
       "location": ""
     },
@@ -367,7 +451,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 429171,
+      "followersCount": 429174,
       "friendsCount": 517,
       "location": "🇺🇸 Collaborations →"
     },
@@ -1858,8 +1942,8 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
-      "followersCount": 5564,
-      "friendsCount": 1053,
+      "followersCount": 5563,
+      "friendsCount": 1052,
       "location": "New York, USA"
     },
     "images": [],
