@@ -1,11 +1,87 @@
 [
   {
     "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
+      "description": "Databricks is the data and AI company, helping data + AI teams solve the world’s toughest problems.",
+      "followersCount": 83377,
+      "friendsCount": 1081,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5pwC-1XoAEKss8.jpg",
+      "https://pbs.twimg.com/media/G5pwEL6WcAAIUAy.jpg",
+      "https://pbs.twimg.com/media/G5pwFaDWMAAWFfH.jpg",
+      "https://pbs.twimg.com/media/G5pwGonWEAA-HJV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/1989025465919488486",
+    "fullText": "The #DataAIWorldTour NYC keynote spotlighted the latest technologies powering AI Agents, how Databricks customers are building AI with Agent Bricks, and why Lakebase is disrupting the database category.\n\n@LSEGplc's Co-Head of Data &amp; Analytics, Ron Lefferts: “AI is moving fast, https://t.co/faRF9SJrvO",
+    "createdAt": "Thu Nov 13 17:40:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
+      "description": "The platform for agent engineering.",
+      "followersCount": 221561,
+      "friendsCount": 73,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1989024667093659648/vid/avc1/1920x1080/TPBZSDTftew15Yw6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/LangChainAI/status/1989025161488793743",
+    "fullText": "⭐️New LangChain Academy Course: LangSmith Essentials⭐️\n\nTesting applications is essential to the development lifecycle, but LLM systems are non-deterministic – you can’t always predict how they will behave.\n\nAdd multi-turn interactions and tool-calling agents, and testing agents https://t.co/rszmi9APGT",
+    "createdAt": "Thu Nov 13 17:38:47 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 144384,
+      "friendsCount": 1447,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/1989024639239004618",
+    "fullText": "一点提示词经验：不只是在提示词写不让它做什么，还要建议它怎么做\n\n示例：\n\n- ❌ 避免生硬的引导语或过于 AI 化的词，如：本文介绍了…、作者提出了…、原文大意是…、作者坦言… 等。\n\n- ✅ 直接切入正题，像和朋友聊天或刚上课点题那样。\n\n- ❌",
+    "createdAt": "Thu Nov 13 17:36:42 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
+      "followersCount": 1248808,
+      "friendsCount": 279,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1989022681312727040/vid/avc1/1920x1080/lxHe6bJtwqI0pxmW.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1989022681354657793/vid/avc1/1920x1080/jaDaA0MkxtU3b1ic.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1989022681337860096/vid/avc1/1920x1080/DSQEmaEJ9USqxZG7.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1989022681333735424/vid/avc1/1920x1080/9SJTmHdhReah1H0i.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/1989024090414309622",
+    "fullText": "SIMA 2 🤝 Genie 3\n\nWe tested SIMA 2’s abilities in simulated 3D worlds created by our world model Genie 3.\n\nIt demonstrated unprecedented adaptability by navigating its surroundings and took meaningful steps toward goals. https://t.co/9M9bVMqD6e",
+    "createdAt": "Thu Nov 13 17:34:32 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "googleaidevs",
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 80948,
+      "followersCount": 80952,
       "friendsCount": 41,
       "location": ""
     },
@@ -39,7 +115,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 152319,
+      "followersCount": 152320,
       "friendsCount": 5131,
       "location": "Montréal, Québec"
     },
@@ -57,7 +133,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad // droid dealer @FactoryAI // dev tool investor + writer https://t.co/iLpIJT3taO // founder makerpad (acq by zapier)",
-      "followersCount": 168277,
+      "followersCount": 168276,
       "friendsCount": 451,
       "location": "online"
     },
@@ -91,7 +167,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 221558,
+      "followersCount": 221561,
       "friendsCount": 73,
       "location": ""
     },
@@ -109,7 +185,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1290285,
+      "followersCount": 1290309,
       "friendsCount": 1047,
       "location": "Palo Alto, CA"
     },
@@ -125,7 +201,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 429279,
+      "followersCount": 429276,
       "friendsCount": 518,
       "location": "🇺🇸 Collaborations →"
     },
@@ -143,7 +219,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 436393,
+      "followersCount": 436398,
       "friendsCount": 3135,
       "location": ""
     },
@@ -161,7 +237,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 100667,
+      "followersCount": 100664,
       "friendsCount": 606,
       "location": "Stanford, CA"
     },
@@ -177,7 +253,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 162755,
+      "followersCount": 162756,
       "friendsCount": 4794,
       "location": "Miami / New York / Paris"
     },
@@ -213,7 +289,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 679372,
+      "followersCount": 679383,
       "friendsCount": 35,
       "location": ""
     },
@@ -229,7 +305,7 @@
       "name": "Zoubin Ghahramani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1294283059747893248/9K2p5oV__normal.jpg",
       "description": "VP Research, Google DeepMind, ex-head of Google Brain. Professor at University of Cambridge. Machine Learning Researcher. ex-Chief Scientist & VP of AI, Uber.",
-      "followersCount": 32231,
+      "followersCount": 32233,
       "friendsCount": 679,
       "location": "Cambridge, UK"
     },
@@ -245,7 +321,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 431155,
+      "followersCount": 431159,
       "friendsCount": 1362,
       "location": "Austin, TX"
     },
@@ -261,7 +337,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1983681414370619392/oTT3nm5Z_normal.jpg",
       "description": "",
-      "followersCount": 229046197,
+      "followersCount": 229048248,
       "friendsCount": 1226,
       "location": ""
     },
@@ -279,7 +355,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2086582,
+      "followersCount": 2086645,
       "friendsCount": 780,
       "location": ""
     },
@@ -297,7 +373,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 221558,
+      "followersCount": 221561,
       "friendsCount": 73,
       "location": ""
     },
@@ -315,7 +391,7 @@
       "name": "Jürgen Schmidhuber",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
       "description": "Invented principles of meta-learning (1987), GANs (1990), Transformers (1991), very deep learning (1991), etc. Our AI is used many billions of times every day.",
-      "followersCount": 169960,
+      "followersCount": 169964,
       "friendsCount": 0,
       "location": "Switzerland, KSA"
     },
@@ -351,7 +427,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "twin dad // droid dealer @FactoryAI // dev tool investor + writer https://t.co/iLpIJT3taO // founder makerpad (acq by zapier)",
-      "followersCount": 168277,
+      "followersCount": 168276,
       "friendsCount": 451,
       "location": "online"
     },
@@ -369,7 +445,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 303951,
+      "followersCount": 303953,
       "friendsCount": 98,
       "location": "United States"
     },
@@ -385,7 +461,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1983681414370619392/oTT3nm5Z_normal.jpg",
       "description": "",
-      "followersCount": 229046197,
+      "followersCount": 229048248,
       "friendsCount": 1226,
       "location": ""
     },
