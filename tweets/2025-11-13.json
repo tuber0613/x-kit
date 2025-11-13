@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 4120252,
+      "friendsCount": 974,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/1989048466967032153",
+    "fullText": "GPT-5.1 is now available in the API. Pricing is the same as GPT-5.\n\nWe are also releasing gpt-5.1-codex and gpt-5.1-codex-mini in the API, specialized for long-running coding tasks.\n\nPrompt caching now lasts up to 24 hours!\n\nUpdated evals in our blog post.",
+    "createdAt": "Thu Nov 13 19:11:23 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
+      "followersCount": 326831,
+      "friendsCount": 785,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1989047398216224768/pu/vid/avc1/1280x720/D2YShpNNBxjEjzuS.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/1989047883371315246",
+    "fullText": "Who will be the first fully on-chain corporation? https://t.co/7Pxtri8Mx2",
+    "createdAt": "Thu Nov 13 19:09:04 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
+      "description": "The latest breakthroughs and the future of AI for business leaders.",
+      "followersCount": 245466,
+      "friendsCount": 793,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1988829957598965761/vid/avc1/1920x1080/vxC7oRT6zeDhT_cN.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/1989045602307461131",
+    "fullText": "🏎️ Revolutionize engineering design in seconds, not days.\n\n#NVIDIAInception startup, @BeyondMathLtd is using AI-powered simulations to enable real-time physics experimentation, significantly reducing iteration time. \n\n🔗 Watch the full video: https://t.co/7sQFhx4Ull https://t.co/4WrvZzWHy5",
+    "createdAt": "Thu Nov 13 19:00:00 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "OpenAIDevs",
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885417240146685952/kmZVMGbW_normal.png",
       "description": "Updates for developers building with the OpenAI Platform and API • Service status: https://t.co/kZwnwdYqOS • Support: https://t.co/qCi6M5ESZU",
-      "followersCount": 243839,
+      "followersCount": 243841,
       "friendsCount": 1,
       "location": ""
     },
@@ -21,7 +73,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4494156,
+      "followersCount": 4494211,
       "friendsCount": 4,
       "location": ""
     },
@@ -37,7 +89,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 679496,
+      "followersCount": 679578,
       "friendsCount": 35,
       "location": ""
     },
@@ -53,8 +105,8 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 152320,
-      "friendsCount": 5131,
+      "followersCount": 152321,
+      "friendsCount": 5132,
       "location": "Montréal, Québec"
     },
     "images": [
@@ -71,7 +123,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 100665,
+      "followersCount": 100667,
       "friendsCount": 606,
       "location": "Stanford, CA"
     },
@@ -105,7 +157,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 902715,
+      "followersCount": 902721,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -123,7 +175,7 @@
       "name": "Qwen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
       "description": "Open foundation models for AGI.",
-      "followersCount": 122818,
+      "followersCount": 122822,
       "friendsCount": 4,
       "location": ""
     },
@@ -162,7 +214,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 221572,
+      "followersCount": 221575,
       "friendsCount": 73,
       "location": ""
     },
@@ -181,7 +233,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
       "followersCount": 144380,
-      "friendsCount": 1447,
+      "friendsCount": 1448,
       "location": "Chicago, IL"
     },
     "images": [],
@@ -196,7 +248,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1248975,
+      "followersCount": 1249012,
       "friendsCount": 279,
       "location": "London, UK"
     },
@@ -217,7 +269,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 80953,
+      "followersCount": 80957,
       "friendsCount": 41,
       "location": ""
     },
@@ -233,7 +285,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 330331,
+      "followersCount": 330335,
       "friendsCount": 20622,
       "location": "Cambridge, MA"
     },
@@ -251,8 +303,8 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 152320,
-      "friendsCount": 5131,
+      "followersCount": 152321,
+      "friendsCount": 5132,
       "location": "Montréal, Québec"
     },
     "images": [
@@ -541,6 +593,24 @@
   },
   {
     "user": {
+      "screenName": "valent44355",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Traveler, entrepreneur, philosopher, in search of alpha and market miracles",
+      "followersCount": 5774,
+      "friendsCount": 1052,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1988990952971624448/vid/avc1/1080x1920/X3vIwWFS9eFyALEk.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/valent44355/status/1988991171197018539",
+    "fullText": "WOW, Funds are loading up ! WOW  \n\nAccording to Fintel: 82 institutions hold long positions in NXXT, totaling about 4,078,962 shares - THEY WANT MORE \n\nInstitutional Footprint — NXXT (Public Filings)\n\n13-F reports shows that about 82 institutions have disclosed positions in https://t.co/9D7deU7QQc",
+    "createdAt": "Thu Nov 13 15:23:43 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
@@ -613,7 +683,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 902700,
+      "followersCount": 902721,
       "friendsCount": 52,
       "location": "The Cloud"
     },
