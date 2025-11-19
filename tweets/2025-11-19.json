@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 666205,
+      "friendsCount": 2010,
+      "location": "Palo Alto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6FeVYTbMAAnZ1I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/1990976346265432187",
+    "fullText": "https://t.co/ygLfAoaPBc",
+    "createdAt": "Wed Nov 19 02:52:06 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
+      "followersCount": 105816,
+      "friendsCount": 1219,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1990971997778845696/vid/avc1/1920x1080/YquNlQfvWCkY4ZoX.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/1990972943279743351",
+    "fullText": "我操，这是 AI 一次性能搞定的东西啊？\n\nGemini 3 帮我生成了一个前段时间非常流行的滚动叙事网页，随着你的滚动会不断播放丰富的动画。\n\n坚持到第 5 秒，你会看到很离谱的事情，他 tm 写了一个看起来像 3D 的一个复杂的卡片动画。\n\n提示词👇 https://t.co/lilL9KcY9y",
+    "createdAt": "Wed Nov 19 02:38:34 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 31001,
+      "friendsCount": 1128,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6FYXHjaUAAWPqZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/1990972670935236989",
+    "fullText": "一款轻量级LaTeX OCR：Texo，20M，可在浏览器中运行\n\n在UniMERNet-1M上，BLEU/编辑距离与PPFormulaNet-S（57 M）相当\n\n支持CPU、GPU、浏览器ONNX 三种跑法\n\n#OCR #LaTeXOCR https://t.co/bl61zwPfOn",
+    "createdAt": "Wed Nov 19 02:37:29 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 431359,
+      "friendsCount": 1364,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/1990969711077515650",
+    "fullText": "As the model providers battle the winner is all of us.\n\nThank you, model providers!",
+    "createdAt": "Wed Nov 19 02:25:44 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 81281,
+      "friendsCount": 41,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/googleaidevs/status/1990956681220497509",
+    "fullText": "Check out some creative Gemini 3 outputs in the replies below. \n\n(Tip: bookmark this post for future reference and to stay up to date as this thread is updated with new creations from the community)",
+    "createdAt": "Wed Nov 19 01:33:57 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 326882,
+      "followersCount": 326875,
       "friendsCount": 789,
       "location": ""
     },
@@ -21,7 +107,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1291676,
+      "followersCount": 1291688,
       "friendsCount": 1047,
       "location": "Palo Alto, CA"
     },
@@ -157,8 +243,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "'Technological innovation can be a form of participation in the divine act of creation'",
-      "followersCount": 267163,
-      "friendsCount": 10725,
+      "followersCount": 267190,
+      "friendsCount": 10731,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -203,6 +289,24 @@
   },
   {
     "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
+      "followersCount": 105816,
+      "friendsCount": 1219,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6DJApsbMAQrpMh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/1990812382864760851",
+    "fullText": "开个帖子，分享一下 Gemini 3 的一些玩法\n\n后面都会在这里更新，可以收藏一下\n\nGemini 3 的视频分析能力也变的非常好，让他分析一个视频，真的是像素级解释实现原理\n\n每一秒的细节都很多 https://t.co/CL2MaW5spP",
+    "createdAt": "Tue Nov 18 16:00:34 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "AnthropicAI",
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
@@ -232,5 +336,41 @@
     "tweetUrl": "https://x.com/A_i/status/1990797806140076309",
     "fullText": "Beat back evil sewer cats as a hungry little mouse in Morsels, a new top-down creature-collecting roguelite with endless replayability. Swap monsters on the fly as you ascend into dangerous upper worlds in a quirky world with non-stop action.",
     "createdAt": "Tue Nov 18 15:02:38 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "America1stLegal",
+      "name": "America First Legal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1651630619154104321/Wq51K9QY_normal.jpg",
+      "description": "Fighting for the American people and defending the rule of law in the United States 🇺🇸 | https://t.co/XSAhvNhtIS",
+      "followersCount": 357084,
+      "friendsCount": 529,
+      "location": "Washington DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1990565940996558848/vid/avc1/3840x2160/LnsPu5oqsoaIZYkt.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/America1stLegal/status/1990566549573308522",
+    "fullText": ".@DAGToddBlanche with AFL President @GeneHamiltonUSA on the unprecedented weaponization of justice under the Biden Administration:\n\n“You had a situation where there was a weaponization against not only one man and one man’s family, but against an entire administration.” https://t.co/hSSme9jtrs",
+    "createdAt": "Mon Nov 17 23:43:43 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "superhuman_ai",
+      "name": "Superhuman AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1988952708007464960/cMItOPrD_normal.jpg",
+      "description": "Get daily AI news, prompts, and tactical guides on how to get ahead with AI. Join 1.5 Million readers and listeners. By @heykahn",
+      "followersCount": 2451,
+      "friendsCount": 10,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1990504557814620160/vid/avc1/1280x720/kf3d3kFhuS7chgGp.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/superhuman_ai/status/1990506830024372494",
+    "fullText": "AI won’t just replace developers. It will turn everyone into a builder.\n\nIn this Superhuman AI Podcast episode, watch how @nichochar shows Mocha turning plain English into live, working web apps.\n\nHere’s what’s inside:\n\n• Building a watercolor avatar app from scratch\n• Adding https://t.co/PDk3wNmtLY",
+    "createdAt": "Mon Nov 17 19:46:24 +0000 2025"
   }
 ]
