@@ -1,11 +1,65 @@
 [
   {
     "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 83841,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1993417107766136832/vid/avc1/1920x1080/am62DckKVSMwZE8V.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/googleaidevs/status/1993417341376303596",
+    "fullText": "Learn how to build a Gemini 3 Deep Agents with this video from @LangChainAI. These agents can reason through complex, long horizon tasks by:\n\n&gt; Breaking goals into actionable steps\n&gt; Delegating specific work for specialized models\n&gt; Leveraging file systems and code execution https://t.co/kMa4NMEgIs",
+    "createdAt": "Tue Nov 25 20:31:44 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "huggingface",
+      "name": "Hugging Face",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
+      "description": "The AI community building the future. https://t.co/VkRPD0Vclr",
+      "followersCount": 587606,
+      "friendsCount": 213,
+      "location": "NYC and Paris and 🌏"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6oJta1XMAE3EW8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/huggingface/status/1993416469531836527",
+    "fullText": "Flux.1-dev has been the second most liked model on Hugging Face just after Deepseek R1 so super excited to see the release of Flux.2-dev by @bfl_ml today!\n\nDownload the weights or try the model (thanks to @fal) on @huggingface: https://t.co/9Ov5mlYtaq\nRead the blogpost: https://t.co/c1z9bJnzCt",
+    "createdAt": "Tue Nov 25 20:28:16 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building agents @dair_ai • Ex Meta AI, Elastic, PhD • Sharing research & insights on AI Agents • New cohort: https://t.co/tn8LKG5d20",
+      "followersCount": 276531,
+      "friendsCount": 719,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6oIF1eWgAAwB40.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/1993416061564211266",
+    "fullText": "Here's a visual summary of the new guide by Anthropic.\n\nIt's on how to improve tool use for AI agents.\n\n3 core ideas:\n\n- Tool Search tool to discover tools on-demand to save context\n\n-  Programmatic tool calling to orchestrate tools via code\n\n-  Tool schema + usage\n\nbookmark it https://t.co/cNBCx0y7AH",
+    "createdAt": "Tue Nov 25 20:26:39 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "EMostaque",
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Open Sovereign AI @ii_posts. Founder @StabilityAI.",
-      "followersCount": 299575,
+      "followersCount": 299574,
       "friendsCount": 28,
       "location": "London"
     },
@@ -21,7 +75,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 164077,
+      "followersCount": 164079,
       "friendsCount": 4804,
       "location": "Miami / New York / Paris"
     },
@@ -57,7 +111,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 904183,
+      "followersCount": 904139,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -93,7 +147,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 223193,
+      "followersCount": 223196,
       "friendsCount": 75,
       "location": ""
     },
@@ -109,7 +163,7 @@
       "name": "Ai2",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
       "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
-      "followersCount": 76701,
+      "followersCount": 76702,
       "friendsCount": 423,
       "location": "Seattle, WA"
     },
@@ -127,7 +181,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 255689,
+      "followersCount": 255694,
       "friendsCount": 7637,
       "location": "United States"
     },
@@ -146,7 +200,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 255689,
+      "followersCount": 255694,
       "friendsCount": 7637,
       "location": "United States"
     },
@@ -162,7 +216,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 255689,
+      "followersCount": 255694,
       "friendsCount": 7637,
       "location": "United States"
     },
@@ -178,7 +232,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 64161,
+      "followersCount": 64162,
       "friendsCount": 34407,
       "location": "latent space"
     },
@@ -196,7 +250,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 255689,
+      "followersCount": 255694,
       "friendsCount": 7637,
       "location": "United States"
     },
@@ -214,7 +268,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 83621,
+      "followersCount": 83617,
       "friendsCount": 1083,
       "location": "HQ: San Francisco, CA"
     },
@@ -232,7 +286,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofaireport @raais",
-      "followersCount": 64161,
+      "followersCount": 64162,
       "friendsCount": 34407,
       "location": "latent space"
     },
@@ -282,7 +336,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 904183,
+      "followersCount": 904139,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -300,7 +354,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 200148,
+      "followersCount": 200155,
       "friendsCount": 6963,
       "location": ""
     },
@@ -318,7 +372,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
-      "followersCount": 364373,
+      "followersCount": 364385,
       "friendsCount": 66,
       "location": "San Francisco, CA"
     },
@@ -336,7 +390,7 @@
       "name": "Sergey Levine",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/990434811662680064/BKCbJypl_normal.jpg",
       "description": "Associate Professor at UC Berkeley\nCo-founder, Physical Intelligence",
-      "followersCount": 114589,
+      "followersCount": 114590,
       "friendsCount": 140,
       "location": "Berkeley, CA"
     },
@@ -352,7 +406,7 @@
       "name": "AI at Meta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
       "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
-      "followersCount": 731175,
+      "followersCount": 731179,
       "friendsCount": 289,
       "location": ""
     },
@@ -370,7 +424,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "The latest breakthroughs and the future of AI for business leaders.",
-      "followersCount": 247463,
+      "followersCount": 247456,
       "friendsCount": 793,
       "location": "Santa Clara, CA"
     },
@@ -404,7 +458,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1983681414370619392/oTT3nm5Z_normal.jpg",
       "description": "",
-      "followersCount": 229453110,
+      "followersCount": 229454943,
       "friendsCount": 1230,
       "location": ""
     },
@@ -422,7 +476,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4522791,
+      "followersCount": 4522738,
       "friendsCount": 4,
       "location": ""
     },
@@ -440,7 +494,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 223193,
+      "followersCount": 223196,
       "friendsCount": 75,
       "location": ""
     },
@@ -458,7 +512,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 223193,
+      "followersCount": 223196,
       "friendsCount": 75,
       "location": ""
     },
@@ -474,7 +528,7 @@
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "MiniMaxAgent: https://t.co/XzaTmAnUbn\nOpen Platform: https://t.co/fHRdSV73Hr\nMiniMax Audio: https://t.co/PVH8VtTrrl\nHailuo AI: https://t.co/3v4WcnVuNf",
-      "followersCount": 22798,
+      "followersCount": 22800,
       "friendsCount": 65,
       "location": "San Francisco"
     },
@@ -873,7 +927,7 @@
       "name": "Oriol Vinyals",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/677499217993007104/Uartsv8s_normal.jpg",
       "description": "VP of Research & Deep Learning Lead, Google DeepMind. Gemini co-lead.\n\nPast: AlphaStar, AlphaFold, AlphaCode, WaveNet, seq2seq, distillation, TF.",
-      "followersCount": 190092,
+      "followersCount": 190094,
       "friendsCount": 87,
       "location": "London, England"
     },
@@ -1981,6 +2035,22 @@
     "tweetUrl": "https://x.com/RomanRoadsPress/status/1993026502158696793",
     "fullText": "📚 The Thanksgiving Sale is live! \n\nLadies, this is the time to buy your man books. \n\nGentlemen, this is the time to build a bookcase. \n\nParents, this is the time to start your children's library. \n\nAll Old Western Culture and Roman Roads Classics on sale: https://t.co/cyrfTtMKGt",
     "createdAt": "Mon Nov 24 18:38:41 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nebiustf",
+      "name": "Nebius Token Factory",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1986038143338815488/AaTihSPo_normal.png",
+      "description": "Own your intelligence.\nPrecision-built inference for AI workloads at scale.  \nPowered by @nebiusai | Discord: https://t.co/SoJ89Kd4Wh",
+      "followersCount": 6073,
+      "friendsCount": 555,
+      "location": "The Netherlands"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nebiustf/status/1993003723749310511",
+    "fullText": "Deploy and scale Llama, Qwen, DeepSeek, GPT OSS and more on dedicated Nebius Token Factory infrastructure with guaranteed uptime, zero-retention data flow, and transparent $/token pricing.",
+    "createdAt": "Mon Nov 24 17:08:10 +0000 2025"
   },
   {
     "user": {
