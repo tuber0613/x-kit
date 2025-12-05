@@ -1,6 +1,74 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 256240,
+      "friendsCount": 7646,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/1997007087432577069",
+    "fullText": "I am so glad the days of painstakingly building software one component at the time, dealing with all the bugs, are finally over. Now we can one-shot an entire nonfunctional app in a single try.",
+    "createdAt": "Fri Dec 05 18:16:06 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
+      "description": "The platform for agent engineering.",
+      "followersCount": 224598,
+      "friendsCount": 76,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7bKhLWacAAgeX1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/1997006806904984002",
+    "fullText": "📊 Evaluating DeepAgents CLI on Terminal Bench 2.0 📊\n\nThe DeepAgents CLI is a coding agent built on top of the Deep Agents SDK, offering an interactive terminal interface with shell execution, filesystem tools, and persistent memory.\n\nHow well does it actually perform on https://t.co/aMI1QNuj6M",
+    "createdAt": "Fri Dec 05 18:15:00 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
+      "description": "The platform for agent engineering.",
+      "followersCount": 224598,
+      "friendsCount": 76,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/1997003041262698534",
+    "fullText": "✉️Shipping an email agent now just requires a prompt.\n\nUsing LangSmith Agent Builder, you can create an agent to:\n- Prioritize and label inbound messages\n- Draft responses\n- Run on a schedule or on demand\n\nEmail agents are already one of the most popular Agent Builder use cases.",
+    "createdAt": "Fri Dec 05 18:00:02 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "open-sourceress at @huggingface 🧙🏻‍♀️",
+      "followersCount": 83519,
+      "friendsCount": 5040,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7bCasuWgAAPNoe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/1996998362118201850",
+    "fullText": "TIL you can compile quantized models thanks to quanto\n\nalthough memory blows up a bit on Qwen3-VL https://t.co/aJGGh4c4mz",
+    "createdAt": "Fri Dec 05 17:41:26 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
@@ -23,7 +91,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 87798,
+      "followersCount": 87824,
       "friendsCount": 44,
       "location": ""
     },
@@ -39,7 +107,7 @@
       "name": "Mustafa Suleyman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
       "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
-      "followersCount": 178679,
+      "followersCount": 178680,
       "friendsCount": 485,
       "location": "Redmond, WA"
     },
@@ -57,7 +125,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 430803,
+      "followersCount": 430779,
       "friendsCount": 519,
       "location": "🇺🇸 Collaborations →"
     },
@@ -73,7 +141,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2059123,
+      "followersCount": 2059172,
       "friendsCount": 780,
       "location": ""
     },
@@ -91,7 +159,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 101006,
+      "followersCount": 101007,
       "friendsCount": 606,
       "location": "Stanford, CA"
     },
@@ -143,7 +211,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 589987,
+      "followersCount": 589991,
       "friendsCount": 819,
       "location": "United States"
     },
@@ -159,7 +227,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982998729931042817/R88YrV4r_normal.jpg",
       "description": "Accelerate training, fine-turning, and inference on performance-optimized GPU clusters.",
-      "followersCount": 52073,
+      "followersCount": 52072,
       "friendsCount": 392,
       "location": "San Francisco, CA"
     },
@@ -175,7 +243,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 431599,
+      "followersCount": 431603,
       "friendsCount": 1373,
       "location": "Austin, TX"
     },
@@ -209,7 +277,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building agents @dair_ai • Ex Meta AI, Elastic, PhD • Sharing research & insights on AI Agents • New cohort: https://t.co/tn8LKG5d20",
-      "followersCount": 277941,
+      "followersCount": 277945,
       "friendsCount": 725,
       "location": "DAIR.AI Academy"
     },
@@ -245,7 +313,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 165473,
+      "followersCount": 165476,
       "friendsCount": 4805,
       "location": "Miami / New York / Paris"
     },
@@ -263,7 +331,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256239,
+      "followersCount": 256240,
       "friendsCount": 7646,
       "location": "United States"
     },
@@ -281,7 +349,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256239,
+      "followersCount": 256240,
       "friendsCount": 7646,
       "location": "United States"
     },
@@ -297,7 +365,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 430803,
+      "followersCount": 430779,
       "friendsCount": 519,
       "location": "🇺🇸 Collaborations →"
     },
@@ -313,7 +381,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 327538,
+      "followersCount": 327541,
       "friendsCount": 791,
       "location": ""
     },
@@ -331,7 +399,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 440429,
+      "followersCount": 440435,
       "friendsCount": 3150,
       "location": ""
     },
@@ -347,7 +415,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 707110,
+      "followersCount": 707147,
       "friendsCount": 35,
       "location": ""
     },
@@ -383,7 +451,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 87798,
+      "followersCount": 87824,
       "friendsCount": 44,
       "location": ""
     },
@@ -417,7 +485,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 440429,
+      "followersCount": 440435,
       "friendsCount": 3150,
       "location": ""
     },
@@ -433,7 +501,7 @@
       "name": "Michael Black",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
       "description": "Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Chief Scientist @meshcapade. Building 3D digital humans using vision, graphics, and learning.",
-      "followersCount": 88401,
+      "followersCount": 88407,
       "friendsCount": 709,
       "location": "Tübingen, Deutschland"
     },
@@ -503,7 +571,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 107720,
+      "followersCount": 107722,
       "friendsCount": 1221,
       "location": ""
     },
@@ -1452,7 +1520,7 @@
       "name": "Demis Hassabis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1990472620614053888/xrAu0wQL_normal.jpg",
       "description": "Nobel Laureate. Co-Founder & CEO @GoogleDeepMind - working on AGI. Solving disease @IsomorphicLabs. Trying to understand the fundamental nature of reality.",
-      "followersCount": 529938,
+      "followersCount": 529960,
       "friendsCount": 161,
       "location": ""
     },
@@ -1470,7 +1538,7 @@
       "name": "Jeff Dean",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_normal.jpg",
       "description": "Chief Scientist, Google DeepMind & Google Research. Gemini Lead. Opinions stated here are my own, not those of Google. TensorFlow, MapReduce, Bigtable, ...",
-      "followersCount": 386105,
+      "followersCount": 386117,
       "friendsCount": 6341,
       "location": ""
     },
@@ -1497,6 +1565,22 @@
     "tweetUrl": "https://x.com/Tempo_Labs/status/1996616117096526328",
     "fullText": "We’ve got $25,000 for the best design engineers out there. The flex you’ll have after winning? The limit does not exist.\n\nTempo x @contra hackathon sponsored by @awscloud is now live. \n\n😎 Bonus $1000 prize for the individual who gets the most engagement on X and Linkedin https://t.co/5JMxigOrXV",
     "createdAt": "Thu Dec 04 16:22:32 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "spotandtango",
+      "name": "Spot & Tango",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633481110213611522/8nju2V38_normal.png",
+      "description": "It’s food your dog would buy. Start your personalized meal plan made with whole fruits, veggies, meats, and grains, delivered right to your door. #itstangotime",
+      "followersCount": 745,
+      "friendsCount": 155,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/spotandtango/status/1996613693413654751",
+    "fullText": "This Week Only ⏰ Get 50% off UnKibble:\n- 100% human-grade ingredients\n- No fillers or preservatives\n- Vet-developed, complete recipes\n- Picky-eater approved\n- 1,700 5-star reviews",
+    "createdAt": "Thu Dec 04 16:12:54 +0000 2025"
   },
   {
     "user": {
