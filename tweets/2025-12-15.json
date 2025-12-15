@@ -1,11 +1,99 @@
 [
   {
     "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
+      "followersCount": 432395,
+      "friendsCount": 1382,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2000402656817447208",
+    "fullText": "Look I’m sorry but this device goes into airplane mode on MY timeline",
+    "createdAt": "Mon Dec 15 03:08:53 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies.",
+      "followersCount": 83284,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8LZmz5aQAAv8vE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2000400449355325806",
+    "fullText": "Adaptive retrieval is the way to go!\n\nAnd this RouteRAG paper shows why.\n\nLet's talk about it:\n\nRAG systems have a retrieval problem. The default approach to multi-hop reasoning today relies on fixed retrieval pipelines. It typically involves fetching text + maybe graph data, and https://t.co/X2VFTVhPtL",
+    "createdAt": "Mon Dec 15 03:00:07 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/GZMhf39NRs",
+      "followersCount": 279264,
+      "friendsCount": 734,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8LL33GbgAAfEWj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2000385348413850055",
+    "fullText": "DeepCode: Open Agentic Coding\n\nAI coding agents still can't reliably turn research papers into working code. The best LLM agents achieve only 42% replication scores on scientific papers, while human PhD experts hit 72%.\n\nBut the problem isn't model capability. This new paper https://t.co/CKzR3r0Wvg",
+    "createdAt": "Mon Dec 15 02:00:07 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Michael_J_Black",
+      "name": "Michael Black",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
+      "description": "Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Chief Scientist @meshcapade. Building 3D digital humans using vision, graphics, and learning.",
+      "followersCount": 88776,
+      "friendsCount": 707,
+      "location": "Tübingen, Deutschland"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2000384881659195392/vid/avc1/1440x640/YxZ-X7y6W_oNcCCR.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Michael_J_Black/status/2000385099742028038",
+    "fullText": "Video diffusion models have strong implicit representations of 3D shape, material, and lighting, but controlling them with language is cumbersome, and control is critical for artists and animators.\n\nGenLit connects these implicit representations with a continuous 5D control https://t.co/ulo0BNOCTd",
+    "createdAt": "Mon Dec 15 01:59:07 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Michael_J_Black",
+      "name": "Michael Black",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
+      "description": "Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Chief Scientist @meshcapade. Building 3D digital humans using vision, graphics, and learning.",
+      "followersCount": 88776,
+      "friendsCount": 707,
+      "location": "Tübingen, Deutschland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8LGJTabYAAa3oS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Michael_J_Black/status/2000379628784079306",
+    "fullText": "SMPL has just won the 2025  @SIGGRAPHAsia Test of Time Award. At 10 years old, it’s still going strong, and the community continues to find creative new uses. With the increasing interest in physical AI and humanoid robotics, the need for a low-dimensional, metrically accurate 3D https://t.co/EIQa4NmvxN",
+    "createdAt": "Mon Dec 15 01:37:23 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 327913,
+      "followersCount": 327932,
       "friendsCount": 792,
       "location": ""
     },
@@ -21,8 +109,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474067,
-      "friendsCount": 5074,
+      "followersCount": 474071,
+      "friendsCount": 5070,
       "location": "Maryland, USA"
     },
     "images": [
@@ -39,8 +127,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474067,
-      "friendsCount": 5074,
+      "followersCount": 474071,
+      "friendsCount": 5070,
       "location": "Maryland, USA"
     },
     "images": [
@@ -57,8 +145,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474067,
-      "friendsCount": 5074,
+      "followersCount": 474071,
+      "friendsCount": 5070,
       "location": "Maryland, USA"
     },
     "images": [
@@ -75,8 +163,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474067,
-      "friendsCount": 5074,
+      "followersCount": 474071,
+      "friendsCount": 5070,
       "location": "Maryland, USA"
     },
     "images": [
@@ -93,8 +181,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474067,
-      "friendsCount": 5074,
+      "followersCount": 474071,
+      "friendsCount": 5070,
       "location": "Maryland, USA"
     },
     "images": [
@@ -111,8 +199,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474067,
-      "friendsCount": 5074,
+      "followersCount": 474071,
+      "friendsCount": 5070,
       "location": "Maryland, USA"
     },
     "images": [
@@ -129,7 +217,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 156616,
+      "followersCount": 156626,
       "friendsCount": 1472,
       "location": "Chicago, IL"
     },
@@ -147,7 +235,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 150112,
+      "followersCount": 150113,
       "friendsCount": 5141,
       "location": "Montréal, Québec"
     },
@@ -165,7 +253,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 229868812,
+      "followersCount": 229869868,
       "friendsCount": 1246,
       "location": ""
     },
@@ -181,7 +269,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 62216,
+      "followersCount": 62244,
       "friendsCount": 899,
       "location": "Seattle"
     },
@@ -199,7 +287,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️ https://t.co/MhrMkGTTWX",
-      "followersCount": 83638,
+      "followersCount": 83641,
       "friendsCount": 5071,
       "location": "Paris"
     },
@@ -215,7 +303,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256582,
+      "followersCount": 256580,
       "friendsCount": 7658,
       "location": "United States"
     },
@@ -231,8 +319,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474067,
-      "friendsCount": 5074,
+      "followersCount": 474071,
+      "friendsCount": 5070,
       "location": "Maryland, USA"
     },
     "images": [
@@ -249,8 +337,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474067,
-      "friendsCount": 5074,
+      "followersCount": 474071,
+      "friendsCount": 5070,
       "location": "Maryland, USA"
     },
     "images": [
@@ -267,7 +355,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 327913,
+      "followersCount": 327932,
       "friendsCount": 792,
       "location": ""
     },
@@ -283,7 +371,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 62216,
+      "followersCount": 62244,
       "friendsCount": 899,
       "location": "Seattle"
     },
@@ -301,7 +389,7 @@
       "name": "Richard Socher",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1232361282759610368/YYxndVmI_normal.jpg",
       "description": "CEO  @youdotcom\nMP @aixventuresHQ\n\nBefore: Stanford Adj Prof in AI/NLP, Chief Scientist at Salesforce, MetaMind",
-      "followersCount": 113691,
+      "followersCount": 113690,
       "friendsCount": 1093,
       "location": ""
     },
@@ -317,7 +405,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256582,
+      "followersCount": 256580,
       "friendsCount": 7658,
       "location": "United States"
     },
@@ -335,7 +423,7 @@
       "name": "Lex Fridman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1854713863817646088/nTmsz7jR_normal.jpg",
       "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
-      "followersCount": 4485999,
+      "followersCount": 4486161,
       "friendsCount": 634,
       "location": "Austin and Boston"
     },
@@ -351,7 +439,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 327913,
+      "followersCount": 327932,
       "friendsCount": 792,
       "location": ""
     },
@@ -367,7 +455,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 226309,
+      "followersCount": 226325,
       "friendsCount": 76,
       "location": ""
     },
@@ -385,7 +473,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2067049,
+      "followersCount": 2067184,
       "friendsCount": 782,
       "location": ""
     },
@@ -525,7 +613,7 @@
       "name": "Benj Edwards",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
       "description": "Senior AI Reporter, Ars Technica. Tech Historian. Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
-      "followersCount": 12241,
+      "followersCount": 12244,
       "friendsCount": 1317,
       "location": "Raleigh, NC"
     },
@@ -559,8 +647,8 @@
       "name": "hardmaru",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
       "description": "Building @SakanaAILabs 🧠",
-      "followersCount": 372229,
-      "friendsCount": 1786,
+      "followersCount": 372252,
+      "friendsCount": 1787,
       "location": "Minato-ku, Tokyo"
     },
     "images": [
