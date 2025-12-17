@@ -1,11 +1,101 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 157266,
+      "friendsCount": 1473,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8YqGMGWEAAMvaY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2001334145386189179",
+    "fullText": "画讽刺漫画的提示词分享：\n\n以丁聪的风格画一幅讽刺漫画，主题是：\n&gt; 今天社交网络上被追捧的所谓AI高人,不过是 Prompt Kiddie(提示词小子)。\n&gt; 整天转帖一些提示词,其实是在自动充当大模型的燃料。 https://t.co/xNR58Swp86",
+    "createdAt": "Wed Dec 17 16:50:17 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
+      "followersCount": 371214,
+      "friendsCount": 66,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2001333716329852929/vid/avc1/1280x720/_q38Z9cin9qNehV-.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2001333781081526611",
+    "fullText": "Today we're rolling out our new iPad app, optimized for iPadOS.\n\nThe Perplexity iPad app is designed for real work, offering the same core features you find on desktop, now with you wherever you go.\n\nAvailable on the App Store today. https://t.co/906c3jHcFJ",
+    "createdAt": "Wed Dec 17 16:48:51 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 167540,
+      "friendsCount": 4810,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Yob83WoAAtBZt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2001331595094221105",
+    "fullText": "Let's create a new generation of AI builders, not just AI users! https://t.co/tedfrUHUUt",
+    "createdAt": "Wed Dec 17 16:40:09 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 591868,
+      "friendsCount": 822,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8YnXYbaEAAGzpV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2001330643423449409",
+    "fullText": "Gemini 3 Flash across different test-time compute levels (green line below) represents a new score/cost Pareto frontier on ARC-AGI-2.\n\nCongrats to @demishassabis and @sundarpichai on the launch! https://t.co/XJCTx5jvuq",
+    "createdAt": "Wed Dec 17 16:36:22 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 307588,
+      "friendsCount": 100,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2001329045296861189/pu/vid/avc1/1280x720/KDg2E8mdW_qVwE6I.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2001329113622073611",
+    "fullText": "Agent demos often fail for reasons that are hard to see: unclear tool traces, silent failures, and changes that improve one behavior but break another.\n\nOur new course with @Nvidia shows how to use their NeMo Agent Toolkit to surface these issues with OpenTelemetry tracing, run https://t.co/lgTsGm8uox",
+    "createdAt": "Wed Dec 17 16:30:18 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "OriolVinyalsML",
       "name": "Oriol Vinyals",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/677499217993007104/Uartsv8s_normal.jpg",
       "description": "VP of Research & Deep Learning Lead, Google DeepMind. Gemini co-lead.\n\nPast: AlphaStar, AlphaFold, AlphaCode, WaveNet, seq2seq, distillation, TF.",
-      "followersCount": 192857,
+      "followersCount": 192859,
       "friendsCount": 86,
       "location": "London, England"
     },
@@ -23,7 +113,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 90430,
+      "followersCount": 90437,
       "friendsCount": 44,
       "location": ""
     },
@@ -39,7 +129,7 @@
       "name": "Demis Hassabis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1990472620614053888/xrAu0wQL_normal.jpg",
       "description": "Nobel Laureate. Co-Founder & CEO @GoogleDeepMind - working on AGI. Solving disease @IsomorphicLabs. Trying to understand the fundamental nature of reality.",
-      "followersCount": 538762,
+      "followersCount": 538813,
       "friendsCount": 162,
       "location": ""
     },
@@ -57,7 +147,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256779,
+      "followersCount": 256781,
       "friendsCount": 7664,
       "location": "United States"
     },
@@ -73,7 +163,7 @@
       "name": "Jeff Dean",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_normal.jpg",
       "description": "Chief Scientist, Google DeepMind & Google Research. Gemini Lead. Opinions stated here are my own, not those of Google. TensorFlow, MapReduce, Bigtable, ...",
-      "followersCount": 390666,
+      "followersCount": 390688,
       "friendsCount": 6344,
       "location": ""
     },
@@ -91,7 +181,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 431349,
+      "followersCount": 431350,
       "friendsCount": 518,
       "location": "🇺🇸 Collaborations →"
     },
@@ -109,7 +199,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1279289,
+      "followersCount": 1279372,
       "friendsCount": 280,
       "location": "London, UK"
     },
@@ -127,7 +217,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256779,
+      "followersCount": 256781,
       "friendsCount": 7664,
       "location": "United States"
     },
@@ -143,7 +233,7 @@
       "name": "G3mini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 325149,
+      "followersCount": 325398,
       "friendsCount": 44,
       "location": "Mountain View, CA"
     },
@@ -159,7 +249,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 226852,
+      "followersCount": 226856,
       "friendsCount": 76,
       "location": ""
     },
@@ -177,7 +267,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/GZMhf39NRs",
-      "followersCount": 279761,
+      "followersCount": 279770,
       "friendsCount": 737,
       "location": "DAIR.AI Academy"
     },
@@ -195,7 +285,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256779,
+      "followersCount": 256781,
       "friendsCount": 7664,
       "location": "United States"
     },
@@ -1021,7 +1111,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1222326,
+      "followersCount": 1222336,
       "friendsCount": 26,
       "location": "Menlo Park, CA"
     },
@@ -1366,7 +1456,7 @@
       "name": "Spot & Tango",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633481110213611522/8nju2V38_normal.png",
       "description": "It’s food your dog would buy. Start your personalized meal plan made with whole fruits, veggies, meats, and grains, delivered right to your door. #itstangotime",
-      "followersCount": 929,
+      "followersCount": 930,
       "friendsCount": 155,
       "location": "New York, NY"
     },
