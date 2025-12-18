@@ -1,6 +1,104 @@
 [
   {
     "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 4161603,
+      "friendsCount": 976,
+      "location": "SF"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8eNcquXUAArxxk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2001724828567400700",
+    "fullText": "Last week, a security researcher using our previous model found and disclosed a vulnerability in React that could lead to source code exposure.\n\nI believe these models will be a net win for cybersecurity, but we are in the 'real impact phase' as they improve. https://t.co/wzcEBslCWo",
+    "createdAt": "Thu Dec 18 18:42:44 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 4161603,
+      "friendsCount": 976,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2001724019188408352",
+    "fullText": "GPT-5.2-Codex launches today.\n\nIt is trained specifically for agentic coding and terminal use, and people at OpenAI have been having great success with it.",
+    "createdAt": "Thu Dec 18 18:39:31 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885417240146685952/kmZVMGbW_normal.png",
+      "description": "Updates for developers building with the OpenAI Platform and API • Service status: https://t.co/kZwnwdYqOS • Support: https://t.co/qCi6M5ESZU",
+      "followersCount": 248497,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2001723687373017313",
+    "fullText": "Meet GPT-5.2-Codex, the best agentic coding model yet for complex, real-world software engineering.\n\nWith native compaction, better long-context understanding, and improved tool-calling, it is a more dependable partner for your hardest tasks.\n\nAvailable in Codex starting today.",
+    "createdAt": "Thu Dec 18 18:38:11 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 90662,
+      "friendsCount": 45,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/googleaidevs/status/2001723428810764625",
+    "fullText": "Introducing T5Gemma 2, the next generation of encoder-decoder models, built on the powerful capabilities of Gemma 3.\n\nKey innovations and upgraded capabilities include:\n+ Multimodality\n+ Extended long context\n+ Support of 140+ languages out of the box\n+ Architectural improvements",
+    "createdAt": "Thu Dec 18 18:37:10 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "G3mini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 329677,
+      "friendsCount": 46,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2001721665932423310",
+    "fullText": "There’s a whole new way to prompt with Nano Banana.\n\nNow you can tell Gemini exactly where and how to apply your edits by drawing on or annotating your images right in the Gemini app, making it easier to get the final look you want.",
+    "createdAt": "Thu Dec 18 18:30:10 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2070165,
+      "friendsCount": 782,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2001721048073744891",
+    "fullText": "To bad designers, great designs start to look outdated after a couple decades simply because they're associated with a time in the past. If you're not careful, they'll \"update\" them.",
+    "createdAt": "Thu Dec 18 18:27:42 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "OpenAIDevs",
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885417240146685952/kmZVMGbW_normal.png",
@@ -21,7 +119,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "The latest breakthroughs and the future of AI for business leaders.",
-      "followersCount": 249772,
+      "followersCount": 249774,
       "friendsCount": 790,
       "location": "Santa Clara, CA"
     },
@@ -37,8 +135,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256816,
-      "friendsCount": 7666,
+      "followersCount": 256811,
+      "friendsCount": 7667,
       "location": "United States"
     },
     "images": [
@@ -56,7 +154,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 431439,
+      "followersCount": 431444,
       "friendsCount": 518,
       "location": "🇺🇸 Collaborations →"
     },
@@ -74,7 +172,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 226980,
+      "followersCount": 226984,
       "friendsCount": 76,
       "location": ""
     },
@@ -92,7 +190,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 226980,
+      "followersCount": 226984,
       "friendsCount": 76,
       "location": ""
     },
@@ -110,7 +208,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 328581,
+      "followersCount": 328587,
       "friendsCount": 792,
       "location": ""
     },
@@ -128,7 +226,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 442910,
+      "followersCount": 442915,
       "friendsCount": 3154,
       "location": ""
     },
@@ -144,7 +242,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 226980,
+      "followersCount": 226984,
       "friendsCount": 76,
       "location": ""
     },
@@ -162,7 +260,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️ https://t.co/MhrMkGTTWX",
-      "followersCount": 83727,
+      "followersCount": 83729,
       "friendsCount": 5080,
       "location": "Paris"
     },
@@ -180,7 +278,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1280305,
+      "followersCount": 1280315,
       "friendsCount": 280,
       "location": "London, UK"
     },
@@ -198,7 +296,7 @@
       "name": "G3mini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 329632,
+      "followersCount": 329677,
       "friendsCount": 46,
       "location": "Mountain View, CA"
     },
@@ -216,7 +314,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 90651,
+      "followersCount": 90662,
       "friendsCount": 45,
       "location": ""
     },
@@ -232,7 +330,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 123905,
+      "followersCount": 123908,
       "friendsCount": 3111,
       "location": "on ⛓"
     },
@@ -248,7 +346,7 @@
       "name": "Andrej Karpathy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
       "description": "Building @EurekaLabsAI. Previously Director of AI @ Tesla, founding team @ OpenAI, CS231n/PhD @ Stanford. I like to train large deep neural nets.",
-      "followersCount": 1523358,
+      "followersCount": 1523388,
       "friendsCount": 1033,
       "location": "Stanford"
     },
@@ -282,7 +380,7 @@
       "name": "AI at Meta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
       "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
-      "followersCount": 736404,
+      "followersCount": 736422,
       "friendsCount": 290,
       "location": ""
     },
@@ -300,7 +398,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 592076,
+      "followersCount": 592081,
       "friendsCount": 822,
       "location": "United States"
     },
@@ -318,7 +416,7 @@
       "name": "Jeff Dean",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_normal.jpg",
       "description": "Chief Scientist, Google DeepMind & Google Research. Gemini Lead. Opinions stated here are my own, not those of Google. TensorFlow, MapReduce, Bigtable, ...",
-      "followersCount": 391379,
+      "followersCount": 391392,
       "friendsCount": 6346,
       "location": ""
     },
@@ -334,7 +432,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 167818,
+      "followersCount": 167827,
       "friendsCount": 4810,
       "location": "Miami / New York / Paris"
     },
@@ -350,7 +448,7 @@
       "name": "lmarena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927385934024105985/dbNOM1In_normal.png",
       "description": "LMArena: Open Platform for Community-driven AI Benchmarking. Graduated from UC Berkeley / lmsysorg. We’re hiring: https://t.co/1OkfLq1Pba",
-      "followersCount": 116494,
+      "followersCount": 116499,
       "friendsCount": 208,
       "location": "US"
     },
@@ -384,7 +482,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 715305,
+      "followersCount": 715322,
       "friendsCount": 35,
       "location": ""
     },
@@ -1741,7 +1839,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1222544,
+      "followersCount": 1222591,
       "friendsCount": 26,
       "location": "Menlo Park, CA"
     },
@@ -1841,7 +1939,7 @@
       "name": "Spot & Tango",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633481110213611522/8nju2V38_normal.png",
       "description": "It’s food your dog would buy. Start your personalized meal plan made with whole fruits, veggies, meats, and grains, delivered right to your door. #itstangotime",
-      "followersCount": 935,
+      "followersCount": 940,
       "friendsCount": 155,
       "location": "New York, NY"
     },
