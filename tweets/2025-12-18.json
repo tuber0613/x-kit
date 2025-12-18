@@ -1,11 +1,117 @@
 [
   {
     "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/GZMhf39NRs",
+      "followersCount": 279867,
+      "friendsCount": 737,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8dRF-NboAADJRC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2001657726385164341",
+    "fullText": "This is a fascinating paper.\n\nIt's well known that long-horizon agents have a memory problem.\n\nThe standard approach is to append everything to the context. Every past observation, action, and thought gets added to the prompt.\n\nThis creates three compounding issues: O(N) memory https://t.co/hnYKg6gQWZ",
+    "createdAt": "Thu Dec 18 14:16:05 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 264254,
+      "friendsCount": 328,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2001653997782900738/vid/avc1/1920x1080/vfgfxwFu9_-_HoTF.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2001655929796751371",
+    "fullText": "Explore every world. Tell any story.\n\nWith Runway Gen-4.5, available now. https://t.co/cNXdesBUzi",
+    "createdAt": "Thu Dec 18 14:08:57 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 431388,
+      "friendsCount": 518,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2001655709776392193/vid/avc1/1280x720/vZ7I28HsJYUMDiNH.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2001655813438664802",
+    "fullText": "Most assistants I've seen are still a glorified auto-complete with a chat box.\n\nSidekick is the first one to make me stop and think that this is the future of AI assistants, and where developers should go.\n\nShopify is doing something completely different than every other company: https://t.co/0HH7AuoMPo",
+    "createdAt": "Thu Dec 18 14:08:29 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 328532,
+      "followersCount": 328539,
+      "friendsCount": 792,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2001654597970972672/pu/vid/avc1/1280x720/lcdBF_VO7lmM3gSG.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2001654886560080074",
+    "fullText": "According to @alexwg , knowledge work is cooked! https://t.co/QayoUqS8Ti",
+    "createdAt": "Thu Dec 18 14:04:48 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 64535,
+      "friendsCount": 34547,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2001654059242291580",
+    "fullText": "every industry has its high‑stakes systems: software that cannot fail because the cost of failure is borne by real people. \n\nin clinical research, that system is the infrastructure that manages participant journeys through clinical trials. \n\nthese trials are the gateway through",
+    "createdAt": "Thu Dec 18 14:01:31 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies.",
+      "followersCount": 83531,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8dMhHVakAEaN6V.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2001652694940029344",
+    "fullText": "Scaling Laws and Symmetry\n\nThe common belief is that scaling outperforms inductive biases. Give the model enough data and compute, and it will learn the structure on its own.\n\nBut this new research finds the opposite.\n\nResearchers conducted comprehensive scaling experiments on https://t.co/MbLXt92RKK",
+    "createdAt": "Thu Dec 18 13:56:06 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
+      "followersCount": 328539,
       "friendsCount": 792,
       "location": ""
     },
@@ -37,7 +143,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️ https://t.co/MhrMkGTTWX",
-      "followersCount": 83724,
+      "followersCount": 83723,
       "friendsCount": 5080,
       "location": "Paris"
     },
@@ -55,7 +161,7 @@
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
       "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
-      "followersCount": 93898,
+      "followersCount": 93901,
       "friendsCount": 9254,
       "location": "San Francisco, CA"
     },
@@ -71,7 +177,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaptionlabs. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 53293,
+      "followersCount": 53292,
       "friendsCount": 9761,
       "location": "San Francisco"
     },
@@ -89,7 +195,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaptionlabs. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 53293,
+      "followersCount": 53292,
       "friendsCount": 9761,
       "location": "San Francisco"
     },
@@ -125,7 +231,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\nAIGC 周刊主理人｜公众号：歸藏的AI工具箱",
-      "followersCount": 109954,
+      "followersCount": 109957,
       "friendsCount": 1221,
       "location": ""
     },
@@ -143,7 +249,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaptionlabs. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 53293,
+      "followersCount": 53292,
       "friendsCount": 9761,
       "location": "San Francisco"
     },
@@ -161,7 +267,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 32370,
+      "followersCount": 32373,
       "friendsCount": 1190,
       "location": ""
     },
@@ -179,7 +285,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474580,
+      "followersCount": 474598,
       "friendsCount": 4708,
       "location": "Maryland, USA"
     },
@@ -197,7 +303,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474580,
+      "followersCount": 474598,
       "friendsCount": 4708,
       "location": "Maryland, USA"
     },
@@ -215,7 +321,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474580,
+      "followersCount": 474598,
       "friendsCount": 4708,
       "location": "Maryland, USA"
     },
@@ -234,7 +340,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474580,
+      "followersCount": 474598,
       "friendsCount": 4708,
       "location": "Maryland, USA"
     },
@@ -252,7 +358,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 474580,
+      "followersCount": 474598,
       "friendsCount": 4708,
       "location": "Maryland, USA"
     },
@@ -304,7 +410,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 270749,
+      "followersCount": 270753,
       "friendsCount": 11130,
       "location": "San Francisco, CA"
     },
@@ -377,7 +483,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 109534,
+      "followersCount": 109551,
       "friendsCount": 491,
       "location": ""
     },
@@ -463,8 +569,8 @@
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
       "description": "Co-founder at @HuggingFace - moonshots - angel",
-      "followersCount": 99394,
-      "friendsCount": 6499,
+      "followersCount": 99377,
+      "friendsCount": 6500,
       "location": ""
     },
     "images": [],
@@ -941,6 +1047,24 @@
   },
   {
     "user": {
+      "screenName": "AskFocal",
+      "name": "Focal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896713562589949952/3qE4aKuK_normal.jpg",
+      "description": "Hire a team of AI analysts for the price of a subscription. 24/7 market monitoring, narrative detection, and automated diligence.",
+      "followersCount": 633,
+      "friendsCount": 517,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8VK5HtWUAUBKxv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AskFocal/status/2001089041849008144",
+    "fullText": "Everyone else is fighting for the last air fryer in the middle aisle. We’re over here scanning the Focal Agent Hub for the only green candles that matter. \n\nThe \"Extreme Fear\" on the index? That’s just a holiday discount code we didn’t have to enter. \n\nWhat’s on your Focal https://t.co/c2Q4ihmioE",
+    "createdAt": "Wed Dec 17 00:36:20 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "spotandtango",
       "name": "Spot & Tango",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633481110213611522/8nju2V38_normal.png",
@@ -1004,6 +1128,22 @@
     "tweetUrl": "https://x.com/GucciZarini/status/2001034549971841341",
     "fullText": "The 2025 Limited First Edition Unity Bag has sold out within one week of launch. \n\nWe are humbled and moved by the overwhelming response and love we have received. The Unity Bag was created as a quiet tribute to Fostering the Future and as a message of hope. It is the greatest https://t.co/mQMVJByPz6",
     "createdAt": "Tue Dec 16 20:59:48 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "G3mini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 329189,
+      "friendsCount": 46,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2000995663874814260",
+    "fullText": "Learning just leveled up. \n\nNow when you use Deep Research, you not only read in-depth about a subject, you actually see its impact through visuals.\n\nGet charts, diagrams, animations, and more for a deeper understanding.",
+    "createdAt": "Tue Dec 16 18:25:17 +0000 2025"
   },
   {
     "user": {
