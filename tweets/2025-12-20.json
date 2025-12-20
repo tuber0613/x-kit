@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies.",
+      "followersCount": 83610,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8oMHQga0AEOMFr.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2002426307389649084",
+    "fullText": "RAG systems struggle with multi-hop reasoning.\n\nIn most cases, the problem isn't the LLMs. It's the retrieval system.\n\nStandard RAG treats each piece of evidence as equally reliable, ignoring how documents connect to each other.\n\nWhy is this a problem?\n\nWhen questions require https://t.co/G7texzvVa0",
+    "createdAt": "Sat Dec 20 17:10:09 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 716563,
+      "friendsCount": 35,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2002424909524619581",
+    "fullText": "We’re releasing Bloom, an open-source tool for generating behavioral misalignment evals for frontier AI models.\n\nBloom lets researchers specify a behavior and then quantify its frequency and severity across automatically generated scenarios.\n\nLearn more: https://t.co/TwKstpLSy3",
+    "createdAt": "Sat Dec 20 17:04:36 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
+      "followersCount": 329027,
+      "friendsCount": 792,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2002424168608854067",
+    "fullText": "Small teams across the world are doing what used to require governments and multi-billion-dollar corporations.",
+    "createdAt": "Sat Dec 20 17:01:39 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 333110,
+      "friendsCount": 20621,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8oJ2YKXYAAX_De.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2002423817151328351",
+    "fullText": "Micro banners from 90s webpages &amp; software, v/@WebDesignMuseum.\n\nMore classic designs: https://t.co/6yM7tbTPn2 https://t.co/wVjp3L49VP",
+    "createdAt": "Sat Dec 20 17:00:15 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "LangChainAI",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
+      "description": "The platform for agent engineering.",
+      "followersCount": 227354,
+      "friendsCount": 76,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8oJy8NbMAE7SMK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChainAI/status/2002423760859902169",
+    "fullText": "🚀 Building Enterprise Agents with Deep Agents\n\nLearn to build and deploy enterprise AI agents using Deep Agents and Runloop. Uses Runloop to run code safely in sandboxes\n\n📺 Watch the full tutorial: https://t.co/WOPY873OUA\nMade by the LangChain Community https://t.co/W5R4yhRMxU",
+    "createdAt": "Sat Dec 20 17:00:02 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256930,
+      "followersCount": 256936,
       "friendsCount": 7670,
       "location": "United States"
     },
@@ -23,7 +109,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256930,
+      "followersCount": 256936,
       "friendsCount": 7670,
       "location": "United States"
     },
@@ -39,7 +125,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256930,
+      "followersCount": 256936,
       "friendsCount": 7670,
       "location": "United States"
     },
@@ -57,7 +143,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/GZMhf39NRs",
-      "followersCount": 280316,
+      "followersCount": 280323,
       "friendsCount": 741,
       "location": "DAIR.AI Academy"
     },
@@ -75,7 +161,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 256930,
+      "followersCount": 256936,
       "friendsCount": 7670,
       "location": "United States"
     },
@@ -93,7 +179,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 431669,
+      "followersCount": 431679,
       "friendsCount": 518,
       "location": "🇺🇸 Collaborations →"
     },
@@ -127,7 +213,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 308019,
+      "followersCount": 308014,
       "friendsCount": 100,
       "location": "United States"
     },
@@ -143,7 +229,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 64557,
+      "followersCount": 64556,
       "friendsCount": 34559,
       "location": "latent space"
     },
@@ -161,7 +247,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 329013,
+      "followersCount": 329027,
       "friendsCount": 792,
       "location": ""
     },
@@ -179,7 +265,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 84448,
+      "followersCount": 84449,
       "friendsCount": 1084,
       "location": "HQ: San Francisco, CA"
     },
@@ -197,7 +283,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 64557,
+      "followersCount": 64556,
       "friendsCount": 34559,
       "location": "latent space"
     },
@@ -213,7 +299,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 329013,
+      "followersCount": 329027,
       "friendsCount": 792,
       "location": ""
     },
@@ -229,7 +315,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 431669,
+      "followersCount": 431679,
       "friendsCount": 518,
       "location": "🇺🇸 Collaborations →"
     },
@@ -261,7 +347,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2071122,
+      "followersCount": 2071165,
       "friendsCount": 782,
       "location": ""
     },
@@ -277,7 +363,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2071122,
+      "followersCount": 2071165,
       "friendsCount": 782,
       "location": ""
     },
@@ -295,7 +381,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2071122,
+      "followersCount": 2071165,
       "friendsCount": 782,
       "location": ""
     },
@@ -311,7 +397,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2071122,
+      "followersCount": 2071165,
       "friendsCount": 782,
       "location": ""
     },
@@ -555,6 +641,22 @@
     "tweetUrl": "https://x.com/KirkDBorne/status/2002242815481253969",
     "fullText": "\"Agentic AI — A Comprehensive Guide for Executives\"\n\nDownload PDF at https://t.co/kqclwFhfzF https://t.co/2eVtduIiL5",
     "createdAt": "Sat Dec 20 05:01:01 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "MST_dowameikyu",
+      "name": "MST@SRPG『STRANGER SAGA』販売中",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920116873930391553/RSw7CZiZ_normal.jpg",
+      "description": "市民育成SRPG販売中 https://t.co/Pt8BWzmSnQ\nDLsite版 https://t.co/oB0ND0hw1p\n小説も書いてます https://t.co/kimeAsJkv2\n格ゲー好き",
+      "followersCount": 1888,
+      "friendsCount": 1850,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MST_dowameikyu/status/2002240739410129250",
+    "fullText": "Winter Sale: $5.34(46% OFF) — lowest price ever.\nA classic tactical SRPG with tight maps and class promotions.",
+    "createdAt": "Sat Dec 20 04:52:46 +0000 2025"
   },
   {
     "user": {
@@ -1506,7 +1608,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 592327,
+      "followersCount": 592338,
       "friendsCount": 822,
       "location": "United States"
     },
@@ -1531,6 +1633,22 @@
     "tweetUrl": "https://x.com/googleaidevs/status/2001821340412637605",
     "fullText": "Gemini 3 Flash can help you get things done in a flash powerfully and at a lower cost.\n\nHere are examples we like from the community so far:",
     "createdAt": "Fri Dec 19 01:06:14 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "ElevenLabsDevs",
+      "name": "ElevenLabs Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963299062473527296/bz4iUF5M_normal.png",
+      "description": "Deploy natural, human-sounding agents with the @elevenlabsio AI audio platform. For status updates, see https://t.co/rFTNGwiTnv.",
+      "followersCount": 6408,
+      "friendsCount": 12,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ElevenLabsDevs/status/2001782026177822989",
+    "fullText": "Ship production-grade voice agents in minutes, not months.",
+    "createdAt": "Thu Dec 18 22:30:01 +0000 2025"
   },
   {
     "user": {
