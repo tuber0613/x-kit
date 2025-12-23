@@ -1,11 +1,111 @@
 [
   {
     "user": {
+      "screenName": "mathemagic1an",
+      "name": "Jay Hack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
+      "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
+      "followersCount": 58214,
+      "friendsCount": 3272,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2003525516851105792/vid/avc1/1080x1080/ZDDChtOjfHYvgcr_.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/mathemagic1an/status/2003530956741967886",
+    "fullText": "What an incredible ride.\n\nI'm excited to announce that @codegen has officially been acquired by @clickup ! 🎉\n\nI will join as Head of AI and the team + product will live on within ClickUp. We're all in on agents to build the future of knowledge work!\n\nHere's why 👇\n\n1/8 https://t.co/y4YtXBKMBw",
+    "createdAt": "Tue Dec 23 18:19:38 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax__AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "MiniMaxAgent: https://t.co/XzaTmAnUbn\nOpen Platform: https://t.co/fHRdSV73Hr\nMiniMax Audio: https://t.co/PVH8VtTrrl\nHailuo AI: https://t.co/3v4WcnVuNf",
+      "followersCount": 26795,
+      "friendsCount": 121,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8328E8bAAEK7Rh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax__AI/status/2003530896503443948",
+    "fullText": "MiniMax Dev Coding Plan Global Lucky Draw — Christmas &amp; New Year Edition🎄🎁\n\nHuge thanks to every dev building, experimenting, and shipping with MiniMax. Your creativity &amp; feedback power everything we do.\n\nWe’re kicking off a global lucky draw for the MiniMax dev community! https://t.co/85SZLFCMtx",
+    "createdAt": "Tue Dec 23 18:19:24 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "JeffDean",
+      "name": "Jeff Dean",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_normal.jpg",
+      "description": "Chief Scientist, Google DeepMind & Google Research. Gemini Lead. Opinions stated here are my own, not those of Google. TensorFlow, MapReduce, Bigtable, ...",
+      "followersCount": 394809,
+      "friendsCount": 6351,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffDean/status/2003529602971632110",
+    "fullText": "I'm delighted to jointly author this year-end summary of research advances with @DemisHassabis and James Manyika, on behalf of all of our colleagues across @GoogleDeepMind, @GoogleResearch and @Google.\n\nWe look at research advances across eight different areas.  These summaries",
+    "createdAt": "Tue Dec 23 18:14:15 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "jackclarkSF",
+      "name": "Jack Clark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
+      "description": "@AnthropicAI, ONEAI OECD, co-chair @indexingai, writer @ https://t.co/3vmtHYkIJ2 Past: @openai, @business @theregister. Neural nets, distributed systems, weird futures",
+      "followersCount": 99587,
+      "friendsCount": 4644,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jackclarkSF/status/2003526145380151614",
+    "fullText": "https://t.co/LmpEfSs06w",
+    "createdAt": "Tue Dec 23 18:00:31 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaptionlabs. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 53434,
+      "friendsCount": 9775,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2003524923902632202",
+    "fullText": "Careers are long. \n\nMy first director gave me something that has guided my entire career:  treat people with respect because you will meet them again and again.\n\nInteractions are rarely one off, and what matters in the long run is that you are fair and have integrity.",
+    "createdAt": "Tue Dec 23 17:55:40 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 593052,
+      "friendsCount": 821,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2003523368805630450",
+    "fullText": "The Transformer architecture is fundamentally a parallel processor of context, but reasoning is a sequential, iterative process.\n\nTo solve complex problems, a model needs a \"scratchpad\" not just in its output CoT, but in its internal state. A differentiable way to loop, branch,",
+    "createdAt": "Tue Dec 23 17:49:29 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "arena",
       "name": "lmarena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927385934024105985/dbNOM1In_normal.png",
       "description": "LMArena: Open Platform for Community-driven AI Benchmarking. Graduated from UC Berkeley / lmsysorg. We’re hiring: https://t.co/1OkfLq1Pba",
-      "followersCount": 117845,
+      "followersCount": 117850,
       "friendsCount": 208,
       "location": "US"
     },
@@ -21,7 +121,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 168690,
+      "followersCount": 168687,
       "friendsCount": 4811,
       "location": "Miami / New York / Paris"
     },
@@ -39,7 +139,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 476023,
+      "followersCount": 476026,
       "friendsCount": 4540,
       "location": "Maryland, USA"
     },
@@ -57,7 +157,7 @@
       "name": "G3mini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 335985,
+      "followersCount": 336013,
       "friendsCount": 46,
       "location": "Mountain View, CA"
     },
@@ -73,7 +173,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 476023,
+      "followersCount": 476026,
       "friendsCount": 4540,
       "location": "Maryland, USA"
     },
@@ -91,7 +191,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 476023,
+      "followersCount": 476026,
       "friendsCount": 4540,
       "location": "Maryland, USA"
     },
@@ -109,7 +209,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 476023,
+      "followersCount": 476026,
       "friendsCount": 4540,
       "location": "Maryland, USA"
     },
@@ -127,7 +227,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 476023,
+      "followersCount": 476026,
       "friendsCount": 4540,
       "location": "Maryland, USA"
     },
@@ -148,7 +248,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1283665,
+      "followersCount": 1283695,
       "friendsCount": 280,
       "location": "London, UK"
     },
@@ -166,7 +266,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 907592,
+      "followersCount": 907595,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -184,7 +284,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 333223,
+      "followersCount": 333224,
       "friendsCount": 20620,
       "location": "Cambridge, MA"
     },
@@ -220,7 +320,7 @@
       "name": "Naveen Rao",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1846057841934606337/CGG3iJKT_normal.jpg",
       "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
-      "followersCount": 35922,
+      "followersCount": 35927,
       "friendsCount": 905,
       "location": "San Diego, CA"
     },
@@ -238,7 +338,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 443912,
+      "followersCount": 443929,
       "friendsCount": 3152,
       "location": ""
     },
@@ -254,7 +354,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/GZMhf39NRs",
-      "followersCount": 280786,
+      "followersCount": 280784,
       "friendsCount": 743,
       "location": "DAIR.AI Academy"
     },
@@ -272,7 +372,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 230328879,
+      "followersCount": 230333164,
       "friendsCount": 1254,
       "location": ""
     },
@@ -288,7 +388,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 227795,
+      "followersCount": 227797,
       "friendsCount": 76,
       "location": ""
     },
@@ -306,8 +406,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 64575,
-      "friendsCount": 34570,
+      "followersCount": 64576,
+      "friendsCount": 34571,
       "location": "latent space"
     },
     "images": [
@@ -324,7 +424,7 @@
       "name": "Qwen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
       "description": "Open foundation models for AGI.",
-      "followersCount": 129699,
+      "followersCount": 129719,
       "friendsCount": 5,
       "location": ""
     },
@@ -342,7 +442,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 329373,
+      "followersCount": 329371,
       "friendsCount": 792,
       "location": ""
     },
@@ -358,7 +458,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @mixpanel\nPizzatarian, programmer, music maker",
-      "followersCount": 397669,
+      "followersCount": 397671,
       "friendsCount": 545,
       "location": "Music over here:"
     },
@@ -528,7 +628,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 433105,
+      "followersCount": 433106,
       "friendsCount": 1384,
       "location": "Austin, TX"
     },
@@ -908,8 +1008,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 159456,
-      "friendsCount": 1490,
+      "followersCount": 159541,
+      "friendsCount": 1491,
       "location": "Chicago, IL"
     },
     "images": [
