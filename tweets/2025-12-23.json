@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
+      "followersCount": 4566563,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2003593515490770946/vid/avc1/1920x1080/l13TJlwFbPoRHQGk.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2003594025098785145",
+    "fullText": "Capability overhang means too many gaps today between what the models can do and what most people actually do with them.\n\n2026 Prediction: Progress towards AGI will depend as much on helping people use AI well, in ways that directly benefit them as on progress in frontier models https://t.co/v2q6swfLhd",
+    "createdAt": "Tue Dec 23 22:30:15 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 308376,
+      "friendsCount": 100,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G84xSsGXAAA6LKr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2003593131132916204",
+    "fullText": "Researchers proposed Sample-Efficient Modality Integration (SEMI), which plugs any pretrained encoder (image, audio, video, sensors, graphs) into an LLM using one projector plus LoRA adapters generated from a handful of paired examples. \n\nTrained on data-rich domains, SEMI https://t.co/Rn9wKv97mG",
+    "createdAt": "Tue Dec 23 22:26:42 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "levie",
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - your business lives in content. unleash it with AI",
-      "followersCount": 2397086,
+      "followersCount": 2397100,
       "friendsCount": 752,
       "location": "Bay Area"
     },
@@ -21,7 +57,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "The latest breakthroughs and the future of AI for business leaders.",
-      "followersCount": 250394,
+      "followersCount": 250400,
       "friendsCount": 790,
       "location": "Santa Clara, CA"
     },
@@ -39,7 +75,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaptionlabs. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 53444,
+      "followersCount": 53446,
       "friendsCount": 9776,
       "location": "San Francisco"
     },
@@ -91,7 +127,7 @@
       "name": "G3mini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 336099,
+      "followersCount": 336106,
       "friendsCount": 46,
       "location": "Mountain View, CA"
     },
@@ -141,7 +177,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 84553,
+      "followersCount": 84556,
       "friendsCount": 1084,
       "location": "HQ: San Francisco, CA"
     },
@@ -159,7 +195,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 432379,
+      "followersCount": 432381,
       "friendsCount": 518,
       "location": "🇺🇸 Collaborations →"
     },
@@ -177,7 +213,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 92301,
+      "followersCount": 92305,
       "friendsCount": 46,
       "location": ""
     },
@@ -213,7 +249,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 230343549,
+      "followersCount": 230345205,
       "friendsCount": 1254,
       "location": ""
     },
@@ -229,7 +265,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 443974,
+      "followersCount": 443979,
       "friendsCount": 3153,
       "location": ""
     },
@@ -245,7 +281,7 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
-      "followersCount": 58225,
+      "followersCount": 58227,
       "friendsCount": 3273,
       "location": "San Francisco"
     },
@@ -263,7 +299,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 329393,
+      "followersCount": 329395,
       "friendsCount": 792,
       "location": ""
     },
@@ -540,7 +576,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 907632,
+      "followersCount": 907652,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -1860,7 +1896,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/GZMhf39NRs",
-      "followersCount": 280814,
+      "followersCount": 280820,
       "friendsCount": 743,
       "location": "DAIR.AI Academy"
     },
