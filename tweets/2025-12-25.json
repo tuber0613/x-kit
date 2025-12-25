@@ -1,12 +1,82 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 160340,
+      "friendsCount": 1493,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8-56TWXgAEUfSV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2004025068498657334",
+    "fullText": "我经常在提示词里面用一些中括号或者大括号表示占位符，结果反而让人困惑，我顺便把这位网友的困惑和我的回答整理了一下。\n\nQ：宝玉老师，你的提示词里总是有各种尖括号&lt;&gt;、中括号[]、大括号{}，还有${}，我看晕了。这些符号是有严格定义的吗？是不是每种括号都有特定用法，需要我每次都手动去改？ https://t.co/0qgjye7XWC",
+    "createdAt": "Thu Dec 25 03:03:03 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 32596,
+      "friendsCount": 1199,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8-ymHBbsAA_MmO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2004019090260893976",
+    "fullText": "谷歌出的一款医疗领域专用ASR：MedASR，基于海量医疗语音数据训练，对医学术语识别准确率高于通用模型\n\n可以用于临床文档，比如医生用语音口述病历、笔记、手术报告等等，提高文档的录入效率\n\n转录的文本可以自动添加标点符号；可以根据特定医疗机构或专业领域词汇表进行定制\n\n#医疗ASR #MedASR https://t.co/64NKMTqjB4",
+    "createdAt": "Thu Dec 25 02:39:18 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "NaveenGRao",
+      "name": "Naveen Rao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1846057841934606337/CGG3iJKT_normal.jpg",
+      "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
+      "followersCount": 35942,
+      "friendsCount": 905,
+      "location": "San Diego, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NaveenGRao/status/2004018717320270273",
+    "fullText": "Congrats @JonathanRoss321 ! Mega outcome. This guy got the company back on track from a near death experience.\n\nWhat this also says to me is that Nvidia sensed a threat to scaling their own inference business. The number is too big for just technology. Low latency FTW!\n\nCongrats",
+    "createdAt": "Thu Dec 25 02:37:49 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 130189,
+      "friendsCount": 5,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2004010863649517568/vid/avc1/1832x2336/eL3JVEu2bYrvNTpd.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2004011073998147842",
+    "fullText": "Merry Qwristmas! 🎄🎁\nHuge thanks for all the love and support this year.\nGet ready for Qwen’s New Year surprises! 🎆✨\nSee you next year — with even more Qwen magic. ✨ https://t.co/hNfP5mwkUj",
+    "createdAt": "Thu Dec 25 02:07:27 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 230402122,
-      "friendsCount": 1254,
+      "followersCount": 230403170,
+      "friendsCount": 1255,
       "location": ""
     },
     "images": [],
@@ -23,8 +93,8 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 230402122,
-      "friendsCount": 1254,
+      "followersCount": 230403170,
+      "friendsCount": 1255,
       "location": ""
     },
     "images": [],
@@ -57,7 +127,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 150008,
+      "followersCount": 150019,
       "friendsCount": 5143,
       "location": "Montréal, Québec"
     },
@@ -75,7 +145,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 593330,
+      "followersCount": 593348,
       "friendsCount": 821,
       "location": "United States"
     },
@@ -92,7 +162,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
       "followersCount": 257269,
-      "friendsCount": 7688,
+      "friendsCount": 7687,
       "location": "United States"
     },
     "images": [
@@ -109,7 +179,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/GZMhf39NRs",
-      "followersCount": 280925,
+      "followersCount": 280943,
       "friendsCount": 746,
       "location": "DAIR.AI Academy"
     },
@@ -125,7 +195,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 329574,
+      "followersCount": 329589,
       "friendsCount": 792,
       "location": ""
     },
@@ -142,7 +212,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
       "followersCount": 257269,
-      "friendsCount": 7688,
+      "friendsCount": 7687,
       "location": "United States"
     },
     "images": [
@@ -159,7 +229,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "dad 3 under 3 // droid dealer @FactoryAI // dev tool investor + writer https://t.co/iLpIJT2Vlg // founder makerpad (acq by zapier)",
-      "followersCount": 170773,
+      "followersCount": 170780,
       "friendsCount": 469,
       "location": "online"
     },
@@ -227,7 +297,7 @@
       "name": "Jim Fan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
       "description": "NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
-      "followersCount": 340606,
+      "followersCount": 340689,
       "friendsCount": 3090,
       "location": "Views my own. Contact →"
     },
@@ -238,5 +308,21 @@
     "tweetUrl": "https://x.com/DrJimFan/status/2003879965369290797",
     "fullText": "I'm on a singular mission to solve the Physical Turing Test for robotics. It's the next, or perhaps THE last grand challenge of AI. Super-intelligence in text strings will win a Nobel prize before we have chimpanzee-intelligence in agility &amp; dexterity. Moravec's paradox is a https://t.co/GOJbDyAbZM",
     "createdAt": "Wed Dec 24 17:26:28 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "zoodotdev",
+      "name": "Zoo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1938298729066577920/a0gq-Y4h_normal.jpg",
+      "description": "Get the full power of a professional CAD platform, enhanced with ML through Text-to-CAD. Zoo Design Studio for desktop is now free to download and explore.",
+      "followersCount": 13841,
+      "friendsCount": 17,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zoodotdev/status/2003503355260215795",
+    "fullText": "Zoo Design Studio combines advanced 3D modeling tools with ML, giving designers powerful new capabilities like Text-to-CAD. Generate precise B-rep geometry and create CNC-ready parts from a simple prompt.",
+    "createdAt": "Tue Dec 23 16:29:57 +0000 2025"
   }
 ]
