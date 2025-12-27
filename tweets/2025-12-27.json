@@ -1,6 +1,74 @@
 [
   {
     "user": {
+      "screenName": "mathemagic1an",
+      "name": "Jay Hack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
+      "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
+      "followersCount": 58380,
+      "friendsCount": 3274,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9NLWAdXIAIsLf3.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mathemagic1an/status/2005029797827883179",
+    "fullText": "Interesting new model for \"agent sandboxes\":\n\n~$: ssh https://t.co/YC5LMjGpMP\n\nBring-your-own-sandbox for code agents. \n\nProvides persistent VMs you can SSH into (and leave your code agent running in)\n\nSimplifies sandbox security/setup and allows you to swap agents easily https://t.co/wmYf30e01U",
+    "createdAt": "Sat Dec 27 21:35:30 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
+      "followersCount": 330963,
+      "friendsCount": 792,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2005028533584732551",
+    "fullText": "Don't die from something stupid!",
+    "createdAt": "Sat Dec 27 21:30:28 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "mathemagic1an",
+      "name": "Jay Hack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
+      "description": "Building @codegen. Tweets about AI, computing and dev tools. Previously did startups, @palantir. Not a pseudonym.",
+      "followersCount": 58380,
+      "friendsCount": 3274,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9NJvRdWMAA1n_0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mathemagic1an/status/2005027977902653791",
+    "fullText": "uv is so much faster partially because it optimized for newer standards.\n\nMajor unlock was migration to a better standard for package distribution (pyproject.toml + PyPI upgrades). Pip has a bunch of baggage while uv targeted this from the beginning\n\nhttps://t.co/A4mUcX9KSJ https://t.co/Ms941u1EpE",
+    "createdAt": "Sat Dec 27 21:28:16 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "DavidSHolz",
+      "name": "David",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
+      "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
+      "followersCount": 94172,
+      "friendsCount": 9318,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DavidSHolz/status/2005027091889488067",
+    "fullText": "stop worrying: the universe is ~so beautiful~  and we should be grateful to witness to it and *somehow* even be a part of it",
+    "createdAt": "Sat Dec 27 21:24:44 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
@@ -39,7 +107,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 257372,
+      "followersCount": 257374,
       "friendsCount": 7702,
       "location": "United States"
     },
@@ -55,8 +123,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 64607,
-      "friendsCount": 34600,
+      "followersCount": 64605,
+      "friendsCount": 34599,
       "location": "latent space"
     },
     "images": [
@@ -73,7 +141,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 717368,
+      "followersCount": 717373,
       "friendsCount": 2013,
       "location": "Palo Alto"
     },
@@ -89,7 +157,7 @@
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
-      "followersCount": 375540,
+      "followersCount": 375542,
       "friendsCount": 1112,
       "location": ""
     },
@@ -105,7 +173,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 228160,
+      "followersCount": 228171,
       "friendsCount": 76,
       "location": ""
     },
@@ -123,7 +191,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 637357,
+      "followersCount": 637371,
       "friendsCount": 5457,
       "location": "San Francisco, CA"
     },
@@ -141,7 +209,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 161807,
+      "followersCount": 161813,
       "friendsCount": 1499,
       "location": "Chicago, IL"
     },
@@ -159,7 +227,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 228160,
+      "followersCount": 228171,
       "friendsCount": 76,
       "location": ""
     },
@@ -177,7 +245,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 333770,
+      "followersCount": 333776,
       "friendsCount": 20618,
       "location": "Cambridge, MA"
     },
@@ -195,7 +263,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 230506307,
+      "followersCount": 230507135,
       "friendsCount": 1257,
       "location": ""
     },
@@ -211,7 +279,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 230506307,
+      "followersCount": 230507135,
       "friendsCount": 1257,
       "location": ""
     },
@@ -227,7 +295,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 257372,
+      "followersCount": 257374,
       "friendsCount": 7702,
       "location": "United States"
     },
@@ -243,7 +311,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 593949,
+      "followersCount": 593965,
       "friendsCount": 822,
       "location": "United States"
     },
@@ -261,7 +329,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 84650,
+      "followersCount": 84651,
       "friendsCount": 1085,
       "location": "HQ: San Francisco, CA"
     },
@@ -279,8 +347,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 64607,
-      "friendsCount": 34600,
+      "followersCount": 64605,
+      "friendsCount": 34599,
       "location": "latent space"
     },
     "images": [],
@@ -297,7 +365,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 330939,
+      "followersCount": 330963,
       "friendsCount": 792,
       "location": ""
     },
@@ -331,7 +399,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering.",
-      "followersCount": 228160,
+      "followersCount": 228171,
       "friendsCount": 76,
       "location": ""
     },
@@ -349,7 +417,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4171862,
+      "followersCount": 4171903,
       "friendsCount": 977,
       "location": "SF"
     },
@@ -365,7 +433,7 @@
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "MiniMaxAgent: https://t.co/XzaTmAnUbn\nOpen Platform: https://t.co/fHRdSV73Hr\nMiniMax Audio: https://t.co/PVH8VtTrrl\nHailuo AI: https://t.co/3v4WcnVuNf",
-      "followersCount": 28308,
+      "followersCount": 28316,
       "friendsCount": 146,
       "location": "San Francisco"
     },
@@ -383,7 +451,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 110976,
+      "followersCount": 110980,
       "friendsCount": 502,
       "location": ""
     },
