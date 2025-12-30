@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1611009368765468673/lLWbGjjj_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 594621,
+      "friendsCount": 821,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2006133118936166801",
+    "fullText": "Social media is the sedative that makes us forget we ever had freedom and agency. You can just do things, but first you have to close the app.",
+    "createdAt": "Tue Dec 30 22:39:42 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 48475,
+      "friendsCount": 2312,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2006132551706952119",
+    "fullText": "Advanced AI is like the mechanical loom.\n\nExcept where the weavers made the loom. \n\nDiscuss.",
+    "createdAt": "Tue Dec 30 22:37:27 +0000 2025"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 119061,
+      "friendsCount": 548,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9bQEGuWwAEupvw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2006128966130700620",
+    "fullText": "Paper reading thread! Complete(d)P by fine folks at Apple (@jramapuram did the sigmoid attention, for example).\n\nThey try to further extend hparam transferability across ALL things one typically scales: width, depth, batch-size, training tokens. (Though they forget ctx len imo). https://t.co/Ld0wmG6NfI",
+    "createdAt": "Tue Dec 30 22:23:12 +0000 2025"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 331936,
+      "followersCount": 331950,
       "friendsCount": 792,
       "location": ""
     },
@@ -21,7 +71,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 476584,
+      "followersCount": 476587,
       "friendsCount": 4273,
       "location": "Maryland, USA"
     },
@@ -39,7 +89,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 476584,
+      "followersCount": 476587,
       "friendsCount": 4273,
       "location": "Maryland, USA"
     },
@@ -57,7 +107,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 230673664,
+      "followersCount": 230675335,
       "friendsCount": 1259,
       "location": ""
     },
@@ -73,7 +123,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 230673664,
+      "followersCount": 230675335,
       "friendsCount": 1259,
       "location": ""
     },
@@ -89,7 +139,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 119055,
+      "followersCount": 119061,
       "friendsCount": 548,
       "location": "Zürich, Suisse"
     },
@@ -108,7 +158,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
       "description": "Mostly research and code. If universe is an optimizer, what is its loss function? All opinions are my own.",
       "followersCount": 13226,
-      "friendsCount": 11242,
+      "friendsCount": 11247,
       "location": "Redmond, WA"
     },
     "images": [],
@@ -123,7 +173,7 @@
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 413418,
+      "followersCount": 413436,
       "friendsCount": 1468,
       "location": "CA"
     },
@@ -141,7 +191,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 84753,
+      "followersCount": 84754,
       "friendsCount": 1085,
       "location": "HQ: San Francisco, CA"
     },
@@ -159,7 +209,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 257906,
+      "followersCount": 257911,
       "friendsCount": 7720,
       "location": "United States"
     },
@@ -193,7 +243,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.",
-      "followersCount": 331936,
+      "followersCount": 331950,
       "friendsCount": 792,
       "location": ""
     },
@@ -209,7 +259,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 432991,
+      "followersCount": 432987,
       "friendsCount": 521,
       "location": "🇺🇸 Collaborations →"
     },
@@ -227,7 +277,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
       "description": "",
-      "followersCount": 230673664,
+      "followersCount": 230675335,
       "friendsCount": 1259,
       "location": ""
     },
@@ -245,7 +295,7 @@
       "name": "lmarena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927385934024105985/dbNOM1In_normal.png",
       "description": "LMArena: Open Platform for Community-driven AI Benchmarking. Graduated from UC Berkeley / lmsysorg. We’re hiring: https://t.co/1OkfLq1Pba",
-      "followersCount": 119421,
+      "followersCount": 119419,
       "friendsCount": 208,
       "location": "US"
     },
@@ -263,7 +313,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/GZMhf39NRs",
-      "followersCount": 281985,
+      "followersCount": 281989,
       "friendsCount": 752,
       "location": "DAIR.AI Academy"
     },
@@ -281,7 +331,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 257906,
+      "followersCount": 257911,
       "friendsCount": 7720,
       "location": "United States"
     },
@@ -821,7 +871,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 64630,
+      "followersCount": 64631,
       "friendsCount": 34615,
       "location": "latent space"
     },
@@ -855,7 +905,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 719265,
+      "followersCount": 719345,
       "friendsCount": 2013,
       "location": "Palo Alto"
     },
