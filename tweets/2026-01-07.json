@@ -1,11 +1,82 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 433516,
+      "friendsCount": 522,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2008890124072112223",
+    "fullText": "I feel I'm operating at a much higher level when using Claude Code.\n\nI've heard some people saying that AI makes developers lazy, but that's not how I feel. I actually think I'm doing more work than ever before.\n\nOf course, I'm writing fewer lines of code myself, but who cares?",
+    "createdAt": "Wed Jan 07 13:15:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 477406,
+      "friendsCount": 4185,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-ECFnGXAAAurn9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2008889208077963544",
+    "fullText": "Layers of AI\n\nSource for infographic: https://t.co/KBhJc3HOGO https://t.co/GzQZ1WWo89",
+    "createdAt": "Wed Jan 07 13:11:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 32962,
+      "friendsCount": 1240,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-C07SjbcAASyqS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2008888672763134364",
+    "fullText": "阿里高德地图也搞了一款世界模型：FantasyWorld，目前在WorldScore世界模型排行榜几个关键指标上排名第一\n\n继Qwen之后，阿里估计要在世界模型上发力了\n\n其核心是通过统一视频生成和3D预测，实现几何一致的世界建模，缓解现有视频模型在3D理解上的能力不足，导致的空间一致性差以及3D推理的受限问题 https://t.co/Jbf7yild2s",
+    "createdAt": "Wed Jan 07 13:09:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 113088,
+      "friendsCount": 1227,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-D8a8wbsAAWx4K.png",
+      "https://pbs.twimg.com/media/G-D8bCqb0AAKq_V.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2008882992102637593",
+    "fullText": "高德发布了一个名叫 FantasyWorld 的世界模型，阿里的模型版图再次扩张。\n\n作为头部导航应用这么大的数据量确实可以用来搞个模型。\n\n发布之后在 WorldScore Leaderboard 这个专门用于世界模型的测试集排第一。\n\n随着自动驾驶各家转向 VLA 和纯视觉方案，加上具身智能的火爆，感觉这类追求物理表现和 3D https://t.co/APERmoGxG9",
+    "createdAt": "Wed Jan 07 12:46:43 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "fchollet",
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 595922,
+      "followersCount": 595940,
       "friendsCount": 822,
       "location": "United States"
     },
@@ -21,7 +92,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 150168,
+      "followersCount": 150160,
       "friendsCount": 5147,
       "location": "Montréal, Québec"
     },
@@ -37,7 +108,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2087418,
+      "followersCount": 2087451,
       "friendsCount": 780,
       "location": ""
     },
@@ -55,7 +126,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2087418,
+      "followersCount": 2087451,
       "friendsCount": 780,
       "location": ""
     },
@@ -71,7 +142,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 32959,
+      "followersCount": 32962,
       "friendsCount": 1240,
       "location": ""
     },
@@ -89,7 +160,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 113085,
+      "followersCount": 113088,
       "friendsCount": 1227,
       "location": ""
     },
@@ -107,7 +178,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 725152,
+      "followersCount": 725202,
       "friendsCount": 2013,
       "location": "Palo Alto"
     },
@@ -123,8 +194,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 273334,
-      "friendsCount": 11461,
+      "followersCount": 273337,
+      "friendsCount": 11462,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -155,7 +226,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 113085,
+      "followersCount": 113088,
       "friendsCount": 1227,
       "location": ""
     },
@@ -311,7 +382,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 113085,
+      "followersCount": 113088,
       "friendsCount": 1227,
       "location": ""
     },
@@ -963,7 +1034,7 @@
       "name": "Roborock",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1477151735537803265/f9oP4BoE_normal.png",
       "description": "🥇 No. 1 Best-Selling Robot Vacuum\n🤖 Clean Smarter. Roborock Harder.\n📸 Show Us Your @roborockglobal Moment",
-      "followersCount": 34400,
+      "followersCount": 34399,
       "friendsCount": 47,
       "location": ""
     },
@@ -1428,7 +1499,7 @@
       "name": "MarketBeat",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1998463714631004160/j7Is4Y7__normal.png",
       "description": "Actionable market news for everyday investors, paired with commentary and the sarcasm needed to survive volatility. 🎢🤪",
-      "followersCount": 18620,
+      "followersCount": 18615,
       "friendsCount": 2449,
       "location": "Sioux Falls, SD"
     },
@@ -1464,7 +1535,7 @@
       "name": "Pure Storage",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1808318080478756864/StQJbKcK_normal.jpg",
       "description": "Welcome to a new era. Data—at your service™",
-      "followersCount": 65844,
+      "followersCount": 65843,
       "friendsCount": 4121,
       "location": "Santa Clara, CA"
     },
@@ -1532,7 +1603,7 @@
       "name": "Lucas A. Ferrara",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/910980790162423809/3AvhHe2Q_normal.jpg",
       "description": "Founding partner of Newman Ferrara, Lucas has been a Super Lawyer® every year since 2007, repeatedly achieving \"Top 100\" recognition",
-      "followersCount": 2950,
+      "followersCount": 2949,
       "friendsCount": 271,
       "location": "New York, New York"
     },
