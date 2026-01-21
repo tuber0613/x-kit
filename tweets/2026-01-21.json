@@ -1,11 +1,116 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 170175,
+      "friendsCount": 1536,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_M27n7XYAUo_ZR.jpg",
+      "https://pbs.twimg.com/media/G_M3YL0XYAg0v7C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2014014507291467874",
+    "fullText": "我自己也受不了从 Agent 里面调用 Gemini Web 画图了，太不稳定了。新增加了 baoyu-image-gen Skill，基于官方 API ，支持 GOOGLE_BASE_URL，需要配置 GOOGLE_API_KEY\n\nnpx skills add jimliu/baoyu-skills https://t.co/Z6ruDwAmG5",
+    "createdAt": "Wed Jan 21 16:37:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 312310,
+      "friendsCount": 101,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013999077554376704/vid/avc1/1920x1080/ECDkvtFjqeKnIte5.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2014012615383724150",
+    "fullText": "New short course! Gemini CLI: Code &amp; Create with an Open-Source Agent\n\nLearn how to build multi-step development and automation workflows from the command line using Gemini CLI, an open-source agent that plans and executes multi-step workflows across local files, developer tools, https://t.co/b7Tq5wtv6p",
+    "createdAt": "Wed Jan 21 16:30:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2110928,
+      "friendsCount": 779,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2014006733341966401",
+    "fullText": "My side of the sink in our bathroom: toothpaste, shaving cream, mouthwash, dental floss. Jessica's side: Snape's classroom.",
+    "createdAt": "Wed Jan 21 16:06:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 434430,
+      "friendsCount": 523,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_MwFxfbQAAsgiH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2014006340587557009",
+    "fullText": "This turns 40 hours of work into 20 minutes:\n\nI can evaluate a complete forecasting model on time-series data and pick the best version to deploy without writing a single line of code.\n\nNormally, this would be several days of work.\n\n• Setting up the evaluation pipeline\n• https://t.co/IvjxCXz5fw",
+    "createdAt": "Wed Jan 21 16:05:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 750101,
+      "friendsCount": 35,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2014005798691877083",
+    "fullText": "We’re publishing a new constitution for Claude.\n\nThe constitution is a detailed description of our vision for Claude’s behavior and values. It’s written primarily for Claude, and used directly in our training process.\nhttps://t.co/CJsMIO0uej",
+    "createdAt": "Wed Jan 21 16:02:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 85506,
+      "friendsCount": 1083,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_Mvf_hWUAAHlzB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2014005705905148171",
+    "fullText": "We’re proud to share that Databricks has been named one of @Glassdoor’s Best Places to Work companies for 2026! \n\nWe could not do this without each and every single Brickster who helps make Databricks an amazing place to work and innovate! 🧱 \n\nSee the full list here: https://t.co/uPTTnJ9tM4",
+    "createdAt": "Wed Jan 21 16:02:33 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "dair_ai",
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. New Claude Code cohort: https://t.co/XCpQTjR9hg",
-      "followersCount": 86837,
+      "followersCount": 86843,
       "friendsCount": 1,
       "location": ""
     },
@@ -23,7 +128,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 437384,
+      "followersCount": 437389,
       "friendsCount": 1400,
       "location": "Austin, TX"
     },
@@ -39,7 +144,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/AqEvlVuYdM",
-      "followersCount": 285677,
+      "followersCount": 285684,
       "friendsCount": 759,
       "location": "DAIR.AI Academy"
     },
@@ -57,7 +162,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2110834,
+      "followersCount": 2110928,
       "friendsCount": 779,
       "location": ""
     },
@@ -73,8 +178,8 @@
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "MiniMaxAgent: https://t.co/XzaTmAnUbn\nOpen Platform: https://t.co/fHRdSV73Hr\nMiniMax Audio: https://t.co/PVH8VtTrrl\nHailuo AI: https://t.co/3v4WcnVuNf",
-      "followersCount": 33895,
-      "friendsCount": 239,
+      "followersCount": 33903,
+      "friendsCount": 240,
       "location": "San Francisco"
     },
     "images": [],
@@ -123,7 +228,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 117845,
+      "followersCount": 117843,
       "friendsCount": 526,
       "location": ""
     },
@@ -141,7 +246,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 434429,
+      "followersCount": 434430,
       "friendsCount": 523,
       "location": "🇺🇸 Collaborations →"
     },
@@ -157,7 +262,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 65153,
+      "followersCount": 65154,
       "friendsCount": 34628,
       "location": "latent space"
     },
@@ -173,7 +278,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 342377,
+      "followersCount": 342394,
       "friendsCount": 795,
       "location": ""
     },
@@ -271,7 +376,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2008546467615580160/57KcqsTA_normal.jpg",
       "description": "",
-      "followersCount": 232661276,
+      "followersCount": 232667179,
       "friendsCount": 1273,
       "location": ""
     },
@@ -289,7 +394,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 115269,
+      "followersCount": 115292,
       "friendsCount": 1233,
       "location": ""
     },
@@ -305,7 +410,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 65153,
+      "followersCount": 65154,
       "friendsCount": 34628,
       "location": "latent space"
     },
@@ -323,7 +428,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2110834,
+      "followersCount": 2110928,
       "friendsCount": 779,
       "location": ""
     },
@@ -1340,7 +1445,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 478655,
+      "followersCount": 478654,
       "friendsCount": 3694,
       "location": "Maryland, USA"
     },
@@ -1541,7 +1646,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 342377,
+      "followersCount": 342394,
       "friendsCount": 795,
       "location": ""
     },
@@ -1706,6 +1811,22 @@
     "tweetUrl": "https://x.com/dotey/status/2013490814064767458",
     "fullText": "想让 AI 自动读取 doc/docx 文档，再基于这些文档生成新文档，这种场景能做成 Skill 吗？\n\n可以，但做之前先想清楚一个问题：这是一次性任务，还是需要反复做的任务？\n\n如果只是一次性任务，没必要做成 Skill——Skill 的核心价值在于复用。\n\n如果是需要反复做的任务，建议按这个流程走：\n\n1. https://t.co/BYMey6Xk1H",
     "createdAt": "Tue Jan 20 05:56:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EndoxiaHQ",
+      "name": "Endoxia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2010431243620347904/G2h6YheJ_normal.jpg",
+      "description": "Helping finance teams make forecasts that actually hold up. AI + collective intelligence. 30% more accurate. Backed by 100+ studies.",
+      "followersCount": 6,
+      "friendsCount": 43,
+      "location": "Netherlands"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EndoxiaHQ/status/2013377427884458369",
+    "fullText": "Most forecasts fail because they rely on a few people in a room.\n\nBut your organization knows more than the spreadsheets.\n\nThe question is: how do you capture it?\n\nThat's what we're building.",
+    "createdAt": "Mon Jan 19 22:26:00 +0000 2026"
   },
   {
     "user": {
