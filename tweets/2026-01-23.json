@@ -1,11 +1,64 @@
 [
   {
     "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
+      "followersCount": 923559,
+      "friendsCount": 52,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_W3ENLbAAgb4IC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2014717695166710269",
+    "fullText": "Vibe coding has unleashed a torrent of new iOS apps in the app store.\n\nAfter basically zero growth for the past three years, new app releases surged 60% yoy in December (and 24% on a trailing twelve month basis).\n\nCharts of the Week: https://t.co/by6074JwZG https://t.co/7lKJPaaibr",
+    "createdAt": "Fri Jan 23 15:11:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 434554,
+      "friendsCount": 523,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2014717285840429445",
+    "fullText": "Stop reading tutorials. Stop collecting bookmarks. Stop watching YouTube videos.\n\nIf you've been \"learning\" AI/ML for months and you still can't build anything that works in production, you are doing it wrong.\n\nYou aren't learning. You are procrastinating with extra steps.\n\n2",
+    "createdAt": "Fri Jan 23 15:10:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
+      "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 63758,
+      "friendsCount": 908,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_W099xWYAALXUf.jpg",
+      "https://pbs.twimg.com/media/G_W0-BRXIAIojxz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2014715388546703468",
+    "fullText": "A well known important feature to stabilize RL training is implementing the LM head in fp32 precision to help with gradients. Reproduced the plot from the MiniMax M1 paper entirely on my dgx spark and in Ai2's post-training research codebase. https://t.co/aGTEZdbQ2M",
+    "createdAt": "Fri Jan 23 15:02:34 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 259296,
+      "followersCount": 259293,
       "friendsCount": 7773,
       "location": "United States"
     },
@@ -21,7 +74,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 266651,
+      "followersCount": 266664,
       "friendsCount": 327,
       "location": "New York, USA"
     },
@@ -39,7 +92,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 259296,
+      "followersCount": 259293,
       "friendsCount": 7773,
       "location": "United States"
     },
@@ -75,7 +128,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 342711,
+      "followersCount": 342709,
       "friendsCount": 796,
       "location": ""
     },
@@ -91,7 +144,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 259296,
+      "followersCount": 259293,
       "friendsCount": 7773,
       "location": "United States"
     },
@@ -109,7 +162,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1608281295918096385/D2kh-M28_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 437572,
+      "followersCount": 437576,
       "friendsCount": 1401,
       "location": "Austin, TX"
     },
@@ -125,7 +178,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 434540,
+      "followersCount": 434554,
       "friendsCount": 523,
       "location": "🇺🇸 Collaborations →"
     },
@@ -159,7 +212,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 149944,
+      "followersCount": 149945,
       "friendsCount": 5168,
       "location": "Montréal, Québec"
     },
@@ -175,7 +228,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1304713,
+      "followersCount": 1304725,
       "friendsCount": 281,
       "location": "London, UK"
     },
@@ -193,7 +246,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Open Sovereign AI @ii_posts. Founder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 305485,
+      "followersCount": 305487,
       "friendsCount": 30,
       "location": "London"
     },
@@ -209,7 +262,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 65168,
+      "followersCount": 65167,
       "friendsCount": 34628,
       "location": "latent space"
     },
@@ -227,7 +280,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 116074,
+      "followersCount": 116083,
       "friendsCount": 1233,
       "location": ""
     },
@@ -279,7 +332,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 171346,
+      "followersCount": 171367,
       "friendsCount": 1541,
       "location": "Chicago, IL"
     },
@@ -905,7 +958,7 @@
       "name": "Matthew E. Kahn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879364333643182080/Ll5nuwjA_normal.jpg",
       "description": "Provost Professor of Economics at the University of Southern California.  Visiting Fellow at the Hoover Institution.",
-      "followersCount": 12055,
+      "followersCount": 12054,
       "friendsCount": 5132,
       "location": "Los Angeles, CA"
     },
@@ -1041,8 +1094,8 @@
       "name": "Beth Carter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1966619686587539456/OQF0f_JY_normal.jpg",
       "description": "Award-winning author of the popular Coconuts series, a cookbook, nonfiction, & kidlit. Writes w/humor, heart, coffee, & wine. https://t.co/UcPubE1BYy",
-      "followersCount": 6911,
-      "friendsCount": 6350,
+      "followersCount": 6912,
+      "friendsCount": 6349,
       "location": "Show-Me & Sunshine States"
     },
     "images": [
@@ -1073,11 +1126,29 @@
   },
   {
     "user": {
+      "screenName": "zipline",
+      "name": "Zipline",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943111676787855360/EmEJnPQc_normal.jpg",
+      "description": "Your favorite things delivered faster by air. \n2M+ deliveries & counting.\n\nWant Zipline in your area? Join the waitlist, link in bio.",
+      "followersCount": 33109,
+      "friendsCount": 1509,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2014023355461148677/vid/avc1/3240x2160/S9Z7foE0luia8D-b.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/zipline/status/2014024831562285123",
+    "fullText": "2,000,000+ commercial deliveries. \nNew cities unlocked.\n\nSee where we’re taking off next https://t.co/Pb8Lep0lsv",
+    "createdAt": "Wed Jan 21 17:18:33 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Vercept_ai",
       "name": "Vercept",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887313729282539520/pxHIsrdE_normal.jpg",
       "description": "Building the AI Computer Interface of the Future",
-      "followersCount": 1837,
+      "followersCount": 1838,
       "friendsCount": 12,
       "location": "Seattle, WA"
     },
