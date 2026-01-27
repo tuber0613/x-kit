@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "CaimingXiong",
+      "name": "Caiming Xiong",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/620325010444423168/rPerKdzU_normal.jpg",
+      "description": "SVP, AI Research Lead at @Salesforce | ex-MetaMind (Opinions are personal.)",
+      "followersCount": 7676,
+      "friendsCount": 488,
+      "location": "Salesforce"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_sjm53bAAAMqir.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CaimingXiong/status/2016248124503974164",
+    "fullText": "MoE scaling loves Expert Parallelism (EP)… until routing gets imbalanced.\nEven “well-trained” MoEs route a big chunk of tokens to a small subset of experts (specialization), so EP can overload a few GPUs and waste the rest—especially in post-training/inference where explicit https://t.co/hLSPyRfPJZ",
+    "createdAt": "Tue Jan 27 20:33:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "lmarena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927385934024105985/dbNOM1In_normal.png",
+      "description": "LMArena: Open Platform for Community-driven AI Benchmarking. Graduated from UC Berkeley / lmsysorg. We’re hiring: https://t.co/1OkfLq1Pba",
+      "followersCount": 124094,
+      "friendsCount": 208,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_smCK4WEAER04w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2016247988633604534",
+    "fullText": "Arena is headed to @HumanXCo SF this April!\n\nCome join us for a fireside chat about how a community of millions giving real-world feedback, are raising the bar for trustworthy AI.\n\n📍 Wed, April 8 | 1:30-1:50pm\n 🎤 with two of LMArena co-founders: \nCEO @ml_angelopoulos and https://t.co/aH9TcdkwvJ",
+    "createdAt": "Tue Jan 27 20:32:35 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 434904,
+      "followersCount": 434908,
       "friendsCount": 524,
       "location": "🇺🇸 Collaborations →"
     },
@@ -23,7 +59,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 925888,
+      "followersCount": 925898,
       "friendsCount": 52,
       "location": "The Cloud"
     },
@@ -41,7 +77,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 85705,
+      "followersCount": 85709,
       "friendsCount": 1083,
       "location": "HQ: San Francisco, CA"
     },
@@ -59,7 +95,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982998729931042817/R88YrV4r_normal.jpg",
       "description": "Accelerate training, fine-tuning, and inference on performance-optimized GPU clusters.",
-      "followersCount": 52562,
+      "followersCount": 52560,
       "friendsCount": 394,
       "location": "San Francisco, CA"
     },
@@ -77,7 +113,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Open Sovereign AI @ii_posts. Founder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 305779,
+      "followersCount": 305785,
       "friendsCount": 30,
       "location": "London"
     },
@@ -93,7 +129,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 313454,
+      "followersCount": 313458,
       "friendsCount": 102,
       "location": "United States"
     },
@@ -111,7 +147,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 599762,
+      "followersCount": 599772,
       "friendsCount": 823,
       "location": "United States"
     },
@@ -129,7 +165,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 656420,
+      "followersCount": 656446,
       "friendsCount": 5542,
       "location": "San Francisco, CA"
     },
@@ -145,7 +181,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 656420,
+      "followersCount": 656446,
       "friendsCount": 5542,
       "location": "San Francisco, CA"
     },
@@ -182,7 +218,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 231876,
+      "followersCount": 231881,
       "friendsCount": 77,
       "location": ""
     },
@@ -198,7 +234,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 96806,
+      "followersCount": 96810,
       "friendsCount": 46,
       "location": ""
     },
@@ -216,7 +252,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173059,
+      "followersCount": 173060,
       "friendsCount": 1544,
       "location": "Chicago, IL"
     },
@@ -234,7 +270,7 @@
       "name": "Character.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963055647853051907/NZME6Fm9_normal.png",
       "description": "Unleash your imagination—chat, create, explore.",
-      "followersCount": 148156,
+      "followersCount": 148153,
       "friendsCount": 13,
       "location": ""
     },
@@ -252,7 +288,7 @@
       "name": "Google Gemini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 374776,
+      "followersCount": 374803,
       "friendsCount": 46,
       "location": "Mountain View, CA"
     },
@@ -268,7 +304,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 65225,
+      "followersCount": 65226,
       "friendsCount": 34638,
       "location": "latent space"
     },
@@ -284,7 +320,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 102670,
+      "followersCount": 102672,
       "friendsCount": 603,
       "location": "Stanford, CA"
     },
@@ -300,7 +336,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2124518,
+      "followersCount": 2124621,
       "friendsCount": 780,
       "location": ""
     },
@@ -336,7 +372,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.",
-      "followersCount": 1307392,
+      "followersCount": 1307411,
       "friendsCount": 281,
       "location": "London, UK"
     },
@@ -354,7 +390,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 63942,
+      "followersCount": 63954,
       "friendsCount": 911,
       "location": "Seattle"
     },
@@ -370,7 +406,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6Lg202",
-      "followersCount": 4595019,
+      "followersCount": 4595110,
       "friendsCount": 4,
       "location": ""
     },
@@ -388,7 +424,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 259614,
+      "followersCount": 259611,
       "friendsCount": 7784,
       "location": "United States"
     },
@@ -404,7 +440,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 183976,
+      "followersCount": 183998,
       "friendsCount": 4813,
       "location": "Miami / New York / Paris"
     },
@@ -440,7 +476,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 434904,
+      "followersCount": 434908,
       "friendsCount": 524,
       "location": "🇺🇸 Collaborations →"
     },
@@ -820,7 +856,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 173059,
+      "followersCount": 173060,
       "friendsCount": 1544,
       "location": "Chicago, IL"
     },
@@ -2769,6 +2805,22 @@
     "tweetUrl": "https://x.com/get_Ethos/status/2015851085051920438",
     "fullText": "Get same-day coverage with Ethos life insurance.",
     "createdAt": "Mon Jan 26 18:15:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DIFA_USA",
+      "name": "Digital Innovation for America",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896665195121967104/w2F8cQbm_normal.jpg",
+      "description": "DIFA is the voice for every American who seeks to harness the promise of blockchain & digital assets for a more empowered future 🇺🇸",
+      "followersCount": 20071,
+      "friendsCount": 111,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DIFA_USA/status/2015844479425814954",
+    "fullText": "Without clear crypto rules, American consumers are left exposed.\n\nTell your Senator to pass market structure and put people first!",
+    "createdAt": "Mon Jan 26 17:49:11 +0000 2026"
   },
   {
     "user": {
