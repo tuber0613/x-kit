@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 600446,
+      "friendsCount": 823,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2017322610397483519",
+    "fullText": "If you're feeling like inventing AGI today, check out the new ARC-AGI-3 quickstart. You can get started building your own solver agent in minutes, locally, and you can run your experiments at 150,000 APM. https://t.co/XOcRtXfY2E",
+    "createdAt": "Fri Jan 30 19:42:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 435308,
+      "friendsCount": 525,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2017320672041816064/vid/avc1/1280x720/r90O_xi87V3y-bwX.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2017320749217042860",
+    "fullText": "50% of my consulting work right now is helping companies use open-source models at scale.\n\nEveryone knows how to use an open-source LLM on their computers, but it's really hard to do this at scale for thousands of users.\n\nHere is how this plays out:\n\n1. A team builds a prototype https://t.co/LX4qcoJnAg",
+    "createdAt": "Fri Jan 30 19:35:21 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "DeepLearningAI",
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 314133,
+      "followersCount": 314139,
       "friendsCount": 102,
       "location": "United States"
     },
@@ -23,7 +57,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 439332,
+      "followersCount": 439368,
       "friendsCount": 1406,
       "location": "Austin, TX"
     },
@@ -39,7 +73,7 @@
       "name": "arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
-      "followersCount": 124555,
+      "followersCount": 124558,
       "friendsCount": 208,
       "location": "US"
     },
@@ -55,7 +89,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 766577,
+      "followersCount": 766652,
       "friendsCount": 35,
       "location": ""
     },
@@ -73,7 +107,7 @@
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
       "description": "Co-founder at @HuggingFace - moonshots - angel - working on Chrysopoeia",
-      "followersCount": 100589,
+      "followersCount": 100586,
       "friendsCount": 6748,
       "location": ""
     },
@@ -89,7 +123,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 232194,
+      "followersCount": 232196,
       "friendsCount": 77,
       "location": ""
     },
@@ -105,7 +139,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 102723,
+      "followersCount": 102721,
       "friendsCount": 603,
       "location": "Stanford, CA"
     },
@@ -121,7 +155,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/AqEvlVuYdM",
-      "followersCount": 286744,
+      "followersCount": 286747,
       "friendsCount": 762,
       "location": "DAIR.AI Academy"
     },
@@ -139,7 +173,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 232194,
+      "followersCount": 232196,
       "friendsCount": 77,
       "location": ""
     },
@@ -157,7 +191,7 @@
       "name": "Kimi.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
       "description": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/ggYlFf809H\n@KimiProduct where we share cool use cases and prompts.",
-      "followersCount": 97626,
+      "followersCount": 97642,
       "friendsCount": 120,
       "location": ""
     },
@@ -193,7 +227,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 439332,
+      "followersCount": 439368,
       "friendsCount": 1406,
       "location": "Austin, TX"
     },
@@ -209,7 +243,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1344433,
+      "followersCount": 1344459,
       "friendsCount": 1061,
       "location": "Palo Alto, CA"
     },
@@ -225,7 +259,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 122371,
+      "followersCount": 122374,
       "friendsCount": 561,
       "location": "Zürich, Suisse"
     },
@@ -241,7 +275,7 @@
       "name": "Google Gemini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 389549,
+      "followersCount": 389579,
       "friendsCount": 46,
       "location": "Mountain View, CA"
     },
@@ -257,7 +291,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 345550,
+      "followersCount": 345546,
       "friendsCount": 798,
       "location": ""
     },
@@ -273,7 +307,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 336649,
+      "followersCount": 336655,
       "friendsCount": 20569,
       "location": "Cambridge, MA"
     },
@@ -291,7 +325,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 174156,
+      "followersCount": 174159,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
@@ -327,7 +361,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 451675,
+      "followersCount": 451682,
       "friendsCount": 3156,
       "location": ""
     },
@@ -343,7 +377,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 451675,
+      "followersCount": 451682,
       "friendsCount": 3156,
       "location": ""
     },
@@ -359,7 +393,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 451675,
+      "followersCount": 451682,
       "friendsCount": 3156,
       "location": ""
     },
@@ -377,7 +411,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 259865,
+      "followersCount": 259864,
       "friendsCount": 7794,
       "location": "United States"
     },
@@ -395,7 +429,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 451675,
+      "followersCount": 451682,
       "friendsCount": 3156,
       "location": ""
     },
@@ -411,7 +445,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 451675,
+      "followersCount": 451682,
       "friendsCount": 3156,
       "location": ""
     },
@@ -427,7 +461,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 259865,
+      "followersCount": 259864,
       "friendsCount": 7794,
       "location": "United States"
     },
@@ -443,7 +477,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers in the world. Will tweet as I wish and suffer the consequences.",
-      "followersCount": 439332,
+      "followersCount": 439368,
       "friendsCount": 1406,
       "location": "Austin, TX"
     },
@@ -1632,7 +1666,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 174156,
+      "followersCount": 174159,
       "friendsCount": 1545,
       "location": "Chicago, IL"
     },
