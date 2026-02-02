@@ -1,11 +1,99 @@
 [
   {
     "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 85852,
+      "friendsCount": 1082,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018346194116739072/vid/avc1/1280x720/NmsjEF7K40urIBfQ.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2018346278468366817",
+    "fullText": "Get trusted answers from enterprise data without leaving your daily work.\n\n@Atlassian's new Databricks Query Runner agent brings conversational analytics into Rovo. Powered by the Databricks AI/BI Genie Conversation API, teams can ask questions in plain English and get governed https://t.co/igZFdaajwH",
+    "createdAt": "Mon Feb 02 15:30:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "patrickmineault",
+      "name": "Patrick Mineault",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1547836009399783424/dMFOC7Ql_normal.jpg",
+      "description": "NeuroAI researcher @ Amaranth Foundation, safety, open science. Previously engineer @ Google, Meta, Mila. https://t.co/OndBNKVudN",
+      "followersCount": 22185,
+      "friendsCount": 2521,
+      "location": "New York City"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAKX-33WEAAAZlZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/patrickmineault/status/2018342799960052176",
+    "fullText": "Don't let Claude Code let your scientific code devolve into an unmanageable mess! Let it write modular, decoupled code. I wrote some actionable advice in my latest on the NeuroAI archive. 👇 https://t.co/aHQssNKC21",
+    "createdAt": "Mon Feb 02 15:16:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 346102,
+      "friendsCount": 800,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2018339372240687237",
+    "fullText": "For those who didn't think it was possible, wind and solar have officially overtaken fossil fuels in generation capacity in Europe.",
+    "createdAt": "Mon Feb 02 15:02:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "open-sourceress at @huggingface 🧙🏻‍♀️ https://t.co/MhrMkGTTWX",
+      "followersCount": 84371,
+      "friendsCount": 5129,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAKRpraXwAAZwzG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2018338254035001383",
+    "fullText": "huge fan of IBM lately, they drop open-source agents and eval suites for solid real-world problems 👏\n\nDec they dropped CUGA, an agent to automate boring CRM tasks\n\nnow they drop AssetOpsBench and ITBench, agentic frameworks for industry &amp; IT domains 🙌🏻 https://t.co/FNh1v8kn6b",
+    "createdAt": "Mon Feb 02 14:58:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. New Claude Code cohort: https://t.co/XCpQTjR9hg",
+      "followersCount": 87960,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAKTm0-akAAPzHP.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2018337881715245507",
+    "fullText": "Research from Imperial College London and Microsoft Research.\n\nAccording to this work, more compute FLOPs won't solve the AI agent inference problem.\n\nAs AI agents move from chatbots to coding, web-use, and computer-use workflows, the memory capacity wall becomes the binding https://t.co/9vDbU0X1qJ",
+    "createdAt": "Mon Feb 02 14:57:04 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 435867,
+      "followersCount": 435876,
       "friendsCount": 528,
       "location": "🇺🇸 Collaborations →"
     },
@@ -21,8 +109,8 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 125806,
-      "friendsCount": 3143,
+      "followersCount": 125813,
+      "friendsCount": 3146,
       "location": "on ⛓"
     },
     "images": [],
@@ -37,7 +125,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 149897,
+      "followersCount": 149910,
       "friendsCount": 5202,
       "location": "Montréal, Québec"
     },
@@ -58,8 +146,8 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 125806,
-      "friendsCount": 3143,
+      "followersCount": 125813,
+      "friendsCount": 3146,
       "location": "on ⛓"
     },
     "images": [],
@@ -74,7 +162,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Open Sovereign AI @ii_posts. Founder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 306679,
+      "followersCount": 306684,
       "friendsCount": 30,
       "location": "London"
     },
@@ -92,7 +180,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 435867,
+      "followersCount": 435876,
       "friendsCount": 528,
       "location": "🇺🇸 Collaborations →"
     },
@@ -108,7 +196,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 452518,
+      "followersCount": 452540,
       "friendsCount": 3156,
       "location": ""
     },
@@ -124,7 +212,7 @@
       "name": "Azeem Azhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
       "description": "Exponential View @exponentialview.",
-      "followersCount": 48450,
+      "followersCount": 48451,
       "friendsCount": 2306,
       "location": "2.718281828459045"
     },
@@ -158,7 +246,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "open-sourceress at @huggingface 🧙🏻‍♀️ https://t.co/MhrMkGTTWX",
-      "followersCount": 84365,
+      "followersCount": 84371,
       "friendsCount": 5129,
       "location": "Paris"
     },
@@ -192,7 +280,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 260032,
+      "followersCount": 260036,
       "friendsCount": 7802,
       "location": "United States"
     },
@@ -210,7 +298,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 260032,
+      "followersCount": 260036,
       "friendsCount": 7802,
       "location": "United States"
     },
@@ -226,7 +314,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 260032,
+      "followersCount": 260036,
       "friendsCount": 7802,
       "location": "United States"
     },
@@ -242,7 +330,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 149897,
+      "followersCount": 149910,
       "friendsCount": 5202,
       "location": "Montréal, Québec"
     },
@@ -258,7 +346,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 175435,
+      "followersCount": 175459,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -1061,8 +1149,8 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 125806,
-      "friendsCount": 3143,
+      "followersCount": 125813,
+      "friendsCount": 3146,
       "location": "on ⛓"
     },
     "images": [],
@@ -1107,6 +1195,22 @@
     "tweetUrl": "https://x.com/THELEGACYOFSEGA/status/2017774629201252527",
     "fullText": "Who is going to get one of these gorgeous Resident Evil Leon Kennedy  @hamiltonwatch watches?\n\nI am going to try so hard to make sure I don't miss out.\n\nI'll be slaying zombies in style. https://t.co/RnmqDhBBb3",
     "createdAt": "Sun Feb 01 01:38:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "thewernickfiles",
+      "name": "The Wernick Files",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1997901631082614784/7TM-S3OP_normal.jpg",
+      "description": "Unfiltered. Uncompromising. Unexpected.",
+      "followersCount": 428,
+      "friendsCount": 16,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/thewernickfiles/status/2017764393690251564",
+    "fullText": "When I arrived at the University of Chicago, Edward Levi was president of the university. I read his book, An Introduction to Legal Reasoning. It was short, dense, and unpretentious. It taught you how to think about law as a discipline, not as an instrument.\nThen Ford nominated",
+    "createdAt": "Sun Feb 01 00:58:14 +0000 2026"
   },
   {
     "user": {
