@@ -1,11 +1,149 @@
 [
   {
     "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. New Claude Code cohort: https://t.co/XCpQTjR9hg",
+      "followersCount": 88050,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAQYeQCakAAFb3a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2018765444702982395",
+    "fullText": "// Beyond RAG for Agent Memory //\n\nRAG wasn't designed for agent memory. And it shows.\n\nThe default approach to agent memory today is still the standard RAG pipeline: embed stored memories, retrieve a fixed top-k by similarity, concatenate them into context, and generate an https://t.co/gbKmLnak0h",
+    "createdAt": "Tue Feb 03 19:16:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982998729931042817/R88YrV4r_normal.jpg",
+      "description": "Accelerate training, fine-tuning, and inference on performance-optimized GPU clusters.",
+      "followersCount": 52714,
+      "friendsCount": 394,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAQVUP-aMAA39rS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2018762047958417503",
+    "fullText": "Introducing Qwen3-Coder-Next from @Alibaba_Qwen, an ultra-efficient 80B parameter (3B activated) coding agent achieving 74.2% SWE-Bench Verified. AI natives can now use Qwen3-Coder-Next on Together AI and benefit from reliable inference for production-scale coding agents. https://t.co/2bawZA79eg",
+    "createdAt": "Tue Feb 03 19:02:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 314857,
+      "friendsCount": 102,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2018761423589958118",
+    "fullText": "Early Bird tickets for AI Dev 26 × San Francisco are ending soon!\n\nWe’re bringing together 3,000+ AI developers at Pier 48 for two days focused on building AI systems in practice.\n\n🎟️ Secure your tickets with Early Bird pricing now ⬇️ https://t.co/GgofuXPpJH",
+    "createdAt": "Tue Feb 03 19:00:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 125046,
+      "friendsCount": 208,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAQULipbYAA-7kh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2018760874178342975",
+    "fullText": "🌐🚨Search Arena Leaderboard Update!\n\nFour frontier models have landed on the Search leaderboard, and the Top 15 have been disrupted:\n\n▪️#1 gemini-3-flash-grounding by @GoogleDeepmind (+6pts over gemini-3-pro-grounding)\n▪️#5 gpt-5.2-search-non-reasoning by @OpenAI (only https://t.co/4E4oqMUq7o",
+    "createdAt": "Tue Feb 03 18:57:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 260138,
+      "friendsCount": 7810,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAQPi46XMAAmvki.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2018755644170649694",
+    "fullText": "Waiting for Sonnet 5 today ... https://t.co/TkDqKYHjx7",
+    "createdAt": "Tue Feb 03 18:37:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
+      "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 232640,
+      "friendsCount": 79,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAQO2oqWsAAxDk2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2018754867683033220",
+    "fullText": "⚡ Building enterprise agents at Coinbase with LangSmith ⚡ \n\nCoinbase went from zero to production AI agents in six weeks, then cut future build time from 12 weeks to under a week.\n\nTheir Enterprise AI Tiger Team built a \"paved road\" so any team could ship agents the same way https://t.co/ZUc5ogsarQ",
+    "createdAt": "Tue Feb 03 18:34:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DrJimFan",
+      "name": "Jim Fan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+      "description": "NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
+      "followersCount": 353527,
+      "friendsCount": 3100,
+      "location": "Views my own. Contact →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DrJimFan/status/2018754323141054786",
+    "fullText": "https://t.co/Npar79SvUh",
+    "createdAt": "Tue Feb 03 18:31:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2147588,
+      "friendsCount": 779,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2018752937757966349",
+    "fullText": "PSA: It's 1950s, not 1950's. The apostrophe is for missing letters, and there are no missing letters here. \n\n(So what's the missing letter in the possessive? An e that became silent in speech in Chaucer's time.)",
+    "createdAt": "Tue Feb 03 18:26:21 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 65310,
+      "followersCount": 65311,
       "friendsCount": 34658,
       "location": "latent space"
     },
@@ -39,7 +177,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 232624,
+      "followersCount": 232640,
       "friendsCount": 79,
       "location": ""
     },
@@ -55,7 +193,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 232624,
+      "followersCount": 232640,
       "friendsCount": 79,
       "location": ""
     },
@@ -73,7 +211,7 @@
       "name": "Ai2",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
       "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
-      "followersCount": 79003,
+      "followersCount": 79013,
       "friendsCount": 428,
       "location": "Seattle, WA"
     },
@@ -91,7 +229,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 232624,
+      "followersCount": 232640,
       "friendsCount": 79,
       "location": ""
     },
@@ -109,7 +247,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 260134,
+      "followersCount": 260138,
       "friendsCount": 7810,
       "location": "United States"
     },
@@ -127,7 +265,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 260134,
+      "followersCount": 260138,
       "friendsCount": 7810,
       "location": "United States"
     },
@@ -143,7 +281,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2008546467615580160/57KcqsTA_normal.jpg",
       "description": "",
-      "followersCount": 233790728,
+      "followersCount": 233802542,
       "friendsCount": 1282,
       "location": ""
     },
@@ -161,7 +299,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4274909,
+      "followersCount": 4275340,
       "friendsCount": 979,
       "location": "SF"
     },
@@ -177,7 +315,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982998729931042817/R88YrV4r_normal.jpg",
       "description": "Accelerate training, fine-tuning, and inference on performance-optimized GPU clusters.",
-      "followersCount": 52705,
+      "followersCount": 52714,
       "friendsCount": 394,
       "location": "San Francisco, CA"
     },
@@ -195,7 +333,7 @@
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 201457,
+      "followersCount": 201460,
       "friendsCount": 589,
       "location": "Venice, CA"
     },
@@ -211,7 +349,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 443177,
+      "followersCount": 443209,
       "friendsCount": 1417,
       "location": "Austin, TX"
     },
@@ -227,7 +365,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 346727,
+      "followersCount": 346760,
       "friendsCount": 801,
       "location": ""
     },
@@ -243,7 +381,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 85935,
+      "followersCount": 85937,
       "friendsCount": 1082,
       "location": "HQ: San Francisco, CA"
     },
@@ -279,7 +417,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 102827,
+      "followersCount": 102832,
       "friendsCount": 603,
       "location": "Stanford, CA"
     },
@@ -295,7 +433,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 336800,
+      "followersCount": 336807,
       "friendsCount": 20564,
       "location": "Cambridge, MA"
     },
@@ -311,7 +449,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 176148,
+      "followersCount": 176157,
       "friendsCount": 1548,
       "location": "Chicago, IL"
     },
@@ -323,11 +461,27 @@
   },
   {
     "user": {
+      "screenName": "TaskletAI",
+      "name": "Tasklet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2008548808737591296/ANem9ENV_normal.png",
+      "description": "The AI agent that actually does the work. Tasklet connects to any app or API, triggers automatically 24x7, and uses a computer in the cloud to get work done.",
+      "followersCount": 1699,
+      "friendsCount": 1,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TaskletAI/status/2018730217167352105",
+    "fullText": "Hey founders - let Tasklet's cloud-based AI agents handle your busywork 24x7, so you can focus on finding PMF.",
+    "createdAt": "Tue Feb 03 16:56:04 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 479671,
+      "followersCount": 479680,
       "friendsCount": 3577,
       "location": "Maryland, USA"
     },
@@ -345,7 +499,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
-      "followersCount": 125043,
+      "followersCount": 125046,
       "friendsCount": 208,
       "location": "US"
     },
@@ -363,7 +517,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 260134,
+      "followersCount": 260138,
       "friendsCount": 7810,
       "location": "United States"
     },
@@ -379,7 +533,7 @@
       "name": "sridhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
       "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
-      "followersCount": 30567,
+      "followersCount": 30570,
       "friendsCount": 621,
       "location": "Mountain View, CA"
     },
@@ -397,7 +551,7 @@
       "name": "Qwen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
       "description": "Open foundation models for AGI.",
-      "followersCount": 138688,
+      "followersCount": 138766,
       "friendsCount": 5,
       "location": ""
     },
@@ -553,7 +707,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 68257,
+      "followersCount": 68297,
       "friendsCount": 914,
       "location": "Seattle"
     },
@@ -603,7 +757,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New cohort: https://t.co/AqEvlVuYdM",
-      "followersCount": 287477,
+      "followersCount": 287486,
       "friendsCount": 763,
       "location": "DAIR.AI Academy"
     },
@@ -986,6 +1140,22 @@
     "tweetUrl": "https://x.com/Austen/status/2018584319267119197",
     "fullText": "Hilariously every time you have AI vibe code a landing page for a software product it boasts all over the place that it’s SOC-2 compliant",
     "createdAt": "Tue Feb 03 07:16:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "thejsnation",
+      "name": "JSNation | The key JS conference",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1098265777269063683/Jqo_JLJm_normal.png",
+      "description": "🌷Amsterdam, June 11 & 15, https://t.co/AvK1eLo40t\n🗽New York, https://t.co/4qbl2x3BsB",
+      "followersCount": 17958,
+      "friendsCount": 2540,
+      "location": "Amsterdam/New York & Online"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/thejsnation/status/2018581967944708571",
+    "fullText": "🎉 Double the Conferences, Double the Fun, Double the Amsterdam Experience!\n\nGet your JSNation + React Summit combo tickets: 100+ talks, 15+ hands-on workshops, 3K+ connections.\n\nAmsterdam &amp; Online, June 2026\nGrab your ticket now!",
+    "createdAt": "Tue Feb 03 07:06:59 +0000 2026"
   },
   {
     "user": {
