@@ -1,6 +1,91 @@
 [
   {
     "user": {
+      "screenName": "lexfridman",
+      "name": "Lex Fridman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1854713863817646088/nTmsz7jR_normal.jpg",
+      "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
+      "followersCount": 4567204,
+      "friendsCount": 660,
+      "location": "Austin and Boston"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lexfridman/status/2019507681946661030",
+    "fullText": "Claude Opus 4.6 &amp; GPT Codex 5.3 out today, and OpenClaw recently. And I'm sure xAI/Grok &amp; Google/Gemini will soon be out with more. What an exciting time to build stuff!\n\nI'm walking around with a smile, happy &amp; sleep-deprived 🤣\n\nNext week, I'll come to SF/Bay Area for a few",
+    "createdAt": "Thu Feb 05 20:25:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
+      "followersCount": 930042,
+      "friendsCount": 53,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019506942293733381/vid/avc1/1280x720/Rx45EVGLEaB5Zkce.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2019507052863975574",
+    "fullText": "Marc Andreessen on Elon Musk: “I think probably the single biggest question in all of business right now is: why don't more CEOs operate the way that he does?”\n\n\"The top-line thing is just this incredible devotion from the leader of the company to fully, deeply understand what https://t.co/SMHpXmfutW",
+    "createdAt": "Thu Feb 05 20:22:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DavidSHolz",
+      "name": "David",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
+      "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
+      "followersCount": 98811,
+      "friendsCount": 9488,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DavidSHolz/status/2019503547637985480",
+    "fullText": "the future feels nice this morning - like sunlight - our wings are open - but not yet taking to the sky",
+    "createdAt": "Thu Feb 05 20:09:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 65340,
+      "friendsCount": 34664,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAa2A6DbcAAscm1.jpg",
+      "https://pbs.twimg.com/media/HAa2A5_acAAK9Xg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2019501624428036333",
+    "fullText": "sama vs sholto b2b tbpn\n\none of em needs a raise. https://t.co/TiV7l0xET4",
+    "createdAt": "Thu Feb 05 20:01:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 789798,
+      "friendsCount": 35,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2019501512200974686",
+    "fullText": "New on the Engineering Blog: Quantifying infrastructure noise in agentic coding evals.\n\nInfrastructure configuration can swing agentic coding benchmarks by several percentage points—sometimes more than the leaderboard gap between top models.\n\nRead more: https://t.co/DY7jCj8GAP",
+    "createdAt": "Thu Feb 05 20:00:55 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
@@ -21,7 +106,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 789581,
+      "followersCount": 789798,
       "friendsCount": 35,
       "location": ""
     },
@@ -39,7 +124,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 283458,
+      "followersCount": 283462,
       "friendsCount": 11756,
       "location": "San Francisco, CA"
     },
@@ -55,7 +140,7 @@
       "name": "Azeem Azhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
       "description": "Exponential View @exponentialview.",
-      "followersCount": 48457,
+      "followersCount": 48459,
       "friendsCount": 2305,
       "location": "2.718281828459045"
     },
@@ -71,7 +156,7 @@
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 201556,
+      "followersCount": 201557,
       "friendsCount": 589,
       "location": "Venice, CA"
     },
@@ -87,7 +172,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 232940,
+      "followersCount": 232943,
       "friendsCount": 79,
       "location": ""
     },
@@ -105,8 +190,8 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Head of AI @clickup. Tweets about AI, computing, dev tools and knowledge work. Previously founder @codegen / ML + data @palantir / @stanford. Not a pseudonym.",
-      "followersCount": 60160,
-      "friendsCount": 3325,
+      "followersCount": 60166,
+      "friendsCount": 3326,
       "location": "San Francisco"
     },
     "images": [],
@@ -123,7 +208,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4610043,
+      "followersCount": 4610127,
       "friendsCount": 4,
       "location": ""
     },
@@ -159,7 +244,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 232940,
+      "followersCount": 232943,
       "friendsCount": 79,
       "location": ""
     },
@@ -177,7 +262,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885417240146685952/kmZVMGbW_normal.png",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYqOS • Resources: https://t.co/0AWELwp1Uc",
-      "followersCount": 263016,
+      "followersCount": 263049,
       "friendsCount": 1,
       "location": ""
     },
@@ -193,7 +278,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 930034,
+      "followersCount": 930042,
       "friendsCount": 53,
       "location": "The Cloud"
     },
@@ -211,7 +296,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 232940,
+      "followersCount": 232943,
       "friendsCount": 79,
       "location": ""
     },
@@ -229,7 +314,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 283458,
+      "followersCount": 283462,
       "friendsCount": 11756,
       "location": "San Francisco, CA"
     },
@@ -247,7 +332,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 479851,
+      "followersCount": 479860,
       "friendsCount": 3565,
       "location": "Maryland, USA"
     },
@@ -283,7 +368,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - your business lives in content. unleash it with AI",
-      "followersCount": 2441087,
+      "followersCount": 2441136,
       "friendsCount": 772,
       "location": "Bay Area"
     },
@@ -301,7 +386,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 68947,
+      "followersCount": 68958,
       "friendsCount": 867,
       "location": "Seattle"
     },
@@ -317,7 +402,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2157007,
+      "followersCount": 2157097,
       "friendsCount": 779,
       "location": ""
     },
@@ -333,7 +418,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 930034,
+      "followersCount": 930042,
       "friendsCount": 53,
       "location": "The Cloud"
     },
@@ -351,7 +436,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 232940,
+      "followersCount": 232943,
       "friendsCount": 79,
       "location": ""
     },
@@ -369,7 +454,7 @@
       "name": "Google Gemini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 397524,
+      "followersCount": 397526,
       "friendsCount": 47,
       "location": "Mountain View, CA"
     },
@@ -385,7 +470,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 68947,
+      "followersCount": 68958,
       "friendsCount": 867,
       "location": "Seattle"
     },
@@ -401,7 +486,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4293730,
+      "followersCount": 4293986,
       "friendsCount": 983,
       "location": "SF"
     },
@@ -417,7 +502,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4610043,
+      "followersCount": 4610127,
       "friendsCount": 4,
       "location": ""
     },
@@ -433,7 +518,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 86131,
+      "followersCount": 86134,
       "friendsCount": 1083,
       "location": "HQ: San Francisco, CA"
     },
@@ -451,7 +536,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 436525,
+      "followersCount": 436527,
       "friendsCount": 529,
       "location": "🇺🇸 Collaborations →"
     },
@@ -469,7 +554,7 @@
       "name": "Azeem Azhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
       "description": "Exponential View @exponentialview.",
-      "followersCount": 48457,
+      "followersCount": 48459,
       "friendsCount": 2305,
       "location": "2.718281828459045"
     },
@@ -487,7 +572,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 479851,
+      "followersCount": 479860,
       "friendsCount": 3565,
       "location": "Maryland, USA"
     },
@@ -505,7 +590,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 479851,
+      "followersCount": 479860,
       "friendsCount": 3565,
       "location": "Maryland, USA"
     },
@@ -523,7 +608,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 479851,
+      "followersCount": 479860,
       "friendsCount": 3565,
       "location": "Maryland, USA"
     },
@@ -541,7 +626,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 479851,
+      "followersCount": 479860,
       "friendsCount": 3565,
       "location": "Maryland, USA"
     },
@@ -559,7 +644,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 479851,
+      "followersCount": 479860,
       "friendsCount": 3565,
       "location": "Maryland, USA"
     },
@@ -2931,8 +3016,8 @@
       "name": "Supermicro",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1236093304665591809/iVFx-Tc5_normal.jpg",
       "description": "Supermicro® (NASDAQ:SMCI), 30+ years of leadership in Enterprise, cloud, AI, and 5G Telco/Edge Infrastructure solutions.",
-      "followersCount": 68293,
-      "friendsCount": 1957,
+      "followersCount": 68372,
+      "friendsCount": 1956,
       "location": "USA"
     },
     "images": [],
