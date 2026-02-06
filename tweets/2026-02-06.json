@@ -1,11 +1,133 @@
 [
   {
     "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
+      "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 69084,
+      "friendsCount": 867,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2019855272483909847",
+    "fullText": "I want there to be a nanoGPT style speedrunning setup for RL.",
+    "createdAt": "Fri Feb 06 19:26:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 123224,
+      "friendsCount": 562,
+      "location": "Zürich, Suisse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2019853210953920845",
+    "fullText": "Yesterday was quite wild, with Opus 4.6 and Codex 5.3 dropping within minutes of each other.\n\nOne would think it must be a terrible day to publish a paper, it'll get drowned and nobody will notice.\n\nWELL, NOT FOR KAIMING! 🐐",
+    "createdAt": "Fri Feb 06 19:18:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 436562,
+      "friendsCount": 529,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAfz5LPacAI24b9.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2019851124354986294",
+    "fullText": "Prompt Engineering is dead. Context Engineering is king.\n\nContext is the biggest problem with coding agents.\n\nYou can make any mediocre model work for you as long as you provide it with sufficient, high-quality context. https://t.co/wYGrjUrnf3",
+    "createdAt": "Fri Feb 06 19:10:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
+      "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 233055,
+      "friendsCount": 79,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HAfv6PxacAMNkwH.mp4"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2019848808310706367",
+    "fullText": "🚀 New in LangSmith: Customize trace previews.\n\nControl which parts of a trace show up directly in the tracing table. Surface what matters — whether it's the last user message, or a nested output value.\n\nSkip the noise, debug faster.\n\nDocs 👉 https://t.co/g7OmwfG6Pp https://t.co/VwMZJZXXpG",
+    "createdAt": "Fri Feb 06 19:00:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 48450,
+      "friendsCount": 2306,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019847201384710144/vid/avc1/1280x720/qTve7zVEPAChKOjA.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/azeem/status/2019847260230787161",
+    "fullText": "Market reaction this week was an overreaction\n\nA conversation w/ @EpochAIResearch's @Jsevillamol, @robinsonmatt and Hannah Petrovic on AI economics https://t.co/bi4N56Ll9m",
+    "createdAt": "Fri Feb 06 18:54:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
+      "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 233055,
+      "friendsCount": 79,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAfv-MnXoAA2LyR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2019846811997942219",
+    "fullText": "🔊 Debug Voice Agents with LangSmith 🔊\n\nThe STT → Agent → TTS “sandwich” is a standard voice agent pattern. It’s easy to get started, tough to build reliable systems. 😵‍💫 \n\nLearn how to debug voice agents: We created a voice agent with Pipecat and sent traces to LangSmith to https://t.co/FwJ9lQgwy4",
+    "createdAt": "Fri Feb 06 18:53:01 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "a16z",
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 930455,
+      "followersCount": 930527,
+      "friendsCount": 53,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019844801919844352/vid/avc1/1280x720/Mf84-Z7Hv0lavDIC.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2019844883926905320",
+    "fullText": "When transformative technology works, we stop talking about how weird it is.\n\nBenedict Evans on how that happens:\n\n\"There's a chart I did of the number of people employed in the US as elevator attendants, which is a perfect bell curve.\"\n\n\"First half of the 20th century, you https://t.co/S3vHgtI1t3",
+    "createdAt": "Fri Feb 06 18:45:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
+      "followersCount": 930527,
       "friendsCount": 53,
       "location": "The Cloud"
     },
@@ -23,7 +145,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 602596,
+      "followersCount": 602610,
       "friendsCount": 825,
       "location": "United States"
     },
@@ -41,7 +163,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 69076,
+      "followersCount": 69084,
       "friendsCount": 867,
       "location": "Seattle"
     },
@@ -57,7 +179,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 233046,
+      "followersCount": 233055,
       "friendsCount": 79,
       "location": ""
     },
@@ -75,7 +197,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980278545692676096/r3u3CYOs_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 233046,
+      "followersCount": 233055,
       "friendsCount": 79,
       "location": ""
     },
@@ -96,7 +218,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 930455,
+      "followersCount": 930527,
       "friendsCount": 53,
       "location": "The Cloud"
     },
@@ -112,8 +234,8 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712873392163246080/PneUlcjM_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 86192,
-      "friendsCount": 1083,
+      "followersCount": 86191,
+      "friendsCount": 1084,
       "location": "HQ: San Francisco, CA"
     },
     "images": [
@@ -130,7 +252,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @Initialized—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 664341,
+      "followersCount": 664374,
       "friendsCount": 5570,
       "location": "San Francisco, CA"
     },
@@ -146,7 +268,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4613228,
+      "followersCount": 4613298,
       "friendsCount": 4,
       "location": ""
     },
@@ -164,7 +286,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 347571,
+      "followersCount": 347599,
       "friendsCount": 801,
       "location": ""
     },
@@ -182,8 +304,8 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 336883,
-      "friendsCount": 20568,
+      "followersCount": 336896,
+      "friendsCount": 20566,
       "location": "Cambridge, MA"
     },
     "images": [
@@ -200,7 +322,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 260357,
+      "followersCount": 260364,
       "friendsCount": 7814,
       "location": "United States"
     },
@@ -216,7 +338,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4302461,
+      "followersCount": 4302673,
       "friendsCount": 984,
       "location": "SF"
     },
@@ -232,7 +354,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982998729931042817/R88YrV4r_normal.jpg",
       "description": "Accelerate training, fine-tuning, and inference on performance-optimized GPU clusters.",
-      "followersCount": 52770,
+      "followersCount": 52773,
       "friendsCount": 394,
       "location": "San Francisco, CA"
     },
@@ -250,7 +372,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4302461,
+      "followersCount": 4302673,
       "friendsCount": 984,
       "location": "SF"
     },
@@ -266,7 +388,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 121222,
+      "followersCount": 121227,
       "friendsCount": 1235,
       "location": ""
     },
@@ -388,7 +510,7 @@
       "name": "Analogue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1214698931348803585/GJ1bjmdO_normal.jpg",
       "description": "We make products to celebrate and explore the history of video games with the respect it deserves. Customer support: https://t.co/D5CwukrVBZ",
-      "followersCount": 107640,
+      "followersCount": 107681,
       "friendsCount": 250,
       "location": "usa"
     },
@@ -691,7 +813,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 347571,
+      "followersCount": 347599,
       "friendsCount": 801,
       "location": ""
     },
@@ -1074,7 +1196,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 602596,
+      "followersCount": 602610,
       "friendsCount": 825,
       "location": "United States"
     },
@@ -1310,7 +1432,7 @@
       "name": "Wix",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939949273681899520/lzkWOEsB_normal.png",
       "description": "Create, manage and grow your business online with Wix. \nNeed help? @WixHelp",
-      "followersCount": 388475,
+      "followersCount": 388459,
       "friendsCount": 3629,
       "location": "Everywhere."
     },
