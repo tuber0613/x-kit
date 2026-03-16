@@ -1,11 +1,155 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 35193,
+      "friendsCount": 1536,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDiTgMob0AAKF2f.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2033540777796948019",
+    "fullText": "给OpenClaw的一款无损上下文管理插件：lossless-claw，使你的龙虾不遗忘，无需手动管理上下文压缩\n\n当对话超出模型上下文窗口限制时，传统做法会截断旧消息，导致信息丢失，它的做法是：\n\n1、把所有消息存入SQLite数据库\n2、将旧消息摘要成节点，再将摘要凝缩为更高层节点，形成DAG结构 https://t.co/6mF7sRYgBK",
+    "createdAt": "Mon Mar 16 13:47:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 484076,
+      "friendsCount": 3343,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDiSbWvaMAE2grz.jpg",
+      "https://pbs.twimg.com/media/HDiSbWFX0AAyQXC.jpg",
+      "https://pbs.twimg.com/media/HDiSbWKWIAAc4i2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2033536234274889858",
+    "fullText": "Deep Learning with PyTorch — Step-by-Step Beginner's Guides (3 volumes)\n\nVol.1 (Fundamentals): https://t.co/68j8rntZg7\n\nVol.2 (Computer Vision): https://t.co/kmTLjjmhk8\n\nVol.3 (Sequences and NLP): https://t.co/rhNr0RL8g7\n———\n#MachineLearning #ML #AI #DataScience #DataScientist https://t.co/OZA3J4em8Z",
+    "createdAt": "Mon Mar 16 13:29:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 484076,
+      "friendsCount": 3343,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDiSQkEWkAACI7p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2033536047900979215",
+    "fullText": "2nd Edition — now at https://t.co/BQtqnChdeE v/ @PacktDataML\n\nGraph Machine Learning — Latest advancements in Graph Data to build robust #MachineLearning algorithms\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟠Master new graph ML techniques through updated examples using PyTorch Geometric and https://t.co/MKbR0wGP7F",
+    "createdAt": "Mon Mar 16 13:29:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 484076,
+      "friendsCount": 3343,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDiR8l5XEAA1Ps1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2033535704987218116",
+    "fullText": "\"Mastering PyTorch: Create and deploy deep learning models from CNNs to multimodal models, LLMs, and beyond\" - https://t.co/1eC9VrXcZF via @PacktDataML \n—————\n#AI #ML #MachineLearning #DataScience #DataScientist #GenAI https://t.co/BL4ZFq9y14",
+    "createdAt": "Mon Mar 16 13:27:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 484076,
+      "friendsCount": 3343,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDiReZRWsAAQsyY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2033535187628220918",
+    "fullText": "#PiDay #PiDay26 #PiDay2026 memories!\n\nIn 2023, this person recited the first 70,000 digits of pi π from memory, while blindfolded: https://t.co/Spg1X2haiK https://t.co/yfyytFe0TB",
+    "createdAt": "Mon Mar 16 13:25:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 361048,
+      "friendsCount": 809,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2033535103088103829",
+    "fullText": "We’re watching the Supersonic Tsunami hit. Neuromorphic chips (1000x efficiency). Fusion plants coming online. Humanoid robots entering our homes. $1 trillion infrastructure deployment. These aren't separate trends—they're one converging system. The next 6 months will be wild.",
+    "createdAt": "Mon Mar 16 13:25:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 484076,
+      "friendsCount": 3343,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDiIBujbMAAsLYQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2033524798433739252",
+    "fullText": "#PiDay #PiDay2026 memories https://t.co/LFlxbwxODy",
+    "createdAt": "Mon Mar 16 12:44:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 447402,
+      "friendsCount": 535,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDiFqDAbUAEHlSe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2033522191376306449",
+    "fullText": "Claude is retarded. All of these models are.\n\nI wanted to schedule a skill every day at 8:00 am. Claude decided to schedule it at 7:57 am \"to avoid the on-the-dot\" surge.\n\nI SAID 8:00 AM! Do the darn thing the way I asked you to do it!\n\nYou gotta be crazy to trust these models. https://t.co/2q0M1XVW5z",
+    "createdAt": "Mon Mar 16 12:34:06 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 66831,
+      "followersCount": 66837,
       "friendsCount": 34780,
       "location": "latent space"
     },
@@ -23,7 +167,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 150471,
+      "followersCount": 150472,
       "friendsCount": 5295,
       "location": "Montréal, Québec"
     },
@@ -55,7 +199,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 134648,
+      "followersCount": 134665,
       "friendsCount": 1241,
       "location": ""
     },
@@ -73,8 +217,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 700813,
-      "friendsCount": 5655,
+      "followersCount": 700882,
+      "friendsCount": 5657,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -89,8 +233,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 35194,
-      "friendsCount": 1533,
+      "followersCount": 35193,
+      "friendsCount": 1536,
       "location": ""
     },
     "images": [],
@@ -107,7 +251,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 134648,
+      "followersCount": 134665,
       "friendsCount": 1241,
       "location": ""
     },
@@ -125,7 +269,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBTu2 \nTikTok:https://t.co/J7oMx5lnmV \nIG:https://t.co/DDAKgGwjfP",
-      "followersCount": 129192,
+      "followersCount": 129205,
       "friendsCount": 531,
       "location": ""
     },
@@ -143,7 +287,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 197115,
+      "followersCount": 197145,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -159,7 +303,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 197115,
+      "followersCount": 197145,
       "friendsCount": 1585,
       "location": "Chicago, IL"
     },
@@ -175,8 +319,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 700813,
-      "friendsCount": 5655,
+      "followersCount": 700882,
+      "friendsCount": 5657,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -651,6 +795,24 @@
   },
   {
     "user": {
+      "screenName": "DavarChance",
+      "name": "Davar Chance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929358795651641344/V3OtqAE4_normal.jpg",
+      "description": "I Walk by faith Matt.6:33✝️\nC/O 2029• Honor Roll Student Athlete•\nBishop McDevitt H.S •WR•DB•ATH\nCoach: @coachweachter\nIG: DavarChance",
+      "followersCount": 295,
+      "friendsCount": 809,
+      "location": "York, PA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2033350885753974784/pu/vid/avc1/720x1280/7vqCq6KW7f-xinB5.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/DavarChance/status/2033350900719251753",
+    "fullText": "Flying 10 Work! 1.06 not bad, but I'm chasing 1.03 https://t.co/TSd3ObNBPr",
+    "createdAt": "Mon Mar 16 01:13:27 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
@@ -1024,8 +1186,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 700415,
-      "friendsCount": 5655,
+      "followersCount": 700882,
+      "friendsCount": 5657,
       "location": "San Francisco, CA"
     },
     "images": [
