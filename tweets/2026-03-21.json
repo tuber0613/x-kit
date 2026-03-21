@@ -1,11 +1,103 @@
 [
   {
     "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
+      "followersCount": 709859,
+      "friendsCount": 5674,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD55FvzaAAAidCw.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2035197298586857711",
+    "fullText": "i used to use 'continue' or 'keep going' but these days now i just say https://t.co/tO4sKDNtQP",
+    "createdAt": "Sat Mar 21 03:30:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 323765,
+      "friendsCount": 112,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD5yNXTWMAA-GgE.jpg",
+      "https://pbs.twimg.com/media/HD5yNyPWoAATBNJ.jpg",
+      "https://pbs.twimg.com/media/HD5yOMQXkAAKSzo.jpg",
+      "https://pbs.twimg.com/media/HD5yOlZXEAIJzOO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2035189679322980500",
+    "fullText": "A lot of AI conversations focus on chatbots and demos.\n\nBut some of the most valuable AI systems solve much less glamorous problems.\n\nProcessing invoices.\nExtracting information from documents.\nConnecting data across tools.\nMaking systems reliable enough to use every day.\n\nThese https://t.co/r9yIxZ5mVP",
+    "createdAt": "Sat Mar 21 03:00:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 135802,
+      "friendsCount": 1241,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD5pyIobIAAi-pg.jpg",
+      "https://pbs.twimg.com/media/HD5pzKCaEAArr2f.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2035180804410941655",
+    "fullText": "刚才处理了一个 Codepilot 里面非常典型的服务商配置问题\n\n这也是很多人说自己按官方文档配置却不生效的原因\n\n比如这个，他说他配置完了，也配置对了，但没有反应。\n\n但我检查了一下 Log 发现，他配置的那个链接是错的：\n\n1. 他配置的是 OpenAI 的兼容链接，而不是应该在 Claude Code 的这种 Anthropic https://t.co/81Qlry0DDj",
+    "createdAt": "Sat Mar 21 02:24:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "midjourney",
+      "name": "Midjourney",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
+      "description": "A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.",
+      "followersCount": 414534,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/midjourney/status/2035175336150004136",
+    "fullText": "Two quick updates for V8\n(1) Relax mode is now available for V8\n(2) We've put up a new version of SREF / Moodboards which is 4x faster, 4x cheaper, supports HD mode, personalization, --stylize, and --exp. Note: If you want to use the old version just type --sv 6 new is --sv 7",
+    "createdAt": "Sat Mar 21 02:03:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 456092,
+      "friendsCount": 1446,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HD5ek6DWQAAU-kX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2035168072986673640",
+    "fullText": "Thinking of this exchange today https://t.co/G6W9VCEj9L",
+    "createdAt": "Sat Mar 21 01:34:14 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 362613,
+      "followersCount": 362619,
       "friendsCount": 819,
       "location": ""
     },
@@ -23,8 +115,8 @@
       "name": "Demis Hassabis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1990472620614053888/xrAu0wQL_normal.jpg",
       "description": "Nobel Laureate. Co-Founder & CEO @GoogleDeepMind - working on AGI. Solving disease @IsomorphicLabs. Trying to understand the fundamental nature of reality.",
-      "followersCount": 730179,
-      "friendsCount": 165,
+      "followersCount": 730387,
+      "friendsCount": 166,
       "location": ""
     },
     "images": [],
@@ -39,8 +131,8 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 456087,
-      "friendsCount": 1445,
+      "followersCount": 456092,
+      "friendsCount": 1446,
       "location": "Austin, TX"
     },
     "images": [
@@ -57,7 +149,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 199819,
+      "followersCount": 199851,
       "friendsCount": 1587,
       "location": "Chicago, IL"
     },
@@ -73,7 +165,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 67083,
+      "followersCount": 67084,
       "friendsCount": 34799,
       "location": "latent space"
     },
@@ -91,7 +183,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 709661,
+      "followersCount": 709859,
       "friendsCount": 5674,
       "location": "San Francisco, CA"
     },
@@ -109,7 +201,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 79224,
+      "followersCount": 79234,
       "friendsCount": 876,
       "location": "Seattle"
     },
@@ -125,7 +217,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 709661,
+      "followersCount": 709859,
       "friendsCount": 5674,
       "location": "San Francisco, CA"
     },
@@ -143,7 +235,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
-      "followersCount": 950305,
+      "followersCount": 950310,
       "friendsCount": 54,
       "location": "The Cloud"
     },
@@ -161,7 +253,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 267090,
+      "followersCount": 267091,
       "friendsCount": 8004,
       "location": "United States"
     },
@@ -177,8 +269,8 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 456087,
-      "friendsCount": 1445,
+      "followersCount": 456092,
+      "friendsCount": 1446,
       "location": "Austin, TX"
     },
     "images": [],
@@ -195,7 +287,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 294945,
+      "followersCount": 295035,
       "friendsCount": 1,
       "location": ""
     },
@@ -211,7 +303,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2008546467615580160/57KcqsTA_normal.jpg",
       "description": "",
-      "followersCount": 237049885,
+      "followersCount": 237057432,
       "friendsCount": 1301,
       "location": ""
     },
@@ -229,7 +321,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2008546467615580160/57KcqsTA_normal.jpg",
       "description": "",
-      "followersCount": 237049885,
+      "followersCount": 237057432,
       "friendsCount": 1301,
       "location": ""
     },
@@ -247,8 +339,8 @@
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, ONEAI OECD, co-chair @indexingai, writer @ https://t.co/3vmtHYkIJ2 Past: @openai, @business @theregister. Neural nets, distributed systems, weird futures",
-      "followersCount": 117873,
-      "friendsCount": 4637,
+      "followersCount": 117884,
+      "friendsCount": 4636,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -279,7 +371,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 267090,
+      "followersCount": 267091,
       "friendsCount": 8004,
       "location": "United States"
     },
@@ -295,7 +387,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 362613,
+      "followersCount": 362619,
       "friendsCount": 819,
       "location": ""
     },
@@ -311,7 +403,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 323762,
+      "followersCount": 323765,
       "friendsCount": 112,
       "location": "United States"
     },
@@ -447,7 +539,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 129131,
+      "followersCount": 129700,
       "friendsCount": 3200,
       "location": "on ⛓"
     },
@@ -483,7 +575,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 362613,
+      "followersCount": 362619,
       "friendsCount": 819,
       "location": ""
     },
@@ -499,7 +591,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 362613,
+      "followersCount": 362619,
       "friendsCount": 819,
       "location": ""
     },
