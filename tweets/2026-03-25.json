@@ -1,11 +1,109 @@
 [
   {
     "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "Building Beneficial AGI - CEO @asi_alliance @singularitynet, @true_agi , Interim CEO @Singularity_Fi, @SophiaVerse_AI, Chair @opencog  @HumanityPlus  @iCog_Labs",
+      "followersCount": 76333,
+      "friendsCount": 1657,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2036678899346845836",
+    "fullText": "Clear-minded, elegant, future-thinking blog post by Chris Kudla, CEO of our Seattle social-humanoid-robot company Mind Children ... highlighting what we're doing with the Codey robot and aspects of why: https://t.co/hFUwAVVgxo",
+    "createdAt": "Wed Mar 25 05:37:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 201996,
+      "friendsCount": 1590,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2036674840103448909",
+    "fullText": "问：在什么情况下应该用 slash command？什么情况下应该用skill呢？\n\n答：slash command 是用户主动触发的，比如 /init 之类\nSkills 是由 Agent 自主调用的，它会检查 Skills 列表，看当前任务是不是要用 Skill，以及该用哪个 Skill。\n\n当然 Skill 也可以当 slash command 用",
+    "createdAt": "Wed Mar 25 05:21:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 201996,
+      "friendsCount": 1590,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2036670816344064290",
+    "fullText": "https://t.co/58eHRo3jq8",
+    "createdAt": "Wed Mar 25 05:05:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
+      "followersCount": 715939,
+      "friendsCount": 5687,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2036669851318809013",
+    "fullText": "Lots of engineers think AI codegen is only good enough to do little bug fixes here and there\n\nIf you tell them you can ship 15k LOC of ai gen code to prod they think you have lost your mind. \n\nIt’s so so early. And also those engineers are living in 2025.",
+    "createdAt": "Wed Mar 25 05:01:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 237395675,
+      "friendsCount": 1301,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2036636486674915328/vid/avc1/3840x2160/rVpyeBR3ltjEQi8k.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2036665153778000143",
+    "fullText": "Optimus \n https://t.co/d6AU3p4xBn",
+    "createdAt": "Wed Mar 25 04:43:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 906170,
+      "friendsCount": 2031,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2036659062121881978",
+    "fullText": "Protect the timeline at all costs\nProtect the timeline at all costs\nProtect the timeline at all costs\nProtect the timeline at all costs\nProtect the timeline at all costs\nProtect the timeline at all costs\nProtect the timeline at all costs\nProtect the timeline at all costs",
+    "createdAt": "Wed Mar 25 04:18:54 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "wintonARK",
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 208337,
+      "followersCount": 208340,
       "friendsCount": 589,
       "location": "Venice, CA"
     },
@@ -24,7 +122,7 @@
       "name": "汗青 HQ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
       "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | Japan | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
-      "followersCount": 35351,
+      "followersCount": 35347,
       "friendsCount": 585,
       "location": "Tokyo-to, Japan"
     },
@@ -40,7 +138,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 715954,
+      "followersCount": 715939,
       "friendsCount": 5687,
       "location": "San Francisco, CA"
     },
@@ -58,7 +156,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 905292,
+      "followersCount": 906170,
       "friendsCount": 2031,
       "location": "Palo Alto"
     },
@@ -76,7 +174,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 715954,
+      "followersCount": 715939,
       "friendsCount": 5687,
       "location": "San Francisco, CA"
     },
@@ -92,7 +190,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 715954,
+      "followersCount": 715939,
       "friendsCount": 5687,
       "location": "San Francisco, CA"
     },
@@ -106,11 +204,29 @@
   },
   {
     "user": {
+      "screenName": "webbelkington",
+      "name": "Webb Elkington",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028277227171778560/IlrXMUVG_normal.jpg",
+      "description": "Dual Threat QB C/O 2030 5’10” 150",
+      "followersCount": 58,
+      "friendsCount": 71,
+      "location": "Memphis, TN"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2036636489916833792/vid/avc1/960x444/tRazaWtebr31gXTu.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/webbelkington/status/2036636584896806997",
+    "fullText": "Great weekend in Missouri at @PrepRedzoneMO Route 66 Classic. \n\nMaybe they will let me throw next time at  Lambert’s @throwedrolls. \n\n@southeast7v7 \n@CoachDrewMac \n@Coach_TDaniels \n@QBC_Memphis https://t.co/TWjw3HTJUJ",
+    "createdAt": "Wed Mar 25 02:49:35 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "aigclink",
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 35462,
+      "followersCount": 35465,
       "friendsCount": 1553,
       "location": ""
     },
@@ -128,7 +244,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 715954,
+      "followersCount": 715939,
       "friendsCount": 5687,
       "location": "San Francisco, CA"
     },
@@ -146,7 +262,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
-      "followersCount": 715954,
+      "followersCount": 715939,
       "friendsCount": 5687,
       "location": "San Francisco, CA"
     },
@@ -162,7 +278,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 136131,
+      "followersCount": 136140,
       "friendsCount": 1241,
       "location": ""
     },
@@ -180,7 +296,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 136131,
+      "followersCount": 136140,
       "friendsCount": 1241,
       "location": ""
     },
@@ -198,7 +314,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 324361,
+      "followersCount": 324370,
       "friendsCount": 112,
       "location": "United States"
     },
@@ -217,7 +333,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
       "followersCount": 299792,
-      "friendsCount": 12173,
+      "friendsCount": 12174,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -232,7 +348,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484700,
+      "followersCount": 484716,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -250,7 +366,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 905292,
+      "followersCount": 906170,
       "friendsCount": 2031,
       "location": "Palo Alto"
     },
@@ -266,7 +382,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 136131,
+      "followersCount": 136140,
       "friendsCount": 1241,
       "location": ""
     },
@@ -284,8 +400,8 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 150475,
-      "friendsCount": 5302,
+      "followersCount": 150482,
+      "friendsCount": 5303,
       "location": "Montréal, Québec"
     },
     "images": [
@@ -298,11 +414,27 @@
   },
   {
     "user": {
+      "screenName": "NextPinApp",
+      "name": "Next Pin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2032630568962109441/WPCAh8IT_normal.jpg",
+      "description": "Trade smarter, not harder. AI-powered daily SPX predictions 📌 Not financial advice.\n→ https://t.co/BPqq7RICkv",
+      "followersCount": 104,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NextPinApp/status/2036596714832789703",
+    "fullText": "A 15 point peace plan and 1,000 paratroopers deploying at the same time. SPX sits in the gamma kill zone at 6,556. $5.5M in call gamma waiting at 6,650 above. Positive support shelf from 6,350-6,500 below. Wednesday regime: 38% Short Gamma. The trapdoor is at 6,585. Full levels",
+    "createdAt": "Wed Mar 25 00:11:09 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484700,
+      "followersCount": 484716,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -320,7 +452,7 @@
       "name": "Eliezer Yudkowsky ⏹️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934759522050166788/xKpgxWW5_normal.jpg",
       "description": "The original AI alignment person.  Understanding the reasons it's difficult since 2003.\n\nThis is my serious low-volume account.  Follow @allTheYud for the rest.",
-      "followersCount": 220766,
+      "followersCount": 220768,
       "friendsCount": 101,
       "location": ""
     },
@@ -339,7 +471,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
       "followersCount": 299792,
-      "friendsCount": 12173,
+      "friendsCount": 12174,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -546,7 +678,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 457081,
+      "followersCount": 457152,
       "friendsCount": 1451,
       "location": "Austin, TX"
     },
