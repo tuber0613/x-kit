@@ -1,11 +1,82 @@
 [
   {
     "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 230583,
+      "friendsCount": 4830,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2038552830638755962",
+    "fullText": "It’s time for open-source agent tools to rely primarily on open-source models, instead of closed-source APIs that send all your data to the cloud and ultimately will get hacked and/or shut down",
+    "createdAt": "Mon Mar 30 09:44:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 35564,
+      "friendsCount": 1562,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2038543740990803968/vid/avc1/4096x1956/-tJbH3kDu2pZ6V8j.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/2038543889553096704/vid/avc1/2160x2338/b3HxgVMGpa2V7lMC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2038550323288006758",
+    "fullText": "这两天超爆的一个项目：pretext，让前端不碰DOM就能精确知道文字占多大空间，比传统DOM测量快500倍\n\n用纯TypeScript写的一个文本测量引擎，不依赖DOM，不触发回流，直接在JS层面算出文字会占多少空间 https://t.co/dFRSqoJ8t8",
+    "createdAt": "Mon Mar 30 09:34:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 721973,
+      "friendsCount": 5700,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEpGcdhb0AAPedB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2038545872225710129",
+    "fullText": "GStack's browser with sidebar now supports multiple tabs AND can be used to extract context from websites back to your Coding Agent, and can even read/alter/debug CSS for you (e.g. draw a box around a particular story on HN)\n\nRun /gstack-upgrade and then run /connect-chrome https://t.co/7BOjOyJgZZ",
+    "createdAt": "Mon Mar 30 09:16:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 237651012,
+      "friendsCount": 1305,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2038343034509635584/pu/vid/avc1/784x1168/E2YOY6dDPmONiYa_.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2038531319496667561",
+    "fullText": "https://t.co/XrlqVeEVUT",
+    "createdAt": "Mon Mar 30 08:18:35 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "giffmana",
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 130307,
+      "followersCount": 130314,
       "friendsCount": 573,
       "location": "Zürich, Suisse"
     },
@@ -23,7 +94,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 721922,
+      "followersCount": 721973,
       "friendsCount": 5700,
       "location": "San Francisco, CA"
     },
@@ -41,7 +112,7 @@
       "name": "Yi Ma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
       "description": "Chair Prof. in AI, HKU; Visiting Prof. of EECS, UCB\nFor a Unified Theory of Intelligence:\nhttps://t.co/leZlkURb7j",
-      "followersCount": 115127,
+      "followersCount": 115137,
       "friendsCount": 629,
       "location": "Hong Kong and Berkeley"
     },
@@ -59,7 +130,7 @@
       "name": "Yi Ma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
       "description": "Chair Prof. in AI, HKU; Visiting Prof. of EECS, UCB\nFor a Unified Theory of Intelligence:\nhttps://t.co/leZlkURb7j",
-      "followersCount": 115127,
+      "followersCount": 115137,
       "friendsCount": 629,
       "location": "Hong Kong and Berkeley"
     },
@@ -75,7 +146,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 364250,
+      "followersCount": 364271,
       "friendsCount": 823,
       "location": ""
     },
@@ -91,7 +162,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484993,
+      "followersCount": 484998,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -109,7 +180,7 @@
       "name": "Hailuo AI (MiniMax)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
       "description": "Light Studio: https://t.co/ioQ4Fo55nd\nDiscord: https://t.co/KEbUPiW9IC \nCreator Partnership Program(CPP): https://t.co/KLDCVOlRYA",
-      "followersCount": 72905,
+      "followersCount": 72909,
       "friendsCount": 567,
       "location": "San Francisco"
     },
@@ -127,7 +198,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484993,
+      "followersCount": 484998,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -145,7 +216,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 203998,
+      "followersCount": 204030,
       "friendsCount": 1591,
       "location": "Chicago, IL"
     },
@@ -163,7 +234,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 35563,
+      "followersCount": 35564,
       "friendsCount": 1562,
       "location": ""
     },
@@ -181,7 +252,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 364250,
+      "followersCount": 364271,
       "friendsCount": 823,
       "location": ""
     },
@@ -197,7 +268,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 721922,
+      "followersCount": 721973,
       "friendsCount": 5700,
       "location": "San Francisco, CA"
     },
@@ -213,7 +284,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 721922,
+      "followersCount": 721973,
       "friendsCount": 5700,
       "location": "San Francisco, CA"
     },
@@ -231,7 +302,7 @@
       "name": "Hailuo AI (MiniMax)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
       "description": "Light Studio: https://t.co/ioQ4Fo55nd\nDiscord: https://t.co/KEbUPiW9IC \nCreator Partnership Program(CPP): https://t.co/KLDCVOlRYA",
-      "followersCount": 72905,
+      "followersCount": 72909,
       "friendsCount": 567,
       "location": "San Francisco"
     },
@@ -249,7 +320,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484993,
+      "followersCount": 484998,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -267,7 +338,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484993,
+      "followersCount": 484998,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -285,7 +356,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484993,
+      "followersCount": 484998,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -303,7 +374,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484993,
+      "followersCount": 484998,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -321,7 +392,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484993,
+      "followersCount": 484998,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -339,7 +410,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484993,
+      "followersCount": 484998,
       "friendsCount": 3337,
       "location": "Maryland, USA"
     },
@@ -464,7 +535,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 203998,
+      "followersCount": 204030,
       "friendsCount": 1591,
       "location": "Chicago, IL"
     },
