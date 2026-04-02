@@ -1,11 +1,99 @@
 [
   {
     "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 104648,
+      "friendsCount": 603,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2039705316980322344",
+    "fullText": "Stanford scholars used Google Street View data to study the impact of extreme weather events and found income disparities are amplified after a disaster. https://t.co/4Q45GoBcai",
+    "createdAt": "Thu Apr 02 14:03:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 185711,
+      "friendsCount": 6,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE5885PbgAAlo4y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2039705104723611829",
+    "fullText": "（1/8）🚀 Introducing Qwen3.6-Plus: Towards Real-World Agents! 🤖\n\nToday, we’re thrilled to drop a major milestone in our journey toward native multimodal agents.\n\nHere is what makes Qwen3.6-Plus a game-changer：\n💻 Next-level Agentic Coding: Smarter, faster execution.\n👁️ https://t.co/uUpcyLaB6d",
+    "createdAt": "Thu Apr 02 14:02:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 302217,
+      "friendsCount": 491,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039704616598908928/vid/avc1/1280x720/xzH1ywR4yGC8JuFv.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2039704624006148195",
+    "fullText": "Three models. Three top-tier results. All shipped within just a few months by the @MicrosoftAI team.\n- MAI-Transcribe-1 dropped today, the most accurate transcription model in the world across 25 languages according to FLEURS WER benchmark.\n- MAI-Voice-1 sets a new standard for https://t.co/rfwqcEaxR8",
+    "createdAt": "Thu Apr 02 14:00:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MicrosoftAI",
+      "name": "Microsoft AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
+      "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
+      "followersCount": 5151,
+      "friendsCount": 23,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039526282598154240/vid/avc1/1280x720/VeF-JZqz1u6KAycP.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/MicrosoftAI/status/2039704404664684692",
+    "fullText": "MAI‑Transcribe‑1 makes speech‑to‑text clearer, faster, and more reliable even in noisy audio. Ranked #1 on the industry-standard FLEURS word error rate benchmark. Now in public preview. Learn more: https://t.co/Gr4Q8jgCwL https://t.co/L6hndn3D34",
+    "createdAt": "Thu Apr 02 14:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 234072,
+      "friendsCount": 4833,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE50Cd_WAAAV4pS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2039695447506210905",
+    "fullText": "Hot take: Git was the wrong abstraction for 90% of ML data.\n\nCheckpoints, optimizer states, training logs, agent traces - none of this needs version control. It needs fast, cheap, mutable storage.\n\nSo we built Buckets. S3-like storage on the @huggingface Hub with Xet dedup and https://t.co/yNA7jqtRVS",
+    "createdAt": "Thu Apr 02 13:24:25 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 269070,
+      "followersCount": 269074,
       "friendsCount": 8029,
       "location": "United States"
     },
@@ -23,7 +111,23 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 448527,
+      "followersCount": 448539,
+      "friendsCount": 538,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2039688083420201360",
+    "fullText": "To join the cohort, go here: https://t.co/NbZNi5JHcO.",
+    "createdAt": "Thu Apr 02 12:55:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 448539,
       "friendsCount": 538,
       "location": "🇺🇸 Collaborations →"
     },
@@ -39,7 +143,7 @@
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 209578,
+      "followersCount": 209580,
       "friendsCount": 590,
       "location": "Venice, CA"
     },
@@ -55,7 +159,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 136971,
+      "followersCount": 136979,
       "friendsCount": 1241,
       "location": ""
     },
@@ -76,7 +180,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 150562,
+      "followersCount": 150563,
       "friendsCount": 5306,
       "location": "Montréal, Québec"
     },
@@ -92,7 +196,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 448527,
+      "followersCount": 448539,
       "friendsCount": 538,
       "location": "🇺🇸 Collaborations →"
     },
@@ -108,7 +212,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 237873694,
+      "followersCount": 237873294,
       "friendsCount": 1307,
       "location": ""
     },
@@ -126,7 +230,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 458370,
+      "followersCount": 458366,
       "friendsCount": 1461,
       "location": "Austin, TX"
     },
@@ -142,7 +246,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 934861,
+      "followersCount": 934964,
       "friendsCount": 2035,
       "location": "Palo Alto"
     },
@@ -158,7 +262,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 305256,
+      "followersCount": 305303,
       "friendsCount": 12271,
       "location": "San Francisco, CA"
     },
@@ -174,7 +278,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 726178,
+      "followersCount": 726315,
       "friendsCount": 5711,
       "location": "San Francisco, CA"
     },
@@ -192,7 +296,7 @@
       "name": "汗青 HQ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
       "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | Japan | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
-      "followersCount": 35445,
+      "followersCount": 35466,
       "friendsCount": 585,
       "location": "Tokyo-to, Japan"
     },
@@ -210,7 +314,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205380,
+      "followersCount": 205399,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -228,7 +332,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 214067,
+      "followersCount": 214074,
       "friendsCount": 6946,
       "location": ""
     },
