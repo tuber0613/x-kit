@@ -1,0 +1,428 @@
+[
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 205472,
+      "friendsCount": 1597,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2039852931705409822",
+    "fullText": "请教两个问题：\n1. Claude Code 的 Prompt Caching  过期时间是多少？5分钟还是 1 小时？\n2. 基于这样的 Caching 过期时间设置，怎么样可以更好的节约 token 成本？\n\nCodex CLI / https://t.co/Hk2c4x6Sui 又分别是多少？\n\n参考文档：https://t.co/kcAGgvUVFX",
+    "createdAt": "Thu Apr 02 23:50:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 205472,
+      "friendsCount": 1597,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2039851620293636379",
+    "fullText": "https://t.co/XxAkJdHil2",
+    "createdAt": "Thu Apr 02 23:44:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 35879,
+      "friendsCount": 1573,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2039851511023587759",
+    "fullText": "博客：https://t.co/6Nb6CXQsI6\nHF：https://t.co/xWH5qXcbpl",
+    "createdAt": "Thu Apr 02 23:44:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 628328,
+      "friendsCount": 825,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2039845325930918198",
+    "fullText": "See the model card on Kaggle: https://t.co/J2TS3iIvVF",
+    "createdAt": "Thu Apr 02 23:19:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 628328,
+      "friendsCount": 825,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE78NLgaoAEbiuI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2039845249334510016",
+    "fullText": "Google just open-sourced Gemma 4. Unprecedented performance for advanced reasoning and agentic workflows, and big leap in efficiency on a parameter basis.\n\nUse it now in KerasHub. I recommend the JAX backend - best performance! https://t.co/5gcngohNOi",
+    "createdAt": "Thu Apr 02 23:19:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 305528,
+      "friendsCount": 12283,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2039835679853809803",
+    "fullText": "teleologically the point of ycombinator “the startup that creates more startups” was to birth openai, the dawn of the autonomous self-casting spell at the end of capitalism. so garry tan going into the ai psychosis monastery to build gstack is all part of his artform and remit",
+    "createdAt": "Thu Apr 02 22:41:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 325730,
+      "friendsCount": 112,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2039831830979838240",
+    "fullText": "When processing long contexts, large language models often lose track of details or devolve into nonsense. Researchers reduced these effects by managing context externally.\n\nMIT’s Alex L. Zhang, Tim Kraska, and Omar Khattab developed Recursive Language Models (RLMs) that process",
+    "createdAt": "Thu Apr 02 22:26:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 49497,
+      "friendsCount": 2320,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2039829529120694489",
+    "fullText": "Science is the most reliable knowledge-production method humans have.\n\n@karpathy’s autoresearch runs autonomous experimental loops at near-zero cost. I adapted it for knowledge work.\n\nThe hard part isn't the automation. It's measurement. Here's how I solved it:",
+    "createdAt": "Thu Apr 02 22:17:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StabilityAI",
+      "name": "Stability AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952432488648724480/9CFXnHx6_normal.png",
+      "description": "We’ll help you make it like nobody’s business. Multimodal media generation and editing tools to get your idea to production. Self-deploy? 👍 Need a partner? 🤝",
+      "followersCount": 252404,
+      "friendsCount": 10,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE7myDaaMAAAkVY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StabilityAI/status/2039822748042551598",
+    "fullText": "The Storyteller’s Gap is a black hole that eats every narrative that never sees the light of day.\n\nIt’s been there since the beginning of time. Until now.\nOur CEO @premakkaraju  explains the three reasons the gap exists: 💰 Money ⏳ Time ⚙️ Technology\n\nAt Stability AI, we aren't https://t.co/o1MGKvRhKz",
+    "createdAt": "Thu Apr 02 21:50:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
+      "followersCount": 955523,
+      "friendsCount": 54,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039821432277090304/vid/avc1/1280x720/aQ1NNKzujQaXYmDG.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2039821499121774671",
+    "fullText": "Wabi CEO Eugenia Kuyda on what makes someone exceptionally effective:\n\n\"There's a great quote I think from Ben Horowitz — these 'value-add' VCs that give advice like 'hire A players.'\"\n\n\"So of course you've got to hire A players, but what does it really mean to be an A player?\" https://t.co/9hSIbEJV7W",
+    "createdAt": "Thu Apr 02 21:45:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 364691,
+      "friendsCount": 826,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2039817786956874162",
+    "fullText": "The hallmark of an extraordinary CEO is their ability to turn tough obstacles into opportunities. \nDara Khosrowshahi left Expedia to take over Uber, which was LOSING $4.5 billion per year. \n\nToday? It's earning over $10 billion. WOW!",
+    "createdAt": "Thu Apr 02 21:30:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
+      "followersCount": 139078,
+      "friendsCount": 3222,
+      "location": "on ⛓"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE7guWobkAAezCL.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2039814893965316427",
+    "fullText": "Spectre haunts her enemies everywhere https://t.co/stEWsBkCvr",
+    "createdAt": "Thu Apr 02 21:19:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
+      "followersCount": 955523,
+      "friendsCount": 54,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE7bCRHb0AAmpAu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2039808516035358941",
+    "fullText": ".@bhorowitz on what great CEOs learn from experience\n\nhttps://t.co/mt3svuOEQi https://t.co/lQnJ50F508",
+    "createdAt": "Thu Apr 02 20:53:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "karpathy",
+      "name": "Andrej Karpathy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+      "description": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+      "followersCount": 2060401,
+      "friendsCount": 1080,
+      "location": "Stanford"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/karpathy/status/2039805659525644595",
+    "fullText": "LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating",
+    "createdAt": "Thu Apr 02 20:42:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 234687,
+      "friendsCount": 4835,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2039803144536760518",
+    "fullText": "Will @tbpn cover the @google gemma 4 release today?",
+    "createdAt": "Thu Apr 02 20:32:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 85803,
+      "friendsCount": 5172,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE7Uj1mWYAAK8LM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2039801398221516901",
+    "fullText": "no one knows fun fact I can eat raw chicken for my team mates @pcuenq https://t.co/Ktcf5Dh1ZA",
+    "createdAt": "Thu Apr 02 20:25:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 138769,
+      "friendsCount": 211,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE7PbHvakAAxzXU.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2039796686953087183",
+    "fullText": "We're releasing the full history of Arena leaderboard data as a public dataset, nearly 3 years of rankings across 10 Arenas, dozens of categories, and hundreds of models.\n\nOptimized to empower analysis and unlock new insights across modalities and over time. Check out some https://t.co/UrGmwP0ALn",
+    "createdAt": "Thu Apr 02 20:06:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor. 3 under 3 👶",
+      "followersCount": 190052,
+      "friendsCount": 506,
+      "location": "building somewhere"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2039795578662420781",
+    "fullText": "some theme of sponsors having more permanent placements in podcasts/newsletter/creator world\n\nnot what i expected tbh but think it actually seems reasonable\n\nespecially on content churned quickly\n\ni’d love to just have a set few sponsors who make up tools that i use day to day",
+    "createdAt": "Thu Apr 02 20:02:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 301923,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039794593055862784/vid/avc1/1280x720/BGsl8UZ6iURuMb9e.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2039794643513295328",
+    "fullText": "Bring Codex to your team without fixed seat costs.\n\nWe’re rolling out usage-based pricing for Codex in ChatGPT Business and Enterprise plans, so teams have a more flexible way to get started. https://t.co/dyfuK5ouXS",
+    "createdAt": "Thu Apr 02 19:58:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 88805,
+      "friendsCount": 1092,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HE7J8WVXEAAQWjg.mp4"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2039789740296179998",
+    "fullText": "As data estates grow, teams struggle to find, understand, and trust the right data.\n\nThe new Discover experience in Unity Catalog brings business context, trust signals, and access into one place.\n\nWith domains, intelligent curation, and governed access, users can discover data, https://t.co/8vB54yL3iF",
+    "createdAt": "Thu Apr 02 19:39:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
+      "followersCount": 414552,
+      "friendsCount": 1141,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE7B3IIXMAMuz5w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rasbt/status/2039780905619705902",
+    "fullText": "Flagship open-weight release days are always exciting. Was just reading through the Gemma 4 reports, configs, and code, and here are my takeaways:\n\nArchitecture-wise, besides multi-model support, Gemma 4 (31B) looks pretty much unchanged compared to Gemma 3 (27B).\n\nGemma 4 https://t.co/sZ77pZho95",
+    "createdAt": "Thu Apr 02 19:03:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Flock_Safety",
+      "name": "Flock",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2014450375470743554/woHTEGc__normal.jpg",
+      "description": "Shaping the Future of Safety, Together.",
+      "followersCount": 4686,
+      "friendsCount": 208,
+      "location": "Atlanta, GA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039754126267965440/vid/avc1/3840x2160/DABcV21EAHsF7NQa.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Flock_Safety/status/2039772488553369872",
+    "fullText": "The Places We Live. The news stories happening in neighborhoods across the country, the moments that impact people like you, families like yours, and communities you call home.\n\nA thread of the news that hits home...because it is home. https://t.co/hGhGsfGUzi",
+    "createdAt": "Thu Apr 02 18:30:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "salesforce",
+      "name": "Salesforce",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_normal.jpg",
+      "description": "We're the #1 AI CRM—where humans with agents drive customer success together with AI, data, and Customer 360 apps on one platform. Tweet @AskSalesforce for help",
+      "followersCount": 580882,
+      "friendsCount": 65,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039465105419853824/vid/avc1/1920x1080/QI6oDKUqjkYWbdFE.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/salesforce/status/2039692688233021495",
+    "fullText": "Meet the new @SlackHQ. Where AI works.\n\n→ Slackbot\n→ Slack Marketplace\n→ Slack CRM\n→ Slack + Salesforce\n→ Slack + Agentforce\n\nWith @Benioff, @MrBeast, @AnthropicAI, and @GoWithEngine. https://t.co/p8NF5cH0FS",
+    "createdAt": "Thu Apr 02 13:13:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 448569,
+      "friendsCount": 538,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2039641935988625598",
+    "fullText": "I'm on a MAX plan, and now I'm hitting my limit every couple of hours.\n\nWhat's going on?\n\nHonestly, this makes Claude unusable. I've had to sign up for ChatGPT again just because of this.",
+    "createdAt": "Thu Apr 02 09:51:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 205472,
+      "friendsCount": 1597,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE375HEbIAEYXC3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2039563247917867275",
+    "fullText": "彭博社：OpenAI 的二级市场正在冷却，Anthropic 的二级市场正在沸腾\n\n6 亿美元的 OpenAI 股份挂出来，找不到买家。去年这个数字几天就能被抢光。二级市场交易平台 Next Round Capital 的创始人 Ken Smythe 说，他的几百个机构投资者客户池里，没有一个愿意接手。\n\n同一时间，买家们表示有 20 https://t.co/L9e8v4JAiR",
+    "createdAt": "Thu Apr 02 04:39:06 +0000 2026"
+  }
+]
