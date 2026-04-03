@@ -1,11 +1,101 @@
 [
   {
     "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 366398,
+      "friendsCount": 827,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2040206684497334272/vid/avc1/810x1080/R7lgE17mM1stuJjg.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2040206793100435869",
+    "fullText": "The humanoid robots are HERE! Had a great time hanging out with Neo from @1x_tech at the Abundance summit in March. Excited to welcome him to my home soon. \n\nSpecial thanks to @BerntBornich! https://t.co/5nXBP8pdGZ",
+    "createdAt": "Fri Apr 03 23:16:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 54135,
+      "friendsCount": 396,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFBFC5sbkAAZD7O.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2040206650121019865",
+    "fullText": "New from Together Research: LLMs can fix query plans your database optimizer gets wrong. Up to 4.78x faster.\n\nCost estimators fail when they miss semantic correlations: wrong join order, wrong access path, cascading errors.\n\nDBPlanBench feeds DataFusion's physical operator graph https://t.co/v1DbyFZhoo",
+    "createdAt": "Fri Apr 03 23:15:45 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "a16z",
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
-      "followersCount": 955877,
+      "followersCount": 955814,
+      "friendsCount": 54,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2040203131053813760/vid/avc1/1280x720/3B7DEMc7F-ExuwbC.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2040203337698803981",
+    "fullText": "Marc Andreessen says in the future, we may not have programming languages or even user interfaces:\n\n\"I kind of think that in 10 years, I'm not sure there will even be a salient concept of a programming language in the way that we understand it today.\"\n\n\"If you project forward, https://t.co/7xX6uYKVFT",
+    "createdAt": "Fri Apr 03 23:02:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 237896972,
+      "friendsCount": 1308,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2040202515707461632/vid/avc1/1920x1080/ZdthjHgFA16sW3C7.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2040202569520455722",
+    "fullText": "Grok Imagine https://t.co/GSSjPu9S2A",
+    "createdAt": "Fri Apr 03 22:59:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 237896972,
+      "friendsCount": 1308,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2040202292847341568/vid/avc1/1920x1080/J6rGUu72MyD53zKJ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2040202348325392463",
+    "fullText": "What you can do with Grok Imagine https://t.co/0WNSUigYcG",
+    "createdAt": "Fri Apr 03 22:58:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
+      "followersCount": 955814,
       "friendsCount": 54,
       "location": "The Cloud"
     },
@@ -23,7 +113,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 214157,
+      "followersCount": 214152,
       "friendsCount": 6948,
       "location": ""
     },
@@ -39,7 +129,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 269362,
+      "followersCount": 269394,
       "friendsCount": 8033,
       "location": "United States"
     },
@@ -55,7 +145,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
-      "followersCount": 955877,
+      "followersCount": 955814,
       "friendsCount": 54,
       "location": "The Cloud"
     },
@@ -73,7 +163,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 269362,
+      "followersCount": 269394,
       "friendsCount": 8033,
       "location": "United States"
     },
@@ -89,7 +179,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 366362,
+      "followersCount": 366398,
       "friendsCount": 827,
       "location": ""
     },
@@ -107,7 +197,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 269362,
+      "followersCount": 269394,
       "friendsCount": 8033,
       "location": "United States"
     },
@@ -123,7 +213,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 54136,
+      "followersCount": 54135,
       "friendsCount": 396,
       "location": "San Francisco, CA"
     },
@@ -144,7 +234,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 1092188,
+      "followersCount": 1092285,
       "friendsCount": 35,
       "location": ""
     },
@@ -181,7 +271,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 366362,
+      "followersCount": 366398,
       "friendsCount": 827,
       "location": ""
     },
@@ -197,7 +287,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 214157,
+      "followersCount": 214152,
       "friendsCount": 6948,
       "location": ""
     },
@@ -215,7 +305,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 269362,
+      "followersCount": 269394,
       "friendsCount": 8033,
       "location": "United States"
     },
@@ -233,7 +323,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 88860,
+      "followersCount": 88856,
       "friendsCount": 1092,
       "location": "HQ: San Francisco, CA"
     },
@@ -269,7 +359,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
-      "followersCount": 139452,
+      "followersCount": 139456,
       "friendsCount": 211,
       "location": "US"
     },
@@ -287,7 +377,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
-      "followersCount": 955877,
+      "followersCount": 955814,
       "friendsCount": 54,
       "location": "The Cloud"
     },
@@ -305,7 +395,7 @@
       "name": "Richard Socher",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1232361282759610368/YYxndVmI_normal.jpg",
       "description": "CEO  @youdotcom\nMP @aixventuresHQ\n\nBefore: Stanford Adj Prof in AI/NLP, Chief Scientist at Salesforce, MetaMind",
-      "followersCount": 116509,
+      "followersCount": 116507,
       "friendsCount": 1115,
       "location": ""
     },
@@ -321,7 +411,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 269362,
+      "followersCount": 269394,
       "friendsCount": 8033,
       "location": "United States"
     },
@@ -339,7 +429,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 214157,
+      "followersCount": 214152,
       "friendsCount": 6948,
       "location": ""
     },
@@ -355,7 +445,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 54136,
+      "followersCount": 54135,
       "friendsCount": 396,
       "location": "San Francisco, CA"
     },
@@ -373,7 +463,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 243949,
+      "followersCount": 243932,
       "friendsCount": 86,
       "location": ""
     },
@@ -391,7 +481,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
-      "followersCount": 955877,
+      "followersCount": 955814,
       "friendsCount": 54,
       "location": "The Cloud"
     },
@@ -410,7 +500,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 214157,
+      "followersCount": 214152,
       "friendsCount": 6948,
       "location": ""
     },
@@ -428,7 +518,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 469772,
+      "followersCount": 469746,
       "friendsCount": 3134,
       "location": ""
     },
@@ -446,7 +536,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 469772,
+      "followersCount": 469746,
       "friendsCount": 3134,
       "location": ""
     },
@@ -2827,7 +2917,7 @@
       "name": "Salesforce",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_normal.jpg",
       "description": "We're the #1 AI CRM—where humans with agents drive customer success together with AI, data, and Customer 360 apps on one platform. Tweet @AskSalesforce for help",
-      "followersCount": 580999,
+      "followersCount": 580990,
       "friendsCount": 69,
       "location": "San Francisco, CA"
     },
@@ -2838,6 +2928,24 @@
     "tweetUrl": "https://x.com/salesforce/status/2039692688233021495",
     "fullText": "Meet the new @SlackHQ. Where AI works.\n\n→ Slackbot\n→ Slack Marketplace\n→ Slack CRM\n→ Slack + Salesforce\n→ Slack + Agentforce\n\nWith @Benioff, @MrBeast, @AnthropicAI, and @GoWithEngine. https://t.co/p8NF5cH0FS",
     "createdAt": "Thu Apr 02 13:13:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "YahooFinance",
+      "name": "Yahoo Finance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1852386668646379524/H-Kso-3l_normal.png",
+      "description": "The world’s biggest business news platform: https://t.co/EhQ75nXob3\nGet the free Yahoo Finance app & subscribe to our morning newsletter, the Morning Brief ⬇️",
+      "followersCount": 2000397,
+      "friendsCount": 328,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039351777623941120/vid/avc1/1920x1080/Qq9B20UCj6d-k73Q.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/YahooFinance/status/2039656839680553027",
+    "fullText": "\"We now know we can successfully, autonomously drive cars,\" said Jensen Huang. https://t.co/yXF5fZ8GCs",
+    "createdAt": "Thu Apr 02 10:51:00 +0000 2026"
   },
   {
     "user": {
