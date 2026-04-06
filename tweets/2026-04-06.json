@@ -1,11 +1,113 @@
 [
   {
     "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 244062,
+      "friendsCount": 86,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2041236011439771648",
+    "fullText": "Introducing Cost Alerting in LangSmith 💸\n\nMore and more agents are making it to production, and costs are increasing dramatically.\n\nUse LangSmith to set configurable alerts on total cost, so you know right away when your agents are spending more than they should.\n\nDocs:",
+    "createdAt": "Mon Apr 06 19:26:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 269574,
+      "friendsCount": 8038,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2041233123262734789",
+    "fullText": "NOPE NOPE AI IS STILL TOO DUMB TO BUILD EVEN A SIMPLE APP WITH JUST MINIMAL INSTRUCTIONS!!!",
+    "createdAt": "Mon Apr 06 19:14:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 484760,
+      "friendsCount": 3341,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFPlJ0LXEAAOCgy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2041227019271229758",
+    "fullText": "From @NASA @NASAArtemis https://t.co/ot9BvVmBQi",
+    "createdAt": "Mon Apr 06 18:50:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 458137,
+      "friendsCount": 1463,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2041219925268722057",
+    "fullText": "If you are potentially interested in applying to attend Gauntlet AI and have not, why not?",
+    "createdAt": "Mon Apr 06 18:22:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
+      "followersCount": 956014,
+      "friendsCount": 54,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2041214501891289088/vid/avc1/1280x720/BCT_xvM0bV75yeFS.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2041218797990994057",
+    "fullText": "“Coding will eat all knowledge work”\n\nPeter Yang joins a16z’s Anish Acharya to discuss the post-AI future of work, why AI will create more solopreneurs, why human ambition means there will always be new jobs, and more.\n\n00:00 Intro\n01:56 Using OpenClaw for voice, memory &amp; daily https://t.co/8EnxJiM8lE",
+    "createdAt": "Mon Apr 06 18:17:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 68727,
+      "friendsCount": 34874,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFPcvjoW4AA4csL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2041217804016189658",
+    "fullText": "dropping this weekend on @airstreetpress https://t.co/C7LxCqNtGt",
+    "createdAt": "Mon Apr 06 18:13:43 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "googleaidevs",
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 106228,
+      "followersCount": 106222,
       "friendsCount": 48,
       "location": ""
     },
@@ -21,7 +123,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 470288,
+      "followersCount": 470287,
       "friendsCount": 3134,
       "location": ""
     },
@@ -39,7 +141,7 @@
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 209427,
+      "followersCount": 209436,
       "friendsCount": 591,
       "location": "Venice, CA"
     },
@@ -57,7 +159,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4707762,
+      "followersCount": 4707851,
       "friendsCount": 4,
       "location": ""
     },
@@ -73,7 +175,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 244082,
+      "followersCount": 244062,
       "friendsCount": 86,
       "location": ""
     },
@@ -91,7 +193,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
-      "followersCount": 955975,
+      "followersCount": 956014,
       "friendsCount": 54,
       "location": "The Cloud"
     },
@@ -109,7 +211,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 150627,
+      "followersCount": 150630,
       "friendsCount": 5305,
       "location": "Montréal, Québec"
     },
@@ -127,7 +229,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 239151,
+      "followersCount": 239237,
       "friendsCount": 4834,
       "location": "Miami / New York / Paris"
     },
@@ -145,7 +247,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 458128,
+      "followersCount": 458137,
       "friendsCount": 1463,
       "location": "Austin, TX"
     },
@@ -161,7 +263,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 470288,
+      "followersCount": 470287,
       "friendsCount": 3134,
       "location": ""
     },
@@ -179,7 +281,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 470288,
+      "followersCount": 470287,
       "friendsCount": 3134,
       "location": ""
     },
@@ -197,7 +299,7 @@
       "name": "AGI.Eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "Vincent Boucher, President of @Montreal_AI #MontrealAI | B. Sc. Physics, M. A. Govt. Policy Analysis and M. Sc. Aerospace Engineering | $AGI by AGI.Eth #AGI",
-      "followersCount": 150627,
+      "followersCount": 150630,
       "friendsCount": 5305,
       "location": "Montréal, Québec"
     },
@@ -215,7 +317,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 367193,
+      "followersCount": 367201,
       "friendsCount": 827,
       "location": ""
     },
@@ -231,7 +333,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 470288,
+      "followersCount": 470287,
       "friendsCount": 3134,
       "location": ""
     },
@@ -249,7 +351,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 85814,
+      "followersCount": 85813,
       "friendsCount": 5179,
       "location": "Paris"
     },
@@ -267,7 +369,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 470288,
+      "followersCount": 470287,
       "friendsCount": 3134,
       "location": ""
     },
@@ -285,7 +387,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 470288,
+      "followersCount": 470287,
       "friendsCount": 3134,
       "location": ""
     },
@@ -303,7 +405,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1907157274637869057/ZS9Ui6fn_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 214198,
+      "followersCount": 214227,
       "friendsCount": 6950,
       "location": ""
     },
@@ -321,8 +423,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 206169,
-      "friendsCount": 1597,
+      "followersCount": 206174,
+      "friendsCount": 1596,
       "location": "Chicago, IL"
     },
     "images": [
