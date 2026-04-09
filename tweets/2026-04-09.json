@@ -1,12 +1,206 @@
 [
   {
     "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 244173,
+      "friendsCount": 87,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFelCmpbQAASGey.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2042282725084971380",
+    "fullText": "Claude Agent SDK tracing in LangSmith just got an upgrade.\n\nNow you can trace:\n→ Subagents\n→ Child runs inside MCP tools\n→ Cost tracking + more\n\nUpdate to the latest Python SDK to try it out.\n\nDocs: https://t.co/nRsLuJpu7E https://t.co/ALPzgUyDTK",
+    "createdAt": "Thu Apr 09 16:45:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 458259,
+      "friendsCount": 47,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2042272415951253932",
+    "fullText": "Gemini can now transform your questions and complex concepts into customizable interactive  visualizations directly in your chat.\n\nAdjust variables, rotate 3D models, and explore data for a more immersive way to learn and explore in Gemini.",
+    "createdAt": "Thu Apr 09 16:04:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 341927,
+      "friendsCount": 20539,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFebbgPXgAAR47-.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2042271856435028257",
+    "fullText": "Training a large AI model is expensive, but MIT CSAIL researchers have helped develop a new approach that cuts compute costs.\n\nUsing control theory, \"CompreSSM\" compresses models during training, shedding complexity. It makes models leaner &amp; faster: https://t.co/8aGuzy7Mbq https://t.co/yXWqasArmy",
+    "createdAt": "Thu Apr 09 16:02:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 206886,
+      "friendsCount": 1602,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2042269631277105184",
+    "fullText": "如果你想在 Claude Code 中禁用1M上下文，只要在你的 ~/.claude/settings.json中添加以下内容：\n{\n  \"env\": {\n    \"CLAUDE_CODE_DISABLE_1M_CONTEXT\": \"1\"\n  }\n}\n\n之所以这么做，很多人认为1M上下文会“降智”，但没有证据表明，只是猜测。",
+    "createdAt": "Thu Apr 09 15:53:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 244173,
+      "friendsCount": 87,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFeUuzMbsAAMpOS.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2042268554364592543",
+    "fullText": "🚀Deep Agents deploy\n\nToday we’re launching Deep Agents deploy in beta.\n\nDeep Agents deploy is the fastest way to deploy a model agnostic, open source agent harness in a production ready way.\n\nOpen harness, open memory, model agnostic\n\n🧵 https://t.co/RB6kcIz9J5",
+    "createdAt": "Thu Apr 09 15:49:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 470511,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2042266959530561536/vid/avc1/1920x1080/_PrPAjp7x6yDBZAJ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2042267053759840405",
+    "fullText": "INSPATIO-WORLD\n\nA Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling\n\npaper: https://t.co/8pRBe73t6B https://t.co/FEHdtXA2Mg",
+    "createdAt": "Thu Apr 09 15:43:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 54197,
+      "friendsCount": 396,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFeRM9RXMAAzf-X.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2042264479069564958",
+    "fullText": "Introducing Gemma 4 31B from @GoogleDeepMind on Together AI. \n\nAI natives can now use Gemma 4 31B on Together and benefit from reliable inference for multimodal reasoning, tool use, and agentic workflows. https://t.co/g9oyqiG56C",
+    "createdAt": "Thu Apr 09 15:32:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 244173,
+      "friendsCount": 87,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFeQMCwXUAAk3Up.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2042259499587695031",
+    "fullText": "Join us in NY for a meetup on building better agents with @palashshah, Applied AI Engineer @LangChain.\n\nPalash will walk through the agent improvement loop and how teams use traces as the foundation for continuous improvement.\n\nWe’ll cover how to:\n- Capture traces of real agent https://t.co/BOK4fDgIEE",
+    "createdAt": "Thu Apr 09 15:13:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hq4ai",
+      "name": "汗青 HQ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
+      "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | Japan | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
+      "followersCount": 35416,
+      "friendsCount": 584,
+      "location": "Tokyo-to, Japan"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2042256223756783616/vid/avc1/2538x1080/awvsHRGfiH5jKryj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/hq4ai/status/2042259118627619183",
+    "fullText": "尤栗YURI的首次现场LIVE，和著名唢呐艺术家孙名川老师来了一次赛博唢呐的破次元合体，在AIFUT大会上。\n现场反响还是很好的，大屏展示在完全没有问题，所以嘛，下一步。。。 https://t.co/p0DeC7mlR0",
+    "createdAt": "Thu Apr 09 15:11:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 448138,
+      "friendsCount": 545,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2042258765102403584/vid/avc1/1280x720/1A0VlkB8uP1h1PUE.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2042258928596390359",
+    "fullText": "Don't talk directly to a model.\n\nYou can make your application 10x more flexible by simply adding one intermediate layer between your code and the model.\n\nThis is the simplest trick you can use to improve the architecture of whatever you are building. https://t.co/vafHFxVXHx",
+    "createdAt": "Thu Apr 09 15:10:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 88865,
+      "friendsCount": 1091,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFeO1ThX0AA03Cf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2042258023305912702",
+    "fullText": "Developers want to write code, not spend time provisioning databases.\n\nIn this webinar, experts from Databricks and @cursor_ai build and deploy a production-ready app using modern frameworks, serverless Postgres, and built-in governance.\n\nYou’ll see how to build from scratch, https://t.co/2IXhVCrSlI",
+    "createdAt": "Thu Apr 09 15:07:10 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "perplexity_ai",
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
-      "followersCount": 466079,
-      "friendsCount": 74,
+      "followersCount": 466370,
+      "friendsCount": 75,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -23,7 +217,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 104627,
+      "followersCount": 104631,
       "friendsCount": 605,
       "location": "Stanford, CA"
     },
@@ -41,7 +235,7 @@
       "name": "Mistral AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996905418065375232/mzwynOLB_normal.jpg",
       "description": "Frontier AI in your hands. https://t.co/VdyEwpQsiy Apps: https://t.co/1vZA5XdBYo https://t.co/rj5G4u5sHu",
-      "followersCount": 178821,
+      "followersCount": 178824,
       "friendsCount": 2,
       "location": "Paris, France"
     },
@@ -59,7 +253,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "The latest breakthroughs and the future of AI for business leaders.",
-      "followersCount": 267588,
+      "followersCount": 267595,
       "friendsCount": 790,
       "location": "Santa Clara, CA"
     },
@@ -93,7 +287,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1732079679610425344/YqSwiBqA_normal.jpg",
       "description": "Research @allen_ai, reasoning, open models, RL(VR/HF)...\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 79851,
+      "followersCount": 79854,
       "friendsCount": 879,
       "location": "Seattle"
     },
@@ -127,7 +321,7 @@
       "name": "Alexandr Wang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
       "description": "chief ai officer @meta, founder @scale_ai. rational in the fullness of time",
-      "followersCount": 422858,
+      "followersCount": 423182,
       "friendsCount": 852,
       "location": "San Francisco, CA"
     },
@@ -145,7 +339,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. New AI learning portal: https://t.co/LRnpZN7L4c",
-      "followersCount": 95777,
+      "followersCount": 95790,
       "friendsCount": 1,
       "location": ""
     },
@@ -163,7 +357,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 269781,
+      "followersCount": 269804,
       "friendsCount": 8054,
       "location": "United States"
     },
@@ -179,8 +373,8 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKs4uX",
-      "followersCount": 297656,
-      "friendsCount": 801,
+      "followersCount": 297669,
+      "friendsCount": 802,
       "location": "DAIR.AI Academy"
     },
     "images": [
@@ -197,7 +391,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 242741,
+      "followersCount": 242903,
       "friendsCount": 4836,
       "location": "Miami / New York / Paris"
     },
@@ -213,7 +407,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. New AI learning portal: https://t.co/LRnpZN7L4c",
-      "followersCount": 95777,
+      "followersCount": 95790,
       "friendsCount": 1,
       "location": ""
     },
@@ -231,7 +425,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 272551,
+      "followersCount": 272556,
       "friendsCount": 328,
       "location": "New York, USA"
     },
@@ -249,7 +443,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 137218,
+      "followersCount": 137215,
       "friendsCount": 1243,
       "location": ""
     },
@@ -265,7 +459,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 366749,
+      "followersCount": 366741,
       "friendsCount": 827,
       "location": ""
     },
@@ -281,8 +475,8 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 85788,
-      "friendsCount": 5186,
+      "followersCount": 85793,
+      "friendsCount": 5187,
       "location": "Paris"
     },
     "images": [],
@@ -297,7 +491,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 107946,
+      "followersCount": 107950,
       "friendsCount": 48,
       "location": ""
     },
@@ -315,7 +509,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484284,
+      "followersCount": 484289,
       "friendsCount": 3339,
       "location": "Maryland, USA"
     },
@@ -333,7 +527,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 448135,
+      "followersCount": 448138,
       "friendsCount": 545,
       "location": "🇺🇸 Collaborations →"
     },
@@ -349,7 +543,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 484284,
+      "followersCount": 484289,
       "friendsCount": 3339,
       "location": "Maryland, USA"
     },
@@ -851,8 +1045,8 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
-      "followersCount": 11925,
-      "friendsCount": 1428,
+      "followersCount": 11996,
+      "friendsCount": 1426,
       "location": "New York, USA"
     },
     "images": [
@@ -1090,7 +1284,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 242741,
+      "followersCount": 242903,
       "friendsCount": 4836,
       "location": "Miami / New York / Paris"
     },
