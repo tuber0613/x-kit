@@ -1,11 +1,240 @@
 [
   {
     "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
+      "followersCount": 83562,
+      "friendsCount": 433,
+      "location": "Seattle, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHGjQFWW8AAZNi8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/allen_ai/status/2049598804672831801",
+    "fullText": "When we released Molmo, it was a bet that open vision-language models could compete with closed systems.\n\nSince then, we’ve expanded Molmo into a family of open visual AI building blocks for pointing, web interaction, 3D perception, &amp; robotics. 🧵 https://t.co/mGOHe8EE6q",
+    "createdAt": "Wed Apr 29 21:16:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
+      "followersCount": 219379,
+      "friendsCount": 6960,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HHGhbuwbIAA9r1P.mp4"
+    ],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2049596808410657224",
+    "fullText": "I was about to say “my phone is ringing off the hook with media calls about the Musk-OpenAI lawsuit” — and then realized a lot of people here might not know how hooks and phones relate 🤣 https://t.co/HJGThLRysm",
+    "createdAt": "Wed Apr 29 21:08:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2570382,
+      "friendsCount": 788,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2049596317244997710",
+    "fullText": "Jessica and I have been talking about how earnest Swedish founders seem. Obviously it's news to no one that Swedes would be earnest. But I don't think they themselves realize how valuable this quality is for founders specifically.\n\nhttps://t.co/251q8RSQ0Z",
+    "createdAt": "Wed Apr 29 21:06:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 322361,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2049595890395152728",
+    "fullText": "⚙️ We made agent loops faster with WebSockets in the Responses API\n\nAs Codex got faster, the bottleneck moved from inference to inefficient API calls\n\nWebSockets keep response state warm across tool calls, helping workflows run up to 40% faster end to end\n\nhttps://t.co/nFeUEdRdKt",
+    "createdAt": "Wed Apr 29 21:05:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rebecca_szkutak",
+      "name": "Becca Szkutak",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945669574868803584/DS45KFLN_normal.jpg",
+      "description": "Writer and Pilates teacher\n\nBBQ Betch, 2001 Coldplay apologist, Real Housewives scholar\nShe/her",
+      "followersCount": 6500,
+      "friendsCount": 1234,
+      "location": "Brooklyn, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHGgOnMaQAABlnI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rebecca_szkutak/status/2049595486609305838",
+    "fullText": "Need to torment an entire karaoke bar with my rendition of this asap https://t.co/olOvsYfAxR",
+    "createdAt": "Wed Apr 29 21:03:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 270196,
+      "friendsCount": 4844,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2049594912040239104/vid/avc1/1080x1920/QqDLF5bDnaKbNbYY.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2049594975235490059",
+    "fullText": "The first agent-native robot!\n\nYesterday, we assembled the new version of Reachy mini and this morning I created my first app in under an hour with ml intern (our Hugging Face agent).\n\nTry it in your Reachy mini (or in simulation): https://t.co/8TFWrorpE4 https://t.co/t1JrbHnwUY",
+    "createdAt": "Wed Apr 29 21:01:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sapna",
+      "name": "Sapna Maheshwari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/766436031004602368/-snSkBUg_normal.jpg",
+      "description": "whatsupna? @nytimes business reporter covering TikTok and emerging media. pun lover, Tar Heel, from CT. tips to sapna@nytimes.com, DM for Signal, WhatsApp.",
+      "followersCount": 39376,
+      "friendsCount": 1345,
+      "location": "Manhattan, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHGbHcZbwAAv6lK.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sapna/status/2049590090171613411",
+    "fullText": "if i could kiss a gmail feature, it would be MANAGE SUBSCRIPTIONS ... the inbox management tool i have craved for years https://t.co/9GHabrV9HK",
+    "createdAt": "Wed Apr 29 20:42:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 247722,
+      "friendsCount": 116,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2049589573550809347",
+    "fullText": "1️⃣ Get traces\n2️⃣ Enrich them\n3️⃣ Improve from them\n4️⃣ Repeat\n\nHead of Product @samecrowder on how to do this in practice: https://t.co/Og1Fd4sKW6",
+    "createdAt": "Wed Apr 29 20:40:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 214823,
+      "friendsCount": 1622,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHGXLO4agAAqQm2.jpg",
+      "https://pbs.twimg.com/media/HHGXhM-bEAAZ3z2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2049586049907667168",
+    "fullText": "我就说你们咋逆向 Claude Design 的 System Prompt 的，原来都在请求的 Payload 里面，包括调用啥工具都有。\n\n可惜额度太少了，用几次就没了 https://t.co/cV3zgH18yx",
+    "createdAt": "Wed Apr 29 20:26:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
+      "followersCount": 969369,
+      "friendsCount": 55,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2049584125762560000/vid/avc1/1280x720/ZRsBw45iHR1YYxrw.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2049584181676740793",
+    "fullText": ".@pmarca on the 5 key traits of a real innovator:\n\n1. \"Just flat-out open to new ideas... And the nature of trait openness means you're not just open to new ideas in one category, you're open to many different kinds of new ideas.\"\n\n2. \"You need somebody who's really willing to https://t.co/VXSu6LE7Bs",
+    "createdAt": "Wed Apr 29 20:18:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 89878,
+      "friendsCount": 1094,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2049583504137068544/vid/avc1/1280x720/13CzwB80XWAFxqol.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2049583714942746662",
+    "fullText": "Early-bird pricing for Data + AI Summit ends tomorrow, April 30!\n\nDon't miss your chance to join leaders shaping the future of data and AI with access to keynotes, 800+ breakout sessions, and hands-on training and certification.\n\nRegister now to lock in 50% savings. https://t.co/Bw3V7sjqn2",
+    "createdAt": "Wed Apr 29 20:16:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4793552,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2049583102859816960/vid/avc1/1280x720/gTE5vLqUfW7VRQKe.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2049583167406064115",
+    "fullText": "Still wondering how you can use Codex for (almost) everything?\n\nCodex can help with more of the work that supports the work, from organizing research to making spreadsheets, decks, and summaries. https://t.co/aoTXXbkinw",
+    "createdAt": "Wed Apr 29 20:14:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 1026341,
+      "friendsCount": 2044,
+      "location": "Palo Alto"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHGTRd2aEAAwzq0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2049581454968111213",
+    "fullText": "After a quiet start of the year, X will record the most monthly downloads in history this April, beating our last record by 40%.\n\nWe're just getting warmed up. https://t.co/zfRYBhWVWx",
+    "createdAt": "Wed Apr 29 20:07:52 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "googleaidevs",
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 111980,
+      "followersCount": 111983,
       "friendsCount": 48,
       "location": ""
     },
@@ -23,7 +252,7 @@
       "name": "Yi Ma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
       "description": "Chair Prof. in AI, HKU; Visiting Prof. of EECS, UCB\nFor a Unified Theory of Intelligence:\nhttps://t.co/leZlkURb7j",
-      "followersCount": 117012,
+      "followersCount": 117011,
       "friendsCount": 648,
       "location": "Hong Kong and Berkeley"
     },
@@ -39,8 +268,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 324915,
-      "friendsCount": 12544,
+      "followersCount": 324964,
+      "friendsCount": 12543,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -55,7 +284,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 247719,
+      "followersCount": 247722,
       "friendsCount": 116,
       "location": ""
     },
@@ -89,7 +318,7 @@
       "name": "Midjourney",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
       "description": "A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.",
-      "followersCount": 416090,
+      "followersCount": 416096,
       "friendsCount": 0,
       "location": ""
     },
@@ -105,7 +334,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 89873,
+      "followersCount": 89878,
       "friendsCount": 1094,
       "location": "HQ: San Francisco, CA"
     },
@@ -123,8 +352,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 776863,
-      "friendsCount": 5800,
+      "followersCount": 776956,
+      "friendsCount": 5801,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -139,7 +368,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 450561,
+      "followersCount": 450565,
       "friendsCount": 554,
       "location": "🇺🇸 Collaborations →"
     },
@@ -157,7 +386,7 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Head of AI @clickup. Tweets about AI, computing and knowledge work. Previously founder @codegen / ML @palantir / CS @stanford. Not a pseudonym.",
-      "followersCount": 67582,
+      "followersCount": 67585,
       "friendsCount": 3372,
       "location": "San Francisco"
     },
@@ -175,7 +404,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 464053,
+      "followersCount": 464063,
       "friendsCount": 1476,
       "location": "Austin, TX"
     },
