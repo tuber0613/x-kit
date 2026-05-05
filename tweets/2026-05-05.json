@@ -1,11 +1,131 @@
 [
   {
     "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKs4uX",
+      "followersCount": 302401,
+      "friendsCount": 829,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHlcKIDbEAArSLz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2051772437520622035",
+    "fullText": "// Skills as Verifiable Artifacts //\n\nPay attention to this one, AI devs.\n\nIf you ship agent skills, your runtime is treating signed-and-cleared skills as trusted by default.\n\nThis paper argues a skill is untrusted code until it is verified. The runtime should enforce that https://t.co/LIYU73eeQB",
+    "createdAt": "Tue May 05 21:14:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 331461,
+      "friendsCount": 114,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2051768906235138051/pu/vid/avc1/720x1280/k7g1x10OPtGxjAWd.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2051768985708875946",
+    "fullText": "Just deployed to production… and leaked all the credit cards. 😬\n\nFast isn’t the same as correct. Learn spec-driven development: write clear specs, guide your coding agent, and build what you actually intended. Join our free course: https://t.co/rgYkE3oOjL https://t.co/TFh383Ce9j",
+    "createdAt": "Tue May 05 21:00:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 248410,
+      "friendsCount": 125,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHlUWg3WgAYpCCT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2051763878623650253",
+    "fullText": ".@Redisinc is returning to Interrupt!\n\nSay hello to their team at the expo hall to learn about their fast memory layer for chatbots and AI agents as well as their ready-to-use tools for building AI apps. https://t.co/dIkVwtiUaF",
+    "createdAt": "Tue May 05 20:40:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 106050,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHlUBunbIAA74IP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2051763646066471401",
+    "fullText": "Happening now: @dariogila, Under Secretary for Science at the U.S. Department of @ENERGY, takes the stage for today's AI+Science keynote. Hear his perspective on AI's role in scientific discovery and what it means for energy, climate, and research policy: https://t.co/i06j7NRWIH https://t.co/RsAxDM1hpM",
+    "createdAt": "Tue May 05 20:39:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
+      "followersCount": 220956,
+      "friendsCount": 6965,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2051758733349560658",
+    "fullText": "In vividly explaining how he deceived Musk about his commitment to the nonprofit, without a trace of remorse, OpenAI’s Brockman has done Musk’s counsel quite a service. \n \nBrockman’s also been pretty great about illustrating Musk’s contributions to the early years of the company.",
+    "createdAt": "Tue May 05 20:19:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1224695,
+      "friendsCount": 36,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2051758528562364902",
+    "fullText": "New Anthropic Fellows research: Model Spec Midtraining (MSM).\n\nStandard alignment methods train AIs on examples of desired behavior. But this can fail to generalize to new situations.\n\nMSM addresses this by first teaching AIs how we would like them to generalize and why.",
+    "createdAt": "Tue May 05 20:18:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 4771776,
+      "friendsCount": 1013,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2051758152224506203",
+    "fullText": "the new instant model in chatgpt is so good damn\n\nif you have been thinking-model-only for awhile, give it a try!",
+    "createdAt": "Tue May 05 20:17:17 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "_akhaliq",
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 487361,
+      "followersCount": 487372,
       "friendsCount": 3140,
       "location": ""
     },
@@ -41,7 +161,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 106048,
+      "followersCount": 106050,
       "friendsCount": 605,
       "location": "Stanford, CA"
     },
@@ -59,7 +179,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 90039,
+      "followersCount": 90044,
       "friendsCount": 1093,
       "location": "HQ: San Francisco, CA"
     },
@@ -77,7 +197,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "The platform for agent engineering. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 248404,
+      "followersCount": 248410,
       "friendsCount": 125,
       "location": ""
     },
@@ -95,7 +215,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 220915,
+      "followersCount": 220956,
       "friendsCount": 6965,
       "location": ""
     },
@@ -111,7 +231,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
-      "followersCount": 156350,
+      "followersCount": 156364,
       "friendsCount": 212,
       "location": "US"
     },
@@ -129,7 +249,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6plZ\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaL6ay.",
-      "followersCount": 972688,
+      "followersCount": 972740,
       "friendsCount": 55,
       "location": "The Cloud"
     },
@@ -147,7 +267,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485569,
+      "followersCount": 485571,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -181,7 +301,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 327905,
+      "followersCount": 327959,
       "friendsCount": 1,
       "location": ""
     },
@@ -197,7 +317,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 112422,
+      "followersCount": 112457,
       "friendsCount": 48,
       "location": ""
     },
@@ -215,7 +335,7 @@
       "name": "Google Gemini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 487602,
+      "followersCount": 487653,
       "friendsCount": 47,
       "location": "Mountain View, CA"
     },
@@ -233,7 +353,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485569,
+      "followersCount": 485571,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -251,7 +371,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485569,
+      "followersCount": 485571,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -269,7 +389,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 220915,
+      "followersCount": 220956,
       "friendsCount": 6965,
       "location": ""
     },
@@ -285,7 +405,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485569,
+      "followersCount": 485571,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -303,7 +423,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4771362,
+      "followersCount": 4771776,
       "friendsCount": 1013,
       "location": "SF"
     },
@@ -319,7 +439,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1864460831662198785/ycNcxa7F_normal.jpg",
       "description": "All things AI for developers from @NVIDIA. And yes, this is where we drop new models, products, datasets and much more from us and our partners.",
-      "followersCount": 288372,
+      "followersCount": 288378,
       "friendsCount": 846,
       "location": "Santa Clara, CA"
     },
@@ -704,7 +824,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4771362,
+      "followersCount": 4771776,
       "friendsCount": 1013,
       "location": "SF"
     },
@@ -869,6 +989,22 @@
     "tweetUrl": "https://x.com/omarsar0/status/2051678102934454330",
     "fullText": "// HeavySkill //\n\nOne of the cleaner takes on agentic harness design I've read.\n\nThey argue that what actually drives agent harness performance is not the orchestration code. It's a single inner skill: parallel reasoning followed by deliberation.\n\nIf you can internalize that into https://t.co/eKJVhyjWmS",
     "createdAt": "Tue May 05 14:59:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "FieldsFreedom24",
+      "name": "Fields of Freedom",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1654145147687383040/4t7o1Vuf_normal.jpg",
+      "description": "Fields of Freedom Alliance represents the millions of hardworking family farmers and rural workers who feed & fuel America through agriculture & bioprocessing.",
+      "followersCount": 360,
+      "friendsCount": 443,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FieldsFreedom24/status/2051677723479654646",
+    "fullText": "President Trump is fighting for American energy, American farmers, and lower gas prices. Year-round E15 is the next step—now Congress must deliver.",
+    "createdAt": "Tue May 05 14:57:42 +0000 2026"
   },
   {
     "user": {
@@ -1286,7 +1422,7 @@
       "name": "Riley Goodside",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
       "description": "Screenshots from the jagged frontier.\nFormerly: Google DeepMind, Scale.",
-      "followersCount": 197361,
+      "followersCount": 197371,
       "friendsCount": 3436,
       "location": "Virginia, USA"
     },
@@ -1472,7 +1608,7 @@
       "name": "Mortal Kombat Movie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051334887647621120/qFoKdITP_normal.png",
       "description": "Mortal Kombat II - only in theaters and IMAX this Friday. Get tickets now. #MortalKombatMovie #FilmedforIMAX",
-      "followersCount": 89451,
+      "followersCount": 89459,
       "friendsCount": 19,
       "location": ""
     },
