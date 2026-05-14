@@ -1,11 +1,129 @@
 [
   {
     "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 132787,
+      "friendsCount": 533,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054777617065148416/vid/avc1/3840x2160/GZCfLpUcp1ggs85E.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2054778501555732915",
+    "fullText": "POV: Your fur kid is on the big screen! 💗 https://t.co/XE96MKP8IK",
+    "createdAt": "Thu May 14 04:19:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 218200,
+      "friendsCount": 1634,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054776811796504576/vid/avc1/1920x1080/_I-Xyf75QbZZAuya.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2054776883493904838",
+    "fullText": "Anthropic 刚推出 Claude for Small Business，把 AI 直接集成到 QuickBooks、PayPal、HubSpot、Canva、DocuSign 这些小企业每天用的工具里。你只要打开 Claude 桌面端的开关，就能一键启动 15 个预设技能：工资核算、现金流预测、催款、做营销素材、签合同，甚至新员工入职全自动搞定。 https://t.co/9LmNSy13Qs",
+    "createdAt": "Thu May 14 04:12:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 218200,
+      "friendsCount": 1634,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIQFmXrWgAAsaMS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2054774181808488756",
+    "fullText": "问：上下文（Context）和上下文窗口（Context Window）什么差别？\n\n这两个概念经常被混用，但其实指的是不同层面的东西：\n\n上下文是指 AI Agent 在执行任务时实际拥有的所有信息，包括系统提示词、用户的对话历史、检索到的文档、工具调用的结果、记忆模块注入的内容等等。你可以把它理解为“Agent https://t.co/LRsq4zGEYx",
+    "createdAt": "Thu May 14 04:01:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 4815678,
+      "friendsCount": 1013,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2054773491522822264",
+    "fullText": "being a dad is the thing that has most exceeded already-high-expectations in my whole life",
+    "createdAt": "Thu May 14 03:59:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70141,
+      "friendsCount": 34970,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2054768561290117615",
+    "fullText": "tmrw Wall Street shall serve chippies!",
+    "createdAt": "Thu May 14 03:39:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 218200,
+      "friendsCount": 1634,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2054768295534846239",
+    "fullText": "baoyu-skills 新加了一个 Skill：\n微信群聊总结 Skill：https://t.co/99tEbqlnXH\n\n依赖于 wx-cli：https://t.co/dTgqW5CG7f\n如何配置使用 wx-cli 请看项目文档，无法提供帮助。另外目前只是借助其读取数据，其他没任何关系。\n\nClaude Code + Claude Opus 4.6 效果最佳",
+    "createdAt": "Thu May 14 03:38:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 333420,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2054735161166819377",
+    "fullText": "To bring Codex to Windows, we had to answer a hard question: how do you let coding agents stay useful without forcing developers to choose between constant approval prompts and full machine access?\n\nHere’s how we built the Windows sandbox for Codex:\nhttps://t.co/U8JfOe3WIG",
+    "createdAt": "Thu May 14 01:26:52 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 466016,
+      "followersCount": 466056,
       "friendsCount": 1485,
       "location": "Austin, TX"
     },
@@ -23,7 +141,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 141616,
+      "followersCount": 141631,
       "friendsCount": 3236,
       "location": "on ⛓"
     },
@@ -39,8 +157,8 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 249407,
-      "friendsCount": 131,
+      "followersCount": 249419,
+      "friendsCount": 132,
       "location": ""
     },
     "images": [],
@@ -57,8 +175,8 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 249407,
-      "friendsCount": 131,
+      "followersCount": 249419,
+      "friendsCount": 132,
       "location": ""
     },
     "images": [
@@ -75,8 +193,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 278635,
-      "friendsCount": 8150,
+      "followersCount": 278700,
+      "friendsCount": 8152,
       "location": "United States"
     },
     "images": [
@@ -93,8 +211,8 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 249407,
-      "friendsCount": 131,
+      "followersCount": 249419,
+      "friendsCount": 132,
       "location": ""
     },
     "images": [
@@ -289,7 +407,7 @@
       "name": "Jeff Clune",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1948765264436494337/wrBA-a0W_normal.jpg",
       "description": "Co-founder, Recursive. Professor, CS, U. British Columbia. CIFAR AI Chair, Vector Institute. | ML, AI, deep RL, deep learning, AI-Generating Algorithms (AI-GAs)",
-      "followersCount": 32037,
+      "followersCount": 32074,
       "friendsCount": 439,
       "location": "Paradise (Vancouver, BC)"
     },
