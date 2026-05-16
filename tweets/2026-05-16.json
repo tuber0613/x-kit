@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 218722,
+      "friendsCount": 1637,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIeVNBLWoAEFtix.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2055777343222808744",
+    "fullText": "吐槽一下 Claude Code Desktop 的设计：\n\n1. 如果你上一个会话是用了 Plan mode，那么下一次会话默认就会是 Plan mode，这会导致新开会话忘记改掉的话，简单任务也要写个 plan\n\n2. 左侧 sidebar 完全不会根据 Projects 分组，一大坨放在一起，新建会话，需要二次点击才能设置正确的 Project\n\n3. 右侧的 https://t.co/NmfnoIpqJM",
+    "createdAt": "Sat May 16 22:28:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 341128,
+      "friendsCount": 12732,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2055775823978971299",
+    "fullText": "there was only one period of extreme technological change and automation that wasn’t culturally dominated by waves of Luddism, gloom, doomerism etc and it was the 50s and 60s, the post war baby boom, and its transcendent optimism",
+    "createdAt": "Sat May 16 22:22:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Open Sovereign AI @ii_posts. Founder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 323254,
+      "friendsCount": 54,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2055774874006679975",
+    "fullText": "Who’s building nanobots?\n\nSeems the last leg of Kurzweil’s predictions",
+    "createdAt": "Sat May 16 22:18:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 279352,
+      "friendsCount": 8155,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1393536833380921350/pu/vid/574x720/PS6U-eLht29dMi6H.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/tunguz/status/2055772695514562731",
+    "fullText": "not a gen ai agent in site … https://t.co/NA9CvVNaGk",
+    "createdAt": "Sat May 16 22:09:39 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
-      "followersCount": 222355,
+      "followersCount": 222358,
       "friendsCount": 6980,
       "location": ""
     },
@@ -21,7 +89,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2695836,
+      "followersCount": 2696157,
       "friendsCount": 788,
       "location": ""
     },
@@ -37,7 +105,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2695836,
+      "followersCount": 2696157,
       "friendsCount": 788,
       "location": ""
     },
@@ -55,8 +123,8 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKs4uX",
-      "followersCount": 303973,
-      "friendsCount": 840,
+      "followersCount": 303975,
+      "friendsCount": 841,
       "location": "DAIR.AI Academy"
     },
     "images": [
@@ -73,7 +141,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2695836,
+      "followersCount": 2696157,
       "friendsCount": 788,
       "location": ""
     },
@@ -91,7 +159,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. New AI learning portal: https://t.co/LRnpZN7L4c",
-      "followersCount": 116867,
+      "followersCount": 116868,
       "friendsCount": 1,
       "location": ""
     },
@@ -109,7 +177,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 1054580,
+      "followersCount": 1054643,
       "friendsCount": 2046,
       "location": "Palo Alto"
     },
@@ -127,7 +195,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2695836,
+      "followersCount": 2696157,
       "friendsCount": 788,
       "location": ""
     },
@@ -145,7 +213,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 374780,
+      "followersCount": 374781,
       "friendsCount": 834,
       "location": ""
     },
@@ -179,7 +247,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 466423,
+      "followersCount": 466419,
       "friendsCount": 1487,
       "location": "Austin, TX"
     },
@@ -195,7 +263,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 466423,
+      "followersCount": 466419,
       "friendsCount": 1487,
       "location": "Austin, TX"
     },
@@ -213,7 +281,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 279350,
+      "followersCount": 279352,
       "friendsCount": 8155,
       "location": "United States"
     },
@@ -231,7 +299,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 337019,
+      "followersCount": 337059,
       "friendsCount": 1,
       "location": ""
     },
@@ -249,7 +317,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 374780,
+      "followersCount": 374781,
       "friendsCount": 834,
       "location": ""
     },
@@ -265,7 +333,7 @@
       "name": "Greg Brockman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
       "description": "President & Co-Founder @OpenAI",
-      "followersCount": 976943,
+      "followersCount": 976969,
       "friendsCount": 8,
       "location": ""
     },
@@ -281,7 +349,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 422490,
+      "followersCount": 422494,
       "friendsCount": 611,
       "location": ""
     },
@@ -297,7 +365,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 279350,
+      "followersCount": 279352,
       "friendsCount": 8155,
       "location": "United States"
     },
@@ -331,7 +399,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 279350,
+      "followersCount": 279352,
       "friendsCount": 8155,
       "location": "United States"
     },
@@ -347,7 +415,7 @@
       "name": "Microsoft AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
       "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
-      "followersCount": 7232,
+      "followersCount": 7237,
       "friendsCount": 24,
       "location": ""
     },
@@ -363,7 +431,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485680,
+      "followersCount": 485684,
       "friendsCount": 3340,
       "location": "Maryland, USA"
     },
@@ -381,7 +449,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485680,
+      "followersCount": 485684,
       "friendsCount": 3340,
       "location": "Maryland, USA"
     },
@@ -400,7 +468,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 374780,
+      "followersCount": 374781,
       "friendsCount": 834,
       "location": ""
     },
@@ -1718,7 +1786,7 @@
       "name": "BLACK BEAR",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1663648770507300865/br5fG0XR_normal.jpg",
       "description": "a new kind of movie studio. \nbuy or rent: #shelter \nnow playing only in theaters: #inthegrey get tickets now!\nonly in theaters this may: #tuner get tickets now!",
-      "followersCount": 4969,
+      "followersCount": 4984,
       "friendsCount": 296,
       "location": "Los Angeles, CA"
     },
