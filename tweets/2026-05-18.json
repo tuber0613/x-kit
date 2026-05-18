@@ -1,12 +1,372 @@
 [
   {
     "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 249944,
+      "friendsCount": 137,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2056413391481122816/vid/avc1/1920x1080/ET2-mUvqJbzy9pPo.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2056414104445747371",
+    "fullText": "ICYMI: SmithDB is our purpose-built data layer for agent observability + eval workloads.\n\nSupporting increasingly complex query patterns at low latency, over large traces, with self-hosting + multi-cloud requirements needs a fundamentally new architecture.\n\nThat’s why we built https://t.co/BQ4J1sxc23",
+    "createdAt": "Mon May 18 16:38:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
+      "followersCount": 222524,
+      "friendsCount": 6983,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2056412418817810577",
+    "fullText": "seriou question: how do you handle an intellectual doppelganger who has systematically started adopting every position you have argued for for 30 years while presenting each idea as if it were his own?\n\nnothing in graduate school prepared me for this.",
+    "createdAt": "Mon May 18 16:31:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 294875,
+      "friendsCount": 855,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2056412084947366030",
+    "fullText": "OpenShell v0.0.43\n\n🛠️ bidirectional TTY streaming\n🔒 OIDC auth in the TUI\n🧩 HTTPS and mTLS decoupled\n📦 TOML gateway config (RFC 0003)\n🖥️ sandboxes boot from ext4 disks\n🛡️ DNS removed from sandbox mapper to block exfiltration\n\nAuthentication, streaming, and sandbox isolation",
+    "createdAt": "Mon May 18 16:30:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "“In the aftermath of GPT-5’s launch … the views of critics like Marcus seem increasingly moderate.” —@newyorker",
+      "followersCount": 222524,
+      "friendsCount": 6983,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2056409733142073470",
+    "fullText": "Trump just shook down the US government for $1.776 billion dollars of taxpayer money to pay off his buddies.",
+    "createdAt": "Mon May 18 16:21:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 374895,
+      "friendsCount": 835,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2056405681922617344/vid/avc1/1920x1080/lWwDSG8iDtmdHNf9.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2056406347420160211",
+    "fullText": "Anthropic hit 80x growth in a single quarter, not 10x, eighty, running out of compute so fast they blew past their own forecast. Elon's response? Hand them his entire 220,000-GPU Colossus One data center. When AI demand is heading toward infinity, even competitors become allies. https://t.co/QQWnHZd3NK",
+    "createdAt": "Mon May 18 16:07:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 345168,
+      "friendsCount": 20503,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HInRBRAWYAADERu.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2056404526786076954",
+    "fullText": "Different types of matrices, v/@codek_tv. https://t.co/5j5bj4hSlY",
+    "createdAt": "Mon May 18 16:00:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 670714,
+      "friendsCount": 827,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2056401102485266620",
+    "fullText": "A mental model for working with coding agents is that they're blind squirrels running into a maze and bumping into walls. You must place the walls (verifiable constraints) strategically so that they end up in the general region you want them in.",
+    "createdAt": "Mon May 18 15:46:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 158532,
+      "friendsCount": 212,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HInMp7UbAAAxbek.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2056400044862111757",
+    "fullText": "Qwen3.7 Preview By @Alibaba_Qwen lands on Arena for Text and Vision.\n\nIn Text Arena, Qwen3.7 Max Preview ranks #13 overall.\nAlibaba is now the #6 lab in this arena.\n- #7 Math\n- #9 Expert\n- #9 Software &amp; IT\n- #10 Coding\n\nIn Vision Arena: Qwen3.7 Plus Preview ranks #16 overall, https://t.co/tgoz3Ztbll",
+    "createdAt": "Mon May 18 15:42:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 279814,
+      "friendsCount": 8160,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2056398771106263095",
+    "fullText": "\"Pure reason\" (whatever it may be) will not be able on its own to carry you through everything that is coming up in the next few years.",
+    "createdAt": "Mon May 18 15:37:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 374895,
+      "friendsCount": 835,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2056398446068719863",
+    "fullText": "https://t.co/Tsaa3RpD5h",
+    "createdAt": "Mon May 18 15:36:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 239913903,
+      "friendsCount": 1332,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2056121435534381057/vid/avc1/1280x720/KL5Ev1wtFu5xQvC7.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2056395872506622457",
+    "fullText": "https://t.co/9QlFENjqmt",
+    "createdAt": "Mon May 18 15:25:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 239913903,
+      "friendsCount": 1332,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2056361633127989248/vid/avc1/568x320/TcKfpPtHRqW3Ojqh.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2056394168960774212",
+    "fullText": "https://t.co/rybIs4aNa1",
+    "createdAt": "Mon May 18 15:19:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKs4uX",
+      "followersCount": 304164,
+      "friendsCount": 841,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2056392467604205852",
+    "fullText": "Every time I ask my 10-year-old to use coding agents, he gets extremely disappointed. \n\nIt turns out that all he wants is to build his own rocket simulator. \n\nNo amount of context engineering helps. No model works. All coding agents fail. \n\nThat's just one example. He has many",
+    "createdAt": "Mon May 18 15:12:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 90577,
+      "friendsCount": 1093,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2056392379616182272/vid/avc1/1290x720/-sws7cDj4MYYRJr4.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2056392463535780178",
+    "fullText": "The next generation of Databricks Genie can answer questions beyond the boundaries of a Genie Space, bringing together trusted business logic, dashboards, apps, and enterprise knowledge sources in a single experience.\n\nAlso included:\n• Built-in connectors for sources like Google https://t.co/X6Kq4eo7mv",
+    "createdAt": "Mon May 18 15:12:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 132932,
+      "friendsCount": 535,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2056337449471954944/vid/avc1/3840x2160/deT-wQQtuWclNdY7.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2056389354378154354",
+    "fullText": "POV: turning my friend into a video game loading screen ⌛️ https://t.co/ZQA8u1mxQG",
+    "createdAt": "Mon May 18 15:00:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 279814,
+      "friendsCount": 8160,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HInBeCdW8AAUa8W.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2056387430949810307",
+    "fullText": "A good collection of short stories, but none really match the shocking poignancy of The Lottery. https://t.co/gyUWHeTrxB",
+    "createdAt": "Mon May 18 14:52:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 249944,
+      "friendsCount": 137,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2056386979156074496/vid/avc1/1920x1080/DW7GByjcTLJQlDFr.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2056387080826044432",
+    "fullText": "Agent inside the sandbox or outside it?\n\n@Shevchenkoaalex from @TryRamp's answer. https://t.co/4YYxES8iaz",
+    "createdAt": "Mon May 18 14:51:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 148277,
+      "friendsCount": 1258,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIm_hNaaEAADUyT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2056385525007909272",
+    "fullText": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。\n\n从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。 https://t.co/8vejZGUIeM",
+    "createdAt": "Mon May 18 14:44:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 49726,
+      "friendsCount": 2327,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2056380395520925727",
+    "fullText": "Uber &amp; ServiceNow blew through their 2026 token budgets in four months. AI is diffusing fast and finance is scrambling:\n\nhttps://t.co/lDyArQsh1R",
+    "createdAt": "Mon May 18 14:24:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 280218,
+      "friendsCount": 331,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2056375267795304453/vid/avc1/1920x1080/M4eAisuFBKhNwykc.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2056375781765386350",
+    "fullText": "Runway Characters can now take actions, not just speak. Tell the real-time video agent what you want, and they can call tools for you.\n\nLearn more about how to integrate tool calling into your product at the link below. https://t.co/PTqdUXUC7s",
+    "createdAt": "Mon May 18 14:06:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 466601,
+      "friendsCount": 1488,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2056375214729035926",
+    "fullText": "Any time I see people say a product is incredible but expensive and they still buy it I know it’s going to be a winning business",
+    "createdAt": "Mon May 18 14:03:51 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "garrytan",
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 812342,
-      "friendsCount": 5831,
+      "followersCount": 812784,
+      "friendsCount": 5832,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -23,8 +383,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 812342,
-      "friendsCount": 5831,
+      "followersCount": 812784,
+      "friendsCount": 5832,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -41,7 +401,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 279769,
+      "followersCount": 279814,
       "friendsCount": 8160,
       "location": "United States"
     },
@@ -59,8 +419,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 812342,
-      "friendsCount": 5831,
+      "followersCount": 812784,
+      "friendsCount": 5832,
       "location": "San Francisco, CA"
     },
     "images": [],
