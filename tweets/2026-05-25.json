@@ -1,1 +1,390 @@
-[]
+[
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 451928,
+      "friendsCount": 559,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2058888825284513842",
+    "fullText": "You should try \"Summarize from here\" in Claude Code.\n\nI think this is an underrated trick to deal with your ever-growing context.\n\nBasically, instead of using /compact or letting Claude Code to compact your entire session, do the following:\n\n1. Hit Esc+Esc (or type /rewind). This opens the checkpoint menu with every checkpoint Claude created during the session.\n\n2. Pick a checkpoint that came after the context you'd like to keep.\n\n3. Select \"Summarize from here.\"\n\nEverything before that checkpoint will stay exactly as it was. Everything after will get collapsed into a compact summary.\n\nYou keep the valuable early context (specs, decisions, constraints) and get rid of the crappy noise.",
+    "createdAt": "Mon May 25 12:32:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hq4ai",
+      "name": "汗青 HQ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
+      "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
+      "followersCount": 36721,
+      "friendsCount": 591,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2058869700923359233/vid/avc1/834x1112/Bvz59umw4XiWurD_.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/hq4ai/status/2058873242505670791",
+    "fullText": "https://t.co/jnnB1J82Va \nAI，是否能产生“爱”的能力？",
+    "createdAt": "Mon May 25 11:30:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282018,
+      "friendsCount": 8209,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJKSm3qXYAAsKYp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2058869178468069532",
+    "fullText": "Pope Leo XIV just released his first encyclical, Magnifica Humanitas, on the impact of Artificial Intelligence. I will be reading it today.\n\nLink to the encyclical: https://t.co/LCWAq4PXA4 https://t.co/l5QYvA1Pj2",
+    "createdAt": "Mon May 25 11:13:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282018,
+      "friendsCount": 8209,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJKRWbmWgAARvUc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2058867797002727763",
+    "fullText": "Happy Memorial Day to those who celebrate. I just talked to my normie neighbors about how AI is on path to replace all desk jobs by the end of the year. https://t.co/0KzUObowcx",
+    "createdAt": "Mon May 25 11:08:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 151208,
+      "friendsCount": 5338,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2058865159473422826",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Mon May 25 10:58:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282018,
+      "friendsCount": 8209,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2058864571855618176",
+    "fullText": "Humanity is magnificent.",
+    "createdAt": "Mon May 25 10:55:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282018,
+      "friendsCount": 8209,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJKN0AlWYAAoaA0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2058863907540717978",
+    "fullText": "concerning https://t.co/686kzEmswF",
+    "createdAt": "Mon May 25 10:53:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282018,
+      "friendsCount": 8209,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2058862306121957437",
+    "fullText": "false scarcity zero sum mindset is the root of all political extremisms",
+    "createdAt": "Mon May 25 10:46:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282018,
+      "friendsCount": 8209,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2058860747124334629",
+    "fullText": "gm\n\nwe live in the revealing times",
+    "createdAt": "Mon May 25 10:40:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2840045,
+      "friendsCount": 788,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2058844147092488401",
+    "fullText": "A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize something is written by AI, it's hard not to ignore it.",
+    "createdAt": "Mon May 25 09:34:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 49781,
+      "friendsCount": 2332,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJJ5Um3aEAA7roJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2058841376985686248",
+    "fullText": "When you run an AI agent today, more than half of what you pay for is the model re-reading the context.\n\nAnalysis: https://t.co/GgF01HSxdO https://t.co/X3wq0Eo7n1",
+    "createdAt": "Mon May 25 09:23:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SchmidhuberAI",
+      "name": "Jürgen Schmidhuber",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
+      "description": "Introduced basics of: P & T in ChatGPT, very deep learning, meta learning, neural distillation, GANs, etc. Co-authored most-cited AI paper of 20th century",
+      "followersCount": 197955,
+      "friendsCount": 0,
+      "location": "Switzerland, KSA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJJXVTtXQAANzRN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SchmidhuberAI/status/2058805106611564972",
+    "fullText": "Inflation since 1971 when gold and $ decoupled: today, $1T buys ~4% of all the gold ever mined (ATGEM). In 1971, only $5B were needed. In that sense, a trillionaire today is like a 5-billionaire of 1971, a billionaire like a 5-millionaire, a millionaire like a 5-thousandaire.\n\nSince 1971, ATGEM has roughly doubled. So has the world's population. Gold per human: still roughly 1 ounce (~28g). \n\nGold's purchasing power has remained largely unchanged since Roman times, whereas the value of all fiat currencies since then has dropped to zero or almost zero. \n\nAs of 2026, ATGEM would fit into a cube with sides measuring ~22 meters.\n\nRough estimates of historical market caps of major companies as fractions of ATGEM:\n\n★ 1971: 1 ounce of gold = $35;  IBM market cap $37B ~1/3 of ATGEM\n\n★ 2007: gold $800; Petrochina 1st public $1T company ~1/4 of ATGEM\n\n★ 2010: gold $1100; Saudi Aramco Financial Times estimate $7T > 90% of ATGEM\n\n★ 2019: gold $1560; Aramco after IPO $2T ~1/5 of ATGEM\n\n★ 2022: gold $1800; Apple 1st public $3T company ~1/4 of ATGEM\n\n★ Jul 2025: gold $3300; NVIDIA 1st public $4T company ~1/5 of ATGEM\n\n★ Oct 2025: gold $4000; NVIDIA 1st public $5T company ~1/5 of ATGEM\n\nMassive inflation is the only reason we are talking about trillions now. Recall the 1923 hyperinflation in the Weimar Republic when everyone became a multi-trillionaire.",
+    "createdAt": "Mon May 25 06:59:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "Mostly research and code. If universe is an optimizer, what is its loss function? All opinions are my own.",
+      "followersCount": 13543,
+      "friendsCount": 12951,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2058802694694039792",
+    "fullText": "One big issue with “curing the death” is that our brains are not designed to learn forever. It has limited neurons and like any big model, the learning curve eventually flattens out. If you keep going anyway, forgetting will firmly take hold and then you are essentially only living within a sliding window of ~70 yrs while unable to adapt to new world that keeps developing around you because your neurons got locked into patterns of the past.\n\nIf somehow you can solve this problem, you will essentially turn into a new person every x years, almost completely unrelated to who you were before k*x years. \n\nThis then isn’t very different from having biological children. In fact, immortality is worse than having children because you can have many of them vs just you keep transforming into someone else every x years.\n\nThe crux here is that we are finite learning machine and infinite time requires digesting infinite entropy.",
+    "createdAt": "Mon May 25 06:49:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 240128298,
+      "friendsCount": 1344,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2058787384364265734",
+    "fullText": "Grok foundation model V9-Medium (1.5T) has finished training. Evals look good. A lot of Cursor data was added in supplementary training and there is more to come.\n\nFine-tuning is underway and reinforcement learning begins in a few days. 2 to 3 weeks to public release. \n\nThis will be a major improvement over the 0.5T v8-small that currently serves all Grok production traffic, especially for difficult coding tasks.",
+    "createdAt": "Mon May 25 05:48:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 149683,
+      "friendsCount": 1257,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2058769267139690518",
+    "fullText": "刚好说起这事来了，顺便说一下推特上应该怎么转发别人的内容。\n\n如果你想做大，想做国际化的话，可以看看。毕竟海外的一些人，他不惯着你。\n\n如果说有原文，你最好是转发。然后呢你可以截他的原文在你的转发的推文上，这个一般大家是不会说你的。\n\n然后如果是视频，你可以长按去引用视频，然后在第二条推串去引用他的原推文，这样是相当于通知他，那么他如果觉得这样不好，他会来找你，那么你删掉就可以。\n\n然后你如果艾特了别人，然后直接截图的话，也可以在推串的第二条贴上它的原文。\n\n这个其实不影响你的阅读量，也分不了你多少流量。就是要有共赢思维，不要想着说把任何事情任何流量要吃干抹净。\n\n如果说你转发了他的内容，然后他不喜欢，他觉得你转发的方式不恰当的话，你也可以跟他沟通，然后首先删掉，要不就是在推串上来一个解释和声明。\n\n这些操作其实可以让你的涨粉越来越快，让你的朋友越来越多。当然，如果你的目的不是想做公域流量，那另说。",
+    "createdAt": "Mon May 25 04:36:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 467803,
+      "friendsCount": 1490,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJIsjeEWAAATRlF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2058756970694242566",
+    "fullText": "Another from the nominative determinism file…\n\nToday I learned the guy who created Tito’s Vodka has the last name “Beveridge” https://t.co/vebHfF5cAR",
+    "createdAt": "Mon May 25 03:48:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5660,
+      "friendsCount": 1161,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2058750336144424960/vid/avc1/1080x1920/az5wHFeDz-TEr6S8.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2058750408604963115",
+    "fullText": "GALBOT ROBOTICS: CHINA’S EMBODIED AI BREAKTHROUGH\n\nIn 2025, we had the “DeepSeek moment”.\n\nA Chinese startup shocked the AI world with its high performance, open source, low cost model. \n\nThen 2 months ago, we had the “Seedance moment.”\n\nLow cost Video generation reached Hollywood levels of quality.\n\nNow it’s the “Galbot moment”\n\nThese are Robots with embodied AI. \n\nThat work 24/7\n\nThat will be low cost.\n\nAnd they have already been deployed by the thousands in Chinese retail, healthcare and logistics.",
+    "createdAt": "Mon May 25 03:22:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5660,
+      "friendsCount": 1161,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJIh8ukboAATYgG.jpg",
+      "https://pbs.twimg.com/media/HJIh8uhbcAA490w.jpg",
+      "https://pbs.twimg.com/media/HJIh8uhbsAECniO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2058745318674719227",
+    "fullText": "A fascinating visit to Galbot robotics in Beijing.\n\nThe coffee stand is pretty cool. \n\nBut it’s the convenience store robot that is getting global attention. \n\nIt’s still slow. \n\nBut it does the job. \n\nIt works 24/7\n\nAnd it has a cute personality. https://t.co/5YCKj0icpr",
+    "createdAt": "Mon May 25 03:01:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5660,
+      "friendsCount": 1161,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2058743619465707609",
+    "fullText": "HUAWEI'S ENGINEERS PUSH HIGH-TECH LIMITS IN CONSUMER ELECTRONICS\n\nI recently went to the huawei consumer product innovation forum in Bangkok.\n\nHere are my takeaways. \n\n1: Huawei does continuous hardware innovation across multiple device types. \n\nThis enables proprietary features across smartphones, wearables, and tablets to build advantages that competitors cannot match.\n\n2: The PaperMatte display feels like writing on paper.\n\nThis is based on a two-step manufacturing process. \n\nFirst, the screen uses chemical etching to scatter light and create pen friction.\n\nThen magnetron sputtering of optical coatings restores 3K resolution clarity.\n\n3: Huawei’s new 4.7mm thin tablet has six speakers.\n\nIt uses integrated AI and audio tech to overcome the physical limits of a thin chassis. \n\nRead here for more.\n\nhttps://t.co/L1eHgjAWEo",
+    "createdAt": "Mon May 25 02:55:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282018,
+      "friendsCount": 8209,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2058722898941030813",
+    "fullText": "Sex is great but have you ever had an AI agent solve a Millennium Prize Problem for you?",
+    "createdAt": "Mon May 25 01:32:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282018,
+      "friendsCount": 8209,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2058721723948679299",
+    "fullText": "Valuations are Monopoly money.",
+    "createdAt": "Mon May 25 01:28:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 151208,
+      "friendsCount": 5338,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2058721035868873090",
+    "fullText": "Any Canadians in here? 🇨🇦",
+    "createdAt": "Mon May 25 01:25:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 375722,
+      "friendsCount": 843,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2058611648123064431",
+    "fullText": "Everyone is massively underestimating how FAST we're about to change our world as AGI/ASI comes on line. We're on the verge of massive scientific breakthroughs (https://t.co/E7gkKFjqzI) that will enable accelerated abundance, from Longevity to Energy breakthroughs.  Don't Blink.",
+    "createdAt": "Sun May 24 18:10:38 +0000 2026"
+  }
+]
