@@ -35,6 +35,8 @@ const stats = {
   quotes: 0,
   old: 0,
   missingIdentity: 0,
+  missingScreenName: 0,
+  missingTweetId: 0,
 };
 
 const rows: FormattedTweetData[] = [];
@@ -67,24 +69,32 @@ resp.data.data.forEach((tweet: TweetApiUtilsData) => {
     stats.old += 1;
     return;
   }
-  const screenName = tweet.user.legacy.screenName;
+  const userLegacy = tweet.user.legacy;
+  const userCore = tweet.user.core;
+  const screenName = userLegacy.screenName ?? userCore?.screenName;
   const tweetIdStr = legacy.idStr || tweet.tweet.restId;
 
   if (!screenName || !tweetIdStr) {
     stats.missingIdentity += 1;
+    if (!screenName) {
+      stats.missingScreenName += 1;
+    }
+    if (!tweetIdStr) {
+      stats.missingTweetId += 1;
+    }
     return;
   }
 
   const tweetUrl = `https://x.com/${screenName}/status/${tweetIdStr}`;
   // 提取用户信息
   const user = {
-    screenName: tweet.user.legacy.screenName,
-    name: tweet.user.legacy.name,
-    profileImageUrl: tweet.user.legacy.profileImageUrlHttps,
-    description: tweet.user.legacy.description,
-    followersCount: tweet.user.legacy.followersCount,
-    friendsCount: tweet.user.legacy.friendsCount,
-    location: tweet.user.legacy.location,
+    screenName,
+    name: userLegacy.name ?? userCore?.name,
+    profileImageUrl: userLegacy.profileImageUrlHttps ?? tweet.user.avatar?.imageUrl,
+    description: userLegacy.description ?? tweet.user.profileBio?.description,
+    followersCount: userLegacy.followersCount,
+    friendsCount: userLegacy.friendsCount,
+    location: userLegacy.location ?? tweet.user.location?.location,
   };
 
   // 提取图片
