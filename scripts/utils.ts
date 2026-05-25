@@ -3,21 +3,26 @@ import axios from "axios";
 import { TwitterApi } from 'twitter-api-v2';
 
 export const _xClient = async (TOKEN: string) => {
-  console.log("🚀 ~ const_xClient= ~ TOKEN:", TOKEN)
+  if (!TOKEN) {
+    throw new Error("Missing X auth token");
+  }
+
   const resp = await axios.get("https://x.com/manifest.json", {
     headers: {
       cookie: `auth_token=${TOKEN}`,
     },
   });
-  
+
   const resCookie = resp.headers["set-cookie"] as string[];
+  if (!resCookie?.length) {
+    throw new Error("Failed to get X session cookies. The auth token may be expired.");
+  }
+
   const cookieObj = resCookie.reduce((acc: Record<string, string>, cookie: string) => {
     const [name, value] = cookie.split(";")[0].split("=");
     acc[name] = value;
     return acc;
   }, {});
-
-  console.log("🚀 ~ cookieObj ~ cookieObj:", JSON.stringify(cookieObj, null, 2))
 
   const api = new TwitterOpenApi();
   const client = await api.getClientFromCookies({...cookieObj, auth_token: TOKEN});

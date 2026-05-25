@@ -4,7 +4,8 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
-    "@types/fs-extra": "^11.0.4"
+    "@types/fs-extra": "^11.0.4",
+    "@types/lodash": "^4.17.24"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
@@ -16,6 +17,6 @@
     "fs-extra": "^11.2.0",
     "lodash": "^4.17.21",
     "twitter-api-v2": "^1.18.2",
-    "twitter-openapi-typescript": "^0.0.45"
+    "twitter-openapi-typescript": "0.0.56"
   }
 }

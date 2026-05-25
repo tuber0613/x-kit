@@ -5,8 +5,9 @@ import { XAuthClient } from "./utils";
 const client = await XAuthClient();
 
 export const printTweet = (tweet: TweetApiUtilsData) => {
+  const screenName = tweet.user.legacy.screenName ?? "";
   console.log(
-    `${tweet.user.legacy.screenName}: ${tweet.tweet.legacy?.fullText}`.replace(
+    `${screenName}: ${tweet.tweet.legacy?.fullText}`.replace(
       /\n/g,
       " "
     )
@@ -18,7 +19,8 @@ export const printTweet = (tweet: TweetApiUtilsData) => {
 };
 
 export const printLegacyTweet = (user: i.UserLegacy, tweet: i.TweetLegacy) => {
-  const text = `${user.screenName.padStart(20)}: ${tweet.fullText}`.replace(
+  const screenName = user.screenName ?? "";
+  const text = `${screenName.padStart(20)}: ${tweet.fullText}`.replace(
     /\n/g,
     " "
   );
@@ -30,4 +32,3 @@ const resp = await client.getTweetApi().getUserTweets({
 });
 
 resp.data.data.filter((e) => !e.promotedMetadata).forEach((e) => printTweet(e));
-
