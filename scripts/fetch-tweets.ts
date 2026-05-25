@@ -1,5 +1,5 @@
 import { XAuthClient } from "./utils";
-import { get } from "lodash";
+import type { TweetApiUtilsData } from "twitter-openapi-typescript";
 import dayjs from "dayjs";
 import fs from "fs-extra";
 
@@ -27,70 +27,87 @@ const resp = await client.getTweetApi().getHomeLatestTimeline({
   count: 100,
 });
 
-// The type from the API response might be different, let's keep tweet as any for simplicity here
-// or infer it if possible, but for now 'any' avoids issues with filtering.
-const originalTweets: any[] = resp.data.data.filter((tweet: any) => { // Explicitly use any for tweet here
-  // The linter error on referenced_tweets suggests the original type might be wrong anyway
-  return !tweet.referenced_tweets || tweet.referenced_tweets.length === 0;
-});
+const stats = {
+  total: resp.data.data.length,
+  promoted: 0,
+  missingLegacy: 0,
+  retweets: 0,
+  quotes: 0,
+  old: 0,
+  missingIdentity: 0,
+};
 
-const rows: FormattedTweetData[] = []; // Use our custom type
-// 输出所有原创推文的访问地址
-originalTweets.forEach((tweet) => { // tweet is still any from filtering
-  const isQuoteStatus = get(tweet, "raw.result.legacy.isQuoteStatus");
-  if (isQuoteStatus) {
+const rows: FormattedTweetData[] = [];
+
+resp.data.data.forEach((tweet: TweetApiUtilsData) => {
+  if (tweet.promotedMetadata) {
+    stats.promoted += 1;
     return;
   }
-  const fullText = get(tweet, "raw.result.legacy.fullText", "RT @");
-  if (fullText?.includes("RT @")) {
+
+  const legacy = tweet.tweet.legacy;
+  if (!legacy) {
+    stats.missingLegacy += 1;
     return;
   }
-  const createdAt = get(tweet, "raw.result.legacy.createdAt");
-  // return if more than 1 days
+
+  const fullText =
+    tweet.tweet.noteTweet?.noteTweetResults.result.text ?? legacy.fullText;
+  if (tweet.retweeted || fullText?.startsWith("RT @")) {
+    stats.retweets += 1;
+    return;
+  }
+  if (tweet.quoted || legacy.isQuoteStatus) {
+    stats.quotes += 1;
+    return;
+  }
+
+  const createdAt = legacy.createdAt;
   if (dayjs().diff(dayjs(createdAt), "day") > 1) {
+    stats.old += 1;
     return;
   }
-  const screenName = get(tweet, "user.legacy.screenName");
-  const tweetIdStr = get(tweet, "raw.result.legacy.idStr"); // Get ID string once
+  const screenName = tweet.user.legacy.screenName;
+  const tweetIdStr = legacy.idStr || tweet.tweet.restId;
 
-  if (!screenName || !tweetIdStr) { // Add basic check
-      console.warn("Skipping tweet due to missing screenName or ID:", JSON.stringify(tweet).substring(0, 200) + '...'); // Log truncated tweet
-      return;
+  if (!screenName || !tweetIdStr) {
+    stats.missingIdentity += 1;
+    return;
   }
 
   const tweetUrl = `https://x.com/${screenName}/status/${tweetIdStr}`;
   // 提取用户信息
   const user = {
-    screenName: get(tweet, "user.legacy.screenName"),
-    name: get(tweet, "user.legacy.name"),
-    profileImageUrl: get(tweet, "user.legacy.profileImageUrlHttps"),
-    description: get(tweet, "user.legacy.description"),
-    followersCount: get(tweet, "user.legacy.followersCount"),
-    friendsCount: get(tweet, "user.legacy.friendsCount"),
-    location: get(tweet, "user.legacy.location"),
+    screenName: tweet.user.legacy.screenName,
+    name: tweet.user.legacy.name,
+    profileImageUrl: tweet.user.legacy.profileImageUrlHttps,
+    description: tweet.user.legacy.description,
+    followersCount: tweet.user.legacy.followersCount,
+    friendsCount: tweet.user.legacy.friendsCount,
+    location: tweet.user.legacy.location,
   };
 
   // 提取图片
-  const mediaItems = get(tweet, "raw.result.legacy.extendedEntities.media", []);
+  const mediaItems = legacy.extendedEntities?.media ?? legacy.entities?.media ?? [];
   const images = mediaItems
-    .filter((media: any) => media.type === "photo")
-    .map((media: any) => media.mediaUrlHttps);
+    .filter((media) => media.type === "photo")
+    .map((media) => media.mediaUrlHttps);
 
   // 提取视频
   const videos = mediaItems
     .filter(
-      (media: any) => media.type === "video" || media.type === "animated_gif"
+      (media) => media.type === "video" || media.type === "animated_gif"
     )
-    .map((media: any) => {
-      const variants = get(media, "videoInfo.variants", []);
+    .map((media) => {
+      const variants = media.videoInfo?.variants ?? [];
       const bestQuality = variants
-        .filter((v: any) => v.contentType === "video/mp4")
-        .sort((a: any, b: any) => (b.bitrate || 0) - (a.bitrate || 0))[0];
+        .filter((v) => v.contentType === "video/mp4")
+        .sort((a, b) => (b.bitrate || 0) - (a.bitrate || 0))[0];
       return bestQuality?.url;
     })
     .filter(Boolean);
 
-  rows.push({ // This object now matches FormattedTweetData
+  rows.push({
     user,
     images,
     videos,
@@ -99,6 +116,10 @@ originalTweets.forEach((tweet) => { // tweet is still any from filtering
     createdAt,
   });
 });
+
+console.log(
+  `Timeline filter summary: ${JSON.stringify({ ...stats, saved: rows.length })}`
+);
 
 const outputPath = `./tweets/${dayjs().format("YYYY-MM-DD")}.json`;
 let existingRows: FormattedTweetData[] = []; // Use our custom type
