@@ -1,11 +1,182 @@
 [
   {
     "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 61440,
+      "friendsCount": 10897,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJLsfekbsAARJld.jpg",
+      "https://pbs.twimg.com/media/HJLslC6bcAABkj0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2058968283471331528",
+    "fullText": "snazzy new autoscientist page on the @adaption_ai  website \n\nBeta is now open :) https://t.co/dz0HpAR5Cj",
+    "createdAt": "Mon May 25 17:47:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DavidSHolz",
+      "name": "David",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
+      "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
+      "followersCount": 100168,
+      "friendsCount": 10175,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DavidSHolz/status/2058965000090452384",
+    "fullText": "SpaceX put 10 megawatts of solar power in space across 3000 gen1 Starlink satellites, then they put 100 megawatts in space with 7000 gen2. soon, they're doing 1000 megawatts with gen3. SpaceX is basically 10xing space solar every few years!",
+    "createdAt": "Mon May 25 17:34:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKs4uX",
+      "followersCount": 305133,
+      "friendsCount": 846,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJLpZjqbAAErvcR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2058964609357484220",
+    "fullText": "/goal is really insane!\n\nIt's how you can get the most out of coding agents today.\n\nFor efficiency, I find it works best when you do planning before /goal. This ensures the agent has the right context and goal, which often only happens with careful planning. https://t.co/DFHHFklBqP",
+    "createdAt": "Mon May 25 17:33:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282081,
+      "friendsCount": 8208,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2058959544437350833",
+    "fullText": "You are working on a world model.\n\nI am working on a world war model.\n\nWe are not the same.",
+    "createdAt": "Mon May 25 17:13:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 375757,
+      "friendsCount": 843,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2058956956077871275",
+    "fullText": "An OpenAI model just disproved an 80 year old math conjecture from Paul Erdos, one of the most prolific mathematicians in history. \nWe're going to SOLVE everything.",
+    "createdAt": "Mon May 25 17:02:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. New AI learning portal: https://t.co/LRnpZN7L4c",
+      "followersCount": 123888,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJLa9crbsAQ2rwF.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2058948732658626789",
+    "fullText": "// The Efficiency Frontier in LLMs //\n\n(bookmark this one)\n\nHow much are you overpaying for context you do not need?\n\nIt turns out that context costs dominate production LLM bills, and the right strategy depends on how often you reuse preprocessing. Modeling that explicitly lets you pick the cheapest point that still hits your target quality.\n\nThis work treats context-strategy selection as a deployment-aware optimization problem instead of a fixed choice, using amortized cost modeling across performance, token cost, and preprocessing reuse.\n\nIt achieves roughly 25% token savings at equal F1 (around 0.78), and amortized memory compression delivers more than 50% lower token cost versus full-context in high-performance settings. Tested on 5,000 HotpotQA instances.\n\nPaper: https://t.co/UQGJb49Pi5\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Mon May 25 16:30:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 423930,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJLZTwOaMAADOi9.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2058947061454962862",
+    "fullText": "😫 https://t.co/flZJcZRYLf",
+    "createdAt": "Mon May 25 16:23:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 345346,
+      "friendsCount": 20499,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2058941302897525147",
+    "fullText": "What’s an invention you feel deserves more credit?",
+    "createdAt": "Mon May 25 16:00:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2847105,
+      "friendsCount": 789,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2058936567440322876",
+    "fullText": "TIL the vertical stabilizer of the 747SP was 5 feet taller. I knew there was something strange about it.",
+    "createdAt": "Mon May 25 15:41:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKs4uX",
+      "followersCount": 305133,
+      "friendsCount": 846,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJLPhpfaAAANQVt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2058936160291004483",
+    "fullText": "New research from Microsoft Research\n\nI see a lot of AI engineers handwriting agent skill docs and hope they generalize.\n\nProbably not optimal. This works show why.\n\nIt treats the skill doc as a trainable external state of a frozen agent instead.\n\nIt introduces SkillOpt, where an optimizer model makes validation-gated edits to the skill file. It adds, deletes, or replaces instructions, with a textual learning rate that controls how aggressively each round rewrites the doc. The agent itself never changes.\n\nSkillOpt is best or tied on all 52 (model, benchmark, harness) cells.\n\nOn GPT-5.5 it adds 23.5 points in direct chat, 24.8 with Codex, and 19.1 with Claude Code over no skill. It beats human-written skills, TextGrad, GEPA, and EvoSkill, carries zero extra inference-time cost, and the learned skills transfer across models and harnesses.\n\nPaper: https://t.co/mNgTmmT32U\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Mon May 25 15:40:08 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "garrytan",
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 829867,
+      "followersCount": 830260,
       "friendsCount": 5839,
       "location": "San Francisco, CA"
     },
@@ -21,7 +192,7 @@
       "name": "Qwen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
       "description": "Open foundation models for AGI.",
-      "followersCount": 214279,
+      "followersCount": 214319,
       "friendsCount": 6,
       "location": ""
     },
@@ -37,7 +208,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 451925,
+      "followersCount": 451929,
       "friendsCount": 559,
       "location": "🇺🇸 Collaborations →"
     },
@@ -55,7 +226,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 375747,
+      "followersCount": 375757,
       "friendsCount": 843,
       "location": ""
     },
@@ -71,7 +242,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 133359,
+      "followersCount": 133367,
       "friendsCount": 534,
       "location": ""
     },
@@ -89,7 +260,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 149728,
+      "followersCount": 149759,
       "friendsCount": 1257,
       "location": ""
     },
@@ -126,8 +297,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 282056,
-      "friendsCount": 8209,
+      "followersCount": 282081,
+      "friendsCount": 8208,
       "location": "United States"
     },
     "images": [
@@ -144,8 +315,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 282056,
-      "friendsCount": 8209,
+      "followersCount": 282081,
+      "friendsCount": 8208,
       "location": "United States"
     },
     "images": [],
@@ -160,7 +331,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 375747,
+      "followersCount": 375757,
       "friendsCount": 843,
       "location": ""
     },
@@ -176,7 +347,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 375747,
+      "followersCount": 375757,
       "friendsCount": 843,
       "location": ""
     },
@@ -194,7 +365,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 423911,
+      "followersCount": 423930,
       "friendsCount": 621,
       "location": ""
     },
@@ -210,7 +381,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 375747,
+      "followersCount": 375757,
       "friendsCount": 843,
       "location": ""
     },
@@ -226,7 +397,7 @@
       "name": "Chris Olah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1422800200146378753/TdaSuRIB_normal.jpg",
       "description": "Reverse engineering neural networks at @AnthropicAI. Previously @distillpub, OpenAI Clarity Team, Google Brain. Personal account.",
-      "followersCount": 145887,
+      "followersCount": 146313,
       "friendsCount": 182,
       "location": "San Francisco, CA"
     },
@@ -242,7 +413,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 467820,
+      "followersCount": 467836,
       "friendsCount": 1490,
       "location": "Austin, TX"
     },
@@ -258,8 +429,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 282056,
-      "friendsCount": 8209,
+      "followersCount": 282081,
+      "friendsCount": 8208,
       "location": "United States"
     },
     "images": [
@@ -276,7 +447,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -294,7 +465,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -312,7 +483,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -330,8 +501,8 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Often on TV. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
-      "followersCount": 223394,
-      "friendsCount": 6996,
+      "followersCount": 223411,
+      "friendsCount": 6997,
       "location": ""
     },
     "images": [],
@@ -346,7 +517,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -364,7 +535,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -382,7 +553,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -400,7 +571,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -418,7 +589,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -436,7 +607,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -454,7 +625,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -472,7 +643,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -490,7 +661,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -508,7 +679,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -526,7 +697,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485671,
+      "followersCount": 485676,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -730,7 +901,7 @@
       "name": "Jürgen Schmidhuber",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
       "description": "Introduced basics of: P & T in ChatGPT, very deep learning, meta learning, neural distillation, GANs, etc. Co-authored most-cited AI paper of 20th century",
-      "followersCount": 197973,
+      "followersCount": 197983,
       "friendsCount": 0,
       "location": "Switzerland, KSA"
     },
