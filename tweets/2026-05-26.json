@@ -1,11 +1,250 @@
 [
   {
     "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 106526,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2059380537555649004",
+    "fullText": "One-shot LLM training demands reliable scaling laws to predict model behavior, but current scaling techniques are compute-intensive. New research introduces a method that reduces training demands significantly, lowering the time and cost of scaling: https://t.co/7q9orSnk5h",
+    "createdAt": "Tue May 26 21:05:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 334686,
+      "friendsCount": 114,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2059378786617962972",
+    "fullText": "AI agents seem to be increasingly capable of performing economically valuable tasks, but current benchmarks measure this capability only narrowly.\n\nZora Z. Wang and colleagues at Carnegie Mellon University and Stanford University mapped examples drawn from agent benchmarks to statistics that represent U.S. labor. The mapping revealed a mismatch between the tests, which generally emphasize software development, and the more varied work most people do.\n\nRead the full article in The Batch: https://t.co/RVm3dhlRIE",
+    "createdAt": "Tue May 26 20:58:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70566,
+      "friendsCount": 35007,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HJReoztXcAA9oJP.mp4"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2059374996040872423",
+    "fullText": "micron is worth more than berkshire https://t.co/jvsVamadIc",
+    "createdAt": "Tue May 26 20:43:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282503,
+      "friendsCount": 8213,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2059374838867706355",
+    "fullText": "Without Googling name a social media platform that’s only one letter in length.",
+    "createdAt": "Tue May 26 20:43:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 250715,
+      "friendsCount": 144,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJRZIiFXUAAYCia.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2059369183486546341",
+    "fullText": "Mission Control: A decoupled, in-cluster application for deploying, configuring, observing, & troubleshooting self-hosted LangSmith + related LangChain infrastructure.\n\nRuns inside Kubernetes. Accessed locally.\n✅ No ingress\n✅ No external control plane\n✅ No additional database required",
+    "createdAt": "Tue May 26 20:20:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NaveenGRao",
+      "name": "Naveen Rao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1846057841934606337/CGG3iJKT_normal.jpg",
+      "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
+      "followersCount": 37479,
+      "friendsCount": 940,
+      "location": "San Diego, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NaveenGRao/status/2059365832472526908",
+    "fullText": "I know it's en vogue to crap on SaaS right now, but there is/was an important function there: cross-customer pattern sharing. SaaS observed how their segment used a tool, then built that repeated pattern into the tool without leaking customer proprietary info. They get paid if they do it well.\nIn AI, I DO NOT want proprietary info going to the model provider. But, as a user, I do benefit if some aspects of what I do were built into the AI model. There needs to be a clean way to manage this and monetize it. And it's more than just prompt management.",
+    "createdAt": "Tue May 26 20:07:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 90828,
+      "friendsCount": 1092,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJRUof3XkAAkD7b.jpg",
+      "https://pbs.twimg.com/media/HJRUptTXgAAEKJK.png",
+      "https://pbs.twimg.com/media/HJRUq7QXkAAzWJt.jpg",
+      "https://pbs.twimg.com/media/HJRUsJQXgAAy7VY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2059364067882451042",
+    "fullText": "Legacy data warehouses were not built for the scale, flexibility, and AI workloads modern teams are trying to support.\n\nThis eBook explores how organizations are modernizing on Databricks with:\n• Elastic scalability\n• Lower infrastructure costs\n• Support for real-time analytics, AI, and ML\n\nLearn practical migration strategies using POCs, MVPs, and Databricks-native tools designed to reduce risk and help teams move faster.\nhttps://t.co/x7qLH8Jz5A",
+    "createdAt": "Tue May 26 20:00:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282503,
+      "friendsCount": 8213,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2059358112922907090",
+    "fullText": "I can’t wait for the String Theory bubble to pop.",
+    "createdAt": "Tue May 26 19:36:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282503,
+      "friendsCount": 8213,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJRN3XaXcAAEXaq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2059356547273081031",
+    "fullText": "The future political division between three remaining super intelligent AIs: Anthropic (black), Mistral (red), and DeepSeek (yellow). 'Disputed territories' are indicated in grey. https://t.co/t5Sbswdl9I",
+    "createdAt": "Tue May 26 19:30:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 354938,
+      "friendsCount": 12825,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2059353717674299453",
+    "fullText": "the new state of things does not encourage \ndeep work or craft except in people who have a really Benedictine self discipline",
+    "createdAt": "Tue May 26 19:19:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 345364,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2059353020614520832/vid/avc1/1280x720/LfzeiAgYB4wi235p.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2059353117934899289",
+    "fullText": "GPT-5.5 in Codex helps @databricks parse complex customer documents more reliably. https://t.co/LNWyRIrOhI",
+    "createdAt": "Tue May 26 19:16:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 451951,
+      "friendsCount": 559,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2059351383497945088/vid/avc1/1280x720/XoYsTmQGemteMvhW.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2059351503094391068",
+    "fullText": "Agents changed software forever. For everyone.\n\nYou won't need to \"learn a tool\" anymore.\n\nInstead, you'll tell tools what you want, and they will figure out how to do it.\n\nThis is a huge shift.\n\nI'm currently working with Spoki, an AI agentic conversational platform.\n\nAfter looking at this, you'll never think of a CRM the same way.\n\nA traditional CRM manages contact data. Spoki manages the entire customer journey (marketing, sales, and customer care) in a single continuous flow across WhatsApp, SMS, and Voice AI.\n\nAI will dismantle the old traditional tools one by one.\n\nThink of it this way:\n\nInstead of stitching together a bunch of tools to talk to your customers, you have a single conversation that runs the entire relationship.",
+    "createdAt": "Tue May 26 19:10:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1292673,
+      "friendsCount": 36,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2059351260243919269",
+    "fullText": "New on the Engineering Blog: The access and permissions we grant agents should evolve with their capabilities. In our own products, we set these parameters through sandboxing, which limits the scope of any potentially destructive actions.\n\nRead more: https://t.co/KfBKW8O9kP",
+    "createdAt": "Tue May 26 19:09:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "Building Beneficial AGI - CEO @asi_alliance @singularitynet, @true_agi , Interim CEO @Singularity_Fi, @SophiaVerse_AI, Chair @opencog  @HumanityPlus  @iCog_Labs",
+      "followersCount": 76730,
+      "friendsCount": 1663,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2059351194922017214",
+    "fullText": "https://t.co/pGxZE6WkVc",
+    "createdAt": "Tue May 26 19:09:20 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "mustafasuleyman",
       "name": "Mustafa Suleyman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
       "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
-      "followersCount": 453777,
+      "followersCount": 454393,
       "friendsCount": 495,
       "location": "Redmond, WA"
     },
@@ -23,7 +262,7 @@
       "name": "Microsoft AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
       "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
-      "followersCount": 7354,
+      "followersCount": 7421,
       "friendsCount": 24,
       "location": ""
     },
