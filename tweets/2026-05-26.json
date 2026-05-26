@@ -1,11 +1,223 @@
 [
   {
     "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 453777,
+      "friendsCount": 495,
+      "location": "Redmond, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJRDuJKbsAAbMCN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2059346031167570299",
+    "fullText": "Meet MAI-Image-2.5 - ranked third on the @arena text-to-image leaderboard. It's another great advance in quality. And with Build just a week away, there's much more to come from the @MicrosoftAI team. I can't wait. https://t.co/11wx96Z04a",
+    "createdAt": "Tue May 26 18:48:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MicrosoftAI",
+      "name": "Microsoft AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
+      "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
+      "followersCount": 7354,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJQ0mU5XYAAC09T.png",
+      "https://pbs.twimg.com/media/HJQ0mhWWwAAWGfu.jpg",
+      "https://pbs.twimg.com/media/HJQ0mttXoAA25PG.png",
+      "https://pbs.twimg.com/media/HJQ0m6cWoAACVdA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MicrosoftAI/status/2059344061358563838",
+    "fullText": "Meet MAI-Image-2.5 - ranked third on the @arena text-to-image leaderboard. It's another great advance in quality. And with Build just a week away, there is much more to come. Learn more here: https://t.co/ivKxyP6jQD https://t.co/1W6BSN9zLq",
+    "createdAt": "Tue May 26 18:40:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 376263,
+      "friendsCount": 843,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2059341449813020904",
+    "fullText": "Optimism is NOT about ignoring problems.",
+    "createdAt": "Tue May 26 18:30:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 90810,
+      "friendsCount": 1092,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJQ6V6jWgAAPkuI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2059335098936201337",
+    "fullText": "It’s official: Databricks is recognized as a @FortuneMagazine Best Workplace in the Bay Area for 2026, produced in partnership with @GPTW_US!\n\nIn a region defined by technical breakthroughs, this award speaks directly to our mission: solving the toughest problems in data and AI while raising the bar for what a tech workforce can achieve.\n\nSee the full list and explore our open roles: https://t.co/yVc5RzYatK",
+    "createdAt": "Tue May 26 18:05:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. New AI learning portal: https://t.co/LRnpZN7L4c",
+      "followersCount": 123960,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJQ5K3jagAEe1UN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2059333792775745619",
+    "fullText": "// Language Models Need Sleep //\n\nLet your agents \"sleep\", folks.\n\nOn a serious note, this is a fascinating paper on getting the most from long-horizon agents.\n\nHere is the problem with agents today: Attention scales badly with context length, so long-horizon agents keep paying a quadratic tax at inference time.\n\nThis work proposes a sleep-like consolidation step instead. The model periodically does N offline recurrent passes over recent context, writes the result into persistent fast weights in its state-space blocks, then clears the KV cache.\n\nThe effect is that extra compute moves to sleep while wake-time prediction stays low latency. On cellular automata, multi-hop graph retrieval, and a math reasoning task where a plain transformer and SSM-attention hybrids fail, longer sleep durations improve performance, with the biggest gains on examples that need deeper reasoning.\n\nWhy does it matter?\n\nIt points at an alternative to ever-larger KV caches for agents that run for a long time. Consolidate, then forget the raw tokens.\n\nPaper: https://t.co/FfDTbhl98M\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Tue May 26 18:00:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 297980,
+      "friendsCount": 873,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2059333762685538614",
+    "fullText": "From the Lab: Text Diffusion and Elastic Reasoning | Nemotron Labs https://t.co/BJt78rLjnb",
+    "createdAt": "Tue May 26 18:00:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "midjourney",
+      "name": "Midjourney",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
+      "description": "A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.",
+      "followersCount": 416811,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/midjourney/status/2059329023696867692",
+    "fullText": "We're doing a small hangout for Midjourney members in San Francisco on Thursday, if you're in the bay area come by! ❤️ \nhttps://t.co/NizvO4lsuM",
+    "createdAt": "Tue May 26 17:41:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 250712,
+      "friendsCount": 144,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJQukcNaUAAp1MB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2059322165858889959",
+    "fullText": "LangChain Academy Course: LangSmith Fleet Essentials\n\nLearn how to build your own agents with LangSmith Fleet. Anyone can now build, use, and manage an agent fleet for complex daily tasks, without writing code.\n\nIn this quickstart course, you'll learn how to build and improve your own email agent.\n\nEnroll for free ➡️ https://t.co/bAuTSwOMjr",
+    "createdAt": "Tue May 26 17:13:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
+      "followersCount": 223674,
+      "friendsCount": 7004,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJQs5oxb0AEBaFD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2059320300031094999",
+    "fullText": "“pass me the crack pipe”\n\n@edels0n on SpaceX’s ludicrous valuation: https://t.co/RwnVbKdHrm",
+    "createdAt": "Tue May 26 17:06:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 424082,
+      "friendsCount": 624,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2059316921355628993",
+    "fullText": "It feels like replies are going to have to move to a trust based system due to AI. If anyone can generate a plausible one, it doesn't seem to be valuable for the algo. Thus, I foresee only my follows and my follow's follows as   the new default.",
+    "createdAt": "Tue May 26 16:53:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 133434,
+      "friendsCount": 534,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2059315699739193344/vid/avc1/1920x1080/UB4ZxfH9p8Lc5IX3.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2059316886551118268",
+    "fullText": "Eekjun Yang - Co-Founder & Director of Mateo AI Studio, Director at MBC C&I AI Content Lab:\n\n“For storytellers, emotion is everything. Kling AI nails emotional depth in its characters. Its Multi-Angle Shot adds cinematic quality with consistent character integrity. And the newwst native 4K function elevates AI films to theatrical standards.”",
+    "createdAt": "Tue May 26 16:53:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
+      "followersCount": 223674,
+      "friendsCount": 7004,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJQmdn7aYAA3r8R.jpg",
+      "https://pbs.twimg.com/media/HJQmdnwboAAiWKp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2059313680035254594",
+    "fullText": "Anthropic: fantasy versus reality. https://t.co/aiufHM8RDe",
+    "createdAt": "Tue May 26 16:40:16 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GeminiApp",
       "name": "Google Gemini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 509301,
+      "followersCount": 509403,
       "friendsCount": 47,
       "location": "Mountain View, CA"
     },
@@ -21,8 +233,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 282424,
-      "friendsCount": 8213,
+      "followersCount": 282466,
+      "friendsCount": 8214,
       "location": "United States"
     },
     "images": [],
@@ -37,7 +249,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 376192,
+      "followersCount": 376263,
       "friendsCount": 843,
       "location": ""
     },
@@ -53,7 +265,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 345394,
+      "followersCount": 345403,
       "friendsCount": 20498,
       "location": "Cambridge, MA"
     },
@@ -71,7 +283,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
-      "followersCount": 1440804,
+      "followersCount": 1440909,
       "friendsCount": 279,
       "location": "London, UK"
     },
@@ -89,8 +301,8 @@
       "name": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
-      "followersCount": 223647,
-      "friendsCount": 7003,
+      "followersCount": 223674,
+      "friendsCount": 7004,
       "location": ""
     },
     "images": [
@@ -107,7 +319,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 90806,
+      "followersCount": 90810,
       "friendsCount": 1092,
       "location": "HQ: San Francisco, CA"
     },
@@ -125,7 +337,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 833460,
+      "followersCount": 833918,
       "friendsCount": 5841,
       "location": "San Francisco, CA"
     },
@@ -141,7 +353,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 142236,
+      "followersCount": 142249,
       "friendsCount": 3241,
       "location": "on ⛓"
     },
@@ -157,7 +369,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70548,
+      "followersCount": 70560,
       "friendsCount": 34999,
       "location": "latent space"
     },
@@ -173,7 +385,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. New AI learning portal: https://t.co/LRnpZN7L4c",
-      "followersCount": 123957,
+      "followersCount": 123960,
       "friendsCount": 1,
       "location": ""
     },
@@ -192,7 +404,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
       "followersCount": 151196,
-      "friendsCount": 5339,
+      "friendsCount": 5338,
       "location": "Montréal · Québec"
     },
     "images": [
@@ -209,7 +421,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 451939,
+      "followersCount": 451948,
       "friendsCount": 559,
       "location": "🇺🇸 Collaborations →"
     },
@@ -245,7 +457,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70548,
+      "followersCount": 70560,
       "friendsCount": 34999,
       "location": "latent space"
     },
@@ -383,7 +595,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2873328,
+      "followersCount": 2876741,
       "friendsCount": 789,
       "location": ""
     },
