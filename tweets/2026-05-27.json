@@ -1,6 +1,506 @@
 [
   {
     "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 151246,
+      "friendsCount": 5339,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVpjizWYAEFrcb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2059668506786836846",
+    "fullText": "Scientific simulation has a brutal tradeoff:\n\nfast is usually coarse,\naccurate is usually expensive.\n\nA new paper by Jiahe Huang, Sihan Xu, Sharvaree Vadgama, and Rose Yu proposes a serious way through that bottleneck:\n\nRecursive Flow Matching.\n\nThe target is one of the hardest problems in scientific ML:\n\nforecasting complex spatiotemporal dynamics without paying the full cost of traditional solvers or slow generative samplers.\n\nThink fluid flow.\nClimate fields.\nSea surface temperature.\nAcoustic wave propagation.\nHigh-dimensional systems where accuracy, stability, and speed all matter.\n\nDiffusion-based emulators can be powerful, but they often require many sequential denoising steps.\n\nVanilla flow matching is faster, but aggressive step reduction can degrade fidelity, especially in long rollouts.\n\nRecFM changes the geometry of the generation path.\n\nInstead of learning one trajectory through time, it learns a family of recursively scaled trajectories that intersect at shared spatial states.\n\nThen it enforces consistency across those scales.\n\nThat is the core move:\n\nsame state\ndifferent discretizations\naligned velocities\nconsistent trajectories\n\nIn plain English:\n\nif a model reaches the same physical state through a large step or several smaller steps, its dynamics should agree.\n\nThis self-consistency reduces discretization error and stabilizes one- and few-step generation.\n\nThat matters because real-time scientific emulation cannot afford hundreds of sampling steps.\n\nThe paper reports that RecFM achieves high-fidelity 1-step and 2–4-step dynamic generation with performance comparable to state-of-the-art multi-step solvers.\n\nAcross scientific benchmarks, it reaches up to a 20× speedup over leading diffusion-based emulators while improving predictive accuracy, and reduces MSE by over 15% compared to vanilla flow matching.\n\nOn Helmholtz Staircase, the reported gains are especially striking: RecFM captures wave propagation patterns where the strongest baseline struggles, with much lower error.\n\nThe deeper lesson:\n\nfor scientific generative models, the future may not be “more steps.”\n\nIt may be better trajectory geometry.\n\nRecFM suggests that if we enforce consistency across scales, we can preserve physical fidelity while collapsing inference into one or a few steps.\n\nThat is exactly the kind of capability needed for real-time emulation in climate, fluids, materials, and complex physical systems.\n\nFull credit to the authors:\nJiahe Huang, Sihan Xu, Sharvaree Vadgama, Rose Yu.\n\nPaper:\nRecursive Flow Matching\nhttps://t.co/D7Rd7WYlyc\n\nProject:\nhttps://t.co/V55Ef1COx3\n\nI’m attaching the first page because the abstract is worth reading closely.\n\nThe next generation of scientific emulators may not just simulate faster.\n\nThey may learn trajectories that remain coherent across time scales.\n\n#AIResearch #ScientificMachineLearning #GenerativeModels #PhysicsAI #MachineLearning #ClimateAI",
+    "createdAt": "Wed May 27 16:10:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282727,
+      "friendsCount": 8216,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2059668212954931363",
+    "fullText": "Creation is a choice.",
+    "createdAt": "Wed May 27 16:09:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282727,
+      "friendsCount": 8216,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2059667250794078554",
+    "fullText": "Why are you, a grown man, wearing a cheap plastic Roman helmet?",
+    "createdAt": "Wed May 27 16:05:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
+      "followersCount": 223751,
+      "friendsCount": 7009,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2059666956723089790",
+    "fullText": "If we had done everything I suggested in my 2020 arXiv article “The Next Decade in AI”, we might actually have reached AGI by now.\n\nIn the last three years, after a detour driven by the false promise of pure scaling, we have gone a long way to the first of the four goals I laid out: neurosymbolic AI. (Claude Code; DeepMind’s new math system that solved 9 Erdos problems, etc). Harnesses and tools, for example.\n\nBut the field has made little progress on the other three:\n- databases of explicit, systematic, machine interpretable knowledge [LLMs are a partial but inadequate/unreliably substitute]\n- reliable reasoning systems that can work with partial and incomplete information\n- the ability to represent and induce explicit world models (which I called cognitive models in 2020) that AI systems can reason over.\n\nAn excess commitment to pure scaling delayed all of these.\n\nIf we focus on the other three AGI may be achievable, possibly in the next decade.",
+    "createdAt": "Wed May 27 16:04:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 280911,
+      "friendsCount": 332,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2059665801326600202/vid/avc1/1920x1080/8uJEoq4lsBS02DGT.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2059665980301713739",
+    "fullText": "Join us in New York for a pre-show conversation with special guest, Ron Howard. Followed by our 10 finalist films and the Best of Advertising, Design, New Media, Gaming and Fashion.\n\nTickets available at the link below. https://t.co/xeUu5zovDW",
+    "createdAt": "Wed May 27 16:00:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 490169,
+      "friendsCount": 76,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVmKReagAA7rFv.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2059664738087469511",
+    "fullText": "We're open-sourcing the Unigram tokenizer we rebuilt to reduce CPU utilization by 5-6x.\n\nSmall rerankers and embedders run in single-digit milliseconds on GPU, making CPU tokenization a meaningful share of total latency.\n\nhttps://t.co/QUnHeiho56 https://t.co/Oh29f1lo51",
+    "createdAt": "Wed May 27 15:55:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 151246,
+      "friendsCount": 5339,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVlf98WMAkdH_P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2059664076356083807",
+    "fullText": "Language models may not need longer context.\n\nThey may need sleep.\n\nA fascinating new paper by Sangyun Lee, Sean McLeish, Tom Goldstein, and Giulia Fanti proposes one of the most biologically resonant ideas in long-context AI:\n\nsleep-like memory consolidation.\n\nThe problem is subtle.\n\nTransformers can store recent context in a KV cache, but attention scales poorly with length.\n\nSSM-attention hybrids offer fixed-size fast-weight memories, but memory capacity is not the same as reasoning capacity.\n\nA model may “store” evicted context and still fail to compute with it.\n\nThat distinction matters.\n\nThe authors show that when reasoning depth increases, vanilla SSM-attention hybrids can degrade even when the amount of information to store is held fixed.\n\nSo the bottleneck is not just memory.\n\nIt is the computation required to transform transient context into a useful internal state.\n\nTheir solution:\n\nLet the model sleep.\n\nWhen the context window fills, the model enters an offline consolidation phase. It performs N recurrent passes over the accumulated context, updates persistent fast weights inside its SSM blocks through a learned local rule, then clears the KV cache.\n\nDuring wake-time inference, prediction remains single-pass.\n\nExtra compute is paid during sleep, not at the moment of response.\n\nThat is the key architectural move:\n\nattention for recent high-fidelity access\nfast weights for compressed long-range memory\nsleep for transforming memory into reasoning-ready state\n\nThe biological analogy is more than branding.\n\nIn animals, sleep helps consolidate short-term memories into longer-term cortical structure.\n\nHere, “sleep” consolidates evicted context into fast weights before the model wakes up and continues.\n\nThe paper tests this on controlled synthetic tasks, including cellular automata and multi-hop graph retrieval, plus GSM-Infinite, a realistic math reasoning benchmark.\n\nAcross these settings, increasing sleep duration improves performance most clearly on examples requiring deeper reasoning.\n\nThe deeper lesson:\n\nLong-context AI is not only about retaining more tokens.\n\nIt is about allocating enough computation to metabolize context.\n\nA static cache remembers.\n\nA sleeping model reorganizes.\n\nIf this line of work holds, future agents may not process endless streams in one uninterrupted wake state.\n\nThey may alternate between wakeful interaction and offline consolidation.\n\nRead.\nSleep.\nCompress.\nReason.\nWake.\n\nFull credit to the authors:\nSangyun Lee, Sean McLeish, Tom Goldstein, Giulia Fanti.\n\nPaper:\nLanguage Models Need Sleep\nhttps://t.co/c2dtRtvYj1\n\nI’m attaching the first page because the abstract is worth reading closely.\n\nThe future of long-horizon AI may not be infinite attention.\n\nIt may be models that know when to sleep.\n\n#AIResearch #LLM #MachineLearning #LongContext #ArtificialIntelligence",
+    "createdAt": "Wed May 27 15:52:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 509974,
+      "friendsCount": 47,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2059663425580695564",
+    "fullText": "Add text, video, or up to five images as your ingredients and Gemini Omni can combine them all into one cohesive ten-second video.\n\nTry it today and share your creations in the replies. 👇",
+    "createdAt": "Wed May 27 15:50:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 468054,
+      "friendsCount": 1490,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2059663167483973712",
+    "fullText": "Gauntlet engineering was building a new product and decided to buy SaaS (an LMS).\n\nRare for us, but it was cheap and engineering was slammed.\n\nIt was such a battle to integrate everything with a super complicated API that by the time we integrated we’d built our own in parallel.",
+    "createdAt": "Wed May 27 15:49:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 250789,
+      "friendsCount": 145,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVhGinXcAcE9Ig.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2059659923953172924",
+    "fullText": "🚗 @Lyft accelerated agent development from 6 months to just a few weeks with LangGraph and LangSmith.\n\n✅ Hallucinations decreased by 20%\n✅ AI Resolution rate up by 16% https://t.co/IguF0pT5Bf",
+    "createdAt": "Wed May 27 15:36:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
+      "followersCount": 223751,
+      "friendsCount": 7009,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2059659537615872326",
+    "fullText": "Someone just asked me “What I don’t get is why you see it as some kind of failure that AI labs are now using harnesses and neurosymbolic tools…?”\n\nI don’t! As I argued in my newsletter on Claude Code (entitled “The biggest advance in AI since the LLM”) and in earlier piece o3 and grok 4,  I see this trend as absolute vindication for what I have been arguing for the last 30 years - that neurosymbolic tools have to be part of the solution.\n\nPeople will soon forget that they ever argued otherwise, but they did, right here, for a decade. 🤷‍♂️",
+    "createdAt": "Wed May 27 15:34:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKs4uX",
+      "followersCount": 305448,
+      "friendsCount": 846,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2059657791141212186",
+    "fullText": "For future-proof, build AI that's composable.\n\nRegardless of what you use, all these should be composable, iterative, and customizable:\n\n- LLMs\n- Evals\n- Automations\n- MCP/CLI tools\n- Skills/Memory/Context\n- Agent Harness (Codex, CC, Pi,...)\n\nThe compounding effects are insane.",
+    "createdAt": "Wed May 27 15:27:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 836892,
+      "friendsCount": 5842,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2059656455805145383",
+    "fullText": "https://t.co/cRwIIexCa9",
+    "createdAt": "Wed May 27 15:22:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SilverJacket",
+      "name": "Matthew Hutson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1402377580167241734/8zTEBQyJ_normal.jpg",
+      "description": "Freelance science writer for The New Yorker, Science, Nature, etc. Fire dancer. Into cognition—animal and mineral (aka psych & AI).",
+      "followersCount": 4591,
+      "friendsCount": 485,
+      "location": "NYC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVcn3PWEAMXu63.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SilverJacket/status/2059655296159482144",
+    "fullText": "ABBA THE HUTT\n@starwars @themandalorian #TheMandalorianAndGrogu https://t.co/Vz1Hkq3hQa",
+    "createdAt": "Wed May 27 15:17:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 151246,
+      "friendsCount": 5339,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVdXSCWAAY8aQT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2059655144317313255",
+    "fullText": "What looks like ontology may be eigenspectrum.\n\nA beautiful new paper by Andres Nava and Matthieu Wyart gives a mechanistic account of one of the most striking facts about language models:\n\nsemantic hierarchies appear geometrically.\n\nAn owl is a bird.\nA bird is an animal.\nAn animal is an organism.\n\nIn representation space, these “is-a” relations often seem to organize into clean directions, subspaces, and taxonomic refinements.\n\nThe tempting interpretation is functional:\n\nthe model learned an internal ontology.\n\nThis paper asks a more dangerous question:\n\nwhat if part of that geometry is not an engineered semantic mechanism at all?\n\nWhat if it is the spectral shadow of word co-occurrence?\n\nThe core move is elegant.\n\nStart with WordNet.\nMeasure semantic distance in the hypernym graph.\nVerify that closer concepts co-occur more often.\nThen analyze the Gram matrix induced by those pairwise word statistics.\n\nUnder mild positivity and decay assumptions, the leading eigenvectors separate the taxonomy from coarse to fine.\n\nFirst, broad branches split.\n\nPlant vs. animal.\n\nThen finer branches split.\n\nFlower vs. tree.\nBird vs. fish.\nDaisy vs. poppy.\n\nThis is what the authors call hierarchical splitting geometry.\n\nThe remarkable part is that the same structure appears in simple word2vec embeddings and extends strikingly well to Gemma 2B unembeddings.\n\nThat matters.\n\nBecause it suggests that some concept geometry in LLMs may not require a hierarchy-specific module, circuit, or functional objective.\n\nIt can emerge from the spectrum of pairwise language statistics.\n\nIn other words:\n\nlanguage already contains a tree,\nco-occurrence encodes distances on that tree,\nand spectral decomposition turns those distances into geometry.\n\nThis is a serious interpretability lesson.\n\nWhen we find clean semantic directions inside a model, we should not immediately ask:\n\n“What internal mechanism built this ontology?”\n\nWe should also ask:\n\n“What structure in the data distribution made this geometry inevitable?”\n\nThat distinction is crucial.\n\nFunctional geometry asks what a representation can do.\n\nDistributional geometry asks where the representation came from.\n\nThis paper pushes interpretability toward a more mature science:\n\nless anthropomorphic storytelling,\nmore spectral mechanism.\n\nLess “the model has a taxonomy in its head,”\nmore “the co-occurrence kernel shaped an eigenspace.”\n\nFull credit to the authors:\nAndres Nava and Matthieu Wyart.\n\nPaper:\nHierarchical Concept Geometry in Language Models Emerges from Word Co-occurrence\nhttps://t.co/Ti4LrdnXKj\n\nI’m attaching the first page because Figure 1 is worth studying closely.\n\nThe deep lesson:\n\nmeaning may become geometry not because the model was explicitly taught hierarchy,\n\nbut because language statistics already carry one.\n\n#AIResearch #Interpretability #LLM #NLP #RepresentationLearning #MachineLearning",
+    "createdAt": "Wed May 27 15:17:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 250789,
+      "friendsCount": 145,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2059638385136844804/vid/avc1/1280x720/WIDbIvdiRJevr91s.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2059654417478012938",
+    "fullText": "Improving your agent has been a manual process of:\n✅ Reading traces\n✅ Looking for patterns\n✅ Writing evals\n✅ Creating fixes\n\nNow, LangSmith Engine runs that cycle for you. https://t.co/YsFn37mtA3",
+    "createdAt": "Wed May 27 15:14:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "johnjnay",
+      "name": "John Nay",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2032286692023934976/fce3eDSE_normal.jpg",
+      "description": "Founder & CEO of Norm Ai // \nFounding CEO of Brooklyn AI (acquired by TIAA Nuveen) // \nMore at https://t.co/IpzZqFixUk",
+      "followersCount": 15417,
+      "friendsCount": 65,
+      "location": "NYC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/johnjnay/status/2059653592898842791",
+    "fullText": "Today, Norm Law welcomes Sam Lipson and Justin Rattigan as Partners and Co-Heads of its Emerging Companies and Venture Capital practice.\n\nSam joins from Pillsbury, where he was a Partner advising high-growth technology and life sciences companies and their investors from formation through exit. His practice spans venture financings, M&A, and securities offerings.   Previously, he was at Cooley.\n\nJustin comes from @BainCapital, where he served as General Counsel of @BainCapVC. Prior, he advised emerging companies and venture capital funds at Cooley.  \n\nSam and Justin both currently serve as Adjunct Professors at Georgetown Law, co-teaching a class on VC, and together cover the full spectrum of investor-side and company-side equity financing.\n\nNorm Law recently represented @Blackstone and @coatuemgmt  in growth equity deals.\n\n“Norm Law handled a fast-paced, dynamic investment for us with a level of efficiency and responsiveness that would traditionally require more time and a higher cost.” said Stevi Petrelli , Head of Blackstone Innovations Investments. “Their use of AI in transaction document review, analysis and drafting allowed a single attorney to operate with speed and precision while still delivering strong legal judgment.”\n\n“We recently engaged Norm Law on a live transaction. The speed and quality of the work demonstrated the benefits of Norm Ai’s legal AI in use at Norm Law. We are excited that Norm Law plans to build out a full-service law firm that can handle a diversity of investment strategies and fund types.” said Claire Jen, Deputy General Counsel at Coatue Management.\n\nNorm Ai’s legal AI technology and Norm Law’s team have been battle tested. Now, with Sam and Justin, Norm Law is scaling the practice into the world’s leading ECVC group. \n\nNorm Law’s practice areas now span across Private Equity, Investment Funds, Real Estate, Corporate Transactions, Regulatory, and Venture Capital. This means clients can lean on Norm for the full lifecycle through one platform.",
+    "createdAt": "Wed May 27 15:10:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485694,
+      "friendsCount": 3343,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVb7y2XgAYgsVP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2059653526687506645",
+    "fullText": "NEW book from @PacktPublishing @PacktDataML ...\n\n\"Time Series with PyTorch: Modern Deep Learning Toolkit for Real-World Forecasting Challenges\", available at https://t.co/Z7TA0jhlT5 https://t.co/HmRVvXaHP4",
+    "createdAt": "Wed May 27 15:10:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 151246,
+      "friendsCount": 5339,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVbfcXXQAAEkkh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2059653003733266946",
+    "fullText": "https://t.co/dCKMr5Lici just shipped SkillOS.\n\nAn open-source proof that AI-agent work can compound.\n\n1. Jobs become traces.\n2. Traces become tested skills.\n3. Tested skills improve unit economics.\n\n62% cost ↓\n62% time ↓\n+46 pts quality\n\nProof:\nhttps://t.co/ZepRBqSZi4\n\nGitHub:\nhttps://t.co/m6htrci7py\n\n#AGIALPHA #MontrealAI #Jobs",
+    "createdAt": "Wed May 27 15:08:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485694,
+      "friendsCount": 3343,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVaiMaXcAIP-nd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2059652078302110017",
+    "fullText": "Highly rated new book from @PacktPublishing @PacktDataML ...\n\n\"Architecting Generative AI Applications: Build, deploy, and scale production-ready GenAI systems with LLMOps best practices\"\n\nSee it at https://t.co/h5NdYVGvVx https://t.co/nBrRenFcJf",
+    "createdAt": "Wed May 27 15:04:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 376471,
+      "friendsCount": 843,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2059651551807901909",
+    "fullText": "I got an email from a mother whose 12-year-old girl built an AI app to help communities identify invasive lanternflies. Won first place at her school's action showcase.\nThe future belongs to those who SOLVE PROBLEMS!",
+    "createdAt": "Wed May 27 15:02:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 133454,
+      "friendsCount": 534,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2059529320591147013/vid/avc1/1920x1080/8WJ1Q7DJiOLV2ZO5.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2059650842597134432",
+    "fullText": "Kling AI at The 79th Cannes International Film Festival Interview | Directors from China, the U.S. and South Korea on AI & Filmmaking\n\nAt the 79th Cannes Film Festival, Kling AI brought together three creators from China, the U.S. and South Korea to discuss how AI is entering real film production workflows.\n\nFrom a Hollywood-scale series to a fully AI-generated theatrical feature and an AI-powered animated film, the conversation explores how creators are using AI across different forms of cinematic storytelling. Watch the video for their firsthand perspectives!",
+    "createdAt": "Wed May 27 15:00:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 836892,
+      "friendsCount": 5842,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2059650235333566767",
+    "fullText": "The best pitch test: can you tell this at a bar to a friend?\n\nNot the market size, not the TAM, not the deck. Just the story. Why you built it. What you saw that nobody else saw. What happened.\n\nIf you can't tell it naturally over drinks (or it would feel weird to your friend and they would think \"this isn't you\"), your idea or pitch or endeavor needs to bake some more. \n\nThe 9pm-at-a-bar test for your startup idea is a defining authenticity test. And without that, nobody will buy your product, let alone come work for you or invest.",
+    "createdAt": "Wed May 27 14:57:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 87203,
+      "friendsCount": 5243,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2059647667576209413/vid/avc1/1156x1080/Hsz3xuUboQ-ncGMa.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/mervenoyann/status/2059647988373373253",
+    "fullText": "RF-DETR just landed to @huggingface transformers 🥵🔥\n \nsota real-time detection &amp; segmentation models by @roboflow 💜\n\n&gt; play with our real-time demo \n&gt; fine-tune the models on your use case with our tutorials (takes a toaster's VRAM)\n&gt; or just hand them to your agents 😄 https://t.co/C8WUReniYq",
+    "createdAt": "Wed May 27 14:48:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2900044,
+      "friendsCount": 789,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVUAzLXcAIdW7v.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2059645319457931358",
+    "fullText": "Gustaf (right) when he was in YC. You can see why our nickname for this startup was \"the band\". https://t.co/5zF9Rx8HfA",
+    "createdAt": "Wed May 27 14:38:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 90877,
+      "friendsCount": 1092,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2059645055351091205/vid/avc1/720x1280/kBbE2lhz_bDKiL72.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2059645286222295141",
+    "fullText": "❤️ @Lovable now integrates with Databricks, providing a natural language interface that allows anyone, regardless of technical skills, to build live applications that can read and write data stored in Databricks.\n\nSee how teams can build dashboards, operational tools, internal chatbots, and other custom apps directly on governed Databricks data without ETL, replication, or sync jobs.",
+    "createdAt": "Wed May 27 14:37:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 2900044,
+      "friendsCount": 789,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJVRzbqXIAA4wPb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2059642638022652347",
+    "fullText": "One of my favorite pictures ever. 17 years ago. https://t.co/GQTUt8xx3x",
+    "createdAt": "Wed May 27 14:27:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 985279,
+      "friendsCount": 62,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2059636505992396800/vid/avc1/1280x720/QhKEcU2SSGv341hM.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2059640323501105662",
+    "fullText": "Financing the Global Industrial Renaissance with Apollo CEO Marc Rowan\n\nMarc Rowan is CEO of Apollo Global Management, one of the most important financial institutions and the largest provider of retirement income in the world. In this conversation, he joins a16z's David Haber to discuss the story of Apollo, the state of public and private markets, how the AI revolution will be financed, and more.\n\n00:00 Intro\n00:52 Drexel, Milken & the origins of \"clean sheet thinking\"\n04:55 The Apollo origin story: From unemployed to $6 billion\n08:46 How Apollo became a trillion-dollar firm\n13:00 Permanent capital, origination & why assets are the scarce resource\n16:08 Democratizing private markets: Daily pricing & new capital channels\n22:04 Where venture meets credit: Financing the industrial renaissance\n30:01 AI, enterprise software & which jobs will be replaced or enhanced\n38:52 Moral leadership: UPenn, merit & doing right over easy\n46:02 Apollo's culture: Playing to win & building to outlast the founder",
+    "createdAt": "Wed May 27 14:18:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282727,
+      "friendsCount": 8216,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2059468139784814592/pu/vid/avc1/720x990/ZcMu2h5ur6En5gOk.mp4?tag=25"
+    ],
+    "tweetUrl": "https://x.com/tunguz/status/2059640295851979236",
+    "fullText": "My local LLM nailing every task in the /goal. https://t.co/c9WCIj1RZV",
+    "createdAt": "Wed May 27 14:18:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
