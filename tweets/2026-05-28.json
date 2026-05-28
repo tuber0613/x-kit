@@ -1,6 +1,494 @@
 [
   {
     "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 250935,
+      "friendsCount": 145,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2060038563727847424/vid/avc1/1920x1080/FaxNB_R1GSvyJ-KW.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2060039108328865897",
+    "fullText": "New LangChain Academy Course: Intro to LangSmith Deployment\n\nIn this course, you’ll learn how to scale a single-user desktop Deep Agent all the way to a multi-tenant deployment running on managed, elastic infrastructure. https://t.co/pFXZRhTZDH",
+    "createdAt": "Thu May 28 16:42:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
+      "followersCount": 84367,
+      "friendsCount": 435,
+      "location": "Seattle, WA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2060033481283969028/pu/vid/avc1/960x540/ttmQtjy95JZNF-fc.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/allen_ai/status/2060033532295028988",
+    "fullText": "MolmoAct 2 artifacts have been downloaded 400K+ times in under 1 month.\n\nToday we're opening up the full code &amp; training data: everything you need to fine-tune or build on our fully open robotics foundation model. 🧵 https://t.co/Td5wmsgnel",
+    "createdAt": "Thu May 28 16:20:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4899164,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2060013261366710272/vid/avc1/3840x2160/O_wyn1L-WgvXKqQX.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2060032839991914619",
+    "fullText": "R&amp;D Part 1: Here to Win https://t.co/WDZzkPAdPA",
+    "createdAt": "Thu May 28 16:17:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKs4uX",
+      "followersCount": 305563,
+      "friendsCount": 846,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJax_kcaEAAY_Lc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2060029589007880652",
+    "fullText": "// Memory as Connectivity //\n\nOne of the cleaner reframings of agent memory I have seen this month.\n\nFluxMem treats memory as the continuously evolving topology of a heterogeneous graph.\n\nThree stages run together: initial connection formation, feedback-driven refinement, and long-term consolidation of recurrent successful trajectories into reusable procedural circuits. During execution, it repairs missing links, prunes interference, and aligns abstraction granularity.\n\nSOTA on LoCoMo, Mind2Web, and GAIA across three distinct memory regimes.\n\nPaper: https://t.co/uNrdgGX4jC\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Thu May 28 16:05:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. New AI learning portal: https://t.co/LRnpZN7L4c",
+      "followersCount": 124047,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJaxTk9aYAAyHM6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2060028833080987668",
+    "fullText": "Banger paper from Harvard.\n\nAutoScientists drops the central planner entirely. Agents interpret shared experimental data, self-organize around promising directions, evaluate proposals before resource allocation, and document successes AND failures. Decentralized AI co-scientists with failure documentation as a first-class step.\n\nValidated across three concrete domains. Biomedical ML reaches 74.4% mean leaderboard percentile. Language model training converges 1.9x faster. Protein fitness prediction lifts +12.5% on specific assays and +6.5% broader.\n\nThe strongest argument so far that the AI-scientist bottleneck is governance rather than raw capability.\n\nPaper: https://t.co/LtqUsrJ0os\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Thu May 28 16:02:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 345420,
+      "friendsCount": 20494,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2060027174866812930/pu/vid/avc1/640x360/i7LkT6GysY9YsPAR.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2060028418456957080",
+    "fullText": "Free MIT course breaks down deep learning: https://t.co/S9DmjSlveB\n\nHere, MIT ass't prof. Sara Beery discusses how it's driven breakthroughs in areas like image generation, coding, &amp; playing games (Lecture 1). https://t.co/qXuJiI3Mam",
+    "createdAt": "Thu May 28 16:00:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 501542,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2060027977627316226/vid/avc1/1920x1080/LOVDDv5Z7d0Xb0Q5.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2060028043695882545",
+    "fullText": "GEM\n\nGenerative Supervision Helps Embodied Intelligence https://t.co/IlGPbxkwHS",
+    "createdAt": "Thu May 28 15:58:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sapna",
+      "name": "Sapna Maheshwari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/766436031004602368/-snSkBUg_normal.jpg",
+      "description": "whatsupna? @nytimes business reporter covering TikTok and emerging media. pun lover, Tar Heel, from CT. tips to sapna@nytimes.com, DM for Signal, WhatsApp.",
+      "followersCount": 39377,
+      "friendsCount": 1343,
+      "location": "Manhattan, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sapna/status/2060027414260949314",
+    "fullText": "today in predictive markets being not great for society https://t.co/i6MyhpiL7J",
+    "createdAt": "Thu May 28 15:56:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 510777,
+      "friendsCount": 47,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2060022813373890648",
+    "fullText": "Great news: Users in India can now upload and edit videos directly with Gemini Omni! \n\nGet started in the app or https://t.co/awhPeHZIqm:\n&gt; Upload your video\n&gt; Tell Gemini the change you want to make\n&gt; Enjoy your new creation\n\nWe can't wait to see what you make!",
+    "createdAt": "Thu May 28 15:38:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 151319,
+      "friendsCount": 5341,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJaqR8xXMAEb7Hn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2060021264241029217",
+    "fullText": "AI research automation is crossing a threshold.\n\nBut the real question is not:\n\nCan AI produce papers?\n\nIt can.\n\nThe harder question is:\n\nCan it preserve the substance of science?\n\nA new paper from the Awesome AI Auto-Research Team offers one of the most useful maps I’ve seen of this emerging frontier:\n\nAI for Auto-Research: Roadmap & User Guide\n\nThe authors analyze AI across the complete research lifecycle:\n\nCreation — ideas, literature, coding, experiments, tables, figures\n\nWriting — manuscript drafting and structure\n\nValidation — peer review, rebuttal, revision\n\nDissemination — posters, slides, videos, social media, project pages, paper agents\n\nThis lifecycle framing matters.\n\nBecause research is not one task.\n\nIdeas become experiments.\nExperiments become claims.\nClaims become manuscripts.\nReviews become revisions.\nPapers become public narratives.\n\nIf errors enter early, automation can amplify them downstream.\n\nThat is the central tension of auto-research:\n\nAI is becoming very good at producing research-shaped artifacts.\n\nBut it remains far less reliable at judging whether those artifacts are novel, faithful, executable, reproducible, and scientifically meaningful.\n\nThe paper is refreshingly clear on the boundary.\n\nAI performs best when tasks are structured, retrieval-grounded, tool-mediated, and externally checkable.\n\nIt becomes fragile when tasks require genuinely novel ideas, research-level experimentation, deep scientific judgment, or long-horizon accountability.\n\nThat distinction should shape how serious labs deploy these systems.\n\nThe future is not “fully autonomous AI scientist” as a default.\n\nThe credible deployment pattern, at least today, is human-governed collaboration:\n\nAI for mechanical acceleration.\nHumans for judgment, interpretation, responsibility, and epistemic ownership.\n\nOne sentence from the paper’s logic is worth sitting with:\n\nartifact generation is outpacing scientific verification.\n\nThat is the whole field in one line.\n\nThe most dangerous systems will not be the ones that obviously fail.\n\nThey will be the ones that generate plausible papers, plausible reviews, plausible rebuttals, plausible figures, and plausible summaries while quietly losing provenance, evidence, and accountability.\n\nThis paper is not anti-automation.\n\nIt is pro-science.\n\nIt gives the field a taxonomy, benchmark map, tool inventory, stage-by-stage risk model, and practitioner playbook for building auto-research systems without confusing productivity with discovery.\n\nFull credit to the authors:\nLingdong Kong, Xian Sun, Wei Chow, Linfeng Li, Kevin Qinghong Lin, Xuan Billy Zhang, Song Wang, Rong Li, Qing Wu, Wei Gao, Yingshuo Wang, Shaoyuan Xie, Jiachen Liu, Leigang Qu, Shijie Li, Lai Xing Ng, Benoit R. Cottereau, Ziwei Liu, Tat-Seng Chua, Wei Tsang Ooi.\n\nPaper:\nAI for Auto-Research: Roadmap & User Guide\nhttps://t.co/sCzpxSYfj7\n\nProject:\nhttps://t.co/cGAB5u1br3\n\nI’m attaching the first page because Figure 1 is the map everyone working on AI research agents should study.\n\nThe future of science will not be decided by who can automate the most.\n\nIt will be decided by who can automate without losing truth.\n\n#AIResearch #ArtificialIntelligence #ScientificDiscovery #ResearchAutomation #AIAgents",
+    "createdAt": "Thu May 28 15:31:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282939,
+      "friendsCount": 8219,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2060021196045893750",
+    "fullText": "If we only had Codex for the real world ...",
+    "createdAt": "Thu May 28 15:31:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 501542,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJapv1nWkAMbsrC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2060020565906235710",
+    "fullText": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning https://t.co/o7EUCivONv",
+    "createdAt": "Thu May 28 15:29:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
+      "followersCount": 194754,
+      "friendsCount": 532,
+      "location": "tinkertown"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2060020304903057792",
+    "fullText": "drafts at the ready\n\n\"i've been testing 4.8/5.6 for 2 weeks and it's AMAZING\"",
+    "createdAt": "Thu May 28 15:28:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 501542,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJan-8OW4AMbUV3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2060018606608359909",
+    "fullText": "ProRL\n\nEffective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation https://t.co/leRdM2vAmp",
+    "createdAt": "Thu May 28 15:21:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 501542,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2060016990375288836/vid/avc1/1920x1080/5Dwzw__v5cDGgca8.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2060017092456337594",
+    "fullText": "SkillOpt\n\nExecutive Strategy for Self-Evolving Agent Skills https://t.co/KaGj9uYjJ6",
+    "createdAt": "Thu May 28 15:15:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 451926,
+      "friendsCount": 559,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2060016999472988354",
+    "fullText": "I met a team last week who's rewriting a ton of their code.\n\nThey integrated their product with one open-weight model. From day one, they bet everything in that direction.\n\nNow they are stuck.\n\nThis is a self-inflicted problem, with a simple solution:",
+    "createdAt": "Thu May 28 15:15:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282939,
+      "friendsCount": 8219,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJamOIXWIAIcSc-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2060016645850972238",
+    "fullText": "I was doing some spring cleaning and came across this old Online Data Science Certificate. It’s as relevant today as when i first got it. https://t.co/jRMAG7Ax7j",
+    "createdAt": "Thu May 28 15:13:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 161550,
+      "friendsCount": 213,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2060011427872829440/vid/avc1/1920x1080/WWbf_zM_TMJFG3KT.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/arena/status/2060016362484048316",
+    "fullText": "Where is AI-assisted web development heading?\n\nWe've added new categories to Code Arena: Frontend, covering 7 domains across agentic web development. \n\nLearn about the ML methodology behind it, what the shifting data tells us about how people are actually using AI to build for the web, and which models are quietly excelling in specific niches.\n\n0:00 What sparked the new 7 categories?\n0:34 The classical ML approach: building a taxonomy from scratch\n2:06 Clustering prompts at scale\n2:19 Prototype extraction: using LLMs to name and label clusters\n3:26 Why raw embeddings fail: language bias and multi-angle prompts\n4:07 Breaking down user intent: what to build, style, components\n5:09 From clusters to categories: the key research decision\n6:43 Optimization goal #1: Coverage — how much of the data is represented?\n7:12 Optimization goal #2: Boundary clarity — keeping definitions tight\n8:19 The iterative refinement loop: human-in-the-loop + LLM polish\n9:38 Measuring coverage (aiming for 80%+) and sampling the long tail\n10:09 Optimization goal #3: Interpretability — titles that make intuitive sense\n10:20 How available tools (web search, screenshots) shape the final categories\n12:07 How prompt category distribution has shifted over time\n14:40 Growing categories: brand/marketing sites and consumer products\n14:41 Model-specific strengths: GPT-5.5 and Gemma-4-31b\n15:09 Radar plots as a practical model-selection tool\n16:11 Combining domain rankings with price/speed Pareto curves\n16:52 Predictions: what new categories are coming next?",
+    "createdAt": "Thu May 28 15:12:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282939,
+      "friendsCount": 8219,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2060015367783661808",
+    "fullText": "My least favorite sport: competitive parenting.",
+    "createdAt": "Thu May 28 15:08:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 501542,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJakiaUW0AY9MRy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2060014830770073796",
+    "fullText": "MRT\n\nMasked Region Transformer for Layered Image Generation and Editing at Scale https://t.co/HSoaQ9LLzZ",
+    "createdAt": "Thu May 28 15:06:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 501542,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2060014364493524992/vid/avc1/960x544/bU7qQTc5zavaxKWh.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2060014437377978396",
+    "fullText": "PhysX-Omni\n\nUnified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects https://t.co/aBBojPDE5E",
+    "createdAt": "Thu May 28 15:04:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 501542,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJaj6HkXgAIHzdG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2060014140505158044",
+    "fullText": "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion https://t.co/oJdxI0RKhC",
+    "createdAt": "Thu May 28 15:03:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 250935,
+      "friendsCount": 145,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJajYjsWYAEyHvF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2060013524152168844",
+    "fullText": "Managed Deep Agents lets you create a managed Deep Agent without standing up a custom agent server. \n\nOur runtime supports:\n✅ Durable threads\n✅ Streaming runs\n✅ Checkpointing\n✅ Human-in-the-loop workflows https://t.co/qDoCEmenVN",
+    "createdAt": "Thu May 28 15:01:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 490399,
+      "friendsCount": 76,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2060013347580567552/vid/avc1/1280x720/St8bm8XMZuhR5PzT.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2060013442720010598",
+    "fullText": "Perplexity Computer is now available inside Microsoft Excel, Word, PowerPoint, and Outlook.\n\nOrchestrate across work with Computer directly in the side panel of your app to draft documents, model, build decks, and handle email.\n\nAvailable now: https://t.co/0itt5XcFRX https://t.co/oHf90rP4Xv",
+    "createdAt": "Thu May 28 15:00:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282939,
+      "friendsCount": 8219,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2060006478648352936",
+    "fullText": "Μεγαλειώδης ανθρωπιά",
+    "createdAt": "Thu May 28 14:33:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 282939,
+      "friendsCount": 8219,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2060001615050952775",
+    "fullText": "All the crazy ideas I've had for years are finally starting to get implemented and it's crazy and wonderful and a beauty to behold.",
+    "createdAt": "Thu May 28 14:13:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 90899,
+      "friendsCount": 1092,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HJaYW-hW8AAcMvR.mp4"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2060001420934328410",
+    "fullText": "Modern analytics can be a lot simpler when your data, governance, and business logic live in one place.\n\nThis free one-hour training walks through how to build trusted, AI-powered insights on Databricks using AI/BI Dashboards, Genie spaces, semantic layers, and lakehouse-based analytics workflows.\n\nTake the quiz at the end to earn a Databricks badge for LinkedIn or your résumé 🏅\n\nhttps://t.co/f1yYAvdbJs",
+    "createdAt": "Thu May 28 14:13:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 49830,
+      "friendsCount": 2331,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJaXiXrbkAAnpAM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2060000498913247688",
+    "fullText": "A general-purpose technology can sit inside firms for ages before we see the results. It happened with electricity, it’s happening with AI. https://t.co/G0lLyLJWwo",
+    "createdAt": "Thu May 28 14:09:26 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
@@ -246,7 +734,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 240169258,
+      "followersCount": 240177506,
       "friendsCount": 1345,
       "location": ""
     },
