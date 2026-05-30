@@ -1,11 +1,102 @@
 [
   {
     "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
+      "followersCount": 224603,
+      "friendsCount": 7014,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2060783381047034001",
+    "fullText": "i am only blocking tesla supporters that come at me with insult rather than argument.\n\nbut that’s a lot of them. and a not great sign for their side of the argument.",
+    "createdAt": "Sat May 30 18:00:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 301765,
+      "friendsCount": 879,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJldv9UXYAMFubg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2060781385686659416",
+    "fullText": "There's a better way to serve your inference stack, you just haven't found it yet.\n\nDynoSim is a workload-driven simulation of the Dynamo serving stack that turns exhaustive deployment search into a simulate-then-verify loop.\n\nInstead of testing every deployment choice, teams can model the whole stack on one virtual timeline, screen thousands of configurations in high fidelity simulation, then validate only the best candidates on real hardware.  \n\nAnd because it's a full Rust implementation, it runs extremely fast. In our testing, 1,500x faster than real time.",
+    "createdAt": "Sat May 30 17:52:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70689,
+      "friendsCount": 35016,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJlUM1FW0AcCFpG.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2060770910412386549",
+    "fullText": "after a brief moment of simplified model names, i'm back to claude opus 4.8 (1m context) - max - fast https://t.co/zpKnxKgNCL",
+    "createdAt": "Sat May 30 17:10:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 348454,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJlR_HFbQAAaA9y.jpg",
+      "https://pbs.twimg.com/media/HJlR_hyagAAka1T.jpg",
+      "https://pbs.twimg.com/media/HJlR_8rbkAEYbsO.jpg",
+      "https://pbs.twimg.com/media/HJlSAVva8AEj9UW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2060768476386689253",
+    "fullText": "🧵 Our Voice Hack Night finalists are here.\n\n4 projects. 6 hours. Realtime voice agents in real-world builds.\n\nNow it’s your turn to vote for your favorite. We’ll announce the winner on Monday.\n\nhttps://t.co/tLllqhl9Tj https://t.co/2VlOsfdPcm",
+    "createdAt": "Sat May 30 17:01:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 55852,
+      "friendsCount": 399,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2060763201588117505/vid/avc1/3840x2160/KK3stEskyasvMvXu.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2060764119754809703",
+    "fullText": "We took the Hot Wings Challenge to NVIDIA GTC 🌶️\n\n@realDanFu (VP of Kernels) and @sarung (VP of Customer Success) answered some questions around AI, one spicy wing at a time.\n\nSome people sweat. Some people talk. Watch to see who did both. https://t.co/Zqn4VTtH9t",
+    "createdAt": "Sat May 30 16:43:47 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 376807,
+      "followersCount": 376815,
       "friendsCount": 843,
       "location": ""
     },
@@ -21,7 +112,7 @@
       "name": "Yannic Kilcher 🇸🇨",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/473191190477537280/bWjYb1Rb_normal.jpeg",
       "description": "I make videos.\nSkill &gt; Destiny.\nvi / vim",
-      "followersCount": 87543,
+      "followersCount": 87547,
       "friendsCount": 882,
       "location": ""
     },
@@ -37,7 +128,7 @@
       "name": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
-      "followersCount": 224593,
+      "followersCount": 224603,
       "friendsCount": 7014,
       "location": ""
     },
@@ -55,7 +146,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 345464,
+      "followersCount": 345478,
       "friendsCount": 20488,
       "location": "Cambridge, MA"
     },
@@ -71,7 +162,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKs4uX",
-      "followersCount": 305761,
+      "followersCount": 305766,
       "friendsCount": 847,
       "location": "DAIR.AI Academy"
     },
@@ -89,7 +180,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 335456,
+      "followersCount": 335761,
       "friendsCount": 4862,
       "location": "Miami / New York / Paris"
     },
@@ -107,7 +198,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 846023,
+      "followersCount": 846291,
       "friendsCount": 5844,
       "location": "San Francisco, CA"
     },
@@ -123,7 +214,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 846023,
+      "followersCount": 846291,
       "friendsCount": 5844,
       "location": "San Francisco, CA"
     },
@@ -139,7 +230,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 283557,
+      "followersCount": 283579,
       "friendsCount": 8221,
       "location": "United States"
     },
@@ -173,7 +264,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 283557,
+      "followersCount": 283579,
       "friendsCount": 8221,
       "location": "United States"
     },
@@ -189,7 +280,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 283557,
+      "followersCount": 283579,
       "friendsCount": 8221,
       "location": "United States"
     },
@@ -205,7 +296,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 691130,
+      "followersCount": 691199,
       "friendsCount": 826,
       "location": "United States"
     },
@@ -221,7 +312,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 114023,
+      "followersCount": 114019,
       "friendsCount": 49,
       "location": ""
     },
@@ -239,7 +330,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 1088786,
+      "followersCount": 1088963,
       "friendsCount": 2049,
       "location": "Palo Alto"
     },
@@ -258,7 +349,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 151319,
+      "followersCount": 151316,
       "friendsCount": 5340,
       "location": "Montréal · Québec"
     },
@@ -274,7 +365,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 138047,
+      "followersCount": 138056,
       "friendsCount": 598,
       "location": "Zürich, Suisse"
     },
@@ -309,7 +400,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 151122,
+      "followersCount": 151192,
       "friendsCount": 1261,
       "location": ""
     },
@@ -361,7 +452,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 846023,
+      "followersCount": 846291,
       "friendsCount": 5844,
       "location": "San Francisco, CA"
     },
@@ -409,7 +500,7 @@
       "name": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
-      "followersCount": 224593,
+      "followersCount": 224603,
       "friendsCount": 7014,
       "location": ""
     },
