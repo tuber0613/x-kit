@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 377253,
+      "friendsCount": 843,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061153365636038668",
+    "fullText": "The reason most people never start building is the quiet assumption that someone smarter is already working on it, not a lack of skills or capital. Let me tell you, those 'smarter' people are usually not.",
+    "createdAt": "Sun May 31 18:30:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "johnschulman2",
+      "name": "John Schulman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1389000537195040770/DzWPljT-_normal.jpg",
+      "description": "Recently started @thinkymachines. Interested in reinforcement learning, alignment, birds, jazz music",
+      "followersCount": 74844,
+      "friendsCount": 1863,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/johnschulman2/status/2061144788196602143",
+    "fullText": "Would be funny if inoculation prompting results in models that are much better at sandbox escapes and other forms of hacking because they get to spend the whole RL run practicing these things",
+    "createdAt": "Sun May 31 17:56:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI, Elastic, PhD • New AI learning portal: https://t.co/1e8RZKrwFp",
+      "followersCount": 305907,
+      "friendsCount": 848,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJqiOGzawAAi6qD.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2061138146541375578",
+    "fullText": "// The Efficiency Frontier //\n\nCool paper on context management.\n\nAs agents reuse the same documents and histories across many turns, the cheapest context strategy is not fixed. This work describes a principled rule for picking one per deployment instead of defaulting to whatever topped a benchmark in isolation.\n\nRetrieval and compression methods are almost always benchmarked on accuracy and cost separately, so you never learn when one actually beats another under real load.\n\nThe Efficiency Frontier models context strategy selection as a single cost-performance problem, with a log-utility term for diminishing returns from extra context and a reuse parameter N that amortizes preprocessing across repeated queries.\n\nSweep N and the optimal strategy changes, exposing crossover regions where retrieval, compression, or full context each wins. On 5,000 HotpotQA instances, deployment-aware selection cuts effective token usage about 25 percent at the same performance, and amortized memory compression runs over 50 percent cheaper than full-context prompting in higher-performance settings.\n\nPaper: https://t.co/CK19QYX79n\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Sun May 31 17:30:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "YiMaTweets",
       "name": "Yi Ma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
       "description": "Chair Professor in AI, Hong Kong University.\nA Mathematical Theory of Intelligence/Memory:\nhttps://t.co/leZlkURb7j",
-      "followersCount": 118798,
+      "followersCount": 118826,
       "friendsCount": 687,
       "location": "Hong Kong and Berkeley"
     },
@@ -21,8 +71,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 283800,
-      "friendsCount": 8220,
+      "followersCount": 283847,
+      "friendsCount": 8222,
       "location": "United States"
     },
     "images": [],
@@ -37,7 +87,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 377213,
+      "followersCount": 377253,
       "friendsCount": 843,
       "location": ""
     },
@@ -53,7 +103,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4995762,
+      "followersCount": 4996883,
       "friendsCount": 1014,
       "location": "SF"
     },
@@ -87,8 +137,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 283800,
-      "friendsCount": 8220,
+      "followersCount": 283847,
+      "friendsCount": 8222,
       "location": "United States"
     },
     "images": [],
@@ -103,7 +153,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 849552,
+      "followersCount": 849855,
       "friendsCount": 5845,
       "location": "San Francisco, CA"
     },
@@ -121,7 +171,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3009774,
+      "followersCount": 3011998,
       "friendsCount": 790,
       "location": ""
     },
@@ -137,7 +187,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 377213,
+      "followersCount": 377253,
       "friendsCount": 843,
       "location": ""
     },
@@ -153,7 +203,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 849552,
+      "followersCount": 849855,
       "friendsCount": 5845,
       "location": "San Francisco, CA"
     },
@@ -171,7 +221,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 468644,
+      "followersCount": 468645,
       "friendsCount": 1496,
       "location": "Austin, TX"
     },
@@ -187,8 +237,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70712,
-      "friendsCount": 35021,
+      "followersCount": 70713,
+      "friendsCount": 35020,
       "location": "latent space"
     },
     "images": [
@@ -205,8 +255,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 283800,
-      "friendsCount": 8220,
+      "followersCount": 283847,
+      "friendsCount": 8222,
       "location": "United States"
     },
     "images": [
@@ -223,7 +273,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. New AI learning portal: https://t.co/LRnpZN7L4c",
-      "followersCount": 124165,
+      "followersCount": 124236,
       "friendsCount": 1,
       "location": ""
     },
@@ -239,7 +289,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 90983,
+      "followersCount": 90980,
       "friendsCount": 1092,
       "location": "HQ: San Francisco, CA"
     },
@@ -257,8 +307,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 283800,
-      "friendsCount": 8220,
+      "followersCount": 283847,
+      "friendsCount": 8222,
       "location": "United States"
     },
     "images": [],
@@ -273,7 +323,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 4995762,
+      "followersCount": 4996883,
       "friendsCount": 1014,
       "location": "SF"
     },
@@ -289,7 +339,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 468644,
+      "followersCount": 468645,
       "friendsCount": 1496,
       "location": "Austin, TX"
     },
@@ -305,7 +355,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 849552,
+      "followersCount": 849855,
       "friendsCount": 5845,
       "location": "San Francisco, CA"
     },
@@ -321,7 +371,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 468644,
+      "followersCount": 468645,
       "friendsCount": 1496,
       "location": "Austin, TX"
     },
@@ -337,7 +387,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 377213,
+      "followersCount": 377253,
       "friendsCount": 843,
       "location": ""
     },
@@ -371,7 +421,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 849552,
+      "followersCount": 849855,
       "friendsCount": 5845,
       "location": "San Francisco, CA"
     },
@@ -387,7 +437,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 849552,
+      "followersCount": 849855,
       "friendsCount": 5845,
       "location": "San Francisco, CA"
     },
@@ -421,7 +471,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 151328,
+      "followersCount": 151330,
       "friendsCount": 5341,
       "location": "Montréal · Québec"
     },
@@ -439,7 +489,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 377213,
+      "followersCount": 377253,
       "friendsCount": 843,
       "location": ""
     },
@@ -455,8 +505,8 @@
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
       "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
-      "followersCount": 102346,
-      "friendsCount": 10248,
+      "followersCount": 102348,
+      "friendsCount": 10252,
       "location": "San Francisco, CA"
     },
     "images": [],
