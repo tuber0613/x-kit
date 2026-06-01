@@ -1,11 +1,217 @@
 [
   {
     "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 251356,
+      "friendsCount": 145,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJuuVHgWgAAO2om.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2061432934993674267",
+    "fullText": "Managed Deep Agents keeps the project shape you already know:\n↳ AGENTS.md, skills/, subagents/, + tools.json\n\nContext Hub gives your agent a managed place to retain and update this context across sessions, allowing agent definition to evolve over time. https://t.co/jx3E0Sn2XH",
+    "createdAt": "Mon Jun 01 13:01:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 502436,
+      "friendsCount": 3134,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJuspOkXIAAPRvg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2061431195452182647",
+    "fullText": "GrepSeek\n\nTraining Search Agents for Direct Corpus Interaction https://t.co/rsnj3hfxhl",
+    "createdAt": "Mon Jun 01 12:54:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 342874,
+      "friendsCount": 4862,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJupg6bXkAALMvk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2061427783251759366",
+    "fullText": "Feels quite magical to be able to clone a 68 TB dataset to my private HF training bucket while I only have a 4TB local disk, all of that in less than a minute thanks to HF infra optimizations &amp; xet dedup! https://t.co/AEwlifG0iJ",
+    "createdAt": "Mon Jun 01 12:40:57 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 152086,
+      "followersCount": 152237,
+      "friendsCount": 1261,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJuoKn9bYAI5R0-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2061426771267125649",
+    "fullText": "Codepilot 的重构版本终于好了！\n\nCodePilot 0.55.0-preview.5 \n\n相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎\n\n可以使用 Codex 内置模型也可以自定义模型\n\n目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈 https://t.co/DsmLXme0fu",
+    "createdAt": "Mon Jun 01 12:36:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 451980,
+      "friendsCount": 561,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJuoSW1aYAA2YI5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2061426290700464553",
+    "fullText": "Super-fast CLI tool for moving data around:\n\n$ ingestr ingest --source-uri --dest-uri\n\nIngestr is open-source, requires almost no setup, and it can move data from any source to any destination.\n\nSupports every database you can imagine, data warehouses, and even SaaS applications.\n\nGive it to Claude Code or Codex, and they will now transfer data at lighting speeds.\n\nThis thing is really fast!",
+    "createdAt": "Mon Jun 01 12:35:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 377694,
+      "friendsCount": 843,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061425172159123756",
+    "fullText": "If you told someone in 1990 that a pocket device would access all human knowledge for free, they would call you insane.\nFast forward 30 years from now, what we think is insanity today WILL be possible.",
+    "createdAt": "Mon Jun 01 12:30:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 251356,
+      "friendsCount": 145,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2061402616387559878",
+    "fullText": "On June 17th, join LangChain’s Steffen Hausmann in Munich for a technical roundtable on production-grade agents, agent harnesses, and the open-source Deep Agents SDK.\n\nRegister: https://t.co/uxbVcMEvwl",
+    "createdAt": "Mon Jun 01 11:00:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 151334,
+      "friendsCount": 5341,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2061400590635176251",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Mon Jun 01 10:52:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 377694,
+      "friendsCount": 843,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061387916954218599",
+    "fullText": "If you spend JUST one hour per day actually using AI to build something real, within 90 days you will be in the top 1% of people who understand what is happening. The bar is still shockingly low.",
+    "createdAt": "Mon Jun 01 10:02:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 49954,
+      "friendsCount": 2332,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJuE2eTbgAALkNa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2061387328300654947",
+    "fullText": "Losing to AlphaGo forced human Go to level up. h/t @phokarlsson https://t.co/zK5pcHuu3R",
+    "createdAt": "Mon Jun 01 10:00:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70727,
+      "friendsCount": 35020,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJtpOWHXcAQvIxW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2061356964634890515",
+    "fullText": "💙💙💙 https://t.co/9sjgG471D1",
+    "createdAt": "Mon Jun 01 07:59:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Open Sovereign AI @ii_posts. Founder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 324479,
+      "friendsCount": 101,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2061350809346986059",
+    "fullText": "With Nemotron &amp; Cosmos NVIDA gonna commoditise everyone's complement",
+    "createdAt": "Mon Jun 01 07:35:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 152237,
       "friendsCount": 1261,
       "location": ""
     },
@@ -23,7 +229,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 152086,
+      "followersCount": 152237,
       "friendsCount": 1261,
       "location": ""
     },
@@ -39,7 +245,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 281407,
+      "followersCount": 281513,
       "friendsCount": 332,
       "location": "New York, USA"
     },
@@ -57,7 +263,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 1092581,
+      "followersCount": 1093524,
       "friendsCount": 2049,
       "location": "Palo Alto"
     },
@@ -75,7 +281,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 302888,
+      "followersCount": 303596,
       "friendsCount": 880,
       "location": "Santa Clara, CA"
     },
@@ -93,7 +299,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 302888,
+      "followersCount": 303596,
       "friendsCount": 880,
       "location": "Santa Clara, CA"
     },
@@ -245,8 +451,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 367111,
-      "friendsCount": 12864,
+      "followersCount": 367898,
+      "friendsCount": 12863,
       "location": "San Francisco, CA"
     },
     "images": [],
