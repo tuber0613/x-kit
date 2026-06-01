@@ -1,11 +1,302 @@
 [
   {
     "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 853910,
+      "friendsCount": 5846,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJwpUxRboAAmpEs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2061568169354129640",
+    "fullText": "Want to try GStack /office-hours for your product idea as quickly as possible? It's one click here: \n\nhttps://t.co/8g3LJkrV6i https://t.co/YEGSvd445K",
+    "createdAt": "Mon Jun 01 21:58:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 222432,
+      "friendsCount": 1663,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJwnAN9WUAAMPpM.jpg",
+      "https://pbs.twimg.com/media/HJwnANBXQAA2VkC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2061565621360337132",
+    "fullText": "It would be great if AI agents like Codex and Cursor could expose an API to web views. This would allow a webpage opened in the right pane to send prompts (including text and images) directly back to the agent.\n\nFor instance, if I build a webpage similar to Claude Design, I could add an in-page input box. When a user enters a prompt and clicks \"send\", the webpage would call an API like \"window.codex.sendPrompt(text, attachments)\" to push that content straight into the chat interface on the left. This would enable much deeper interaction between the agent and the webpage, unlocking a lot more possibilities.\n\ncc @thsottiaux @jxnlco @Dimillian",
+    "createdAt": "Mon Jun 01 21:48:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4907923,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2061564502160892138",
+    "fullText": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to build on Amazon Bedrock with OpenAI through the security, compliance, and governance workflows they already use.\n\nThis is also the beginning of a broader expansion of OpenAI capabilities on AWS, including future availability for cybersecurity capabilities like Daybreak.\n\nhttps://t.co/vMws0YU6Q3",
+    "createdAt": "Mon Jun 01 21:44:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 377734,
+      "friendsCount": 843,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061561050814632084",
+    "fullText": "Most people treat AI like a search engine with better grammar. The people changing the world treat it like a tireless cofounder who works 24 hours a day and never complains.",
+    "createdAt": "Mon Jun 01 21:30:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 343264,
+      "friendsCount": 4862,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJwhzJEW0AAygIA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2061560497783382373",
+    "fullText": "It's cool to see that the https://t.co/SdGWBBVrqG has become progressively a major source of learning and news about AI for the community.\n\nJust look at the recent content created & major announcements & tutorial from @openclaw, @nvidia, @jetbrains, @IBMResearch,...\n\nWhat is the next blogpost you're going to create on HF? AI need to be more public, open and collaborative and we need everybody's help to make it so!",
+    "createdAt": "Mon Jun 01 21:28:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70716,
+      "friendsCount": 35019,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2061543209818271744/vid/avc1/1920x1064/xTlt463BdDAGoMTD.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2061558627547206068",
+    "fullText": "true  https://t.co/lvLejo05x8",
+    "createdAt": "Mon Jun 01 21:20:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 377734,
+      "friendsCount": 843,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061558508320109054",
+    "fullText": "https://t.co/H3mb8Xk32P",
+    "createdAt": "Mon Jun 01 21:20:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70716,
+      "friendsCount": 35019,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJwgI4vXQAAQ19h.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2061558071449514019",
+    "fullText": "on a serious note - who at @Meta is responsible to pumping totally random and dumb “promoted for you” notifications? https://t.co/ijcuNvaa9l",
+    "createdAt": "Mon Jun 01 21:18:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 284562,
+      "friendsCount": 8224,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2061556616617476467",
+    "fullText": "LOL imagine still going to a business school.",
+    "createdAt": "Mon Jun 01 21:12:53 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "LangChain",
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 251386,
+      "followersCount": 251378,
+      "friendsCount": 145,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJwb569W8AAQxOc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2061553421807718493",
+    "fullText": "This macroeconomic research agent powered by Deep Agents, LangSmith, and the @youdotcom Finance Research API: \n✅ Analyzes GDP data\n✅ Detects anomalies\n✅ Investigates structural &amp; cyclical drivers at the sector level\n✅ Produces structured, cited briefings https://t.co/6sKb43OwfQ",
+    "createdAt": "Mon Jun 01 21:00:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DavidSHolz",
+      "name": "David",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
+      "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
+      "followersCount": 102341,
+      "friendsCount": 10248,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DavidSHolz/status/2061549105600717221",
+    "fullText": "you gotta be confident enough to act and open enough to learn",
+    "createdAt": "Mon Jun 01 20:43:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 281643,
+      "friendsCount": 332,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2061548467063791618/vid/avc1/1080x1920/kr1k0dYHSyFud6Xf.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2061548752989753454",
+    "fullText": "Create compositing mattes in seconds with Aleph 2.0\n\nMattes let you isolate a subject from its background so you can composite, color or apply effects to just one part of your shot.\n\n1. Upload your video\n2. Prompt for a white silhouette on black\n3. Review your preview\n4. Hit generate\n5. Set your matte clip as a luma matte in your editor\n\nClean mattes, ready for compositing. No rotoscoping required.",
+    "createdAt": "Mon Jun 01 20:41:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "xdh",
+      "name": "Xuedong Huang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850293366145306624/BLdjcYGg_normal.jpg",
+      "description": "CTO@Zoom",
+      "followersCount": 1846,
+      "friendsCount": 103,
+      "location": "Bellevue, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xdh/status/2061547923088048572",
+    "fullText": "https://t.co/6UQQH8aOux",
+    "createdAt": "Mon Jun 01 20:38:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 468688,
+      "friendsCount": 1496,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2061547879374705050",
+    "fullText": "A few tweaks in last cohorts of Gauntlet AI:\n\n* Longer projects, more complexity\n\n* We don't clone anymore, only brownfield projects on top of large/nasty repos \n\n* Panel interview, architecture defense for every app\n\n* Constant pressure + security testing for every submission",
+    "createdAt": "Mon Jun 01 20:38:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485626,
+      "friendsCount": 3345,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJwR96DXoAAVVhQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2061542509302485258",
+    "fullText": "NEW book from @PacktPublishing @PacktDataML ...\n\n\"Time Series with PyTorch: Modern Deep Learning Toolkit for Real-World Forecasting Challenges\", available at https://t.co/Z7TA0jhlT5 https://t.co/o1Q2NyA0hr",
+    "createdAt": "Mon Jun 01 20:16:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485626,
+      "friendsCount": 3345,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJwRtjwXYAAqGMq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2061542208692510992",
+    "fullText": "Highly rated new book from @PacktPublishing @PacktDataML ...\n\n\"Architecting Generative AI Applications: Build, deploy, and scale production-ready GenAI systems with LLMOps best practices\"\n\nSee it at https://t.co/h5NdYVGvVx https://t.co/EDnJJfPicR",
+    "createdAt": "Mon Jun 01 20:15:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NaveenGRao",
+      "name": "Naveen Rao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1846057841934606337/CGG3iJKT_normal.jpg",
+      "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
+      "followersCount": 37544,
+      "friendsCount": 941,
+      "location": "San Diego, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NaveenGRao/status/2061536994380198288",
+    "fullText": "I feel there are more people who are sick in the Bay Area than other places. Every inner driver is sneezing/coughing and people in restaurants. Am I imagining this?",
+    "createdAt": "Mon Jun 01 19:54:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 251378,
       "friendsCount": 145,
       "location": ""
     },
@@ -21,7 +312,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 989793,
+      "followersCount": 989734,
       "friendsCount": 62,
       "location": "The Cloud"
     },
@@ -39,7 +330,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 377743,
+      "followersCount": 377734,
       "friendsCount": 843,
       "location": ""
     },
@@ -55,7 +346,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 114033,
+      "followersCount": 114039,
       "friendsCount": 49,
       "location": ""
     },
@@ -73,8 +364,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 284531,
-      "friendsCount": 8223,
+      "followersCount": 284562,
+      "friendsCount": 8224,
       "location": "United States"
     },
     "images": [],
@@ -89,8 +380,8 @@
       "name": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models and neurosymbolic AI ever since.",
-      "followersCount": 224768,
-      "friendsCount": 7015,
+      "followersCount": 224788,
+      "friendsCount": 7014,
       "location": ""
     },
     "images": [
@@ -366,11 +657,27 @@
   },
   {
     "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 513918,
+      "friendsCount": 50,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2061480944905982276",
+    "fullText": "Easily add yourself to your video creations in Gemini.\n\nHere’s how to create your own digital avatar that looks and sounds like you with Gemini Omni. 🧵",
+    "createdAt": "Mon Jun 01 16:12:12 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "LangChain",
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 251386,
+      "followersCount": 251378,
       "friendsCount": 145,
       "location": ""
     },
