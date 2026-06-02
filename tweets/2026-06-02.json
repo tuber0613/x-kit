@@ -1,11 +1,229 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 451977,
+      "friendsCount": 562,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2061791441501008067",
+    "fullText": "The 60% rule to compact your context:\n\nDon't let your sessions go above 60% in context utilization. After that, your model will start feeling drunk and you'll risk Claude Code to trigger auto-compact for you.\n\nAuto-compact is not good if you want control on what context stays and what goes.\n\nInstead:\n\n• Run /statusline to permanently display context %\n• When > 60%, run /compact with instructions on what to keep\n• For even more control, dump session context to a file and edit it\n\nMany people don't know this:\n\nYou can run /compact with a prompt explaining what you want to keep. For example:\n\n\"/compact Keep the project description and change instructions\"\n\nThis will anchor Claude Code's summary around those topics and will compress everything else more aggressively.",
+    "createdAt": "Tue Jun 02 12:46:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 377740,
+      "friendsCount": 844,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061787551069884505",
+    "fullText": "Somewhere right now, a 19-year-old with no funding, no degree, and no connections is building something, where you least expect it, with AI that will outperform a Fortune 500 company's best effort.",
+    "createdAt": "Tue Jun 02 12:30:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 152638,
+      "friendsCount": 1261,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJzv2U1agAAm5rg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2061786484341182591",
+    "fullText": "小红书一个月涨了一万粉，离谱啊，现在三万了 https://t.co/skMq6NB4ea",
+    "createdAt": "Tue Jun 02 12:26:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 284749,
+      "friendsCount": 8226,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2061785122207060375",
+    "fullText": "imagine not working for anthropic lol",
+    "createdAt": "Tue Jun 02 12:20:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 284749,
+      "friendsCount": 8226,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2061784523390505314",
+    "fullText": "gm \n\ntoday will be another big day in the world of ai tools",
+    "createdAt": "Tue Jun 02 12:18:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 468610,
+      "friendsCount": 1496,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2061783134270578835",
+    "fullText": "Hey @grok how many bills sponsored by Bernie Sanders have become law, what are they, and how long has he been in Congress?",
+    "createdAt": "Tue Jun 02 12:12:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "Building Beneficial AGI - CEO @asi_alliance @singularitynet, @true_agi , Interim CEO @Singularity_Fi, @SophiaVerse_AI, Chair @opencog  @HumanityPlus  @iCog_Labs",
+      "followersCount": 76698,
+      "friendsCount": 1663,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2061781263787135119",
+    "fullText": "https://t.co/IySz1fv2VI",
+    "createdAt": "Tue Jun 02 12:05:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 152638,
+      "friendsCount": 1261,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJzi6BhaIAAFJPX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2061772644215832828",
+    "fullText": "收到了 @dotey  宝玉老师的图解 Skill，已严肃阅读\n\n里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看 https://t.co/zbhroZvtw5",
+    "createdAt": "Tue Jun 02 11:31:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 377740,
+      "friendsCount": 844,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061772454104543404",
+    "fullText": "The thing nobody tells you about exponential change is that it feels like nothing is happening right up until the moment everything happens at once.",
+    "createdAt": "Tue Jun 02 11:30:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 304869,
+      "friendsCount": 882,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2061764802662265217",
+    "fullText": "Building Efficient Sovereign AI Models for Europe With NVIDIA Nemotron https://t.co/2tioxJmttI",
+    "createdAt": "Tue Jun 02 11:00:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 151167,
+      "friendsCount": 5342,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2061760340648435943",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Tue Jun 02 10:42:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 87319,
+      "friendsCount": 5249,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJzUTrHWUAARHJY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2061756306281611607",
+    "fullText": "your AI agent thinks you're lame and I'll prove it\n\nupload your agent traces (CC/Codex/Pi/Claw) to @huggingface and let this app roast you\n\nhere's what boss' agent thinks of him @julien_c \n\nshare yours below https://t.co/0ypRBYUNDb",
+    "createdAt": "Tue Jun 02 10:26:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 152638,
+      "friendsCount": 1261,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJzLOAnbgAAjo1W.jpg",
+      "https://pbs.twimg.com/media/HJzLPLIbQAABdCw.jpg",
+      "https://pbs.twimg.com/media/HJzPEEGasAAISB6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2061754975685108020",
+    "fullText": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！\n\n我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。\n\n基本上是我一个人在一页一页地调，非常耗时间。所以我开始引入赞助商。\n\n目前产品依然是开源的，赞助商那边会同步更新，我也会帮忙做一些小的适配工作。\n\n使用方式，在360安全龙虾内，点击专家-龙虾专家，第一排就可以使用我的两个skill。\n\n大家也可以去这些赞助商的渠道去使用 PPT Skills，一般都会有一些免费额度供大家使用。\n\n而且还会有其他内置的能力可以配合，比如图片生成、视频生成等\n\n这些都可以添加到 PPT 里面，也可以跟赞助商其他内置的、非常好的 Skills 去配合。",
+    "createdAt": "Tue Jun 02 10:21:06 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70719,
+      "followersCount": 70722,
       "friendsCount": 35015,
       "location": "latent space"
     },
@@ -21,7 +239,7 @@
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
-      "followersCount": 96125,
+      "followersCount": 96268,
       "friendsCount": 820,
       "location": "San Francisco"
     },
@@ -39,7 +257,7 @@
       "name": "Azeem Azhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
       "description": "Exponential View @exponentialview.",
-      "followersCount": 49944,
+      "followersCount": 49946,
       "friendsCount": 2332,
       "location": "2.718281828459045"
     },
@@ -57,7 +275,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 368305,
+      "followersCount": 368570,
       "friendsCount": 12864,
       "location": "San Francisco, CA"
     },
@@ -75,7 +293,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 222654,
+      "followersCount": 222712,
       "friendsCount": 1663,
       "location": "Chicago, IL"
     },
@@ -94,7 +312,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 142699,
+      "followersCount": 142713,
       "friendsCount": 3241,
       "location": "on ⛓"
     },
@@ -110,7 +328,7 @@
       "name": "sridhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
       "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
-      "followersCount": 31354,
+      "followersCount": 31357,
       "friendsCount": 621,
       "location": "Mountain View, CA"
     },
@@ -144,7 +362,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 368305,
+      "followersCount": 368570,
       "friendsCount": 12864,
       "location": "San Francisco, CA"
     },
