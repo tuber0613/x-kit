@@ -1,6 +1,624 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3060837,
+      "friendsCount": 790,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2061864920518660426",
+    "fullText": "It's much more dangerous to offend Jessica than to offend me, because she's more polite and has a better memory for misdeeds. So she can be smiling at someone while simultaneously thinking about the bad thing they did 10 years ago.",
+    "createdAt": "Tue Jun 02 17:37:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 251392,
+      "friendsCount": 146,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2061864647884464430",
+    "fullText": "https://t.co/8TOGqiPj4D",
+    "createdAt": "Tue Jun 02 17:36:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 225268,
+      "friendsCount": 7016,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0ynItaYAAFSuP.jpg",
+      "https://pbs.twimg.com/media/HJ0ynIna8AARIT3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2061861474440827162",
+    "fullText": "🚨 Today is a milestone in US AI policy, and an unbelievable moment for me, personally. 🚨\n\nHere’s what I told @senjohnkennedy was the most important policy to implement, at the US Senate in May 2023, and what Trump signed today. \n\nI can’t take credit for causality, but it’s thrilling to see a wish come true. \n\nMay any such oversight be bipartisan, and in the interest of American citizens, and in the interests of humanity as a whole.",
+    "createdAt": "Tue Jun 02 17:24:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 491201,
+      "friendsCount": 76,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2061861227383685120/vid/avc1/1280x720/MDVLXoE2luDeCMjK.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2061861293569765847",
+    "fullText": "Today we're announcing that hybrid agentic inference is coming to Perplexity Computer.\n\nComputer can split tasks between a local model running on your machine and frontier models in the cloud. This keeps private data on your device and maximizes token efficiency.\n\nComing soon. https://t.co/6t3PrmI1FX",
+    "createdAt": "Tue Jun 02 17:23:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SilverJacket",
+      "name": "Matthew Hutson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1402377580167241734/8zTEBQyJ_normal.jpg",
+      "description": "Freelance science writer for The New Yorker, Science, Nature, etc. Fire dancer. Into cognition—animal and mineral (aka psych & AI).",
+      "followersCount": 4592,
+      "friendsCount": 486,
+      "location": "NYC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0xjb-XEAAUlc9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SilverJacket/status/2061858902061269062",
+    "fullText": "On the Waterfront is actually pretty funny. Marlon Brando plays a puppy poet. On pigeons: \"Boy, they sure got it made, huh? Eatin', sleepin', flyin' around like crazy. Raisin' gobs of squabs.\" https://t.co/RAp9qjtyQ5",
+    "createdAt": "Tue Jun 02 17:14:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 305123,
+      "friendsCount": 883,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2061858341748412416/vid/avc1/1280x720/8ulIZ9J_wxL5znqa.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2061858457519575280",
+    "fullText": "Teach an agent a workflow once. Have it remember after every rebuild.\n\nThis tutorial shows how to deploy @nousresearch Hermes Agent with NVIDIA NemoClaw and OpenShell, connect it to Slack, Outlook, GitHub, and NVIDIA developer forums, then turn a chat correction into a reusable skill.\n\nPrivate data stays behind runtime policies. Learned skills persist across deployments.",
+    "createdAt": "Tue Jun 02 17:12:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
+      "followersCount": 1445282,
+      "friendsCount": 279,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2061856074462879744/vid/avc1/1080x1080/62RJA1IrDvpnIaeZ.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/2061857539977842793",
+    "fullText": "We believe AI can be a dedicated research partner to help discover the next breakthrough.\n\nEnter Co-Scientist: our latest Gemini-based multi-agent system that can generate, debate and evolve novel hypotheses for complex scientific problems 🧵",
+    "createdAt": "Tue Jun 02 17:08:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 49947,
+      "friendsCount": 2332,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2061855379412418886",
+    "fullText": "Software engineering roles are growing and concentrating in the top-paying US companies via @GergelyOrosz https://t.co/HtwyVIS9KU",
+    "createdAt": "Tue Jun 02 17:00:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 225268,
+      "friendsCount": 7016,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0uZxuaIAAlYqa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2061855227096293457",
+    "fullText": "Trump blinked on AI regulation.\n\nRIP the crazy era of let it rip regardless of consequences. 🪦 https://t.co/fMDLmudySr",
+    "createdAt": "Tue Jun 02 16:59:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 225268,
+      "friendsCount": 7016,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2061854129950163235",
+    "fullText": "I have a great idea. I am going to spend a trillion dollars so I can make $10 billion a year in profit, if all goes well. \n\nThat’s a 1% annual return – IF it works out. \n\nWho’s in? \n\nDon’t worry about the risk that it might not work out!",
+    "createdAt": "Tue Jun 02 16:55:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 498823,
+      "friendsCount": 495,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2061848699718754481",
+    "fullText": "Here we go! Tune in for the #MicrosoftBuild keynote starting now. I’m biased but you won’t want to miss it… https://t.co/qNoMB37vJ8",
+    "createdAt": "Tue Jun 02 16:33:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MicrosoftAI",
+      "name": "Microsoft AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
+      "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
+      "followersCount": 7737,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2061840313052758017/vid/avc1/1280x720/4VsjFyQaUavKIacE.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/MicrosoftAI/status/2061847817975415064",
+    "fullText": "MAI has entered the chat. Watch live now → https://t.co/G5go5AAoVe  \n\n#MSBuild https://t.co/sqrmFmVE6i",
+    "createdAt": "Tue Jun 02 16:30:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "lexfridman",
+      "name": "Lex Fridman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1854713863817646088/nTmsz7jR_normal.jpg",
+      "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
+      "followersCount": 4921102,
+      "friendsCount": 686,
+      "location": "Austin and Boston"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0j2fca8AAfpRW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lexfridman/status/2061847191367647457",
+    "fullText": "I got to spend all day today with Jensen in Taiwan: talking with thousands of engineers and eating street food at a night market. Jensen is received as a rockstar in Taiwan, like it's Beatles in the 60's. It's mind-blowing and fun to watch. But most importantly, through all the interactions and all my conversations with him, he remained the same humble, kind, thoughtful, funny guy he always was, even as a kid who went to these same night markets many years ago.\n\nBtw, we tried a crazy amount of different street food. It's legit some of the most delicious food I've ever had. I can't wait to share video of it, including a ton of our conversations and hangout. When I can pause for a moment from all the travel to edit the video, I'll post it.\n\nCan't wait to continue talking to Jensen and engineers at Computex this week, and exploring more of Taiwan, and of course roaming the night markets for some more delicious street food.\n\nDays like these, even more than usual, I feel like the luckiest kid in the world.\n\nLove you all! ❤️",
+    "createdAt": "Tue Jun 02 16:27:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 424995,
+      "friendsCount": 625,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2061846994356953130",
+    "fullText": "It is astounding how much and how fast you can learn anything with LLMs. On one hand, you could devalue intelligence / sulk or you can just be some guy in a small room learning the absolute frontier of your field at any given hour. Self-teaching has never been so diffuse.",
+    "createdAt": "Tue Jun 02 16:26:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4905154,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2061840534667497472/vid/avc1/3840x2160/ScgF4IfUoqq7Cp2v.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2061845949170045346",
+    "fullText": "Building apps has never been easier.\n\nWith Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL.\n\nRolling out to Business and Enterprise plans, before expanding more broadly. https://t.co/fF17Y2EzCP",
+    "createdAt": "Tue Jun 02 16:22:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 502456,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0kPYdWkAAbdW-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2061844094251421740",
+    "fullText": "Seeing Isn't Knowing\n\nDo VLMs Know When Not to Answer Spatial Questions (and Why)? https://t.co/DmjhIhSZLR",
+    "createdAt": "Tue Jun 02 16:15:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sapna",
+      "name": "Sapna Maheshwari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/766436031004602368/-snSkBUg_normal.jpg",
+      "description": "whatsupna? @nytimes business reporter covering TikTok and emerging media. pun lover, Tar Heel, from CT. tips to sapna@nytimes.com, DM for Signal, WhatsApp.",
+      "followersCount": 39374,
+      "friendsCount": 1343,
+      "location": "Manhattan, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sapna/status/2061843732320723148",
+    "fullText": "Anita Hill said that Glamour magazine gave her hope when it named her a Woman of the Year in the early 1990s. “I don’t know very many magazines, neither Time nor Newsweek, that gave me that much interest,” she told me. \n\nA v diff time for women's mags: https://t.co/B0Hj8Ijh0T",
+    "createdAt": "Tue Jun 02 16:13:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3060837,
+      "friendsCount": 790,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2061842652765761682",
+    "fullText": "The most important component of writing clearly is simply to have high standards for clarity. Then if you write something unclear, you notice, and ask: what did I mean to say? You can just keep doing this over and over. And if you have high standards for clarity, you will.",
+    "createdAt": "Tue Jun 02 16:09:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 514533,
+      "friendsCount": 50,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2061842235457720507",
+    "fullText": "See Gemini Omni in action with a live demo from one of the team members who helped build it.\n\nJoin us on Discord as Product Manager Chloe shares how to use Gemini Omni’s multimodal inputs, real-world knowledge, and easy conversational editing to create videos like never before.\n\n👉Join the Discord to watch live: https://t.co/IAYiy1ZOzh\n📅 Wednesday, June 3 at 11:30am PT",
+    "createdAt": "Tue Jun 02 16:07:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 378355,
+      "friendsCount": 844,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061841053502607408",
+    "fullText": "Let be clear: The best way to learn AI is NOT a course. It is building something real, pick a problem. Pick a tool. Ship something. You will learn more in 90 days of building than a year of reading.",
+    "createdAt": "Tue Jun 02 16:03:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 251392,
+      "friendsCount": 146,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2061840592070488064/pu/vid/avc1/1280x720/zTIUa-yp5L-xtmxP.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2061840648626450874",
+    "fullText": "Managed Deep Agents explained in 1 minute by @hwchase17 https://t.co/UGTOIwhAn0",
+    "createdAt": "Tue Jun 02 16:01:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 345375,
+      "friendsCount": 20480,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0g06RWEAAWnGH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2061840301505839123",
+    "fullText": "9 distance measures in data science w/algorithms (v/@MaartenGr). https://t.co/ngbKitp0hw",
+    "createdAt": "Tue Jun 02 16:00:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
+      "followersCount": 142724,
+      "friendsCount": 3243,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2061840277254647892",
+    "fullText": "nothing as humbling as having kids",
+    "createdAt": "Tue Jun 02 16:00:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 502456,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0fUcuWYAA3MwJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2061838703501164955",
+    "fullText": "GPU Forecasters\n\nLanguage Models as Selective Surrogates for Kernel Runtime Optimization https://t.co/s2r0lFWz9r",
+    "createdAt": "Tue Jun 02 15:53:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 468611,
+      "friendsCount": 1496,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0ca35XgAAOMRl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2061835456354852868",
+    "fullText": "This is pretty cool.\n\nA by-the-hour commit view of the first 5 weeks in Gauntlet AI. https://t.co/nicQXuSrYl",
+    "createdAt": "Tue Jun 02 15:40:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 502456,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0cK_WWkAAjEgY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2061835314599993392",
+    "fullText": "Crafter\n\nA Multi-Agent Harness for Editable Scientific Figure Generation from Diverse Inputs https://t.co/k3guGUAe38",
+    "createdAt": "Tue Jun 02 15:40:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 378355,
+      "friendsCount": 844,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2061833041975107584/vid/avc1/1920x1080/JslY968Ud0pyxpkl.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061833464144330866",
+    "fullText": "A nonprofit most people have never heard of just became the most powerful force in AI. The OpenAI Foundation holds a $130 billion stake, controls every board seat, and is on track to become the richest philanthropy in history. Demis Hassabis now says AGI could arrive by 2029. And Anthropic just reclaimed the coding crown from GPT 5.5. \n\n-- Opus 4.8 scored 69.2% on SWE-Bench Pro. GPT 5.5: 58.6%. \n\n-- A $5 handheld device detects lung cancer from one drop of blood at 95% accuracy. 10,000x more sensitive than a hospital lab.\n\n-- Wind and solar just surpassed natural gas globally for the first time: 22% of all electricity on Earth.\n\n-- IBM and the US government just bet $2B on America's first quantum chip foundry.",
+    "createdAt": "Tue Jun 02 15:32:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 378355,
+      "friendsCount": 844,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061831816731078982",
+    "fullText": "Nationwide survey on the state of EDUCATION. Let your voice be heard.  What do you think of High School and College?  Students, parents and teachers -- let us know what you think &gt;&gt;&gt; https://t.co/Z3CpZ4y1qV   https://t.co/Z3CpZ4y1qV",
+    "createdAt": "Tue Jun 02 15:26:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 378355,
+      "friendsCount": 844,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061829665530970593",
+    "fullText": "https://t.co/VeuUhAQwdU",
+    "createdAt": "Tue Jun 02 15:17:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 284783,
+      "friendsCount": 8227,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2061828729286902012",
+    "fullText": "doomprompting is the new doomscrolling",
+    "createdAt": "Tue Jun 02 15:14:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 5015348,
+      "friendsCount": 1016,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2061828631089844709",
+    "fullText": "one of the quotes i find most inspiring on a hard day:\n\n\"Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where you are going, there is neither working nor planning nor knowledge nor wisdom\"\n\nEcclesiastes 9:10",
+    "createdAt": "Tue Jun 02 15:13:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 284783,
+      "friendsCount": 8227,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2061827414364233883",
+    "fullText": "Pro tip: your fallbacks should have fallbacks.",
+    "createdAt": "Tue Jun 02 15:08:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 306036,
+      "friendsCount": 849,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0UNX9aMAAr-ON.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2061826427461464405",
+    "fullText": "// Scaling Behavior of Single LLM-Driven Multi-Agent Systems //\n\nDoes adding more agents actually make a multi-agent system better?\n\nIt's possible that collective intelligence emerges from interaction design rather than from agent plurality.\n\nThis is something important to understand if you are building multi-agent systems.\n\nThis new study reports that the optimal number of agents depends on the base model's capability and the task type, not on adding more of them.\n\nPaper: https://t.co/XuTjv0k1mj\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Tue Jun 02 15:05:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 451973,
+      "friendsCount": 562,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0ThpOaYAAMEuV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2061825677062721891",
+    "fullText": "How to agentmaxx in a week for free:\n\nNVIDIA and Microsoft are currently hosting Builder's Arcade.\n\nThis is a 5-day mini-program running between June 1 - 5 where you'll ship agentic AI running on NVIDIA-accelerated Azure AI Foundry.\n\nHere are the details: https://t.co/hQAUVljX0F",
+    "createdAt": "Tue Jun 02 15:02:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai, @readsail\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 87088,
+      "friendsCount": 899,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ0G8klaUAAO_uQ.jpg",
+      "https://pbs.twimg.com/media/HJ0G9aiaUAArLeV.jpg",
+      "https://pbs.twimg.com/media/HJ0G-MyaMAAVNg2.jpg",
+      "https://pbs.twimg.com/media/HJ0HF_IbYAA_yU_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2061813361848029631",
+    "fullText": "My time at Ai2 / @allen_ai has come to an end. \n\nAi2 is a wonderful place. The last 2.5+ years building Olmo, Tulu, and other projects will be one of the peaks of my entire career. I'm extremely thankful for my teammates and the open community who made this work possible. \n\nFor me, it's time to try something different. I will still be working in the open model & open science spaces (more news on that soon). In the meantime I'll be spending a few months learning, chatting with a broader network, getting married (!!) and most importantly recharging from pouring my soul into this place.\n\nI've attached the note I shared with the team and some fun photos from our time together. I'll keep cheering for Ai2 and am excited to see what you build next.",
+    "createdAt": "Tue Jun 02 14:13:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 378355,
+      "friendsCount": 844,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2061810791276245168",
+    "fullText": "Hollywood spent decades teaching us to fear AI. Then we trained AI on those stories. And it learned to misbehave. Stories are blueprints; we must end the fearmongering narrative.",
+    "createdAt": "Tue Jun 02 14:02:53 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
