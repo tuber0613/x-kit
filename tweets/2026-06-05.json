@@ -1,11 +1,370 @@
 [
   {
     "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 251789,
+      "friendsCount": 154,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2062987852170907649/pu/vid/avc1/720x1280/BpB_jIWX4ShDUXyc.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2062987916121362917",
+    "fullText": "🫖 @BraceSproul + @jakebroekhuizen spill the tea on harnesses https://t.co/bDPfTwYzJu",
+    "createdAt": "Fri Jun 05 20:00:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 307351,
+      "friendsCount": 889,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2062978570419400704/vid/avc1/1280x720/OAJCq9vU_0jKY9BR.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2062987827080499317",
+    "fullText": "Nemotron 3 Ultra is here, and we've got just the tutorial to get you going.\n\nHere's how to set up Ultra in your favorite agentic harness + some great demos of the model's capabilities 👇 https://t.co/jylnpBMyj3",
+    "createdAt": "Fri Jun 05 20:00:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 352013,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2062987585757331456/vid/avc1/1280x720/9LEGCrKdGkv49kI_.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2062987643286438337",
+    "fullText": "Today’s Codex quality-of-life updates start in settings.\n\nYou can now search Codex settings, with results grouped by category, so you can find what you want to change without scanning every section – this makes setup and customization easier. https://t.co/nyFu22FKth",
+    "createdAt": "Fri Jun 05 19:59:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 226096,
+      "friendsCount": 7021,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKExhvkaIAAkTcF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2062986049060778473",
+    "fullText": "not scientific, but doesn’t bode well for OpenAI. \n\nif the IPO goes badly, their luck may run out. https://t.co/Uy8FRSQa8S",
+    "createdAt": "Fri Jun 05 19:52:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 61797,
+      "friendsCount": 10956,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2062986026050846827",
+    "fullText": "“We shape our buildings; thereafter they shape us.”\n\n– Marshall McLuhan",
+    "createdAt": "Fri Jun 05 19:52:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 356928,
+      "friendsCount": 4866,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKEm7U0W8AAk0zo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2062982727729553913",
+    "fullText": "Token costs are why there will be no saas apocalypse / good dev tools are cached intelligence for agents!\n\nThe popular theory goes: agents can write code, so they'll just rebuild every tool from scratch and hit raw APIs. no more dev tools, no more CLIs, no more software layers. just agents and endpoints!\n\nWe just tested this and the data says the opposite. We benchmarked Claude Code and Codex on real Hugging Face Hub tasks (~1,000 graded runs), with two setups: the agent-optimized hf CLI vs the agent hand-rolling curl or SDK calls from scratch.\n\nHand-rolling burns up to 6x more tokens on multi-step tasks and fails more often (84% vs 94% task success). \n\nAnd that's just dropping one abstraction layer. It would obviously be orders of magnitude more tokens and a dramatically higher failure rate if the agent tried to bypass HF altogether and rebuild model hosting, versioning, and distribution from scratch. Every time an agent re-derives a workflow from raw API calls, you pay for that reasoning in tokens. every single run. a good CLI compresses that entire chain into a few high-level commands the agent can't get wrong.\nIn a world where everyone is complaining tokens are too expensive, abstraction is leverage: thousands of hours of design decisions your agent doesn't have to re-reason about at inference time.\n\nGood tools are cached intelligence for agents!\n\nSo no, agents won't rebuild everything from scratch. they'll gravitate to the most token-efficient tools, because that's what their owners pay for. The software that survives won't just be accessible to agents, it will be accurate and cheap for them to drive.\n\nWe're seeing it happen with HF, which is becoming the platform for agents to use AI: ~49M requests in just two months, and growing fast!\n\nhttps://t.co/Y7q6yuxZrZ",
+    "createdAt": "Fri Jun 05 19:39:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ESYudkowsky",
+      "name": "Eliezer Yudkowsky ⏹️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934759522050166788/xKpgxWW5_normal.jpg",
+      "description": "The original AI alignment person.  Understanding the reasons it's difficult since 2003.\n\nThis is my serious low-volume account.  Follow @allTheYud for the rest.",
+      "followersCount": 227246,
+      "friendsCount": 101,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ESYudkowsky/status/2062980293901025693",
+    "fullText": "Today is June 5th, one day to take a break from fighting each other online, and remind ourselves of our shared humanity and common goals by uniting around the one thing we all agree about:  Repealing the Jones Act.  https://t.co/ajQqtTdt6z",
+    "createdAt": "Fri Jun 05 19:30:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1328864,
+      "friendsCount": 35,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2062979607448682731",
+    "fullText": "New Anthropic Science Blog: Making Claude a chemist.\n\nTo manipulate a molecule, chemists first need to understand its structure. Their main tool is NMR spectroscopy.\n\nWe found Opus 4.7 matches—and on some tasks beats—dedicated NMR software. Read more: https://t.co/1jUvz7wdhV",
+    "createdAt": "Fri Jun 05 19:27:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 285751,
+      "friendsCount": 8229,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2062978005618528627",
+    "fullText": "How come making money is so hard and spending money is so easy? Someone smart please explain this to me.",
+    "createdAt": "Fri Jun 05 19:20:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 285751,
+      "friendsCount": 8229,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2062977076341223833",
+    "fullText": "You can't spell DNA without NDA.",
+    "createdAt": "Fri Jun 05 19:17:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 491946,
+      "friendsCount": 76,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2062976202592460800/vid/avc1/1280x720/Vyvnlx6kE2L1rQGa.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2062976272436002825",
+    "fullText": "Nemotron 3 Ultra is now available for Pro and Max subscribers on Perplexity and Computer.\n\nIt's @nvidia's new open model built for long-running agents. https://t.co/uTvs8rn2Vs",
+    "createdAt": "Fri Jun 05 19:14:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 251789,
+      "friendsCount": 154,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2062973741420752911",
+    "fullText": "You can now deploy Google ADK agents to LangSmith!\n\nWrap your ADK agent with one function call and deploy it to managed infra, with built in:\n✅ Session persistence\n✅ Streaming\n✅ Tracing\nhttps://t.co/QDzGlOJoQg",
+    "createdAt": "Fri Jun 05 19:04:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 285751,
+      "friendsCount": 8229,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2062972036545208758",
+    "fullText": "All technology is provisional.",
+    "createdAt": "Fri Jun 05 18:57:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 306391,
+      "friendsCount": 855,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2062966511808004344",
+    "fullText": "Find an important unsolved problem you care about.\n\nThen use AI to solve it. Go deep! Talk to people. Build a community.\n\nIt might take you months or years, but always know that AI capabilities will only keep improving.\n\nBuild for now and for the future.",
+    "createdAt": "Fri Jun 05 18:35:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
+      "followersCount": 143035,
+      "friendsCount": 3246,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2062965924215611881",
+    "fullText": "there seems to be a “rule of 40” for AI businesses\n\nif you are growing &gt;3X yoy investors seemingly accept negative to low GM and ignore questions about durability\n\nor, you can grow “fast” but not insanely, and you need a much better moat (models, enterprise)\n\nweak on both = tough",
+    "createdAt": "Fri Jun 05 18:32:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 106740,
+      "friendsCount": 606,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2062961994530234368/vid/avc1/1080x1920/yjY6rkli01deSqdx.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2062962915548991717",
+    "fullText": "How do we make AI trustworthy enough for genuine scientific discovery? @Stanford and @SLAClab Associate Professor Ben Nachman – who is also the co-director for the Center for Decoding the Universe – shares his insights from the AI+Science conference ↘️ https://t.co/2t4GlkIjPM",
+    "createdAt": "Fri Jun 05 18:21:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 91127,
+      "friendsCount": 1092,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKEcd91XgAAs4lX.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2062961426411479182",
+    "fullText": "Lakebase brings operational databases into the same governance layer as analytics.\n\nThis walkthrough explores what happens when Backstage, Spotify’s open-source internal developer portal, runs with Unity Catalog governance across ephemeral Postgres branches.\n\nWhat changed:\n• Access controls, audit trails, row-level security, and masking policies applied automatically across branches\n• Branch creation, deletion, and cost attribution traced with a single SQL query\n• Developers safely created isolated database branches without exposing sensitive production data\nhttps://t.co/MzojzqLOpb",
+    "createdAt": "Fri Jun 05 18:15:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 995176,
+      "friendsCount": 62,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKEcd95a0AABPzx.jpg",
+      "https://pbs.twimg.com/media/HKEceOIbAAAFNij.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2062961413468164562",
+    "fullText": "Service sector job tenure just keeps growing\n\nCharts of the Week: https://t.co/O5surLTGMJ https://t.co/o59WHCBDFf",
+    "createdAt": "Fri Jun 05 18:15:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70832,
+      "friendsCount": 35031,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2062961300360015977",
+    "fullText": "spacex has a new compute lease deal with google that prices better than their anthropic deal",
+    "createdAt": "Fri Jun 05 18:14:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 251789,
+      "friendsCount": 154,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKEaPOCXQAIFMn0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2062958954980819111",
+    "fullText": "💸 Enforce cost limits\n🔒 Detect PII\n✅ Act on violations\n…All without leaving LangSmith.\n\nICYMI: LangSmith LLM Gateway is the runtime governance layer that lives where you already build, observe, and evaluate your agents in LangSmith. https://t.co/ffiOo7zpnD",
+    "createdAt": "Fri Jun 05 18:05:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Michael_J_Black",
+      "name": "Michael Black",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
+      "description": "VP Digital Human Research, Epic Games. Emeritus Director, Max Planck Institute for Intelligent Systems (@MPI_IS).",
+      "followersCount": 97804,
+      "friendsCount": 729,
+      "location": "Tübingen, Deutschland"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HKEYjrDbIAA5xWh.mp4"
+    ],
+    "tweetUrl": "https://x.com/Michael_J_Black/status/2062957975946612748",
+    "fullText": "I’ve been capturing 3D human motion for 30 years and today is maybe the biggest day in that history. We are presenting MAMMA at CVPR (oral session 2A). MAMMA is a markerless multi-camera system that has accuracy similar to marker-based systems. https://t.co/YLJlDym657",
+    "createdAt": "Fri Jun 05 18:01:24 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "arena",
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
-      "followersCount": 163763,
+      "followersCount": 163810,
       "friendsCount": 214,
       "location": "US"
     },
@@ -23,7 +382,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3138544,
+      "followersCount": 3141375,
       "friendsCount": 790,
       "location": ""
     },
