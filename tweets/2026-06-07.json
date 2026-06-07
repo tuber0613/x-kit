@@ -1,12 +1,120 @@
 [
   {
     "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 61848,
+      "friendsCount": 10965,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2063671465300623550",
+    "fullText": "Today I learnt about the bricks and mini fig drama",
+    "createdAt": "Sun Jun 07 17:16:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 306598,
+      "friendsCount": 854,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKOfn65bAAAhRYc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2063668567447597273",
+    "fullText": "This was one of the standout AI papers of the week.\n\n(bookmark it)\n\nIt tackles a question most self-improving AI agents ignore: is the agent actually discovering anything, or just remixing what it already knows?\n\nHow can you tell whether the agent is doing real discovery or just confident retrieval?\n\nThe authors give three clean buckets:\n\n- Retrieval is looking something up in a notebook you already have.\n\n- Search is combining tools you already own in new ways.\n\n- Discovery is inventing a new concept that wasn't in your toolkit before.\n\nThe issue is that most agents stop at the first two.\n\nThe math behind their definition (category theory plus a left Kan extension, if you care) is basically a bookkeeping trick to ask: could the old version of me have produced this result? If yes, it's not discovery. If no, something genuinely new showed up.\n\nThey build a Builder/Breaker agent that studies protein mechanics. Over four rounds, the model's fit accuracy actually drops (R² goes from 0.48 to 0.68 to 0.54 to 0.41). At first glance, that looks like a failing agent.\n\nIt isn't.\n\nThe agent kept taking on harder proteins and rewriting its theory to cover them. Data grew almost 10x while the model code grew only 1.3x. A smaller theory covering a bigger world is exactly what good science looks like.\n\nWhy does it matter?\n\nIf you optimize for accuracy alone, your self-improving agent will just settle into easy benchmarks and stop. This paper offers a cleaner success signal and asks whether the agent is compressing more of the world into less code over time.\n\nPaper: https://t.co/Vb4TcCb5YD\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Sun Jun 07 17:05:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 91217,
+      "friendsCount": 1092,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKOdkK0XcAATpJJ.jpg",
+      "https://pbs.twimg.com/media/HKOdlYUXQAAYRN0.jpg",
+      "https://pbs.twimg.com/media/HKOdmmVXsAA7xjG.jpg",
+      "https://pbs.twimg.com/media/HKOdn1FWYAAlUV4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2063666382709883319",
+    "fullText": "A 9,000-mile road trip. 35 days. 25 cities. One data platform.\n\nAs part of #RoadToSummit, https://t.co/YI6jMMtsDv founder Vijay Rao is making his way to #DataAISummit with every layer of the journey running on the Databricks Lakehouse, including vehicle telemetry, trip analytics, social engagement, and a live AI-powered chatbot.\n\nNext stop: #DataAISummit.\n\nFollow along for live updates: https://t.co/Roit9AglEM",
+    "createdAt": "Sun Jun 07 16:56:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 363037,
+      "friendsCount": 4866,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2063665601856282996",
+    "fullText": "Going to be in NYC Tuesday for @datadoghq dash. Who should I meet?",
+    "createdAt": "Sun Jun 07 16:53:15 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70855,
-      "friendsCount": 35032,
+      "followersCount": 70860,
+      "friendsCount": 35033,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKOXx7aWYAAQWSD.jpg",
+      "https://pbs.twimg.com/media/HKOXx7eXkAAbPZb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2063659943585022281",
+    "fullText": "zverev needs to change his shirt - it’s got dried sweat stains all over it - yuk https://t.co/KDCTIx5TI9",
+    "createdAt": "Sun Jun 07 16:30:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 345687,
+      "friendsCount": 20479,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKOQy_fXMAAB40Y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2063652261989957889",
+    "fullText": "In case of fire, save your code first.\n\nImage v/@igor_os777 https://t.co/rm24s651Jt",
+    "createdAt": "Sun Jun 07 16:00:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70860,
+      "friendsCount": 35033,
       "location": "latent space"
     },
     "images": [
@@ -23,7 +131,7 @@
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
-      "followersCount": 459801,
+      "followersCount": 459808,
       "friendsCount": 1150,
       "location": "United States"
     },
@@ -39,7 +147,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3182220,
+      "followersCount": 3184230,
       "friendsCount": 791,
       "location": ""
     },
@@ -55,7 +163,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 125305,
+      "followersCount": 125313,
       "friendsCount": 1,
       "location": ""
     },
@@ -71,7 +179,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3182220,
+      "followersCount": 3184230,
       "friendsCount": 791,
       "location": ""
     },
@@ -87,7 +195,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3182220,
+      "followersCount": 3184230,
       "friendsCount": 791,
       "location": ""
     },
@@ -105,7 +213,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 138843,
+      "followersCount": 138851,
       "friendsCount": 600,
       "location": "Zürich, Suisse"
     },
@@ -121,7 +229,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 226495,
+      "followersCount": 226511,
       "friendsCount": 7023,
       "location": ""
     },
@@ -139,7 +247,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 381749,
+      "followersCount": 381762,
       "friendsCount": 846,
       "location": ""
     },
@@ -171,7 +279,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 226495,
+      "followersCount": 226511,
       "friendsCount": 7023,
       "location": ""
     },
@@ -187,8 +295,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70855,
-      "friendsCount": 35032,
+      "followersCount": 70860,
+      "friendsCount": 35033,
       "location": "latent space"
     },
     "images": [],
@@ -205,8 +313,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70855,
-      "friendsCount": 35032,
+      "followersCount": 70860,
+      "friendsCount": 35033,
       "location": "latent space"
     },
     "images": [],
@@ -223,7 +331,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 381749,
+      "followersCount": 381762,
       "friendsCount": 846,
       "location": ""
     },
@@ -239,7 +347,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 286123,
+      "followersCount": 286138,
       "friendsCount": 8232,
       "location": "United States"
     },
