@@ -1,6 +1,92 @@
 [
   {
     "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70896,
+      "friendsCount": 35033,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKW6flVWsAAtNlM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2064263038203539914",
+    "fullText": "Today, @airstreet led a $60M Series A in Alta Ares to accelerate next-generation air defense for the age of autonomous warfare.\n\nEvery generation of defense risks building the shield it wishes it had for the last war.\n\nBorn from the battlefield in Ukraine and now scaling across Europe, the Middle East, and Asia, Alta Ares is an extraordinarily talent-dense company on a singular mission: to build the Iron Dome for autonomous air defense.\n\nEurope has written enough policy documents about waking up.\n\nIt needs companies that jolt us into action. \n\nWe believe Alta Ares is that company.\n\nPartnering on this mission with @HarpoonVentures @CherryVentures @otb_ventures and more soon!",
+    "createdAt": "Tue Jun 09 08:27:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 153929,
+      "friendsCount": 1262,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2064257508290732032/vid/avc1/1080x1440/jm0mPTos6gonUc3X.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/2064257622803710463",
+    "fullText": "MiMo推出1000 Token/s超高速模型｜体验测评\n\nMiMo 推出了 MiMo V2.5 Pro UltraSpeed 超高速的模型版本，能够实现每秒输出超过 1,000 Token 的速度。\n\n同时，这应该也是全球第一个达到这个速度的万亿（1T）参数模型。\n\n藏师傅提前试了一下，做了三个测试，确实爽。\n\n第一个跑了一个比较复杂的 3D 采矿小游戏测试。在没有素材的情况下，我让它全部用 Three.js 前端代码来生成素材。整体要求比较完整，虽然第一次实践时出了一些小问题，但在跟他沟通修改建议后，非常完美地实现了任务。\n这次测试的各项指标如下：思考的 TPS：804 Token/s，峰值速度：810 Token/s，首次响应时间：4.71 秒。\n\n第二个测试给了一个官网，其头部包含一个相对复杂的 3D 动画。\n这次的输出速度快了非常多：峰值达到了 1426 Token/s，首次响应只用了 0.83 秒，在 32 秒内输出了 25624 个 Token，总计生成了 1000 行代码。\n\n第三个测试给了一个更复杂的官网。我要求这个官网的 Header 头部包含以下 3D 效果：地球边缘、轨道上的飞船、星际尘埃、航线图、舷窗的 HUD 样式。\n这个效果非常好，整体的视觉样式、状态、SVG 动画和驾驶卡片都非常精细，还有滚动的视差效果\n\n这个输出的 TPS 达到了 1136 tokens/s，首次响应是 4.5 秒\n\n官方测试平台下面有个数据展示，会显示相关信息\n\n在流式输出的情况下，当你看着它只用 20 秒就产生一个非常复杂的 3D 游戏时，那种场景还是比较震撼的\n\n之前的这些（比如说 Groq 之类的）超高速推理方案，在模型能力或者是整体水平上都会有所下降，但是 MiMo 这个在测试的时候，我没有看到这种迹象\n\n最近很多公司都开始推出这种超高速的 API 服务，比如之前 OpenAI 和 Anthropic 都有 Fast 模式\n\n在 Agent 场景下，模型输出效率的提升会直接带动每一步 Agent 操作的效率：\n\n如果一个任务预估一分钟完成，你就会盯着它直到结束，然后立刻投入测试。如果需要五分钟才完成，你可能就会去干别的事，然后再回来看，难免会浪费一些时间\n\n这种效率提升在 Sub-Agent 和并发场景下更加明显。因为它可以更快地产出大量结果，想象一下，如果同时启动一两百个 Sub-Agent，在模型能力没有衰减的前提下，速度提高 10 倍，体验是非常爽的\n\n毕竟这本质上是面向那种对效率有极高要求的 To B 客户所推出的\n\n希望后面大家卷起来，优化一下成本，让普通用户也能放开用这种 UltraSpeed 模型",
+    "createdAt": "Tue Jun 09 08:05:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 492589,
+      "friendsCount": 76,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKWtvxCaEAAXXPu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2064247043250639341",
+    "fullText": "Yesterday at London Tech Week we announced the Billion Pound Build competition.\n\nTeams can enter to secure a share of £1M in Computer credits by using Perplexity Computer to build their company.\n\nThe pitch phase is open now and closes on 6 July. https://t.co/mM3zmYL1Pw",
+    "createdAt": "Tue Jun 09 07:23:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "polynoamial",
+      "name": "Noam Brown",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872883170292457472/8ywVGO5M_normal.jpg",
+      "description": "Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o-series 🍓 reasoning models",
+      "followersCount": 129212,
+      "friendsCount": 913,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/polynoamial/status/2064210146558136827",
+    "fullText": "https://t.co/oWqzT12RtZ",
+    "createdAt": "Tue Jun 09 04:57:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
+      "followersCount": 143211,
+      "friendsCount": 3248,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2064208197309919556",
+    "fullText": "1/ thinking: so many default behaviors of models are based on the failures of internet data. secondary framings like rankings, summaries, takes, etc appear far more often in training than the primary sources they compress.",
+    "createdAt": "Tue Jun 09 04:49:20 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "JeffreyTowson",
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
@@ -23,7 +109,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 469431,
+      "followersCount": 469444,
       "friendsCount": 1506,
       "location": "Austin, TX"
     },
@@ -39,7 +125,7 @@
       "name": "Hailuo AI (MiniMax)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
       "description": "Discord: https://t.co/ckCTEs189Q\nCreator Partnership Program(CPP): https://t.co/KLDCVOlRYA",
-      "followersCount": 74036,
+      "followersCount": 74034,
       "friendsCount": 575,
       "location": "San Francisco"
     },
@@ -57,7 +143,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 240230922,
+      "followersCount": 240239614,
       "friendsCount": 1353,
       "location": ""
     },
@@ -75,7 +161,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 240230922,
+      "followersCount": 240239614,
       "friendsCount": 1353,
       "location": ""
     },
@@ -93,7 +179,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 240230922,
+      "followersCount": 240239614,
       "friendsCount": 1353,
       "location": ""
     },
@@ -111,7 +197,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 469431,
+      "followersCount": 469444,
       "friendsCount": 1506,
       "location": "Austin, TX"
     },
@@ -127,7 +213,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 226687,
+      "followersCount": 226715,
       "friendsCount": 7022,
       "location": ""
     },
@@ -145,7 +231,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 153895,
+      "followersCount": 153929,
       "friendsCount": 1262,
       "location": ""
     },
@@ -163,7 +249,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 153895,
+      "followersCount": 153929,
       "friendsCount": 1262,
       "location": ""
     },
@@ -181,7 +267,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 153895,
+      "followersCount": 153929,
       "friendsCount": 1262,
       "location": ""
     },
@@ -197,7 +283,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 87619,
+      "followersCount": 87646,
       "friendsCount": 902,
       "location": "Seattle"
     },
@@ -213,7 +299,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 286508,
+      "followersCount": 286557,
       "friendsCount": 8236,
       "location": "United States"
     },
@@ -229,7 +315,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 87619,
+      "followersCount": 87646,
       "friendsCount": 902,
       "location": "Seattle"
     },
@@ -245,8 +331,8 @@
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
       "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
-      "followersCount": 102611,
-      "friendsCount": 10319,
+      "followersCount": 102736,
+      "friendsCount": 10330,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -261,7 +347,7 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Head of AI @clickup. Tweets about AI, computing and their impacts on society. Previously founder @codegen / ML @palantir. Not a pseudonym.",
-      "followersCount": 70462,
+      "followersCount": 70480,
       "friendsCount": 3407,
       "location": "San Francisco"
     },
@@ -279,8 +365,8 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 426168,
-      "friendsCount": 632,
+      "followersCount": 426193,
+      "friendsCount": 631,
       "location": ""
     },
     "images": [],
@@ -295,7 +381,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 226687,
+      "followersCount": 226715,
       "friendsCount": 7022,
       "location": ""
     },
@@ -313,7 +399,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 353901,
+      "followersCount": 353936,
       "friendsCount": 1,
       "location": ""
     },
