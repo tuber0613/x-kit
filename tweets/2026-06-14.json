@@ -1,11 +1,129 @@
 [
   {
     "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 139981,
+      "friendsCount": 605,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKzL7YUWoAASbf5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2066250558768349366",
+    "fullText": "Found a new spot to swissmaxx https://t.co/cSOkYF4yQj",
+    "createdAt": "Sun Jun 14 20:04:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 288484,
+      "friendsCount": 8255,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2066249478521159696",
+    "fullText": "When are we getting Fable back?",
+    "createdAt": "Sun Jun 14 20:00:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 398297,
+      "friendsCount": 849,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2066241896888856653",
+    "fullText": "Comfort is the most expensive thing you can buy, unfortunately it comes at the cost of your potential!",
+    "createdAt": "Sun Jun 14 19:30:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 889251,
+      "friendsCount": 5859,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2066237564114366920",
+    "fullText": "Veto supply through process, socialize the costs, then act shocked when prices climb and jobs leave. \n\nThe fix is the same too: reform the review process, build the housing, build the grid and datacenters.\n\nIf we do the fix, we'll have prosperity. If we do what the NIMBYs want we just get cost disease and more market failure.",
+    "createdAt": "Sun Jun 14 19:13:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 695858,
+      "friendsCount": 825,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2066232539820208212",
+    "fullText": "Near-term AI isn't fundamentally different from past tech waves. It's the newest form of digital leverage. It's a force multiplier, and force without direction is just noise. It still requires a human in the loop at every level in order to be useful.",
+    "createdAt": "Sun Jun 14 18:53:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 307303,
+      "friendsCount": 860,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKyzxQYXMAArLNc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2066226594595709169",
+    "fullText": "I spent the last 6 months building my own harness and orchestrator. \n\nI built it to allow me to experiment on the frontier of ideas.\n\nLittle did I know that the orchestration, the harness, routing capabilities, dynamic artifacts/workflows, verifiers, ability to switch/route between agent backends, automations, the skills, and the MCP tools would be the absolute best defense for what happened with Fable this week. \n\nThe argument folks made when I was talking about \"owning the agent orchestrator\" at the beginning of the year is that this is just high maintenance, too costly, and is unsustainable. It might still feel like it to many. But there is too much to lose if you decide to lock yourself in with a specific tool or model provider. \n\nReally, the way I have built my orchestrator is through mining my agent sessions and using that to recursively build and test our new ideas that range from autonomous loops to continual learning/memory systems. I can test research ideas on the fly. I just can't go back to using a vendor that only offers me a set of features. \n\nMy argument now is that you really don't have a choice. \nYou need to be able to control cost, decision making, context management, and everything in between.\n\nIf you don't, then how are you going to tap into the world of recursive self-improving AI? It won't get any easier if you don't own the decision-making part of the intelligence stack.",
+    "createdAt": "Sun Jun 14 18:29:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 115004,
+      "friendsCount": 50,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HKy1pPgbMAA4NW1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/googleaidevs/status/2066226263766007808",
+    "fullText": "Learn how to vibe code in 5 days!\n\nBuild scalable agent systems using natural language and complete a hands-on capstone project in this @Kaggle course hosted by our researchers and engineers. https://t.co/I1AwrxriKm",
+    "createdAt": "Sun Jun 14 18:28:24 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -23,7 +141,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -41,7 +159,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -59,7 +177,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -77,7 +195,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -95,7 +213,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -113,7 +231,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 88833,
+      "followersCount": 88832,
       "friendsCount": 908,
       "location": "Seattle"
     },
@@ -129,8 +247,8 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 325380,
-      "friendsCount": 121,
+      "followersCount": 325381,
+      "friendsCount": 122,
       "location": "London"
     },
     "images": [],
@@ -145,7 +263,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 240250804,
+      "followersCount": 240254104,
       "friendsCount": 1354,
       "location": ""
     },
@@ -163,7 +281,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 91577,
+      "followersCount": 91586,
       "friendsCount": 1097,
       "location": "HQ: San Francisco, CA"
     },
@@ -184,7 +302,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -202,7 +320,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -220,7 +338,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -236,8 +354,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 888974,
-      "friendsCount": 5857,
+      "followersCount": 889251,
+      "friendsCount": 5859,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -254,7 +372,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485359,
+      "followersCount": 485363,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -272,8 +390,8 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 325380,
-      "friendsCount": 121,
+      "followersCount": 325381,
+      "friendsCount": 122,
       "location": "London"
     },
     "images": [],
@@ -288,7 +406,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 398273,
+      "followersCount": 398297,
       "friendsCount": 849,
       "location": ""
     },
@@ -304,8 +422,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 888974,
-      "friendsCount": 5857,
+      "followersCount": 889251,
+      "friendsCount": 5859,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -320,8 +438,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 888733,
-      "friendsCount": 5857,
+      "followersCount": 889251,
+      "friendsCount": 5859,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -336,7 +454,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 345864,
+      "followersCount": 345865,
       "friendsCount": 20474,
       "location": "Cambridge, MA"
     },
@@ -572,7 +690,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3370172,
+      "followersCount": 3372534,
       "friendsCount": 791,
       "location": ""
     },
