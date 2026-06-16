@@ -1,6 +1,398 @@
 [
   {
     "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 210251,
+      "friendsCount": 592,
+      "location": "Venice, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2066979950448758987",
+    "fullText": "Life, liberty, and access to a frontier class AI agent",
+    "createdAt": "Tue Jun 16 20:23:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rsalakhu",
+      "name": "Russ Salakhutdinov",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006067605652623360/cghMLL82_normal.jpg",
+      "description": "CSO @ Sooth Labs, Professor @ CMU,  President Elect ICML Board, Ex-VP of Research @ Meta (Multimodal LLMs, AI Agents), ex-Director of AI at @Apple.",
+      "followersCount": 112193,
+      "friendsCount": 180,
+      "location": "Pittsburgh, PA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HK9gXnva0AAeh0P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rsalakhu/status/2066976923864199308",
+    "fullText": "Congrats to the @browser_use team for taking the #1 spot on Odysseys, a highly challenging benchmark for long-horizon web agents:\n\nhttps://t.co/rj5BHK5NWa\n\nOdysseys evaluates realistic, multi-hour web workflows that require sustained planning, memory, reasoning, and verification across numerous websites and tools, far beyond short single-step browser tasks.\n\nExciting progress toward truly capable long-horizon agents.",
+    "createdAt": "Tue Jun 16 20:11:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 4966,
+      "friendsCount": 1645,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2066941536009396226/vid/avc1/3840x2160/XbETqHPNrN9LpYCf.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kseniase_/status/2066976494690226633",
+    "fullText": "The easiest parts of AI progress to verify are becoming the easiest to automate: speed, cost, efficiency, training recipes, kernel optimization.\n\nBut as Recursive Self-Improvement (RSI) starts looking real, the hardest question moves to evaluation - whoever defines \"better\" shapes what AI becomes next.\n\nHere, I analyze @AnthropicAI's and @Recursive_SI's first steps toward RSI.",
+    "createdAt": "Tue Jun 16 20:09:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1003162,
+      "friendsCount": 62,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2066974979753967616/vid/avc1/1280x720/djiD26PGfxsvbu3l.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2066975060901179644",
+    "fullText": "Ideogram CEO Mohammad Norouzi says image models need taste:\n\n\"We think taste is extremely important and we really want our models to have taste, and it's very hard to explain it.\"\n\n\"One element of taste is going outside of the normal a little bit and not conforming to the average opinion, which is a little against being on top of the leaderboard.\"\n\n\"Ultimately, we work with all the arenas... but we care about our own internal evaluation.\"\n\n\"AI is not very good at doing the actual taste evaluation yet, so we work with designers... to really push on the taste.\"\n\n@mo_norouzi with @stuffyokodraws and @venturetwins",
+    "createdAt": "Tue Jun 16 20:03:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 311032,
+      "friendsCount": 878,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HK9TsuuXAAAwKxG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2066974091689476320",
+    "fullText": "Code is the right action interface for spatial reasoning agents.\n\nNew from NVIDIA Research: SpatialClaw, a training-free agent that uses code as its action interface for complex visual tasks. \n\nInstead of calling a fixed set of pre-defined tools, the agent writes Python inside a persistent kernel, so it can compose perception modules, inspect intermediate results, and revise its strategy across steps. Perception outputs become ordinary variables it can reuse and combine with libraries like NumPy and SciPy.\n\nWith no benchmark-specific or model-specific tuning, it beats a recent prior agent by 11.2 points across 20 benchmarks and holds up consistently across six different model backbones.\n\nYou can check out SpatialClaw here: https://t.co/xfZBw5il0i",
+    "createdAt": "Tue Jun 16 20:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 56292,
+      "friendsCount": 374,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2066941457022193664/vid/avc1/1376x1080/PnIkmjTy1eiVW66z.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2066970853737472422",
+    "fullText": "We tested closed and open models by asking them to build small, playable games.\n\nOpen models were much cheaper and faster, while producing games that were often close in quality.\n\n→ Opus 4.8 was 15x more expensive than MiniMax M3\n→ GPT-5.5 was 10x more expensive than Nemotron Ultra\n→ Kimi K2.7 Code was 7x cheaper than Opus 4.8\n\nFor more workloads, the closed-to-open shift is becoming hard to ignore: strong quality, better tokenomics, and faster inference.\n\n https://t.co/GZmCSumGsr",
+    "createdAt": "Tue Jun 16 19:47:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4934131,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2066969635099144682",
+    "fullText": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. https://t.co/7RJzBfNniQ",
+    "createdAt": "Tue Jun 16 19:42:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1428318,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2066969542010806561",
+    "fullText": "These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. \n\nRead the full report: https://t.co/IjjwQvrESo",
+    "createdAt": "Tue Jun 16 19:41:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1428318,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HK9Yl8mbAAA3Ul1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2066969540412780644",
+    "fullText": "Domain experts—as judged by the questions they ask and vocabulary they use about a subject—are more likely to see success.\n\nBut the gap between intermediate and expert users is quite modest, suggesting that proficiency in a domain is sufficient to code successfully within it. https://t.co/tZZ7jVYpTB",
+    "createdAt": "Tue Jun 16 19:41:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1428318,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2066969532380721386",
+    "fullText": "Our latest economic research introduces a framework for tracking Claude Code as it scales. \n\nWho is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much does domain expertise shape whether a session succeeds?\nhttps://t.co/IjjwQvrESo",
+    "createdAt": "Tue Jun 16 19:41:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 89042,
+      "friendsCount": 910,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HK9ZCNrbEAAMAZE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2066968753221624303",
+    "fullText": "It's hard to pinpoint open-closed gap and so-on, but I trust the @arena team and just look where GLM 5.2 is on this. An MIT licensed, to be open weight model. At this point you could argue they have a better agent than Gemini does. That's a serious accomplishment. https://t.co/5d2yMUt09V",
+    "createdAt": "Tue Jun 16 19:38:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 398840,
+      "friendsCount": 849,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2066966687094563080",
+    "fullText": "Don't be in future shock, be in future shape!",
+    "createdAt": "Tue Jun 16 19:30:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 253150,
+      "friendsCount": 158,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2066966625236942848/pu/vid/avc1/720x720/86V_IgLVM6TW3VZd.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2066966652105691368",
+    "fullText": "LangSmith lets your agents unpack. \n\nUnderstand what didn’t work out in production, identify what matters, and make continuous improvements. https://t.co/CYUnq88jgb",
+    "createdAt": "Tue Jun 16 19:30:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 227671,
+      "friendsCount": 7031,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2066960046005899674",
+    "fullText": "wild idea: @elonmusk should offer Sam 20% of SpaceX for OpenAI.\n\nAnd maybe Sam should take it while he still can.",
+    "createdAt": "Tue Jun 16 19:04:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 91782,
+      "friendsCount": 1097,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HK9QTh4W0AApjHP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2066959071278690539",
+    "fullText": "Announcing new OpenSharing and Marketplace capabilities for the AI era.\n\nData sharing was just the beginning. The next wave is about sharing intelligence, running apps where your data lives, and instant access to the data and AI products you depend on.\n\nAt Data + AI Summit, we're introducing OpenSharing, the first open, vendor-neutral protocol for sharing AI assets like Agent Skills and AI models.\n\nWe're also expanding Databricks Marketplace, now run partner-built apps with zero data movement, and buy third-party data and AI products with your existing commits.\n\nAnd with ID resolution for clean rooms, customers can match identities across parties without exposing raw identifiers.\n\nThe next era of collaboration is open, interoperable, and built for data and AI. https://t.co/FQnhmrli1r",
+    "createdAt": "Tue Jun 16 19:00:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 227671,
+      "friendsCount": 7031,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2066952010642206970",
+    "fullText": "Between high costs, Chinese competition and the death of tokenmaxxing, OpenAI and Anthropic may well never be profitable in a sustained way — but the good news for them is that investors obviously don’t care about any of that anymore!",
+    "createdAt": "Tue Jun 16 18:32:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 398840,
+      "friendsCount": 849,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2066951628796670330",
+    "fullText": "I believe there's no single true villain in the media collapse. Writers DO want to tell the truth, but the internet stole the revenue, and the only choice left was to chase clickbait...",
+    "createdAt": "Tue Jun 16 18:30:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 227671,
+      "friendsCount": 7031,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HK9IZ6fa8AAZ24A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2066950367120924689",
+    "fullText": "U.S. senators to review Tesla FSD safety record https://t.co/Ph7KbLYlcW",
+    "createdAt": "Tue Jun 16 18:25:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 106981,
+      "friendsCount": 606,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2066949762365145106",
+    "fullText": "Reliable science must be reproducible by others, but processes that affect scientific results are noisier and more complex than experts once thought – making it critical to report details of procedures and analyses thoroughly, accurately, and transparently. Two Stanford centers are tackling the problem:\nhttps://t.co/Y9qpn6ODpQ @stanfordmed",
+    "createdAt": "Tue Jun 16 18:23:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 253150,
+      "friendsCount": 158,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2066944198423482438",
+    "fullText": "Agent governance isn't something that should be bolted onto agentic systems.\n\nLangSmith LLM Gateway lets you enforce the rules in the same platforms where agents are built, observed, and evaluated.\nhttps://t.co/ki8W5vqQaI",
+    "createdAt": "Tue Jun 16 18:01:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 91782,
+      "friendsCount": 1097,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HK9Clg8bkAAxaiC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2066944018064572901",
+    "fullText": "“How do we truly unify transactional and analytical data?” \n\n@rxin announces LTAP - lake transactional-analytics process - a new data processing architecture that unifies OLAP and OLTP on a single copy of data in the lake, eliminating ETL, replicas, and pipelines by design. https://t.co/PdTQ39g2oD",
+    "createdAt": "Tue Jun 16 18:00:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 311032,
+      "friendsCount": 878,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2066943773196861541",
+    "fullText": "Nemotron 3 Ultra and the Open Model Landscape | Nemotron Labs https://t.co/8opXC1aQ4r",
+    "createdAt": "Tue Jun 16 17:59:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 289702,
+      "friendsCount": 8257,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HK9BZfwWAAAUOFt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2066942662989451587",
+    "fullText": "Coming in hard https://t.co/1EyXXTRxsp",
+    "createdAt": "Tue Jun 16 17:55:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "saranormous",
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
