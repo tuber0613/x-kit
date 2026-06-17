@@ -5,7 +5,75 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3454954,
+      "followersCount": 3456279,
+      "friendsCount": 794,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2067392962388959628",
+    "fullText": "I just came across this essay I wrote in 2012 predicting that hard tech startups would become a big thing. Not for the last time, YC applications turned out to be a good predictor of future trends.\n\nThe Hardware Renaissance: https://t.co/rLuH5x4CeI",
+    "createdAt": "Wed Jun 17 23:44:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 227745,
+      "friendsCount": 7032,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLDXih1boAALxdJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2067389219539190033",
+    "fullText": "Hypesters sometimes pretend that AGI has already been achieved, but that’s not certainly true by traditional understandings of what that term means.\n\nA new paper from Google DeepMind, Waterloo, ANU and UCL makes clear that what the new paper calls “competent AGI” has NOT yet been achieved, let alone what they are calling “expert” or “superhuman AGI”.\n\nI fully concur; all claims to the contrary are just marketing.",
+    "createdAt": "Wed Jun 17 23:29:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 126215,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLDVWmtbMAAz8Vx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2067386816815387019",
+    "fullText": "Outstanding paper on computer-using agents.\n\n(bookmark it)\n\nComputer-using agents drive real software through the screen, but they solve every task from scratch. Ask one to repeat a task, and it re-reads the screen and re-reasons every tap, paying the full cost again.\n\nPreAct compiles the first successful run into a small state-machine program, states that check the screen and transitions that act, then replays it directly on later runs. That runs 8.5 to 13x faster with no per-step language-model calls.\n\nReplay stays guarded. At each step, PreAct checks that the screen matches what the program expects before acting, and hands control back to the agent when reality diverges.\n\nWhy does it matter?\n\nMost computer-use costs are repeated reasoning on tasks the agent has already solved. Amortizing that into a replayable program is a clean way to make agents faster the second time.\n\nPaper: https://t.co/kMloX0qC5M\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Wed Jun 17 23:20:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 227745,
+      "friendsCount": 7032,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2067375496346894404",
+    "fullText": "No, Mark Zuckerberg, you cannot get to AGI through data labeling alone.\n\nTurning a once-top notch AI research division at  $META into a data-labeling sweatshop has to be one of dumbest blunders in corporate history.",
+    "createdAt": "Wed Jun 17 22:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3456279,
       "friendsCount": 794,
       "location": ""
     },
@@ -21,7 +89,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 399078,
+      "followersCount": 399102,
       "friendsCount": 856,
       "location": ""
     },
@@ -37,7 +105,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 896813,
+      "followersCount": 896973,
       "friendsCount": 5866,
       "location": "San Francisco, CA"
     },
@@ -53,7 +121,7 @@
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 467122,
+      "followersCount": 467125,
       "friendsCount": 1541,
       "location": "CA"
     },
@@ -74,7 +142,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 91951,
+      "followersCount": 91960,
       "friendsCount": 1098,
       "location": "HQ: San Francisco, CA"
     },
@@ -92,7 +160,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 253329,
+      "followersCount": 253336,
       "friendsCount": 158,
       "location": ""
     },
@@ -110,7 +178,7 @@
       "name": "Microsoft AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
       "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
-      "followersCount": 16101,
+      "followersCount": 16116,
       "friendsCount": 19,
       "location": ""
     },
@@ -128,7 +196,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 91951,
+      "followersCount": 91960,
       "friendsCount": 1098,
       "location": "HQ: San Francisco, CA"
     },
@@ -148,7 +216,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 115108,
+      "followersCount": 115107,
       "friendsCount": 50,
       "location": ""
     },
@@ -166,7 +234,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 505396,
+      "followersCount": 505412,
       "friendsCount": 3136,
       "location": ""
     },
@@ -184,7 +252,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4936141,
+      "followersCount": 4936244,
       "friendsCount": 4,
       "location": ""
     },
@@ -202,7 +270,7 @@
       "name": "sridhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
       "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
-      "followersCount": 31432,
+      "followersCount": 31437,
       "friendsCount": 622,
       "location": "Mountain View, CA"
     },
@@ -1076,8 +1144,8 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 227742,
-      "friendsCount": 7031,
+      "followersCount": 227745,
+      "friendsCount": 7032,
       "location": ""
     },
     "images": [
