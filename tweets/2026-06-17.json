@@ -1,6 +1,377 @@
 [
   {
     "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 91943,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLCrIWiXQAAY91V.jpg",
+      "https://pbs.twimg.com/media/HLCrJlNW0AAw07X.jpg",
+      "https://pbs.twimg.com/media/HLCrKy7WAAAf4pG.jpg",
+      "https://pbs.twimg.com/media/HLCrMB_XIAAPmQt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2067340472956133403",
+    "fullText": "🏆 The Grounded Reasoning Cup is live at #DataAISummit 2026!\n\nOver the next few hours, 12 teams from leading universities go head-to-head in a live AI agent championship, tackling real-world enterprise reasoning challenges using models from @GoogleDeepMind, @AnthropicAI, and @OpenAI. \n\nTeams have spent months building their agents, but today's test set is entirely new — putting their ability to generalize under pressure in real time.\n\nHead to Hackers Corner in Moscone West to watch, and hear from special guests including @matei_zaharia, @Steven_Ballmer, and leaders from across the AI industry.",
+    "createdAt": "Wed Jun 17 20:15:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 253314,
+      "friendsCount": 158,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLCe2UhWYAA0-96.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2067336253079716047",
+    "fullText": "LangSmith sandboxes are now a first-class environment in @harborframework 🚀\n\nInstall:\npip install “harbor[langsmith]”\n\nAuthenticate:\nexport LANGSMITH_API_KEY= “<LANGSMITH_API_KEY>”\n\nThat's it. Your evals are now ready to run in LangSmith production sandboxes, alongside Daytona, E2B, and Modal.",
+    "createdAt": "Wed Jun 17 19:59:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 282214,
+      "friendsCount": 332,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2067334791783968769/vid/avc1/3840x2160/4X8pQrpyU6hNh-zf.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2067335278943990212",
+    "fullText": "New on the Runway API: Recipes.\n\nDrop production-ready generative media features into your platform, with one API call. Recipes are Runway-built endpoints with our prompting and workflow expertise packaged in. Polished results, without building or maintaining the workflow yourself. Create product ads from an image, swap a product in an existing video and more. At scale.",
+    "createdAt": "Wed Jun 17 19:55:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 253314,
+      "friendsCount": 158,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLCgvaaWQAAwozV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2067328968143901056",
+    "fullText": "Fine-tuning open models can exceed or match frontier models.\n\n📦Base @Alibaba_Qwen out of the box w/ good prompting: \nStrong for perceived error classification, trailed frontier model performance.\n\n🔧With a LoRA SFT job:\nBoth models came close to or above frontier performance. https://t.co/U3FmwCmskl",
+    "createdAt": "Wed Jun 17 19:30:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 357469,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2067328432271450112/vid/avc1/1280x720/4B39gffxUu3p-jxd.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2067328594758848513",
+    "fullText": "Last week, we hosted Women who Code(x)\n\nThe output: task agents, personal guides, and a lot of projects shipped with Codex https://t.co/1wh2Nl21BP",
+    "createdAt": "Wed Jun 17 19:28:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 91943,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLCebdGXcAA0gwC.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2067326444212981865",
+    "fullText": "For data engineers, data scientists, ML engineers, and analysts, context matters. \n\nA useful AI agent needs to understand not just the code, but the data it depends on, the assets it may affect, and the environment where it will run.\n\nThat’s why we built Genie Code. With Genie Code, teams can bring AI-native development into the same platform they use for data engineering, analytics, machine learning, and production AI.\n\nGenie Code uses relevant notebooks, SQL queries, Lakeflow pipelines, Unity Catalog metadata, permissions, lineage, and compute as it works. \n\nAnd now it’s more powerful, with new features for complex, multi-threaded work. \n\nSee what's new in Genie Code: https://t.co/lvXKbbvfBG",
+    "createdAt": "Wed Jun 17 19:20:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 150927,
+      "friendsCount": 5358,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLCcNvkXkAAJOLD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2067323995150508290",
+    "fullText": "AI does not need to produce more output.\n\nIt needs to produce proof.\n\nI’m sharing my paper:\n\nGoalOS Mission OS: The Proof OS for Autonomous AI Work\n\nThe thesis is simple:\n\nAI creates output.\nGoalOS creates proof.\n\nToday’s models can answer.\nAgents can act.\nBut institutions need something harder:\n\nevidence\nverification\nrisk boundaries\nsource provenance\ndecision state\nrollback conditions\nreusable capability\n\nThat is the gap GoalOS Mission OS is designed to close.\n\nA normal AI workflow starts with a prompt and ends with a response.\n\nGoalOS starts with an objective and runs until proof is done.\n\nThe output is not merely a report.\n\nIt is a Governed Decision State:\n\nmission contract\nclaims matrix\nsource provenance\ncontradiction register\nEvidence Docket\nverifier report\nrisk ledger\nexecutive brief\ndecision deck\naction graph\nChronicle entry\nreusable capability package\n\nThe core distinction:\n\nResearch assistant = topic → report\n\nMission OS = objective → proof → decision state → action → capability\n\nThat is the shift.\n\nFrom content generation to proof-to-action work.\n\nFrom impressive output to institutional trust.\n\nFrom “the AI said so” to “the evidence package supports this decision.”\n\nThe rule is strict:\n\nNo proof, no settlement.\nNo eval, no propagation.\nNo rollback, no release.\n\nGoalOS also introduces an autonomous publication law:\n\nthe website is generated from proof-aligned source,\nchecked by automation,\nopened as a human-review pull request,\nand published only after review.\n\nThis matters because AI-generated communication is becoming part of institutional reality.\n\nIf the public artifact is not tied to evidence, it becomes theater.\n\nIf it is proof-aligned, review-gated, and replayable, it becomes infrastructure.\n\nThe immediate commercial wedge is a 48-hour proof mission:\n\ngive GoalOS one high-stakes objective and receive a proof-backed decision package with evidence, risk, verification, action, and reuse built in.\n\nThis is not a claim of achieved AGI, ASI, guaranteed returns, legal advice, financial advice, production certification, or civilization-scale capability.\n\nIt is a claim-bounded architecture for turning AI output into governed, auditable, reusable institutional capability.\n\nThe next frontier of autonomous AI work is not longer answers.\n\nIt is proof-bearing action.\n\nCredit:\nVincent Boucher\nPresident, https://t.co/dCKMr5Lici and https://t.co/9VRSyr4dv4\n\nPaper:\nThe Proof OS for Autonomous AI Work\nhttps://t.co/ywGw4wqDs9\n\nI’m attaching the first page because the thesis is worth reading directly.\n\nSet the objective.\nGoalOS runs until proof is done.\n\n#GoalOS #AGIAlpha #QuebecAI #SovereignAI #ArtificialIntelligence #Agents",
+    "createdAt": "Wed Jun 17 19:10:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 522248,
+      "friendsCount": 50,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2067323529318809751",
+    "fullText": "Gemini Live has entered the chat.\n\nAt our next Discord community event, tune in to see Gemini Product team members @paikhd and James Z. demo how Gemini Live lets you keep your chats going, connect to your favorite tools mid-conversation, and show Gemini what you’re seeing to seamlessly generate new images.\n\n👉Join the Discord to watch live: https://t.co/IAYiy1ZOzh\n\n📅 This Thursday, June 18th at 11:30am PT",
+    "createdAt": "Wed Jun 17 19:08:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 253314,
+      "friendsCount": 158,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2067321744558313472/pu/vid/avc1/1280x720/d6RtuNfDgK7vR-Um.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2067321819023995004",
+    "fullText": "Deep Agents deep dive part 3 | Delegation\n\nTLDR: \nA planning tool that allows the model to organize work for challenging tasks. \n\nEquipped with subagent support out of the box.\n\nA 90 second explanation from @SydneyRunkle https://t.co/6GTyaGjpeg",
+    "createdAt": "Wed Jun 17 19:01:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 106983,
+      "friendsCount": 606,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2067321818428375359",
+    "fullText": "AI coding agents lack a critical skill: collaboration. @Stanford scholars believe it’s a solvable problem if we train models in social intelligence. https://t.co/I1oTVpLN9Y",
+    "createdAt": "Wed Jun 17 19:01:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 227736,
+      "friendsCount": 7031,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLCZhcUa4AAlSSj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2067321031258431507",
+    "fullText": "At the intersection between crypto, NFTs, and AI? https://t.co/CrFi3PbvHx",
+    "createdAt": "Wed Jun 17 18:58:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452310,
+      "friendsCount": 565,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLCYKPZXkAAUrHY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2067319580582719633",
+    "fullText": "Barcola celebrating his goal while wearing a WHOOP.\n\nPros know what’s up. https://t.co/Wu6qoXo5Xa",
+    "createdAt": "Wed Jun 17 18:52:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 399063,
+      "friendsCount": 856,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2067317617992355840/vid/avc1/1280x720/Q2uWxJFQHxWM2O89.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2067319248150565213",
+    "fullText": "The world keeps experiencing almost daily AI breakthroughs... Don't sleep during the singularity! \n\nElon: \"I go to sleep, there's some massive AI breakthrough, and when I wake up, there's another one.\n\nIt's hard to keep track, honestly. It's a It's a bit of a head spinner.\"\n\nPeter: \"Well, I think a lot of the head spinning is happening from you, too.\"",
+    "createdAt": "Wed Jun 17 18:51:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "RichardSocher",
+      "name": "Richard Socher",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1232361282759610368/YYxndVmI_normal.jpg",
+      "description": "Building self-improving superintelligence\nCEO @recursive_si and @youdotcom\nMP @aixventuresHQ\nEx: Stanford Adj Prof, Chief Scientist at Salesforce, CEO MetaMind",
+      "followersCount": 120126,
+      "friendsCount": 1141,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RichardSocher/status/2067317528133873787",
+    "fullText": "Prediction: We will reinvent salary bands and management hierarchy for AI. \"Junior\" models have cheaper hourly/token costs, they do a lot of grunt work, some busy work, more low impact decisions. Senior frontier models will synthesize all the facts, make important decisions and delegate to those junior models. People will become managers and have their own agent org.\nRecursive will be well positioned for this future.",
+    "createdAt": "Wed Jun 17 18:44:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 396698,
+      "friendsCount": 4870,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2067316385068335366",
+    "fullText": "Let's stop doom marketing/trolling!\nhttps://t.co/dTKGgkeET0",
+    "createdAt": "Wed Jun 17 18:40:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 253314,
+      "friendsCount": 158,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLCTxgdWgAALE-l.jpg",
+      "https://pbs.twimg.com/media/HLCTxgrXUAAm2VY.jpg",
+      "https://pbs.twimg.com/media/HLCTxgiXcAAtUdf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2067314742289445240",
+    "fullText": "We have 3 LangChain meetups coming up in the next month! \n\nFind one in your city and register here 👉 https://t.co/drgBmufaf0\n\n📍 6/22: Chicago with @focused_dot_io and @united\n📍 6/24: SF with @usehercules \n📍 7/16: Berlin with @Zalando https://t.co/Vmx3bok05Q",
+    "createdAt": "Wed Jun 17 18:33:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 155622,
+      "friendsCount": 1264,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2067250082286555136/vid/avc1/720x1280/jwFchAJeZy3-XU0t.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/2067308157026882001",
+    "fullText": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。\n\n当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了 https://t.co/zf31xyv2Sz",
+    "createdAt": "Wed Jun 17 18:07:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 253314,
+      "friendsCount": 158,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2067306637686132736/pu/vid/avc1/1280x720/DRhIJZLFRVNmkLMT.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2067306931824332933",
+    "fullText": ".@benchling Head of AI @nlarusstone on why understanding LLMs is closer to biology than software engineering. https://t.co/rD1i2ZLSzb",
+    "createdAt": "Wed Jun 17 18:02:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 399063,
+      "friendsCount": 856,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2067306755101536385",
+    "fullText": "100 years ago, three things would kill most people: infection, childbirth, and a bad winter. We forget how recently the baseline of human life was simply surviving the year.",
+    "createdAt": "Wed Jun 17 18:01:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 91943,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLCKZQsb0AA8BRV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2067304499635802140",
+    "fullText": ".@rxin, Databricks Co-founder and Chief Architect and Jack Naglieri, Founder and CEO of @runpanther took the stage at #DataAISummit to discuss security built for the agentic era.\n\nPanther delivers what legacy SIEMs can't: AI SOC agents that triage and investigate every alert, and broad data source coverage that captures the full spectrum of security telemetry.",
+    "createdAt": "Wed Jun 17 17:52:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 227736,
+      "friendsCount": 7031,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2067299855706534059",
+    "fullText": "“If tokenmaxing is not sustained … then these [AI] companies are probably not going to make the revenue that they thought,\"  - @garyMarcus ⁦@CBCNews⁩  https://t.co/CYbpUfYYFu",
+    "createdAt": "Wed Jun 17 17:34:28 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
@@ -558,8 +929,8 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 89119,
-      "friendsCount": 912,
+      "followersCount": 89149,
+      "friendsCount": 913,
       "location": "Seattle"
     },
     "images": [],
@@ -1329,6 +1700,24 @@
     "tweetUrl": "https://x.com/wintonARK/status/2066979950448758987",
     "fullText": "Life, liberty, and access to a frontier class AI agent",
     "createdAt": "Tue Jun 16 20:23:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DrJimFan",
+      "name": "Jim Fan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+      "description": "NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
+      "followersCount": 457995,
+      "friendsCount": 3134,
+      "location": "Views my own. Contact →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2066910077886570496/vid/avc1/1920x1080/Wn1aQDpM58idppBt.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/DrJimFan/status/2066921736369766762",
+    "fullText": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of GPUs, and generous token budget. We set them free with a simple goal: solve the task as quickly as possible, keep the robots busy but stay safe, don't waste precious compute. Make no mistake.\n\nThen humans step aside and our watch begins. The robot fleet starts to come alive: they learn to look for visual clues, reset the scene, practice novel skills, tinker with control stack, read papers online, debate, reflect, get stuck, and try again directly on the hardware. All we did is to give Codex an API to the world of atoms, and the rest is emergence.\n\nENPIRE is able to solve high-precision tasks like tying zip-ties, organizing fine pins, and installing GPUs all by itself. We also discovered a new type of \"physical scaling\": 8 robots exploring in parallel improves significantly faster than fewer ones. \n\nA part of our NVIDIA GEAR lab now self-improves tirelessly over night. We just read the reports in the morning. \n\n/goal: we all take a holiday and Jensen wouldn't even notice ;)\n\nWe will be open-sourcing everything, so you can host your self-running robot lab at home too! Deep dive in the thread:",
+    "createdAt": "Tue Jun 16 16:31:58 +0000 2026"
   },
   {
     "user": {
