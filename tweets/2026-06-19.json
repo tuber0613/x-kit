@@ -1,11 +1,601 @@
 [
   {
     "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 240340690,
+      "friendsCount": 1358,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2068041714653179981",
+    "fullText": "In the future, a trillion times a trillion dollars will be spent on making antimatter to travel to other star systems",
+    "createdAt": "Fri Jun 19 18:42:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMnN1FWAAAUz6V.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068039775567700469",
+    "fullText": "Introduction to Modern Statistics: https://t.co/ZiHrvZWegX\n\n1️⃣Read it FREE online. \n2️⃣Or name-your-own-price for the PDF. \n3️⃣Or buy the book here: https://t.co/nfQzsSDTDd https://t.co/4buC0TVMNV",
+    "createdAt": "Fri Jun 19 18:34:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AndrewYNg",
+      "name": "Andrew Ng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+      "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+      "followersCount": 1630425,
+      "friendsCount": 1080,
+      "location": "Palo Alto, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMm79dbgAApRoV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AndrewYNg/status/2068039709126017356",
+    "fullText": "Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and it is significantly accelerating many businesses’ and nation states’ efforts to ensure reliable access to AI that no one else can terminate.\n\nAnthropic first released Claude Fable 5, a version of its Mythos model with additional guardrails, including some restrictions that seem well justified on safety grounds (such as limitations on applying it to hacking, bioweapons, and so forth). However, it also restricted developers’ ability to use it to build competing LLM technology. This move was concerning, given that the whole AI community, including Anthropic, has benefitted tremendously from open research — indeed, the AI revolution was kicked off by my former team (Google Brain) freely publishing the Transformers paper!\n\nImagine if Microsoft’s terms of use barred anyone from using their tools to build competitive software, or if Google barred using it to search for information to work on competing search engines. Anthropic’s argument that it was unsafe for others to be able to make advances in AI also rang hollow. Initially, Anthropic silently degraded Fable 5’s performance for users detected to be working on LLM research through invisible interventions that weakened the model’s outputs without notifying the user. After significant backlash, it walked back this decision and decided to be transparent when it did this, but it still refuses to use its latest capabilities to help AI researchers.\n\nThis move represents a raw demonstration of power by Anthropic. It has used “safety” arguments to hinder potential competitors. Platforms succeed when they are viewed as stable, reliable partners that one can build on. The sudden rule changes by Anthropic (including a mandatory 30 day data retention policy for Fable usage) have made developers wonder about the stability of building on any one proprietary LLM provider, not just Anthropic.\n\nThe U.S. Government then shortly followed with an even greater demonstration of power. It used the Commerce Department’s authority to regulate technologies that may be national security threats to restrict exports of Mythos and Fable, requiring a license for use by any foreign national, whether inside or outside of the U.S., including employees of Anthropic. This led Anthropic to disable access to Fable to all users worldwide.\n\nSam Altman pointed out, referring to Anthropic, “It is clearly incredible marketing to say, ‘We have built a bomb, we are about to drop it on your head. We will sell you a bomb shelter for $100 million.’” But when one engages in this type of fear-based marketing, it increases the odds that the U.S. Government will agree with you and slap export controls on the bomb you say you have built.\n\nTo be clear, I don't think Anthropic has built anything like a bomb, and I don't think export controls on Fable are appropriate.\n\nHowever, following the U.S. Government making this move, many nations, including U.S. allies, saw how the U.S. can suddenly yank their access to AI models. In many capitals around the world, this has spurred discussions on AI sovereignty and how others can ensure uninterrupted access to this critical technology.\n\nFor decades, many nations were comfortable having many parts of their supply chain rely on the U.S., China, and other major producers. Once a nation issues a threat, or takes action, to limit other nations’ access, other nations will rationally try to secure alternatives. For decades, semiconductor manufacturing in China made slow progress; once the U.S. moved to limit China’s access, China’s efforts kicked into high gear. Similarly, once China threatened U.S. access to rare earth minerals, U.S. efforts to secure alternatives accelerated. Now that it has become crystal clear that private U.S. companies and the U.S. government can limit, in short order, other nations’ access to frontier AI models, the incentive of others to invest more in alternatives like open source grows significantly. Of course, training frontier models is not easy, so it remains to be seen how successful they are, but we have crossed the rubicon.\n\nSatya Nadella wrote an essay about the importance of building a healthy ecosystem on top of frontier AI technology. I heartily agree with him, and hope this week’s events will ultimately prove to be constructive steps toward this.\n\nI hope we can build a more free, more open world, where research is freely shared, and laws and societal norms shape a level playing field that allows everyone to make progress. A silver lining of the events of these past two weeks is now that everyone better realizes key points of instability of the current system, we can all work to create a more stable foundation.\n\n[Original text: The Batch newsletter]",
+    "createdAt": "Fri Jun 19 18:34:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMnAhdWcAA-q6h.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068039547191992634",
+    "fullText": "See this >> \"Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG\" >> at https://t.co/mfe3Kw8CbB by Louis-François Bouchard @Whats_AI \n\nCovers:\n🔹LLM Fundamentals, Architecture, & LLMs in Practice\n\n🔹Prompting & Frameworks\n\n🔹RAG & Fine-Tuning\n\n🔹Agents, Optimization & Deployment",
+    "createdAt": "Fri Jun 19 18:33:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMm36VWAAA1mt6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068039399602790856",
+    "fullText": "R for Everyone — Advanced Analytics and Graphics: https://t.co/waD9u7tFCq by @jaredlander https://t.co/y0J5ZTwW6I",
+    "createdAt": "Fri Jun 19 18:33:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMmsFlWYAAWPrD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068039195914858921",
+    "fullText": "\"Pragmatic Machine Learning with Python: Learn How to Deploy Machine Learning Models in Production\"\n\nGet it here: https://t.co/I0Ax7RIuQE https://t.co/qW7gTvBc0n",
+    "createdAt": "Fri Jun 19 18:32:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMmdJGWAAA4dw4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068038939949031840",
+    "fullText": "Doing Python in Excel — a Cheatsheet \n\nSource: https://t.co/fwr0g7FcQy https://t.co/bpGvKeACyL",
+    "createdAt": "Fri Jun 19 18:31:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMlt1YXoAA9j_p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068038172080996511",
+    "fullText": "Mastering NLProc from Foundations to LLMs — Apply Advanced NLP Techniques to Solve Real World Business Problems: https://t.co/cAeSeVa7dW https://t.co/mCQbTiFPm6",
+    "createdAt": "Fri Jun 19 18:28:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMlnS6WMAIEquR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068038014379454492",
+    "fullText": "Python Data Analysis book by @wesmckinn here: https://t.co/ZvAuOJX5fb\n➕\nPANDAS website: https://t.co/OyXE6aWxpe\n—————\n#DataScience #MachineLearning #ML #DataScientist #Analytics #NumPy #Pandas #Jupyter https://t.co/ScDkY7YMFN",
+    "createdAt": "Fri Jun 19 18:27:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMlCRtWsAE4IL6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068037381320482886",
+    "fullText": "“Visualize This — The FlowingData Guide to Design, Visualization, and Statistics” (2nd Edition): \nhttps://t.co/QCfDUx1IF3 by @FlowingData \n🌟📊📈 https://t.co/hKMl08hG8c",
+    "createdAt": "Fri Jun 19 18:25:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMk0dsX0AAqAAz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068037141586727285",
+    "fullText": "\"Architecting AI Software Systems: Crafting robust and scalable AI systems for modern software development\" at https://t.co/SfaLq9v42M v/ @PacktDataML\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🔴Learn to integrate AI with traditional software architectures, enabling architects to design scalable, high-performance systems\n\n🟢Explore key tools and processes to mitigate risks in AI-driven system development, ensuring timely project delivery and budget control\n\n🔵Gain hands-on experience through case studies and exercises, applying architectural concepts to real-world AI systems",
+    "createdAt": "Fri Jun 19 18:24:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMkn2jXUAEPPb1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068036923784892785",
+    "fullText": "What are the Chances of That? How to Think About Uncertainty: https://t.co/Hj5iYPNDwq by @itabn_andrew\n\n#Probability #Statistics #Mathematics https://t.co/aVA6zpcHu7",
+    "createdAt": "Fri Jun 19 18:23:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMkj3LWwAA1Hes.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068036855640052114",
+    "fullText": "Statistics for Managers Using Microsoft Excel: https://t.co/jp6dfLhIoO\n—————\n#DataAnalysis #DataScience #Analytics #CDO #CMO #CTO https://t.co/j0RYAFZSvh",
+    "createdAt": "Fri Jun 19 18:23:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
+      "followersCount": 145492,
+      "friendsCount": 3266,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2068035017172025344/vid/avc1/1920x1080/YHLFHA2KcDK1D3mz.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/saranormous/status/2068035245501505671",
+    "fullText": "$INTC CEO @LipBuTan1 in new interview on his Foundry bet, and why we must make semis in the United States. https://t.co/Ti80atCsbb",
+    "createdAt": "Fri Jun 19 18:16:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMiT1lXEAEZnSl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068034381353046051",
+    "fullText": "Explore TOP Books for reading, learning, growing your knowledge and advancing your career: https://t.co/jd4NpyYF7x\n🌟🌟🌟🌟🌟 https://t.co/mCilGWIY4B",
+    "createdAt": "Fri Jun 19 18:13:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMiFraXAAAGpZZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068034138087571831",
+    "fullText": "Data Science for Economics and Finance — Methodologies &amp; Applications: https://t.co/hdmuEmvfJj https://t.co/SbGIxHYobm",
+    "createdAt": "Fri Jun 19 18:12:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMh7AqWoAA9zRC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068033954402177097",
+    "fullText": "Download 244-page PDF “Introduction to Neural Networks” at https://t.co/0nNNi7ezRu\n————\n#DataScience #AI #MachineLearning #ML  #Mathematics #Calculus #DataScientist https://t.co/kgFoQNEPQz",
+    "createdAt": "Fri Jun 19 18:11:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMhhBzWUAAHjif.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068033507826229624",
+    "fullText": "[Download 309-page PDF eBook] \"Patterns, Predictions, and Actions: A Story About Machine Learning\" https://t.co/XQOuKNtTfd\n…sharpen your Probability, Calculus, and Linear Algebra knowledge with this!\n—————\n#DataScience #AI #DeepLearning #ML #DataScientist #Mathematics https://t.co/0n772mQJEz",
+    "createdAt": "Fri Jun 19 18:09:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMhNg1W8AAR9vt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068033206872408565",
+    "fullText": "“Coding for Kids — Python: Learn to Code with 50 Awesome Games and Activities” [Spiral-bound] \n...get it at https://t.co/xR9Pfyj44E\n[Kindle and standard paperback editions also available]\n\n#STEM #Coding https://t.co/iQzVYcvM9r",
+    "createdAt": "Fri Jun 19 18:08:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMhDH5X0AAj0BZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068032994976116862",
+    "fullText": "Download 698-page PDF eBook…\n\nEverything You Always Wanted To Know About Mathematics* (*But didn’t even know to ask)\n\nA Guided Journey Into the World of Abstract Mathematics, Theorems, and the Writing of Proofs: https://t.co/JLsDOmpP1q https://t.co/jD1L0sXBTd",
+    "createdAt": "Fri Jun 19 18:07:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMguSQW8AAgPYo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068032636426096918",
+    "fullText": "The Handbook of Data Science and AI — Generate Value from Data with Machine Learning and Data Analytics: https://t.co/ok23tSbaCV\n—————\n#ML #DataStrategy #AnalyticsStrategy #DataScientist #CDO https://t.co/0jPKPIy2gD",
+    "createdAt": "Fri Jun 19 18:06:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMgUgMWwAAEJB8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068032193817899354",
+    "fullText": "[Free PDF Download] Introduction to Probability for Data Science: https://t.co/L51j3udY5j by @stanley_h_chan \n—————\n#StatisticalLiteracy #Mathematics #ML #MachineLearning #DataScience #DataScientist #Statistics https://t.co/ALvIhNJYcB",
+    "createdAt": "Fri Jun 19 18:04:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HLMf1UGWUAAGAsT.mp4"
+    ],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068031679642419281",
+    "fullText": "Recently updated! Introduction to Graph Theory: https://t.co/doAI3c6XgT (454-page PDF) — edges, vertices, trees, networks, paths, and graphs (and theorems!)\n+\nSource for attached graphic: https://t.co/ttg1pTuZyV https://t.co/6a66SRlek0",
+    "createdAt": "Fri Jun 19 18:02:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107036,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMfwyAXUAAlTIy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2068031580321218575",
+    "fullText": "Speakers at the Stanford Health AI Week discussed patient collaboration in developing AI tools, building trust with doctors and patients, and how AI accelerates discoveries impacting diagnosis and treatment. Explore the big ideas here: https://t.co/wxtAXoXHz6 https://t.co/G00DzCXFVR",
+    "createdAt": "Fri Jun 19 18:02:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
+      "followersCount": 145492,
+      "friendsCount": 3266,
+      "location": "on ⛓"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMfeUNb0AABHir.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2068031298363601252",
+    "fullText": "if anyone is looking for more background on EUV, I liked this book on ASML https://t.co/3MNZUZ6kwE",
+    "createdAt": "Fri Jun 19 18:00:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 71327,
+      "friendsCount": 35048,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2068031099188744596",
+    "fullText": "past 10 days was full of @airstreet portfolio news! \n- @odysseyml $310m series b\n- @altaares_ai $60m series a + partnerships with airbus and mbda\n- @macrodata_labs unveil\n- @sereactai usa launch\n- @labgeni_us + @lgchemrnd deal\n- @profluentbio pod w/yours truly \n- 10th annual @raais in london \n- new stealth investment done!",
+    "createdAt": "Fri Jun 19 18:00:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMe9SSWIAA51Ii.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068030695625068638",
+    "fullText": "\"Forecasting: Principles and Practice\" (3rd edition)\n\nRead the complete book online here: https://t.co/T0eKbEZUfB\n-or-\nGet a print copy here: https://t.co/wKiZ7w0Kyl\n—————\n#DataScience #PredictiveModeling #PredictiveAnalytics #MachineLearning #DataScientist https://t.co/3FxJH0stcY",
+    "createdAt": "Fri Jun 19 17:58:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMexNAXIAA4i_d.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068030487956738183",
+    "fullText": "I love this beautiful book: \"Better Data Visualizations\" by @jschwabish\n\nGet it at https://t.co/JQGXY00Gfn https://t.co/iwo9D3aRBm",
+    "createdAt": "Fri Jun 19 17:57:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485371,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMelfgW8AAfpm8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2068030352170299695",
+    "fullText": "Download Free 189-page PDF! The Little Book of Deep Learning: https://t.co/6NkP9TuCTp\n————\n#AI #MachineLearning #ML #DataScience #DataScientist https://t.co/Mu7bcRDt4K",
+    "createdAt": "Fri Jun 19 17:57:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 92180,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMeYN4WwAAuDPg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2068030076373889230",
+    "fullText": "New security capabilities announced at #DataAISummit help organizations securely scale Genie and AI experiences, simplify network security and connectivity, and expand compliance coverage across clouds and regulated environments.\n\nHighlights include:\n• GA of Automated Identity Management for Microsoft Entra ID on AWS and GCP\n• New Context-Based Ingress and Inbound Private Link capabilities for identity-aware network security\n• Expanded compliance coverage across Azure Serverless, AWS GovCloud, HITRUST, and additional global regions\n\nThese advancements help organizations adopt AI with security, governance, and compliance built in. https://t.co/DoCviZnf1c",
+    "createdAt": "Fri Jun 19 17:56:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mathemagic1an",
+      "name": "Jay Hack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
+      "description": "Head of AI @clickup. Tweets about AI, computing and their impacts on society. Previously founder @codegen / ML @palantir / startups. Not a pseudonym.",
+      "followersCount": 71502,
+      "friendsCount": 3414,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLMXgIDaQAA-EnU.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mathemagic1an/status/2068023275050201479",
+    "fullText": "Have an agent running for over 10 hours - had to ask it for a \"stand up\" update just now\n\nNot crazy to imagine actual standups with your agent team every morning. Hop into a zoom with 3-4 agents and discuss status/blockers/etc.\n\nAgents-as-employees is becoming very real https://t.co/DoiFSBBatN",
+    "createdAt": "Fri Jun 19 17:29:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 282475,
+      "friendsCount": 331,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2068019685220823040/vid/avc1/1280x720/fsgs1teYsSCU41x3.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2068019781056565262",
+    "fullText": "You don't need to travel the world to create a global ad campaign.\n\nFrom idea to execution, this entire ad was produced by a single person in just one day with Runway. Try it yourself at the link below. #MadeWithRunway https://t.co/10wLyYQavG",
+    "createdAt": "Fri Jun 19 17:15:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452341,
+      "friendsCount": 564,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2068017215887310848/vid/avc1/1112x720/JUFaMusoaxDyekG4.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2068017299194544419",
+    "fullText": "This little device lets your agents do what they do best, whilst making sure you approve every important action.\n\nThis is a Ledger Nano Gen5, a hardware signer that keeps your accounts secure.\n\nYou can install a CLI and a set of skills in your projects. These will enable your agents to send their plan to the signer, so you can approve it.\n\nThis is awesome:\n\n1. You can have an automated agentic workflow\n2. Your agents can't make costly mistakes\n\nCheck the video I recorded to see how this works.\n\nYou can run all of this in two commands:\n\n1. Install the CLI\n2. Install the skills for your agent\n\nFrom here, the agent can query my Ethereum accounts, check balances, and even initiate transactions as long as my Ledger Nano Gen5 is plugged into the computer.\n\nMy keys are never stored in my computer and never shared with the agent. This is huge!\n\nAlso, while the agent can set up transactions, it can't execute them unless a human approves them using the device.\n\nPretty awesome!\n\nThanks to the Ledger team for partnering with me on this post.",
+    "createdAt": "Fri Jun 19 17:05:20 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "JeffreyTowson",
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
-      "followersCount": 5687,
+      "followersCount": 5685,
       "friendsCount": 1170,
       "location": "Beijing"
     },
@@ -21,7 +611,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1006295,
+      "followersCount": 1006356,
       "friendsCount": 62,
       "location": "The Cloud"
     },
@@ -39,7 +629,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 307834,
+      "followersCount": 307851,
       "friendsCount": 870,
       "location": "DAIR.AI Academy"
     },
@@ -55,7 +645,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 399265,
+      "followersCount": 399272,
       "friendsCount": 856,
       "location": ""
     },
@@ -71,7 +661,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 56552,
+      "followersCount": 56557,
       "friendsCount": 376,
       "location": "San Francisco, CA"
     },
@@ -89,7 +679,7 @@
       "name": "Jeff Clune",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1948765264436494337/wrBA-a0W_normal.jpg",
       "description": "Co-founder, Recursive. Professor, CS, U. British Columbia. CIFAR AI Chair, Vector Institute. | ML, AI, deep RL, deep learning, AI-Generating Algorithms (AI-GAs)",
-      "followersCount": 32396,
+      "followersCount": 32399,
       "friendsCount": 442,
       "location": "Paradise (Vancouver, BC)"
     },
@@ -105,7 +695,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 399265,
+      "followersCount": 399272,
       "friendsCount": 856,
       "location": ""
     },
@@ -123,7 +713,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 399265,
+      "followersCount": 399272,
       "friendsCount": 856,
       "location": ""
     },
@@ -141,7 +731,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 346260,
+      "followersCount": 346267,
       "friendsCount": 20467,
       "location": "Cambridge, MA"
     },
@@ -157,8 +747,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 71324,
-      "friendsCount": 35047,
+      "followersCount": 71327,
+      "friendsCount": 35048,
       "location": "latent space"
     },
     "images": [
