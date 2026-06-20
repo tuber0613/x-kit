@@ -1,12 +1,48 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 290722,
+      "friendsCount": 8262,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLSssF2acAA-5hl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2068468005085065216",
+    "fullText": "PSA https://t.co/6KiOCPHwSV",
+    "createdAt": "Sat Jun 20 22:56:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 126364,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLSiGeyagAANUVI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2068456364691935326",
+    "fullText": "// Self-play with a pinch of human data //\n\nReally cool paper combining human demonstrations and self-play RL.\n\n30 minutes of human data, 2500x less than imitation learning, is enough to make self-play policies coordinate with real people.\n\nPure self-play learns effective but alien conventions that humans cannot drive alongside. The usual fix is brittle reward engineering and domain randomization.\n\nThis work instead treats a small set of human demonstrations as a regularization objective on top of a minimal safe goal-reaching reward.\n\nWhy does it matter?\n\nThe resulting policies coordinate with held-out human trajectories and finish training in 15 hours on a single consumer GPU. The lesson travels well past driving. A small demonstration regularizer may be the cheapest alignment knob we have for self-play.\n\nPaper: https://t.co/nLrVwRFEW9\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Sat Jun 20 22:10:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tszzl",
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 374861,
-      "friendsCount": 12998,
+      "followersCount": 374954,
+      "friendsCount": 12999,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -21,7 +57,7 @@
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
       "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
-      "followersCount": 115067,
+      "followersCount": 115482,
       "friendsCount": 10425,
       "location": "San Francisco, CA"
     },
@@ -39,7 +75,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 290702,
+      "followersCount": 290722,
       "friendsCount": 8262,
       "location": "United States"
     },
@@ -55,7 +91,7 @@
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
       "description": "Co-founder at @HuggingFace - moonshots - angel",
-      "followersCount": 118624,
+      "followersCount": 118627,
       "friendsCount": 7371,
       "location": ""
     },
@@ -71,7 +107,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3529857,
+      "followersCount": 3531034,
       "friendsCount": 794,
       "location": ""
     },
@@ -87,7 +123,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 140774,
+      "followersCount": 140783,
       "friendsCount": 607,
       "location": "Zürich, Suisse"
     },
@@ -105,8 +141,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 374861,
-      "friendsCount": 12998,
+      "followersCount": 374954,
+      "friendsCount": 12999,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -121,7 +157,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 228046,
+      "followersCount": 228054,
       "friendsCount": 7039,
       "location": ""
     },
@@ -139,7 +175,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 92252,
+      "followersCount": 92257,
       "friendsCount": 1098,
       "location": "HQ: San Francisco, CA"
     },
@@ -160,7 +196,7 @@
       "name": "Ben Goertzel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
       "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
-      "followersCount": 76733,
+      "followersCount": 76732,
       "friendsCount": 1681,
       "location": "Vashon Island, WA, USA"
     },
@@ -176,7 +212,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 506082,
+      "followersCount": 506088,
       "friendsCount": 3135,
       "location": ""
     },
@@ -194,7 +230,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 240370772,
+      "followersCount": 240372340,
       "friendsCount": 1358,
       "location": ""
     },
@@ -212,7 +248,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 126362,
+      "followersCount": 126364,
       "friendsCount": 1,
       "location": ""
     },
@@ -368,7 +404,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 326126,
+      "followersCount": 326138,
       "friendsCount": 156,
       "location": "London"
     },
@@ -735,8 +771,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 374861,
-      "friendsCount": 12998,
+      "followersCount": 374954,
+      "friendsCount": 12999,
       "location": "San Francisco, CA"
     },
     "images": [],
