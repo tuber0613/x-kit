@@ -1,12 +1,184 @@
 [
   {
     "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 71363,
+      "friendsCount": 35048,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLRZFAWWcAA792w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2068376235072217595",
+    "fullText": "“Once physicians began using it, their performance dropped significantly whenever the system was unavailable. During the three-month period before the AI tool was introduced, the specialists found at least one adenoma during 28.4% of colonoscopies. During the three-month period after the tool was introduced, the adenoma detection rate for colonoscopies performed without AI assistance decreased to 22.4%.”",
+    "createdAt": "Sat Jun 20 16:51:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 290655,
+      "friendsCount": 8261,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLRV9sAaUAEPSKQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2068372652503572955",
+    "fullText": "“Dad, I need to $40k to buy a new GPU.”\n\n“You don’t need a new GPU, we have GPU at home!”\n\nGPU at home: https://t.co/THyX8RGAbL",
+    "createdAt": "Sat Jun 20 16:37:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 290655,
+      "friendsCount": 8261,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2068371078607728689",
+    "fullText": "We are already past top human educational attainment. It’s all downhill from here.",
+    "createdAt": "Sat Jun 20 16:31:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 471005,
+      "friendsCount": 1514,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2068368761476780047",
+    "fullText": "Everything interesting and valuable happens after Claude tells you you're being unethical",
+    "createdAt": "Sat Jun 20 16:21:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 308122,
+      "friendsCount": 870,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLRKn6NXIAApHm9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2068365523977462265",
+    "fullText": "GLM-5.2 is great at design (Opus level IMO).\n\nI am also starting to see great results with long-running tasks, too. \n\nHow is this possible? \n\nI think there are a few clever hacks. But I just came across this from the official blog, and they actually trained this model with an anti-hacking module.\n\nRL, as many know, comes with this issue of reward hacking that often enables the model to take weird and suboptimal shortcuts. Not only that, but it makes the models sometimes feel like it's sometimes \"lazy\" or just plain \"dumb\" at times, including other issues like intent misalignment, verbosity, sycophancy, deception, etc. And you really don't want that for long-running tasks operated by coding agents. \n\nThis is a great insight. If you use the standard /goal (in 5.5 or 4.8), you notice the models often take shortcuts that lead to long-running tasks (wasting tokens along the way) but with poor results. This is why I advocate for a focus on better verifiers. \n\nSo this anti-hacking idea is a model capability that should, in theory, lead to better results on long-horizon tasks.\n\nI've seen efforts here and there in a few research papers, but haven't seen it translated to much, much less in a frontier, open-weight model.\n\nThis might be contributing to some of the great results we are seeing with GLM-5.2, but I suspect there is more, of course, like better verification capabilities. It's not clear how all of these training signals lead to downstream capabilities, but this is something to look at closely with newer models.",
+    "createdAt": "Sat Jun 20 16:09:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 346331,
+      "friendsCount": 20467,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLRNd9LXcAA6tuu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2068363312652251541",
+    "fullText": "100 helpful pointers for mastering Claude, v/@rubenhassid. https://t.co/GiyXqveSAO",
+    "createdAt": "Sat Jun 20 16:00:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 89380,
+      "friendsCount": 913,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLRNWnnaoAAT1wK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2068363240103629141",
+    "fullText": "Something I haven't advertised much is that I made a Discord to go with my RLHF book, launching in print in a few weeks. \n\nTrying to create the place for the next generation of folks trying to learn post-training to learn and have community. https://t.co/gyPRHhE7fb",
+    "createdAt": "Sat Jun 20 15:59:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3524912,
+      "friendsCount": 794,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2068360577223626876",
+    "fullText": "One reason it's more difficult to work with people you don't have faith in is simply that there are more possibilities to consider whenever they do something. You also have to consider all the ways they might have screwed up. Even if they didn't, you still have to think about it.",
+    "createdAt": "Sat Jun 20 15:49:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 326064,
+      "friendsCount": 156,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2068354551413960871",
+    "fullText": "There will be an open source fable-level model that runs on a base MacBook mini / Air or equivalent.\n\nI don’t think people have realised this.",
+    "createdAt": "Sat Jun 20 15:25:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 506059,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2068350799521161216/vid/avc1/1920x1080/S3uEiunJtc681mVA.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2068350916680720754",
+    "fullText": "S-Agent\n\nSpatial Tool-Use Elicits Reasoning for Spatial Intelligence https://t.co/sbFDXYe1ZX",
+    "createdAt": "Sat Jun 20 15:11:01 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 228005,
-      "friendsCount": 7037,
+      "followersCount": 228016,
+      "friendsCount": 7039,
       "location": ""
     },
     "images": [
@@ -23,7 +195,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 133795,
+      "followersCount": 133796,
       "friendsCount": 539,
       "location": ""
     },
@@ -41,7 +213,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 92243,
+      "followersCount": 92251,
       "friendsCount": 1098,
       "location": "HQ: San Francisco, CA"
     },
@@ -59,7 +231,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3522635,
+      "followersCount": 3524912,
       "friendsCount": 794,
       "location": ""
     },
@@ -77,7 +249,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 156813,
+      "followersCount": 156830,
       "friendsCount": 1266,
       "location": ""
     },
@@ -95,7 +267,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 150929,
+      "followersCount": 150930,
       "friendsCount": 5360,
       "location": "Montréal · Québec"
     },
@@ -111,7 +283,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 156813,
+      "followersCount": 156830,
       "friendsCount": 1266,
       "location": ""
     },
@@ -130,7 +302,7 @@
       "name": "Hailuo AI-MiniMax Hub",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
       "description": "Discord: https://t.co/ckCTEs189Q\nCreator Partnership Program(CPP): https://t.co/KLDCVOlRYA",
-      "followersCount": 74017,
+      "followersCount": 74019,
       "friendsCount": 575,
       "location": "San Francisco"
     },
@@ -596,7 +768,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 399338,
+      "followersCount": 399339,
       "friendsCount": 856,
       "location": ""
     },
