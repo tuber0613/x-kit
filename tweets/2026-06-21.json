@@ -1,0 +1,261 @@
+[
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 399349,
+      "friendsCount": 856,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2068502394665635840/vid/avc1/1280x720/eGvlVVSwx7-u8Ora.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2068507450966179870",
+    "fullText": "*Humanity's goal for the next century is... prevent WW3.* \n\nElon: \"Okay, this is going to sound pretty crazy.\"\n\n\"I'd say the economy is 10 times the its current size in 10 years. Greater than. I feel like that's actually a fairly comfortable prediction.\"\n\n\"Obviously if there's like World War III or something.   that that could put a kink in those plans or those expectations. In the absence of World War II, if current trends continue, I would say  the the economy 10xes in 10 years and have a base on the moon.\"",
+    "createdAt": "Sun Jun 21 01:33:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 399349,
+      "friendsCount": 856,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2068503265445388371",
+    "fullText": "Fear is the worst mindset to prepare for our future.",
+    "createdAt": "Sun Jun 21 01:16:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 290763,
+      "friendsCount": 8263,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLTLX3eaQAApMZW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2068501741881246038",
+    "fullText": "When he’s been unable to access Fable for over a week. https://t.co/UaS3scq4NP",
+    "createdAt": "Sun Jun 21 01:10:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 375112,
+      "friendsCount": 13002,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2068484222499889321",
+    "fullText": "people always love to blame foreign astroturfing and interference because they don’t want to believe their peers can be so incorrect",
+    "createdAt": "Sun Jun 21 00:00:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 290763,
+      "friendsCount": 8263,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLSssF2acAA-5hl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2068468005085065216",
+    "fullText": "PSA https://t.co/6KiOCPHwSV",
+    "createdAt": "Sat Jun 20 22:56:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 126371,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLSiGeyagAANUVI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2068456364691935326",
+    "fullText": "// Self-play with a pinch of human data //\n\nReally cool paper combining human demonstrations and self-play RL.\n\n30 minutes of human data, 2500x less than imitation learning, is enough to make self-play policies coordinate with real people.\n\nPure self-play learns effective but alien conventions that humans cannot drive alongside. The usual fix is brittle reward engineering and domain randomization.\n\nThis work instead treats a small set of human demonstrations as a regularization objective on top of a minimal safe goal-reaching reward.\n\nWhy does it matter?\n\nThe resulting policies coordinate with held-out human trajectories and finish training in 15 hours on a single consumer GPU. The lesson travels well past driving. A small demonstration regularizer may be the cheapest alignment knob we have for self-play.\n\nPaper: https://t.co/nLrVwRFEW9\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Sat Jun 20 22:10:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DavidSHolz",
+      "name": "David",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
+      "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
+      "followersCount": 115937,
+      "friendsCount": 10426,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2068431186435932160/vid/avc1/1920x1080/DDPrJbvSCDtUnWpf.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/DavidSHolz/status/2068431559439642912",
+    "fullText": "come hang with me and my friends for 10 minutes past midnight while we improv a musical blessing on the empty space of the (soon to be) Midjourney Spa https://t.co/jBZJtvL4iK",
+    "createdAt": "Sat Jun 20 20:31:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 290763,
+      "friendsCount": 8263,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2068426587566137400",
+    "fullText": "Maybe their mind isn’t that deep after all.",
+    "createdAt": "Sat Jun 20 20:11:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1629469939860946946/WUyBolSu_normal.jpg",
+      "description": "Co-founder at @HuggingFace - moonshots - angel",
+      "followersCount": 118636,
+      "friendsCount": 7371,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/2068426548726690025",
+    "fullText": "Desert island survival list:\n✅ Solar panel / battery\n✅ 256 GB Mac Studio\n✅ GLM 5.2\n\nCivilization in a backpack",
+    "createdAt": "Sat Jun 20 20:11:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3533198,
+      "friendsCount": 794,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2068419614195728797",
+    "fullText": "I told Jessica she has tells that show what kind of hand she has, and now she plays with demeanor of a zombie.",
+    "createdAt": "Sat Jun 20 19:44:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 140792,
+      "friendsCount": 607,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLR9sWGWcAAERGA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2068416336670118010",
+    "fullText": "I got the anon feedback below yesterday (thank you!) and would like to share it and explain, as I believe many people might have the same opinion, many might not know the reasons, and it applies to most industry researchers.\n\n[now go read the screenshot before proceeding]\n\nIn theory i fully agree with this, it would be nice. In practice however, this is not possible, for almost anyone, in almost all companies and certainly in all BigCos. I never discuss nonpublic technical work, neither now at Meta, nor previously at OpenAI or Google/DeepMind.\n\nUnless you are the product owner, (which i am not and have never been, Alex Wang is here. Another good example is Tibo on Codex.), you simply are by default not allowed to talk publicly about future plans or things that are in progress. You may only discuss what is public already or what has been approved to be made public. Like i would love to share with you some of the things i do/use/see/plan internally, but I'm simply not allowed to!\n\nIn the past research years that may have looked a little less so but it's really the same: you only talk about the research you published, which went through an approval process to be allowed to be published. Same for talks. And when you talk about future plans in the context of research, it's about your personal opinion of the future of the field, which is (a priori) unrelated to what the company does, hence it's fine.\n\nWith bigco industrial research closing down more over the past few years, most things that you can discuss then are \"events that happen\" which is papers, general community stuff, other company (or people) news/rumors, and that's about it.\n\nI do think i could post a bit more general technical commentary (and tone down Schmidhubering), but it would not be related to Meta's unpublished work, since i can't talk about that.\n\nAt the same time, I'm here mostly to relax, which explains the regular shitposting :)",
+    "createdAt": "Sat Jun 20 19:30:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 375112,
+      "friendsCount": 13002,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2068409089345134984",
+    "fullText": "as the technology becomes more science fiction i see a lot of commentators, technical staff etc trying hard to not think thoughts that feel science fiction as a defense mechanism. but you need to. it’s the only way you’ll make good choices for the future",
+    "createdAt": "Sat Jun 20 19:02:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 228055,
+      "friendsCount": 7039,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLRxG0fboAAsqim.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2068402493705605359",
+    "fullText": "Flesh-eating maggots. https://t.co/DQrDegdow0",
+    "createdAt": "Sat Jun 20 18:35:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 92259,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLRwNE4WMAAkJNu.jpg",
+      "https://pbs.twimg.com/media/HLRwOSeWIAEyunK.jpg",
+      "https://pbs.twimg.com/media/HLRwPguWoAAFnYn.jpg",
+      "https://pbs.twimg.com/media/HLRwQu7WQAACz3F.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2068401582408958000",
+    "fullText": "Missed the #DataAISummit 2026 keynotes? We’ve got you covered.\n\nFull keynote replays and select breakout sessions are now available on-demand to help you catch up on the biggest moments from the week.\n\nStart watching: https://t.co/kCpJIB5CQz https://t.co/10cW5ydrVL",
+    "createdAt": "Sat Jun 20 18:32:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 375112,
+      "friendsCount": 13002,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2068096773089100020",
+    "fullText": "transhumanism is an interesting side quest but 'the substrate is wrong' for the human/computer hybrid to be competitive with machine intelligence on feats of intellect. you have this low tech meat brain in the middle of all this lightspeed machinery, doing what exactly?",
+    "createdAt": "Fri Jun 19 22:21:08 +0000 2026"
+  }
+]
