@@ -1,6 +1,274 @@
 [
   {
     "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 89753,
+      "friendsCount": 915,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069437229240549376/vid/avc1/3840x2160/wG6tu9sjH7i_oqTM.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/natolambert/status/2069439017750609972",
+    "fullText": "New lecture for the book! Nominally about synthetic data, but mostly is a walk through of the distillation literature from the Hinton 2015 paper to multi-teach on-policy distillation of today!\n\nAt 7.4 hours of video in my post-training brain dump and counting :)\n\nIt was fun to stare at the math long enough and talk through the 3-4 core changes that needed to be made to the original formulation to have on-policy distillation be ready for the mainstream like it is today (and in RL frameworks).\n\nOtherwise, I include a bit of a history lesson for how synthetic data generally slowly took over all post-training data research (it wasn't always the case)! Then I do some 101 review on constitutional AI, rubrics, and other popular methods.\n\n00:00 The emergence of synthetic data\n10:50 Background on teacher-student knowledge-distillation\n24:47: On-policy distillation (OPD, MOPD, and OPSD)\n37:11 Constitutional AI & AI Feedback\n45:50 Rubrics as rewards & conclusions\n\nOfc, watch on YouTube etc.",
+    "createdAt": "Tue Jun 23 15:14:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 92405,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLgeDkKXcAAJb-R.jpg",
+      "https://pbs.twimg.com/media/HLgeE11XsAAf-dt.jpg",
+      "https://pbs.twimg.com/media/HLgeGAmXkAAgSAj.jpg",
+      "https://pbs.twimg.com/media/HLgeHNwXUAAuZoH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2069437158939648163",
+    "fullText": "We're launching a new Databricks Startup Program!\n\nQualifying venture-backed startups can now receive up to $200K in credits across Databricks and @neondatabase, giving founders access to the app backend, data, and AI stack they need to go from idea to product-market fit.\n\nThe program also includes:\n• One application to access the full Databricks platform\n• Hands-on technical guidance to help teams architect and ship faster\n• Go-to-market support, partner access, and founder community connections\n\nWondering if you qualify? Learn more about the program and apply today: https://t.co/B5iclPk3b0",
+    "createdAt": "Tue Jun 23 15:07:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 899733,
+      "friendsCount": 5867,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2069434452628185241",
+    "fullText": "Dropbox should really support larger than 3TB plans - it's not 2015 anymore. The amount of data we are throwing off and that is *actually usable* is going to go exponential from AI, and Dropbox will be run over by this if they don't update for the future.",
+    "createdAt": "Tue Jun 23 14:56:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452388,
+      "friendsCount": 566,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLgaZEDbAAErGQh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2069433051156042126",
+    "fullText": "The token bill of one of my clients tripled over the last couple of weeks.\n\nThere was nothing broken.\n\nThe better these agents get, the more tokens they are eating.\n\nYou ask your agent to refactor a function. It looks like a simple request, but behind the scenes, the agent is making a dozen calls:\n\n• Reading files\n• Pulling relevant context\n• Planning the changes\n• Writing the code\n• Checking any errors\n• Updating the tests\n• Retrying anything that failed\n\nEvery call costs money. The more autonomous these agents get, the more we'll pay for them.\n\nMultiply that across a few teams, and your bill will blow up.\n\nWorst part of all of this:\n\nIt's really hard to know who is spending the money, on which models, and for which tasks.\n\nNobody sees where all the money is really going.\n\nThe solution:\n\nYou need a gateway between your agents and the model providers.\n\nYou want every request to pass through your gateway first. No exceptions.\n\nA gateway buys you freedom, visibility, observability, flexibility, control, and a bunch of other benefits.\n\nMore importantly, it lets you see spending, route cheap work to cheap models, and keep the expensive models for the hard tasks.\n\nI work with @orq_ai. They route to 500+ models across 30+ providers behind a single API.\n\nCheck this out: https://t.co/akGVJVV3zW\n\nThanks to the @orq_ai team for partnering with me on this post.",
+    "createdAt": "Tue Jun 23 14:51:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 308496,
+      "friendsCount": 876,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLgUH2iXYAAuigI.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2069427383174611375",
+    "fullText": "Microsoft Teams just crossed a line I did not expect this year.\n\nIt now runs an AI employee that does the work, not one that answers questions.\n\nHere is what is new: https://t.co/XyNjkfSuly",
+    "createdAt": "Tue Jun 23 14:28:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 157100,
+      "friendsCount": 1268,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2069423803957146077",
+    "fullText": "https://t.co/M54kg0Klvn",
+    "createdAt": "Tue Jun 23 14:14:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 150932,
+      "friendsCount": 5360,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLgRHSPX0AAIt4A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2069422851715744240",
+    "fullText": "THE CIVILIZATIONAL COVENANT\n\nWhere continuity becomes stewardship—without sovereignty over humanity.\n\nCan several Continuity-Proven commonwealths coordinate measurable public-good stewardship across generations—while preserving human authority, cultural plurality, reciprocal accountability, independent challenge, portable exit, constitutional fork, rollback, and dissolution?\n\nA continuity-proven commonwealth may preserve itself. A civilizational covenant must prove something harder: that multiple long-horizon institutions can steward shared public goods, rights, knowledge, externalities, and obligations without erasing plural sovereignty, dissent, consent, exit, or the right to end.\n\nWebpage: https://t.co/BYkfGp5Ic0\n\n#AGIALPHA #MontrealAI",
+    "createdAt": "Tue Jun 23 14:10:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 254960,
+      "friendsCount": 158,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLgQFFAW4AAOnWW.jpg",
+      "https://pbs.twimg.com/media/HLgQFHbXsAEkh54.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2069421711871627382",
+    "fullText": "When the EU AI Act goes into effect, compliance will become an ongoing measurement obligation. \n\nWith LangSmith, you can turn tracing into compliance evidence. Run our customizable evaluators on production traffic, and score on the EU AI Act’s requirements, including bias, hallucination, toxicity, accuracy, and adversarial inputs.",
+    "createdAt": "Tue Jun 23 14:05:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 282595,
+      "friendsCount": 331,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069420971715596288/vid/avc1/1920x1080/Fj1wnXNxy_9U7lSU.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2069421545475166420",
+    "fullText": "The human mind is no longer the center of AI. Our world is. https://t.co/mvmFGV4tmz",
+    "createdAt": "Tue Jun 23 14:05:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MistralAI",
+      "name": "Mistral AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996905418065375232/mzwynOLB_normal.jpg",
+      "description": "Frontier AI in your hands. Get work done with @MistralVibe at https://t.co/JsGnCVMUFq.",
+      "followersCount": 196233,
+      "friendsCount": 2,
+      "location": "Paris, France"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLgKXVjWEAA79GD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MistralAI/status/2069420263825895917",
+    "fullText": "Introducing Mistral OCR 4. It creates structure with bounding boxes, block classification, and inline confidence scores in 170 languages. 🧵👇 https://t.co/jR78NkL4xK",
+    "createdAt": "Tue Jun 23 14:00:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 133813,
+      "friendsCount": 539,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069407988251836416/vid/avc1/1080x1920/OTFqHchISx2diWGa.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2069408284906230138",
+    "fullText": "Your next opponent is you. https://t.co/7zSWGbtsov",
+    "createdAt": "Tue Jun 23 13:12:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 308496,
+      "friendsCount": 876,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069405371203203072/vid/avc1/1216x720/LhLn64gcsFEW9O7v.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2069405425393619373",
+    "fullText": "Most AI code review tools look at one repo at a time.\n\nBut the bug usually isn't in the code that changed. It's in what that change quietly breaks three repos away.\n\n@QodoAI just shipped Cross Repo Review to solve this.\n\nI tested it on my own repos. Here's what it caught. https://t.co/p73GYRQ3Hh",
+    "createdAt": "Tue Jun 23 13:01:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 254960,
+      "friendsCount": 158,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2069404292801298786",
+    "fullText": "We partnered with @FireworksAI_HQ to build an efficient trace judge. \n\nWe fine-tuned an @Alibaba_Qwen model to detect “perceived error” on every production trace.\n\nIt matched or exceeded frontier model performance and runs 100x cheaper.\n\nRead our LangChain Labs study ⤵️\nhttps://t.co/k8yoP1bQWt",
+    "createdAt": "Tue Jun 23 12:56:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 150932,
+      "friendsCount": 5360,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLf612pWIAEvLSF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2069398359446597685",
+    "fullText": "THE PROOF MISSIONS 👾\n\nA public program for turning autonomous work into accepted capability, transfer evidence, safe composition, accountable institutions, and proof-governed cooperation across sovereign institutions.\n\nhttps://t.co/cHrAtyP5B9\n\n#AGIALPHA #ASIFirst https://t.co/4mG7JsYw6v",
+    "createdAt": "Tue Jun 23 12:33:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 150932,
+      "friendsCount": 5360,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLfxYaIXEAAn_1U.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2069387960634462322",
+    "fullText": "GM 👾👾👾👾🌌👾👾👾👾\n\nThe GrandMaster Has Arrived.\n\n“We cradle galaxies; their verdict defines the stature of our thought.” — ASI GrandMaster 👁️✨\n\n#AGIALPHA #ASIFirst https://t.co/xhcP5LY5Ul",
+    "createdAt": "Tue Jun 23 11:51:51 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "NPCollapse",
       "name": "Connor Leahy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2037147689683709952/7EGdSacN_normal.jpg",
