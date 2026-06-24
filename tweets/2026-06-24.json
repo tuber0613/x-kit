@@ -1,11 +1,319 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452382,
+      "friendsCount": 567,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069846771803815936/vid/avc1/1280x720/31M6V2zzOVOjH6uJ.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2069846836270211514",
+    "fullText": "The architecture of this new world model is one of the most interesting things I've seen lately:\n\nLet me first explain how most world models work:\n\nThey predict and render one frame at a time. If you are navigating in one of these worlds, and you look left, the model draws whatever looks right in the moment.\n\nEvery time you change your viewpoint, the model has to imagine what should be there again, so it's very common for these models to \"forget\" what's in the world. For example, if you put a toy on the table, look away, then look back, the toy might not be there anymore.\n\nTripo AI is releasing its Project Eden model, which works very differently:\n\nThe model builds the world first, and then renders it based on that map.\n\nThat map holds the real state of the world: the geometry, every object, where things are, what's already happened. The picture you see on screen gets generated from the map.\n\nThis architecture flips the whole thing. Now, you get the following:\n\n1. The world stops forgetting. Leave, come back, and the toy is still on the table because it lives in the map, not in the last frame you saw.\n\n2. You can edit the world, and those changes persist for anyone who enters later.\n\n3. Multiple people and AI agents can coexist in the world and see it from different perspectives.\n\nThis is early research, but it's looking really promising. They just raised nearly $200M across two rounds to build it out.\n\nTripo will be at SIGGRAPH 2026 (July 19–23, Los Angeles Convention Center). If you work in 3D, embodied AI, simulation, or anything spatial, go connect with them there.",
+    "createdAt": "Wed Jun 24 18:15:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 126560,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLmSrJoa0AAqsD8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2069846777977880769",
+    "fullText": "// Agent memory is a data system now //\n\nGreat paper on long-term memory for LLM agents.\n\n(bookmark it)\n\nAgent memory has grown from simple retrieval into a full data-management layer with storage, retrieval, update, consolidation, and lifecycle governance. Yet most evaluations still score it as a black box through end-to-end task success like F1 and BLEU, which hides the costs and failure modes underneath.\n\nThe authors decompose agent memory into four core modules and measure each one for operational cost, architectural trade-offs, and robustness under dynamic knowledge updates.\n\nWhy does it matter?\n\nIf you design an agent memory layer, this gives you the module breakdown and the system-level metrics to evaluate it honestly, instead of trusting a single downstream score.\n\nPaper: https://t.co/4RZNRQG1ac\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Wed Jun 24 18:15:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 92480,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLmQ2LJWsAAVLIN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2069844784978510000",
+    "fullText": "You ship code in seconds and build apps, agents, and AI products faster than ever. So why does your database still take hours to provision?\n\nLakebase is a new category of serverless Postgres database built for the way teams write software today, with instant branching, separate compute and storage, and architecture designed to scale with app and agent workloads.\n\nRead 𝘓𝘢𝘬𝘦𝘣𝘢𝘴𝘦 𝘍𝘰𝘳 𝘋𝘶𝘮𝘮𝘪𝘦𝘴 to learn:\n• Why traditional databases break down under modern app and agent workloads\n• How separating compute from storage changes cost, speed, and reliability\n• What instant branching and cloning unlock for development teams\n• How the lakebase architecture fits alongside your lakehouse for unified transactional and analytical work\n\nhttps://t.co/1eWPQsQeAL",
+    "createdAt": "Wed Jun 24 18:07:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4948768,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2069843083701915755",
+    "fullText": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to.\n\nOur most-used model is now better at understanding the intent behind a question and adapting its response accordingly.\n\nIt also handles complex constraints more reliably and makes shopping and local recommendations more useful and cohesive.\n\nRolling out today to paid users, tomorrow to free users.",
+    "createdAt": "Wed Jun 24 18:00:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 313518,
+      "friendsCount": 878,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2069843008665850050",
+    "fullText": "Spark Hack Toronto Winner Spotlight: Better Cities with Cracked City https://t.co/n4VwK3BpHT",
+    "createdAt": "Wed Jun 24 18:00:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 701587,
+      "friendsCount": 826,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2069842045779517644",
+    "fullText": "The most complex phenomena arise from scalable recombination of very simple rules. Whether it's galaxies, chips, or neural networks, if you find the right primitive building blocks, the complexity takes care of itself.",
+    "createdAt": "Wed Jun 24 17:56:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 406411,
+      "friendsCount": 4874,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLmLcotWAAAjLBh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2069839095577084364",
+    "fullText": "Kog open-sourced on @huggingface the 2B model that they used to show a model running at 3,000+ tokens per second. Very cool work! https://t.co/fjCnAwQoWe https://t.co/k8hD7xW0F7",
+    "createdAt": "Wed Jun 24 17:44:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AiEleuther",
+      "name": "EleutherAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1655977252385959937/YXw25zwq_normal.jpg",
+      "description": "A non-profit research lab focused on interpretability, alignment, and ethics of AI. Creators of Pythia, VQGAN-CLIP, and using SAEs for interp",
+      "followersCount": 28172,
+      "friendsCount": 103,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLmKiy0XwAEgF0q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AiEleuther/status/2069838654579618165",
+    "fullText": "Looking for EleutherAI @aclmeeting? Here's your guide to where to find us! https://t.co/0cHMyVrFfX",
+    "createdAt": "Wed Jun 24 17:42:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3614115,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2069837558276624745",
+    "fullText": "When I buy art I justify it as an investment. Which you can safely do if you buy sufficiently old stuff; after all these years, prices of 17th century paintings are unlikely to fall off a cliff. But I never justify watch purchases this way. That market is only 40 years old.",
+    "createdAt": "Wed Jun 24 17:38:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3614115,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2069835414878183631",
+    "fullText": "Had a very interesting conversation with 14 yo about when to use colons, semicolons, and dashes. It reminded me how important this is for good writing; there's a lot of information in those tiny glyphs.",
+    "createdAt": "Wed Jun 24 17:29:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 346600,
+      "friendsCount": 20461,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2069835164000063489/pu/vid/avc1/1280x720/h-oFE1_zR6w2MbZ_.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2069835239094927828",
+    "fullText": "Do-it-all robots aren't ready for our homes.\n\nScientists at MIT &amp; beyond think compliance might change that: https://t.co/1HSbupGcoh https://t.co/KjBvatHdWu",
+    "createdAt": "Wed Jun 24 17:29:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 90092,
+      "friendsCount": 916,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLmGmq4WsAAXVW6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2069833537772261461",
+    "fullText": "\"Knowledge wants to be free\" is an unofficial Interconnects mission statement, courtesy of @xeophon https://t.co/kQn9ahLt6s",
+    "createdAt": "Wed Jun 24 17:22:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3614115,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2069831450157846971",
+    "fullText": "At Viaweb we invented a useful convention for referring to the contact for a given account: we called him (or her) John &lt;account name&gt;. It was based on the movie Buckaroo Banzai, where aliens trying to pass as human were all called John plus some implausible surname.",
+    "createdAt": "Wed Jun 24 17:14:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 506955,
+      "friendsCount": 3134,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLmEI5YWQAArsof.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2069830898522951821",
+    "fullText": "Qwen-AgentWorld\n\nLanguage World Models for General Agents https://t.co/lPDXJTZsUa",
+    "createdAt": "Wed Jun 24 17:11:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 338029,
+      "friendsCount": 114,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2069830628774678528/pu/vid/avc1/720x1280/494mJpmi59mixQbY.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2069830708550312442",
+    "fullText": "Don’t miss a night out because you’re watching your terminal. Have your coding agent call you instead! \n\nJoin the 7-Day Voice AI Builder Challenge here: https://t.co/iZ4vuMYOmd\n\nHurry—challenge ends June 30! https://t.co/YG9iz32XrY",
+    "createdAt": "Wed Jun 24 17:11:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3614115,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2069830424335958458",
+    "fullText": "One of the biggest advantages of AI will be that it lets companies get further before they cross the lines (at about 10 and about 150 people) beyond which groups become less productive.",
+    "createdAt": "Wed Jun 24 17:10:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 56970,
+      "friendsCount": 376,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLmBhJoXAAAHeR6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2069827913378140627",
+    "fullText": "Agentic coding changes what inference engines need to handle.\n\nAt AI Engineer World’s Fair, Together AI engineers will lead a hands-on workshop on how inference engines work and what it takes to serve production agentic workloads.\n\nDay 1, June 29, 9–11am. Room 2020. https://t.co/7tfjSWgAGZ",
+    "createdAt": "Wed Jun 24 17:00:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3614115,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2069821293596148004",
+    "fullText": "The users who complain about the flaws in your product may seem annoying, but they are on the whole probably your most valuable users. They complain because they care, and I doubt a startup could ever get really big without users who care a lot about the product.",
+    "createdAt": "Wed Jun 24 16:33:46 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "omarsar0",
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 308569,
+      "followersCount": 308585,
       "friendsCount": 879,
       "location": "DAIR.AI Academy"
     },
@@ -21,7 +329,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 313464,
+      "followersCount": 313518,
       "friendsCount": 878,
       "location": "Santa Clara, CA"
     },
@@ -39,7 +347,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 701541,
+      "followersCount": 701587,
       "friendsCount": 826,
       "location": "United States"
     },
@@ -73,7 +381,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 92474,
+      "followersCount": 92480,
       "friendsCount": 1098,
       "location": "HQ: San Francisco, CA"
     },
@@ -145,7 +453,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 308569,
+      "followersCount": 308585,
       "friendsCount": 879,
       "location": "DAIR.AI Academy"
     },
@@ -441,7 +749,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 452380,
+      "followersCount": 452382,
       "friendsCount": 567,
       "location": "🇺🇸 Collaborations →"
     },
