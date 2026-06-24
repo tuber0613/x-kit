@@ -1,12 +1,426 @@
 [
   {
     "user": {
+      "screenName": "SchmidhuberAI",
+      "name": "Jürgen Schmidhuber",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
+      "description": "OG of P  and T in ChatGPT, very deep learning (depth 100+), meta learning and RSI, neural distillation, GANs ... Co-authored most-cited AI paper of 20th century",
+      "followersCount": 204221,
+      "friendsCount": 0,
+      "location": "Switzerland, KSA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLj7Ui8WcAEjo-9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SchmidhuberAI/status/2069680876611334211",
+    "fullText": "Alan M. Turing made certain significant contributions to computer science. However, their importance and impact is often greatly exaggerated, at the expense of the field's pioneers. See references in the 2021 report, \"Turing Oversold. It's not Turing's fault, though\" https://t.co/rcXqieTSz4 \n\nTL;DR:\n\nSome have suggested that Turing founded computer science or at least artificial intelligence (AI) [BEA], invented the computer [IMI][HAI14], showed the undecidability of the halting problem [HLT21], single-handedly created the method that broke the Nazi code in WWII [IMI][NASC6-7], or invented the \"Turing test\" [TUR3a]. \n\nNone of these claims is compatible with the historical facts, and Turing himself did not claim any of this during his life.\n\nComputer science dates back at least to Leibniz (1600s), the so-called \"first computer scientist\" [LA14], who built on even earlier work since the first programmable machine by Heron of Alexandria in the 1st century B.C. [SHA7a][RAU1]. Leibniz described the first machine to perform all four arithmetic operations, the first with a memory [BL16], and principles of binary computers (1679)[L79][LA14][HO66][L03][LEI21,a,b] employed by virtually all modern machines; his formal Algebra of Thought (1686) [L86][WI48][LEI21,a,b] is deductively equivalent [LE18] to the Boolean Algebra (1847) [BOO].\n\nThe first 20th century pioneer of practical AI was not Turing but Quevedo: his 1914 chess end game player was still considered remarkable decades later at the 1951 Paris AI conference [BRU1-4][BRO21].\n\nThe theory of AI and computer science was not founded by Turing but by Gödel (1931-34) [GOD][GOD34] who identified the fundamental limits of algorithmic theorem proving, computing, and any type of computation-based AI [GOD][BIB3], as well as computer science's most famous open problem \"P=NP?\"[GOD56][URQ10] (there is a reason why there is a Gödel Prize for theoretical computer science). \n\nGödel's 1931 work was extended by Church, whose 1935 result [CHU] on the decision problem preceded Turing's identical 1936 result [TUR]. \n\nTuring's 1936 paper [TUR] was claimed to provide the \"theoretical backbone\" for all computers to come [NASC7]. However, it just described a simple theoretical and impractical pen & paper construct like those of Gödel (1931-34) [GOD][GOD34], Church (1935) [CHU], and Post (1936) [POS], which did not even feature elementary practical building blocks such as addressable memory. \n\nIt was actually Zuse's 1936 patent application [ZU36] which really described what became the first practical general-purpose program-controlled computer (completed in 1941) [ZUS21,a,b][RO98].\n\nUnlike Church (1935) [CHU], Turing (1936) did not even consider halting programs [TUR]; the famous halting problem (often attributed to him) was actually named by Davis in 1958 [HLT58] and formulated by Kleene in 1952 [HLT52][HLT21].\n\nThe Colossus special purpose computer of WWII [NASC6-7] was designed by Flowers, not by Turing. \n\nThe core of the Enigma code-breaking algorithm was not due to Turing either (as sometimes suggested [IMI]) but to Polish mathematicians Rejewski, Rozycki and Zygalski.\n\nThe famous so-called \"Turing Test\" was actually prefigured by Descartes [TUR3,a,b].\n\nOn the other hand, Turing did publish pioneering work, e.g., in bioinformatics [TUR2]. It seems unlikely that the great scientist he was would ever approve of the overblown claims about him so easily dismissing the work of his colleagues. \n\nAll references in the report above. Happy Birthday to Alan Turing!",
+    "createdAt": "Wed Jun 24 07:15:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240440907,
+      "friendsCount": 1357,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2024009801882116096/vid/avc1/1280x720/w65qFGyxSNOKdEuq.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2069665946286043260",
+    "fullText": "🤣🤣 https://t.co/m4sKLgkLCs",
+    "createdAt": "Wed Jun 24 06:16:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjmir2W4AAxcqb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069657516942729604",
+    "fullText": "Python Machine Learning By Example: https://t.co/3mO7oBt4gc v/ @PacktDataML\n+\nGitHub: https://t.co/XmXK8pz96h\n\n518-pages! What you will learn:\n\n🟣Machine learning best practices throughout data preparation and model development\n\n🟣Build and improve image classifiers using convolutional neural networks (CNNs) and transfer learning\n\n🟣Develop and fine-tune neural networks using TensorFlow and PyTorch\n\n🟣Analyze sequence data and make predictions using recurrent neural networks (RNNs), transformers, and CLIP\n\n🟣Build classifiers using support vector machines (SVMs) and boost performance with PCA\n\n🟣Avoid overfitting using regularization, feature selection, and more",
+    "createdAt": "Wed Jun 24 05:42:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjmGNJWgAAQuel.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069657025861001277",
+    "fullText": "Machine Learning Solutions Architect Handbook — Practical Strategies and Best Practices in the ML Lifecycle, System Design, MLOps, and Generative AI: https://t.co/RgOGmvT8KQ v/ @PacktDataML https://t.co/otcCW6Cu3g",
+    "createdAt": "Wed Jun 24 05:41:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjlskyXQAAlT3Z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069656586193109015",
+    "fullText": "Data Center Handbook: Plan, Design, Build, and Operations of a Smart Data Center\n\nAvailable at https://t.co/pq4DLiEyba https://t.co/H5cIBLvapm",
+    "createdAt": "Wed Jun 24 05:39:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjlnfmX0AAdIfL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069656499920539902",
+    "fullText": "Chief AI Officer (CAIO) Handbook — Master AI leadership with strategies to innovate, overcome challenges, & drive business growth: https://t.co/GfdzvHQVEc v/ @PacktDataML\n —\n#CTO #CDO #GenAI #AgenticAI #GenerativeAI \n—\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟠Explore practical frameworks for effective AI team building and team management\n🟠Implement and Optimize AI Agents and Agentic Systems through design and implementation of AI agents\n🟠Gain actionable advice for leveraging AI to drive innovation and strategic growth\n🟠Purchase of the print or Kindle book includes free PDF eBook",
+    "createdAt": "Wed Jun 24 05:38:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjk8F5WcAAwZeq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069656052241457499",
+    "fullText": "Elastic Stack 8.x Cookbook — with over 80 recipes to perform ingestion, search, visualization, and monitoring of your data for actionable insights: https://t.co/h0LvfSCdYo v/ @PacktDataML\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟠Explore the diverse capabilities of the Elastic Stack through a comprehensive set of recipes\n🟢Build search applications, analyze your data, and observe cloud-native applications\n🔵Harness powerful Machine Learning and AI features to create data science and search applications\n🟣Purchase of the print or Kindle book includes a free PDF eBook",
+    "createdAt": "Wed Jun 24 05:37:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjkt_kWgAAV14M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069655515966181592",
+    "fullText": "Python for Algorithmic Trading Cookbook — Recipes for designing, building, and deploying algorithmic trading strategies with Python: https://t.co/3dabYk838S by @jasonstrimpel @pyquantnews \n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟢Follow practical Python recipes to acquire, visualize, and store market data for market research.\n🟣Design, backtest, and evaluate the performance of trading strategies using professional techniques.\n🔵Deploy trading strategies built in Python to a live trading environment with API connectivity.\n🟠Purchase of the print or Kindle book includes a free PDF eBook.",
+    "createdAt": "Wed Jun 24 05:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjkZgYW0AAaYGV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069655158577910140",
+    "fullText": "Applying Math with Python, with 70+ practical recipes for solving real-world Computational Math problems [2nd Edition]: https://t.co/UMFO2TivPX v/ @PacktDataML \n————\n#Mathematics #ComputationalScience #DataScience #Simulation #NumPy #SciPy #Statistics https://t.co/oGJVYZsLRO",
+    "createdAt": "Wed Jun 24 05:33:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjkI-XWcAAU3Ap.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069654874539606488",
+    "fullText": "Python for Finance Cookbook with 80+ powerful recipes for financial data analysis: https://t.co/IOSADqyehl v/ @PacktDataML \n————\n#Fintech #CFO #TimeSeries #PredictiveAnalytics #DataScience #DataScientist #Forecasting https://t.co/wBFkCS2rse",
+    "createdAt": "Wed Jun 24 05:32:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjj97nWoAADyFS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069654684948664787",
+    "fullText": "Learn Tableau from scratch: https://t.co/opqw5Pm6EN\n...and go further with this...\nTableau Cookbook for Experienced Professionals, with over 60 advanced recipes: https://t.co/8fCAGvxg5p v/ @PacktDataML\n\n𝓚𝓔𝓨 𝓕𝓔𝓐𝓣𝓤𝓡𝓔𝓢:\n🟠Transform dashboards into data apps that drive instant business decisions\n🔴Build robust data models that scale with your data\n🔵Extend Tableau with developer tools to automate tasks and integrate with external systems\n🟣Purchase of the print or Kindle book includes a free PDF eBook",
+    "createdAt": "Wed Jun 24 05:31:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLji4uOWoAA1Hsq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069654474977620430",
+    "fullText": "Data Without Labels — Models and Algorithms for Practical Unsupervised Machine Learning: https://t.co/8adzWdcbrU\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n\n🔶Fundamental building blocks and concepts of machine learning and unsupervised learning\n🔶Data cleaning for structured and unstructured data like text and images\n🔶Clustering algorithms like K-means, hierarchical clustering, DBSCAN, Gaussian Mixture Models, and Spectral clustering\n🔶Dimensionality reduction methods like Principal Component Analysis (PCA), SVD, Multidimensional scaling, and t-SNE\n🔶Association rule algorithms like aPriori, ECLAT, SPADE\n🔶Unsupervised time series clustering, Gaussian Mixture models, and statistical methods\n🔶Building neural networks such as GANs and autoencoders\n🔶Dimensionality reduction methods like Principal Component Analysis and multidimensional scaling\n🔶Association rule algorithms like aPriori, ECLAT, and SPADE\n🔶Working with Python tools and libraries like sci-kit learn, numpy, Pandas, matplotlib, Seaborn, Keras, TensorFlow, and Flask\n🔶How to interpret the results of unsupervised learning\n🔶Choosing the right algorithm for your problem\n🔶Deploying unsupervised learning to production\n🔶Maintenance and refresh of an ML solution",
+    "createdAt": "Wed Jun 24 05:30:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjjePwWgAAiREd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069654140452548725",
+    "fullText": "3rd Edition! \"Python Feature Engineering Cookbook\",  complete guidebook with recipes for crafting powerful features for Machine Learning models: https://t.co/Yhzc8zV4mg by @Soledad_Galli\n—————\n#AI #ML #DataScience #DataScientist https://t.co/aMoQey9RDE",
+    "createdAt": "Wed Jun 24 05:29:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjjVSWXgAA8tGY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069653986852880717",
+    "fullText": "Pandas Cookbook — Practical recipes for scientific computing, time series and exploratory data analysis using Python: https://t.co/8yjkkCl8h0 v/ @PacktDataML [3rd ed.]\n\n𝓦𝓱𝓪𝓽  𝓨𝓸𝓾  𝓦𝓲𝓵𝓵  𝓛𝓮𝓪𝓻𝓷:\n🟠The PANDAS type system - how to best navigate it\n🟢Import/export DataFrames to/from common data formats\n🔵Data exploration in PANDAS through dozens of practice problems\n🟣Grouping, aggregation, transformation, reshaping, and filtering data\n🔴Merge data from different sources through PANDAS SQL-like operations\n🟡Leverage the robust PANDAS time series functionality in advanced analyses\n🔵Scale PANDAS operations to get the most out of your system\n🟠The large ecosystem that PANDAS complements",
+    "createdAt": "Wed Jun 24 05:28:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjjN1UXMAAlVIT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069653858649817093",
+    "fullText": "From @PacktDataML at https://t.co/WHTOJj6DGE\n\n\"Time Series Analysis with Python Cookbook: Practical recipes for the complete time series workflow, from modern data engineering to advanced forecasting and anomaly detection\" [2nd Edition; 812 pages] https://t.co/yZRQ3eFOua",
+    "createdAt": "Wed Jun 24 05:28:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjjG9EXgAAtvFg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069653746024366282",
+    "fullText": "💥Scikit-learn Cookbook — 80+ recipes for Machine Learning in Python with scikit-learn [3rd Edition]: https://t.co/Z32D8jOzxC v/ @PacktDataML\n\n𝓒𝓸𝓷𝓽𝓮𝓷𝓽𝓼:\n🔹Common Conventions & API Elements of Scikit-Learn\n🔹Pre-Model Workflow and Data Preprocessing\n🔹Dimensionality Reduction Techniques\n🔹Build Models with Distance Metrics & Nearest Neighbors\n🔹Linear Models and Regularization\n🔹Advanced Logistic Regression and Extensions\n🔹Support Vector Machines and Kernel Methods\n🔹Tree-Based Algorithms and Ensemble Methods\n🔹Text Processing and Multiclass Classification\n🔹Clustering Techniques\n🔹Novelty and Outlier Detection\n🔹Cross-Validation and Model Evaluation Techniques\n🔹Deploying Scikit-Learn Models in Production\n\nMy Review (on Amazon):\nI love this book, not only for its amazing content, but also for its brilliant adherence to its \"Cookbook\" label. The table of contents looks repetitive, but that's the magic of it. Find the algorithm, method, or application that you want \"to cook up,\" and the presentation follows a uniform format from chapter to chapter. This is an extraordinarily practical, useful, and reader-friendly style, perfect for the target audience: anyone who needs to use (or is discovering how to use) specific Scikit-learn tools for their Python-based machine learning tasks. Consequently, this is great not only for individual use but also for training workshops and other educational settings. Python code in a cookbook context has never looked so good. IMHO.",
+    "createdAt": "Wed Jun 24 05:28:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjirL0XYAA9xtd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069653394965348488",
+    "fullText": "AI Programming with Python — From Zero to Hero: https://t.co/E5SZx5rvOe\n\n🔵Thorough introductions to AI, Machine Learning, and Deep Learning\n\n🟢Hands-on introductions to Python\n\n🟠Discussions of supervised and unsupervised learning\n\n🟣Explorations of classification and regression in supervised learning\n\n🔴Explanations of clustering, PCA, and LDA in unsupervised learning\n\n🟡Full treatments of deep learning, cloud computing, and edge computing",
+    "createdAt": "Wed Jun 24 05:26:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLje9E7XkAAe6WZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069649172379160795",
+    "fullText": "Applied Predictive Modeling: https://t.co/2EeVj3PjHQ\n—————\n#AI #ML #MachineLearning #DataScientist #DataScience #PredictiveAnalytics https://t.co/LVd5KpQPdH",
+    "createdAt": "Wed Jun 24 05:09:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLje4shWEAAcXso.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069649101407351052",
+    "fullText": "Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques — A Data Science Guide: https://t.co/XCy0uqwcTY https://t.co/odU1X824q0",
+    "createdAt": "Wed Jun 24 05:09:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLje0z5XcAAxbhi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069649030452330772",
+    "fullText": "Predictive Statistics — Analysis and Inference beyond Models: https://t.co/h5Uekxh2lx\n—————\n#Probability #DataScience #Mathematics #MachineLearning #ML #DataScientist https://t.co/lRCTQFjlAl",
+    "createdAt": "Wed Jun 24 05:09:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjewQeWkAAYmbe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069648952476012766",
+    "fullText": "Machine Learning and Generative AI for Marketing using Python — https://t.co/mNksKv5My4 v/ @PacktDataML\n \nKey Features:\n\n🟠Enhance customer engagement and personalization through predictive analytics and advanced segmentation techniques\n\n🟠Combine Python programming with the latest advancements in generative AI to create marketing content and address real-world marketing challenges",
+    "createdAt": "Wed Jun 24 05:08:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjerZLWYAAv0jX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069648872050196574",
+    "fullText": "Machine Learning for Algorithmic Trading — Predictive models to extract signals from market and alternative data for systematic trading strategies with Python…\n\n➡️🥇💥and for *other* Time Series prediction applications💥🏆⬅️\n\nExplore https://t.co/WoOjoUA6ZE by @ml4trading via @PacktDataML",
+    "createdAt": "Wed Jun 24 05:08:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485477,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjebGXWIAAqEI7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2069648588997591514",
+    "fullText": "XGBoost for Regression, Predictive Modeling, and Time Series Analysis — Learn how to build, evaluate, &amp; deploy predictive models:\nhttps://t.co/aXWT7J4Mjy v/ @PacktDataML https://t.co/0ko5rKWLIj",
+    "createdAt": "Wed Jun 24 05:07:30 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tszzl",
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 377310,
-      "friendsCount": 13026,
+      "followersCount": 375798,
+      "friendsCount": 13023,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -21,7 +435,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 146121,
+      "followersCount": 146130,
       "friendsCount": 3269,
       "location": "on ⛓"
     },
@@ -37,7 +451,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. accelerating AI adoption, interested in progress. tech podcast: @nopriorspod",
-      "followersCount": 146121,
+      "followersCount": 146130,
       "friendsCount": 3269,
       "location": "on ⛓"
     },
@@ -53,7 +467,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291430,
+      "followersCount": 291466,
       "friendsCount": 8270,
       "location": "United States"
     },
@@ -71,7 +485,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 150926,
+      "followersCount": 150927,
       "friendsCount": 5359,
       "location": "Montréal · Québec"
     },
@@ -89,7 +503,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 56931,
+      "followersCount": 56945,
       "friendsCount": 376,
       "location": "San Francisco, CA"
     },
@@ -107,7 +521,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 471491,
+      "followersCount": 471498,
       "friendsCount": 1514,
       "location": "Austin, TX"
     },
@@ -125,7 +539,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 62226,
+      "followersCount": 62237,
       "friendsCount": 11029,
       "location": "San Francisco"
     },
@@ -143,7 +557,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291430,
+      "followersCount": 291466,
       "friendsCount": 8270,
       "location": "United States"
     },
@@ -159,7 +573,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291430,
+      "followersCount": 291466,
       "friendsCount": 8270,
       "location": "United States"
     },
@@ -177,7 +591,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 506824,
+      "followersCount": 506851,
       "friendsCount": 3134,
       "location": ""
     },
