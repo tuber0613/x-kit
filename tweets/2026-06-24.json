@@ -1,12 +1,292 @@
 [
   {
     "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 308569,
+      "friendsCount": 879,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2069817184038052233",
+    "fullText": "Finally caved in, and I now fully speak to agents as opposed to typing prompts.\n\nMy first realization is that you can just blabber on and tell the agent so many rich details via audio. The longer and the more detailed the audio explanation, the better the results. \n\nThe most interesting thing about interacting with the agent this way is that I can parallelize more work and enable agents to perform way longer runs, implementing many things at once.  \n\nIn addition, I have developed a new feature where I can record the screen, take screenshots, track mouse actions and movements, annotate, and explain (using voice) to the agent things that it struggles with, like design and precise feature development. \n\nMy finding is that the richer the prompt modality, the more reliable the agent results are. The noise (if any) doesn't even matter. Yes, it's more expensive (i.e., lots more tokens used this way), but the reliability that you are getting is worth it.\n\nI often store those as reusable commands/skills where it applies and inject them into loops. \n\nThe results are night and day.",
+    "createdAt": "Wed Jun 24 16:17:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 313464,
+      "friendsCount": 878,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLl0e1eWoAACE44.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2069813582825418828",
+    "fullText": "The rise of MoE models introduced new challenges in training, and @huggingface's Transformers v5 brought first-class support for solving them.\n\nNow, NeMo AutoModel builds on top of v5. Part of the NeMo framework for building models at scale, NeMo AutoModel brings optimizations to a broad set of model families through support for Expert Parallelism, DeepEP, and TransformerEngine kernels with a few lines of code.\n\nWe found NeMo AutoModel brings a 3.4 to 3.7x higher training throughput for popular MoE models. You can read more here: https://t.co/TNlBsKWwrJ",
+    "createdAt": "Wed Jun 24 16:03:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 701541,
+      "friendsCount": 826,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2069808712890585191",
+    "fullText": "The best way to understand a complex system is via edge cases and failure modes, because they define the contour of the system.",
+    "createdAt": "Wed Jun 24 15:43:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107102,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLlm3PRWkAARrPy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2069798612876333449",
+    "fullText": "Can AI chatbots be trusted as news intermediaries? A new study partially supported by @StanfordHAI evaluates the promise and risks of consuming today’s headlines through AI. @james_y_zou @suzgunmirac\n\nhttps://t.co/tvY9scDhhE https://t.co/ezPiJC2WxL",
+    "createdAt": "Wed Jun 24 15:03:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 92474,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLlmUikWYAEDe64.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2069798027582152730",
+    "fullText": "We're proud to be named a Leader in the 2026 Gartner® Magic Quadrant™: AI Platforms for Data Science and Machine Learning!\n\nDatabricks is positioned highest in Ability to Execute and furthest in Completeness of Vision for the second year in a row. If you're evaluating AI platforms, this is the report to start with.\n\nGet the report: https://t.co/7bkqfHjYz3",
+    "createdAt": "Wed Jun 24 15:01:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 255094,
+      "friendsCount": 159,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLlmRWnWAAESQa5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2069797954777489559",
+    "fullText": "Excited to sponsor #VBTransform2026 \n🗓️ July 14–15 \n📍 Hotel Nia, Menlo Park\n\nPlanning on attending?\nUse code VBLangChain20 for a discount on registration. https://t.co/xP6sT8Fn3s https://t.co/EKVHhkEkDD",
+    "createdAt": "Wed Jun 24 15:01:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 133868,
+      "friendsCount": 539,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069743615090298880/vid/avc1/1080x1440/fMrrSdIFOUWpf-sZ.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2069797702246781058",
+    "fullText": "Everyone keeps asking about her glowing skin… https://t.co/VnDj0F6iPI",
+    "createdAt": "Wed Jun 24 15:00:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Hailuo_AI",
+      "name": "Hailuo AI-MiniMax Hub",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
+      "description": "Discord: https://t.co/ckCTEs189Q\nCreator Partnership Program(CPP): https://t.co/KLDCVOlRYA",
+      "followersCount": 73991,
+      "friendsCount": 575,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069796031190200320/vid/avc1/4096x1716/eEkeuaHggHD6mxhh.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Hailuo_AI/status/2069797228601106622",
+    "fullText": "🦋Butterfly  \n\n🎬MiniMax x SIFF Co-created AI Short \nCreated by Hou Zuxin and Mark Wachholz  \n\n“To future selves who may no longer be us— \nwe write a poetic video essay about metamorphosis, memory, and the human urge to send something meaningful through change.”  \n\n#MiniMax #Hailuo #MiniMaxHub",
+    "createdAt": "Wed Jun 24 14:58:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 308569,
+      "friendsCount": 879,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069793636301012992/vid/avc1/1920x1080/GcCD6So3UnUt7J2E.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2069797099814682638",
+    "fullText": "Obsessed with our new /learn skill. \n\nIt's my favorite way of learning and researching topics. \n\nThe agent creates a learning plan and a learning hub (artifact) that adjusts per learner needs and progress. https://t.co/Z5O96pmG1d",
+    "createdAt": "Wed Jun 24 14:57:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 282631,
+      "friendsCount": 331,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069796246135394304/vid/avc1/1920x1080/M06qCQ4psDcvCE5w.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2069796562805440964",
+    "fullText": "New in Runway, you can now localize ads.\n\nOne image in, any language out. Input a single ad and get a version for every market. All with a single click. https://t.co/KsW65bhyg5",
+    "createdAt": "Wed Jun 24 14:55:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3611540,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2069793498639806507",
+    "fullText": "An expert watchmaker told me the main source of damage to golden age watches is not wear, but poorly done repairs. Especially during the quartz crisis in the 70s and 80s, when jewelers (through whom repair jobs still went then) pushed watchmakers to work cheaply.",
+    "createdAt": "Wed Jun 24 14:43:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452380,
+      "friendsCount": 567,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLlgUeTaQAAzqkq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2069791414964367442",
+    "fullText": "We should build a church for people who open-source their code so everyone can learn from it.\n\nHere is the complete source code of a RAG assistant to navigate airline policies.\n\nYou get the complete source code and video from @lenadroid, walking you through everything she did (I'm linking to the video in the first comment below).\n\nThe fact that you can watch every engineering decision that Lena made when building this app is pure gold.\n\nA few things you'll pick up from this:\n\n• It uses LangChain for the retrieval pipeline\n• It uses LangGraph for conversation state\n• It stores embeddings in Postgres with pgvector\n• It indexes documents to ground answers in the source text\n• It uses Terraform to stand up the infrastructure\n\nI'm linking to the video walkthrough and the source code below.",
+    "createdAt": "Wed Jun 24 14:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 90067,
+      "friendsCount": 916,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069788359241990144/vid/avc1/3840x2160/sLamBSENThX0ao0t.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/natolambert/status/2069788933668638839",
+    "fullText": "Another quick lecture -- I've been asked many times for prereq's to my book and what you should know, so built a little lecture (with GLM 5.2) to cover some more basics.\n\nTopics include:\n\n00:00 Introduction & Course Prerequisites\n01:37 Language Models Overview\n02:47 The LM Head\n04:29 Softmax & Log-Probabilities\n06:13 Anatomy of an LM Training Example\n06:37 Computing LLM Probabilities (+Phoebe the Dog)\n09:52 Three Common Masks in Post-Training\n11:03 A Small Decoding Review\n12:14 Training an LM: Cross-Entropy\n13:23 Optimization & Fine-Tuning\n13:55 Pretraining to Midtraining to SFT Pipeline\n15:25 Probability Essentials: KL Divergence & Entropy\n19:36 Sigmoid & Pairwise Likelihood\n20:29 Reinforcement Learning Framing (MDP)\n22:28 Transitioning Tools into Post-Training\n23:12 Recommended Resources & Wrap-Up\n\nHappy learning and I'm still taking questions from during the course for Q&A videos.",
+    "createdAt": "Wed Jun 24 14:25:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
+      "followersCount": 1461837,
+      "friendsCount": 278,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069783808010829824/vid/avc1/1280x720/LwuvBdkknhRMh2MO.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/2069785314663497966",
+    "fullText": "What happens when millions of AI agents start negotiating, transacting, and delegating to one another?\n\n@weballergy joined our podcast with @fryrsquared to explore the rise of agentic economies – and how we can diversify agent decision-making to avoid AI groupthink.\n\nTimecodes:\n00:00 Intro\n1:07 Defining AI agents\n4:44 Agentic exploration in science and research\n15:46 Delegation between agents\n22:46 Agentic security and traps\n29:31 Building an agentic economy\n33:22 Cognitive monoculture\n36:29 Distributed intelligence",
+    "createdAt": "Wed Jun 24 14:10:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 88241,
+      "friendsCount": 5274,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLlWgBlXcAAmZqt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2069780936397291700",
+    "fullText": "icymi we are doing a joint livestream with @UnslothAI to onboard you to open models 🔥\n\nwe cover from inference engines to open harnesses, so make sure not to miss! \n\ntune in tomorrow 8AM PST/5PM CEST @huggingface X and YT 🤗 https://t.co/QE5d9cQi7K",
+    "createdAt": "Wed Jun 24 13:53:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 291525,
+      "friendsCount": 8274,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2069779309288657282",
+    "fullText": "The problem with bad policies is that more often than not it takes decades for their worst consequences to become apparent toe everyone. And by then they are almost always irreversible.",
+    "createdAt": "Wed Jun 24 13:46:56 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 71514,
-      "friendsCount": 35084,
+      "followersCount": 71518,
+      "friendsCount": 35099,
       "location": "latent space"
     },
     "images": [
@@ -23,8 +303,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291501,
-      "friendsCount": 8270,
+      "followersCount": 291525,
+      "friendsCount": 8274,
       "location": "United States"
     },
     "images": [],
@@ -39,7 +319,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4947863,
+      "followersCount": 4948432,
       "friendsCount": 4,
       "location": ""
     },
@@ -57,7 +337,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 255070,
+      "followersCount": 255094,
       "friendsCount": 159,
       "location": ""
     },
@@ -75,7 +355,7 @@
       "name": "Yann LeCun",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_normal.jpg",
       "description": "Professor at NYU & Executive Chairman at AMI Labs. \nEx-Chief AI Scientist at Meta.\nResearcher in AI, Machine Learning, Robotics, etc.\nACM Turing Award Laureate.",
-      "followersCount": 1220786,
+      "followersCount": 1220941,
       "friendsCount": 787,
       "location": "New York"
     },
@@ -91,8 +371,8 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 452388,
-      "friendsCount": 566,
+      "followersCount": 452380,
+      "friendsCount": 567,
       "location": "🇺🇸 Collaborations →"
     },
     "images": [],
@@ -161,8 +441,8 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 452388,
-      "friendsCount": 566,
+      "followersCount": 452380,
+      "friendsCount": 567,
       "location": "🇺🇸 Collaborations →"
     },
     "images": [],
@@ -228,8 +508,8 @@
       "screenName": "SchmidhuberAI",
       "name": "Jürgen Schmidhuber",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
-      "description": "OG of P  and T in ChatGPT, very deep learning (depth 100+), meta learning and RSI, neural distillation, GANs ... Co-authored most-cited AI paper of 20th century",
-      "followersCount": 204243,
+      "description": "OG of P  and T in ChatGPT, 100x deeper learning, meta learning and RSI, neural distillation, GAN/World Model... Co-authored most-cited AI paper of 20th century",
+      "followersCount": 204263,
       "friendsCount": 0,
       "location": "Switzerland, KSA"
     },
