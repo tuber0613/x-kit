@@ -1,11 +1,259 @@
 [
   {
     "user": {
+      "screenName": "lilianweng",
+      "name": "Lilian Weng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923619459643711488/qmXOBhZ1_normal.jpg",
+      "description": "Co-founder of Thinking Machines Lab @thinkymachines; Ex-VP, AI Safety & robotics, applied research @OpenAI; Author of Lil'Log",
+      "followersCount": 260788,
+      "friendsCount": 181,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lilianweng/status/2070237256070389897",
+    "fullText": "A super long overdue (3+ years?) post on scaling laws.\n\nCompute is expensive. Scaling laws are a way to help us reason about the optimal compute allocation between data and model size before committing to a large run. \n\nThe post covers what scaling laws predict, how compute-optimal allocation works, why Kaplan et al. and Chinchilla disagree, and how data limits + fitting details make extrapolation tricky.\n\nhttps://t.co/HP26eJvjHB",
+    "createdAt": "Thu Jun 25 20:06:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 308727,
+      "friendsCount": 880,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLrz1pAakAAnmjG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2070235085732000228",
+    "fullText": "New research from Meta.\n\nBuilding synthetic training data has stayed a fixed pipeline that you hand-tune and then freeze.\n\nAutodata casts an AI agent as a data scientist that builds training and evaluation data, with an implementation called Agentic Self-Instruct that extends classic Self-Instruct with agentic planning and tool use.\n\nThink of it as meta-optimization, where the data scientist agent is itself trained to produce stronger data, so the pipeline keeps improving instead of staying static.\n\nAcross computer science research, legal reasoning, and reasoning over mathematical objects, it beats classical synthetic-data methods, and meta-optimizing the agent delivers an even larger uplift.\n\nPaper: https://t.co/TgFN6EHZas\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Thu Jun 25 19:58:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 428550,
+      "friendsCount": 645,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLrzTCmaQAE31a_.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2070234511842160880",
+    "fullText": "Well, yeah. https://t.co/70ZgUyHCka",
+    "createdAt": "Thu Jun 25 19:55:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 92569,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070228003473227776/vid/avc1/1280x720/MKaGKq_65AOLXhHs.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2070228129994432632",
+    "fullText": "Databricks co-founders @matei_zaharia and @rxin joined @latentspacepod following #DataAISummit to discuss the ideas shaping the next generation of data and AI, including Omnigent, LTAP, Lakebase, agent security, open formats, and what it takes to build for the agent era.\n\nWatch the full conversation for a behind-the-scenes look at the thinking behind some of this year's biggest announcements. https://t.co/8cE28sTmAo",
+    "createdAt": "Thu Jun 25 19:30:23 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "a16z",
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1010815,
+      "followersCount": 1010929,
+      "friendsCount": 62,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070227959081050112/vid/avc1/1280x720/mRCh36yhAvstBj6e.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2070228042384113794",
+    "fullText": "On Easter morning earlier this year, Artemis II Mission Pilot Victor Glover spoke these words:\n\n\"Maybe the distance we are from you makes you think what we're doing is special.\n\nBut we're the same distance from you, and I'm trying to tell you—just trust me—you are special.\n\nIn all of this emptiness—this is a whole bunch of nothing, this thing we call the universe—you have this oasis, this beautiful place that we get to exist together.\"\n\nIn this piece from astronautical engineer William Whittenbury, a deep dive on the historic Artemis II mission that brought us back to the Moon, and why Glover's words ring true: https://t.co/HKnNYqsn2S",
+    "createdAt": "Thu Jun 25 19:30:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 401068,
+      "friendsCount": 858,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070214920780623872/vid/avc1/1080x1920/uU7CMcYCLlgtah43.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2070217007174201744",
+    "fullText": "Wildfire XPRIZE Finals! three teams competing from Anduril (US), Aura (Australia/UK) and Dryad (Germany). Detect a fire at ignition, put it out within 10 minutes fully autonomously monitoring  1000 km². #xprize https://t.co/VEyRRY2txD",
+    "createdAt": "Thu Jun 25 18:46:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 282760,
+      "friendsCount": 331,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070215395718688768/vid/avc1/1280x720/neBhJ_BFTDfZeg_6.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2070215480401604954",
+    "fullText": "Introducing Agent 2.0\n\nGo from a simple prompt to fully realized marketing briefs and campaign assets right inside of Runway Agent. You can also easily analyze your performance data to improve your creative and scale it across platforms, formats and markets.\n\nAgent is being built to become the most capable autonomous agent for real-world work.",
+    "createdAt": "Thu Jun 25 18:40:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 92569,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070214428079874048/vid/avc1/1280x720/e1bqyrGRHcIm6c62.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2070214531951796624",
+    "fullText": "In this 2-hour hands-on course, @andreaskayy walks through how to build end-to-end data pipelines on Databricks using Spark Declarative Pipelines and Lakeflow Designer.\n\nAlong the way, you'll:\n✔️ Learn the fundamentals of Delta Lake and Unity Catalog\n✔️ Build a Bronze → Silver → Gold pipeline using the medallion architecture\n✔️ See how declarative pipelines handle dependencies and orchestration automatically\n✔️ Build pipelines visually with Lakeflow Designer\n✔️ Explore how Databricks Assistant and Genie can accelerate development\n\nhttps://t.co/YlILcms92E",
+    "createdAt": "Thu Jun 25 18:36:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 401068,
+      "friendsCount": 858,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2070213136590807355",
+    "fullText": "A lot of people see one man or a team get rich off an IPO, but that's not the actual headline... Thousands of builders took the risk and got rewarded at once. \n\nTHAT'S a model worth COPYING!",
+    "createdAt": "Thu Jun 25 18:30:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 655852,
+      "friendsCount": 496,
+      "location": "Redmond, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLrdI_EWkAArTOj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2070210976260018496",
+    "fullText": "MAI-image-2.5 is new at #2 for text-to-image and #3 for image editing on @ArtificialAnlys! We’re second now only to GPT models. Also, MAI-Image-2.5-Flash is world-beating for quality/price. Super proud of the team.\n\nNow available through the Foundry API and rolling out across OneDrive + PowerPoint, or check it out in the MAI Playground: https://t.co/UA4NL6O1Oy",
+    "createdAt": "Thu Jun 25 18:22:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SilverJacket",
+      "name": "Matthew Hutson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1402377580167241734/8zTEBQyJ_normal.jpg",
+      "description": "Freelance science writer for The New Yorker, Science, Nature, etc. Fire dancer. Into cognition—animal and mineral (aka psych & AI).",
+      "followersCount": 4602,
+      "friendsCount": 490,
+      "location": "NYC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLrdbz2XIAAz4Ru.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SilverJacket/status/2070210809964232797",
+    "fullText": "Can LLMs reach \"AGI,\" or do we need world models? My latest news feature for @ScienceMagazine (link in reply).\n\nThanks to Jared Kaplan, @ylecun, @PimDeWitte, @AdamJelley2, @janexwang, @shlomifruchter, @LakeBrenden, @yukez, @merettm, @AnthropicAI, @amilabs, @gen_intuition, @GoogleDeepMind, @OpenAI, etc.",
+    "createdAt": "Thu Jun 25 18:21:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 401068,
+      "friendsCount": 858,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2070206326962053485",
+    "fullText": "I'm often asked about why I admire Elon so much, and the answer is he's the definition of RESILIENCE.\n In 2008, he was going through a divorce, his rocket had failed three times, and his car company was out of money and at risk of personal bankruptcy. Despite that, he DID NOT give up.",
+    "createdAt": "Thu Jun 25 18:03:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MicrosoftAI",
+      "name": "Microsoft AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
+      "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
+      "followersCount": 16718,
+      "friendsCount": 19,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLrWy17WUAAreBT.jpg",
+      "https://pbs.twimg.com/media/HLrWzBoWAAEV73b.jpg",
+      "https://pbs.twimg.com/media/HLrWzQaWQAAYREU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MicrosoftAI/status/2070203160006639815",
+    "fullText": "MAI-Image-2.5 ranked #2 for text-to-image and #3 for image editing on @ArtificialAnlys - showing strong performance across both generation and precise image edits.  \n\nFrom rainy-window blur to a clear, usable street scene, while preserving object consistency, lighting, reflections, and scene geometry. \n\nAvailable now in Foundry API (https://t.co/VTHPRxiwKP), MAI Playground (https://t.co/bZzkaVjUpm) and @OpenRouter",
+    "createdAt": "Thu Jun 25 17:51:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 507339,
+      "friendsCount": 3136,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLrWphWXUAA--F7.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2070203092868497721",
+    "fullText": "glm 5.2 in hf-claude building a gradio server app for Ornith-1.0-9B https://t.co/12P5We6kld",
+    "createdAt": "Thu Jun 25 17:50:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1010929,
       "friendsCount": 62,
       "location": "The Cloud"
     },
@@ -23,7 +271,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 57000,
+      "followersCount": 57002,
       "friendsCount": 376,
       "location": "San Francisco, CA"
     },
@@ -41,7 +289,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4953388,
+      "followersCount": 4953517,
       "friendsCount": 4,
       "location": ""
     },
@@ -62,7 +310,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 471783,
+      "followersCount": 471804,
       "friendsCount": 1514,
       "location": "Austin, TX"
     },
@@ -266,7 +514,7 @@
       "name": "Naveen Rao",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1846057841934606337/CGG3iJKT_normal.jpg",
       "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
-      "followersCount": 37833,
+      "followersCount": 37843,
       "friendsCount": 951,
       "location": "San Diego, CA"
     },
@@ -822,7 +1070,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 409681,
+      "followersCount": 410011,
       "friendsCount": 4876,
       "location": "Miami / New York / Paris"
     },
