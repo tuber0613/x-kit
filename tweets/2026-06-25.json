@@ -1,12 +1,184 @@
 [
   {
     "user": {
+      "screenName": "RamaswmySridhar",
+      "name": "sridhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
+      "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
+      "followersCount": 34784,
+      "friendsCount": 623,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RamaswmySridhar/status/2070266386891620449",
+    "fullText": "Follow-up to my GLM vs Opus thread: let's talk cost.\n\nWe ran 103 dbt tasks x 3 trials on each model. Same harness, same tasks.\n\n GLM: 860M tokens\n Opus: 439M tokens\n\n That's ~2x. But the \"why\" is more interesting than the number.",
+    "createdAt": "Thu Jun 25 22:02:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 364115,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070247994331643904/vid/avc1/3840x2160/Yky7cLZxrovVfNCN.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2070261549391024403",
+    "fullText": "You can now spin up a persistent cloud development environment in one prompt with the @DigitalOcean plugin for Codex.\n\nIt runs in your DigitalOcean account and keeps working when you step away. https://t.co/5qAE95liAC",
+    "createdAt": "Thu Jun 25 21:43:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
+      "followersCount": 102188,
+      "friendsCount": 852,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLsGsroagAEMZFY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2070255844865007748",
+    "fullText": "we’ll be at AI Engineer After Dark on July 1st with @vercel , @merge_api, @FactoryAI , and a room full of people building the AI engineering stack.\n\nour Research Lead, RL Training @olive_jy_song will be giving a lightning talk on post-training MiniMax M3 as part of a lineup featuring @browserbase , @neondatabase , @FireworksAI_HQ , @ExaAILabs , @sentry , @SurrealDB, and more.\n\nsee you after dark at SFMOMA.",
+    "createdAt": "Thu Jun 25 21:20:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240477152,
+      "friendsCount": 1359,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070245292784730112/vid/avc1/2880x2880/f5E9mA4Pf6Emo5Dw.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2070253062619328925",
+    "fullText": "https://t.co/6Zi3pmHwPN",
+    "createdAt": "Thu Jun 25 21:09:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 255275,
+      "friendsCount": 160,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2070250742326112634",
+    "fullText": "Rubrics for Deep Agents, programmatic subagents, and everything new in LangSmith ⤵️ \n\nhttps://t.co/pkpWj5sgVY",
+    "createdAt": "Thu Jun 25 21:00:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 71528,
+      "friendsCount": 35107,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070189396804968449/vid/avc1/1920x1080/nt3w2KR4tnRx_Fcn.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2070248551033020617",
+    "fullText": "(in french) a detailed interview with hadrien canter, ceo of alta ares - makers of air defense systems against shaheds, cruise missiles and glide bombs went on @gdiypodcast for 2.5 hrs on building europe's air shield\n\nwhat ukraine actually taught us, why sovereignty isn't optional, and how you mass-produce cheap interceptors at car-factory scale.",
+    "createdAt": "Thu Jun 25 20:51:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 401086,
+      "friendsCount": 858,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2070243269666086936",
+    "fullText": "We can expect only about half of U.S. data‑center capacity planned for the next year to come online on schedule, as projects run into grid bottlenecks, permitting friction, and increasingly organized local opposition. \n\nIt rhymes uncomfortably with U.S. nuclear: for decades, a mix of cost inflation, regulatory complexity, and political resistance stalled new reactors here, while China standardized designs and went on to build dozens of them.",
+    "createdAt": "Thu Jun 25 20:30:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 308727,
+      "friendsCount": 880,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLr5OpcXwAAJ56m.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2070241450227331120",
+    "fullText": "Just had a great discussion on dynamic workflows.\n\nRough notes:\n\n- applies to a very small set of use cases\n- think of it as a new paradigm of (test-time compute) TTC\n- strong for hill-climbing research experiments\n- careful planning leads to better results\n- you can often get better results by just increasing the reasoning level\n- /goal + /loop is a subset of dynamic workflows\n- verifiers/judges are crucial to get good results\n- combine/fuse different coding agents for even better results\n- great for when you need different perspectives from agents (llm council)\n- frontier models are not equipped for optimally generating harnesses on the fly\n- newer models like Mythos are probably better trained to do more optimal agent orchestration\n- benchmarks on TTC are lacking, but we need them to measure how effective dynamic workflows are\n- meta prompt dynamic workflows are a lot of fun; even opus 4.8 might surprise you\n- dynamic workflows can be packaged as skills for further optimization of them\n\nLonger post coming soon.",
+    "createdAt": "Thu Jun 25 20:23:19 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "lilianweng",
       "name": "Lilian Weng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923619459643711488/qmXOBhZ1_normal.jpg",
       "description": "Co-founder of Thinking Machines Lab @thinkymachines; Ex-VP, AI Safety & robotics, applied research @OpenAI; Author of Lil'Log",
-      "followersCount": 260788,
-      "friendsCount": 181,
+      "followersCount": 260885,
+      "friendsCount": 182,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lilianweng/status/2070240252988629313",
+    "fullText": "Soon I should set up the model to update Lil’Log automatically but I’m not there yet.",
+    "createdAt": "Thu Jun 25 20:18:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 255275,
+      "friendsCount": 160,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLr3vktWsAAPfaJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2070239378345963713",
+    "fullText": "Fine-tuned models match frontier performance\n\nIn our research with @FireworksAI_HQ, a fine-tuned @Alibaba_Qwen outperformed all model sizes. \n\nThey’re also cheaper to run at scale\n\n10-100x depending on trace volume and model choice\n\nAs trace volumes grow, so will cost-savings on fine-tuned models.",
+    "createdAt": "Thu Jun 25 20:15:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "lilianweng",
+      "name": "Lilian Weng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923619459643711488/qmXOBhZ1_normal.jpg",
+      "description": "Co-founder of Thinking Machines Lab @thinkymachines; Ex-VP, AI Safety & robotics, applied research @OpenAI; Author of Lil'Log",
+      "followersCount": 260885,
+      "friendsCount": 182,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -39,7 +211,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 428550,
+      "followersCount": 428564,
       "friendsCount": 645,
       "location": ""
     },
@@ -57,7 +229,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2024132141139857408/gqYcpjGG_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 92569,
+      "followersCount": 92570,
       "friendsCount": 1098,
       "location": "HQ: San Francisco, CA"
     },
@@ -75,7 +247,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1010929,
+      "followersCount": 1010958,
       "friendsCount": 62,
       "location": "The Cloud"
     },
@@ -93,7 +265,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 401068,
+      "followersCount": 401086,
       "friendsCount": 858,
       "location": ""
     },
@@ -111,7 +283,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 282760,
+      "followersCount": 282768,
       "friendsCount": 331,
       "location": "New York, USA"
     },
