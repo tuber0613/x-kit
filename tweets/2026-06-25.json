@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 4971,
+      "friendsCount": 1646,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kseniase_/status/2070079170080653681",
+    "fullText": "https://t.co/lXXMzDhAW8",
+    "createdAt": "Thu Jun 25 09:38:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36130,
+      "friendsCount": 1740,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLpbQ8-bEAAooKv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2070071436069498970",
+    "fullText": "通过拷问式对话，帮你把模糊想法转为AI精确可执行规格的工具：loop-me\n\n想要AI做好自动化，你得先把脑子里的事情说清楚\n\n比如让AI整理晨报、周报、回复邮件等等，平时知道这个loop怎么做但有时候很难说清楚\n\nloop-me就是干这个的，它会辅助你把说不清的隐性知识，通过拷问，逼成显性的AI可精确执行的workflow spec\n\n首先一次只问一个问题，relentlessly式追问，把每个模糊点都拆解成具体可回答的问题，直到不再出现“到时候看情况”的情况\n\n第二，每个问题附带推荐答案，降低回答成本，同时用推荐答案示范精确度\n\n第三，当用户描述接近某个概念时，loop-me会用确定词汇锚定\n\n完成的标准是AI拿到后零提问。loop-me拷问自己，如果把这份规格给一个完全不了解用户工作的AI，它是否能直接构建出来，如果答案是否定的，说明还有问题没问透，就再继续拷问\n\n最后NOTES.md沉淀，工具、术语统一，后续无需重复确认\n\n#loopme #loop #AI自动化",
+    "createdAt": "Thu Jun 25 09:07:45 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240453237,
+      "followersCount": 240459361,
+      "friendsCount": 1358,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2070042592012570970",
+    "fullText": "Potential name for the AI industry regulatory authority:\n\nAI Associated Institute of America, Inc or AIAIAI, pronounced “ay yai yai”",
+    "createdAt": "Thu Jun 25 07:13:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnimaAnandkumar",
+      "name": "Prof. Anima Anandkumar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1443692617473015808/1ygwZsWX_normal.jpg",
+      "description": "AI+Science, Bren Professor @caltech, Time100, Fmr Sr Director of #AI research @nvidia Fmr Principal Scientist @awscloud",
+      "followersCount": 40175,
+      "friendsCount": 2418,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLpAt-QWQAAhUy1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnimaAnandkumar/status/2070038153679847845",
+    "fullText": "Our paper, “Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior,” has been selected for Oral Presentation at CTB @icmlconf \n\n* Paper: https://t.co/wT8OQmOs9w\n* Website: https://t.co/8idwkMM76N  * Code: https://t.co/8pfdiyl71d\n\nA central question in AI evaluation is whether we can use low-cost self-report probes to anticipate how LLMs will actually behave in tasks.\n\nIn our earlier work, “The Personality Illusion,” we found that LLMs can give coherent personality self-reports that do not reliably predict behavior. This paper asks a follow-up question: When do self-reports actually track behavior, and what are the failure modes where they don't?\n\nAcross 11 LLMs, 4 behavioral tasks, and a 2 × 2 × 2 experimental design, we find that self-report–behavior coherence exists, but it is selective:\n\n1) The instrument matters. Broad Big Five personality traits do not predict task behavior well. But a more behavior-specific framework, the Theory of Planned Behavior, can recover much stronger coherence under favorable conditions.\n\n2) Context matters. When self-reports and behavior happen in the same conversation, coherence can reach human-level intention–behavior baselines. But when they happen in separate conversations, coherence often collapses.\n\n3) The task matters. Coherence survives better for behaviors anchored outside the immediate prompt, such as implicit bias and aspects of honesty. It collapses for behaviors strongly shaped by the local context, such as sycophancy.\n\n4) Personas are not a fix. Persona prompting makes models’ self-reports more stable across conversations, but it does not reliably bring behavior into alignment. This is especially important for persona-customized AI systems: changing what a model says about itself does not necessarily change what it does.\n\nThe takeaway: LLM self-reports should not be treated as context-free behavioral diagnostics. If we want to use psychometric probes for AI safety, deployment, or model evaluation, we need task-specific instruments, behaviorally grounded validation, and careful separation between what a model says and what it actually does.\n\nHuge thanks to my co-authors @RKocielnik Pengrui Han, Peiyang Song, Myrl G. Marmarelis, Ramit Debnath, Dean Mobbs, and R. Michael Alvarez, and to the @Caltech Linde Center for Science, Society, and Policy @CaltechLCSSP",
+    "createdAt": "Thu Jun 25 06:55:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240459361,
+      "friendsCount": 1358,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2069773769191673856/pu/vid/avc1/576x1024/cxgr2CzTYOJCVbJL.mp4?tag=26"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2070035015006588973",
+    "fullText": "True  https://t.co/7fmliNMklw",
+    "createdAt": "Thu Jun 25 06:43:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240459361,
       "friendsCount": 1358,
       "location": ""
     },
@@ -23,7 +109,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240453237,
+      "followersCount": 240459361,
       "friendsCount": 1358,
       "location": ""
     },
@@ -41,7 +127,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 428463,
+      "followersCount": 428480,
       "friendsCount": 644,
       "location": ""
     },
@@ -59,7 +145,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 229021,
+      "followersCount": 229027,
       "friendsCount": 7048,
       "location": ""
     },
@@ -77,7 +163,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 401041,
+      "followersCount": 401042,
       "friendsCount": 858,
       "location": ""
     },
@@ -93,8 +179,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291672,
-      "friendsCount": 8277,
+      "followersCount": 291701,
+      "friendsCount": 8275,
       "location": "United States"
     },
     "images": [],
@@ -109,8 +195,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291672,
-      "friendsCount": 8277,
+      "followersCount": 291701,
+      "friendsCount": 8275,
       "location": "United States"
     },
     "images": [
@@ -127,7 +213,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -145,7 +231,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -164,7 +250,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -182,7 +268,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -201,7 +287,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -219,7 +305,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -237,7 +323,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -255,7 +341,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -273,7 +359,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -291,7 +377,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -309,7 +395,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -327,7 +413,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -345,7 +431,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -363,7 +449,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -381,7 +467,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -400,7 +486,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -418,7 +504,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -436,7 +522,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -454,7 +540,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -472,7 +558,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -490,7 +576,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485531,
+      "followersCount": 485534,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
