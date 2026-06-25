@@ -1,11 +1,109 @@
 [
   {
     "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 90327,
+      "friendsCount": 917,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2070288961449411057",
+    "fullText": "I used to give the current admin a nod for saying their AI policies are fairly reasonable (chips stuff far messier). \n\nIn the last ~3 months they've destroyed all that trust and dug a giant hole of uncertainty - where the US's AI leadership will now be actively degrading.",
+    "createdAt": "Thu Jun 25 23:32:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 291679,
+      "friendsCount": 8273,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2070286581748183077",
+    "fullText": "Yeah, 5.5 is pretty dumb. Asked to generate a deep research report and it spent way too little time on it. Asked it to tell me the word count of the report and it was like \"what report? I only see your prompt!\" \n\nwtf",
+    "createdAt": "Thu Jun 25 23:22:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 88282,
+      "friendsCount": 5275,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2070285208520217069",
+    "fullText": "I'm looking for absolute banger AI content that's low level on my flight to SF, please drop them below",
+    "createdAt": "Thu Jun 25 23:17:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3648294,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2070279703227719755",
+    "fullText": "I went back and looked at my old emails with Om, and it reminded me how nice he was. He was a genuinely good guy.",
+    "createdAt": "Thu Jun 25 22:55:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 364156,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070269737175769089/vid/avc1/1920x1080/djHh1e2MJact6VA4.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2070276212984094805",
+    "fullText": "Builders Unscripted with @skirano\n\nPietro talked to @romainhuet about pushing the creative edges of GPT-5.5 and using Codex to turn ideas into software.\n\n03:45 Images into sound\n07:57 Multi-agent Codex workflows\n14:34 Reviving hardware with Codex\n25:27 From doing to directing https://t.co/jTxWvvPdQZ",
+    "createdAt": "Thu Jun 25 22:41:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 701900,
+      "friendsCount": 826,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2070270168362872982",
+    "fullText": "The true measure of a software engineer isn't their ability to write clever code. It's their ability to ruthlessly protect the codebase from unnecessary cleverness.",
+    "createdAt": "Thu Jun 25 22:17:26 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "RamaswmySridhar",
       "name": "sridhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
       "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
-      "followersCount": 34784,
+      "followersCount": 34834,
       "friendsCount": 623,
       "location": "Mountain View, CA"
     },
@@ -21,7 +119,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 364115,
+      "followersCount": 364156,
       "friendsCount": 1,
       "location": ""
     },
@@ -39,8 +137,8 @@
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
-      "followersCount": 102188,
-      "friendsCount": 852,
+      "followersCount": 102194,
+      "friendsCount": 853,
       "location": "San Francisco"
     },
     "images": [
@@ -57,8 +155,8 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240477152,
-      "friendsCount": 1359,
+      "followersCount": 240480552,
+      "friendsCount": 1358,
       "location": ""
     },
     "images": [],
@@ -75,7 +173,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 255275,
+      "followersCount": 255293,
       "friendsCount": 160,
       "location": ""
     },
@@ -91,8 +189,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 71528,
-      "friendsCount": 35107,
+      "followersCount": 71430,
+      "friendsCount": 35108,
       "location": "latent space"
     },
     "images": [],
@@ -109,7 +207,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 401086,
+      "followersCount": 401088,
       "friendsCount": 858,
       "location": ""
     },
@@ -125,7 +223,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 308727,
+      "followersCount": 308744,
       "friendsCount": 880,
       "location": "DAIR.AI Academy"
     },
@@ -159,7 +257,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 255275,
+      "followersCount": 255293,
       "friendsCount": 160,
       "location": ""
     },
@@ -177,7 +275,7 @@
       "name": "Lilian Weng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923619459643711488/qmXOBhZ1_normal.jpg",
       "description": "Co-founder of Thinking Machines Lab @thinkymachines; Ex-VP, AI Safety & robotics, applied research @OpenAI; Author of Lil'Log",
-      "followersCount": 260885,
+      "followersCount": 261017,
       "friendsCount": 182,
       "location": "San Francisco, CA"
     },
@@ -546,8 +644,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291769,
-      "friendsCount": 8275,
+      "followersCount": 291679,
+      "friendsCount": 8273,
       "location": "United States"
     },
     "images": [
