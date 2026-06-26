@@ -1,11 +1,167 @@
 [
   {
     "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485511,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLxWfo6W4AAbObq.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2070625103633608970",
+    "fullText": "Data Analysts work requirements distribution\n\nSource: https://t.co/7TiOqHZEct https://t.co/mHk2DuhmLQ",
+    "createdAt": "Fri Jun 26 21:47:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 171765,
+      "friendsCount": 215,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070557687541387264/vid/avc1/1920x1080/X4WVBEhwTiewUZkB.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/arena/status/2070624156987896079",
+    "fullText": "Millions of people worldwide bring real-world tasks to Arena - and at that scale, hot/cold storage becomes a hard problem fast. \n\nIn this clip, our engineering team walks through some best practices: CDC replication, ephemeral storage tradeoffs, and what it takes to build data infrastructure across billions of data points.\n\nWatch the full clip on YouTube clip in thread.",
+    "createdAt": "Fri Jun 26 21:44:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1011815,
+      "friendsCount": 62,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLxTp1ca8AAYQcq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2070621910006976541",
+    "fullText": "AI native startups consume less capital\n\nCharts of the Week: https://t.co/qmjdkZzisp https://t.co/bpndOXYSfZ",
+    "createdAt": "Fri Jun 26 21:35:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 150254,
+      "friendsCount": 5367,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLxM5b-X0AAALxZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2070614482083016792",
+    "fullText": "GoalOS turns autonomous AI output into evidence-bearing institutional capability.\n\n#AGIALPHA https://t.co/Zlq4aVBa7r",
+    "createdAt": "Fri Jun 26 21:05:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 5307696,
+      "friendsCount": 1019,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2070612055225483692",
+    "fullText": "in other news, we updated the 5.5 instant model used in chatgpt this week.\n\ni like its vibes.",
+    "createdAt": "Fri Jun 26 20:55:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 5307696,
+      "friendsCount": 1019,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2070607488274358364",
+    "fullText": "Good new first: Sol is a smart, efficient, and a significant step forward. It is the same price as GPT-5.5. Also launching in the GPT-5.6 family is Terra, with 5.5-level performance at half the price.\n\nBad news: at the request of the US government, it is launching today in limited preview instead of the open access launch we were planning on. We are working with the government to get to general availability as fast as we can.\n\nI think it is quite reasonable to roll out models--especially as they reach significant new levels of capability--in this way. It fits with our long-held strategy of iterative deployment. But this isn't quite the process that we think is optimal.\n\nNow we will with the government to attempt to get to a transparent, reliable process for early access, and to ensure that as long as our safeguards work as intended we can release widely. We want to be a reliable, dependable partner that works with all stakeholders, and we also want to live by our mission of benefiting all of humanity. I believe the government shares most of our goals, and that they are overall doing a good job in a very difficult situation.\n\nWe will work as quickly as we can to get this model in your hands and we hope you will love it.",
+    "createdAt": "Fri Jun 26 20:37:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 76764,
+      "friendsCount": 1681,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2070606861452148989",
+    "fullText": "https://t.co/G0BEo46t1v",
+    "createdAt": "Fri Jun 26 20:35:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 57037,
+      "friendsCount": 376,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLxDBw7XoAAFUaF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2070603698548424950",
+    "fullText": "What happens when AI agents collaborate on open science?\n\nAt @aiDotEngineer World’s Fair, @james_y_zou will share work on EinsteinArena and DSGym, from multi-agent math discovery to better evaluation for data science agents.\n\nDay 3, July 1. Expo Stage 3 SW. https://t.co/ZDGlohoWS2",
+    "createdAt": "Fri Jun 26 20:22:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485511,
+      "friendsCount": 3364,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLxCTEmWQAAqDbM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2070602827223781878",
+    "fullText": "Machine Learning for Time Series with Python — Forecast, predict, and detect anomalies with state-of-the-art ML methods: https://t.co/fRlAyEWdPC by @benji1a\n—————\n#DataScience #AI #Forecasting #PredictiveAnaytics #AnomalyDetection #IoT #IIoT #EdgeAI #EdgeComputing https://t.co/C47qKQBcd2",
+    "createdAt": "Fri Jun 26 20:19:18 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "NVIDIAAI",
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 314330,
+      "followersCount": 314341,
       "friendsCount": 878,
       "location": "Santa Clara, CA"
     },
@@ -23,7 +179,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -41,7 +197,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -60,7 +216,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -78,7 +234,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -96,7 +252,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -114,7 +270,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -132,7 +288,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -150,7 +306,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -168,7 +324,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -186,7 +342,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -204,7 +360,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -222,7 +378,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485510,
+      "followersCount": 485511,
       "friendsCount": 3364,
       "location": "Maryland, USA"
     },
@@ -240,7 +396,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 401199,
+      "followersCount": 401206,
       "friendsCount": 858,
       "location": ""
     },
@@ -256,7 +412,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 255403,
+      "followersCount": 255406,
       "friendsCount": 161,
       "location": ""
     },
@@ -274,7 +430,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 308852,
+      "followersCount": 308855,
       "friendsCount": 880,
       "location": "DAIR.AI Academy"
     },
@@ -292,7 +448,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 282788,
+      "followersCount": 282792,
       "friendsCount": 331,
       "location": "New York, USA"
     },
@@ -310,7 +466,7 @@
       "name": "Ben Goertzel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
       "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
-      "followersCount": 76766,
+      "followersCount": 76764,
       "friendsCount": 1681,
       "location": "Vashon Island, WA, USA"
     },
@@ -326,7 +482,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 126717,
+      "followersCount": 126722,
       "friendsCount": 1,
       "location": ""
     },
@@ -344,8 +500,8 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 146352,
-      "friendsCount": 3272,
+      "followersCount": 146360,
+      "friendsCount": 3273,
       "location": "on ⛓"
     },
     "images": [],
@@ -362,7 +518,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 228679,
+      "followersCount": 228689,
       "friendsCount": 7052,
       "location": ""
     },
@@ -378,7 +534,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 401199,
+      "followersCount": 401206,
       "friendsCount": 858,
       "location": ""
     },
@@ -394,7 +550,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 92628,
+      "followersCount": 92630,
       "friendsCount": 1098,
       "location": "HQ: San Francisco, CA"
     },
@@ -415,7 +571,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 90559,
+      "followersCount": 90737,
       "friendsCount": 919,
       "location": "Seattle"
     },
@@ -830,7 +986,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 90559,
+      "followersCount": 90737,
       "friendsCount": 919,
       "location": "Seattle"
     },
