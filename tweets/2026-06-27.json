@@ -1,11 +1,218 @@
 [
   {
     "user": {
+      "screenName": "levie",
+      "name": "Aaron Levie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+      "description": "ceo @box - your business lives in content. unleash it with AI",
+      "followersCount": 2962139,
+      "friendsCount": 816,
+      "location": "Bay Area"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/levie/status/2070902420834828493",
+    "fullText": "The overton window has shifted on AI regulation. \n\nFor the past few years there has been a range of debates around how we might regulate AI. There are many different camps on this topic ranging from “0 regulation” to “AI should just be fully stopped and shut down.” And there are about 20 different points on the spectrum in between. \n\nBut the prevailing mode we’ve been operating under was that AI in the US was largely not regulated for models directly, but rather risks would be addressed specifically as they come up as appropriate, and general best practices around AI safety were adhered to by most labs. As a result, we saw rapid model releases and leapfrogging of the technology constantly.\n\nSome felt this might be an approach that could continue unabated, at least until we have clearer evidence of what novel risks weren’t being accounted for. Further, it hasn’t been obvious what kind of hammer the government would even use to regulate AI. Some people felt we need an FDA or FAA of AI, and many others considered that to be too heavy handed of an approach to keep innovation going.\n\nBut now, with a single swipe of the pen, export controls have shown us the way. No one reasonably thinks this will be the long term approach to regulating AI, but we’re getting a keen taste of what the implications of AI regulation will look like and what we can expect as a result. \n\nIn practice it means that models at higher capability levels will have to be thoroughly vetted and tested by the government before they can make it out to the market. This process may take weeks or months as the risks are often either subjective, or can only be experienced under highly contrived conditions; all of which requires tremendous back and forth between companies, researchers, academics, and the government. Even within the AI community, few agree on what a real risk is and isn’t. And just wait until politicians get involved more.\n\nFurther, when the models do finally get approved, they may be staggered to some small select set of companies or countries first, then expanded over time. They may also be used as a tool on some other negotiation entirely unrelated to AI. \n\nAll of this is to say that there’s now real risk that the level of rapid pace of releases and innovation that we’ve become accustomed to (as well as broad availability of this innovation) don’t happen in the same way. This can be partially mitigated if labs do major jumps in capability all at once, or if “minor” releases on the same base model don’t require the same level of review. But we now have more risk of slowdown than we did before. \n\nAnd of course this means that other countries need to start considering their own path forward for controlling their destiny in AI. So far the US has been far ahead in AI, and thus gets the implicit “design win” for the entire AI stack. But this becomes more at risk in a world where everyone needs to own their own future in AI. \n\nHopefully we stay on the path we’ve been on where frontier intelligence still keeps streaming out, and open models remain open and available. But no matter what, the overton window has shifted. We know what is possible with regulation now and we can easily imagine the implications.",
+    "createdAt": "Sat Jun 27 16:09:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 228456,
+      "friendsCount": 1676,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HL1RLqQXwAActN8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2070901946735587764",
+    "fullText": "6 月 26 日，OpenAI 正式从 ChatGPT 中移除了 GPT-4.5。这是 GPT-4 系列在 ChatGPT 里的最后一个模型，至此，GPT-4 时代在消费端彻底翻篇。\n\n我觉得 GPT-4.5 至今仍是最好的写作模型之一，GPT-5 系列在文风和个性上始终没能达到 GPT-4.5 的水准。\n\nGPT-4.5 原本就只对付费用户开放，使用量不大，所以 OpenAI 只给了 30 天的过渡期（5 月 28 日公告，6 月 26 日下线）。已有的 GPT-4.5 对话会自动切换到 GPT-5.5 继续，用户不需要手动操作。基于 GPT-4.5 搭建的自定义 GPT 也将同步失效，创建者需要手动迁移到新模型。\n\nAPI 端不受影响，开发者仍然可以通过 API 调用 GPT-4.5。\n\n回头看，GPT-4 系列的退场过程颇为曲折。去年 GPT-5 发布时，OpenAI 原本打算同步下线 GPT-4o，结果引发大规模用户抗议，不少人把 GPT-4o 当成了有温度的陪伴者，对下线反应激烈到 OpenAI 不得不临时恢复。最终 GPT-4o 在今年 2 月才正式退役，OpenAI 当时透露日活用户中仅 0.1% 仍在选用它，但按 8 亿周活用户的基数算，这仍然意味着约 80 万人。\n\n下一个要走的是 o3，8 月 26 日下线，过渡期 90 天。",
+    "createdAt": "Sat Jun 27 16:07:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 472076,
+      "friendsCount": 1515,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HL1RMA1XUAA-wIQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2070901600227365327",
+    "fullText": "I mean the US would have to beat Spain/Austria or Portugal/Ghana to get there.\n\nAnd tickets start at $5k.\n\nBut imagine... https://t.co/UxsH9HHR3a",
+    "createdAt": "Sat Jun 27 16:06:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 346694,
+      "friendsCount": 20465,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HL1QmERWQAA9430.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2070900021738734051",
+    "fullText": "Mastering Claude in 18 steps, v/@AnatoliKopadze. https://t.co/GeVn9GxWLD",
+    "createdAt": "Sat Jun 27 16:00:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 92665,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HL1LDPkWQAAlGPM.jpg",
+      "https://pbs.twimg.com/media/HL1LEdbWwAAyOkZ.jpg",
+      "https://pbs.twimg.com/media/HL1LFrfWMAA4cyv.jpg",
+      "https://pbs.twimg.com/media/HL1LG51XUAExk3r.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2070894006406365340",
+    "fullText": "Still catching up on everything from #DataAISummit 2026?\n\nLast week, leading experts, researchers, and open source contributors from Databricks and across the community shared the latest innovations, product announcements, and technical insights shaping the future of data and AI.\n\nCatch keynotes, breakout sessions, and technical talks from this year's event on-demand: https://t.co/1s7f5uxOUx",
+    "createdAt": "Sat Jun 27 15:36:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485507,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HL1Jji6WwAAw8Kb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2070892282559992051",
+    "fullText": "Try out these hackathons of the month, hosted by @devpost …\n\nH0: Hack the Zero Stack with Vercel v0 and AWS Databases\n 💰 PRIZES: $80,000 in cash\n 📅 DEADLINE: Jun 29, 2026\n 📝 NOTE: Please check the rules for specific eligibility criteria\n 🔨 Build a full-stack app using Vercel v0 for the frontend and AWS Databases (Aurora or DynamoDB) on the backend — 4 tracks to choose from\n 🔗 JOIN THE HACKATHON: https://t.co/AQEBuZU1Wh\n\nReddit's Games with a Hook Hackathon\n💰 PRIZES: $40,000 in cash\n📅 DEADLINE: Jul 15, 2026\n🔨 Build a retentive, replayable game for the Reddit community using Devvit, Reddit's developer platform\n🔗 JOIN THE HACKATHON: https://t.co/4Y1W5b41iy\n\nGlobal AI Hackathon Series with Qwen Cloud\n 💰 PRIZES: $45,000 in cash\n 📅 DEADLINE: Jul 9, 2026\n 📝 NOTE: Please check the rules for specific eligibility criteria\n 🔨 Build your own AI agent on Qwen Cloud across 5 tracks — from memory agents to multi-agent systems to edge AI on physical devices\n 🔗 JOIN THE HACKATHON: https://t.co/iMU1a4lZo0\n\nSlack Agent Builder Challenge\n 💰 PRIZES: $42,000 in cash\n 📅 DEADLINE: Jul 13, 2026\n 📝 NOTE: Please check the rules for eligible countries\n 🔨 Build an AI-powered Slack agent using Slack AI, MCP integrations, or the Real-Time Search API\n 🔗 JOIN THE HACKATHON: https://t.co/dfGKWbYs99\n\nBuild with Gemini XPRIZE\n 💰 PRIZES: $2,000,000 in cash\n 📅 DEADLINE: Aug 17, 2026\n 📝 NOTE: Please check the rules for specific eligibility criteria\n 🔨 Build a real, revenue-generating AI-native business using Google Cloud and Gemini across 5 categories including Education, Entrepreneurship, and Financial Access\n 🔗 JOIN THE HACKATHON: https://t.co/sqLbR4QadL",
+    "createdAt": "Sat Jun 27 15:29:30 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "natolambert",
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 91110,
+      "followersCount": 91117,
+      "friendsCount": 919,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2070891931362799834",
+    "fullText": "Anthropic's political pressure on distillation is regulatory capture and most of the employees are blind to it under their veil of safety.",
+    "createdAt": "Sat Jun 27 15:28:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 401292,
+      "friendsCount": 858,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2070891836583956907",
+    "fullText": "https://t.co/SUD9CCJFEa",
+    "createdAt": "Sat Jun 27 15:27:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485507,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HL1GLjJW4AAVYQn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2070888691539534159",
+    "fullText": "“Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems”\n\n(New revised and updated 2nd Edition. Best Seller on Amazon. 670 pages)\n\nGet it here: https://t.co/ncRnzYRMGk https://t.co/NLFrhbpvZ1",
+    "createdAt": "Sat Jun 27 15:15:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rsalakhu",
+      "name": "Russ Salakhutdinov",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006067605652623360/cghMLL82_normal.jpg",
+      "description": "CSO @ Sooth Labs, Professor @ CMU,  President Elect ICML Board, Ex-VP of Research @ Meta (Multimodal LLMs, AI Agents), ex-Director of AI at @Apple.",
+      "followersCount": 112246,
+      "friendsCount": 182,
+      "location": "Pittsburgh, PA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rsalakhu/status/2070888315725717551",
+    "fullText": "Congratulations to @GoogleDeepMind Computer Use Agents (CUA) team for taking the #1 spot on Odysseys with a vision-only (GUI-based) agent using by Gemini 3.5 Flash. Impressive result given the difficulty of Odysseys and the fact that it is a Flash model.\n\nhttps://t.co/rj5BHK5g6C\n\nOdysseys evaluates realistic, multi-hour web workflows that require sustained planning, memory, reasoning, and verification across numerous websites and tools, beyond short single-step browser tasks.\n\nExciting to see progress toward truly capable long-horizon web agents.",
+    "createdAt": "Sat Jun 27 15:13:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 401292,
+      "friendsCount": 858,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2070885532809265192",
+    "fullText": "The GI Bill sent eight million veterans to school and returned about seven dollars to the country for every one it spent. Educating people was and will always be the highest-return bet a society could make.",
+    "createdAt": "Sat Jun 27 15:02:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 308928,
+      "friendsCount": 880,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2070884837372703196",
+    "fullText": "https://t.co/WcOE3w6Eiw",
+    "createdAt": "Sat Jun 27 14:59:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 91117,
       "friendsCount": 919,
       "location": "Seattle"
     },
@@ -23,8 +230,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291475,
-      "friendsCount": 8277,
+      "followersCount": 291486,
+      "friendsCount": 8278,
       "location": "United States"
     },
     "images": [
@@ -41,7 +248,7 @@
       "name": "Hailuo AI-MiniMax Hub",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
       "description": "Discord: https://t.co/ckCTEs189Q\nCreator Partnership Program(CPP): https://t.co/KLDCVOlRYA",
-      "followersCount": 74024,
+      "followersCount": 74022,
       "friendsCount": 575,
       "location": "San Francisco"
     },
@@ -59,7 +266,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3697206,
+      "followersCount": 3699383,
       "friendsCount": 795,
       "location": ""
     },
@@ -75,7 +282,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3697206,
+      "followersCount": 3699383,
       "friendsCount": 795,
       "location": ""
     },
@@ -93,8 +300,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291475,
-      "friendsCount": 8277,
+      "followersCount": 291486,
+      "friendsCount": 8278,
       "location": "United States"
     },
     "images": [],
@@ -109,8 +316,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291475,
-      "friendsCount": 8277,
+      "followersCount": 291486,
+      "friendsCount": 8278,
       "location": "United States"
     },
     "images": [],
@@ -125,7 +332,7 @@
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
-      "followersCount": 468243,
+      "followersCount": 468299,
       "friendsCount": 1157,
       "location": "United States"
     },
@@ -143,7 +350,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 507741,
+      "followersCount": 507756,
       "friendsCount": 3138,
       "location": ""
     },
@@ -161,8 +368,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291475,
-      "friendsCount": 8277,
+      "followersCount": 291486,
+      "friendsCount": 8278,
       "location": "United States"
     },
     "images": [
@@ -179,8 +386,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291475,
-      "friendsCount": 8277,
+      "followersCount": 291486,
+      "friendsCount": 8278,
       "location": "United States"
     },
     "images": [],
@@ -195,7 +402,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 401286,
+      "followersCount": 401292,
       "friendsCount": 858,
       "location": ""
     },
@@ -211,8 +418,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291475,
-      "friendsCount": 8277,
+      "followersCount": 291486,
+      "friendsCount": 8278,
       "location": "United States"
     },
     "images": [],
@@ -227,8 +434,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291475,
-      "friendsCount": 8277,
+      "followersCount": 291486,
+      "friendsCount": 8278,
       "location": "United States"
     },
     "images": [],
@@ -243,8 +450,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291475,
-      "friendsCount": 8277,
+      "followersCount": 291486,
+      "friendsCount": 8278,
       "location": "United States"
     },
     "images": [],
@@ -259,7 +466,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 146429,
+      "followersCount": 146437,
       "friendsCount": 3274,
       "location": "on ⛓"
     },
@@ -275,7 +482,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 452494,
+      "followersCount": 452499,
       "friendsCount": 567,
       "location": "🇺🇸 Collaborations →"
     },
@@ -291,7 +498,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 150249,
+      "followersCount": 150251,
       "friendsCount": 5366,
       "location": "Montréal · Québec"
     },
@@ -325,7 +532,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 157576,
+      "followersCount": 157582,
       "friendsCount": 1269,
       "location": ""
     },
