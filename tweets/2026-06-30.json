@@ -1,11 +1,153 @@
 [
   {
     "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70422,
+      "friendsCount": 35116,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMDaET-XcAAKIYL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2071895603014148271",
+    "fullText": "not a great look https://t.co/zvbR0Ye4tf",
+    "createdAt": "Tue Jun 30 09:56:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70422,
+      "friendsCount": 35116,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMDYDh4WMAAaO_v.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2071893389323485391",
+    "fullText": "bullish for @clovefi \n\nmore than $100tn will pass on generationally by mid-century in the US https://t.co/rnsyGUdHgw",
+    "createdAt": "Tue Jun 30 09:47:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SamanyouGarg",
+      "name": "Samanyou Garg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1558494019042541568/K6vD-17z_normal.jpg",
+      "description": "Helping brands dominate AI search (ChatGPT, Google AI Overviews) & SEO.\n\nFounder & CEO @Writesonic @bansi_ai (YC S21)",
+      "followersCount": 3698,
+      "friendsCount": 185,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SamanyouGarg/status/2071858831013957702",
+    "fullText": "not sure what's broken in your growth right now but I'd seriously try this:\n\n> strip everything except building, shipping, and talking to users for 2 weeks\n> in the gaps, do NOTHING - no scrolling, no podcasts, no \"research,\" just sit there\n> I mean it, nothing\n\nby day 5 most of the fog clears\n\nyou're probably just overstimulated",
+    "createdAt": "Tue Jun 30 07:30:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 327119,
+      "friendsCount": 191,
+      "location": "London"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMCv5A_WUAApWPp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2071849429506666968",
+    "fullText": "China's playboko is really simple.\n\nTake intelligence down to the cost of energy\n\nOutput more power than the USA\n\nThe giant training cluster focus was a massive distraction https://t.co/SY8zM9y2Rs",
+    "createdAt": "Tue Jun 30 06:52:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36136,
+      "friendsCount": 1744,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMCu7o1XkAA7hLm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2071848721659417057",
+    "fullText": "Claude Code 负责人 Boris Cherny 说了句挺扎心的话「我已经不写 prompt 了，我写的是不断 prompt Claude 的循环。」\n\n这句话现在被人做成了一个开源项目——loop-engineering，21天攒了4163 star。\n\n独立开发者 Cobus Greyling 把这套方法论系统化了。一句话说清楚它干的事：把\"你手动一条条 prompt agent\"这个动作，换成\"你设计一套循环系统，让系统自己反复 prompt agent，直到目标达成或主动交还给你\"。\n\n被替代的不是某个岗位，是\"人工逐条催办 agent 干活\"这个动作本身——issue triage、PR 盯防、依赖更新、CI 失败排查，这些原本要人盯着的运维琐事，被打包成 7 个可直接抄的 pattern。\n\n划重点：这不是又一个 agent 框架 demo，是少有的把\"loop 靠不靠谱\"量化打分的工具链\n～loop-audit 给项目打 Loop Readiness Score\n～loop-cost 提前算清楚一次循环要烧多少 token\n～loop-sync 检测状态文件漂移\n\n同类项目大多停留在\"看我能自动化什么\"，这个多做了一步\"怎么证明这套自动化没在裸奔\"（基于公开信息推测，无具体同类项目数据支撑）。\n\n技术上三个真材实料的点：\n1、loop engineering 本体：把\"目标-迭代-验证-外部状态-人工兜底\"做成可组合积木（Worktrees隔离执行、Sub-agents做maker/checker对抗校验、Memory/State做跨会话持久脊柱）\n2、harness vs loop 工程拆分：文档专门区分\"执行框架\"和\"循环本身\"，这是大部分agent项目没讲清楚的地方\ntoken效率：loop-cost 把每个pattern标了token成本等级（低/中/高/极高），配合 L1报告制→L2辅助修复→L3无人值守 分级上线，本质是用\"分级放权\"换token可控，说实话这个分级思路挺务实的。\n\n3、商业化上，开源是引流层，真正能收钱的在审计和托管两块：\n～把\"Loop Readiness Score\"包装成企业认证服务，对标DORA指标卖给研发管理层\n～loop-mcp-server托管化，多团队接入按调用量收费——不是\"开源项目本身能卖钱\"，是\"开源建立的标准和评分体系\"能卖钱\n\n落地也简单：不用GPU，Node环境就行，一行命令起步： npx @cobusgreyling/loop-init . --pattern daily-triage --tool grok，先用loop-cost估算token开销再开闸，别等账单出来再后悔。\n\n以前我们卷怎么写好一条 prompt，现在的卷法是：怎么设计一个会自己写 prompt 的系统。\n\n#LoopEngineering #ClaudeCode #AIAgent #开源项目 #TokenCost",
+    "createdAt": "Tue Jun 30 06:50:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485925,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMCtcPQWwAAgl--.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071846531922075947",
+    "fullText": "A brief history of AI prior to the ChatGPT and Generative AI revolution https://t.co/McmdWqpXuq",
+    "createdAt": "Tue Jun 30 06:41:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485925,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMCs3c8WgAAEtUF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071845899806953784",
+    "fullText": "Machine Learning loss functions https://t.co/V2fq1N9mCt",
+    "createdAt": "Tue Jun 30 06:38:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485925,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMCshcbXYAA0jv-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071845522000744674",
+    "fullText": "36 shades of BI (Business Intelligence) https://t.co/oxpxcJxLkH",
+    "createdAt": "Tue Jun 30 06:37:20 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 157771,
+      "followersCount": 157817,
       "friendsCount": 1269,
       "location": ""
     },
@@ -21,7 +163,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485911,
+      "followersCount": 485925,
       "friendsCount": 3365,
       "location": "Maryland, USA"
     },
@@ -39,7 +181,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 915408,
+      "followersCount": 915805,
       "friendsCount": 5871,
       "location": "San Francisco, CA"
     },
@@ -57,7 +199,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240629861,
+      "followersCount": 240639077,
       "friendsCount": 1366,
       "location": ""
     },
@@ -75,7 +217,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 508158,
+      "followersCount": 508188,
       "friendsCount": 3137,
       "location": ""
     },
@@ -93,7 +235,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240629861,
+      "followersCount": 240639077,
       "friendsCount": 1366,
       "location": ""
     },
@@ -111,7 +253,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 133945,
+      "followersCount": 133953,
       "friendsCount": 539,
       "location": ""
     },
@@ -132,7 +274,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485911,
+      "followersCount": 485925,
       "friendsCount": 3365,
       "location": "Maryland, USA"
     },
@@ -150,7 +292,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485911,
+      "followersCount": 485925,
       "friendsCount": 3365,
       "location": "Maryland, USA"
     },
@@ -168,7 +310,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485911,
+      "followersCount": 485925,
       "friendsCount": 3365,
       "location": "Maryland, USA"
     },
@@ -186,7 +328,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485911,
+      "followersCount": 485925,
       "friendsCount": 3365,
       "location": "Maryland, USA"
     },
@@ -204,7 +346,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 485911,
+      "followersCount": 485925,
       "friendsCount": 3365,
       "location": "Maryland, USA"
     },
@@ -222,7 +364,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 228779,
+      "followersCount": 228818,
       "friendsCount": 1676,
       "location": "Chicago, IL"
     },
@@ -240,7 +382,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 157771,
+      "followersCount": 157817,
       "friendsCount": 1269,
       "location": ""
     },
@@ -258,8 +400,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291379,
-      "friendsCount": 8287,
+      "followersCount": 291406,
+      "friendsCount": 8288,
       "location": "United States"
     },
     "images": [
@@ -276,8 +418,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291379,
-      "friendsCount": 8287,
+      "followersCount": 291406,
+      "friendsCount": 8288,
       "location": "United States"
     },
     "images": [],
@@ -292,7 +434,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 309248,
+      "followersCount": 309268,
       "friendsCount": 884,
       "location": "DAIR.AI Academy"
     },
