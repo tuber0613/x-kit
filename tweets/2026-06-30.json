@@ -1,6 +1,639 @@
 [
   {
     "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HME_ZYMXAAA0AKS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2072007338643321255",
+    "fullText": "10 Programming Jokes That Only Coders Will Get (Explained): https://t.co/eBe06KF4p9\n🤣\nI got 9.5 of them! That is, I got 9 of them right away, and I got the UDP joke as soon as I was reminded what UDP stands for. \n😂\nHow many did you get right away? https://t.co/x1gmg9z9IJ",
+    "createdAt": "Tue Jun 30 17:20:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4972329,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2072004836674167294",
+    "fullText": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on.\nhttps://t.co/AsilnnSxnE",
+    "createdAt": "Tue Jun 30 17:10:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DrJimFan",
+      "name": "Jim Fan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+      "description": "NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
+      "followersCount": 475901,
+      "friendsCount": 3135,
+      "location": "Views my own. Contact →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072001551988920320/vid/avc1/1920x1080/HGwCmr_X0Ka-WLlG.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/DrJimFan/status/2072004190856212902",
+    "fullText": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over control programs, and distill the best know-how into an ever-expanding library. \n\nASPIRE is a new type of continual learning: \"training\" is skill refinement instead of gradient descent. \n\"Trained model\" is a repo of sensorimotor skills instead of floating weights. \n“Distributed training” is a panel of agents each practicing a different skill instead of sharded minibatches.\n\nHere's the beauty: ASPIRE gives the tired terms \"sim2real transfer\" and \"cross-embodiment transfer\" a whole new meaning. Bridging the sim-to-real gap is notoriously brutal. An end-to-end policy has to swallow both the visual shift (sim looks toyish next to a real camera) and the subtle contact physics it never quite gets right. ASPIRE sidesteps the mess, because it doesn't ship pixels or weights across the gap, but ships the know-how. The robot still has to practice in the real world, not zero-shot, but it gets there way faster because it isn't rediscovering the strategy from scratch. Same for going single-arm to bimanual hardware, which usually requires new data and retraining from zero. ASPIRE achieves up to ~10x cut in \"transfer learning” tokens (yes, tokens are the new unit of *training* compute ;)\n\nCheck out our gallery of 150+ tasks and 90+ skills the robots taught themselves, all on the website! Kind of wild that we can ship the \"learned weights\" as an HTML page rather than a GGUF. We'll open-source the full stack so your own robot library starts compounding from ours! \n\nDeep dive in thread:",
+    "createdAt": "Tue Jun 30 17:07:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 402451,
+      "friendsCount": 859,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2072002888058957864",
+    "fullText": "Stop trying to know more than the machine. You'll lose Every. Single. Time.. Get better at deciding what's worth knowing in the first place.",
+    "createdAt": "Tue Jun 30 17:02:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 210241,
+      "friendsCount": 592,
+      "location": "Venice, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2072002420897685909",
+    "fullText": "starfall\n\nyour autonomous drones\nanywhere on earth\n60 minutes or less\n(or your next delivery is free)\n\n*precision parachute and ground impact mitigation development still required",
+    "createdAt": "Tue Jun 30 17:00:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 255818,
+      "friendsCount": 163,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2071998305207255040/vid/avc1/1920x1080/auQADcnMa-syQue1.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2072001573408968736",
+    "fullText": "Building voice agents can come with tradeoffs.\n\n💬 Better convos w/ speech to speech models\nVs\n🥪 More reliable harnesses w/ sandwich architecture\n\nHow to build a voice research agent with both:\n✅ Gemini Live: low-latency, natural-sounding convos\n✅ Deep Agents: long-running research tasks\n✅ LangSmith: full tracing & observability",
+    "createdAt": "Tue Jun 30 16:57:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 315130,
+      "friendsCount": 878,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072001334304292864/vid/avc1/1280x720/kSRS8yyLTu9-NLQX.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2072001364666847719",
+    "fullText": "What if your model handled its own tuning? ⚙️\n\nWith NVIDIA TAO 7, just prompt your coding agent what you want in plain language and let it do the rest.\n\n• Agent skills plug into your coding agent and improve accuracy.\n• AutoML removes the guesswork from hyperparameters. LLM-guided tuning finds strong configs up to 2x faster.\n• Fine-tune any @huggingface CV or VLM model on local NVIDIA GPUs.\n• Data enhanced fine-tuning helps your agent identify why the model fails, then fix it.\n\nTry TAO skills ➡️ https://t.co/c0djOkrQ3p",
+    "createdAt": "Tue Jun 30 16:56:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HME1EIHW8AAyaDT.jpg",
+      "https://pbs.twimg.com/media/HME1XCHX0AAdZIR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071996279849468284",
+    "fullText": "Signal Processing is a surprisingly powerful domain at the intersection of real world applications (interesting data) and theory (interesting math). \n\nLinear Algebra for Data Science, Machine Learning, and Signal Processing: https://t.co/1GjPW8u8ov\n\nSignal Processing — A Mathematical Approach: https://t.co/EQpdqaPHX1",
+    "createdAt": "Tue Jun 30 16:36:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 366745,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2071995642436800916",
+    "fullText": "⚙️ We debugged a year’s worth of crashes in our data infrastructure and found one issue in the hardware and another that has been unnoticed in open-source code for 18 years.\n\nHere’s how we tracked them down:\nhttps://t.co/5c13Knw69o",
+    "createdAt": "Tue Jun 30 16:33:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 508269,
+      "friendsCount": 3136,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2071994601309663232/vid/avc1/1920x1080/5dHk9GXZo9G5gmbf.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2071994664673071196",
+    "fullText": "OSWorld2.0\n\nBenchmarking Computer Use Agents on Long-Horizon Real-World Tasks https://t.co/VaQESvOpms",
+    "createdAt": "Tue Jun 30 16:29:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70433,
+      "friendsCount": 35118,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEz4t3XgAAhLWh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2071994362523767238",
+    "fullText": "gpu scarcity is an engineering problem\n\nat @raais this month, @elevenlabs' @angelos_peri showed how to serve 70x more users on the same gpus by using batching, fp8, speculative decoding, kv-cache compression.\n\nnew on @airstreetpress and on our raais youtube channel https://t.co/qIXJP5iDPq",
+    "createdAt": "Tue Jun 30 16:28:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240643560,
+      "friendsCount": 1366,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEznjqWwAAuzde.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2071994061624426582",
+    "fullText": "https://t.co/VgpWIg2BFI",
+    "createdAt": "Tue Jun 30 16:27:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 508269,
+      "friendsCount": 3136,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEy--GW8AAxt9J.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2071993470927950087",
+    "fullText": "Ornith-1.0-35B is now available in claude code through hf-claude https://t.co/U8Tg0agOV2",
+    "createdAt": "Tue Jun 30 16:25:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEwVXcWkAEjQUc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071991479669846329",
+    "fullText": "💥574 information-packed pages from @PacktDataML at https://t.co/lj0EclAMmp 🚀\n\n\"Agentic Architectural Patterns for Building Multi-Agent Systems — Proven design patterns and practices for GenAI, agents, RAG, LLMOps, and enterprise-scale AI systems\"\n\n𝓟𝓻𝓪𝓬𝓽𝓲𝓬𝓪𝓵 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰:\n🟢Apply design patterns to handle instruction drift, improve coordination, and build fault-tolerant AI systems\n🟢Design systems with the three layers of the agentic stack: function calling, tool protocols (MCP), and A2A collaboration\n🟢Develop responsible, ethical, and governable GenAI applications\n🟢Use frameworks such as ADK, LangGraph, and CrewAI with code examples\n🟢Master prompt engineering, LLMOps, and AgentOps best practices\n🟢Build agentic systems using RAG, fine-tuning, and in-context learning\n\n𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨:\n🔷GenAI in the Enterprise: Landscape, Maturity, Agent Focus\n🔷Agent-Ready LLMs: Selection, Deployment, Adaptation\n🔷The Spectrum of LLM Adaptation for Agents: RAG to Fine-tuning\n🔷Agentic AI Architecture: Components & Interactions\n🔷Multi-Agent Coordination Patterns\n🔷Explainability & Compliance Agentic Patterns\n🔷Robustness & Fault Tolerance Patterns\n🔷Human-Agent Interaction Patterns\n🔷Agent-Level Patterns",
+    "createdAt": "Tue Jun 30 16:17:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEv183XMAAvzUr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071989912698515901",
+    "fullText": "Probability and Statistics Essentials for Data Science and Machine Learning, with 200+ examples and pictures: https://t.co/Q4OXxax0yI https://t.co/VpPY59EKMo",
+    "createdAt": "Tue Jun 30 16:11:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEviT4XYAELyqt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071989575547838664",
+    "fullText": "This very practical math book is for anyone who wants to develop their powers to think mathematically, especially anyone who has always wondered what lies at the core of mathematics.\n\n\"Thinking Mathematically\" at https://t.co/wU5qiYiu1i https://t.co/a9Fawv2WrP",
+    "createdAt": "Tue Jun 30 16:09:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEvXpqWwAAydPl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071989394181927225",
+    "fullText": "Pandas for Everyone — #Python Data Analysis (Addison-Wesley Data &amp; Analytics Series - 2nd Edition): https://t.co/MyeyGhur4G https://t.co/sYlnTQsGnb",
+    "createdAt": "Tue Jun 30 16:09:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 115324,
+      "friendsCount": 50,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2071985877685796865/vid/avc1/2096x1182/DcVsz6zAJFInxoTN.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/googleaidevs/status/2071988366925521075",
+    "fullText": "We’re launching Nano Banana 2 Lite, our fastest most cost-efficient Gemini Image model yet, optimized for high-throughput developer pipelines. Alongside it, Gemini Omni Flash, our video generation and editing model is now available to developers.\n\nBoth models are accessible today via @GoogleAIStudio and the Gemini API to help you scale your workflows 👇",
+    "createdAt": "Tue Jun 30 16:04:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEuDCWXEAAmKYL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071988229327192157",
+    "fullText": "Time Series Analysis: https://t.co/u7peAcOyXG\n(820 pages)\n\n\"...recommended as a very valuable encyclopedia and textbook...\" https://t.co/Oy50cckMxS",
+    "createdAt": "Tue Jun 30 16:04:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 291450,
+      "friendsCount": 8288,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEuSrEagAEyEw0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2071988206665703541",
+    "fullText": "This game would go so hard! https://t.co/jTehTB9cTW",
+    "createdAt": "Tue Jun 30 16:04:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AndrewYNg",
+      "name": "Andrew Ng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+      "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+      "followersCount": 1655829,
+      "friendsCount": 1084,
+      "location": "Palo Alto, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEtxp3bsAARJdi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AndrewYNg/status/2071988145667928442",
+    "fullText": "“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I’d like to share my 3 key loops, shown in the image below, for building 0-to-1 products. These loops guide not just how I build software, but also how I decide what software to build.\n\nAgentic coding loop: Given a product specification and optionally a set of evals (that is, a dataset against which to measure performance), we can have an AI agent write code, test its work, and keep iterating until the code is bug-free and meets its specification. This idea of closing the loop took off around the end of last year, and it has been a game changer in enabling coding agents to work longer productively without human intervention. For example, over the weekend, I was building an app for my daughter to practice typing, and my coding agent could easily work for around an hour, using a web browser to check what it had built multiple times before getting back to me, without needing my intervention.\n\nThe engineering loop executes quickly. Every few minutes, the coding agent might build and test a new version of the software. I hear frequently from developers who are finding new ways to engineer more effective engineering loops. This is an active area of invention!\n\nDeveloper feedback loop: In this loop, a developer examines the current product and steers the coding agent to improve it. Last year, a lot of developers (including me) were acting as the QA (quality assurance) function for our coding agents, manually finding bugs and then asking the agent to fix them. But with coding agents much more able to test their own code, the amount of time we need to spend on this function has decreased significantly. This allows us to make higher-level product decisions, such as what key features to offer, where the UI needs improvement, and so on.\n\nThe developer-feedback loop operates over time intervals between tens of minutes and hours — that's how frequently a developer might review a product and give feedback. In the case of the typing app, I changed my mind a few times about the visual design, what cat costumes she can unlock as she learns (she loves cats), and the user flow for a grown-up to log in and steer the child's learning experience.\n\nWhen a developer has a clear vision for what to build, it is still a lot of work to translate that vision into a specification for a coding agent to implement. Further, after the developer has seen an implementation, they might update (or perhaps clarify) the spec to steer it toward what they want. If you find that the system repeatedly runs into certain problems, building a set of evals for the agent becomes useful.\n\nAI-native teams are increasingly using AI to help shape product direction, for example, automating the gathering and analysis of usage data, summarizing written and verbal customer feedback, or carrying out competitive analysis. However, for pretty much all the products I’m involved in, I see humans as having a significant context advantage over current AI systems — we know a lot more than the AI system about the users and the context the product has to operate in — and thus humans play a critical role. Many people describe this human contribution as “taste,” but I prefer to think of it as humans having a context advantage, since that gives us a clearer path to helping AI systems get better. This also speaks to why this step can’t be automated: So long as the human knows something the AI does not, human-in-the-loop is needed to to inject that knowledge into the system.\n\nExternal feedback loop: This includes a wide range of tactics like asking a few friends for feedback, launching to alpha testers, or putting the code into production with A/B testing. These tactics are usually slow, rarely taking less than hours and sometimes taking days or even weeks. This data informs the developer vision, which in turn continues to drive the detailed product spec, which in turn drives the coding agent.\n\nWith coding agents speeding up software development, more engineers are starting to play a partial product management role. For many engineers who are growing into this role, the hardest part is shaping the product vision and striking a balance between building (bridging the gap between vision and spec) and getting user feedback to evolve the vision. It is important to do both!\n\nI will write more about how to do this in future posts, but for now, I find it encouraging that engineers are playing an expanded role (just as product managers and designers now do more engineering).\n\n[Original text: The Batch]",
+    "createdAt": "Tue Jun 30 16:04:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
+      "followersCount": 1465505,
+      "friendsCount": 278,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2071986416179896321/vid/avc1/1182x1182/Aq7u45Zzx7JxmXg4.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/2071988044878516466",
+    "fullText": "We’re shipping 2 major releases: \n🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model\n🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
+    "createdAt": "Tue Jun 30 16:03:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEt50JWwAAEbC8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071987788199649285",
+    "fullText": "\"MCMC from Scratch - A Practical Introduction to Markov Chain Monte Carlo\" - available at https://t.co/31nc8REjO7\n\nFrom the Back Cover:\n\n\"This textbook explains the fundamentals of Markov Chain Monte Carlo (MCMC) without assuming advanced knowledge of mathematics and programming. MCMC is a powerful technique that can be used to integrate complicated functions or to handle complicated probability distributions. MCMC is frequently used in diverse fields where statistical methods are important – e.g. Bayesian statistics, quantum physics, machine learning, computer science, computational biology, and mathematical economics. This book aims to equip readers with a sound understanding of MCMC and enable them to write simulation codes by themselves.\"\n\n\"The content consists of six chapters. Following Chapter 2, which introduces readers to the Monte Carlo algorithm and highlights the advantages of MCMC, Chapter 3 presents the general aspects of MCMC. Chapter 4 illustrates the essence of MCMC through the simple example of the Metropolis algorithm. In turn, Chapter 5 explains the HMC algorithm, Gibbs sampling algorithm and Metropolis-Hastings algorithm, discussing their pros, cons and pitfalls. Lastly, Chapter 6 presents several applications of MCMC. Including a wealth of examples and exercises with solutions, as well as sample codes and further math topics in the Appendix, this book offers a valuable asset for students and beginners in various fields.\"",
+    "createdAt": "Tue Jun 30 16:02:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 255818,
+      "friendsCount": 163,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEtvcYXEAApYAP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2071987601494396963",
+    "fullText": "At @aiDotEngineer World's Fair?\n\nWe're hosting a World Cup Watch Party at The Harlequin today from 11-7 with @baseten and @reductoai\n\nOne block from the venue! https://t.co/eEYNdYtRMr",
+    "createdAt": "Tue Jun 30 16:01:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 255818,
+      "friendsCount": 163,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2071987434179432778",
+    "fullText": "Giving agents the ability to write code makes them dramatically more capable.\n\nIt also makes security a lot harder.\n\nAt LangChain, we have spent a lot of time this year figuring out how to do both. https://t.co/iprTC7KCAe",
+    "createdAt": "Tue Jun 30 16:01:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 424229,
+      "friendsCount": 4881,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMETX9LW4AAauoD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2071987200481202217",
+    "fullText": "Super excited about open-source router systems and routing models like @vllm_project semantic router: https://t.co/Gwza9jPWzr\n\nThe future is multi-models and you'll want to customize your router the same way you customize your code!\n\nIt could be the key to tilt the value capture from a few expensive frontier models to a long-tail of models (especially open-source). \n\nMore people should build those!",
+    "createdAt": "Tue Jun 30 16:00:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEtIAzXkAAMG57.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071987149272908276",
+    "fullText": "Explorations in Monte Carlo Methods (Undergraduate Texts in Mathematics): https://t.co/w6epFC6ywB\n\nFrom the Back Cover:\n\n\"Monte Carlo methods are among the most used and useful computational tools available today, providing efficient and practical algorithims to solve a wide range of scientific and engineering problems. Applications covered in this book include optimization, finance, statistical mechanics, birth and death processes, and gambling systems.\"\n\n\"Explorations in Monte Carlo Methods provides a hands-on approach to learning this subject. Each new idea is carefully motivated by a realistic problem, thus leading from questions to theory via examples and numerical simulations. Programming exercises are integrated throughout the text as the primary vehicle for learning the material. Each chapter ends with a large collection of problems illustrating and directing the material.\"\n\n\"This book is suitable as a textbook for students of engineering and the sciences, as well as mathematics. The problem-oriented approach makes it ideal for an applied course in basic probability and for a more specialized course in Monte Carlo methods. Topics include probability distributions, counting combinatorial objects, simulated annealing, genetic algorithms, option pricing, gamblers ruin, statistical mechanics, sampling, and random number generation.\"",
+    "createdAt": "Tue Jun 30 16:00:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MicrosoftAI",
+      "name": "Microsoft AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
+      "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
+      "followersCount": 16853,
+      "friendsCount": 19,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2071721436524294144/vid/avc1/1280x720/37ZKwrK9RNLU7bZB.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/MicrosoftAI/status/2071987125088600107",
+    "fullText": "AI is ultimately about people.\n\nUnderstanding every voice, building with empathy, and taking a responsible approach aren't side goals. They're part of the work itself.\n\nMeet some of the people behind MAI.\n\nWatch the full video here: https://t.co/B989RCkGXs https://t.co/ri9uJw0tj7",
+    "createdAt": "Tue Jun 30 16:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEsYZvWcAEWrS5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071986105906258119",
+    "fullText": "TRANSFER LEARNING book [390 pages]: https://t.co/L6SrJ4PXuY\n\nAmazon Summary:\n\"Transfer learning deals with how systems can quickly adapt themselves to new situations, tasks and environments. It gives machine learning systems the ability to leverage auxiliary data and models to help solve target problems when there is only a small amount of data available. This makes such systems more reliable and robust, keeping the machine learning model faced with unforeseeable changes from deviating too much from expected performance. At an enterprise level, transfer learning allows knowledge to be reused so experience gained once can be repeatedly applied to the real world.\"",
+    "createdAt": "Tue Jun 30 15:55:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 1161878,
+      "friendsCount": 2050,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2071985808991789204",
+    "fullText": "Today marks one year at 𝕏.\n\nI’m proud to report three all-time highs:\n\n• User engagement\n• My cortisol levels\n• My biological age",
+    "createdAt": "Tue Jun 30 15:54:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 485942,
+      "friendsCount": 3365,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMErmNTWcAA4fpR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2071985245025386933",
+    "fullText": "Graph Algorithms for Data Science: https://t.co/aVE3jy1l5c \n\nI have said this for years: \"All the world is a graph!\" The natural data structure of the world is a graph, not rows and columns:\n\nConnected things (IoT)\nContext engineering\nGraph analytics\nGraph databases\nKnowledge graphs\nLinked data\nNetwork science\nPageRank search algorithm\nSemantic metadata\nSix degrees of separation\netc.",
+    "createdAt": "Tue Jun 30 15:52:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240643560,
+      "friendsCount": 1366,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEq-2PWAAA186p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2071984597311557807",
+    "fullText": "I will take that as a compliment https://t.co/kTZqkuPqMf",
+    "createdAt": "Tue Jun 30 15:49:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3770298,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEqkvtWwAEqId_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2071984170755117220",
+    "fullText": "Behold the amazing Heuer Calculator of 1975. The bezel is a slide rule! And it's in the process of doing an infinite number of calculations simultaneously: everything times 23. 17 times 23, for example, as you can see is 391. https://t.co/GXXzjQ07v4",
+    "createdAt": "Tue Jun 30 15:48:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
+      "description": "Co-founder at @HuggingFace - moonshots - angel",
+      "followersCount": 118372,
+      "friendsCount": 7421,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMEo7lmWwAAVnjG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/2071982536402882770",
+    "fullText": "lowkey one of my favorite new features on HF: filter AI models by what actually runs on your hardware https://t.co/HT9sg487zJ",
+    "createdAt": "Tue Jun 30 15:41:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Founder: @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 429262,
+      "friendsCount": 649,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2071981527081382328",
+    "fullText": "Looking for an early hire in SF for helping with model optimization: spec decoding, GPU kernels, pooling infra, and wants to go deep on vLLM/sglang. Hunger/interest over experience in this case. If you know anyone, DMs open. They’d work directly with me.",
+    "createdAt": "Tue Jun 30 15:37:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 402451,
+      "friendsCount": 859,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2071981224764309656",
+    "fullText": "Hyperscalers are on pace to spend $650 billion on AI infrastructure in 2026 — and analysts forecast $1.1 trillion in 2027. The entire US defense budget is $886 billion. In two years, private companies will spend more building AI compute than America spends defending the country.",
+    "createdAt": "Tue Jun 30 15:36:34 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
