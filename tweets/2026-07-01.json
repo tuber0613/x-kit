@@ -1,11 +1,150 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3784504,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2072235684266471503",
+    "fullText": "Y Combinator makes something people who make something people want want.",
+    "createdAt": "Wed Jul 01 08:27:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36131,
+      "friendsCount": 1745,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2072223643589820795",
+    "fullText": "从周末到现在，身边很多人的anthropic的账号被封，都来问咋回事，原因主要集中在以下几个方面：\n1、干净的IP，机房IP尤其是被标记和国内云服务厂商相关的都会被监测\n2、定位是否在非服务区，尤其是杭州\n3、公司邮箱的服务器是中国区的邮箱服务也不行（有一个阶段可以）\n4、账号被封之后，尽量要卸载软件然后重新装一下，不要试图继承之前的聊天记录，里面有污染数据\n5、新注册的账号最好先正常用几天，然后再充值不然容易被错杀。\n6、时区也很重要，昨天reddit有人说了跟这个事情相关的问题，细节可以自己去看：https://t.co/LuG1WzwyeW\n\n#claude #anthropic",
+    "createdAt": "Wed Jul 01 07:39:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36131,
+      "friendsCount": 1745,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMIBwiPaYAAq1YM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2072220731782644018",
+    "fullText": "让AI逐帧看视频要烧4500万token，让它\"读\"视频只要12KB——有人把后者做成了能剪片子的开源工具video-use，3个月攒了12835星。\n\n它干的事一句话说清：把原始素材丢进文件夹，跟 Claude Code 聊两句，拿回剪好的 final.mp4。被替代的不是剪辑师的审美，是剪辑师\"逐帧拖时间轴、手动切掉 umm/uh/废话、对齐字幕\"这些机械操作——填充词、镜头间死区自动切除，每个切点30ms音频淡入淡出防爆音，字幕默认2词大写分块。\n\n它凭什么不烧爆 token？\n\n核心设计是\"LLM 从不看视频，它读视频\"。一次 ElevenLabs Scribe 调用拿到词级时间戳+说话人分离+音频事件（笑声/掌声/叹气），所有素材打包成一个约12KB 的 takes_packed.md 当主视图；只有在切点有歧义时才按需生成 timeline_view——胶片+波形+词标签的PNG。作者自己算的账：粗暴方案是 30000帧×1500token=4500万 token 的噪声，video-use 是12KB文本+几张PNG。这跟 browser-use 当年给 LLM 喂结构化DOM而不是截图，是同一套方法论，只是从网页搬到了视频。\n\n翻了下 pipeline，最狠的是自评环节。\n\n它在 loop engineering 上的亮点：整条流水线是 Transcribe→Pack→LLM推理→EDL→Render→Self-Eval 的闭环，自评阶段会对渲染后的成品在每个切点重新跑 timeline_view，检查视觉跳变、音频爆音、字幕被遮挡，有问题就自动修+重渲染（最多3次），通过了才给你看预览。加上动画叠加层用并行 sub-agents 生成（一个动画一个 agent），context/loop/harness 三层工程都能找到实证。\n\n商业化路径其实写在 README 里——它是 browser-use 的获客漏斗：开源免费本地跑，但\"always-on 剪辑\"\"从 Telegram/VPS 常驻\"要走 Browser Use Cloud 和 Browser Use Box 的付费云服务。这是典型的开源引流+云托管变现，卖的不是剪辑功能，是\"不想自己维护环境、要随时随地调用\"的便利性。想抄这个模式的注意：核心能力开源做口碑，把\"托管+常驻+规模化\"做成付费墙。\n\n自部署要点：不用GPU但依赖ffmpeg和一个ElevenLabs API key（转录用），uv sync装依赖，symlink进agent的skills目录就能用，README里有一段setup prompt直接粘给Claude Code让它自己装。\n\n会读的AI，比会看的AI便宜3000倍——video-use把这句话做成了能剪片子的产品。\n\n#VideoUse #BrowserUse #TokenEfficiency #AIAgent #开源项目",
+    "createdAt": "Wed Jul 01 07:28:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240653824,
+      "friendsCount": 1366,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMH7t8_aAAAGrNY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2072214077372518657",
+    "fullText": "Walking the Optimus production line in Fremont https://t.co/ABS0tuRibW",
+    "createdAt": "Wed Jul 01 07:01:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3784504,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMH5S1kWcAA1nOj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2072211592326926731",
+    "fullText": "My watch has π on its face. https://t.co/1VPqyovfXY",
+    "createdAt": "Wed Jul 01 06:51:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+      "followersCount": 1163111,
+      "friendsCount": 2050,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2072203879479910490",
+    "fullText": "In a 3% experiment, removing the Top-30 highest paid revenue share accounts from the For You timeline increased both time spent and daily active users on X.",
+    "createdAt": "Wed Jul 01 06:21:19 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "togethercompute",
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 57489,
+      "followersCount": 57499,
+      "friendsCount": 375,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMHqnF-aAAA12jk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2072196844801921484",
+    "fullText": "Nemotron 3 Ultra is taking off on Together AI 🚀\n\nIn just days, it's climbed to 35B tokens/day on @OpenRouter.\n\nThat's the community voting with their tokens for open models that are fast, efficient, and fully customizable.\n\nA top open model from @NVIDIA, fully customizable and available on Together AI.",
+    "createdAt": "Wed Jul 01 05:53:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 57499,
+      "friendsCount": 375,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMHXlOCaIAAyesH.jpg",
+      "https://pbs.twimg.com/media/HMHXlOEboAAQf5R.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2072193028216029415",
+    "fullText": "Multi-GPU kernels are the real test for coding models.  Today at @aiDotEngineer,  @simran_s_arora  shared ParallelKernelBench, an open-source benchmark for evaluating whether LLMs can write fast CUDA kernels for real communication-heavy workloads.  \n\nProud to see this work from the Together AI Frontier Performance team.",
+    "createdAt": "Wed Jul 01 05:38:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 57499,
       "friendsCount": 375,
       "location": "San Francisco, CA"
     },
@@ -21,7 +160,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291469,
+      "followersCount": 291512,
       "friendsCount": 8290,
       "location": "United States"
     },
@@ -37,7 +176,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 1473654,
+      "followersCount": 1479332,
       "friendsCount": 2,
       "location": ""
     },
@@ -53,7 +192,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 472433,
+      "followersCount": 472450,
       "friendsCount": 1518,
       "location": "Austin, TX"
     },
@@ -69,7 +208,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 472433,
+      "followersCount": 472450,
       "friendsCount": 1518,
       "location": "Austin, TX"
     },
@@ -87,7 +226,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 701990,
+      "followersCount": 702030,
       "friendsCount": 826,
       "location": "United States"
     },
@@ -103,7 +242,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 157888,
+      "followersCount": 157914,
       "friendsCount": 1270,
       "location": ""
     },
@@ -124,7 +263,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 4976,
+      "followersCount": 4979,
       "friendsCount": 1646,
       "location": "Join over 105,000 readers at"
     },
@@ -142,7 +281,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291469,
+      "followersCount": 291512,
       "friendsCount": 8290,
       "location": "United States"
     },
