@@ -1,11 +1,235 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452478,
+      "friendsCount": 568,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072335169214898176/vid/avc1/850x720/4PKYShcpijAplNCg.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2072335227142427117",
+    "fullText": "AG-UI makes building agentic applications dramatically easier.\n\nHere's how it works.\n\nThis is a model for a simple chatbot:\n\nUser → LLM → Response\n\nBut interactive agents that render UI, pause for approvals, and ask users for input need a much more complex model.\n\nWhen building these agents, a response from the LLM will include a series of state changes as the agent runs:\n\n• Agent started a task\n• Agent called a tool\n• Agent updated its state\n• Agent streams these tokens\n• Agent is waiting on a human\n• Agent is resuming the task\n\nThe Agent-User Interaction Protocol (AG-UI) treats the LLM response as a stream of events rather than a text endpoint.\n\nIn practice, here is what you get as an agent runs:\n\n1. Lifecycle events so your UI knows where the agent is.\n2. Text messages that stream tokens.\n3. Tool calls so your UI can prefill a form with any required arguments.\n4. State updates that keep your UI in sync with the agent.\n5. Special events for human approvals, rich media, and custom needs.\n\nAll of these events travel over standard transports (SSE, WebSockets, or plain HTTP) as JSON.\n\nAs a result, you can build a frontend that stays in sync with the agent's progress without having to invent a custom process to make this happen.\n\nFor example, building a human-in-the-loop workflow becomes an off-the-shelf component you can integrate rather than build from scratch.\n\n@CopilotKit is the creator of AG-UI, and you can use it when building frontend applications pretty much anywhere:\n\n• React\n• Angular\n• Vue\n• React Native\n• Slack\n• Teams\n• Discord\n• WhatsApp\n• Telegram\n\nHere is the link for you to check it out: https://t.co/CGEDOtd8V1\n\nThanks to the CopilotKit team for partnering with me on this post.",
+    "createdAt": "Wed Jul 01 15:03:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 255954,
+      "friendsCount": 164,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072307968607920129/vid/avc1/1920x1080/JY7IhHyWzGfzcMSs.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2072334663457067064",
+    "fullText": "You can start building with GLM 5.2 in minutes:\n1️⃣ Download dcode\n2️⃣ Select your model (GLM 5.2)\n3️⃣ Enter your API key\n…and you're ready to go with frontier performance on open weights.\n\nGreat demo from @its_ao https://t.co/aUmdqo8XMW",
+    "createdAt": "Wed Jul 01 15:01:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 91558,
+      "friendsCount": 919,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2072334605835989384",
+    "fullText": "Trying to help a close collaborator get their @X account back after falling for the AGI-level phishing campaings, but they're not famous like me, can someone help do me a favor? Will check DMs :)",
+    "createdAt": "Wed Jul 01 15:00:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "v_vashishta",
+      "name": "Vin Vashishta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
+      "description": "Author, Best Seller “From Data To Profit.” I wrote the playbook for enterprise data & AI monetization. AI advisor, speaker, & course instructor.",
+      "followersCount": 28407,
+      "friendsCount": 1057,
+      "location": "Reno"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/v_vashishta/status/2072332932543643876",
+    "fullText": "Fable 5 is back. The question is, which parts of your agentic workflows should you switch over to use the most powerful Anthropic model?\nEarly testers running Fable 5 against long-horizon coding work like multi-file refactors and autonomous multi-step execution reported it pulling ahead of Opus 4.8.\nHigher costs mean model orchestration and routing are more important than ever. Map its gains to a Represent, Decide, Act, Learn agentic architecture, and the improvements are concentrated in Decide and Act.\nIt’s better at planning multi-step work, executing complex tool chains, and holding state across a long-horizon task without losing the thread.\nRepresent and Learn steps don't need frontier reasoning, so there’s no reason to forklift Fable 5 into every workflow. Tiered routing by task complexity, with fallback-aware orchestration, is the right strategy.\nReserve Fable 5 for the planning and execution layers where long-horizon reasoning pays for the higher price. Leave the rest of your agentic workflows where they are.\nModels will continue to become more capable, but orchestration still determines the ROI for agents.",
+    "createdAt": "Wed Jul 01 14:54:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70452,
+      "friendsCount": 35120,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072329138195599360/vid/avc1/720x1280/D1Pf7i27lB0AgJnt.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2072329192499216783",
+    "fullText": "Here's how @Revolut builds resilient AI products with fallback chains.\n\nWhen the primary foundation model falters, they seamlessly switch to alternatives, ensuring continuous service and preventing full downtime.\n\nWatch Nikolay Donets, Head of ML Engineering at Revolut @raais https://t.co/pT91JsC9pu",
+    "createdAt": "Wed Jul 01 14:39:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 92938,
+      "friendsCount": 1098,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMJcl5-W8AEYNlW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2072320605748162596",
+    "fullText": "Most data teams run two systems: one database for transactions, another for analytics, with data copied between them. It works, but the pipelines are brittle, the copies drift, and governance gets complicated.\n\nAt this year's Data + AI Summit, we announced LTAP, a new architecture that does away with the second copy entirely. With LTAP, transactions and analytics run on a single copy of your data, stored in open formats that both sides read directly. Analytics always sees the freshest data your application just wrote, with no CDC, no mirroring, and no slowdown to your transactional workload.\n\nDatabricks co-founder @rxin walks through the architecture that makes this possible, starting at the storage layer of a traditional database and building from Lakebase up to LTAP. \n\nhttps://t.co/tOH1I8yU6y",
+    "createdAt": "Wed Jul 01 14:05:08 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 472462,
+      "followersCount": 472484,
+      "friendsCount": 1518,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2072318979528364070",
+    "fullText": "My wife, unironically this morning:\n\n“It’s time to start getting ready for Christmas!!!”",
+    "createdAt": "Wed Jul 01 13:58:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 291517,
+      "friendsCount": 8290,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMJaNmMb0AAUJK0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2072317982953586776",
+    "fullText": "gm https://t.co/q6C0GME4N4",
+    "createdAt": "Wed Jul 01 13:54:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 255954,
+      "friendsCount": 164,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072306551025553408/vid/avc1/1920x1080/JMKtVd00egmsCyRq.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2072306829695049940",
+    "fullText": "With LangSmith, @Pendoio catches 60% of agent failures before customers ever see them.\n\nEvery morning, their team\n📊 Opens the trace dashboard\n✅ Finds the gap between customer needs + what Novus supports\n💻 Builds new eval sets\n\nHow they’re tracing Novus from user behavior to code fixes:",
+    "createdAt": "Wed Jul 01 13:10:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 508409,
+      "friendsCount": 3138,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMJNLVNXUAAq_me.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2072303675737866532",
+    "fullText": "Orca\n\nThe World is in Your Mind https://t.co/cGGby5MU8K",
+    "createdAt": "Wed Jul 01 12:57:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 133947,
+      "friendsCount": 540,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072253368517394432/vid/avc1/1920x1080/jqoGdQbjA9kqEBP0.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2072296943666016418",
+    "fullText": "Powered by Kling, Awarded at Cannes Lions 🏆\n\nL'Ultimo Uomo Reale (The Last Real Man) won a Silver Lion and a Bronze Lion at Cannes Lions 2026 — in the Film – Consumer Goods and the newly introduced Film Craft – AI Craft categories, respectively. Directed by Sebastian Strasser and produced by Lipstick, the film used Kling AI for the majority of its shots.\nFrom the character’s nuanced micro-expressions to fantastical worlds built from wild imaginations, Kling AI delivered industry-leading character consistency, cinematic visuals, and motion quality. It proved to be the perfect creative partner in bringing the director’s vision to life.\nHuge congrats to Lipstick and Team One for the win!",
+    "createdAt": "Wed Jul 01 12:31:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452478,
+      "friendsCount": 568,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2072296673947369970",
+    "fullText": "People have really soured on AI over the last few weeks.\n\nOverall sentiment: very negative.\n\nThis mostly comes from the developers I talk to. The non-tech people I know have always been either meh or thumbs down toward AI.\n\nI think all the talk about companies replacing people with AI is finally catching up with folks.\n\nTwitter might tell you that AI is meant to help you and yada yada, but who are we kidding? Every company owner is looking at a spreadsheet right now, trying to figure out how to halve their headcount.\n\nI’m not sure how this will play out, but I don't see how folks will come around. Especially the younger generation.",
+    "createdAt": "Wed Jul 01 12:30:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 918791,
+      "friendsCount": 5870,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2072294120262127705",
+    "fullText": "Woke up early today to use Fable 5 but it’s not enabled yet 😫",
+    "createdAt": "Wed Jul 01 12:19:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 472484,
       "friendsCount": 1518,
       "location": "Austin, TX"
     },
@@ -21,7 +245,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 702038,
+      "followersCount": 702100,
       "friendsCount": 826,
       "location": "United States"
     },
@@ -55,7 +279,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 327328,
+      "followersCount": 327346,
       "friendsCount": 194,
       "location": "London"
     },
@@ -71,8 +295,8 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149710,
-      "friendsCount": 5375,
+      "followersCount": 149711,
+      "friendsCount": 5376,
       "location": "Montréal · Québec"
     },
     "images": [],
@@ -87,7 +311,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3787217,
+      "followersCount": 3780970,
       "friendsCount": 795,
       "location": ""
     },
@@ -103,7 +327,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36129,
+      "followersCount": 36127,
       "friendsCount": 1745,
       "location": ""
     },
@@ -119,7 +343,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36129,
+      "followersCount": 36127,
       "friendsCount": 1745,
       "location": ""
     },
@@ -137,7 +361,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240655088,
+      "followersCount": 240648693,
       "friendsCount": 1366,
       "location": ""
     },
@@ -155,7 +379,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3787217,
+      "followersCount": 3780970,
       "friendsCount": 795,
       "location": ""
     },
@@ -173,7 +397,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 1163438,
+      "followersCount": 1163812,
       "friendsCount": 2050,
       "location": "Palo Alto"
     },
@@ -189,7 +413,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 57512,
+      "followersCount": 57540,
       "friendsCount": 375,
       "location": "San Francisco, CA"
     },
@@ -200,6 +424,22 @@
     "tweetUrl": "https://x.com/togethercompute/status/2072196844801921484",
     "fullText": "Nemotron 3 Ultra is taking off on Together AI 🚀\n\nIn just days, it's climbed to 35B tokens/day on @OpenRouter.\n\nThat's the community voting with their tokens for open models that are fast, efficient, and fully customizable.\n\nA top open model from @NVIDIA, fully customizable and available on Together AI.",
     "createdAt": "Wed Jul 01 05:53:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 57540,
+      "friendsCount": 375,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2072193031084904574",
+    "fullText": "Read more on ParallelKernelBench: https://t.co/MtQY3lMtcB",
+    "createdAt": "Wed Jul 01 05:38:12 +0000 2026"
   },
   {
     "user": {
