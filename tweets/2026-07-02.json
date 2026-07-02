@@ -1,12 +1,324 @@
 [
   {
     "user": {
+      "screenName": "johnvmcdonnell",
+      "name": "John McDonnell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591144651297169408/hGTUM0jq_normal.jpg",
+      "description": "Head of Data @foundforbiz.  alum SQ, SFIX, RDL.",
+      "followersCount": 3427,
+      "friendsCount": 2792,
+      "location": "Oakland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMPbJZqaIAANg2S.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/johnvmcdonnell/status/2072741269772833186",
+    "fullText": "I love the Bay Area so much https://t.co/26n4Tcs1Hs",
+    "createdAt": "Thu Jul 02 17:56:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 256172,
+      "friendsCount": 164,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2072738719707050028",
+    "fullText": "Your coding agent bill doubled and nobody can tell you why.\n\nHere's the actual reason: Claude Code, Cursor, and Copilot all log activity in different formats. The second your team uses more than one (they will), your visibility goes to zero.\n\nWe built LangSmith to fix this. It traces Claude Code, Codex, Cursor, Copilot, Pi, and OpenCode into one consistent format.\n✅ Same trace tree\n✅ Same metadata\n✅ Same query syntax\n…regardless of which tool actually ran the session.\n\nEverything you need to know: https://t.co/ZoSNleMEhs",
+    "createdAt": "Thu Jul 02 17:46:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 57792,
+      "friendsCount": 375,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2072738348314321296",
+    "fullText": "30 billion tokens a month to 400 trillion in a year. That's @cursor_ai, @DecagonAI, @cartesia and hundreds of other teams choosing open infrastructure. \n\nOur Series C is fuel to take it further.",
+    "createdAt": "Thu Jul 02 17:45:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "v_vashishta",
+      "name": "Vin Vashishta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
+      "description": "Author, Best Seller “From Data To Profit.” I wrote the playbook for enterprise data & AI monetization. AI advisor, speaker, & course instructor.",
+      "followersCount": 28408,
+      "friendsCount": 1057,
+      "location": "Reno"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMPYEa4aAAAh9Yo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/v_vashishta/status/2072737919866142857",
+    "fullText": "Mira Murati's startup has no product, but 1 chart proves it could beat OpenAI and Anthropic in the enterprise. Most people will scroll right past this chart and miss the insight.\nIt shows a fine-tuned Qwen model outperforming frontier AI from Google, OpenAI, and Anthropic on an expert-level financial workflow at a fraction of the cost, but that's not the story.\nThe story is how they got there. Thinking Machines aligned its research and innovation cycles with value before writing a single line of code. They anchored the entire initiative to an outcomes metric:\nThe reliability threshold below which the model delivers zero value. Then they engineered their way past it. That is what separates the AI initiatives that create significant value from the 95% that fail.\nA startup with no product just published the best technical strategy explainer I've read in years. And it's a preview of how they take the enterprise from OpenAI and Anthropic.\nI broke down the full playbook, including where I think they go next.\nhttps://t.co/Oy7yIEpIFQ",
+    "createdAt": "Thu Jul 02 17:43:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 309548,
+      "friendsCount": 891,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072734677736046592/vid/avc1/3740x2160/qh8KXG2LenO6UBkj.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2072735813469905026",
+    "fullText": "LLM Wikis are being slept on.\n\nI argue that creating knowledge bases with LLMs or coding agents is one of the most valuable applications of AI today.\n\nIt's about being intentional in building and scaling your intelligence stack.\n\nTo showcase this, I wanted to share an LLM Wiki I have built over the last couple of months.\n\nIt's called PaperWiki, and I use it across all my research workflows, along with my research agents.\n\nIn fact, I also use it to curate papers I share with my communities, newsletter, and on X.\n\nThe PaperWiki is updated regularly with automations, so I basically have agents on a loop maintaining it. All the entries are ingested from different sources and stored in a vault (Obsidian) and further indexed using qmd. And then further presented via an HTML artifact. So all of it is easily accessible to all my agents and easily searchable through full-text search and rich semantic search. The structure of the wiki has proven significantly useful to start interesting and exciting cutting-edge research projects with my research agents (from building tiny and more efficient gpt/difussion llms to building out SoTA harnesses and memory systems). It turns out that agents love markdown files and can more easily navigate the papers given the rich metadata structure of the wiki.\n\nI am just getting started on this, but it's clear to me that we should all be experimenting with LLM Wikis.\n\nHere's why:\n\nBuilding LLM knowledge bases gets you into the habit of leveraging AI outputs in all kinds of creative ways. It's the good kind of tokenmaxxing we should all be pushing for.\n\nLLM Wikis can be maintained automatically in a loop. I use an automation that updates the wiki every day based on papers I curate. The curation is another automation I run in a loop (with a bit of human in the loop), so I get to build on all my previous knowledge and expertise, and all of it compounds the deeper the integration/layers.\n\nOne interesting result of this process is that I feel like I can better spot high-quality papers and remove noise more easily. Social media could never solve that. And most paper aggregators use metrics I simply don't trust. I like that agents can help with the noise vs. signal problem. This is important for research. Lots of people consider agents to produce mostly slop. But it doesn't have to be that way. Careful curations, prompts, automations, verifiers, and human-in-the-loop can produce some astonishing results.\n\nAnd you really don't need frontier models for this. I use a combination of frontier models (opus-4.8) and open-weight models (deepseek-v4-flash) to maintain this. An exciting future work (we are working on this @dair_ai) is to tune specialized models on top of this to allow LLMs to quickly understand cutting-edge research ideas and can better conceptualize research strategies that further accelerate scientific research agents. \n\nI plan to open-source a bunch of this work, including the artifact, but this is currently work in progress, and I was excited to share some thoughts as I continue working on it. Sharing more as I go. Stay tuned!",
+    "createdAt": "Thu Jul 02 17:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 402706,
+      "friendsCount": 860,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072730615468744704/vid/avc1/1920x1080/bhpU7dd_dE1X6cPf.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2072734569787207871",
+    "fullText": "For 60 years, experts said fusion was always 30 years away. Last week, Helion cleared Washington State regulatory approval for its Orion fusion plant, the first commercial fusion reactor in history. In the meantime, Fable 5 has returned with stricter guardrails accompanied by an interesting release of Sonnet 5. \n\n-- Stripe used Fable V to overhaul 50 million lines of code in a single day. Months of engineering work, gone in hours.\n\n-- 140 humanoid robot companies in China. Morgan Stanley revised projections three times: 14K → 26K → 50K this year, 500K by 2030.\n\n-- StarCloud launched the first GPU in orbit and trained an LLM in space. StarCloud Two launches in January with 100x the power.\n\n-- Grok 4.5 based on a 1.5 trillion parameter model. Elon plans to start a brand new pre-training run from scratch every month.",
+    "createdAt": "Thu Jul 02 17:30:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 88608,
+      "friendsCount": 5299,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMPTVknbgAEx8hw.jpg",
+      "https://pbs.twimg.com/media/HMPTVkkb0AAxvw1.jpg",
+      "https://pbs.twimg.com/media/HMPTVkmaIAA8kpJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2072732630228128136",
+    "fullText": "super excited by local AI summit today, will start in 30 mins, join us at room 2009 @aiDotEngineer 🔥 \n\nkudos @TheAhmadOsman @NVIDIAAI for organizing this 💚\nopen-source has to win ✊🏻 https://t.co/XyjuxpoXBT",
+    "createdAt": "Thu Jul 02 17:22:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ZoubinGhahrama1",
+      "name": "Zoubin Ghahramani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1294283059747893248/9K2p5oV__normal.jpg",
+      "description": "VP Research, Google DeepMind, ex-head of Google Brain. Professor at University of Cambridge. Machine Learning Researcher. ex-Chief Scientist & VP of AI, Uber.",
+      "followersCount": 35037,
+      "friendsCount": 713,
+      "location": "Cambridge, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ZoubinGhahrama1/status/2072731200993542408",
+    "fullText": "How can we use AI to help students learn better? This randomized controlled trial (RCT;  the \"gold standard\" method for evaluating causal effect of an intervention) shows a strong positive impact of using Guided Learning in the classroom.  https://t.co/JObzVL0VPL",
+    "createdAt": "Thu Jul 02 17:16:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 472611,
+      "friendsCount": 1517,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2072727409292460463",
+    "fullText": "Fable feels way more nerfed than when it was live last time",
+    "createdAt": "Thu Jul 02 17:01:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 291684,
+      "friendsCount": 8294,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2072726702460195186",
+    "fullText": "What’s the best way to share with your family that you’ve spent your retirement savings on Fable tokens? Asking for a friend.",
+    "createdAt": "Thu Jul 02 16:58:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 402706,
+      "friendsCount": 860,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072725226282975232/vid/avc1/1280x720/pKkZ-6R_umrPmyek.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2072726480501547496",
+    "fullText": "We are giving away $2 million to those who can use AI to build REAL BUSINESSES that solve REAL PROBLEMS for 100,000+ people.\nIf you ever wanted to start, but didn't know how or with what, this is your chance. https://t.co/UMsjjva8mN",
+    "createdAt": "Thu Jul 02 16:57:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 127256,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMPHXT4awAAqLnF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2072719460721733762",
+    "fullText": "NEW paper from NVIDIA.\n\nThey discuss robot programming that compounds experience instead of throwing it away.\n\nTraditional robot programming forces you to orchestrate perception, contact dynamics, diverse configurations, and constant execution failures by hand. Most learned approaches then bury what they learned in opaque weights.\n\nASPIRE runs a code-as-policy loop that autonomously writes and refines control programs. A closed-loop execution engine exposes fine-grained multimodal traces, so the system diagnoses its own failures, synthesizes repairs, and validates them. Validated fixes distill into a reusable skill library, and evolutionary search explores diverse task sequences beyond single-trajectory tuning.\n\nASPIRE gains up to 77 percent on LIBERO-Pro under perturbation, 72 percent on Robosuite bimanual handover, and 32 percent on BEHAVIOR-1K. On LIBERO-Pro Long it hits 31 percent zero-shot versus 4 percent for prior methods, with early sim-to-real transfer across embodiments.\n\nPaper: https://t.co/zDzVNC2NXn\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Thu Jul 02 16:30:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 327500,
+      "friendsCount": 197,
+      "location": "London"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMPHNYpXAAA5sDq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2072719294253650411",
+    "fullText": "OpenAI and Anthropic should put 10% of their equity each in Invest America accounts for the children of the USA\n\nValuation will go up more than 10% https://t.co/4J3fjpPIUW",
+    "createdAt": "Thu Jul 02 16:29:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 291684,
+      "friendsCount": 8294,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2072718593729708401",
+    "fullText": "You'll never be able to out-autist the top AI models.",
+    "createdAt": "Thu Jul 02 16:26:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 309548,
+      "friendsCount": 891,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMPE19UbsAAs-TN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2072716688483831885",
+    "fullText": "// AutoMem //\n\nI quite like this idea of metamemory.\n\n(bookmark it)\n\nThis new research from Stanford treats agent's memory management as a trainable skill instead of a fixed module.\n\nThe model decides what to encode, when to retrieve, and how to organize its own notes, with file-system operations promoted to first-class actions right alongside task actions.\n\nAutoMem automates this on two loops. A strong LLM reviews full trajectories and rewrites the memory structure (prompts, schemas, action vocabulary). Then the agent's own good memory decisions across episodes become training signal to sharpen its proficiency.\n\nOptimizing memory alone, without touching task-action behavior, lifts the base agent 2x to 4x on Crafter, MiniHack, and NetHack. That is enough to make a 32B open model competitive with Claude Opus 4.5 and Gemini 3.1 Pro Thinking. For long-horizon agents, memory is a high-leverage objective you can train for on its own.\n\nPaper: https://t.co/bBjjK0VEOS\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Thu Jul 02 16:19:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 172948,
+      "friendsCount": 216,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072711701645119488/vid/avc1/1920x1080/0j5HPR2SDBIr4md2.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/arena/status/2072713730711023673",
+    "fullText": "Code Arena just leveled up with fullstack capabilities 🚀\n\nIntroducing the new Fullstack Code Arena. We’re moving beyond frontend prototypes to fullstack development complete with databases, API keys, and fast deployments. Build, iterate, and ship real-world software — all in one place.\n\nModels now act as agents in the Code Arena, using structured tool calls to plan, execute, and refine in real time with real world tasks.\n\nRead more about it in the thread 🧵",
+    "createdAt": "Thu Jul 02 16:07:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 309548,
+      "friendsCount": 891,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2072713255248630227",
+    "fullText": "Yesterday, I saw a lot of early excitement on Fable 5. \n\nBut as I predicted, that wore off super fast. \n\nMy timeline is full of disappointments around limitations, guardrails, capabilities, costs, and much more. \n\nI miss the aura of the Opus 4.5 launch. It just worked.",
+    "createdAt": "Thu Jul 02 16:05:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 346819,
+      "friendsCount": 20463,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMPAw9yXsAAgDit.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2072712207402438909",
+    "fullText": "Ask us your questions about human-robot collaboration. We’ll pick some to feature in an upcoming 32 questions video w/MIT PhD student Alex Cuellar. https://t.co/yK10tNO2s8",
+    "createdAt": "Thu Jul 02 16:01:14 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "ceobillionaire",
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149694,
-      "friendsCount": 5375,
+      "followersCount": 149697,
+      "friendsCount": 5377,
       "location": "Montréal · Québec"
     },
     "images": [
@@ -57,7 +369,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3791000,
+      "followersCount": 3793455,
       "friendsCount": 795,
       "location": ""
     },
@@ -1175,8 +1487,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291566,
-      "friendsCount": 8293,
+      "followersCount": 291684,
+      "friendsCount": 8294,
       "location": "United States"
     },
     "images": [],
