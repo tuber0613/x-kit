@@ -1,11 +1,185 @@
 [
   {
     "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
+      "followersCount": 85339,
+      "friendsCount": 441,
+      "location": "Seattle, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMOaHFLXsAAcPNz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/allen_ai/status/2072669703776948244",
+    "fullText": "The Danish Foundation Models (DFM) project is adapting our modular FlexOlmo architecture into a lighter-weight system that runs on commodity hardware—putting collaborative model building within reach of smaller research groups &amp; organizations. 🧵 https://t.co/HoOMCiHUfV",
+    "createdAt": "Thu Jul 02 13:12:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mathemagic1an",
+      "name": "Jay Hack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
+      "description": "Head of AI @clickup. Tweets about AI, computing and their impacts on society. Previously founder @codegen / ML @palantir / startups. Not a pseudonym.",
+      "followersCount": 72355,
+      "friendsCount": 3435,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072668298416685057/vid/avc1/854x480/NGTDYD9n-RSVq_zz.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/mathemagic1an/status/2072669624101917148",
+    "fullText": "Interesting approach to long context/continual learning here from @baseten at @cursor_ai \n\nCompact long trajectories by compressing a prefix of the KV cache using an MLP/autoencoder. You can train this \"compactor\" MLP by learning to reconstruct activations that the original KV cache would produce on subsequent tokens.\n\nThis maximally reconstructs information from long context that's useful for subsequent outputs. \n\nIf you run an agent over extremely long context and run this compaction recursively, the activations of this compressed KV cache become like trained weights. Similar to task-specific LoRA or \"cartridges\".\n\nWould not be surprised if OpenAI is running a similar algorithm for their blackbox compaction. Clear benefits here if you can avoid busting the cache, as e.g. compacting via writing to a text file would.\n\nSeeing many emerging approaches to fixed size latent states for LLMs that seem promising. If building a task-specific KV cache compression ends up being more sample efficient than running backprop, getting this to \"work\" feels like one of the 2-3 remaining breakthroughs on the path to true AGI",
+    "createdAt": "Thu Jul 02 13:12:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 291664,
+      "friendsCount": 8292,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2072668645755617307",
+    "fullText": "It turns out that “trust but verify” is the perfect advice for how to deal with advanced AI models.",
+    "createdAt": "Thu Jul 02 13:08:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 291664,
+      "friendsCount": 8292,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMOYzwSbEAAu1Py.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2072668272047411696",
+    "fullText": "I just told my normie neighbor about Fable returning yesterday. https://t.co/vk52BiRE1v",
+    "createdAt": "Thu Jul 02 13:06:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 291664,
+      "friendsCount": 8292,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2072664273470603322",
+    "fullText": "AGI will be able to take ragebeit to a whole different level.",
+    "createdAt": "Thu Jul 02 12:50:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3788534,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2072662068646314051",
+    "fullText": "I didn't realize this till recently, but the math section of the SAT is a de facto second English section. For whatever reason they can't give you problems that are mathematically difficult, so the only way to add difficulty is to make the problems hard to read.",
+    "createdAt": "Thu Jul 02 12:42:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3788534,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2072659746092364025",
+    "fullText": "Someone asked why I like Boom so much. Partly because they're building supersonic jets! Partly because they're doing it so well. And partly because we've been through so much together; it was so hard for so many years.",
+    "createdAt": "Thu Jul 02 12:32:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452561,
+      "friendsCount": 569,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMOQb8KaUAAC7kB.jpg",
+      "https://pbs.twimg.com/media/HMOQcPCaEAAJiDA.jpg",
+      "https://pbs.twimg.com/media/HMOQci0a8AA3m6q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2072659078116233373",
+    "fullText": "Paris looks like a postcard.\n\nI think the city is the most beautiful among all the Western European capitals. It's big, colorful, walkable, charming, and full of life wherever you go.\n\nEvery time I come, I feel an immense joy that is hard to explain.\n\nI don't speak French, but I've never had issues communicating with locals. I know Americans say that French people are rude, but I think it's just a difference in how we interact with others.\n\nThe food is second to none. In my book, it's one of the top 3 cuisines, along with Italian and Spanish food.\n\nOne of the things that impresses me most is the city's design.\n\nAround 1850, Napoleon III decided to redesign Paris and appointed Baron Georges-Eugène Haussmann to do it.\n\nThe guy didn't pull any punches.\n\nHe demolished a large part of the city, created massive boulevards, built parks throughout Paris, modernized the city’s water and sewer systems, and created avenues connecting its most important monuments.\n\nBut the most important thing he did was establish building regulations.\n\nThanks to this, Paris still looks like a postcard: buildings of similar height, with a shared architectural style.\n\nNo matter where you look, you see the same elegant apartment buildings, with iron balconies and soft cream-colored façades.\n\nBeautiful.",
+    "createdAt": "Thu Jul 02 12:30:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70482,
+      "friendsCount": 35126,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMODTjGXMAA4XRB.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2072644631284666452",
+    "fullText": "i'm not building a bioweapon or recursively trying to self-improve, pweaaassse https://t.co/aT9m1D80OA",
+    "createdAt": "Thu Jul 02 11:32:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 158099,
+      "friendsCount": 1271,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMOBepPaMAEP2xM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2072642625564516719",
+    "fullText": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。 https://t.co/wxVOBEAc1i",
+    "createdAt": "Thu Jul 02 11:24:44 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "bentossell",
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
-      "followersCount": 196539,
+      "followersCount": 196542,
       "friendsCount": 545,
       "location": "tinkertown"
     },
@@ -21,7 +195,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 133972,
+      "followersCount": 133976,
       "friendsCount": 540,
       "location": ""
     },
@@ -39,8 +213,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70476,
-      "friendsCount": 35125,
+      "followersCount": 70482,
+      "friendsCount": 35126,
       "location": "latent space"
     },
     "images": [
@@ -60,7 +234,7 @@
       "name": "Yi Ma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
       "description": "Chair Professor in AI, Hong Kong University.\nA Mathematical Theory of Intelligence/Memory:\nhttps://t.co/leZlkURb7j",
-      "followersCount": 121222,
+      "followersCount": 121236,
       "friendsCount": 730,
       "location": "Hong Kong and Berkeley"
     },
@@ -76,7 +250,7 @@
       "name": "Yi Ma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
       "description": "Chair Professor in AI, Hong Kong University.\nA Mathematical Theory of Intelligence/Memory:\nhttps://t.co/leZlkURb7j",
-      "followersCount": 121222,
+      "followersCount": 121236,
       "friendsCount": 730,
       "location": "Hong Kong and Berkeley"
     },
@@ -92,8 +266,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291658,
-      "friendsCount": 8293,
+      "followersCount": 291664,
+      "friendsCount": 8292,
       "location": "United States"
     },
     "images": [],
@@ -108,8 +282,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291658,
-      "friendsCount": 8293,
+      "followersCount": 291664,
+      "friendsCount": 8292,
       "location": "United States"
     },
     "images": [],
@@ -124,8 +298,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291658,
-      "friendsCount": 8293,
+      "followersCount": 291664,
+      "friendsCount": 8292,
       "location": "United States"
     },
     "images": [],
@@ -140,8 +314,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 291658,
-      "friendsCount": 8293,
+      "followersCount": 291664,
+      "friendsCount": 8292,
       "location": "United States"
     },
     "images": [],
@@ -156,8 +330,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 385818,
-      "friendsCount": 13065,
+      "followersCount": 385943,
+      "friendsCount": 13063,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -172,7 +346,7 @@
       "name": "汗青 HQ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
       "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
-      "followersCount": 36699,
+      "followersCount": 36700,
       "friendsCount": 591,
       "location": ""
     },
@@ -193,7 +367,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486041,
+      "followersCount": 486058,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -211,7 +385,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486041,
+      "followersCount": 486058,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -229,7 +403,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486041,
+      "followersCount": 486058,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -247,7 +421,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486041,
+      "followersCount": 486058,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -265,7 +439,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486041,
+      "followersCount": 486058,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -283,7 +457,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486041,
+      "followersCount": 486058,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -301,7 +475,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 472581,
+      "followersCount": 472594,
       "friendsCount": 1517,
       "location": "Austin, TX"
     },
@@ -317,7 +491,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486041,
+      "followersCount": 486058,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -335,8 +509,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 385818,
-      "friendsCount": 13065,
+      "followersCount": 385943,
+      "friendsCount": 13063,
       "location": "San Francisco, CA"
     },
     "images": [],
