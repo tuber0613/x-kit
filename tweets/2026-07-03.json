@@ -1,11 +1,77 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452592,
+      "friendsCount": 569,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2073024710242382106",
+    "fullText": "Here is how to build your first agentic loop with Claude Code:\n\n1. Open your terminal.\n2. Create an empty folder and move into it.\n3. Run the following command:\n\n*************************\nclaude -p \"Write fibonnacy(n) in a Python file. Write tests for it, including edge cases. Run pytest after every change. Don't stop until every test passes.\" \\\n  --allowedTools \"Read,Write,Edit,Bash(python3 -m pytest:*),Bash(pytest:*)\"\\\n  --max-turns 15\n*************************\n\nThat's it. If you have Python and pytest installed on your system, Claude will implement the Fibonacci function and test it.\n\nThere are 3 things you need to know about this command:\n\nFirst, it uses the -p flag to run Claude Code non-interactively. It takes a prompt, runs the full agent loop, prints the result, and exits.\n\nSecond, the --allowedTools flag pre-approves exactly what the agent can touch, so Claude doesn't need to ask you every time.\n\nThird, the --max-turns flag caps the number of agentic turns the loop can run. When it hits the cap, the run exits with an error instead of grinding forever.\n\nThis is just a simple \"Hello World\"-type example to get you started.\n\nThe key on every loop is the verification step: how does the agent know it is done?\n\nComing up with the evaluation criteria is probably the most important step in building a loop. In this example, I'm asking Claude to write unit tests and use them to evaluate the code. This works for something simple, but you'll need a much more robust evaluation for anything more complex.\n\nSomething worth mentioning: building the verification step is where a ton of my time is going right now. The agent is writing the code, and the agent is verifying that the code (and the product) work as intended. My job has become defining what \"works\" looks like.",
+    "createdAt": "Fri Jul 03 12:43:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 403378,
+      "friendsCount": 862,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2073006490860896667",
+    "fullText": "In truth, the experts who are experts in the way things used to be are the last to see what's coming next.",
+    "createdAt": "Fri Jul 03 11:30:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3809642,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2073005763736334743",
+    "fullText": "Someone asked if the US economy could be damaged by the high valuations startups get now, and I realized there's a natural protection against this. All the growth is concentrated in the big hits, and they are exactly the companies most able to grow into an \"excessive\" valuation.",
+    "createdAt": "Fri Jul 03 11:27:43 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70513,
+      "followersCount": 70521,
+      "friendsCount": 35129,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMTJCYwXYAACIDH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2073002775802265933",
+    "fullText": "claude code mobile is cool but like the way sessions are labeled and not having any search functionality makes it entirely unusable \n\nplzhalp @bcherny https://t.co/KtmAec7kRv",
+    "createdAt": "Fri Jul 03 11:15:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70521,
       "friendsCount": 35129,
       "location": "latent space"
     },
@@ -23,7 +89,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 146805,
+      "followersCount": 146822,
       "friendsCount": 3278,
       "location": "on ⛓"
     },
@@ -39,7 +105,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 922917,
+      "followersCount": 923150,
       "friendsCount": 5872,
       "location": "San Francisco, CA"
     },
@@ -55,7 +121,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 133983,
+      "followersCount": 133985,
       "friendsCount": 541,
       "location": ""
     },
@@ -73,7 +139,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36127,
+      "followersCount": 36128,
       "friendsCount": 1750,
       "location": ""
     },
@@ -91,8 +157,8 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 62429,
-      "friendsCount": 11099,
+      "followersCount": 62434,
+      "friendsCount": 11100,
       "location": "San Francisco"
     },
     "images": [],
@@ -107,7 +173,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 88625,
+      "followersCount": 88628,
       "friendsCount": 5301,
       "location": "Paris"
     },
@@ -125,7 +191,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 702746,
+      "followersCount": 702768,
       "friendsCount": 827,
       "location": "United States"
     },
@@ -141,7 +207,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36127,
+      "followersCount": 36128,
       "friendsCount": 1750,
       "location": ""
     },
@@ -159,7 +225,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 508713,
+      "followersCount": 508719,
       "friendsCount": 3139,
       "location": ""
     },
@@ -177,7 +243,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 508713,
+      "followersCount": 508719,
       "friendsCount": 3139,
       "location": ""
     },
@@ -647,7 +713,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 88625,
+      "followersCount": 88628,
       "friendsCount": 5301,
       "location": "Paris"
     },
