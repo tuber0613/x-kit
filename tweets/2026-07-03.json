@@ -1,11 +1,95 @@
 [
   {
     "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 146799,
+      "friendsCount": 3278,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2072943836116971663",
+    "fullText": "investors buying secondary in a company they can’t get primary access to is quite common — but the investor promoting that online as if they’re a direct shareholder and partner to the company is disingenuous. And will get folks embarrassed by founders “who do not consent” to the new ownership",
+    "createdAt": "Fri Jul 03 07:21:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 922608,
+      "friendsCount": 5872,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2072930664962539860",
+    "fullText": "“What happened to state Sen. Scott Wiener at the Trans March celebration last week was neither inclusion, righteousness nor speaking truth to power. It was not a protest; it was a mob. And Democrats — all of us — need to say so, loudly and without equivocation.”\n\nhttps://t.co/Wq3FQnkgOI",
+    "createdAt": "Fri Jul 03 06:29:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 133983,
+      "friendsCount": 541,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2072925800026816512/vid/avc1/1080x1920/AvQMTfTMBqjLgaae.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2072926902264684698",
+    "fullText": "This is the power of our love🖤 https://t.co/LGauYL7cei",
+    "createdAt": "Fri Jul 03 06:14:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36128,
+      "friendsCount": 1750,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMR5xoyaQAAI3fa.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2072915650318868990",
+    "fullText": "Text-CAD：它不是\"生成一张零件图\"，一句话 → STEP → 切片 → 直接连本地 Bambu 打印机出活全链条。\n\n原先机械工程师在 SolidWorks 里手动建模、再逐个尺寸拉卡尺核对——这两个动作，被这个项目接管了。\n\n一次装齐 11 个 skill，覆盖硬件从设计到制造的整条流水线：\n\n1、CAD：自然语言/图片/2D图纸 → STEP，可导 STL/3MF/GLB\n2、https://t.co/v3zkMPU3Hb：自动找现成螺丝、轴承、电机、连接器的 STEP\n3、DXF：出 2D 切割图；SendCutSend：上传激光切割前先校验\n4、G-code + Bambu Labs：切片 → 本地打印机 dry-run 再谨慎开印\n5、URDF/SRDF/SDF：写机器人结构、MoveIt2 规划、仿真世界\n\n关键选型很聪明，模型不吐 STEP 二进制，而是直接写 build123d 的 Python 源码，再跑 gen_step() 生成。等于给了 LLM 一个它真正擅长的文本中介层，绕开\"直接生成难格式\"这个死结——这跟之前聊过的 [[video-use]] 是同一套思路：video-use 让 LLM 不看视频只读结构化文本，text-to-cad 让 LLM 不碰几何内核只写 Python，两者都是给模型一个高价值 token 的落点。\n\n与 Jellyfish摆一起看更清楚，两者都是 harness engineering的思路，一个赛道在 AI 短剧，一个在硬件制造：\n～Jellyfish 把\"角色一致性\"当 first-class problem、把不可控生成变成可追踪工序；\n～text-to-cad 把\"几何正确性\"当 first-class problem——scripts/inspect 做 refs/facts/planes/measure/align/diff 校验，snapshot 视觉验证是强制的（确定性检查过了也不许跳），失败就\"改最小责任源码段 → 重生成 → 重跑失败项\"。\n\n代价是什么？\n\n它把每个 skill 做成\"薄封装 + 渐进式 references\"——只加载当前任务需要的参考文档，不读整套。context 省了，但也意味着这套东西的天花板取决于底层 CLI（build123d / 切片器 / OCCT 内核），模型只是在编排，不负责几何求解。\n\n#TextToCAD #AICAD #AgentSkills #build123d #硬件AI",
+    "createdAt": "Fri Jul 03 05:29:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 62425,
+      "friendsCount": 11099,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2072914093829427629",
+    "fullText": "Du bist gut genug.\n\nSummer anthem for the USA team approaching their next World Cup game.",
+    "createdAt": "Fri Jul 03 05:23:27 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "mervenoyann",
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 88619,
+      "followersCount": 88622,
       "friendsCount": 5301,
       "location": "Paris"
     },
@@ -24,7 +108,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
       "followersCount": 36128,
-      "friendsCount": 1749,
+      "friendsCount": 1750,
       "location": ""
     },
     "images": [
@@ -41,7 +125,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 508677,
+      "followersCount": 508694,
       "friendsCount": 3139,
       "location": ""
     },
@@ -59,7 +143,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 508677,
+      "followersCount": 508694,
       "friendsCount": 3139,
       "location": ""
     },
@@ -77,7 +161,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 57846,
+      "followersCount": 57859,
       "friendsCount": 375,
       "location": "San Francisco, CA"
     },
@@ -95,8 +179,8 @@
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
       "description": "Co-founder at @HuggingFace - moonshots - angel",
-      "followersCount": 118474,
-      "friendsCount": 7446,
+      "followersCount": 118497,
+      "friendsCount": 7448,
       "location": ""
     },
     "images": [],
@@ -113,8 +197,8 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 62418,
-      "friendsCount": 11098,
+      "followersCount": 62425,
+      "friendsCount": 11099,
       "location": "San Francisco"
     },
     "images": [
@@ -131,7 +215,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 403199,
+      "followersCount": 403298,
       "friendsCount": 862,
       "location": ""
     },
@@ -147,7 +231,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240653345,
+      "followersCount": 240653403,
       "friendsCount": 1366,
       "location": ""
     },
@@ -165,7 +249,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486132,
+      "followersCount": 486135,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -183,7 +267,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 403199,
+      "followersCount": 403298,
       "friendsCount": 862,
       "location": ""
     },
@@ -529,7 +613,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 88619,
+      "followersCount": 88622,
       "friendsCount": 5301,
       "location": "Paris"
     },
