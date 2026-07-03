@@ -1,11 +1,83 @@
 [
   {
     "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 88619,
+      "friendsCount": 5301,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMRqY8rX0AAX261.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2072898712792080517",
+    "fullText": "I'm so rooting for @roboflow 💜\n\nSAM was GPT moment for vision and they did god's work to get it to everyone\n\nwe (with @xenovacom) had a tour by @josephofiowa in their smol data center today 🦝 https://t.co/EmZOzT48Ka",
+    "createdAt": "Fri Jul 03 04:22:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36128,
+      "friendsCount": 1749,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMRMwicbsAEegmh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2072866203195047972",
+    "fullText": "AI短剧最难的从来不是\"生成一段视频\"，是让第5个镜头里的女主，跟第1个镜头长得是同一个人。Jellyfish ：专门冲着这个\"一致性地狱\"来的，短剧赛道的ERP，可以作为本地化的巨日禄。\n\nJellyfish 做的是一套端到端 AI 短剧生产ERP，从剧本输入→结构化分镜→一致性管理→镜头准备→视频生成→导出，全流程串在一个地方。被它替代的不是分镜师的创意，是短剧团队里\"人工维护角色/场景/道具/服装设定集、逐个镜头核对有没有跑偏\"这个最耗人的环节。完全开源Apache2.0，支持中英日三语。\n\n为什么说它反常识？\n\n因为市面上绝大多数 AI 视频项目都在卷\"生成质量\"，Jellyfish 卷的是\"生产管理\"——它把角色、演员、场景、道具、服装做成一套跨镜头共享的实体模型，一致性被当成 first-class problem 单独管理，而不是每次生成碰运气。这更像给短剧厂做了个 ERP，而不是又一个文生视频玩具（基于公开信息推测，未做具体同类项目逐一对比）。\n\n翻了下工作流设计，有个细节挺关键。\n\n它把\"准备好\"和\"正在生成\"两个状态严格分开——剧本拆解→镜头准备→候选确认→镜头就绪→生成工作区，每个镜头有统一的 readiness 状态决定能不能进入生成。这套设计对应的其实是 harness engineering：长耗时的文本/图像/视频生成全走一个统一异步任务中心，带状态、取消、恢复，把不可控的 AI 生成变成可追踪、可回滚的工序。加上多模型/多provider管理和 prompt 模板复用，本质是把 AI 能力当基础设施来搭，不是当一次性调用。\n\n商业化方面：短剧是已经跑通的付费市场，Jellyfish 直接切\"批量产短剧的工作室\"这个刚需。能直接变现的两条路——①做成 SaaS，按项目/按生成量对短剧团队收费，卖的是\"降低一致性返工成本\"；②它已经有 OpenAPI 链接和 Docker Compose 一键部署，很适合给 MCN/短剧公司做私有化部署+定制实施收费。谁的返工成本高，谁就愿意为这套流程付钱。\n\n部署稍重一点：不用GPU，docker compose up --build 就能跑起来自己试。\n\n当所有人都在比谁的模型生成得更像时，先有人开始比谁能把这些生成物管成一条可复用的流水线ERP了——短剧这个赛道，接下来拼的可能是生产管理能力，而不只是画质。\n\n#Jellyfish #AI短剧 #视频一致性 #开源 #AIAgent",
+    "createdAt": "Fri Jul 03 02:13:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 508677,
+      "friendsCount": 3139,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMQ0W_UWQAEV_Ga.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2072839408408027413",
+    "fullText": "PerceptionRubrics\n\nCalibrating Multimodal Evaluation to Human Perception https://t.co/erVa3w2m4U",
+    "createdAt": "Fri Jul 03 00:26:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 508677,
+      "friendsCount": 3139,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMQ0BovWcAA5-E9.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2072839148453421474",
+    "fullText": "CausalMix\n\nData Mixture as Causal Inference for Language Model Training https://t.co/vW4LUXuPkY",
+    "createdAt": "Fri Jul 03 00:25:39 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "togethercompute",
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 57830,
+      "followersCount": 57846,
       "friendsCount": 375,
       "location": "San Francisco, CA"
     },
@@ -23,7 +95,7 @@
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
       "description": "Co-founder at @HuggingFace - moonshots - angel",
-      "followersCount": 118463,
+      "followersCount": 118474,
       "friendsCount": 7446,
       "location": ""
     },
@@ -41,8 +113,8 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 62410,
-      "friendsCount": 11087,
+      "followersCount": 62418,
+      "friendsCount": 11098,
       "location": "San Francisco"
     },
     "images": [
@@ -59,8 +131,8 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 403105,
-      "friendsCount": 860,
+      "followersCount": 403199,
+      "friendsCount": 862,
       "location": ""
     },
     "images": [],
@@ -75,7 +147,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240649876,
+      "followersCount": 240653345,
       "friendsCount": 1366,
       "location": ""
     },
@@ -93,7 +165,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486112,
+      "followersCount": 486132,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -111,8 +183,8 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 403105,
-      "friendsCount": 860,
+      "followersCount": 403199,
+      "friendsCount": 862,
       "location": ""
     },
     "images": [],
@@ -127,7 +199,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3798433,
+      "followersCount": 3801525,
       "friendsCount": 795,
       "location": ""
     },
@@ -143,7 +215,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 229212,
+      "followersCount": 229220,
       "friendsCount": 1679,
       "location": "Chicago, IL"
     },
@@ -161,7 +233,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486112,
+      "followersCount": 486132,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -179,7 +251,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486112,
+      "followersCount": 486132,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -197,7 +269,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486112,
+      "followersCount": 486132,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -215,7 +287,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486112,
+      "followersCount": 486132,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -233,7 +305,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486112,
+      "followersCount": 486132,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -251,7 +323,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486112,
+      "followersCount": 486132,
       "friendsCount": 3366,
       "location": "Maryland, USA"
     },
@@ -269,7 +341,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 472657,
+      "followersCount": 472662,
       "friendsCount": 1517,
       "location": "Austin, TX"
     },
@@ -457,8 +529,8 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 88615,
-      "friendsCount": 5300,
+      "followersCount": 88619,
+      "friendsCount": 5301,
       "location": "Paris"
     },
     "images": [
