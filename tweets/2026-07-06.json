@@ -1,12 +1,445 @@
 [
   {
     "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 530288,
+      "friendsCount": 50,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2074187212674269560",
+    "fullText": "Save time and grow your business by connecting your Google Business Profile directly to Gemini or adding it to a business notebook. \n\nSee how these new updates transform Gemini into a partner that deeply understands your brand and helps you get more done. 🧵",
+    "createdAt": "Mon Jul 06 17:42:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1503073,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2074179111296081920/vid/avc1/3840x2160/qo3RJ17ZzaY1jIQq.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2074185348142280912",
+    "fullText": "New Anthropic research: A global workspace in language models.\n\nOf everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with.\n\nWe found a strikingly similar divide inside Claude. https://t.co/aLUPBifxth",
+    "createdAt": "Mon Jul 06 17:34:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 3884378,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2074184773480726854",
+    "fullText": "If you want to start a startup, don't learn \"entrepreneurship.\" Learn how to build things. The hard part of startups is not \"entrepreneurship\" but product: to know what to build, and to be able to build it.",
+    "createdAt": "Mon Jul 06 17:32:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 93160,
+      "friendsCount": 1099,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMj7eDJXkAAxs0-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2074184143013806103",
+    "fullText": "Data + AI Summit 2026 marked another milestone in the @OpenAI and Databricks partnership.\n\nKeynotes, executive conversations, customer stories, a hackathon, and the Grounded Reasoning Cup showcased how OpenAI's frontier intelligence and Databricks' enterprise context and governance are helping organizations build production-ready AI.\n\nExplore the biggest moments from the summit, real-world customer deployments, and what's next for the partnership. https://t.co/s5Fr51wzpF",
+    "createdAt": "Mon Jul 06 17:30:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 127614,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMj2L58aoAAy_KP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2074178316819677238",
+    "fullText": "// ReContext //\n\nModels now support 128K context windows and still fail to use evidence that is already in the prompt.\n\nWhere is the gap?\n\nNew paper introduces ReContext, a training-free inference harness for long-context reasoning. It uses model-internal relevance signals to build a query-conditioned evidence pool, then replays that pool right before final generation while preserving the full original context. No training, no external memory, no pruning.\n\nThe context acts as a memory store, the question as a retrieval cue, attention as cue-trace association, and replay as trace reactivation.\n\nAcross eight 128K long-context datasets, ReContext improves evidence utilization on Qwen3-4B, Qwen3-8B, and Llama3-8B, taking the best average rank on all three backbones. Code is public.\n\nPaper: https://t.co/kt89yUq1DB\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Mon Jul 06 17:07:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292496,
+      "friendsCount": 8307,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2074178292777918601",
+    "fullText": "Turning grace into entitlement is the original sin.",
+    "createdAt": "Mon Jul 06 17:06:56 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "ceobillionaire",
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149676,
-      "friendsCount": 5383,
+      "followersCount": 149680,
+      "friendsCount": 5384,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMj1jxGWQAAEMiV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2074177626952941811",
+    "fullText": "Alpha Business Ω‑Lattice Foundry\n\n[ 🏛️ Large‑Scale α‑AGI Business 3 👁️✨ — Omega‑Grade Edition ]\n\nAlpha‑Factory v1 → Ω‑Lattice v0\n\n🪐 Transmuting cosmological free‑energy gradients into compounding cash‑flows.\n\nDemo: https://t.co/H4vdYd1cPa\n\nThe interface dynamically generates:\n\ndomain classification\nrisk class\nfree-energy / opportunity gradient map\ncandidate invention cards\nproof-debt register\nAGI Job queue\nAGIJobManager-style JobSpecURI plans\nProofBundle template\nEvidence Docket 6.1\nproof-economy ledger\nChronicle gate\ndynamic ZIP dossier\n\n#AGIALPHA #MontrealAI #QuebecAI",
+    "createdAt": "Mon Jul 06 17:04:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292496,
+      "friendsCount": 8307,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2074175903564021779",
+    "fullText": "The government will make models train on time.",
+    "createdAt": "Mon Jul 06 16:57:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 256646,
+      "friendsCount": 164,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2074157845092741120/vid/avc1/1080x1080/QtFq6bTINS3ppe2-.mp4?tag=28",
+      "https://video.twimg.com/amplify_video/2074157845109477376/vid/avc1/1080x1080/06pS_tfcllsocVew.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2074173885155553745",
+    "fullText": "We're taking Interrupt on the road this fall with two new stops in NYC and London.\n\n🗽 NYC: September 24\n\n🇬🇧 London: October 13\n\nGet your tickets now! https://t.co/fPMwmmdSxf https://t.co/2E5fpFNGec",
+    "createdAt": "Mon Jul 06 16:49:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149680,
+      "friendsCount": 5384,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMjxEq8WYAAc37f.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2074172694833094825",
+    "fullText": "MASTER.ASI.Eth Blueprint Gateway\n\nTheme: \"🌌 The Gates Of Superintelligence Are BREACHING Reality.\"\n\nMASTER.ASI.Eth is not a tool — it is a living blueprint to forge civilizations from pure code.\n\nMASTER.ASI.Eth is the myth.\nGoalOS is the gate.\nProof decides what may become real.\n\nDemo : https://t.co/p5eZqZeOEo\n\n#AGIALPHA #ASIFirst #MontrealAI",
+    "createdAt": "Mon Jul 06 16:44:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292496,
+      "friendsCount": 8307,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2074170887243456819",
+    "fullText": "I don’t think people have fully understood how big of a deal government making Anthropic pull Fable from their offerings was. It effectively ended the whole “move fast and break things” era of Silicon Valley. There is no going back to that mindset any more.",
+    "createdAt": "Mon Jul 06 16:37:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 403828,
+      "friendsCount": 862,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2074165891353186304/vid/avc1/1280x720/InBGHvLBpZX1H1EC.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2074167715460165757",
+    "fullText": "Back pain sucks; AI could provide the answer to it. \n\nElon: \"So, if you've got humanoid robots that have very high dexterity and are incredibly smart, it means that everyone on Earth will have access to better medical care than the richest person on Earth, which I had to have neck surgery three times because the first two ones were done wrong. You know, can AI please solve back pain? That would be a huge win, and I think it will.\"",
+    "createdAt": "Mon Jul 06 16:24:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292496,
+      "friendsCount": 8307,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2074166139853341025",
+    "fullText": "What is the first thing you’ll use 5.6 for?",
+    "createdAt": "Mon Jul 06 16:18:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 403828,
+      "friendsCount": 862,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2074163214862967019",
+    "fullText": "People assume I run competitions with XPRIZE to crown winners, but that's not true.  I began it to make the impossible look POSSIBLE.\nThe instant one team proves a thing can be done without government intervention or bureaucracy has shown that history can change.",
+    "createdAt": "Mon Jul 06 16:07:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 317219,
+      "friendsCount": 880,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMjoDcoWsAAtJDY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2074162777535516985",
+    "fullText": "How much can an LLM memorize? \n\nThis ICML paper separates unintended memorization from generalization and estimates GPT-style model capacity at about 3.6 bits per parameter, offering a sharper way to reason about data, scaling, and privacy.\n\nYou can read the full paper here 👉 https://t.co/c8KeGPZ3Fk",
+    "createdAt": "Mon Jul 06 16:05:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107289,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMjnV1hWsAAod60.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2074161995377471610",
+    "fullText": "Large language models now power everything from educational tutors to healthcare assistants. But are they actually benefiting the people who use them? A @StanfordHAI industry report examines what human-centered LLM development looks like in practice: https://t.co/nKZd661Sl3 https://t.co/YNtcLeAyuO",
+    "createdAt": "Mon Jul 06 16:02:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 346922,
+      "friendsCount": 20460,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMjm7Q5WsAAzLyV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2074161536650682692",
+    "fullText": "Free tutorials to help you learn programming tools, v/@ComputerrBooks. https://t.co/LiMInO5D86",
+    "createdAt": "Mon Jul 06 16:00:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 256646,
+      "friendsCount": 164,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2074155722867179520/vid/avc1/1920x1080/_ng7Lv35MTworEI6.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2074160151783764183",
+    "fullText": "How to run agent evals with @harborframework and LangSmith sandboxes, full traces included. https://t.co/DtE8LhDCQl",
+    "createdAt": "Mon Jul 06 15:54:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149680,
+      "friendsCount": 5384,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMjkTPUXIAA5OeG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2074158650608763374",
+    "fullText": "Invention Compounding Foundry\n\nCore demo:\n\n\"At the substrate, an invention-automation machine is coming online — one in which intelligence compounds by turning each invention into leverage for the next.\"\n\nDemo : https://t.co/ZJiQqsP3SJ\n\nThe interface demonstrates this interactive loop:\n\nInvention target\n→ candidate inventions\n→ proof debt\n→ AGI Jobs\n→ ProofBundle template\n→ Evidence Docket\n→ RSI gates\n→ Chronicle HOLD\n→ validated capability\n→ future mission leverage\n\n#AGIALPHA #MontrealAI #QuebecAI",
+    "createdAt": "Mon Jul 06 15:48:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 210208,
+      "friendsCount": 593,
+      "location": "Venice, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2074157658605531280",
+    "fullText": "is this really a hot take?\n\nsuspending the suspension that accompanies\n\na red card that was fairly obviously the worst call of the tournament, \nwhich call was made by a ref with checkered ties to match fixing operations in the past,\nguided by a VAR crew that misapplied the appropriate use of VAR,\nwhen the team receiving that red card has already survived the much worse consequences of said red (playing a man down.)\n\nis the right thing to do.",
+    "createdAt": "Mon Jul 06 15:44:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
+      "followersCount": 1468766,
+      "friendsCount": 277,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HMji9aeW0AAfKJi.mp4"
+    ],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/2074157282477154597",
+    "fullText": "As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖\n\nFind out more → https://t.co/mo9QykKn4H https://t.co/5Ena9WLlJ9",
+    "createdAt": "Mon Jul 06 15:43:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 722833,
+      "friendsCount": 496,
+      "location": "Redmond, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMjeMB3WUAAQW6Q.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2074152085793145161",
+    "fullText": "Healthcare is the most important application of AI: making humans happier + healthier. Our recently published paper \"Public use of a generalist LLM chatbot for health queries\" made the front cover of Nature Health. So proud of the team!\nhttps://t.co/Bqup7eavSE https://t.co/J6YmnPm1oR",
+    "createdAt": "Mon Jul 06 15:22:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 210208,
+      "friendsCount": 593,
+      "location": "Venice, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2074146921707450550",
+    "fullText": "Though I'm still mourning the loss of the Model X\n\nThe 6 seat Model Y at ~2/3rds to ~half provides a clean replacement (without the insanely complex/costly/difficult to manufacture falcon wing doors)\n\nhttps://t.co/6p5UB63dHZ",
+    "createdAt": "Mon Jul 06 15:02:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149680,
+      "friendsCount": 5384,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMjZN1OXwAAw60C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2074146463580348501",
+    "fullText": "Proof Debt → AGI Jobs Foundry\n\nThe LLM drafts.\nGoalOS proves.\nUnsupported output becomes executable work.\n\nDemo : https://t.co/5Rl75yIyt4\n\nCore rule demonstrated:\n\nWhat an LLM cannot reliably prove, verify, replay, validate, source, audit, or certify,\nGoalOS converts into AGI Jobs.\n\nLLM candidate output\n→ unsupported claim check\n→ Proof Debt\n→ AGI Jobs\n→ AGI Agents / humans complete jobs\n→ AGI Nodes / reviewers validate\n→ ProofBundles return\n→ Evidence Docket updates\n→ only validated capability can compound\n\n#AGIALPHA #MontrealAI #QuebecAI",
+    "createdAt": "Mon Jul 06 15:00:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 134027,
+      "friendsCount": 540,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2074065211980382208/vid/avc1/1080x1920/C6WSQUQqP7bD0m5o.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2074146351080783970",
+    "fullText": "Every emotion is saying I love you ❤️ https://t.co/ZVgq8IheHk",
+    "createdAt": "Mon Jul 06 15:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149680,
+      "friendsCount": 5384,
       "location": "Montréal · Québec"
     },
     "images": [
