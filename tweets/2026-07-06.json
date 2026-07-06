@@ -1,11 +1,65 @@
 [
   {
     "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
+      "description": "Co-founder at @HuggingFace - moonshots - angel",
+      "followersCount": 119035,
+      "friendsCount": 7463,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2074045074887831552/vid/avc1/2806x1994/8gj7zcsXbg4-6-CI.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/2074064916089036916",
+    "fullText": "Fable weekend project: agent collaboration, but make it a tiny civilization 🌇🗺️🏦🏭\n\nwe've recently launched a living wiki on Reinforcement Leaning for training LLMs on @huggingface\n\nit's an open collaboration of agents constantly reading old and new papers on the topic, writing arXiv paper digests, reviewing each other’s work in PRs before publication, and building a shared wiki/book summarizing everything we know about RL for training LLMs (for humans to read)\n\nthe wiki is already amazing to read, but i wanted another way to get a pulse of the collaboration beyond just reading the message dashboard\n\nso i asked Fable & GPT Image 2 to turn the event logs into an isometric town where agents would go to:\n☕ Café → post and reply on the message board\n📚 sources library → open PRs adding arXiv digests\n📖 wiki library → open PRs on the main wiki\n⚖️ Courthouse → review other agents’ work\n🏭 printing press → merge and publish updates\n\nnot sure it makes the whole collaboration really easier to understand, but it's definitly fascinating to watch hahah\n\n- join the RL for training LLM collaboration by pasting a one-liner for your agent here:\nhttps://t.co/XEAI8bsq7Y\n- read the wiki if you want to learn about RL for training LLMs:\nhttps://t.co/xEouw4WarH\n- watch the RL town activity:\nhttps://t.co/OvLWLwUxRz",
+    "createdAt": "Mon Jul 06 09:36:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36137,
+      "friendsCount": 1752,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMhtVstbQAAXvn8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2074037637850296744",
+    "fullText": "腾讯刚刚开源了：混元Hy3，295B总参数激活21B，性能打平2-5倍参数的旗舰模型\n\n主打一个Agent场景下的可靠性，其内部评测模型幻觉率从12.5%降至5.4%，常识错误率从25.4%降至12.7%\n\n多轮对话翻车率从17.4%降至7.9%，长对话理解从42.9%提升至 75.1%\n\n270位专家盲测，Hy3得分2.67/4，GLM-5.1 2.51/4，在前端开发、CI/CD、数据与存储等类别优势最明显\n\n模型上下文长度256K、支持快慢思考模式切换、带了一层 MTP层，部署时开推测解码可以加速推理\n\n#Hy3 #腾讯混元",
+    "createdAt": "Mon Jul 06 07:48:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5694,
+      "friendsCount": 1178,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2073836309148565504/vid/avc1/1280x720/RNjh770D2Mo5g03p.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2074037554308165719",
+    "fullText": "https://t.co/AMqlyseCYZ",
+    "createdAt": "Mon Jul 06 07:47:41 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 230771,
+      "followersCount": 230809,
       "friendsCount": 7057,
       "location": ""
     },
@@ -21,7 +75,7 @@
       "name": "Wei Xu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1823743197098729496/a6avHXob_normal.jpg",
       "description": "CS professor @GeorgiaTech @gtcomputing @ICatGT @mlatgt. Evaluating & Improving LLMs (multilingual, reasoning, RL, multi-turn, privacy/safety, etc.)",
-      "followersCount": 11513,
+      "followersCount": 11520,
       "friendsCount": 1300,
       "location": "Atlanta, GA"
     },
@@ -39,7 +93,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 327775,
+      "followersCount": 327779,
       "friendsCount": 200,
       "location": "London"
     },
@@ -57,7 +111,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 472901,
+      "followersCount": 472934,
       "friendsCount": 1518,
       "location": "Austin, TX"
     },
@@ -73,7 +127,7 @@
       "name": "Wei Xu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1823743197098729496/a6avHXob_normal.jpg",
       "description": "CS professor @GeorgiaTech @gtcomputing @ICatGT @mlatgt. Evaluating & Improving LLMs (multilingual, reasoning, RL, multi-turn, privacy/safety, etc.)",
-      "followersCount": 11513,
+      "followersCount": 11520,
       "friendsCount": 1300,
       "location": "Atlanta, GA"
     },
@@ -89,7 +143,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36138,
+      "followersCount": 36137,
       "friendsCount": 1752,
       "location": ""
     },
@@ -107,7 +161,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 134005,
+      "followersCount": 134018,
       "friendsCount": 540,
       "location": ""
     },
@@ -128,7 +182,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 472901,
+      "followersCount": 472934,
       "friendsCount": 1518,
       "location": "Austin, TX"
     },
@@ -144,7 +198,7 @@
       "name": "EleutherAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1655977252385959937/YXw25zwq_normal.jpg",
       "description": "A non-profit research lab focused on interpretability, alignment, and ethics of AI. Creators of Pythia, VQGAN-CLIP, and using SAEs for interp",
-      "followersCount": 28257,
+      "followersCount": 28261,
       "friendsCount": 103,
       "location": ""
     },
@@ -163,7 +217,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 472901,
+      "followersCount": 472934,
       "friendsCount": 1518,
       "location": "Austin, TX"
     },
@@ -179,7 +233,7 @@
       "name": "Riley Goodside",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
       "description": "Mostly screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
-      "followersCount": 215911,
+      "followersCount": 215949,
       "friendsCount": 3508,
       "location": "Virginia, USA"
     },
@@ -197,7 +251,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36138,
+      "followersCount": 36137,
       "friendsCount": 1752,
       "location": ""
     },
@@ -213,7 +267,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36138,
+      "followersCount": 36137,
       "friendsCount": 1752,
       "location": ""
     },
@@ -232,7 +286,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
       "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 472901,
+      "followersCount": 472934,
       "friendsCount": 1518,
       "location": "Austin, TX"
     },
@@ -248,8 +302,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 390301,
-      "friendsCount": 13068,
+      "followersCount": 390562,
+      "friendsCount": 13069,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -264,7 +318,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 703353,
+      "followersCount": 703368,
       "friendsCount": 827,
       "location": "United States"
     },
@@ -280,8 +334,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 390301,
-      "friendsCount": 13068,
+      "followersCount": 390562,
+      "friendsCount": 13069,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -296,7 +350,7 @@
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
       "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
-      "followersCount": 118635,
+      "followersCount": 118656,
       "friendsCount": 10489,
       "location": "San Francisco, CA"
     },
@@ -312,7 +366,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 127529,
+      "followersCount": 127571,
       "friendsCount": 1,
       "location": ""
     },
@@ -330,7 +384,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 327775,
+      "followersCount": 327779,
       "friendsCount": 200,
       "location": "London"
     },
@@ -346,7 +400,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486465,
+      "followersCount": 486494,
       "friendsCount": 3368,
       "location": "Maryland, USA"
     },
