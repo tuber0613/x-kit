@@ -1,0 +1,658 @@
+[
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36147,
+      "friendsCount": 1753,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2074297400022519852",
+    "fullText": "给 Claude 装上\"看视频\"的能力：甩一个 YouTube/X/TIKTOK 或本地链接，它替你把画面看完、把声音听完，再回答你的问题——而且专门做了帧去重和 token 预算，不让你为一个半小时的视频烧爆上下文。\n\nclaude-video 是个 skill：你给一个 URL 或本地文件 + 一个问题，它自动 yt-dlp 下载 → ffmpeg 抽帧 → 优先拿免费字幕（没有才用 Whisper 转录）→ 把带时间戳的帧和文字一起交给 Claude，Claude 用多模态 Read 把每一帧当图片看进去。等它回答时，是真看过画面、真听过声音，不是\"根据标题推测\"。YouTube / TikTok / X / Loom / 本地 mp4 都行，一行装、零配置。\n\n这是我聊过的第二个\"让 AI 搞视频\"的项目，但它跟之前的 video-use给了完全相反的答案：\n\nvideo-use 的信条是\"LLM 不看视频、只读结构化文本\"，把 token 省到极致；claude-video 偏要把真实帧喂给模型。问题是图像 token 很贵——它的解法不是硬扛，而是把\"帧预算\"当成整个项目的核心工程问题来做。\n\n这部分是它真正的技术含量所在：\n\n1、四档 detail 实测（同一个 49 分钟视频）：transcript 只读字幕，0 帧、4.5 秒、0 图像 token；efficient 只重建关键帧，50 帧、0.5 秒、约 9.8k token（比场景模式快约 40×）；balanced 场景切帧 100 张、约 19.7k；token-burner 不封顶。一个旋钮，从\"几乎免费\"滑到\"全覆盖\"。\n\n2、去重狠且轻：每帧先缩成 16×16 灰度缩略图，跟\"上一张保留的帧\"算平均像素差，≤2.0 就判近重复丢掉——纯标准库，不引任何图像处理库。专门比\"保留帧\"而不是\"前一帧\"，是为了抓那种一帧帧都不触发阈值的慢速渐变。一张按住 90 秒的幻灯片产生的十几帧，压成一帧。\n\n3、auto-fps：按时长自动定预算（30 秒给约 30 帧，超 10 分钟封顶 100 并警告\"稀疏扫描\"），免得你拿 100 帧去稀疏扫一个半小时的视频、白烧 context。\n\n商业化赚钱上：可以用它拆解对手爆款视频的\"钩子结构\"、把竞品发布会\"去水挑干货\"、整个播客转成可搜索笔记——每一个都能包成给 marketer 的垂直 SaaS。\n\n安装部署： \n～Claude Code 里/plugin install watch@claude-video；\n～Codex / Cursor / Gemini CLI 等 50+ host 用 npx skills add bradautomates/claude-video -g；\n～https://t.co/ewcTTZ3mLE 网页版传 .skill 文件。公开视频的字幕基本全免费，只有真没字幕的（本地文件、部分 TikTok）才需要配个 Groq 或 OpenAI 的 key。\n\n最近分享的AI 视频大致可以有三层：生成（Jellyfish的短剧流水线）、剪辑（video-use的一键成片）、看懂（claude-video）。\n\n#ClaudeVideo #watch #AI视频 #AgentSkills #开源",
+    "createdAt": "Tue Jul 07 01:00:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016256482833035264/kVHK8w3e_normal.jpg",
+      "description": "Founder/CEO https://t.co/m6TigM5azr: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 472991,
+      "friendsCount": 1518,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2074293824742969499",
+    "fullText": "Sloppy sloppy sloppy from the US.\n\nStill in the game, but won’t win like this.\n\nAnd Spain would crush us. Need to clean it up.",
+    "createdAt": "Tue Jul 07 00:46:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36147,
+      "friendsCount": 1753,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMle_lebkAACzHf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2074293602080244209",
+    "fullText": "你的 agent 跑到第 40 步崩了，通常只能从头再来。如果它能像 git 一样倒回第 39 步、换条路重跑，而且重放还复用 95% 的 KV 缓存呢？\n\n有人给 AI agent 的执行过程做了个\"git\"——任意一步都能 fork、重放、回退，重放还复用 95% 的 KV 缓存，专门用来让一个 agent 去监督和训练另一个 agent：这个开源项目就是shepherd。\n\n可以说它是\"agent runtime 的版本管理框架\"，但补一层：版本管理是机制，目的是让你写 meta-agent——用来监督、优化、训练别的 agent 的高阶 agent。执行过程一旦变成可回退、可重放的对象，\"一个 agent 盯着另一个 agent 干活\"才第一次变得可编程。\n\n最该看的三个点：\n\n1、监督 agent：管住并行的编程 agent间别互相打架，CooperBench 通过率从 28.8% 拉到 54.7%\n\n2、反事实优化：改一处再重放来修工作流，Terminal-Bench 2.0 上比 MetaHarness 高 12.8%，墙钟时间还少 58%\n\n3、RL 训练 agent：靠选 fork 点改善信用分配，把 GRPO 的提升翻了一倍\n\n能做到这些靠底层是两个设计：\n\n一、fork 的是 【agent + 环境】一起：copy-on-write 复制，比 docker commit 快约 5 倍，重放时复用约 95% 的 KV 缓存——所以\"回退重跑\"不是重头烧一遍 token，这才让 RL 那种要反复试错的玩法跑得起。\n\n二、【函数签名就是权限面】： 一个 task 是没有函数体的 Python 函数，签名 + docstring 就是契约；你在参数上标 ReadOnly / ReadWrite，这个授权会被编译进系统调用级的 jail（macOS Seatbelt / Linux Landlock）——越权写在 syscall 层就被拒，不是等到 merge 那一刻才拦。\n\n这点值得跟之前聊的 [webbrain] 对照：webbrain 用 /allow-api 这类软策略提醒你 agent 要改数据了；shepherd 直接把边界焊死在内核。一个是\"告诉你它想干嘛\"，一个是\"它根本干不成\"。\n\n而且 agent 产出默认是 retained output——先当提案存在一边，你 select / discard 之前，它碰不到你的真实文件。\n\n这也接上了库里的 [[loop-engineering]]：那个项目讲的是\"自动化会欠债、得分级放权\"；shepherd 给的正是把放权落到运行时的底座——每一步可审、可撤、可拒。\n\n商业化怎么看： 它是 infra 层，\"可回放的 agent 执行 trace\"对做多 agent 系统的公司是 debug、评测和 RL 数据的金矿——最直接的一条路是做 agent observability + 训练平台：类似 LangSmith，但更底层、自带 fork/revert，能把线上失败的 run 直接变成可复现的训练样本。\n\n想给你的多 agent 系统装个\"撤销键\"，别等agent上线炸了才后悔——今晚花十分钟把 shepherd 跑通，感受一下\"agent 执行可以像代码一样回滚\"是什么体感。\n\n#Shepherd #MetaAgent #AgentRuntime #可逆执行 #开源 #langsmith",
+    "createdAt": "Tue Jul 07 00:45:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149668,
+      "friendsCount": 5382,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlYl9hWYAAvVI1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2074286516290113690",
+    "fullText": "🚀🌕 AGI Alpha Ascension Mission Control\n\nThe next giant leap is not just bigger models.\nIt is proof-gated execution.\n\nIdentify → Learn → Think → Design → Strategise → Execute\n\nGoalOS turns AI output into validated capability.\n\nDemo : https://t.co/qbLqeLIZWb\n\n$AGIALPHA #AGIFirst",
+    "createdAt": "Tue Jul 07 00:16:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 530394,
+      "friendsCount": 50,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2074280703504826643",
+    "fullText": "Gemini Spark is currently available in Beta for Google AI Ultra subscribers in the U.S., and our team is working hard to bring Gemini Spark to more countries later this month.\n\nLearn more about Gemini Spark here: https://t.co/eVeR09mT6b",
+    "createdAt": "Mon Jul 06 23:53:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 530394,
+      "friendsCount": 50,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2074280701948829829",
+    "fullText": "Here’s how to use Gemini Spark to set up custom emails after your favorite team plays:\n1) Open https://t.co/382WL5xSvc or the app\n2) Tap “Spark” in the side menu\n3) Insert the following prompt: “Email me a match summary and analysis after each [INSERT TEAM] soccer match.”",
+    "createdAt": "Mon Jul 06 23:53:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 530394,
+      "friendsCount": 50,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2074280473581572600",
+    "fullText": "Gemini Spark can now intelligently track topics and react to events in real time. \n\nTry the prompt in the next post to get tailored game analyses emailed to you after your favorite team plays:",
+    "createdAt": "Mon Jul 06 23:52:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 470097,
+      "friendsCount": 1543,
+      "location": "CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlN0J_XgAAJAfr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2074274666709987663",
+    "fullText": "Atlanta-based real estate company saved $100k by replacing Salesforce with their Replit-built CRM. https://t.co/3l7t6VljVw",
+    "createdAt": "Mon Jul 06 23:29:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 91966,
+      "friendsCount": 922,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlNogCWsAAniBJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2074274465198825725",
+    "fullText": "Let’s goooo USA 🇺🇸🦅🏆 https://t.co/dEjnIWVd25",
+    "createdAt": "Mon Jul 06 23:29:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlL0HLXwAAfDiF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074272464884940956",
+    "fullText": "The AI Value Playbook — How to make AI work in the real world (with insights from many different experts — developers &amp; practitioners): https://t.co/FXsXDyvLkW v/ @PacktDataML\n—————\n#GenAI #MachineLearning #ML #DataScience #DataScientist #CDO #CTO #CEO #CMO #CAIO https://t.co/quXZPPEUAT",
+    "createdAt": "Mon Jul 06 23:21:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlLakAW0AAzoxt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074272026244608102",
+    "fullText": "Amazing historical fact 👉 Chemical engineer Harrison Ruffin Tyler was the last surviving grandson of the 10th U.S. President, John Tyler. Harrison died just last year, in late May 2025 at the age of 96. President Tyler, Harrison’s grandfather, was born 235 years earlier, in 1790, the second year of George Washington’s presidency.",
+    "createdAt": "Mon Jul 06 23:19:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlK8WxXwAEOvcQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074271507174346969",
+    "fullText": "Data Engineering Best Practices — Architect robust and cost-effective data solutions in the cloud era: https://t.co/yh1NRvrB6q v/ @PacktDataML\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟠 Architect and engineer optimized data solutions in the cloud with best practices for performance and cost-effectiveness\n🟠Explore design patterns and use cases to balance roles, technology choices, and processes for a future-proof design\n🟠 Learn from experts to avoid common pitfalls in data engineering projects\n🟠Purchase of the print or Kindle book includes a free PDF eBook",
+    "createdAt": "Mon Jul 06 23:17:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlK46FXwAAgztk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074271447531327771",
+    "fullText": "Data Engineering with Google Cloud Platform GCP — A Guide to leveling up as a Data Engineer by building a scalable data platform with Google Cloud: https://t.co/cn5l2KqgeQ [2nd Edition] v/ @PacktDataML\n\n————\n#DataAnalytics #Analytics #CDO #CTO #AI #ML #MLOps https://t.co/EWnY5ZaGnI",
+    "createdAt": "Mon Jul 06 23:17:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlKV7UWkAAh3Jk.jpg",
+      "https://pbs.twimg.com/media/HMlKrViXgAE9cNF.jpg",
+      "https://pbs.twimg.com/media/HMlKrVdWkAA4j6-.jpg",
+      "https://pbs.twimg.com/media/HMlKrVWWIAAePtr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074271215166886065",
+    "fullText": "Explore TOP #Artificialintelligence Books for reading, learning, growing your knowledge and advancing your career: https://t.co/jd4NpyYF7x\n———\n🌟🌟\n———\n#DataScience #DataMining #MachineLearning #AI #DeepLearning #Mathematics #GenerativeAI #LLMs #Algorithms #DataScientist #Python https://t.co/d2cKuUZGPc",
+    "createdAt": "Mon Jul 06 23:16:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlKV7UWkAAh3Jk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074270848257544703",
+    "fullText": "Explore TOP #Artificialintelligence Books for reading, learning, growing your knowledge and advancing your career: https://t.co/jd4NpyYF7x\n———\n🌟🌟\n———\n#DataScience #DataMining #MachineLearning #AI #DeepLearning #Mathematics #GenerativeAI #LLMs #Algorithms #DataScientist #Python https://t.co/3ln3ZEn10b",
+    "createdAt": "Mon Jul 06 23:14:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlKOevWAAA0Kgq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074270718787768473",
+    "fullText": "Basic Mathematical Foundations of AI — Hands on with Python: https://t.co/syc5K859yc https://t.co/ht6iOfwpz0",
+    "createdAt": "Mon Jul 06 23:14:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlKJq1XYAA3Y-_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074270636382310700",
+    "fullText": "Learn Python Programming in this comprehensive, definitive guide [616 pages. 4th edition]: https://t.co/GV8Vp20Nh6 v/ @PacktDataML\n \n 𝓦𝓱𝓪𝓽 𝔂𝓸𝓾 𝔀𝓲𝓵𝓵 𝓵𝓮𝓪𝓻𝓷:\n🟢Install and set up Python on Windows, Mac, and Linux\n\n🟣Write elegant, reusable, and efficient code\n\n🔵Avoid common pitfalls such as duplication and over-engineering\n\n🟠Use functional and object-oriented programming approaches appropriately\n\n🟢Build APIs with FastAPI and program CLI applications\n\n🟣Understand data persistence and cryptography for secure applications\n\n🔵Manipulate data efficiently using Python's built-in data structures\n\n🟠Package your applications for distribution via the Python Package Index (PyPI)\n\n🟢Solve competitive programming problems with Python",
+    "createdAt": "Mon Jul 06 23:13:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlJ8bPX0AAVsQO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074270408799330815",
+    "fullText": "Learn Quantum Computing with Python and IBM Quantum — Write your own practical quantum programs [2nd Edition]: https://t.co/YbJbYOi5AZ v/ @PacktDataML\n \n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n\n🟠Get familiar with the features within the IBM Quantum Platform\n\n🔴Create and visualize quantum gates and circuits\n\n🟠Operate quantum gates on qubits using the IBM Quantum Composer\n\n🔴Install and run your quantum circuits on an IBM Quantum computer\n\n🟠Discover Qiskit and its many features such as the Qiskit Runtime\n\n🔴Get to grips with fundamental quantum algorithms and error mitigation techniques to help you get started\n\n🟠Understand the new era of quantum utility and how this moves us closer towards quantum advantage",
+    "createdAt": "Mon Jul 06 23:12:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlJ34DXwAASdW1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074270330546254006",
+    "fullText": "Machine Learning and Generative AI for Marketing using Python — https://t.co/mNksKv5My4 v/ @PacktDataML\n \nKey Features:\n\n🟠Enhance customer engagement and personalization through predictive analytics and advanced segmentation techniques\n\n🟠Combine Python programming with the latest advancements in generative AI to create marketing content and address real-world marketing challenges",
+    "createdAt": "Mon Jul 06 23:12:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlJzu0WAAA8FCs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074270259633123412",
+    "fullText": "“Generative AI with Python: The Developer’s Guide to Pretrained LLMs, Vector Databases, Retrieval Augmented Generation, and Agentic Systems”\n\nAvailable at https://t.co/mOI8IfawGo https://t.co/XXVVCNZnFV",
+    "createdAt": "Mon Jul 06 23:12:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlJurLWIAApGnh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074270173050134824",
+    "fullText": "Data Without Labels — Models and Algorithms for Practical Unsupervised Machine Learning: https://t.co/8adzWdcbrU\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n\n🔶Fundamental building blocks and concepts of machine learning and unsupervised learning\n🔶Data cleaning for structured and unstructured data like text and images\n🔶Clustering algorithms like K-means, hierarchical clustering, DBSCAN, Gaussian Mixture Models, and Spectral clustering\n🔶Dimensionality reduction methods like Principal Component Analysis (PCA), SVD, Multidimensional scaling, and t-SNE\n🔶Association rule algorithms like aPriori, ECLAT, SPADE\n🔶Unsupervised time series clustering, Gaussian Mixture models, and statistical methods\n🔶Building neural networks such as GANs and autoencoders\n🔶Dimensionality reduction methods like Principal Component Analysis and multidimensional scaling\n🔶Association rule algorithms like aPriori, ECLAT, and SPADE\n🔶Working with Python tools and libraries like sci-kit learn, numpy, Pandas, matplotlib, Seaborn, Keras, TensorFlow, and Flask\n🔶How to interpret the results of unsupervised learning\n🔶Choosing the right algorithm for your problem\n🔶Deploying unsupervised learning to production\n🔶Maintenance and refresh of an ML solution",
+    "createdAt": "Mon Jul 06 23:12:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlJjE5W8AAgDNc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074269973510250497",
+    "fullText": "🚀🌟💫\n\"Python in Excel Step-by-Step\" - by @DaveOnData\n\nGet the book here: https://t.co/1dBzhX5ja4\n\n#DataScience #DataScientist #DataAnalyst https://t.co/bZ1nYn56Su",
+    "createdAt": "Mon Jul 06 23:11:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlJQO1XIAAKTUG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074269649563267189",
+    "fullText": "Pandas for Everyone — Python Data Analysis (Addison-Wesley Data &amp; Analytics Series - 2nd Edition): https://t.co/DFw2pJlRTZ https://t.co/wJAKFRZJip",
+    "createdAt": "Mon Jul 06 23:09:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlIy6XWgAA4pv-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074269203767431488",
+    "fullText": "Simple Practical Data Cleaning Python Code Snippets for messy data: https://t.co/d982YmvjUb\n+\nData Cleaning Cookbook to prepare your data for analysis — PANDAS, NumPy, Matplotlib, scikit-learn, etc.: https://t.co/6AxvYTItfJ v/ @PacktDataML\n—————\n#DataScience #DataScientist https://t.co/m2ZbWj1XCV",
+    "createdAt": "Mon Jul 06 23:08:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlItcHXEAAQojQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074269051661009184",
+    "fullText": "Exploratory Data Analysis with #Python Cookbook — 50+ EDA recipes to analyze, visualize, and extract insights from structured &amp; unstructured data…\n\nStart exploring here: https://t.co/7FKkvzMXqP by @AyoOluleye v/ @PacktDataML https://t.co/Z9qgL5DCbr",
+    "createdAt": "Mon Jul 06 23:07:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlIo5vXkAAcb-o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074268973873443281",
+    "fullText": "Pandas Cookbook — Practical recipes for scientific computing, time series and exploratory data analysis using Python: https://t.co/8yjkkCl8h0 v/ @PacktDataML [3rd ed.]\n\n𝓦𝓱𝓪𝓽  𝓨𝓸𝓾  𝓦𝓲𝓵𝓵  𝓛𝓮𝓪𝓻𝓷:\n🟠The PANDAS type system - how to best navigate it\n🟢Import/export DataFrames to/from common data formats\n🔵Data exploration in PANDAS through dozens of practice problems\n🟣Grouping, aggregation, transformation, reshaping, and filtering data\n🔴Merge data from different sources through PANDAS SQL-like operations\n🟡Leverage the robust PANDAS time series functionality in advanced analyses\n🔵Scale PANDAS operations to get the most out of your system\n🟠The large ecosystem that PANDAS complements",
+    "createdAt": "Mon Jul 06 23:07:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlIhz8WUAEbOCn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074268852309897621",
+    "fullText": "3rd Edition! \"Python Feature Engineering Cookbook\",  complete guidebook with recipes for crafting powerful features for Machine Learning models: https://t.co/Yhzc8zV4mg by @Soledad_Galli\n—————\n#AI #ML #DataScience #DataScientist https://t.co/jtOQmUYAc7",
+    "createdAt": "Mon Jul 06 23:06:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlIeipWIAAII6s.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074268795753930823",
+    "fullText": "Python for Finance Cookbook with 80+ powerful recipes for financial data analysis: https://t.co/IOSADqyehl v/ @PacktDataML \n————\n#Fintech #CFO #TimeSeries #PredictiveAnalytics #DataScience #DataScientist #Forecasting https://t.co/PaypejT6vb",
+    "createdAt": "Mon Jul 06 23:06:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlIajEXUAAQsoq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074268727126679810",
+    "fullText": "Modern Python Cookbook (818 pages, 130+ recipes, 3rd Edition): https://t.co/AKOxoa8uwa v/ @PacktDataML\n——————\n#DataScience #DataScientist #MachineLearning #ML #ComputationalScience #Simulation https://t.co/PoEB1rmCrH",
+    "createdAt": "Mon Jul 06 23:06:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlIVRbXUAEAT46.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074268637108793500",
+    "fullText": "💥Scikit-learn Cookbook — 80+ recipes for Machine Learning in Python with scikit-learn [3rd Edition]: https://t.co/Z32D8jP7na v/ @PacktDataML\n\n𝓒𝓸𝓷𝓽𝓮𝓷𝓽𝓼:\n🔹Common Conventions & API Elements of Scikit-Learn\n🔹Pre-Model Workflow and Data Preprocessing\n🔹Dimensionality Reduction Techniques\n🔹Build Models with Distance Metrics & Nearest Neighbors\n🔹Linear Models and Regularization\n🔹Advanced Logistic Regression and Extensions\n🔹Support Vector Machines and Kernel Methods\n🔹Tree-Based Algorithms and Ensemble Methods\n🔹Text Processing and Multiclass Classification\n🔹Clustering Techniques\n🔹Novelty and Outlier Detection\n🔹Cross-Validation and Model Evaluation Techniques\n🔹Deploying Scikit-Learn Models in Production\n\nMy Review (on Amazon):\nI love this book, not only for its amazing content, but also for its brilliant adherence to its \"Cookbook\" label. The table of contents looks repetitive, but that's the magic of it. Find the algorithm, method, or application that you want \"to cook up,\" and the presentation follows a uniform format from chapter to chapter. This is an extraordinarily practical, useful, and reader-friendly style, perfect for the target audience: anyone who needs to use (or is discovering how to use) specific Scikit-learn tools for their Python-based machine learning tasks. Consequently, this is great not only for individual use but also for training workshops and other educational settings. Python code in a cookbook context has never looked so good. IMHO.",
+    "createdAt": "Mon Jul 06 23:05:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlIH19WgAIB8RB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074268406681883058",
+    "fullText": "AI Mastery >> The Complete Machine Learning Engineer Cookbook for Everyone — Become an AI Developer with Python: https://t.co/7N49LDI5Rs\n\nComplete 5-part Learning Path:\n1 - Build Your Foundation\n2 - Assemble Your ML Toolkit\n3 - Discover Deep Learning & Generative AI\n4 - Master Natural Language Processing (NLP)\n5 - Become an Optimization Expert",
+    "createdAt": "Mon Jul 06 23:05:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlIAwKXEAA6a5K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074268284317294800",
+    "fullText": "“Mastering NLP From Foundations to Agents” by Lior Gazit and Meysam Ghaffari, from @PacktDataML\n \n👉➡️ https://t.co/9jDojmUHMZ ⬅️👈\n\n𝗟𝗲𝗮𝗿𝗻 𝘁𝗵𝗶𝘀:\n🔶Engineer NLP systems from ML foundations to LLM architectures\n🔷Implement RAG pipelines, routing layers, and agent workflows\n🔶Fine-tune and align LLMs using LoRA, RLHF, and DPO methods\n🔷Design production-grade AI systems with governance and safety",
+    "createdAt": "Mon Jul 06 23:04:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlH9IPWwAAofld.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074268222988202484",
+    "fullText": "New (2nd edition) from @PacktDataML available at https://t.co/3oUqMLht1G\n\nRAG-Driven Generative AI — Build MAS-RAG with DualRAG, GraphRAG, multimodal video pipelines, and Oracle Database 23ai\n\n𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:\n🟢Master DualRAG by combining vector search with SQL filtering over structured enterprise data.\n\n🟢Implement GraphRAG, Spatial-RAG, and vector search natively in Oracle Database 23ai.\n\n🟢Build multimodal video pipelines with human-feedback loops and fine-tuned models.\n\n𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀 𝘁𝗼 𝘁𝗵𝗲 𝗥𝗲𝗮𝗱𝗲𝗿:\n🟣Bring intelligence directly to the data within Oracle Database 23ai.\n\n🟣Defeat hallucinations and data poisoning with DualRAG, synchronizing vector semantics with structured SQL.\n\n🟣Build MAS-RAG pipelines with Planner, Agent Registry, and MCP-standardized sovereign agents.\n\n🟣Engineer an inference-time router using hybrid adaptive RAG to switch between reasoning, retrieval, and human feedback.\n\n🟣Fuse vector similarity, Oracle Spatial, and SQL Property Graph traversal into a converged hyper-query.\n\n🟣Deploy multimodal video RAG with version-controlled schema registry and semantic vector search over visual assets.",
+    "createdAt": "Mon Jul 06 23:04:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
+      "followersCount": 486530,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlH5T6XcAAC2LG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2074268156764226026",
+    "fullText": "The Self-Taught Cloud Computing Engineer — A comprehensive professional study guide to AWS, Azure, and GCP: https://t.co/8HY35J1szQ v/ @PacktDataML \n——\n𝓚𝓮𝔂 𝓑𝓮𝓷𝓮𝓯𝓲𝓽𝓼:\n🟠Gain a solid foundation in cloud computing with a structured, easy-to-follow guide\n🟠Develop practical skills across AWS, Azure, and Google Cloud, covering compute, storage, networking, data, security, and AI\n🟠Work on real life industrial projects, business use cases, and personal cloud career development\n🟠Purchase of the print or Kindle book includes a free PDF eBook",
+    "createdAt": "Mon Jul 06 23:04:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107290,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2074267397754671527",
+    "fullText": "Generative AI reached 53% population adoption within three years faster than the PC or the internet. While the U.S. ranks 24th in adoption at 28.3%, the estimated value of generative AI tools to consumers in the country reached $172B annually by early 2026.\n\nExplore more findings in #AIIndex2026: https://t.co/Dn3fdiT7Cq",
+    "createdAt": "Mon Jul 06 23:01:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 403832,
+      "friendsCount": 862,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2074266920195661865",
+    "fullText": "One of the greatest humanitarian tragedies in Venezuela’s modern history is unfolding. Hundreds of thousands have lost everything. Every donation helps deliver emergency relief, and every dollar is matched by SquareOne Capital up to US$1M.\n\nPlease help:\n*https://t.co/kKcUkCJWWk*",
+    "createdAt": "Mon Jul 06 22:59:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
+      "followersCount": 85366,
+      "friendsCount": 441,
+      "location": "Seattle, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMkpoOnWwAA4AWi.jpg",
+      "https://pbs.twimg.com/media/HMkpoN9XwAEvJY-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/allen_ai/status/2074234883103162408",
+    "fullText": "We're at #ICML2026 with papers &amp; talks across the conference. Come say hello and learn about our latest research! https://t.co/lvJrUvsTwJ",
+    "createdAt": "Mon Jul 06 20:51:48 +0000 2026"
+  }
+]
