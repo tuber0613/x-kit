@@ -1,12 +1,79 @@
 [
   {
     "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 210191,
+      "friendsCount": 593,
+      "location": "Venice, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMnN3kTWoAA5A71.jpg",
+      "https://pbs.twimg.com/media/HMnN3kiXAAAARmh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2074415902762717464",
+    "fullText": "The Isaac I from @weaverobotics robot is fairly interesting\n(though I suspect that sheer bulk makes it an instant *no* for many)\nEven if it just reduces housework's time burden by a  10% it could unlock a $20 billion addressable market.\n(Though this doesn't take into account the implicit space cost that buyers would assign to hosting that thing in their home.)\nWill be really curious to hear from users.\nhttps://t.co/T66VvOYgla",
+    "createdAt": "Tue Jul 07 08:51:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452610,
+      "friendsCount": 570,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2074411700384587971",
+    "fullText": "I started learning French. Wish me luck. Je vais en avoir besoin.",
+    "createdAt": "Tue Jul 07 08:34:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SchmidhuberAI",
+      "name": "Jürgen Schmidhuber",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
+      "description": "OG of: P and T in ChatGPT, 100x deeper learning, meta learning and RSI, neural distillation, GAN/World Model... Co-authored most-cited AI paper of 20th century",
+      "followersCount": 205535,
+      "friendsCount": 0,
+      "location": "Switzerland, KSA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SchmidhuberAI/status/2074396689880822254",
+    "fullText": "A recent NYT article by @CadeMetz [1] claims that neural network distillation was first developed in 2015 by a team of Google researchers including G. Hinton [2]. Not true! I published the technique in 1991 [3]. [2] failed to cite [3]. See the overviews [4][6].\n\nThe NYT article [1] states: \"... distillation is an effort to copy the behaviour of the system, as opposed to copying the text verbatim.\" That's right! Distillation enables non-trivial forms of plagiarism [5]. \n\nAnnotated References (easy to find on the web):\n\n[1] Cade Metz, New York Times (6 July 2026). \"American AI companies Say Chinese Copycats are Quickly Catching Up\" \n\n[2] O. Vinyals, J. A. Dean, G. E. Hinton (2015). Distilling the Knowledge in a Neural Network. arXiv:1503.02531. [2] did not cite the 1991 neural network distillation procedure [3].\n\n[3] J. Schmidhuber (JS). Learning complex, extended sequences using the principle of history compression. Neural Computation, 4(2):234-242, 1992. Based on TR FKI-148-91, TUM, 1991.\nSee Section 4 on the \"conscious\" chunker and a \"subconscious\" automatiser which introduced a general principle for transferring the knowledge from one neural net (NN) to another. Suppose a teacher NN has learned to predict (conditional expectations of) data, given other data. Its knowledge can be compressed into a student NN, by training the student NN to imitate the behavior of the teacher NN (while also re-training the student NN on previously learned skills such that it does not forget them). In 1991, I called this \"collapsing\" or \"compressing\" one NN into another. Today, this is widely used, and also referred to as \"distilling\" or \"cloning\" the behavior of a teacher NN into that of a student NN. It even works when the NNs are recurrent and operate on different time scales.\n\n[4] JS. Who invented knowledge distillation with artificial neural networks? Technical Note IDSIA-12-25, IDSIA, Nov 2025. https://t.co/w0WhIVGXQx \n\n[5] JS. How 3 Turing awardees republished key methods and ideas whose creators they failed to credit. Technical Report IDSIA-23-23, Swiss AI Lab IDSIA, 2023 (updated 2025).\n\n[6] @hardmaru & JS (2026). Munich 1991: the Roots of the Current AI Boom. With a preface by David Ha.",
+    "createdAt": "Tue Jul 07 07:34:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "lilianweng",
+      "name": "Lilian Weng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923619459643711488/qmXOBhZ1_normal.jpg",
+      "description": "Co-founder of Thinking Machines Lab @thinkymachines; Ex-VP, AI Safety & robotics, applied research @OpenAI; Author of Lil'Log",
+      "followersCount": 264953,
+      "friendsCount": 182,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lilianweng/status/2074372369213428144",
+    "fullText": "new post on harness engineering for AI self-improvement: https://t.co/ZYvGfVs61k\n\nIt is hard to forecast how much the future of RSI will rely on harnesses. Likely harness engineering will evolve in the direction of self-improvement and enable auto-research, and, in turn, smarter models keeps harnesses simple. \n\nEven when many harness improvement get eventually internalized into core model, the need to specify goals and context will not disappear.",
+    "createdAt": "Tue Jul 07 05:58:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "DavidSHolz",
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
       "description": "founder @midjourney, previously founded leap motion, before that was at nasa and max planck - vibeposting @davidvibesonly",
-      "followersCount": 118702,
-      "friendsCount": 10498,
+      "followersCount": 118707,
+      "friendsCount": 10500,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -23,7 +90,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240729376,
+      "followersCount": 240734026,
       "friendsCount": 1366,
       "location": ""
     },
@@ -41,7 +108,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -59,7 +126,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -77,7 +144,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -95,7 +162,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -113,7 +180,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -131,7 +198,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -149,7 +216,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -167,7 +234,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -185,7 +252,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -203,7 +270,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149670,
+      "followersCount": 149672,
       "friendsCount": 5382,
       "location": "Montréal · Québec"
     },
@@ -221,7 +288,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 229677,
+      "followersCount": 229733,
       "friendsCount": 1681,
       "location": "Chicago, IL"
     },
@@ -237,7 +304,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -255,7 +322,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -273,7 +340,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -291,7 +358,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -309,7 +376,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486546,
+      "followersCount": 486554,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -327,7 +394,7 @@
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
-      "followersCount": 102942,
+      "followersCount": 102943,
       "friendsCount": 873,
       "location": "San Francisco"
     },
@@ -343,7 +410,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 158799,
+      "followersCount": 158853,
       "friendsCount": 1272,
       "location": ""
     },
@@ -361,7 +428,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 158799,
+      "followersCount": 158853,
       "friendsCount": 1272,
       "location": ""
     },
@@ -379,7 +446,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 473009,
+      "followersCount": 473026,
       "friendsCount": 1518,
       "location": "Austin, TX"
     },
@@ -395,7 +462,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149670,
+      "followersCount": 149672,
       "friendsCount": 5382,
       "location": "Montréal · Québec"
     },
@@ -413,7 +480,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 158799,
+      "followersCount": 158853,
       "friendsCount": 1272,
       "location": ""
     },
@@ -431,7 +498,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240729376,
+      "followersCount": 240734026,
       "friendsCount": 1366,
       "location": ""
     },
@@ -449,8 +516,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36146,
-      "friendsCount": 1753,
+      "followersCount": 36150,
+      "friendsCount": 1754,
       "location": ""
     },
     "images": [],
@@ -465,7 +532,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 473009,
+      "followersCount": 473026,
       "friendsCount": 1518,
       "location": "Austin, TX"
     },
@@ -481,8 +548,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36146,
-      "friendsCount": 1753,
+      "followersCount": 36150,
+      "friendsCount": 1754,
       "location": ""
     },
     "images": [
@@ -565,7 +632,7 @@
       "name": "Amjad Masad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
       "description": "ceo @replit. civilizationist",
-      "followersCount": 470097,
+      "followersCount": 470214,
       "friendsCount": 1543,
       "location": "CA"
     },
