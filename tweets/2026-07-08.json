@@ -1,11 +1,168 @@
 [
   {
     "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 58071,
+      "friendsCount": 375,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMsDiclWcAATiIN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2074756085785722930",
+    "fullText": "We're introducing Provisioned Throughput: reserved inference capacity for frontier open models, with token-based pricing and a 99% uptime SLA.\n\nServerless simplicity, guaranteed capacity, up to 90% lower cost vs. Opus 4.8.\n\nGet started with MiniMax M3 + GLM-5.2, read more 🧵 https://t.co/VXVEzdNX5i",
+    "createdAt": "Wed Jul 08 07:22:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "YiMaTweets",
+      "name": "Yi Ma",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
+      "description": "Chair Professor in AI, Hong Kong University.\nA Mathematical Theory of Intelligence/Memory:\nhttps://t.co/leZlkURb7j",
+      "followersCount": 121505,
+      "friendsCount": 744,
+      "location": "Hong Kong and Berkeley"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMsDBkfXYAAzjMz.jpg",
+      "https://pbs.twimg.com/media/HMsDBkjXAAApVdt.jpg",
+      "https://pbs.twimg.com/media/HMsDBkgW4AAckGX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/YiMaTweets/status/2074755384930074996",
+    "fullText": "European Summer School in Artificial Intelligence in Vienna, with @qu_1006 and @ZhihuiZhu https://t.co/AdPP4wXTHp",
+    "createdAt": "Wed Jul 08 07:20:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36158,
+      "friendsCount": 1755,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMsAZJVasAIRmaa.png",
+      "https://pbs.twimg.com/media/HMsAbOYbkAALg66.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2074752658661912967",
+    "fullText": "Meta 让生图模型学会了\"先想再画\"，把 test-time compute 这套\"想得久=答得好\"的逻辑搬到了视觉上——它会在思维链里自我修正、写代码画准确图表、联网核对事实，而\"改图能拿更高分\"这件事，是模型在 RL 训练里自己悟出来的。\n\nAI 生图卷了两年画质，Meta 今天换了个维度卷：让模型别再\"一句话直接出图\"，而是像 agent 一样——先在脑子里推理、自我修正、需要时写代码、联网查资料，再把图画出来。\n\n今天上线的 Muse Image（图像）和预览版 Muse Video（视频），是 Meta 超级智能实验室（MSL）的第一批媒体生成模型。图像版已经在 Meta AI app、https://t.co/oh6EhdWtHq、Instagram Stories（仅美国）、WhatsApp（部分国家）能用了，Facebook 和视频版随后。\n\n先把跑分说清楚，别被\"Meta 出手\"带节奏：\n\n～Muse Image 在 Arena 上是文生图第 2、单图编辑第 2、多图编辑第 2（截至 7/5）；\n～Muse Video 是文生视频第 3。\n～都是第 2、第 3，不是第 1。 真正值得看的是它怎么做的，不是它排第几。\n\n它最反直觉的地方：把生图当成一个 agent 流程在跑。\n\n在一个统一的 token 预算里，文本 token 用来推理、视觉 token 用来生成——同一个模型一边想一边画。具体能力有三块：\n\n1、自我修正：在思维链里发现问题就改——细节不对做局部编辑，大错直接整张重画，事实错了就改用工具重来。\n2、会写代码：为了画准确的图表、生成真能扫的二维码而写代码执行；还能接 Muse Spark 直接产出 GIF、网页、可交互小游戏。\n3、会联网搜：给知识密集、涉及时事和真实事实的 prompt 做事实核对——生图这件事第一次开始追求\"画得对\"，而不只是\"画得好看\"。\n\n而这里有个我觉得最耐人寻味的细节：\n它的\"自我修正\"不是工程师设计进去的，是 RL 训练里自己长出来的——因为\"改一版图\"能拿到更高 reward，模型就自发学会了改图。跟昨天聊的 Claude 局部空间一样，又是一个\"能力从奖励里涌现\"的例子。\n\n由此带来一个分水岭级的变化：生图开始\"想得越久、画得越好\"。\n\nMeta 说它随推理时间投入近似 log-linear 提升——而且不是靠\"生成 N 张挑最好\"（best-of-N 很快就饱和），而是靠认真推理在持续 scale。这正是它和纯扩散模型的根本区别：扩散模型是一步到位，Muse 把 test-time compute 这套\"想得久=答得好\"的逻辑搬到了像素上。\n\n安全这块也补了：Content Seal 隐形水印，抗裁剪、压缩、缩放甚至截图，https://t.co/D794mpIHw0 能检测，之后扩到视频。\n\n别人还在卷\"一步出图有多好看\"，Meta 开始卷\"出图之前它想了多少\"——生图的战场，正在从画质挪到过程。\n\n#MuseImage #MuseVideo #MetaAI #MSL #AI生图",
+    "createdAt": "Wed Jul 08 07:09:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240740876,
+      "friendsCount": 1366,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2074740539874775163",
+    "fullText": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow.\n\nIt is an Opus-class model, but faster, more token-efficient and lower cost.",
+    "createdAt": "Wed Jul 08 06:21:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240740876,
+      "friendsCount": 1366,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2071934765486227456/vid/avc1/3240x2160/_h6wmVX0KSG6wown.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2074738585727590547",
+    "fullText": "https://t.co/N4P0qXtDM6",
+    "createdAt": "Wed Jul 08 06:13:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 159088,
+      "friendsCount": 1271,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2074728162018152817",
+    "fullText": "https://t.co/ssMHZtUv23",
+    "createdAt": "Wed Jul 08 05:31:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 390877,
+      "friendsCount": 13081,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2074726301685232104",
+    "fullText": "people who like to write long planning documents have been super vindicated",
+    "createdAt": "Wed Jul 08 05:24:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 58071,
+      "friendsCount": 375,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMri7R1WkAAcXBP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2074720178198155572",
+    "fullText": "Catch us at @RaiseSummit!\n\nOur CEO @vipulved  sits down with @wolfejosh of @Lux_Capital for a fireside chat \"AI Sticker Shock: Open Source as the Answer to Broken Tokenomics\"\n\nJoin us on the Master Stage at 10:20 am! https://t.co/BAR7pqUyWM",
+    "createdAt": "Wed Jul 08 05:00:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "levie",
+      "name": "Aaron Levie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+      "description": "ceo @box - your business lives in content. unleash it with AI",
+      "followersCount": 3025770,
+      "friendsCount": 822,
+      "location": "Bay Area"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/levie/status/2074719479377109312",
+    "fullText": "Just coming off of meetings with a couple dozen enterprise IT leaders discussing AI agents. Here are a few of the common themes that stand out:\n\n* Lots of conversation that you have to solve an operating model challenge to get the full benefits of AI. Most companies have orgs that have always operated in siloes; but agents are most effectively when they are tied to a process, which often cuts across these siloes. So the big question is how do you start to deploy centrally managed agents that can work across organizational boundaries. Who manages these agents? How do they get deployed and adopted? \n\n* Data fragmentation remains a major issue for most organizations. As long as data remains highly fragmented and not in standard formats, or data is not available to the right people and agents, enterprises are dealing with issues around being able to get answers from agents that are accurate or that conform to their business practices. This cuts across both systems with structured data (product metrics or revenue figures) and unstructured data (product roadmap or customer contracts).\n\n* Clear sense that companies need to figure out what their core data moats are going to be in the future. If everyone has access to roughly the same superintelligence from the various models, then the context that you feed the models becomes proprietary value in the future. Capturing this data and getting it into a format that agents can use becomes very important.\n\n* Everyone is trying to figure out the right metrics to manage to for AI adoption. General consensus that tokens are not the right metric per se, and people leaning more toward business outcomes (in an ideal world). For business outcomes (like more revenue or more shipped product), though, you have to get close to each individual workflow to figure out if it was successfully transformed with AI so it’s harder to manage top down.\n\n* Growing view that enterprises are going to live in a multi-model world. Lots of interest (though early in actual adoption) in layers that can route workloads to different models (frontside or open weights) for cost or performance reasons. Also enterprises are trying to figure out what things do you give to the models directly vs. what do you separate as horizontal systems and context so you can swap any system in and out. \n\n* Talent for driving AI adoption and implementation still remains a major issue and topic. Many view it as something you necessarily have to train for internally due to a shortage of talent being trained on this in the outside. As an aside, this feels like it remains a huge opportunity for those that get very good at deploying and management agents in an enterprise since most companies are looking for these skills.\n\n* The best use-cases for AI tend to be those that fundamentally change the work being done instead of just replacing an existing process and doing it more efficiently. Companies are working through their versions of this individually because it’s different per industry, but this often remains both the most exciting and higher upside uses of AI.\n\nMany more topics discussed recently, but overall it’s clear that there’s a ton of change going on with much more to come.",
+    "createdAt": "Wed Jul 08 04:57:24 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -23,7 +180,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -41,7 +198,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -59,7 +216,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -77,7 +234,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -95,7 +252,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -113,7 +270,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -131,7 +288,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -149,7 +306,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 5396459,
+      "followersCount": 5397840,
       "friendsCount": 1019,
       "location": "SF"
     },
@@ -165,7 +322,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -183,7 +340,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149667,
+      "followersCount": 149669,
       "friendsCount": 5386,
       "location": "Montréal · Québec"
     },
@@ -199,7 +356,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -217,7 +374,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -238,7 +395,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4985292,
+      "followersCount": 4987304,
       "friendsCount": 4,
       "location": ""
     },
@@ -256,7 +413,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -274,7 +431,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -292,7 +449,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -310,7 +467,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -331,7 +488,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top #B2B influencer & social promoter #DataScience #AI #ML. PhD Astrophysics @Caltech",
-      "followersCount": 486592,
+      "followersCount": 486596,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -349,7 +506,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 62495,
+      "followersCount": 62496,
       "friendsCount": 11111,
       "location": "San Francisco"
     },
@@ -369,7 +526,7 @@
       "name": "Wei Xu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1823743197098729496/a6avHXob_normal.jpg",
       "description": "CS professor @GeorgiaTech @gtcomputing @ICatGT @mlatgt. Evaluating & Improving LLMs (multilingual, reasoning, RL, multi-turn, privacy/safety, etc.)",
-      "followersCount": 11544,
+      "followersCount": 11546,
       "friendsCount": 1302,
       "location": "Atlanta, GA"
     },
@@ -388,7 +545,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 134068,
+      "followersCount": 134063,
       "friendsCount": 540,
       "location": ""
     },
@@ -409,7 +566,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36155,
+      "followersCount": 36158,
       "friendsCount": 1755,
       "location": ""
     },
@@ -958,7 +1115,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
-      "followersCount": 1176912,
+      "followersCount": 1177086,
       "friendsCount": 2051,
       "location": "Palo Alto"
     },
