@@ -1,11 +1,150 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292008,
+      "friendsCount": 8314,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2075571361909756283",
+    "fullText": "talkers are takers",
+    "createdAt": "Fri Jul 10 13:22:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36170,
+      "friendsCount": 1756,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2075566546404122624/vid/avc1/1280x704/moZQNAGC0hPOzxYD.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2075568266836357338",
+    "fullText": "你这个月的 Codex 订阅，按 OpenAI API 价格折算，到底薅回了多少钱？做了个 macOS 小组件专门算这笔账——进度条的满额刻度，标到了约 4.6 万美元/月。（郭美青老师本来是自己用的，然后开源出来给大家用）\n\ncodexU 是一个 macOS 菜单栏 + 桌面小组件，把 OpenAI Codex（以及 Claude Code）的额度窗口、token 用量、今日任务看板，全塞进菜单栏。\n\n它最戳人的是那个叫 \"羊毛进度\" 的功能：\n\nCodex 的额度界面通常只给你一个百分比和重置时间，你根本看不出\"我这个月到底用掉了多少价值\"。codexU 把本机解析到的 token（未缓存输入 / 命中缓存输入 / 输出）按对应模型的 OpenAI API 单价折算成美元，再和你的订阅价（Plus / Pro 100 / Pro 200）摆在一条进度条上——一眼看出这个月订阅回本到哪个区间了。满额刻度按\"2 亿 token/天 × 30 天\"估到约 4.6 万美元/月（这是理论上限估算，不是账单）。等于给\"薅羊毛\"做了个可视化仪表盘。\n\n工程上它跟得很紧，有两个细节值得说：\n\n1、数据全本地：Codex 走 app-server 的额度/用量接口 + ~/.codex/state_5.sqlite + rollout 日志里的 token_count 事件；Claude Code 走 ~/.claude/ 的 transcript。一个入口同时看两边本机用量。\n\n2、支持最新版合并后的codex：Codex 和 ChatGPT 合并后，macOS 应用从 https://t.co/j1YdY9uLnV 改名成了 https://t.co/tUNgkHwW2a，旧版按老路径找会读不到额度，v1.0.1 已经兼容新应用名。\n也有个绕不开的现实限制——Codex 本地 API 只暴露\"滚动窗口已用百分比 + 重置时间\"，不给绝对配额数字，所以它只能显示剩余百分比，不是精确到还剩多少 token。\n\n怎么用： 本机装了 Codex 并登录、至少跑过一次（生成 state_5.sqlite）。去 GitHub Release 下对应架构的 DMG（arm64 / x86_64），首次因为不是 App Store 签名，要在\"系统设置 → 隐私与安全性\"手动点\"仍要打开\"。Claude Code 统计是可选的。\n\n每天开 Codex 干活的，挂一个在菜单栏——月底看看自己到底从订阅里薅回了多少，顺便还能看出你的 token 都烧在了哪几个项目上。\n\n#codexU #Codex #ClaudeCode #开发者工具 #独立开发",
+    "createdAt": "Fri Jul 10 13:10:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70650,
+      "friendsCount": 35473,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2075567974497341442/vid/avc1/720x1280/iSGa1ldzjt9igyI-.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2075568011516190752",
+    "fullText": "Frontier models are acting as a proxy for human interset, so we need to throw in novelty, diversity, and creativity to our pursuits, from Roberta Raileanu of Google DeepMind. https://t.co/XEqfFpeaPU",
+    "createdAt": "Fri Jul 10 13:09:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149664,
+      "friendsCount": 5388,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HM3i2t5WcAAlicW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2075564436467876351",
+    "fullText": "Prove one improvement. Compound the next.\n\nGoalOS reduces an organization’s AI operating cost without sacrificing quality, rejects attractive but unsafe shortcuts, preserves the verified method as reusable capability, simulates proof-bound settlement, and reinvests verified value into a harder mission.\n\nDemo: https://t.co/ky8N6LWYNu\n\n#AGIJobs #MontrealAI #QuebecAI",
+    "createdAt": "Fri Jul 10 12:54:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292008,
+      "friendsCount": 8314,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2075563257356812565",
+    "fullText": "First impressions after roughly half a day of having access to both Fable and GPT-5.6: they complement each other really well. Having both of them evaluate and critique each other's work is the S tier workflow.",
+    "createdAt": "Fri Jul 10 12:50:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
+      "followersCount": 196811,
+      "friendsCount": 548,
+      "location": "tinkertown"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2075562391639654461",
+    "fullText": "anthropic 'chat | cowork | code'\n\nus: this is ridiculous to have all these tabs\n\nopenai 'work | code(x)'\n\neveryone: we need another tab for just chat!",
+    "createdAt": "Fri Jul 10 12:46:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452712,
+      "friendsCount": 571,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2075560166943326391",
+    "fullText": "I keep hearing that building with AI is easier than ever before, and yet I don't see that many new good applications?\n\nWhy haven't I seen a significant increase in quality in the apps I use every day? Why aren't they bursting with new and useful features?\n\nEven the apps released by the labs that claim software engineering is dead are full of bugs and kind of meh.\n\nWhat gives?",
+    "createdAt": "Fri Jul 10 12:38:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 134141,
+      "friendsCount": 541,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HM3Kx7FXYAAF_6T.jpg",
+      "https://pbs.twimg.com/media/HM3Kx6NWcAAh1Yz.jpg",
+      "https://pbs.twimg.com/media/HM3Kx7JXQAAkqNT.jpg",
+      "https://pbs.twimg.com/media/HM3Kx7GXIAAe7Yc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kling_ai/status/2075550612029378858",
+    "fullText": "🎬 Wrap-up: Kling AI NEXTGEN Awards Ceremony in Seoul\n\nCongratulations to all winners. Thank you to every creator, jury member and partner who made this possible.\n12,700+ submissions, 9,000 creators — the next generation is using AI to tell stories that matter.\nSwipe for full highlights.",
+    "createdAt": "Fri Jul 10 12:00:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 159477,
+      "followersCount": 159486,
       "friendsCount": 1272,
       "location": ""
     },
@@ -23,7 +162,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3949862,
+      "followersCount": 3949897,
       "friendsCount": 795,
       "location": ""
     },
@@ -39,7 +178,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149661,
+      "followersCount": 149664,
       "friendsCount": 5388,
       "location": "Montréal · Québec"
     },
@@ -55,8 +194,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70648,
-      "friendsCount": 35461,
+      "followersCount": 70650,
+      "friendsCount": 35473,
       "location": "latent space"
     },
     "images": [
@@ -91,7 +230,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3949862,
+      "followersCount": 3949897,
       "friendsCount": 795,
       "location": ""
     },
@@ -109,7 +248,7 @@
       "name": "Hugging Face",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
       "description": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
-      "followersCount": 720526,
+      "followersCount": 720586,
       "friendsCount": 222,
       "location": "NYC and Paris and 🌏"
     },
@@ -125,7 +264,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
-      "followersCount": 404543,
+      "followersCount": 404578,
       "friendsCount": 867,
       "location": ""
     },
@@ -141,7 +280,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36171,
+      "followersCount": 36170,
       "friendsCount": 1756,
       "location": ""
     },
@@ -159,7 +298,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 134136,
+      "followersCount": 134141,
       "friendsCount": 541,
       "location": ""
     },
@@ -177,7 +316,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36171,
+      "followersCount": 36170,
       "friendsCount": 1756,
       "location": ""
     },
@@ -195,7 +334,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240781945,
+      "followersCount": 240783548,
       "friendsCount": 1367,
       "location": ""
     },
@@ -213,7 +352,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240781945,
+      "followersCount": 240783548,
       "friendsCount": 1367,
       "location": ""
     },
@@ -231,7 +370,7 @@
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 210208,
+      "followersCount": 210219,
       "friendsCount": 593,
       "location": "Venice, CA"
     },
@@ -249,7 +388,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 159477,
+      "followersCount": 159486,
       "friendsCount": 1272,
       "location": ""
     },
@@ -267,8 +406,8 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
-      "followersCount": 196809,
-      "friendsCount": 547,
+      "followersCount": 196811,
+      "friendsCount": 548,
       "location": "tinkertown"
     },
     "images": [
@@ -285,7 +424,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 938688,
+      "followersCount": 938997,
       "friendsCount": 5872,
       "location": "San Francisco, CA"
     },
@@ -321,7 +460,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 473431,
+      "followersCount": 473455,
       "friendsCount": 1520,
       "location": "Austin, TX"
     },
@@ -806,5 +945,21 @@
     "tweetUrl": "https://x.com/rasbt/status/2075369179817902176",
     "fullText": "I like choices... but now I have:\n\n2x modes (Codex vs. Work mode)\n3x GPT-5.6 models (Sol, Terra, Luna)\n5x effort levels (Light, Medium, High, Extra High, Ultra)\n\nThat's 2 x 3 x 5 = 30 possible configurations for a query 🤯\n\nWhat happened to \"Auto\" mode? https://t.co/LhwIiezLWq",
     "createdAt": "Thu Jul 09 23:59:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 147303,
+      "friendsCount": 3289,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2075298387990401367",
+    "fullText": "Americans want to own homes, build wealth, and have economic opportunity. So some are voting for socialists like Mamdani because he has recognized these anxieties and identified a villain (but not a real solution). \n\nWhat is most likely to help?\nSocialism consistently makes everyone equally poor. The experiment has been run already! You don’t build prosperity by attacking the entrepreneurs, businesspeople, or investors who create it. We do not want to be Maoist China, the Soviet Union, Venezuela, Cuba, East Germany, North Korea. This is a very bad club of outcomes.\n\nThe next decade will create more business owners than the last century. AI gives anyone with entrepreneurial spirit cheap access to extraordinary human capital. Reindustrialization will bring back productive work. Broad asset ownership can put millions more Americans on the path to wealth. And every dollar will go further as economic productivity surges.\n\nOrdinary Americans will suffer if irresponsible politicians, educators and malicious international influence campaigns create 100M Marxists. It will prosper with 100M more Bogleheads.\n\nWe can be a nation of wealthy owners.",
+    "createdAt": "Thu Jul 09 19:17:47 +0000 2026"
   }
 ]
