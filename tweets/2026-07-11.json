@@ -1,11 +1,147 @@
 [
   {
     "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 134155,
+      "friendsCount": 541,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2075923876614148096/vid/avc1/1920x1080/xO9VLqPJOn6BDuRk.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2075958298155885026",
+    "fullText": "Grandmas’ Oldympic starts now 🏅\n\nMeet Kassai Ricsi’s “Oldympic” — where two unexpected racers turn a quiet day into a memorable competition.\nCongratulations Kassai Ricsi on winning KlingAI 4K Short Film Creative Contest Silver Award!",
+    "createdAt": "Sat Jul 11 15:00:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 310529,
+      "friendsCount": 912,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HM9EYLsXIAEu-hw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2075955181640892823",
+    "fullText": "Most video-action robot models are a video generator built for content, with an action head bolted on.\n\nLingBot-VA 2.0 pretrains the whole stack for control from scratch.\n\nLots of technical improvements here that stand out: https://t.co/kWVzAtZeO2",
+    "createdAt": "Sat Jul 11 14:47:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 92168,
+      "friendsCount": 922,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2075953907704967331",
+    "fullText": "I got around to reading ai 2040, and I’m very happy with their focus on transparency (which I strongly agree with), but I find it odd to talk about that so much with no real discussion of open source.",
+    "createdAt": "Sat Jul 11 14:42:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36182,
+      "friendsCount": 1756,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2075953358511439966",
+    "fullText": "有人做了个设计 skill：hallmark，唯一目的就是逼 AI 别像 AI 画的——给 Claude Code / Cursor / Codex 装上后，它会跑 57 道\"查 AI 味\"关卡，把每个大模型都被训练成的那套紫渐变套模板默认审美，一条条否决掉，避免每个结果都像一个模子刻出来的。\n\n每个 LLM 都被训练进了一套\"分布内的默认审美\"——你不特意管，它就往那套套模板的样子上收敛。hallmark 的全部工作，就是把这些默认值主动否决掉：先给 brief 选一个宏观结构（macrostructure），套上 20 个主题之一，跑 57 道 slop 关卡 + 出图前的自我批判，才把结果交出来。宣称的效果是——两个不同 brief 生成的两个页面，像两个不同的网站，而不是同一模板换了个配色。\n\n它不只是\"生成好看的\"，而是一套可操作的设计工作流，四个动词：\n\n1、默认：建新 UI，选结构 → 套规则 → 过 slop 测试再交付；\n2、audit <目标>：给现有代码按反模式打分，只出问题清单、不动手改；\n3、redesign <目标>：扔掉结构、保留文案 / 信息架构 / 品牌，用一套不同的\"指纹\"重建；\n4、study <截图/URL>：从你推荐的设计截图/url里抽 DNA（宏观结构、字体搭配、色彩锚点），拒绝像素级克隆和付费模板抄袭，还能导出一份可移植的 design.md，交给别的 AI 工具接着用。\n\n还有个新加的 Custom 分支：当 brief 的创意 catalog 里没有主题接得住时，它从零做一套量身的配色/字体/布局，同样过那 57 关。每个产出都是自包含的 HTML + CSS，甚至在 CSS 注释里盖上它这次用的宏观结构。\n\n对个人开发者，当前大多数人都在用AI，\"能产出不像 AI 的前端\"本身就是竞争优势，能接单、能做产品的硬通货。再往前想一步——把 study 导出的 design.md 当团队设计规范的中间层，导入到claude design里作为设计规范，未来作为长期产出产品的规范和方向。\n\n安装一句话即可： npx skills add nutlope/hallmark，或把 SKILL.md + references/ 拷进 Claude Code（~/.claude/skills）、Cursor（.cursor/rules）、Codex（~/.codex/skills）。\n\nAI 做前端目前面临的下一关口，已经不是\"会不会做得好看\"，而是\"像不像 AI 画的\"——hallmark 把这条判断，做成了 57 道能真跑的关卡。\n\n#Hallmark #反AISlop #AI设计 #ClaudeCode #前端",
+    "createdAt": "Sat Jul 11 14:40:24 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 292274,
+      "followersCount": 292297,
+      "friendsCount": 8318,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2075948751806734343",
+    "fullText": "Surround yourself with people who challenge you to become a better version of yourself.\n\nRun away as far as you can from people that pull you down to become a worse version of yourself.",
+    "createdAt": "Sat Jul 11 14:22:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Hailuo_AI",
+      "name": "Hailuo AI-MiniMax Hub",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
+      "description": "Discord: https://t.co/ckCTEs189Q\nCreator Partnership Program(CPP): https://t.co/KLDCVOlRYA",
+      "followersCount": 74096,
+      "friendsCount": 576,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2075944163636584448/vid/avc1/3840x2160/98Xx5M-zjB_lNx4B.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Hailuo_AI/status/2075946377411264964",
+    "fullText": "🦋 Butterfly Beyond Code | Official Premiere\nIn a world where technology erases individuality, what is left of the self?\n— \"It is my pain and my flaws that define who I am.\"\n\nZhuangzi’s ancient philosophy, reimagined for the AI age.\nStep into the dream now.\n\n🎬 Director: Cat Jin\n🌟 Executive Producer: Yi Zhongtian\n\n#MiniMax #HailuoAI #MiniMaxHub",
+    "createdAt": "Sat Jul 11 14:12:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292297,
+      "friendsCount": 8318,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2075944724222161394",
+    "fullText": "Checks are good, but balances are better.",
+    "createdAt": "Sat Jul 11 14:06:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292297,
+      "friendsCount": 8318,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HM85xexa0AAPChB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2075941477319066014",
+    "fullText": "b2b? you mean bot-to-bot? https://t.co/ZUFIYvYiCO",
+    "createdAt": "Sat Jul 11 13:53:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292297,
       "friendsCount": 8318,
       "location": "United States"
     },
@@ -21,7 +157,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 941228,
+      "followersCount": 941479,
       "friendsCount": 5874,
       "location": "San Francisco, CA"
     },
@@ -37,7 +173,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240787488,
+      "followersCount": 240790081,
       "friendsCount": 1367,
       "location": ""
     },
@@ -55,7 +191,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240787488,
+      "followersCount": 240790081,
       "friendsCount": 1367,
       "location": ""
     },
@@ -89,8 +225,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70663,
-      "friendsCount": 35602,
+      "followersCount": 70666,
+      "friendsCount": 35605,
       "location": "latent space"
     },
     "images": [],
@@ -105,7 +241,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 3970445,
+      "followersCount": 3972122,
       "friendsCount": 795,
       "location": ""
     },
@@ -121,7 +257,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 159547,
+      "followersCount": 159550,
       "friendsCount": 1272,
       "location": ""
     },
@@ -139,7 +275,7 @@
       "name": "Alexandr Wang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
       "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
-      "followersCount": 544698,
+      "followersCount": 544905,
       "friendsCount": 860,
       "location": "San Francisco, CA"
     },
@@ -175,8 +311,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 395538,
-      "friendsCount": 13113,
+      "followersCount": 395691,
+      "friendsCount": 13114,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -193,8 +329,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 395538,
-      "friendsCount": 13113,
+      "followersCount": 395691,
+      "friendsCount": 13114,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -209,8 +345,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 395538,
-      "friendsCount": 13113,
+      "followersCount": 395691,
+      "friendsCount": 13114,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -225,7 +361,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x",
-      "followersCount": 1185157,
+      "followersCount": 1185426,
       "friendsCount": 2051,
       "location": "Palo Alto"
     },
@@ -241,7 +377,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240787488,
+      "followersCount": 240790081,
       "friendsCount": 1367,
       "location": ""
     },
@@ -261,7 +397,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240787488,
+      "followersCount": 240790081,
       "friendsCount": 1367,
       "location": ""
     },
