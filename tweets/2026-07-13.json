@@ -1,11 +1,225 @@
 [
   {
     "user": {
+      "screenName": "goodside",
+      "name": "Riley Goodside",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
+      "description": "Screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
+      "followersCount": 217367,
+      "friendsCount": 3519,
+      "location": "Virginia, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNIpYX_XUAAfWNz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goodside/status/2076767880566243488",
+    "fullText": "Claude Fable 5 Max creates an ambigram of my last name—I’m surprised Claude can do this at all, given it has no multimodal output.\n\nPrompt:\n&gt; Create an ambigram that reads “Goodside” with 180° rotational symmetry. https://t.co/eWi59oSl6C",
+    "createdAt": "Mon Jul 13 20:37:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 232333,
+      "friendsCount": 7057,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNImcuyWUAAwCYy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2076765087335940168",
+    "fullText": "$ORCL is down 57% since my September essay “Peak Bubble”: https://t.co/k30B7E2Vqh",
+    "createdAt": "Mon Jul 13 20:25:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 464010,
+      "friendsCount": 4884,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNIk1Z9WsAACvuN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2076763231788339669",
+    "fullText": "Big unlock for open-source AI inference: Hugging Face Transformers models can now run in vLLM at native speed, often matching or beating hand-written implementations.\n\nUntil now, every new architecture often needed to be built twice:\n- Once in Transformers for training and research\n- Again in vLLM for fast production inference\n\nThat duplication slowed down new models, added maintenance, and created room for implementations to diverge. Now, model authors can implement an architecture once in Transformers and immediately benefit from vLLM’s optimized inference stack.\n\nIn our benchmarks, the Transformers backend matched or beat native vLLM throughput across models from 4B to 235B parameters, including tensor parallel and MoE setups. One readable model implementation can now power training, fine-tuning, evaluation, RL rollouts, and production inference.\n\nThe conventional wisdom is that abstractions make systems slower. The best abstractions make the whole ecosystem faster.\n\nWrite the model once. Deploy it everywhere.\n\nhttps://t.co/nTXcwAV0Bf",
+    "createdAt": "Mon Jul 13 20:18:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 257826,
+      "friendsCount": 166,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2076758782860804096/pu/vid/avc1/1280x720/3WpyR8i7OoNwRvMs.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2076758928382173185",
+    "fullText": "Product Manager @BenTannyhill on how our product engineering team ships fast. https://t.co/5SkvztWDVL",
+    "createdAt": "Mon Jul 13 20:01:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "johnvmcdonnell",
+      "name": "John McDonnell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591144651297169408/hGTUM0jq_normal.jpg",
+      "description": "Head of Data @foundforbiz.  alum SQ, SFIX, RDL.",
+      "followersCount": 3431,
+      "friendsCount": 2805,
+      "location": "Oakland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNIdPCtaEAAec1K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/johnvmcdonnell/status/2076754525000798499",
+    "fullText": "No better way to get hype for the Odyssey than listening to Ian McKellan read Fagles https://t.co/B7Nj2vHk5W",
+    "createdAt": "Mon Jul 13 19:43:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4031731,
+      "friendsCount": 795,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNIbtcXaoAAyIAw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2076752917726667127",
+    "fullText": "We ran into Amit from the winter 2007 batch. We still remember him vividly, because after I told him in rehearsals that he had to speak louder, the first sentence of his Demo Day presentation was probably the most emphatic ever delivered. https://t.co/AZEcvNMod8",
+    "createdAt": "Mon Jul 13 19:37:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x",
+      "followersCount": 1193601,
+      "friendsCount": 2052,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2076747704248758617",
+    "fullText": "We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back).\n\nWe noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize.\n\nThis should also help clusters form around interests more easily, which many people have asked for.",
+    "createdAt": "Mon Jul 13 19:16:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 257826,
+      "friendsCount": 166,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2076747433212592581",
+    "fullText": "What does production-ready infrastructure for agent execution actually require?\n\nA secure agent computer needs to:\n\n✅ Execute untrusted code safely\n✅  Keep credentials and resources under control\n✅  Give teams visibility into what ran and what it accessed\n✅  Support fast iteration with reproducible environments",
+    "createdAt": "Mon Jul 13 19:15:46 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487012,
+      "followersCount": 487013,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNIWOm5WcAAAN13.jpg",
+      "https://pbs.twimg.com/media/HNIWj2ZWcAABzYn.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2076747234549616841",
+    "fullText": "Tensors — The Geometric Tool That Solved Einstein’s General Relativity Problem: https://t.co/cDXu1GHh7A\n++\nTensor Decompositions for Data Science [and Computational Science]: https://t.co/1bJgHw5Svk\n— Extensive background materials in linear algebra, optimization, probability, & statistics are included as appendices in this book.",
+    "createdAt": "Mon Jul 13 19:14:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487013,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNIV8bnWIAATEgK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2076746512646697208",
+    "fullText": "Differential geometry is a mathematical discipline that studies smooth manifolds, using techniques of vector calculus, linear algebra &amp; multilinear algebra. It was used by Einstein in his development of General Relativity: https://t.co/S3F8M1SBa7\n\nBook: https://t.co/wrgK1xLkHj https://t.co/yDDAseS37b",
+    "createdAt": "Mon Jul 13 19:12:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 328864,
+      "friendsCount": 205,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2076745137707708722",
+    "fullText": "Argentina have had 4 Premier League players score this World Cup (Fernández, Mac Allister, Martínez, Romero)\n\nEngland have had 0",
+    "createdAt": "Mon Jul 13 19:06:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 93453,
+      "friendsCount": 1099,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNITpAQWYAE0kFm.jpg",
+      "https://pbs.twimg.com/media/HNITqOQXYAAFmKk.jpg",
+      "https://pbs.twimg.com/media/HNITrbCXMAABMWA.jpg",
+      "https://pbs.twimg.com/media/HNITsp4WsAEsIXP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2076744056676196835",
+    "fullText": "One agent is just the start. Running fleets of AI agents is the next challenge.\n\nJoin Databricks co-founder @pwendell, @OpenAI's @steipete (creator of OpenClaw) and Engineering Lead for Codex, @thsottiaux, plus @Stellantis' Hugo Sechier, for a live conversation on building and deploying agentic apps at scale.\n\nLearn how to govern AI agents with fine-grained permissions and full auditability, and hear how Stellantis is operationalizing agentic AI across the enterprise.\n\nRegister today:\nhttps://t.co/5j8A1W0ZnJ",
+    "createdAt": "Mon Jul 13 19:02:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487013,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -19,12 +233,30 @@
   },
   {
     "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487013,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNISp9jWMAAQjJU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2076742897064722582",
+    "fullText": "Algorithms (4th Edition; 976 pages) at https://t.co/srPCY0q6tX\n...The leading textbook on algorithms today and is widely used in colleges and universities worldwide. This book surveys the most important computer algorithms currently in use and provides a full treatment of data structures and algorithms for sorting, searching, graph processing, and string processing—including fifty algorithms every programmer should know.",
+    "createdAt": "Mon Jul 13 18:57:45 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "_akhaliq",
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 510887,
-      "friendsCount": 3138,
+      "followersCount": 510894,
+      "friendsCount": 3137,
       "location": ""
     },
     "images": [
@@ -37,11 +269,81 @@
   },
   {
     "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487013,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNISd3nWgAAqu7x.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2076742689123672151",
+    "fullText": "Graph Algorithms for Data Science: https://t.co/aVE3jy1SUK \n\nI have said this for years: \"All the world is a graph!\" The natural data structure of the world is a graph, not rows and columns:\n\nButterfly effect\nConnected things (IoT)\nContext engineering\nCyber networks\nEnvironmental phenomena\nFood webs\nGlobal markets\nGraph analytics\nGraph databases\nKnowledge graphs\nLinked data\nNetwork science\nNeuroscience & brain connectivity\nPageRank search algorithm\nPropagation of diseases\nSemantic metadata\nSix degrees of separation\nSocial networks\nSupply chains\netc.",
+    "createdAt": "Mon Jul 13 18:56:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
+      "followersCount": 85452,
+      "friendsCount": 444,
+      "location": "Seattle, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNIQnGdXcAAP9ho.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/allen_ai/status/2076740645599813711",
+    "fullText": "Our @SkylightMarine team is rolling out Shippy, an AI agent for the people protecting our ocean in real time. \n\nA wrong answer at these stakes can send a patrol vessel miles off course. Here's the architecture we built so analysts can trust it. 🧵 https://t.co/MA0L9XTI4s",
+    "createdAt": "Mon Jul 13 18:48:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487013,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNIQgcRXAAEgaTw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2076740532693254481",
+    "fullText": "100 Great Problems of Elementary Mathematics\n\n\"The collection, drawn from arithmetic, algebra, pure and algebraic geometry and astronomy, is extraordinarily interesting and attractive.\" \n—Mathematical Gazette\n\nGet it here: https://t.co/EMqNCphvrv https://t.co/4ZYMpwTR4J",
+    "createdAt": "Mon Jul 13 18:48:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 292871,
+      "friendsCount": 8323,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2076738124420702604",
+    "fullText": "Sorry, but “raising awareness” just doesn’t cut it anymore.",
+    "createdAt": "Mon Jul 13 18:38:47 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "paulg",
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4030521,
+      "followersCount": 4031731,
       "friendsCount": 795,
       "location": ""
     },
@@ -57,8 +359,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 292912,
-      "friendsCount": 8321,
+      "followersCount": 292871,
+      "friendsCount": 8323,
       "location": "United States"
     },
     "images": [],
@@ -73,7 +375,7 @@
       "name": "Fei-Fei Li",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
       "description": "Cofounder/CEO @theworldlabs, Prof (CS @Stanford), Co-Director @StanfordHAI, #AI #SpatialIntelligence #GenAI #computervision #robotics #AI-healthcare",
-      "followersCount": 862609,
+      "followersCount": 862237,
       "friendsCount": 1172,
       "location": "Stanford, CA, U.S.A."
     },
@@ -102,6 +404,24 @@
     "tweetUrl": "https://x.com/_akhaliq/status/2076727488168841609",
     "fullText": "Video Generation Models are General-Purpose Vision Learners https://t.co/9IPa1VH8Jj",
     "createdAt": "Mon Jul 13 17:56:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodside",
+      "name": "Riley Goodside",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
+      "description": "Screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
+      "followersCount": 217367,
+      "friendsCount": 3519,
+      "location": "Virginia, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNID01IW0AAKLvE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goodside/status/2076726589853704535",
+    "fullText": "That’s that me, Ricardo: Claude Fable 5 Max paraphrases the lyrics of Sabrina Carpenter’s Espresso using only verified bigrams from the writings of 18th-19th century British economist David Ricardo https://t.co/n1nFHz2VjU",
+    "createdAt": "Mon Jul 13 17:52:57 +0000 2026"
   },
   {
     "user": {
@@ -323,8 +643,8 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 310757,
-      "friendsCount": 918,
+      "followersCount": 310787,
+      "friendsCount": 920,
       "location": "DAIR.AI Academy"
     },
     "images": [],
@@ -359,7 +679,7 @@
       "name": "Riley Goodside",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
       "description": "Screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
-      "followersCount": 217320,
+      "followersCount": 217367,
       "friendsCount": 3519,
       "location": "Virginia, USA"
     },
@@ -605,7 +925,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 283471,
+      "followersCount": 283466,
       "friendsCount": 331,
       "location": "New York, USA"
     },
