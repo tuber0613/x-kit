@@ -1,11 +1,271 @@
 [
   {
     "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 93479,
+      "friendsCount": 1099,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNNi798XQAAXvB_.jpg",
+      "https://pbs.twimg.com/media/HNNi9MAXUAEDe42.jpg",
+      "https://pbs.twimg.com/media/HNNi-aYXQAAybG9.jpg",
+      "https://pbs.twimg.com/media/HNNi_rPWcAAOkTa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2077112719589671183",
+    "fullText": "AI assistants are great at handling general tasks, but they miss the critical data context that defines your business.\n\nLearn how Genie helps bridge the AI context gap, what analysts own when building with Genie, and explore practical examples from three organizations putting data-smart AI to work.\nhttps://t.co/CsxgLVla9O",
+    "createdAt": "Tue Jul 14 19:27:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 147551,
+      "friendsCount": 3297,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2077111190212465002",
+    "fullText": "infinite summer ☀️",
+    "createdAt": "Tue Jul 14 19:21:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 5011,
+      "friendsCount": 1647,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077105330681425920/vid/avc1/3840x2160/iK1n20KmvchvD3mB.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kseniase_/status/2077109212321034510",
+    "fullText": "GPUs may no longer be enough for AI agents\n\n@nvidia says we've been looking at the wrong bottleneck. When agents run tests, launch sandboxes, and use tools, the CPU is what starts to matter much more.\n\nSo it introduced a new Vera Arm CPU that speeds up that part of the agent loop by up to 1.9×.\nBut underneath there is also a big change in how we measure AI performance: less focus on model speed alone, more on how fast the full agent loop completes.\n\nDoes Vera really make agents faster, or has NVIDIA found a very smart way to sell the whole data center? I discuss it here ↓",
+    "createdAt": "Tue Jul 14 19:13:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StabilityAI",
+      "name": "Stability AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2076698922530004993/kyQNkO9d_normal.jpg",
+      "description": "We’ll help you make it like nobody’s business. Multimodal media generation and editing tools to get your idea to production. Self-deploy? 👍 Need a partner? 🤝",
+      "followersCount": 258644,
+      "friendsCount": 10,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNNfc17WoAA53M0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StabilityAI/status/2077109035531149728",
+    "fullText": "Want to go beyond prompting and start building with generative audio?\n\nJoin us for a free hands-on workshop in partnership with @MusicHackspace, exploring how you can use Stable Audio 3.0 to create custom audio applications and workflows. https://t.co/NfguVJbcf5",
+    "createdAt": "Tue Jul 14 19:12:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 5493301,
+      "friendsCount": 1020,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2077106587307798989",
+    "fullText": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+    "createdAt": "Tue Jul 14 19:02:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 329001,
+      "friendsCount": 208,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2077106355693891688",
+    "fullText": "It would be nice to be able to use Fable as a coordinator with Opus sub agents in @claudeai cowork or claude code",
+    "createdAt": "Tue Jul 14 19:02:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 257947,
+      "friendsCount": 166,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNNc6GmW0AAm2q0.jpg",
+      "https://pbs.twimg.com/media/HNNc6FsWAAAGPW-.jpg",
+      "https://pbs.twimg.com/media/HNNc6BsWUAAeAg5.jpg",
+      "https://pbs.twimg.com/media/HNNc6DpWoAAMb6c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2077106008996929881",
+    "fullText": "Build more with LangSmith this summer.\n\nJoin our Summer AMA Series for practical walkthroughs + live Q&amp;A with the LangChain team. \n\n https://t.co/wXl1Sk2PnX https://t.co/vicxPNQ9Xk",
+    "createdAt": "Tue Jul 14 19:00:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 375123,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077102797124988928/vid/avc1/1280x720/FZ-noqQkgFvC46IB.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2077102893665320983",
+    "fullText": "Command-line tools for evaluating new models on @NotionHQ’s architecture were built from start to finish with GPT‑5.6. https://t.co/cs6XI1oKgg",
+    "createdAt": "Tue Jul 14 18:48:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 58266,
+      "friendsCount": 376,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNNU2nTasAAmOPS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2077097330357211423",
+    "fullText": "Our new cookbook implements Ralph loops with @nvidia Nemotron 3 Ultra via @LangChain Deep Agents: fresh context every iteration using the filesystem as memory between iterations.\n\nFull notebook: https://t.co/j6BR187vN5 https://t.co/0ZdOyPA50I",
+    "createdAt": "Tue Jul 14 18:26:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+      "followersCount": 404636,
+      "friendsCount": 867,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077095467792429056/vid/avc1/1920x1080/fqq0LQYl0fZ0aPpV.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2077095694356410716",
+    "fullText": "Four frontier AI models released in seven days last week. A SpaceX booster reflown for the 36th time. A humanoid robot performed surgery, and Elon casually claiming SpaceX will be worth more than the entirety of planet Earth. We are truly in the in the singularity. \n\n-- July 2: Fable 5 re-released. July 8: Grok 4.5. July 9: GPT 5.6 (Sol, Terra, Luna). July 9: Meta's Muse Spark. Four labs, one week.\n\n-- OpenAI openly confirmed recursive self-improvement: Sol is being used to post-train Luna. AI training AI is now official product strategy.\n\n-- 1X unveiled its Neo hand: 25 degrees of freedom, waterproof, tendon material 100x stronger than steel per unit weight. 10,000 units shipping this year.\n\n-- Hynix says memory chips will be in short supply for at least five years.",
+    "createdAt": "Tue Jul 14 18:19:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 293024,
+      "friendsCount": 8325,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2077093004389834952",
+    "fullText": "AGI will live in a DGX Pod and eat Software Bugs.",
+    "createdAt": "Tue Jul 14 18:08:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 375123,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2077092039234363837",
+    "fullText": "Join @steipete today at 11am PT for a Build Week live session on turning an idea into a working build with Codex.\n\nhttps://t.co/vEhnR9usxy",
+    "createdAt": "Tue Jul 14 18:05:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 319489,
+      "friendsCount": 880,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2077090929580953901",
+    "fullText": "How to Run RL Autoresearch with Agent Skills | Nemotron Labs https://t.co/zVHMsORjl5",
+    "createdAt": "Tue Jul 14 18:00:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 293024,
+      "friendsCount": 8325,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2077088731711066184",
+    "fullText": "Software is dead, long live algorithms.",
+    "createdAt": "Tue Jul 14 17:51:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "johnjnay",
+      "name": "John Nay",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2032286692023934976/fce3eDSE_normal.jpg",
+      "description": "founder & CEO of Norm Ai // \nfounding CEO of Brooklyn AI (acquired by TIAA Nuveen) // \nmore at https://t.co/e7fw7OPQGj",
+      "followersCount": 15865,
+      "friendsCount": 60,
+      "location": "nyc"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/johnjnay/status/2077088466744017318",
+    "fullText": "AI agents are already doing business. Delaware is now moving to bring them inside a predictable American legal order. \n\nToday in Fortune, Delaware Secretary of State Charuni Patibanda-Sanchez and I discuss a new legal entity: the Artificial Intelligence Company, a business run autonomously by AI agents. \n\nDelaware is the most consequential jurisdiction in corporate law and Norm Ai is leading the public-private partnership to help further develop the AIC framework. \n\nPumped to partner with the State of Delaware to help set the norms for how AI agents operate in the U.S. economy.\n\nhttps://t.co/Kld14kr1Eg",
+    "createdAt": "Tue Jul 14 17:50:55 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "fchollet",
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 705992,
+      "followersCount": 706016,
       "friendsCount": 826,
       "location": "United States"
     },
@@ -21,7 +281,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 257936,
+      "followersCount": 257947,
       "friendsCount": 166,
       "location": ""
     },
@@ -37,7 +297,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 319340,
+      "followersCount": 319489,
       "friendsCount": 880,
       "location": "Santa Clara, CA"
     },
@@ -58,7 +318,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 230901,
+      "followersCount": 230910,
       "friendsCount": 1687,
       "location": "Chicago, IL"
     },
@@ -76,7 +336,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149634,
+      "followersCount": 149635,
       "friendsCount": 5398,
       "location": "Montréal · Québec"
     },
@@ -126,8 +386,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 292999,
-      "friendsCount": 8324,
+      "followersCount": 293024,
+      "friendsCount": 8325,
       "location": "United States"
     },
     "images": [],
@@ -142,7 +402,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 319340,
+      "followersCount": 319489,
       "friendsCount": 880,
       "location": "Santa Clara, CA"
     },
@@ -160,7 +420,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 347291,
+      "followersCount": 347302,
       "friendsCount": 20453,
       "location": "Cambridge, MA"
     },
@@ -194,7 +454,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 147545,
+      "followersCount": 147551,
       "friendsCount": 3297,
       "location": "on ⛓"
     },
@@ -210,8 +470,8 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 310910,
-      "friendsCount": 921,
+      "followersCount": 310925,
+      "friendsCount": 922,
       "location": "DAIR.AI Academy"
     },
     "images": [],
@@ -228,7 +488,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
-      "followersCount": 176455,
+      "followersCount": 176467,
       "friendsCount": 217,
       "location": "US"
     },
@@ -1089,8 +1349,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70696,
-      "friendsCount": 35786,
+      "followersCount": 70701,
+      "friendsCount": 35788,
       "location": "latent space"
     },
     "images": [],
