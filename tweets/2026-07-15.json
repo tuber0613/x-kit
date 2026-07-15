@@ -1,11 +1,257 @@
 [
   {
     "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 404743,
+      "friendsCount": 867,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2077423152515489976",
+    "fullText": "In 2026, the world put over $2.5 trillion into AI in a single year — split across three fronts: the chips, the data centers, and the labs racing to AGI. Nvidia sells more AI silicon per year than most countries' entire GDP. OpenAI and Anthropic raised $217 billion between them in six months. This isn't a sector. It's a civilizational capital reallocation.",
+    "createdAt": "Wed Jul 15 16:00:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 134285,
+      "friendsCount": 540,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077412998378057730/vid/avc1/1080x1920/RU3S4jxUfthesYA6.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2077422947749318895",
+    "fullText": "Choose a door. Shape your journey.\nLast episode, Granny’s door won.\nVote in the comments—what happens next is up to you. https://t.co/UKkHPVPdHy",
+    "createdAt": "Wed Jul 15 16:00:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 258056,
+      "friendsCount": 166,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077392629671575553/vid/avc1/3840x2160/fjHe59HhXHLdyvWv.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2077422943043518973",
+    "fullText": "Today, we're making it simple to equip your team with custom agents in Slack, without writing code. \n\nUse Fleet agents in channels where your team already works. https://t.co/9M8bYE2bwc",
+    "createdAt": "Wed Jul 15 16:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 511286,
+      "friendsCount": 3140,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNR7POiXoAEm4K6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2077420923410358343",
+    "fullText": "Read It Back\n\nPretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation https://t.co/tQ8InLhvZw",
+    "createdAt": "Wed Jul 15 15:51:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 311020,
+      "friendsCount": 923,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNR5f8UagAAplz3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2077418921536410080",
+    "fullText": "NEW paper from Microsoft and colleagues.\n\nDebugging agent trajectories at scale is challenging.\n\nThis is a clever approach to monitor and improve agents in production.\n\nThe problem:\n\nFinding which step in a failed agent run caused the failure usually means one of two costly options. Run an expensive prompting pipeline over the whole trajectory, or post-train on failure data with step-level error labels that are hard to collect and difficult to scale.\n\nThe solution:\n\nThey propose OAT, a lightweight attributor that needs neither. It trains only on successful trajectories, models their dynamics with neural controlled differential equations, then flags the steps where a failure trajectory departs from that learned flow of success. Failure attribution becomes one-class learning over what success looks like, so you never need labeled error steps or failure data at all.\n\nPaper: https://t.co/uJ9bZUOVyD\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Wed Jul 15 15:44:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 340115,
+      "friendsCount": 114,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2077415403542728704/pu/vid/avc1/1280x720/q8fJqHamNxL7xWfh.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2077415530965676236",
+    "fullText": "Fast inference makes a new class of real-time LLM applications possible.\n\nIn our new short course, Fast LLM Inference with Cerebras, built in partnership with @Cerebras and taught by @zhennydez, @duerr_seb, and @MilksandMatcha, you'll build them on the Wafer-Scale Engine, where a model's weights sit on-chip and tokens come out several times faster than a typical GPU setup.\n\nYou'll build a webpage that personalizes itself as users interact with it, assemble a multi-tool workflow that analyzes market signals in one response, and adopt habits for cleaner agentic coding with Codex.\n\nEnroll for free: https://t.co/n5qcWhR4Yo",
+    "createdAt": "Wed Jul 15 15:30:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DrJimFan",
+      "name": "Jim Fan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+      "description": "NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
+      "followersCount": 495425,
+      "friendsCount": 3135,
+      "location": "Views my own. Contact →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077412577681002496/vid/avc1/3840x2160/iDsECNcN65qZgRe5.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/DrJimFan/status/2077414142340988962",
+    "fullText": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitude beyond SOTA. \n\nIntroducing RoboTTT. Test-Time Training (“TTT”) carries a tiny model *inside* the model. Every incoming sensor reading triggers one gradient step on that tiny core, so the history keeps getting compressed into its weights. The hidden state has a fixed size (literally a small neural net), so the robot can “grok” arbitrarily long experience with little overhead. Learning continues indefinitely after deployment.\n\nWe can then put an entire video in context as prompt! RoboTTT enables one-shot in-context learning from human video: in circuit board assembly, a human demonstrates a never-seen configuration once, and the robot imitates it faithfully. \n\nHumans drop things all the time, but we pick them up so fast that we don’t even notice. That reflex to fix is half of our physical competence. RoboTTT shows self-improvement on the fly: the robot is skilled at recovering from its own errors mid-episode, and each fix enters its context to inform the next move. The TTT core distills a general-purpose, failure-to-correction mapping from the training data.\n\nOne more thing. What excites me the most is a new Context Scaling Curve: from 128 to 8K timesteps, closed-loop performance hill-climbs steadily with no sign of saturation. 8K-context pretraining beats 1K by 62%. What LLM enjoys, robotics should too. Soon, even 1M context is not a fantasy. \n\nDeep dive in thread:",
+    "createdAt": "Wed Jul 15 15:25:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70736,
+      "friendsCount": 35840,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2076661337015324673/vid/avc1/1920x1080/6szYKs2YS5sCBMJQ.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2077413880838369779",
+    "fullText": "Scaling inference with @angelos_peri of @ElevenLabs at @raais 2026:\n\nOK, so you can't get more GPUs. Procurement takes months, sometimes years. \n\nSo how do you serve your scaling user base on the same hardware?\n\nWatch this for the clearest inference tips on the street: https://t.co/wrJuEZ0lE1",
+    "createdAt": "Wed Jul 15 15:24:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149640,
+      "friendsCount": 5399,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNRzy-qWMAAdG2Y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2077412652737802319",
+    "fullText": "Others improve agents.\nGoalOS evolves intelligence institutions.\n\nGoalOS generalizes the paradigm across agents, jobs, tools, validators, memory, and governance—then makes every improvement earn the right to propagate.\n\nThree generations. Equal constraints. Fresh-task transfer. Stronger successor-generation ability. Three independent in-browser replays.\n\nThe GoalOS Three‑Generation RSI Demo is released.\n\nNot self-improvement by assertion.\nProof-carrying evolution.\n\nDEMO : https://t.co/fAU4upUHda\n\n#GoalOS #AGIALPHA #RSI #MontrealAI #QuebecAI",
+    "createdAt": "Wed Jul 15 15:19:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 258056,
+      "friendsCount": 166,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2077408488444112896/pu/vid/avc1/1280x720/ZFIlavC45bZY1AV0.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2077408642265952343",
+    "fullText": "LangSmith Engine originally auto-created PRs for every issue found,. This was too noisy for users.\n\n@BenTannyhill on why switching to an inbox model that surfaces clustered problems with history became the better design. https://t.co/wvLsWH2vn5",
+    "createdAt": "Wed Jul 15 15:03:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 311020,
+      "friendsCount": 923,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077404502588592128/vid/avc1/1280x720/3HnQfXwoOFiVZueY.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2077404813055185320",
+    "fullText": "LingBot-VLA 2.0 is an impressive new embodied model.\n\nOpen source and is trained across diverse robot configurations, from single-arm robots to humanoid platforms.\n\nIt packs 60K hours of curated robot and human data into one generalist policy.\n\nIt improves robots on difficult long-horizon tasks. Great release by @robbyant_brain.",
+    "createdAt": "Wed Jul 15 14:47:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 160641,
+      "friendsCount": 1272,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNRrXjYbEAE_Oon.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2077403393723879703",
+    "fullText": "想过自己菜，没想过自己这么菜。谁说这个大杨山是初级路线的？\n\n算上休息骑了 5 个多小时，三次腿抽筋，这倒霉天气。 https://t.co/EQLvMPn9oM",
+    "createdAt": "Wed Jul 15 14:42:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "shivon",
+      "name": "Shivon Zilis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
+      "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
+      "followersCount": 452717,
+      "friendsCount": 1725,
+      "location": "Palo Alto, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/shivon/status/2077402501813285107",
+    "fullText": "My judgment of player errors in the World Cup dropped to approximately zero after realizing how gassed I was after 10 minutes of mom vs kids keep away in the Texas heat 😅",
+    "createdAt": "Wed Jul 15 14:38:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 147636,
+      "friendsCount": 3299,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2077402108027117973",
+    "fullText": "energy is local. stopping datacenter builds, as NY just did (rather than designing win-win requirements and incentives for local communities and builders) is going to lead to some geos having decrepit infrastructure, and some geos benefiting from grid upgrade, investment and economic revitalization.\n\nthe state needs to “plan” faster. the last time the bureaucracy said they’d study energy it led to a 30-year abject failure to build any (clean) nuclear capacity. a standard nuclear EIS takes 4 years to even get a decision",
+    "createdAt": "Wed Jul 15 14:37:13 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 293313,
+      "followersCount": 293342,
       "friendsCount": 8327,
       "location": "United States"
     },
@@ -21,7 +267,7 @@
       "name": "Hailuo AI-MiniMax Hub",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
       "description": "Discord: https://t.co/ckCTEs189Q\nCreator Partnership Program(CPP): https://t.co/KLDCVOlRYA",
-      "followersCount": 74108,
+      "followersCount": 74107,
       "friendsCount": 576,
       "location": "San Francisco"
     },
@@ -39,7 +285,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 93499,
+      "followersCount": 93504,
       "friendsCount": 1100,
       "location": "HQ: San Francisco, CA"
     },
@@ -57,7 +303,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 258044,
+      "followersCount": 258056,
       "friendsCount": 166,
       "location": ""
     },
@@ -91,8 +337,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70730,
-      "friendsCount": 35835,
+      "followersCount": 70736,
+      "friendsCount": 35840,
       "location": "latent space"
     },
     "images": [],
@@ -109,7 +355,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 134279,
+      "followersCount": 134285,
       "friendsCount": 540,
       "location": ""
     },
@@ -127,7 +373,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 320140,
+      "followersCount": 320215,
       "friendsCount": 882,
       "location": "Santa Clara, CA"
     },
@@ -148,7 +394,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 258044,
+      "followersCount": 258056,
       "friendsCount": 166,
       "location": ""
     },
@@ -166,7 +412,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487054,
+      "followersCount": 487058,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -784,8 +1030,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 402516,
-      "friendsCount": 13136,
+      "followersCount": 403017,
+      "friendsCount": 13134,
       "location": "San Francisco, CA"
     },
     "images": [],
