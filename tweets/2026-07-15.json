@@ -1,6 +1,144 @@
 [
   {
     "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 320374,
+      "friendsCount": 882,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077506277647740929/vid/avc1/1280x720/kayXoep8k4PPuSy-.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2077528638723862723",
+    "fullText": "NVIDIA DeepStream 9.1 is here, with 13 agentic skills for building video analytics pipelines. \n\nInstead of manually building your vision AI pipeline from scratch, describe what you want in plain natural language. Use skills with a coding agent, like Claude Code or Codex, to easily handle setup, configuration, and execution. \n\nNew skills include Multi-View 3D Tracking (MV3DT) for tracking objects across multiple cameras, and AutoMagicCalib for automatically calibrating a camera network. \n\nThis release also brings NVIDIA JetPack 7.2 support for edge deployment on Jetson Orin and Thor. All open source on GitHub, check it out: https://t.co/NQu2lkqPna",
+    "createdAt": "Wed Jul 15 23:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "levie",
+      "name": "Aaron Levie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+      "description": "ceo @box - your business lives in content. unleash it with AI",
+      "followersCount": 3077261,
+      "friendsCount": 884,
+      "location": "Bay Area"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/levie/status/2077526010753581156",
+    "fullText": "Hosted a dinner last night with a group of IT leaders of large enterprises around agent adoption in the enterprise. Some quick notes:\n\n* Change management remains one of the biggest topics for driving workflow transformation. Still most processes need to be upgraded to modern operating models to work with agents, which is a mix of technology, data, and human process change. Lots of emphasis on getting data (structured and unstructured) into a setup that can work with agents properly.\n\n* IT teams are finding increasing success embedding full engineers into the business functions (essentially internal FDE) that go and implement agents into the internal workflows. There’s so much technical work to be done to make agents successful, that they can accelerate months or quarters of failed experiments by having someone technical in the workflow early.\n\n* Consensus that the tech function is becoming more important than ever. It’s clear that the business could only expect automation to affect a minority of the business before (e.g. ERP) but now it can impact all of knowledge work. This means IT is becoming a more central role to the workflows across the company.\n\n* Workflows are cross functional, and getting agents to work cross functionally is a complicated data modeling and permissions issue. Single users don’t have access to this. Which means you need to have agentic systems take on their own roles and have their own privileges, which is non-trivial given agents can’t keep things secure on their own.\n\n* Huge variance in budgets between coding work and the rest of knowledge work. Some companies had a $1,000 a month budget for developers, and others had much higher amounts (like $5,000) that were merely triggers to notify the team vs. block them. Far smaller budgets for non-coding work at the moment.\n\n* More companies are building their own multimodel systems for routing workloads by task to frontier and lower cost models. Lots of energy around open weights models, but still more in experimentation instead of at scale usage (some companies can’t due to perceived Chinese issue). \n\n* Clear sense that all enterprise software must be headless in the future. Relief that they don’t need to train employees on hundreds of different apps. However, clear frustration with the traditional vendors that don’t play extremely nice (technically or cost wise) with agents in a headless fashion. Huge warning for existing software vendors. \n\n* Mythos or mythos level-models are finding more and more sophsiticated security risks. The chaining together of vulnerabilities is what’s novel right now, and companies are coming up with long backlogs of what they need to go patch quickly.\n\nEven more discussed, but just a few of the hottest topics.",
+    "createdAt": "Wed Jul 15 22:49:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70761,
+      "friendsCount": 35852,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNTanQCWoAAV7ij.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2077525701096345826",
+    "fullText": "bad look https://t.co/pF78WASyZ7",
+    "createdAt": "Wed Jul 15 22:48:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodside",
+      "name": "Riley Goodside",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
+      "description": "Screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
+      "followersCount": 217773,
+      "friendsCount": 3522,
+      "location": "Virginia, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077524674397835264/vid/avc1/1024x1024/wPL4CE_xVl56LvGG.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/goodside/status/2077524757348577383",
+    "fullText": "Endless zoom on self-similar televisions; one-shotted by Claude Fable 5 Max https://t.co/4v6sxzuRKK",
+    "createdAt": "Wed Jul 15 22:44:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kimi_Moonshot",
+      "name": "Kimi.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
+      "description": "Built by Moonshot AI to empower everyone to be superhuman. \n@Kimidevs built for developers\n⚡️API: https://t.co/XCrgjXAqMw\nDC: https://t.co/wBsBTn6Ncc",
+      "followersCount": 183348,
+      "friendsCount": 136,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077452830621958144/vid/avc1/3840x2160/TqH2n_6cxpoQHIDx.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/Kimi_Moonshot/status/2077521842080817296",
+    "fullText": "https://t.co/vZrE9vCrU4",
+    "createdAt": "Wed Jul 15 22:33:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 404802,
+      "friendsCount": 868,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2077521219381821586",
+    "fullText": "Meta has 3.56 billion daily users. Google reaches 2.5 billion. OpenAI has a billion monthly actives. For 99% of the world they'll just use whatever is embedded in the apps they already use.",
+    "createdAt": "Wed Jul 15 22:30:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sapna",
+      "name": "Sapna Maheshwari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/766436031004602368/-snSkBUg_normal.jpg",
+      "description": "whatsupna? @nytimes business reporter. pun lover, Tar Heel, from CT. tips to sapna@nytimes.com, DM for Signal, WhatsApp.",
+      "followersCount": 39432,
+      "friendsCount": 1348,
+      "location": "Manhattan, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sapna/status/2077520323755315326",
+    "fullText": "heartbreaking: https://t.co/g0Sx53l7UT",
+    "createdAt": "Wed Jul 15 22:26:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36212,
+      "friendsCount": 1758,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNTVDmsaIAA615c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2077519860893159676",
+    "fullText": "有人开源了一个替代Lemlist的自托管的AI 拓客工具：OpenOutreach，专做 B2B 拓客，email-first  的AI 拓客工具。用法一句话：你只描述\"卖什么、卖给谁\"，它自己去找人、判断谁值得联系、从你邮箱发信、再读回复接着聊。\n\n市面上的 AI 拓客工具基本都在爬 LinkedIn，然后账号一个接一个被封。OpenOutreach 反着来：不开浏览器、不登任何社交账号、不爬虫——线索来自授权数据源，信从你自己的邮箱发。它天生就没有\"能被封的表面\"。\n\n它最值得看的是两个设计：\n\n1、无封号： 不爬虫、不碰 LinkedIn 账号、不开浏览器——firmographic 线索来自授权的数据源（BetterContact Lead Finder），发信走你自己邮箱的 SMTP。一堆靠爬社交平台的工具动不动就封号封域名，它把整个雷区绕开了。\n\n2、它会\"学\"你的理想客户画像，而不是无脑群发： 核心是一套贝叶斯主动学习：用高斯过程（GP）在 profile 的 384 维向量上做 explore/exploit——负样本多就 exploit（挑最可能匹配的填进管道），否则 explore（用 BALD 分数挑信息量最大的去标注）。每一次 大模型的判断都回喂模型，越用越懂你的 ICP。这不是\"AI 群发\"，是\"AI 主动去学谁值得联系\"。\n\n工程上还有两处处理得很好：\n\n1、省钱卡在架构里：只有过了 高斯过程GP 置信门槛的最匹配 lead，才会付费去查工作邮箱（一次命中扣一个 credit）；而且付费查询\"骑\"在你的发送额度上（每邮箱日上限）——永远不会查得比你发得多。\n\n2、agentic 跟进：发 AI 写的开场白 → IMAP 读回复 → agent 判断\"发/等/结束\" → 多轮跟进。整条管线是状态机（QUALIFIED→…→EMAILED→COMPLETED），任务队列自调度、断点续跑。自带 Django Admin 当 CRM，本地 SQLite，模型自带（OpenAI / Anthropic / 任意兼容）。\n\n这里泼一盆冷水：邮件本身有送达率、垃圾箱和 CAN-SPAM / GDPR 合规问题（它 onboarding 里也专门有 legal 步骤）。自动化群发一时爽，把域名发进黑名单也很快，别把它当\"无脑发就有客户\"。\n\n#OpenOutreach #B2B拓客 #AI销售 #自托管 #开源",
+    "createdAt": "Wed Jul 15 22:25:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "aigclink",
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
@@ -24,7 +162,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 329157,
+      "followersCount": 329166,
       "friendsCount": 210,
       "location": "London"
     },
@@ -40,8 +178,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70758,
-      "friendsCount": 35848,
+      "followersCount": 70761,
+      "friendsCount": 35852,
       "location": "latent space"
     },
     "images": [],
@@ -56,7 +194,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1023308,
+      "followersCount": 1023369,
       "friendsCount": 62,
       "location": "The Cloud"
     },
@@ -74,7 +212,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 329157,
+      "followersCount": 329166,
       "friendsCount": 210,
       "location": "London"
     },
@@ -92,7 +230,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 5027213,
+      "followersCount": 5027337,
       "friendsCount": 4,
       "location": ""
     },
@@ -110,7 +248,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 293401,
+      "followersCount": 293415,
       "friendsCount": 8328,
       "location": "United States"
     },
@@ -126,7 +264,7 @@
       "name": "Lex Fridman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1854713863817646088/nTmsz7jR_normal.jpg",
       "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
-      "followersCount": 5163582,
+      "followersCount": 5164676,
       "friendsCount": 688,
       "location": "Austin and Boston"
     },
@@ -142,7 +280,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 258082,
+      "followersCount": 258083,
       "friendsCount": 167,
       "location": ""
     },
@@ -158,7 +296,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 93544,
+      "followersCount": 93561,
       "friendsCount": 1099,
       "location": "HQ: San Francisco, CA"
     },
@@ -176,7 +314,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 293401,
+      "followersCount": 293415,
       "friendsCount": 8328,
       "location": "United States"
     },
@@ -192,7 +330,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 5510399,
+      "followersCount": 5512700,
       "friendsCount": 1021,
       "location": "SF"
     },
@@ -208,7 +346,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 470580,
+      "followersCount": 470772,
       "friendsCount": 4890,
       "location": "Miami / New York / Paris"
     },
@@ -244,7 +382,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 147674,
+      "followersCount": 147687,
       "friendsCount": 3302,
       "location": "on ⛓"
     },
@@ -262,7 +400,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 58340,
+      "followersCount": 58349,
       "friendsCount": 376,
       "location": "San Francisco, CA"
     },
@@ -278,7 +416,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x",
-      "followersCount": 1202535,
+      "followersCount": 1202801,
       "friendsCount": 2051,
       "location": "Palo Alto"
     },
