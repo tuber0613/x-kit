@@ -1,11 +1,111 @@
 [
   {
     "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 766024,
+      "friendsCount": 496,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2077337044003573819",
+    "fullText": "New paper published in Nature Health today from the Microsoft AI Futures team.\n\nAfter reviewing 1.7m conversations across 109 countries, it’s clear that Copilot is an invaluable resource particularly for people with low confidence in their health systems.\n\nWe've always known that technology is a great equalizer, driving broader access to better quality services. This is further evidence that AI is giving underserved people around the world access to invaluable support when they need it most.\n\nMany thanks to all the authors. Check out the paper here: https://t.co/fNfACzWGDJ",
+    "createdAt": "Wed Jul 15 10:18:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36203,
+      "friendsCount": 1758,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNQtSXWbQAAV53P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2077335633274745263",
+    "fullText": "BaoCut：是宝玉老师 @dotey 开发的转录+粗剪的Skill，对创作者，省掉的是逐句抠字幕的时间。安装到 Claude Code / Codex 上，即可用自然语言驱动 BaoCut 这个 skill 剪辑 app 的命令行。\n\n适用场景：对于喜欢将国外的演讲搬到国内的朋友来说简直就是福音，用baocut把视频/youtube的url导入即可完成翻译转录，对于搬运侠来说省了不少事。对于做跨境电商的朋友也很有价值，多语言转录也很有价值。\n\n昨天介绍的三家接 agent 都走 MCP——ChatCut 给闭源编辑器外挂 MCP 插件、OpenCut 把 MCP 写进重写路线图、Palmier 原生 MCP。BaoCut 换了个更轻的姿势：把 app 自带的 baocut CLI 包成一个 https://t.co/x8iW7w1d88 Agent Skill，agent 直接跑命令cli：\n\n· baocut --json auto talk.mp4 --lang zh   # 转写 → 润色 → 翻译，一条命令\n· baocut export <id> --srt --translated --lang zh\n\nBaoCut 解决的问题很垂直很精准：口播视频的转写、加字幕、翻译字幕、说话人复核、清理 talking-head、导出——这些正是知识博主/口播号最费时的机械活。以前逐句对字幕、手动翻译的活，现在跟 Claude Code 说句人话就跑完了。\n\n我测试baocut使用了下，字幕识别转录上，要比剪映的自动字幕识别要好，帮我把相关的语气词拿掉了、很多重复的语句也直接剪掉了，也可以直接将字幕翻译为十几种其他语言。\n#BaoCut #AI剪辑 #字幕翻译 #ClaudeCode #AgentSkill",
+    "createdAt": "Wed Jul 15 10:13:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 404652,
+      "friendsCount": 867,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2077333212984983589",
+    "fullText": "Four frontier AI models released in seven days. Fable Five, Grok 4.5, GPT 5.6, and Muse Spark. Not long ago, we got one model every six months. We're in the singularity.",
+    "createdAt": "Wed Jul 15 10:03:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Hailuo_AI",
+      "name": "Hailuo AI-MiniMax Hub",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1892843516251815936/Wf7QhAgR_normal.jpg",
+      "description": "Discord: https://t.co/ckCTEs189Q\nCreator Partnership Program(CPP): https://t.co/KLDCVOlRYA",
+      "followersCount": 74110,
+      "friendsCount": 575,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNQeqmfasAAzhFl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Hailuo_AI/status/2077319455072534689",
+    "fullText": "MiniMax at #WAIC2026 \nFind us at our Booth, hands-on workshops, and on expert panels!  \n\nHear the latest ideas shaping the industry, explore end-to-end AI creative workflow, and pick up some custom swag!  \n\nJUL 17–20. See you in Shanghai! ✨\n\n#MiniMax #Hailuo #MiniMaxHub",
+    "createdAt": "Wed Jul 15 09:08:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149638,
+      "friendsCount": 5399,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2077314859037819337",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Wed Jul 15 08:50:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 88812,
+      "friendsCount": 5315,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2077313170230624456",
+    "fullText": "this week will be a good once for the open-source",
+    "createdAt": "Wed Jul 15 08:43:49 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 232757,
+      "followersCount": 232763,
       "friendsCount": 7057,
       "location": ""
     },
@@ -21,7 +121,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 293221,
+      "followersCount": 293238,
       "friendsCount": 8327,
       "location": "United States"
     },
@@ -37,7 +137,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487045,
+      "followersCount": 487050,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -55,7 +155,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487045,
+      "followersCount": 487050,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -73,7 +173,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487045,
+      "followersCount": 487050,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -91,7 +191,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487045,
+      "followersCount": 487050,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -109,7 +209,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4064445,
+      "followersCount": 4066551,
       "friendsCount": 795,
       "location": ""
     },
@@ -125,7 +225,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 293221,
+      "followersCount": 293238,
       "friendsCount": 8327,
       "location": "United States"
     },
@@ -143,7 +243,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 402374,
+      "followersCount": 402516,
       "friendsCount": 13136,
       "location": "San Francisco, CA"
     },
@@ -435,8 +535,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36205,
-      "friendsCount": 1757,
+      "followersCount": 36203,
+      "friendsCount": 1758,
       "location": ""
     },
     "images": [
