@@ -1,11 +1,198 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36212,
+      "friendsCount": 1758,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNTM0y1asAA9cUk.jpg",
+      "https://pbs.twimg.com/media/HNTPuuka0AAAKLe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2077514051169751325",
+    "fullText": "最近这半年多都是中国模型公司在主导开源界，美国开源模型圈相对静悄悄：今天美国公司Thinking Machines算是平地一声雷， 发布了它的首个开源大模型 Inkling让美国开源圈有点沸腾，虽然它不是最强霸榜的，但其主打定制化微调还挺有趣的。\n\nInkling ：MoE 架构，总参 975B、每 token 激活 41B ，1M 上下文，多模态（文本/图像/音频/视频），权重已经上了 Hugging Face，另有一个 Inkling-Small（276B/12B激活）预览版。\n\n官方承认：\"Inkling 不是当今最强的模型，无论开源还是闭源，文本上相比于glm 5.2整体还有差距，在design area 排名第9。\n\n跑分上它确实不领先——文本推理 HLE 只有 29.7%（顶级开源 GLM 5.2 是 40.1%，闭源 Claude Fable 5 是 53.3%），AIME 2026 拿了 97.1%，也没到 99% 那一档。\n\n官方的论点是：再强的通用模型，也解决不好很多真实世界的问题，这道差距要靠\"用你自己的专有知识去微调\"来补，所以 Inkling 不是拿来屠榜的，是拿来当你自己微调的底座——配套的 Tinker 微调平台才是真正的产品。一个实验室罕见地把话说明白了：模型不是终点，定制才是，这倒是挺有工程思维。\n\n技术上有几个值得记的点：\n\n1、高效思考：effort 可调（0.2–0.99），性能随 token 预算 log-linear 上升；在 Terminal Bench 2.1 上，用大约 1/3 的 token 就打平了 Nemotron 3 Ultra。\n\n2、训练：45 万亿 token 多模态预训练，Muon（大矩阵）+ Adam 混合优化，用相对位置编码而非 RoPE（外推更好）；后训练是 3000 万+ rollout 的异步 RL，还专门加了 abstention-aware 奖励——教它\"不确定就说不知道\"，校准是它的卖点之一。\n\n3、架构：256 个路由专家 + 2 个共享专家、每 token 激活 6 个，sigmoid 路由 + 无辅助损失负载均衡（DeepSeekMoE 那套）。\n\n最戏剧性的一个 demo：它在 Tinker 上端到端微调了\"它自己\"。 模型自己写微调目标（一个通篇不用字母 e 的 lipogram）、自己造训练数据、跑了 27 分钟训练、自己评估、自己更新权重，然后真的照做了，最终模型给自己定制——这个画面挺震的。\n\n当所有人都在卷\"谁的通用模型最强\"，Thinking Machines 押的是另一条路：模型只是底座，价值在你用它微调出的那个定制版本。这条路对不对，可能比又一个屠榜分数更值得盯着看。\n\n#Inkling #ThinkingMachines #开放权重 #Tinker #MiraMurati",
+    "createdAt": "Wed Jul 15 22:02:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 329157,
+      "friendsCount": 210,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2077513852225273905",
+    "fullText": "Ah well.\n\nLast World Cup before AGI",
+    "createdAt": "Wed Jul 15 22:01:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70758,
+      "friendsCount": 35848,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2077508959905194246",
+    "fullText": "England finally realizing that it is never coming home.",
+    "createdAt": "Wed Jul 15 21:41:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1023308,
+      "friendsCount": 62,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077507481841078272/vid/avc1/1280x720/MC0z8FVJ2Az4o45k.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2077507539365957705",
+    "fullText": ".@pmarca's advice to college students:  \"Gain AI superpowers. I think it's actually very straightforward.\"\n\n\"You have the enormous stroke of luck that you have arrived at the moment in which there is this new capability for augmenting human ability on a thousand fronts at the same time, that's just dropped into our laps, and it's going to get much better from here.\"\n\n \"You are gonna have the opportunity to have this be something that is absolutely key to your skill set and key to everything that you can accomplish as a professional or as a creative for the next 50 years.\"\n\n\"I would just lean in incredibly hard on that. Walk into every job interview with, 'Here's my portfolio, resume, whatever. Here is how I use this technology. Here are the capabilities that I'm bringing to the table.'\"\n\n@eriktorenberg @MTSlive",
+    "createdAt": "Wed Jul 15 21:36:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 329157,
+      "friendsCount": 210,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HNTFAPqXMAAYQuX.mp4"
+    ],
+    "tweetUrl": "https://x.com/EMostaque/status/2077501945720229904",
+    "fullText": "England football team should go fully positive &amp; aggressive from now on\n\nWe should call it Gazball\n\nNo shame in losing, far less stress as we have seen with cricket team https://t.co/zuMIPkgFiG",
+    "createdAt": "Wed Jul 15 21:13:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5027213,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2077499668737781760/vid/avc1/3840x2160/kxaCMuRAlXYLfMTe.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2077501603050033634",
+    "fullText": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time. https://t.co/hY3wkHVG7z",
+    "createdAt": "Wed Jul 15 21:12:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 293401,
+      "friendsCount": 8328,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2077499482107981931",
+    "fullText": "So both Mexican teams made it to the final, huh.",
+    "createdAt": "Wed Jul 15 21:04:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "lexfridman",
+      "name": "Lex Fridman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1854713863817646088/nTmsz7jR_normal.jpg",
+      "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
+      "followersCount": 5163582,
+      "friendsCount": 688,
+      "location": "Austin and Boston"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lexfridman/status/2077499349794263457",
+    "fullText": "Messi is going to the World Cup final!!!!! Great game, heartbreaking for England. Two legendary teams. What an amazing world cup🤯 LFG!",
+    "createdAt": "Wed Jul 15 21:03:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 258082,
+      "friendsCount": 167,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2077498490146484381",
+    "fullText": "Governing agents requires teams to think across the full system, from authentication, audit logs, rate limits, fallbacks, and centralized spend controls.\n\nOur latest conceptual guide, breaks down the foundations teams need to manage access, protect sensitive data, enforce policies, and control costs as agents move into production.\n\nhttps://t.co/d3RnFxFdKk",
+    "createdAt": "Wed Jul 15 21:00:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 93544,
+      "friendsCount": 1099,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNTAsJGWkAARsSD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2077497213370900955",
+    "fullText": "Teams no longer have to choose between multi-engine flexibility, performance, and centralized governance.\n\nExternal access to Unity Catalog managed Delta tables is now in Public Preview. Engines like Apache Spark, Apache Flink, and DuckDB, can create, read, and write to the same governed copy of data. Behind the scenes, Predictive Optimization improves query performance and lowers storage costs.\n\nMigrating to UC managed tables is easy - simply upgrade your external tables with ALTER TABLE SET MANAGED. \n\nhttps://t.co/GYjpPNXrmu",
+    "createdAt": "Wed Jul 15 20:55:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 293401,
+      "friendsCount": 8328,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2077494726765461836",
+    "fullText": "As long as both teams have good time.",
+    "createdAt": "Wed Jul 15 20:45:15 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "sama",
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 5509821,
+      "followersCount": 5510399,
       "friendsCount": 1021,
       "location": "SF"
     },
@@ -21,7 +208,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 470378,
+      "followersCount": 470580,
       "friendsCount": 4890,
       "location": "Miami / New York / Paris"
     },
@@ -57,7 +244,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 147669,
+      "followersCount": 147674,
       "friendsCount": 3302,
       "location": "on ⛓"
     },
@@ -75,7 +262,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 58333,
+      "followersCount": 58340,
       "friendsCount": 376,
       "location": "San Francisco, CA"
     },
@@ -91,7 +278,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x",
-      "followersCount": 1202372,
+      "followersCount": 1202535,
       "friendsCount": 2051,
       "location": "Palo Alto"
     },
@@ -109,7 +296,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 88846,
+      "followersCount": 88849,
       "friendsCount": 5315,
       "location": "Paris"
     },
@@ -127,8 +314,8 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 258073,
-      "friendsCount": 166,
+      "followersCount": 258082,
+      "friendsCount": 167,
       "location": ""
     },
     "images": [
@@ -145,8 +332,8 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
-      "followersCount": 404782,
-      "friendsCount": 867,
+      "followersCount": 404787,
+      "friendsCount": 868,
       "location": ""
     },
     "images": [],
@@ -161,7 +348,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 376799,
+      "followersCount": 376973,
       "friendsCount": 1,
       "location": ""
     },
@@ -179,7 +366,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149639,
+      "followersCount": 149642,
       "friendsCount": 5399,
       "location": "Montréal · Québec"
     },
@@ -197,7 +384,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 92528,
+      "followersCount": 92540,
       "friendsCount": 921,
       "location": "Seattle"
     },
