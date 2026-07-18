@@ -1,11 +1,64 @@
 [
   {
     "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 88889,
+      "friendsCount": 5318,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2078393055376199817",
+    "fullText": "we all live this life for the first time like everyone else, so chill, touch some grass, none of us know what we're doing at all",
+    "createdAt": "Sat Jul 18 08:14:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36214,
+      "friendsCount": 1760,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNffw-EaQAA5pmt.jpg",
+      "https://pbs.twimg.com/media/HNff4ClasAAVLZO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2078376083309903913",
+    "fullText": "GEORank：有人面向 GEO（生成式引擎优化）做了一个开源的自托管工作台——诊断你的品牌在 ChatGPT/Claude/Perplexity 等 AI 搜索里的可见性，再落成 30/60/90 天方案，它解决的问题很具体：\n\n1、AI 到底能不能准确理解你的公司、产品、专业能力？\n2、你官网的内容，有没有\"能被 AI 摘要、引用、推荐\"的结构？\n3、Schema、页面结构、Meta、引用信号、可读性——先优化哪个？\n4、一次诊断，生成 30/60/90 天的行动方案\n\n作者把 GEO 拆成了一条完整流水线：发现 → 诊断（查 Schema / 结构 / Meta / 可读性 / 引用信号 / AI 可见性）→ AI 问答 → 出方案 → 拓词 → 结构化 → 后台管理。配套工具里有 JSON-LD 生成器、llms.txt 生成器、AI 友好度评分、GEO 标题生成器、知识库生成器——llms.txt 那个尤其点题，它就是给 AI 爬虫看的\"网站说明书\"。\n\n其可作为\"团队内部 GEO 工具箱\"，可私有化部署 + 二次开发，给客户做 GEO 服务（咨询公司/营销机构/独立顾问）。\n\nGEO 现在是热词，但 AI 到底引不引用你，没人能保证——README 里直接写了\"不出售排名，不保证任何模型一定推荐某个品牌\"。这套工具帮你的是把\"能做的结构性优化\"做扎实，不是买通 AI。\n\n#GEO #生成式引擎优化 #AI搜索 #开源 #SEO",
+    "createdAt": "Sat Jul 18 07:07:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 240917293,
+      "friendsCount": 1370,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2078095580375531520/vid/avc1/1920x1080/NeeFK3qJrAFYiTK2.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2078366941199171689",
+    "fullText": "Easy predictions https://t.co/zFUqwOKAW9",
+    "createdAt": "Sat Jul 18 06:31:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -23,7 +76,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -41,7 +94,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -59,7 +112,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 231413,
+      "followersCount": 231433,
       "friendsCount": 1688,
       "location": "Chicago, IL"
     },
@@ -75,7 +128,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -93,7 +146,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -111,7 +164,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -129,7 +182,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -147,7 +200,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -165,7 +218,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -183,7 +236,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487092,
+      "followersCount": 487097,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -201,7 +254,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x",
-      "followersCount": 1213574,
+      "followersCount": 1213911,
       "friendsCount": 2052,
       "location": "Palo Alto"
     },
@@ -217,8 +270,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 294321,
-      "friendsCount": 8340,
+      "followersCount": 294339,
+      "friendsCount": 8339,
       "location": "United States"
     },
     "images": [],
@@ -233,7 +286,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "Starmind",
-      "followersCount": 240919688,
+      "followersCount": 240917293,
       "friendsCount": 1370,
       "location": ""
     },
@@ -251,8 +304,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 407442,
-      "friendsCount": 13151,
+      "followersCount": 407548,
+      "friendsCount": 13152,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -267,7 +320,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 232895,
+      "followersCount": 232897,
       "friendsCount": 7063,
       "location": ""
     },
@@ -282,12 +335,28 @@
   },
   {
     "user": {
+      "screenName": "hardmaru",
+      "name": "hardmaru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
+      "description": "Co-Founder and CEO @SakanaAILabs 🎏",
+      "followersCount": 423105,
+      "friendsCount": 1899,
+      "location": "Minato-ku, Tokyo"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hardmaru/status/2078314314168246376",
+    "fullText": "Diffusing Blame: Task-Dependent Credit Assignment in Biologically Plausible Dual-Stream Networks\n\nhttps://t.co/UcDGAKTl12",
+    "createdAt": "Sat Jul 18 03:02:00 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 294321,
-      "friendsCount": 8340,
+      "followersCount": 294339,
+      "friendsCount": 8339,
       "location": "United States"
     },
     "images": [],
@@ -302,8 +371,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36216,
-      "friendsCount": 1759,
+      "followersCount": 36214,
+      "friendsCount": 1760,
       "location": ""
     },
     "images": [
@@ -320,7 +389,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 232895,
+      "followersCount": 232897,
       "friendsCount": 7063,
       "location": ""
     },
