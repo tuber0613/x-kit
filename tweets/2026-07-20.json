@@ -1,12 +1,78 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36233,
+      "friendsCount": 1765,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2078839323378802688/vid/avc1/1920x1080/TgzwCHP9gjJy_5Xa.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2079181867593736660",
+    "fullText": "MiniCPM-Robot：面壁智能开源的机器人“大脑”，首发两个模型，一个管手（操作），一个管腿+眼（跟踪）：\n\n① MiniCPM-RobotManip —— 1.5B 的通用操作 VLA（视觉-语言-动作），一套权重通吃所有下游任务，仿真和真机都能跑。官方跑分里，它以 1.5B 的体量，在 RoboTwin2（hard）拿 91.6、RMBench 拿 53.3——RMBench 这项直接把 π₀.₅ 的 10.4 甩开一大截，RoboTwin2 也追平了 5B+ 的 LingBot-VA。用最小的模型打到第一梯队，这才是它敢开源的底气。\n\n② MiniCPM-RobotTrack —— 0.9B，号称首个完全端上运行的具身目标跟踪模型。 让机器狗\"盯着一个人跟\"：静态、动态、还有故意甩你的对抗目标都覆盖。在 EVT-Bench 上是开源 SOTA，跑在宇树 Go2 EDU 的板载算力上、纯视觉、听自然语言指令，稳定 5+ FPS / 端到端约 180ms。README 里三个 demo——户外避障跟随、电梯里跟、地下车库跟。\n\n技术上，\"怎么让小模型带上记忆还不卡\"：\n\n机器人做决策要看历史画面，传统做法是每步把历史重算一遍——60 帧历史，一步决策要 125 TFLOPs，RobotManip 用流式推理把历史观测增量并进上下文，同样 60 帧只要 3.3 TFLOPs，等于用接近\"单帧反应式\"的在线成本，撑起了最长 1 分钟的视觉记忆。再叠上从 MiniCPM-V 4.6 继承的视觉 token 压缩（每帧 256→64，压 4 倍），单帧前向在 H100 上每步 120ms，π₀.₅ 是 234ms——快一倍。\n\nRobotTrack 那边靠的是数据飞轮：DAgger 让模型先学通用场景，再进模拟器和真机去撞长尾（目标交叉、急转、短暂遮挡、多人穿插），被专家策略纠正的样本回炉再训，一轮轮把跟踪稳定性磨上去。\n\n放进赛道看，这半年具身智能开源特别密——前几天聊过蚂蚁 RobbyAnt 的 LingBot 三件套（感知 Vision / 世界模型 World / 视频基座 Video），它 LingBot-VA 也在这张操作评测表里。面壁这次的差异点很清楚：别人拼参数上探能力上限，它拼\"把能力压进能装进机器人板子的小模型\"——1.5B 操作、0.9B 跟踪，都是奔着真上机器人、不是奔着刷榜去的。这正是机器人最缺的那块：算力受限、还要实时。\n\n落地： \n1、权重在 HF（openbmb/MiniCPM-RobotManip、RobotTrack），conda 起环境、vla_infer.py 一张图 + 一句指令就出动作块。\n2、RobotTrack 有宇树 Go2 EDU 的一键部署脚本，而且发布当天 PhyAI 就做了 Day-0 适配，把 H20 上的推理从 10Hz 拉到 37Hz。\n\n机器人的军备竞赛，正在从\"谁的模型更大\"转向\"谁能把大模型的能力，塞进一块跑得动、还要实时的机器人板子里\"。面壁这两个模型，押的是后半句。\n\n#MiniCPMRobot #具身智能 #机器人 #VLA #面壁智能\n\nhttps://t.co/Mq3HUWNfzc",
+    "createdAt": "Mon Jul 20 12:29:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 406391,
+      "friendsCount": 867,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2079174938968084642",
+    "fullText": "SpaceX is achieving the unimaginable, it has completed 80 Falcon 9 launches in 2026 before mid-year. On pace for over 150 by December. A launch cadence that would have been inconceivable for any space agency a decade ago.",
+    "createdAt": "Mon Jul 20 12:01:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 235439,
+      "friendsCount": 6,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2079172722161299801",
+    "fullText": "During Preview, Qwen3.8 is getting better by the day. Latest version is live now, with broad gains and a big step up on web frontend.\n\nThank you all — the response to Qwen3.8-Max-Preview blew us away. 🫶🫶\n\nQwen3.8 is still evolving daily. Come test it, and tell us what breaks.\n\nWe're looking forward to a more capable, official version — and to open-weight it for everyone.🚀🚀",
+    "createdAt": "Mon Jul 20 11:53:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149593,
+      "friendsCount": 5404,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2079156370591437168",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Mon Jul 20 10:48:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70811,
-      "friendsCount": 35941,
+      "followersCount": 70812,
+      "friendsCount": 35944,
       "location": "latent space"
     },
     "images": [],
@@ -23,8 +89,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 410961,
-      "friendsCount": 13163,
+      "followersCount": 411091,
+      "friendsCount": 13164,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -41,7 +107,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 148553,
+      "followersCount": 148632,
       "friendsCount": 3323,
       "location": "on ⛓"
     },
@@ -75,8 +141,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 410961,
-      "friendsCount": 13163,
+      "followersCount": 411091,
+      "friendsCount": 13164,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -91,7 +157,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 475200,
+      "followersCount": 475217,
       "friendsCount": 1555,
       "location": "Austin, TX"
     },
@@ -107,7 +173,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
-      "followersCount": 406334,
+      "followersCount": 406391,
       "friendsCount": 867,
       "location": ""
     },
@@ -125,8 +191,8 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 62619,
-      "friendsCount": 11179,
+      "followersCount": 62614,
+      "friendsCount": 11178,
       "location": "San Francisco"
     },
     "images": [
@@ -144,7 +210,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36231,
+      "followersCount": 36233,
       "friendsCount": 1765,
       "location": ""
     },
@@ -163,7 +229,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 707703,
+      "followersCount": 707721,
       "friendsCount": 826,
       "location": "United States"
     },
@@ -179,7 +245,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 707703,
+      "followersCount": 707721,
       "friendsCount": 826,
       "location": "United States"
     },
@@ -196,7 +262,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
       "followersCount": 5694,
-      "friendsCount": 1182,
+      "friendsCount": 1183,
       "location": "Beijing"
     },
     "images": [
@@ -217,7 +283,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
       "followersCount": 5694,
-      "friendsCount": 1182,
+      "friendsCount": 1183,
       "location": "Beijing"
     },
     "images": [
@@ -253,8 +319,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 294978,
-      "friendsCount": 8341,
+      "followersCount": 295008,
+      "friendsCount": 8342,
       "location": "United States"
     },
     "images": [],
@@ -269,8 +335,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 294978,
-      "friendsCount": 8341,
+      "followersCount": 295008,
+      "friendsCount": 8342,
       "location": "United States"
     },
     "images": [],
@@ -285,7 +351,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 5044,
+      "followersCount": 5053,
       "friendsCount": 1648,
       "location": "Join over 105,000 readers at"
     },
@@ -303,7 +369,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 5044,
+      "followersCount": 5053,
       "friendsCount": 1648,
       "location": "Join over 105,000 readers at"
     },
@@ -321,7 +387,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 5044,
+      "followersCount": 5053,
       "friendsCount": 1648,
       "location": "Join over 105,000 readers at"
     },
@@ -339,7 +405,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 5044,
+      "followersCount": 5053,
       "friendsCount": 1648,
       "location": "Join over 105,000 readers at"
     },
@@ -357,7 +423,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 5044,
+      "followersCount": 5053,
       "friendsCount": 1648,
       "location": "Join over 105,000 readers at"
     },
@@ -375,7 +441,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36231,
+      "followersCount": 36233,
       "friendsCount": 1765,
       "location": ""
     },
@@ -393,7 +459,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 5044,
+      "followersCount": 5053,
       "friendsCount": 1648,
       "location": "Join over 105,000 readers at"
     },
@@ -411,8 +477,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 294978,
-      "friendsCount": 8341,
+      "followersCount": 295008,
+      "friendsCount": 8342,
       "location": "United States"
     },
     "images": [],
@@ -709,7 +775,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4186197,
+      "followersCount": 4186475,
       "friendsCount": 793,
       "location": ""
     },
