@@ -1,6 +1,525 @@
 [
   {
     "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsWh7iW4AE8u_a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079280430520398030",
+    "fullText": "Artificial Intelligence for Cybersecurity: https://t.co/U3y6Iyu0kA\n\n𝒦𝑒𝓎 𝐹𝑒𝒶𝓉𝓊𝓇𝑒𝓈:\n🟠Learn AI methods and see how they fit into cybersecurity\n🔵Learn how to design solutions in cybersecurity that include AI as a key feature\n🔴Acquire practical AI skills using step-by-step exercises and code examples",
+    "createdAt": "Mon Jul 20 19:01:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsVK6SXIAEwdd-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079278936379228169",
+    "fullText": "Learn about NumPy for Python…\n\nhere: https://t.co/Ccb6JV1ueV\n\nand here: https://t.co/o4B2sIU0Ti\n\n#DataScience #DataScientist https://t.co/DS9i8aB5LL",
+    "createdAt": "Mon Jul 20 18:55:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsU7GHXMAAAOPL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079278663107805398",
+    "fullText": "Hey coders and computational scientists! If you have never implemented Genetic Algorithms for your simulation, parameter search, and optimization problems & challenges, then you have really missed out. Get this book. I used GAs in my galaxy collisions simulation research as a Research Astrophysicist. I was hooked immediately — GAs are incredibly clever and efficient for some NP-hard problems. But you don't need a PhD to benefit. You need this book.\n\nHands-On Genetic Algorithms with #Python — Apply genetic algorithms to solve real-world #AI and #MachineLearning problems [2nd Edition]: https://t.co/STUz6FNF8o\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🔵Learn how to implement genetic algorithms using Python libraries DEAP, scikit-learn, and NumPy.\n🟢Take advantage of cloud computing technology to increase the performance of your solutions.\n🟠Discover bio-inspired algorithms such as particle swarm optimization (PSO).",
+    "createdAt": "Mon Jul 20 18:53:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452852,
+      "friendsCount": 580,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2079276907183702436",
+    "fullText": "Serveless, but for models, is here!\n\nI stopped renting servers 12 years ago. I mostly moved everything to serverless functions.\n\nIt's taken a long time for this idea to work with AI models.\n\nThe issue was simple: You can start a simple function in milliseconds and scale it down to zero for free, but loading a 20GB model into memory takes quite a bit of time.\n\nAnd once the model was loaded, forget about shutting it down. You'd better pay for an idle GPU than force the next user to wait while everything reloads.\n\nSo you have two options:\n\n1. Optimize for low-latency answers and pay for an idle GPU, or\n2. Optimize for lower costs by scaling to zero and making users wait\n\nBoth are bad, and fortunately, we don't need to choose anymore.\n\nRunpod, the new AI developer cloud, is doing something really clever to solve this problem:\n\n• They don't shut down idle models\n• Instead, they move them to somewhere cheaper\n• When traffic returns, they page the model back to the GPU\n\nThis whole process is extremely fast: cold starts drop below 200ms for busy endpoints. They call this technique \"FlashBoot\".\n\nOn top of that, to deploy your models, they ditched Docker because they don't want you spending time rebuilding a massive image every time you change a line. Instead, you get a Python function with a line for the GPU you need. You can deploy in seconds with this.\n\nThe first run is always the slowest because you're installing dependencies, but after that, you can run very large models very quickly.\n\nIn summary:\n\n1. Serverless is here for models\n2. You don't need a better GPU\n3. It's actually 90% cheaper than 90% of what big clouds give you",
+    "createdAt": "Mon Jul 20 18:47:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsSjrPW0AAIXmd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079276315883008136",
+    "fullText": "New (2nd edition) at https://t.co/hZ56X8ADN7\n\nRAG-Driven Generative AI — Build MAS-RAG with DualRAG, GraphRAG, multimodal video pipelines, and Oracle Database 23ai (=Oracle’s major database release that natively embeds artificial intelligence and vector search directly into its converged database engine)\n\n𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:\n🟢Master DualRAG by combining vector search with SQL filtering over structured enterprise data.\n\n🟢Implement GraphRAG, Spatial-RAG, and vector search natively in Oracle Database 23ai.\n\n🟢Build multimodal video pipelines with human-feedback loops and fine-tuned models.\n\n𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀 𝘁𝗼 𝘁𝗵𝗲 𝗥𝗲𝗮𝗱𝗲𝗿:\n🟣Bring intelligence directly to the data within Oracle Database 23ai.\n\n🟣Defeat hallucinations and data poisoning with DualRAG, synchronizing vector semantics with structured SQL.\n\n🟣Build MAS-RAG pipelines with Planner, Agent Registry, and MCP-standardized sovereign agents.\n\n🟣Engineer an inference-time router using hybrid adaptive RAG to switch between reasoning, retrieval, and human feedback.\n\n🟣Fuse vector similarity, Oracle Spatial, and SQL Property Graph traversal into a converged hyper-query.\n\n🟣Deploy multimodal video RAG with version-controlled schema registry and semantic vector search over visual assets.",
+    "createdAt": "Mon Jul 20 18:44:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsSMNkXoAA0U7q.jpg",
+      "https://pbs.twimg.com/media/HNsSN95XIAAvv4c.jpg",
+      "https://pbs.twimg.com/media/HNsSQJ1XQAAapSV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079275726151311502",
+    "fullText": "Deep Learning with PyTorch — Step-by-Step Beginner's Guides (3 volumes)\n\nVol.1 (Fundamentals): https://t.co/OVTiCVXfH9\n\nVol.2 (Computer Vision): https://t.co/YrGvgi18lh\n\nVol.3 (Sequences and NLP): https://t.co/78cnfsc3Xe\n———\n#MachineLearning #ML #AI #DataScience #DataScientist https://t.co/E287NMFOpE",
+    "createdAt": "Mon Jul 20 18:42:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsR6nrXwAA6yeL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079275367035183501",
+    "fullText": "“Mastering NLP From Foundations to Agents” \n👉➡️ https://t.co/fnOUOFRuyu ⬅️👈\n\n𝗟𝗲𝗮𝗿𝗻 𝘁𝗵𝗶𝘀:\n🔶Engineer NLP systems from ML foundations to LLM architectures\n🔷Implement RAG pipelines, routing layers, and agent workflows\n🔶Fine-tune and align LLMs using LoRA, RLHF, and DPO methods\n🔷Design production-grade AI systems with governance and safety",
+    "createdAt": "Mon Jul 20 18:40:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsRuMfWUAAYQny.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079275143109448077",
+    "fullText": "AI Mastery >> The Complete Machine Learning Engineer Cookbook for Everyone — Become an AI Developer with Python: https://t.co/1drL3bedcY\n\nComplete 5-part Learning Path:\n1 - Build Your Foundation\n2 - Assemble Your ML Toolkit\n3 - Discover Deep Learning & Generative AI\n4 - Master Natural Language Processing (NLP)\n5 - Become an Optimization Expert",
+    "createdAt": "Mon Jul 20 18:39:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsRcwmWEAAo4cN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079274847302201845",
+    "fullText": "\"DeepSeek in Practice: From basics to fine-tuning, distillation, agent design, and prompt engineering of open source LLM\" at https://t.co/Y7rAH2DM9Z \n\n🔷Discover DeepSeek's unique traits in the LLM landscape\n🔷Compare DeepSeek's multimodal features with leading models\n🔷Consume DeepSeek via the official API, Ollama, and llama.cpp\n🔷Use DeepSeek for coding, document understanding, and creative ideation\n🔷Integrate DeepSeek with third-party platforms like OpenRouter and Cloudflare\n🔷Distill and deploy DeepSeek models into production environments\n🔷Identify when and where to use DeepSeek\n🔷Understand DeepSeek's open philosophy",
+    "createdAt": "Mon Jul 20 18:38:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsRPZXWoAAhUUK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079274614815924358",
+    "fullText": "\"Building Business-Ready Generative #AI Systems — Build Human-Centered Generative AI Systems with Context-Aware Agents, Memory, and LLMs for the Enterprise\" at https://t.co/Yez7ISFWav\n\nLearn how to:\n🔵Implement an AI controller with a conversation AI agent and orchestrator at its core\n🔵Build contextual awareness with short-term, long-term, and cross-session memory\n🔵Design cross-domain automation with multimodal reasoning, image generation, and voice features\n🔵Expand a CoT agent by integrating consumer-memory understanding\n🔵Integrate cutting-edge models of your choice without disrupting your existing GenAISys\n🔵Connect to real-time external data while blocking security breaches",
+    "createdAt": "Mon Jul 20 18:37:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70816,
+      "friendsCount": 35955,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2079274404161167738",
+    "fullText": "big deals getting signing rn - tres exciting.",
+    "createdAt": "Mon Jul 20 18:37:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x",
+      "followersCount": 1222555,
+      "friendsCount": 2052,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2079274167917269225",
+    "fullText": "@attilablenesi @geruk @e_matsyuk @zhao0506 @arkann1985 @x_belous @adrian579086 @vcoolish @art_antonov @gilsjulio @theapache64 There are still some rough edges. We're hustling quickly to get features out like hosting Spaces and improve performance on older devices. \n\nIf you have any feedback, feel free to let us know about any bugs you catch.",
+    "createdAt": "Mon Jul 20 18:36:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x",
+      "followersCount": 1222555,
+      "friendsCount": 2052,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079270544470650881/vid/avc1/1920x1080/rsF13dGO8Vi5E8Ns.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nikitabier/status/2079273272274026718",
+    "fullText": "Today we're announcing the completion of one of the largest engineering projects in the company's history:\n\nWe rebuilt the X Android app from scratch\n\nIt's faster, smoother and more reliable. But most of all: it will enable us to build new features at lightning speed.",
+    "createdAt": "Mon Jul 20 18:32:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 93578,
+      "friendsCount": 923,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2079272780298932708",
+    "fullText": "Doing a podcast tomorrow with @xeophon on the state of open models. Which of the infinite questions should we focus on? \n\nThis will be a place to get into details, rather than just recap what happened.",
+    "createdAt": "Mon Jul 20 18:30:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 93841,
+      "friendsCount": 1099,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsMBNEX0AAvsJ5.png",
+      "https://pbs.twimg.com/media/HNsMCbGXYAAKNhx.png",
+      "https://pbs.twimg.com/media/HNsMDpPWIAA9Jxw.png",
+      "https://pbs.twimg.com/media/HNsME34XYAAScvn.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2079268951607926983",
+    "fullText": "Building beautiful, on-brand dashboards just got easier 📊\n\nDashboard and workspace themes in AI/BI let you customize fonts, colors, and visualization palettes for a cohesive experience. \n\nApply a theme to one dashboard, or set it once at the workspace level and have it carry across every dashboard.\n\nSee how it works:\nhttps://t.co/PCDO6uWODo",
+    "createdAt": "Mon Jul 20 18:15:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsLg8yXIAE4STJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079268318926569644",
+    "fullText": "Claude AI for Beginners - The Complete Step-by-Step Guide to Prompt Engineering, Content Creation, Automation and Productivity with Claude AI (from the Claude AI Mastery Series): https://t.co/rGSnLi7cYm https://t.co/bJsYECxjCG",
+    "createdAt": "Mon Jul 20 18:12:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "v_vashishta",
+      "name": "Vin Vashishta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
+      "description": "Author, Best Seller “From Data To Profit.” I wrote the playbook for enterprise data & AI monetization. AI advisor, speaker, & course instructor.",
+      "followersCount": 28405,
+      "friendsCount": 1057,
+      "location": "Reno"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/v_vashishta/status/2079267988059128212",
+    "fullText": "To compete against China's open-source AI, get more people to use it, not fewer. They don't have the compute to support demand, and the more you have to ration GPUs and memory, the more model performance degrades. Costs also scale with use to the point where they become unsustainable.\nBanning these models will make them look better because every request will get full compute resources. Why does no one determining policy seem to understand how the tech works?",
+    "createdAt": "Mon Jul 20 18:11:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487147,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsKxQYXIAANh7E.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2079267501616300233",
+    "fullText": "The Quick Python Book, by Naomi Ceder, from @ManningBooks (4th Edition) at https://t.co/bkcFfYf31Q\n⚛️⚛️⚛️\nFast-paced #Python introduction covers:\n✴️Python syntax, data structures, best practices\n✴️Python as an object oriented language\n✴️Common Python libraries\n✴️Basic data handling with Python\n✴️Using AI code generation tools with Python",
+    "createdAt": "Mon Jul 20 18:09:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 380727,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2079266484044648949",
+    "fullText": "We’re live for the final Build Week stream. \n\nSee Sites in action and make your final push.\n\nhttps://t.co/tVzHwtlB2k",
+    "createdAt": "Mon Jul 20 18:05:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 406623,
+      "friendsCount": 867,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2079265572957667575",
+    "fullText": "The most futuristic thing you can do is deeply unglamorous. Sleep on a schedule. Move every day. Eat real food. Guard your mind. The technology to add years to your life is coming fast. The habits that keep you here to use it are already sitting in front of you.",
+    "createdAt": "Mon Jul 20 18:01:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 406623,
+      "friendsCount": 867,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2079265355747229874",
+    "fullText": "https://t.co/xap8XXNMt3",
+    "createdAt": "Mon Jul 20 18:01:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70816,
+      "friendsCount": 35955,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsF_t7XEAAHWGP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2079262259029705002",
+    "fullText": "👋 cfo friends!\n\nalta ares is rapidly scaling across multiple geos and we're now hiring our chief financial officer\n\ncome to paris to help build a next-gen air defense neoprime that has outsized impact on the world you and your family will live in tomorrow\n\nlink below https://t.co/jRLmycqvT1",
+    "createdAt": "Mon Jul 20 17:48:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "polynoamial",
+      "name": "Noam Brown",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872883170292457472/8ywVGO5M_normal.jpg",
+      "description": "Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o-series 🍓 reasoning models",
+      "followersCount": 151362,
+      "friendsCount": 938,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/polynoamial/status/2079260550895382965",
+    "fullText": "Long-running models can solve hard open-ended problems, but their persistence can create safety risks that shorter-horizon evaluations miss.\n\nWe’re sharing what we learned from studying a long-running model, and how those findings are shaping our approach to evaluations, alignment, monitoring, and user control.\n\nhttps://t.co/yePIzJGsAU",
+    "createdAt": "Mon Jul 20 17:42:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 708122,
+      "friendsCount": 827,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2079259394890731598",
+    "fullText": "Always keep in mind that the rate of change matters more than the current metric value",
+    "createdAt": "Mon Jul 20 17:37:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 233898,
+      "friendsCount": 7065,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNsB5p9aAAA4wQ_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2079257745111310613",
+    "fullText": "Spent all weekend thinking about what the US should do about the threat from China. Here’s what I came up with. \n\n(To read it type the link that you can see in bottom right, and blame Elon for his anti-competitive walled-garden link policies.) https://t.co/eXQkkmbWZk",
+    "createdAt": "Mon Jul 20 17:30:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1539186,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2079256626771665098",
+    "fullText": "We're offering grants of up to $50,000 in Claude usage credits to researchers accelerating cures for rare diseases.\n\nThis is our first focused call within AI for Science, our program supporting scientists using Claude to speed up discovery. https://t.co/rZEmwh07cd",
+    "createdAt": "Mon Jul 20 17:26:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 295177,
+      "friendsCount": 8346,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2079256606441885696",
+    "fullText": "US is a massive welfare state, but we haven't noticed it for a while because most of the wealth transfer has been accomplished through corporate subsidies, special tax incentives, and other mechanisms that preserve the illusion of free market economics.",
+    "createdAt": "Mon Jul 20 17:26:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 487819,
+      "friendsCount": 4891,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNr-Bk7WgAA1-Lf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2079253659108409587",
+    "fullText": "The cybersecurity debate on open-source AI is backwards. Open models aren't the risk, they're the defense! Attackers can already jailbreak any API or guardrails. Defenders can't secure systems with black boxes they can't control, inspect, test, or run locally. https://t.co/OiQ4sMd2gW",
+    "createdAt": "Mon Jul 20 17:14:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 295177,
+      "friendsCount": 8346,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2079251446655246675",
+    "fullText": "Options and competition are intrinsically accelerationist.",
+    "createdAt": "Mon Jul 20 17:05:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1027149,
+      "friendsCount": 62,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079249135128195072/vid/avc1/1920x1080/M3wA24vzHNS8ibE_.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2079250292420571308",
+    "fullText": "Amjad Masad on Going Direct & Founder Storytelling\n\nReplit CEO Amjad Masad joins a16z's Erik Torenberg on how he went from crippling stage fright to one of the most famous CEOs on X, which platforms actually matter and why, and what founders get wrong about building in public.\n\n00:50 Memeing a dream into reality\n03:02 Conquering stage fright\n04:00 Make your mistakes early\n05:23 Building in public\n06:41 The authenticity edge: Elon, Zuck, Trump\n08:42 Become uncancellable\n10:47 Advice for Anthropic and OpenAI\n15:09 The day AI deleted prod\n17:39 Who should go direct?\n19:37 X vs Instagram vs YouTube\n22:52 Go direct role models\n\n@amasad @eriktorenberg",
+    "createdAt": "Mon Jul 20 17:01:14 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
