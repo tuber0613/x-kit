@@ -1,11 +1,115 @@
 [
   {
     "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 88909,
+      "friendsCount": 5328,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNvXG1PWEAAEm1s.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2079492171674108005",
+    "fullText": "https://t.co/QHZQS1obrq",
+    "createdAt": "Tue Jul 21 09:02:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hq4ai",
+      "name": "汗青 HQ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
+      "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
+      "followersCount": 36631,
+      "friendsCount": 591,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079471444124450816/vid/avc1/1920x1080/wmK3_vcsM9WUh-r7.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/hq4ai/status/2079488639151817060",
+    "fullText": "YURI在WAIC2026的第二场活动演讲，感谢哈佛商业评论、信睿周刊、中信出版的邀请。 https://t.co/TnWSooLdd1",
+    "createdAt": "Tue Jul 21 08:48:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1689443134919327744/geqEJeF8_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 150442,
+      "friendsCount": 3328,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2079477211745403251",
+    "fullText": "is kinda weird when researchers describe models as having personalities in development (“things pretraining likes”)",
+    "createdAt": "Tue Jul 21 08:02:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 143866,
+      "friendsCount": 619,
+      "location": "Zürich, Suisse"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079477137023647745/vid/avc1/1080x1920/z1KwuSxd__mCgWmO.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/giffmana/status/2079477192635961698",
+    "fullText": "What an idyllic oldt.... oh! https://t.co/TDSxnuhIrY",
+    "createdAt": "Tue Jul 21 08:02:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36240,
+      "friendsCount": 1765,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNvGq3zbsAAFp1t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2079474371077566751",
+    "fullText": "29k star的“AI 克隆任意网站\"的开源skill来了”，输入/clone-website +<网址>，像素级还原网站：agent开始扒设计 token+素材、写组件规格、在 git worktree 里并行重建、再跟原站做视觉 diff。\n\n但\"能扒网站\"的工具满地都是，或者直接在claude也能做，这个能冲到 29k star，靠的是它把\"怎么让 agent 别糊弄\"这件事搞透了：\n\n① 大任务必败，所以它把任务切到很小：\n给 agent 一句\"把整个 features 区块建出来\"，它就会近似间距、猜字号，产出\"看着差不多、其实处处不对\"。给它一个单独组件 + 精确 CSS 值，它每次都能做对。仓库干脆立了条机械规则：单个 builder 的规格超过 ~150 行，就说明这块太复杂，必须拆——\"但它们是一体的\"不算理由。\n\n② 规格文件是\"合同\"，不是备忘：\n每个区块先落一份 spec 文件（截图、getComputedStyle() 的真实计算值、下好的本地素材路径、真实文案、多状态），再连同内容内联塞进 builder 的 prompt。没有 spec 就派活，等于让 builder 凭记忆瞎猜。\n\n③ 动手建之前，先判断\"这是点击驱动还是滚动驱动\"：\n仓库把这个叫\"最贵的错误\"：把一个滚动驱动的区块建成了点击切换的 Tab，就不是调 CSS，是整段重写。所以它的规矩是——先慢慢滚、看东西会不会自己变；不变再去点。\n\n并行工作怎么不冲突且能落地：builder agent 各自在 git worktree 里建自己那块，最后合并、接页面、跟原站做视觉 diff。和\"多 agent 隔离干活再汇总\"是同一套工程思路。\n\n#clonewebsite #agent克隆网站",
+    "createdAt": "Tue Jul 21 07:51:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 475431,
+      "friendsCount": 1556,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2079464926200889670",
+    "fullText": "When the hell did people start referring to “Anthropic” as “Ant?”\n\nI had never seen that before and saw it three times today.",
+    "createdAt": "Tue Jul 21 07:14:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nikitabier",
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x",
-      "followersCount": 1225535,
+      "followersCount": 1226173,
       "friendsCount": 2052,
       "location": "Palo Alto"
     },
@@ -21,7 +125,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 475410,
+      "followersCount": 475431,
       "friendsCount": 1556,
       "location": "Austin, TX"
     },
@@ -39,7 +143,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 295455,
+      "followersCount": 295511,
       "friendsCount": 8349,
       "location": "United States"
     },
@@ -55,7 +159,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 295455,
+      "followersCount": 295511,
       "friendsCount": 8349,
       "location": "United States"
     },
@@ -71,7 +175,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 512418,
+      "followersCount": 512427,
       "friendsCount": 3139,
       "location": ""
     },
@@ -87,7 +191,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487162,
+      "followersCount": 487164,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -126,7 +230,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 295455,
+      "followersCount": 295511,
       "friendsCount": 8349,
       "location": "United States"
     },
@@ -163,7 +267,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 512418,
+      "followersCount": 512427,
       "friendsCount": 3139,
       "location": ""
     },
@@ -179,7 +283,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 5078,
+      "followersCount": 5079,
       "friendsCount": 1650,
       "location": "Join over 105,000 readers at"
     },
