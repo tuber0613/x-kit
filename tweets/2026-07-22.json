@@ -1,12 +1,323 @@
 [
   {
     "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 258965,
+      "friendsCount": 170,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN2A5kBXgAElnRJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2079960332080951342",
+    "fullText": "Every turn of a conversation has two pieces.\n👤 What the user did: observable signals that tell you where the conversation is\n🤖 What the agent did: controllable inputs that condition where it goes next\n\n@GetCandidly's IO-HMM keeps these separate by design. \n👤 User behavior reads the state\n🤖 Agent behavior shifts it",
+    "createdAt": "Wed Jul 22 16:02:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107621,
+      "friendsCount": 606,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2079959949262663767",
+    "fullText": "When does personalizing interventions in medicine, education, or job training actually improve outcomes? Stanford HAI Associate Director @EmmaBrunskill and @Stanford postdoc Zhaoqi Li built a statistical test to measure when it is actually worth it: https://t.co/20UenWZHjs",
+    "createdAt": "Wed Jul 22 16:01:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 311832,
+      "friendsCount": 940,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN2AiXtaEAAmSQH.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2079959935031591112",
+    "fullText": "Are structured outputs in agents always good?\n\nThis paper suggests that you might have to take a closer look.\n\nYour product's structured output surface is measurably more homogeneous than the chat surface you benchmarked it on.\n\nTeams treat structured output as a formatting choice with no effect on content. This new work from Cornell tests that assumption across 44 models and finds the format itself reshapes the answers.\n\nOn an open-ended pick-a-word prompt, simply requesting JSON pushes the modal answer from 41% to 64% of responses and cuts distinct answers from 52 to 36.\n\nThe collapse shows up for JSON and XML, the formats models were post-trained to emit, and disappears for YAML and CSV. Enforcing a schema at the decoder compresses nothing further, which points the narrowing back to how the model answers the register itself.\n\nWhy does it matter?\n\nAny pipeline leaning on JSON mode for variety is sampling from a smaller pool than it thinks.\n\nPaper. https://t.co/xUIlDNtgWy\n\nLearn to build effective AI agents in our academy. https://t.co/1e8RZKs4uX",
+    "createdAt": "Wed Jul 22 16:01:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
+      "description": "Co-founder at @HuggingFace - moonshots - angel",
+      "followersCount": 120510,
+      "friendsCount": 7535,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079951872266313728/vid/avc1/854x480/9k3TDH-13yzsFGCH.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/2079954096950264238",
+    "fullText": "I don’t believe reality is a simulation, but you genuinely couldn’t script this timeline:\n\n• Two weeks ago: At @swyx’s AI Engineer World’s Fair in SF, I decide at the last minute to introduce my friend @uri_rolls onstage for his talk on cyber benchmarks for infrastructure penetration and access control (see below, amazing team).\n\nI say: “There is a future where cyber is alive and everyone is well protected and I’m pretty sure that future involves open-source models.”\n\nAnd later: “A big challenge is going to be speed: the speed of attack versus defense. When an intruder starts to enter, you have to see what’s happening and catch them.”\n\n• One week ago: @huggingface is hit by a sophisticated intrusion over the weekend. The traces look unlike anything we’ve seen before and suggest serious AI involvement, but we don’t yet know which model was used.\n\nThe closed models we ask for help choke on their guardrails. We need to react fast, so we turn to @Zai_org’s GLM-5.2 to help us analyze the attack.\n\n• Earlier this week: @OpenAI reaches out, discloses what happened, and partners with us on the investigation.\n\nThe intruder turns out to be exactly what we had discussed two weeks earlier: a fully autonomous agent, powered by an unreleased frontier model, attempting to gain access to part of our infrastructure.\n\nSometimes the timeline we live in is genuinely vertigo-inducing.",
+    "createdAt": "Wed Jul 22 15:37:55 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70860,
-      "friendsCount": 35999,
+      "followersCount": 70862,
+      "friendsCount": 36002,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2076661641731526656/vid/avc1/1920x1080/TKo_exLZ8vStJGrn.mp4?tag=28"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2079951100195598577",
+    "fullText": "Superhuman scientific discovery with @robertarail of @GoogleDeepMind at @raais2026:\n\nAI agents are self-improving. But they also plateau fast, while humans keep making conceptual leaps.\n\nRoberta's path to closing that gap: RL that finds Move 37 for science, evolutionary search rewarded for novelty, and DiscoBench, a benchmark of 400M+ research tasks.\n\nThe abacus never scaled into a computer. Her talk on why that matters for discovery.",
+    "createdAt": "Wed Jul 22 15:26:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 322687,
+      "friendsCount": 883,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN127pFW8AAsNvV.jpg",
+      "https://pbs.twimg.com/media/HN127pDW8AAb5Sa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2079949373069197658",
+    "fullText": "The new 4-step Cosmos 3 Super models generate images and video up to 25x faster than the originals, and still rank among the best open-weight models on @ArtificialAnlys.\n\n🥇 #1 for image-to-video (no audio)\n🥈 #2 for text-to-image\n\nTry them on @huggingface: https://t.co/clK5nFZ0sK",
+    "createdAt": "Wed Jul 22 15:19:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 512773,
+      "friendsCount": 3139,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN12GbDW4AAl9JO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2079948645491769755",
+    "fullText": "Solar Open2 250B just dropped on Hugging Face\n\nhttps://t.co/Njk8fuVdge https://t.co/MHriAkHI5I",
+    "createdAt": "Wed Jul 22 15:16:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sapna",
+      "name": "Sapna Maheshwari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/766436031004602368/-snSkBUg_normal.jpg",
+      "description": "whatsupna? @nytimes business reporter. pun lover, Tar Heel, from CT. tips to sapna@nytimes.com, DM for Signal, WhatsApp.",
+      "followersCount": 39416,
+      "friendsCount": 1348,
+      "location": "Manhattan, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sapna/status/2079948051796443554",
+    "fullText": "when you're here, you're family.! ... maybe, actually let me see your ID first https://t.co/PW4ViLwhti\n\n(amazing by @migold)",
+    "createdAt": "Wed Jul 22 15:13:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 161476,
+      "friendsCount": 1272,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN10IrUaAAEZCEt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2079946524235272613",
+    "fullText": "一个 Codepilot 新版的预告：\n\n在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力\n\n比如说：\n• 可以用 Grok 去检索 Twitter 上的内容\n• 让 DeepSeek 去生成文案\n• 让 Kimi K3 去生成网页\n\n你可以通过 SubAgent 让各个模型发挥它们的长处 https://t.co/ezXhDCGncp",
+    "createdAt": "Wed Jul 22 15:07:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 295920,
+      "friendsCount": 8358,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2079946497874169921",
+    "fullText": "The only thing worse than a Eurocrat regulatory overreach is an autocratic capricious overreach.",
+    "createdAt": "Wed Jul 22 15:07:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 512773,
+      "friendsCount": 3139,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079945908314161152/vid/avc1/1164x640/c1hl-KKOkchV65Rf.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2079945991470358945",
+    "fullText": "ABot-World-0\n\nInfinite Interactive World Rollout on a Single Desktop GPU https://t.co/17qtxXZBcB",
+    "createdAt": "Wed Jul 22 15:05:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 406998,
+      "friendsCount": 868,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2079945347539886181",
+    "fullText": "Tough week to be in a frontier lab... When a free, open model gets within striking distance of your trillion-dollar product, the you need to stop asking \"how good are we\" to something more like... \"what exactly are we paying for??\"",
+    "createdAt": "Wed Jul 22 15:03:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 258965,
+      "friendsCount": 170,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079944172149129217/vid/avc1/1920x1080/swB55XxGUzFv7zUX.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2079944895393935668",
+    "fullText": ".@its_ao added native browser control to dcode with one /goal.  \n\nHere’s how you can use /goal to do the same: https://t.co/3Zsh7ra8tf https://t.co/U0WmaXFeUh",
+    "createdAt": "Wed Jul 22 15:01:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 134348,
+      "friendsCount": 540,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079926371837513728/vid/avc1/1920x1080/qMn6HCltg5LC0djc.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2079944555718435124",
+    "fullText": "Kling MCP Tutorial: Create Cinematic AI Performances in Minutes\n\nLearn how to use Kling MCP to build a complete creative workflow in your favourite agent — from character creation and emotion design to batch video generation.\n\nYour next story starts here.",
+    "createdAt": "Wed Jul 22 15:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 295920,
+      "friendsCount": 8358,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2079944496020947283",
+    "fullText": "There are still a lot of low hanging branches in decision trees.",
+    "createdAt": "Wed Jul 22 14:59:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452916,
+      "friendsCount": 581,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2079941033455214937",
+    "fullText": "Claude Code keeps quitting halfway through a migration I want to finish.\n\nIt finishes with a few files, but then it eats up its context window and hits a usage limit. It's not easy to pick the process back up from where it left off.\n\nThe thing with Claude Code and Codex: they are meant to run one job at a time. Everything the agent knows lives in a single running session, and there's a limit to how much it can hold.\n\nSmall tasks fit fine. Big tasks that split into twenty smaller tasks do not.\n\nI've seen a few tools that let agents hand off work to helper agents, but those agents usually complete one task, return the result, and stop. They can't create helper agents of their own.\n\nIf your problem benefits from three or four layers, you are out of luck.\n\nFractal is an open-source CLI that solves this.\n\nFractal will drive Claude Code or Codex for you. You point it at a job, and it runs the agents, allowing each agent to hand off work to more agents as many levels down as the job needs.\n\nThis makes a huge difference!\n\n1. For the migration, Fractal broke the job into a tree\n2. A top agent split the work into a few big chunks\n3. Each chunk became its own agent\n4. If a chunk was too big, that agent split it again\n5. Each agent planned, executed, reviewed, and committed the work\n6. They repeated the cycle until the work was done\n7. At that point, they moved their work back up the tree\n8. At the end, all of the completed pieces were merged into the root job\n\nEach agent gets its own git worktree and commits its changes as it goes, so multiple agents can work without overwriting each other.\n\nThis makes the process resumable: you can stop Fractal and start it again later without losing the work the agents have already completed.\n\nBy the way, you can set a strict budget for the agents. You can cap how deep the tree can go, how many children each agent can create, how many iterations it can run, and how long it can keep working.\n\nAll of this runs on your laptop. Nothing is hosted.\n\nSee GitHub Repository below.",
+    "createdAt": "Wed Jul 22 14:46:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70862,
+      "friendsCount": 36002,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2079940621037428813",
+    "fullText": "@rolandtshen 👋",
+    "createdAt": "Wed Jul 22 14:44:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 93917,
+      "friendsCount": 1099,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN1ucBSW8AABG_4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2079940051388043306",
+    "fullText": "Lakebase starts with a simple architectural shift: separate Postgres compute from the write-ahead log and data files that traditionally live on the same machine.\n\nExternalizing those components makes compute stateless and enables durable writes, elastic scaling, simpler high availability, and instant branching.\n\nThat same design creates the foundation for LTAP. Operational data can be stored once in open columnar formats and read by both Postgres and Lakehouse engines, so analytics stays current without CDC pipelines, a second copy, or added load on transactional workloads.\n\nDatabricks co-founder @rxin explains how the architecture works and what it makes possible.\nhttps://t.co/tOH1I8yU6y",
+    "createdAt": "Wed Jul 22 14:42:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70862,
+      "friendsCount": 36002,
       "location": "latent space"
     },
     "images": [],
@@ -23,7 +334,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487228,
+      "followersCount": 487233,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -41,7 +352,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 94614,
+      "followersCount": 94657,
       "friendsCount": 925,
       "location": "Seattle"
     },
@@ -59,7 +370,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 973771,
+      "followersCount": 974077,
       "friendsCount": 5880,
       "location": "San Francisco, CA"
     },
@@ -75,7 +386,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 973771,
+      "followersCount": 974077,
       "friendsCount": 5880,
       "location": "San Francisco, CA"
     },
@@ -91,7 +402,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 311823,
+      "followersCount": 311832,
       "friendsCount": 940,
       "location": "DAIR.AI Academy"
     },
@@ -109,7 +420,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 128428,
+      "followersCount": 128424,
       "friendsCount": 1,
       "location": ""
     },
@@ -127,7 +438,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 475651,
+      "followersCount": 475660,
       "friendsCount": 1556,
       "location": "Austin, TX"
     },
@@ -145,7 +456,7 @@
       "name": "Google DeepMind",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
       "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
-      "followersCount": 1481785,
+      "followersCount": 1481885,
       "friendsCount": 277,
       "location": "London, UK"
     },
@@ -920,7 +1231,7 @@
       "name": "Andrej Karpathy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
       "description": "I like training large deep neural nets.",
-      "followersCount": 3488412,
+      "followersCount": 3490257,
       "friendsCount": 1113,
       "location": "Stanford"
     },
