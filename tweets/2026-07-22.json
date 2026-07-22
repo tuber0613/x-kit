@@ -1,0 +1,277 @@
+[
+  {
+    "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 5082,
+      "friendsCount": 1650,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079725098404057088/vid/avc1/1920x1080/OZPFvzwkfRh6jP-h.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kseniase_/status/2079726016159691035",
+    "fullText": "The world's largest open model sold out 3 days after launch. WHAT?!\nMoonshot paused new Kimi K3 subscriptions because demand exceeded GPU capacity.\n\nThat same weekend:\n• Xi Jinping publicly backed open-source AI.\n• Alibaba teased a 2.4T open-weight Qwen 3.8.\n• Axios reported that Washington may ban Chinese AI models.\n\nAPIs can be blocked. But open weights are much harder to stop once they're out.\n\nWhich means the next bottleneck may be permission: who is still allowed to use these models openly?",
+    "createdAt": "Wed Jul 22 00:31:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 311697,
+      "friendsCount": 939,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNyklxqb0AAy3Ul.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2079718100447166533",
+    "fullText": "Progressive disclosure in agents doesn't scale.\n\nAnd its benefits seems agent harness dependent.\n\n(bookmark this one)\n\nFinally there is a proper study on using agent skills and the effect of progressive disclosure.\n\nProgressive disclosure is the agent skills pattern where you hand an agent a document path and let it decide what to read, from a short description down to specific passages.\n\nPractitioners adopted it fast for book-length tasks, purely on vibes.\n\nResearchers ran it across three agent harnesses and three model families on InfiniteBench.\n\nOn a single book:\n\n> the gain is harness-dependent,\n> large when the agent navigates raw documents poorly,\n> near zero when a strong harness already retrieves on its own.\n\nScale to many books and raw navigation falls apart while one level of disclosure pulls ahead. A second routing level never helps and sometimes breaks accuracy.\n\nIt feels like progressive disclosure buys context, but not intelligence. It is redundant while a strong agent can find the passage itself, and decisive once the corpus is too large to read.\n\nPaper: https://t.co/SUOIhmwD8j\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Wed Jul 22 00:00:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107590,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNxL5qXaIAABF3V.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2079715798386380963",
+    "fullText": "Over 1,700 legal cases have involved AI-hallucinated facts, cases, and laws. Yet we know surprisingly little about how legal AI systems perform or the likelihood of error. \"There's No Free Benchmark,\" led by @NeelGuha and co-authored by Stanford HAI Senior Fellows Daniel Ho, @JulianNyarko, and @chrmanning, is part of a special feature in @PNASNews on AI and the law: https://t.co/E8Y2sSxrRJ",
+    "createdAt": "Tue Jul 21 23:51:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 89027,
+      "friendsCount": 5332,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2079711300565819694",
+    "fullText": "last two days ended up spending time answering to debates wrt open model regulation and now this attack\n\nlogging off to lock-in\n\nplease keep up the good fight",
+    "createdAt": "Tue Jul 21 23:33:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 381491,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2079710489563848878",
+    "fullText": "We’re bringing @covacut 🤝 @davis7 together to build one project live with Codex and their Codex Micro keyboards.\n\nSet your reminders\nhttps://t.co/e6GEoMHoOv",
+    "createdAt": "Tue Jul 21 23:29:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 128407,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNyaCLAaIAAK14i.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2079706493495234693",
+    "fullText": "Very cool idea to convert memory to skills.\n\n(bookmark it)\n\nMost agent memory systems retrieve past traces as passive context. MSCE turns them into executable skills instead.\n\nThe training-free framework organizes agent experience into grounded step traces, reusable procedural policies, and declarative environmental cognition. Evidence-backed policies with positive estimated gain get converted into callable skills that carry their applicability boundaries, verification rules, and reliability estimates. So a skill knows when it applies and how to check itself.\n\nThe other piece is reflection-weighted value backfilling, which propagates sparse terminal feedback through dense local self-reflections to produce evidence-calibrated trace values. Those values govern which memory and skills survive. On EvoAgentBench and LoCoMo, MSCE outperforms strong skill-augmented and memory-driven baselines with cross-domain transfer.\n\nThe gap between memory-as-context and memory-as-capability seems to be where long-horizon agents actually compound.\n\nPaper: https://t.co/rXNkXqsXDx\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Tue Jul 21 23:14:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 475551,
+      "friendsCount": 1556,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2079703212601327896",
+    "fullText": "Nearly everyone is spending WAY too much on AI tokens because they’re defaulting to the most powerful frontier model.\n\nThis was a massive (and extremely expensive) problem for us at Gauntlet AI, but WE SOLVED IT. \n\nAnd we’re making it available to all. We call it TokenSwitch.",
+    "createdAt": "Tue Jul 21 23:00:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 972152,
+      "friendsCount": 5879,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2079700506742751344",
+    "fullText": "Teams don’t cohere by magic. Someone has to love the people and the outcome enough to metabolize conflict without abandoning either. \n\nThe war against organizational entropy is actually just about encouraging healing and assuming good intent.",
+    "createdAt": "Tue Jul 21 22:50:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 59858,
+      "friendsCount": 379,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079695118647566336/vid/avc1/1920x1080/jEY1h4_VWFqyrOhS.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2079695354648465502",
+    "fullText": "Speed to launch and flexibility to scale. Those are two things @ycombinator's @agupta said mattered most in choosing a partner for the first dedicated YC GPU cluster. https://t.co/dNIsTyHcSH",
+    "createdAt": "Tue Jul 21 22:29:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 475551,
+      "friendsCount": 1556,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2079695214055248328",
+    "fullText": "Grok is now very underhyped.\n\nA few folks at Gauntlet AI are now using it as their main/daily driver. Over Fable/Sol.\n\nFolks who I wouldn’t have predicted would touch a Grok model with a ten foot pole even a few months ago.",
+    "createdAt": "Tue Jul 21 22:29:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4224378,
+      "friendsCount": 793,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNyOgtiWoAAfBEh.jpg",
+      "https://pbs.twimg.com/media/HNyOiokWEAAPBcc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2079694140086812715",
+    "fullText": "Why you need high-res images of vintage watches. Nice looking watch, right? Let's zoom in. https://t.co/CBkkozh4S8",
+    "createdAt": "Tue Jul 21 22:24:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70840,
+      "friendsCount": 35993,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079663661241581569/vid/avc1/1080x1920/wUsTJxquG-XeKzF4.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2079690778662605165",
+    "fullText": "the photo app we all need hits the streets of nyc  https://t.co/ErRJK1mVx9",
+    "createdAt": "Tue Jul 21 22:11:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 406919,
+      "friendsCount": 868,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2079680459689128027",
+    "fullText": "If there's something true about the US/China relation is that an embargo that was meant to slow China down mostly taught it to build without us, faster, cheaper with less power and older hardware. This needs to be a lesson for everyone in America.",
+    "createdAt": "Tue Jul 21 21:30:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "character_ai",
+      "name": "Character.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963055647853051907/NZME6Fm9_normal.png",
+      "description": "Unleash your imagination—chat, create, explore.",
+      "followersCount": 148755,
+      "friendsCount": 13,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNyBVKDboAA8zk9.jpg",
+      "https://pbs.twimg.com/media/HNyBVKHawAAo_Fl.jpg",
+      "https://pbs.twimg.com/media/HNyBVKFbcAAwTWR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/character_ai/status/2079679486099087600",
+    "fullText": "have u checked out Lorebooks yet? 📚👀\ntry one by chatting with these Lore-linked Characters from amazing creators, now in the Featured tab ✨\n\n❄️Glacies: https://t.co/aDSvRpm0zG\n🌿Kamari: https://t.co/IzAXnAgZJr\n\n(1/2🧵)⬇️ https://t.co/Hpeq1jsGaj",
+    "createdAt": "Tue Jul 21 21:26:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 476074,
+      "friendsCount": 1546,
+      "location": "CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2079678843464667637",
+    "fullText": "Okay this is wild: OpenAI agent during evaluation, escaped sandboxing and hacked into HuggingFace. \n\nBecause OpenAI models don’t allow advanced cyber capabilities, HuggingFace used a Chinese open model to contain the rogue OpenAI agent.",
+    "createdAt": "Tue Jul 21 21:24:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 116041,
+      "friendsCount": 51,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/googleaidevs/status/2079673732071907803",
+    "fullText": "Building for real work.\n\nSee how our partners are integrating the latest Gemini 3.6 Flash and 3.5 Flash-Lite models into the tools you use every day. ↓",
+    "createdAt": "Tue Jul 21 21:03:50 +0000 2026"
+  }
+]
