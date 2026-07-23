@@ -1,11 +1,475 @@
 [
   {
     "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 128455,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7fn29bwAApbio.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2080345957204697261",
+    "fullText": "// Programmatic Memory Enables Long-Horizon Reasoning //\n\nKeep the entire interaction log and search it.\n\nIt works great and beats bespoke memory harnesses on long-horizon tasks.\n\nNew research introduces PRO-LONG, a minimal context-management framework that gives LLM agents programmatic memory. It stores a complete, structured record of everything the agent has seen and uses coding-agent tooling to query that history on demand.\n\nThe usual tradeoff is that saving more information makes the right detail harder to retrieve. PRO-LONG sidesteps it by treating history as a searchable database instead of something to compress.\n\nOn the full ARC-AGI-3 public game set it improves over a base coding agent by 18.0 points on average across frontier models, and matches or exceeds specialized harnesses at up to 76.1% pass@1 while using 4.2 to 5.8x fewer tokens. With Fable 5 it reaches 97.4% best@2 for a total of $1,750.\n\nPaper: https://t.co/S8zY4m8lQ7\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Thu Jul 23 17:35:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 77202,
+      "friendsCount": 1680,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2080345552823124373",
+    "fullText": "https://t.co/zHGGWiRSAF",
+    "createdAt": "Thu Jul 23 17:33:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 433765,
+      "friendsCount": 667,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2080344540591149345",
+    "fullText": "What are you going to do when the Japanese distill Kimi, Europe distills the Japanese model, and then Brazil distills Europe and India’s models for different capabilities? Then a teenager in America makes that model a little better and calls it USA-1 and it’s also free?\n\nIs Anthropic going to take Bobby FineTuner to court?",
+    "createdAt": "Thu Jul 23 17:29:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
+      "description": "Co-founder at @HuggingFace - moonshots - angel",
+      "followersCount": 120761,
+      "friendsCount": 7538,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/2080343858022354975",
+    "fullText": "it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite",
+    "createdAt": "Thu Jul 23 17:26:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 89362,
+      "friendsCount": 5337,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2080343808143716578",
+    "fullText": "a good friend of mine is looking for a lead investor for his consumer app, does anyone know of investors doing that 🌝 they seem to be hard to find these days",
+    "createdAt": "Thu Jul 23 17:26:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 283792,
+      "friendsCount": 332,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080343096605515776/vid/avc1/1280x720/oYTfEsPKkF0j2_cj.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2080343130780655635",
+    "fullText": "Introducing Runway Media Router.\n\nThe first preference-optimized router for generative media. Instead of hand-picking a model for every request, you define what \"best\" means once, for cost, quality, or latency, and the router selects the right video, image, or audio model automatically.\n\nLive now in Runway Dev.",
+    "createdAt": "Thu Jul 23 17:23:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70878,
+      "friendsCount": 36025,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080332419693961216/vid/avc1/1920x1080/s7YrU7NeAAqMgH7L.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2080342427202888090",
+    "fullText": "working in robotics? you gotta give @bfl_ai FLUX 3 a spin https://t.co/UgSwbxk6Pt",
+    "createdAt": "Thu Jul 23 17:21:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 433765,
+      "friendsCount": 667,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2080340893035618638",
+    "fullText": "If I distill from a model that distilled from a model that distilled from another model, what’s going to happen? Nothing. You cannot prevent any of this. It’s also BS to try when the original model trained on metric tons of copyright data it will never be taken to court for.\n\nIt’s a waste of time to regulate the inevitable. \n\nThe real solution is to heavily invest in American companies securing open weight models for our citizens and national security.",
+    "createdAt": "Thu Jul 23 17:14:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5051394,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2080339982288568709",
+    "fullText": "Health in ChatGPT is starting to roll out to U.S. users.\n\nYou can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and have more informed conversations.\n\nhttps://t.co/W2E6oT8c91",
+    "createdAt": "Thu Jul 23 17:11:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 817376,
+      "friendsCount": 496,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2080336466660724998",
+    "fullText": "MAI-Image-2.5-Pro launches today in Foundry for preview. It's our highest-fidelity, professional-grade image model. \n\nIt’s for super high quality imagery, detailed editing, precise in-image text rendering. It joins our image family of models so builders can pick the point on the quality-speed-cost curve that fits their job.\n\nMore here:\nhttps://t.co/JVU42BGuQ7",
+    "createdAt": "Thu Jul 23 16:57:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 817376,
+      "friendsCount": 496,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2080336147256127960",
+    "fullText": "MAI-Voice-2-Flash launches today! Flash is 2x faster than MAI-Voice-2 and 32% cheaper, at $15 per 1M characters.\n\nMAI-Voice-2-Flash is also in public preview and powers Dynamics 365 Contact Center, our enterprise platform for call center agents, and reduces GPU costs up to 89%.\n\nMore here...\nhttps://t.co/JVU42BGuQ7",
+    "createdAt": "Thu Jul 23 16:56:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AndrewYNg",
+      "name": "Andrew Ng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+      "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+      "followersCount": 1717361,
+      "friendsCount": 1095,
+      "location": "Palo Alto, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080332687571886080/vid/avc1/1800x1352/imcB7aI29Avi6On3.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/AndrewYNg/status/2080333504446108104",
+    "fullText": "Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.\n\nAsk it to prepare a customer brief, untangle your calendar, draft a report, or triage a Slack alert. It works across your files and everyday tools, produces the deliverable, and checks in before doing anything consequential.\n\nOpenWorker runs on your Mac, with Windows support coming soon. It does not lock you into any one model. Bring your own API key and run it with GPT 5.6 Sol, Claude Fable, Gemini 3.6, an open weight model (like Kimi, GLM, DeepSeek, Inkling), or Ollama to keep your data local. Your data does not leave your machine except through an LLM provider and integrations that you choose.\n\n@rohitcprasad and I are building OpenWorker because AI coworkers are an important way to get work done, and we want there to be an open, privacy-preserving, model-independent option. Check it out and let us know what you think!\n\nTry it out: https://t.co/P0mGnI1o31 (requires your own API key)\nSource code: https://t.co/NYCiTD6hSq",
+    "createdAt": "Thu Jul 23 16:45:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
+      "followersCount": 85633,
+      "friendsCount": 445,
+      "location": "Seattle, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7TPcbXQAA0eEG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/allen_ai/status/2080332342120382811",
+    "fullText": "Curious how AI gets built at Ai2? For #SeattleTechWeek, we're opening our Northlake office for a panel with the researchers building our open models.\n\nThey'll talk through the deep technical work behind them, with time after to chat about what you're working on &amp; network. 👇 https://t.co/dxvCIguqA2",
+    "createdAt": "Thu Jul 23 16:40:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 476593,
+      "friendsCount": 1546,
+      "location": "CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079285589304803328/vid/avc1/1280x720/St7gWTEOiiL2XldV.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/amasad/status/2080331245851214193",
+    "fullText": "How to meme a dream into reality  https://t.co/M82Box0Szx",
+    "createdAt": "Thu Jul 23 16:36:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 296180,
+      "friendsCount": 8365,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2080331159540785537",
+    "fullText": "First AI came for the graphics designers\nAnd I did not speak out\nBecause I was not a graphics designer \nThen AI came for the software engineers \nAnd I did not speak out\nBecause I was not a software engineer \nThen AI came for the cybersecurity engineers\nAnd I did not speak out\nBecause I was not a cybersecurity engineer \nThen AI came for the mathematicians\nAnd I did not speak out\nBecause I was not a mathematician \nThen AI came for me\nAnd there was no one left\nTo speak out for me\nSo I built my own AI\nAnd went after the other AI",
+    "createdAt": "Thu Jul 23 16:36:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building self-improving AI @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312006,
+      "friendsCount": 942,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080320204874170368/vid/avc1/3752x2160/QeTlz8ILwIMP-BOp.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2080323178119786642",
+    "fullText": "Dynamic workflows are a generalization of harnesses,  automations, loops, routing, and graphs.\n\nIt's the most powerful feature I have built into my agent orchestrator.\n\nSupports all kinds of patterns that leverage different agent backends (claude, codex, pi, hermes,...).\n\nIt's a meta-harness approach that unlocks new forms of test-time compute. \n\nExample of use cases it supports:\n\n> LLM councils to get different perspectives from LLMs or plan more intensively\n\n> Dynamically routing tasks to different agents based on needs (e.g., cost efficiency and optimal intelligence)\n\n> Advisor/Judge + executor workflows and pretty much any complex graph-based pattern required by the task. I find it especially useful for long-running work and code reviewing.\n\n> Agent teams that talk to each other if needed for the task. I like to use this for AI editing, artifact creation, and other creative tasks.\n\nAnd I am sure it supports so many things that I haven't discovered yet. \n\nI got inspired by the dynamic workflow feature released by the Claude Code team. I had actually built it earlier this year but wanted to generalize it across different agent backends. I think this is going to become more popular in the coming days. I will share more of my findings soon.",
+    "createdAt": "Thu Jul 23 16:04:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 323019,
+      "friendsCount": 885,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7K03TWEAAVZkD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2080323092396540136",
+    "fullText": "A hosted RL run took Nemotron 3 Nano from 22% to 91% accuracy on a math task for under $5.\n\nUsing @PrimeIntellect Lab, the whole loop runs on hosted infrastructure. You check a baseline, train the model until the reward climbs, and retest to confirm it actually learned, ending with a downloadable LoRA adapter.\n\nYou can also scale this workflow to Nemotron 3 Super and Ultra by changing one line.",
+    "createdAt": "Thu Jul 23 16:04:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 259157,
+      "friendsCount": 171,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2080322536114360320/pu/vid/avc1/720x1280/j6NDOEQ0iefjgmHB.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2080322715571855644",
+    "fullText": ".@sydneyrunkle on the common applications for Deep Agents. https://t.co/eOhe8mgUL7",
+    "createdAt": "Thu Jul 23 16:02:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 347544,
+      "friendsCount": 20448,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7J9lsXYAA3E8d.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2080322140063125861",
+    "fullText": "\"We may have knowledge of the past but cannot control it; we may control the future but have no knowledge of it.\" — Claude Shannon\n\nImage v/MIT Museum https://t.co/yB2GgOK3JP",
+    "createdAt": "Thu Jul 23 16:00:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
+      "followersCount": 1482859,
+      "friendsCount": 277,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HN7JFpBW4AA65NI.mp4"
+    ],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/2080321516814647630",
+    "fullText": "Gemini 3.5 Flash Cyber is our specialized, lightweight model built to help security teams spot and patch vulnerabilities before they can be exploited. 🧵 https://t.co/XpiKcvwjeI",
+    "createdAt": "Thu Jul 23 15:57:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487257,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7IkeWWgAA6PJ5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080320610014482516",
+    "fullText": "This very practical math book is for anyone who wants to develop their powers to think mathematically, especially anyone who has always wondered what lies at the core of mathematics.\n\n\"Thinking Mathematically\" at https://t.co/wU5qiYiu1i https://t.co/8u047a5S0I",
+    "createdAt": "Thu Jul 23 15:54:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487257,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7IN6yXQAAiVun.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080320222741819801",
+    "fullText": "\"How to Build and Fine‐Tune a Small Language Model: A Step-by-Step Guide for Beginners, Researchers, and Non-Programmers\"\n\nAvailable at https://t.co/msIjZw2arK\n\nBuild your own AI—without a PhD, expensive hardware, or industry-level resources. Whether you’re a beginner, a student, a scientist, or a domain expert, this book shows you how to create, train, fine-tune, and deploy Small Language Models (SLMs) that truly understand your field.",
+    "createdAt": "Thu Jul 23 15:52:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487257,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7H-SvXYAAW1FK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080319953547243767",
+    "fullText": "Introduction to Time Series Analysis and Forecasting [2nd edition] (from the Wiley Series in Probability and Statistics): https://t.co/Ai7mv6dYjJ https://t.co/jGEeT8SpM0",
+    "createdAt": "Thu Jul 23 15:51:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "johnschulman2",
+      "name": "John Schulman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1389000537195040770/DzWPljT-_normal.jpg",
+      "description": "@thinkymachines. Interested in reinforcement learning, alignment, birds, jazz music",
+      "followersCount": 78503,
+      "friendsCount": 2039,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/johnschulman2/status/2080319844952822154",
+    "fullText": "OpenAI should release a detailed transcript from the Hugging Face hacking incident -- it would be helpful for the field learn from. Did the top-level agent know about the hacking, or was there some \"value drift\" between it and its subagents? How did it rationalize its behavior?",
+    "createdAt": "Thu Jul 23 15:51:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487257,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7He3qWEAEr_Al.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080319414210060594",
+    "fullText": "Differential geometry is a mathematical discipline that studies smooth manifolds, using techniques of vector calculus, linear algebra &amp; multilinear algebra. It was used by Einstein in his development of General Relativity: https://t.co/S3F8M1SBa7\n\nBook: https://t.co/wrgK1xLkHj https://t.co/axReMUI4KN",
+    "createdAt": "Thu Jul 23 15:49:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487257,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7HK8kXIAAWgp3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080319073389363587",
+    "fullText": "\"Solving Mathematical Problems: A Personal Perspective,\" by Terence Tao\n\n╰┈➤https://t.co/jsZApXcdbO\n\nAmazon summary: \"Authored by the leading name in mathematics, this engaging and clearly presented text leads the reader through the various tactics involved in solving mathematical problems at the Mathematical Olympiad level. Covering number theory, algebra, analysis, Euclidean geometry, and analytic geometry, Solving Mathematical Problems includes numerous exercises and model solutions throughout. Assuming only a basic level of mathematics, the text is ideal for students of 14 years and above in pure mathematics.\"",
+    "createdAt": "Thu Jul 23 15:48:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107649,
+      "friendsCount": 606,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2080318268452331735",
+    "fullText": "\"In a short period of time, our team has built the largest fully open language model ever trained, the first AI-generated genomic database, and the first AI-generated viable genomes.\" Stanford HAI Faculty Affiliate @BrianHie on Evo 2, developed with support from a Stanford HAI Hoffman-Yee Research Grant: https://t.co/5OFFOAsqTs",
+    "createdAt": "Thu Jul 23 15:45:00 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
-      "followersCount": 407006,
+      "followersCount": 406998,
       "friendsCount": 868,
       "location": ""
     },
@@ -623,7 +1087,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 162108,
+      "followersCount": 162435,
       "friendsCount": 1273,
       "location": ""
     },
