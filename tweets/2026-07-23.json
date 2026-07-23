@@ -1,11 +1,252 @@
 [
   {
     "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 406989,
+      "friendsCount": 869,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2080375044379709571",
+    "fullText": "American golf courses use on the order of thirty times more water than all U.S. data centers combined. Even if AI workloads triple their water draw by 2030, credible projections still put total AI water use under about ten percent of golf’s irrigation footprint.",
+    "createdAt": "Thu Jul 23 19:30:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 259169,
+      "friendsCount": 171,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080364280960925697/vid/avc1/3840x2160/9nTVqIkLRlOV2kLy.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2080367839295242253",
+    "fullText": ".@Salesforce's Agentforce Vibes team just crossed 100M lines of accepted code.\n\nLangSmith is how they know it's good enough to ship. https://t.co/ntrCYamowg",
+    "createdAt": "Thu Jul 23 19:01:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107653,
+      "friendsCount": 606,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2080367084387942520",
+    "fullText": "In many states, outdated requirements, reports, and fees — known as \"policy sludge\" — still clog the books. @StanfordLaw’s RegLab released a new AI tool to help identify these outdated laws and support reform efforts across all 50 states. 🧵(1/3)",
+    "createdAt": "Thu Jul 23 18:58:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452947,
+      "friendsCount": 581,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2080366145836916998",
+    "fullText": "To complete a goal, an agent can now search for an actor on the Apify Store, pay for it, and use it without any human intervention.\n\nThe way it works is pretty simple:\n\n1. Your agent finds an Actor it wants to use\n2. It sends a request\n3. The Actor sends back an HTTP 402 \"Payment Required\" response\n4. Agent authorizes payment from a wallet in USDC on Base\n5. The Actor runs\n6. User receives the result\n\nThe model is pay-as-you-go: the agent authorizes a spending ceiling, pays only for usage, and the remaining balance is automatically settled.\n\nThis brings an entire marketplace of AI tools into the agentic economy.\n\nHere is the skill you need. Add it to your agent, and it will take care of everything for you:\n\nhttps://t.co/XOUav6W9aM\n\nIf you want to know how this works, including what you can do with $1, read this post:\n\nhttps://t.co/Uy60PgoePf\n\nThanks to the Apify team for partnering with me on this post.",
+    "createdAt": "Thu Jul 23 18:55:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452947,
+      "friendsCount": 581,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080366084855898112/vid/avc1/1112x720/adfUTbGWFpk6tpIn.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2080366133644066960",
+    "fullText": "My agent is now paying for its own data. No API key. No account. No credit card.\n\nCheck the video I recorded:\n\nThis uses the x402 open protocol built by Coinbase, along with a simple skill. This is an open protocol governed by the Linux Foundation. https://t.co/OQ6WzOsp89",
+    "createdAt": "Thu Jul 23 18:55:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487254,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7v3yaWUAAzi4J.jpg",
+      "https://pbs.twimg.com/media/HN7v3yYXMAAOiU6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080364618350837904",
+    "fullText": "Have you noticed how so many Bitcoin $BTC maxis adorn their skyrocketing projections with the phrase “if the pattern repeats”?\n\nWell, we already know that the patterns are not repeating.\n\nI have low confidence in predicting extremely volatile time series. It could go up ⬆️ or down⬇️ or chop horizontally🔄. How’s that for a projection?",
+    "createdAt": "Thu Jul 23 18:49:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 513062,
+      "friendsCount": 3138,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7v8FtXMAAB04H.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2080363934289191156",
+    "fullText": "Apple-π\n\nBenchmarking Thinking with Video Towards Law-Grounded Physical Intelligence\n\npaper: https://t.co/a9EwkfSSKi https://t.co/Z7utyLvtgK",
+    "createdAt": "Thu Jul 23 18:46:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
+      "followersCount": 283794,
+      "friendsCount": 332,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7r1QHWAAAhyNR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/runwayml/status/2080359508610519138",
+    "fullText": "Join us next Wednesday for a night of conversation, pizza and drinks at Runway’s NYC office. Meet the Runway team and network with other creatives and industry talent.\n\nRSVP at the link below. https://t.co/NeUGwHx55v",
+    "createdAt": "Thu Jul 23 18:28:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 93970,
+      "friendsCount": 1099,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080358540644941824/vid/avc1/1280x720/GuhJ6FTIW6P9WC_Z.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2080358772094976402",
+    "fullText": "What used to take a year to build when @arikaplan1 was a Major League Baseball executive can now come together in a couple of hours.\n\nIn this demo, Ari walks through a cricket application that brings together Databricks Apps, Genie, Lakebase, Lakehouse tables, Unity Catalog, Lakeflow, and MLflow to support interactive dashboards, predictive analytics, a cricket-specific intelligence assistant, and data pipeline monitoring.\n\nThe demo focuses on cricket, but the same approach can apply across finance, healthcare, retail, and CPG.",
+    "createdAt": "Thu Jul 23 18:25:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sapna",
+      "name": "Sapna Maheshwari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/766436031004602368/-snSkBUg_normal.jpg",
+      "description": "whatsupna? @nytimes business reporter. pun lover, Tar Heel, from CT. tips to sapna@nytimes.com, DM for Signal, WhatsApp.",
+      "followersCount": 39426,
+      "friendsCount": 1348,
+      "location": "Manhattan, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sapna/status/2080358724632215912",
+    "fullText": "visits to \"Sweetgreen, Chopt, Chipotle, Cava &amp; Panera Bread all slumped last week, according to Placer .ai, which tracks foot traffic at retailers and restaurants.\" \nand since mid-July, shares of Sweetgreen, Chipotle and Cava fell by as much as 24% (!)\nhttps://t.co/UQgPFhHhtX",
+    "createdAt": "Thu Jul 23 18:25:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70876,
+      "friendsCount": 36028,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2080356211539472598",
+    "fullText": "the models just want to learn.",
+    "createdAt": "Thu Jul 23 18:15:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 406989,
+      "friendsCount": 869,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2080352775230132670",
+    "fullText": "Truthfully, fear is a worse guide to the future than data has ever been. Historical examples are endless.",
+    "createdAt": "Thu Jul 23 18:02:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 60036,
+      "friendsCount": 379,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN7kxqUaMAAODLP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2080351860213571780",
+    "fullText": "The next generation of our inference platform is here, shaped by what we've learned serving over 400 trillion tokens a month. \n\nRun open models in production with full control, and test every change on live traffic before users see it. https://t.co/5bIT1y7BOP",
+    "createdAt": "Thu Jul 23 17:58:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "Starmind",
+      "followersCount": 241009355,
+      "friendsCount": 1372,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080089205502545920/vid/avc1/576x1024/ktKXlWZ1XyWgIbkp.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2080350336309686470",
+    "fullText": "Banger 😂 https://t.co/fcAmd0vNKY",
+    "createdAt": "Thu Jul 23 17:52:25 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "dair_ai",
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 128455,
+      "followersCount": 128461,
       "friendsCount": 1,
       "location": ""
     },
@@ -23,7 +264,7 @@
       "name": "Ben Goertzel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
       "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
-      "followersCount": 77202,
+      "followersCount": 77205,
       "friendsCount": 1680,
       "location": "Vashon Island, WA, USA"
     },
@@ -39,7 +280,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 433765,
+      "followersCount": 433775,
       "friendsCount": 667,
       "location": ""
     },
@@ -55,7 +296,7 @@
       "name": "Thomas Wolf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
       "description": "Co-founder at @HuggingFace - moonshots - angel",
-      "followersCount": 120761,
+      "followersCount": 120775,
       "friendsCount": 7538,
       "location": ""
     },
@@ -87,7 +328,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Aj11xygZYI",
-      "followersCount": 283792,
+      "followersCount": 283794,
       "friendsCount": 332,
       "location": "New York, USA"
     },
@@ -105,8 +346,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70878,
-      "friendsCount": 36025,
+      "followersCount": 70876,
+      "friendsCount": 36028,
       "location": "latent space"
     },
     "images": [],
@@ -123,7 +364,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 433765,
+      "followersCount": 433775,
       "friendsCount": 667,
       "location": ""
     },
@@ -637,7 +878,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 94942,
+      "followersCount": 94987,
       "friendsCount": 925,
       "location": "Seattle"
     },
