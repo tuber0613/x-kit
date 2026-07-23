@@ -1,11 +1,81 @@
 [
   {
     "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 502829,
+      "friendsCount": 4891,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN6GItwXUAA7NqI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2080247567493837047",
+    "fullText": "Heading to San Francisco to have a little chat with that “rogue agent” https://t.co/3iBtCGIpel",
+    "createdAt": "Thu Jul 23 11:04:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 77187,
+      "friendsCount": 1680,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080238943144992768/vid/avc1/1280x720/R5lYYw6Lwk7Kp-i_.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/bengoertzel/status/2080241158265991440",
+    "fullText": "What should a modern AGI curriculum look like? https://t.co/wRu7utYYaK",
+    "createdAt": "Thu Jul 23 10:38:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70870,
+      "friendsCount": 36011,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080239503315202048/vid/avc1/720x1280/yPAGxDbltraWuPPU.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2080239531467370497",
+    "fullText": "very soon, every molecule designed will be designed with ai - this extends beyond structural understanding like AlphaFold to generating and writing the molecule itself with @profluentbio https://t.co/7FJWPbU2vi",
+    "createdAt": "Thu Jul 23 10:32:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 89343,
+      "friendsCount": 5335,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2080223835220025845",
+    "fullText": "re: banning open models debate I want to share a small story from the past (early 2023)\nback in the day when we had an earthquake in Turkey we needed to classify named entities and sentiment on twitter posts to locate survivors and help them\n\nthis meant we needed to process a lot of information. many people wanted to use gpt-3.5 but it was costly at scale, so while we were labelling a dataset we reached out and we heard back from them days after. in the meantime we trained BERT and RoBERTa and @huggingface let us use the inference API for free and it worked well\n\nmany people don't understand the annoyance around vendor lock-in because AI systems are getting increasingly critical, above case is a good example as well as the recent incident we had, you don't want to lose time. you could say BERT doesn't carry any dangers, but we were gaslit into GPT-2 was dangerous narrative when it spit absolute gibberish. as models get more advanced, the paradigm and security also gets advanced. we'll get there\n\nbtw I'm absolutely for closed models, I love using them, I'm just hands down irritated around any argument on banning open ones. like how dare you take my right to multiply matrices away, might as well ban CUDA lol \n\nown your intelligence friends",
+    "createdAt": "Thu Jul 23 09:29:45 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 452946,
+      "followersCount": 452947,
       "friendsCount": 581,
       "location": "🇺🇸 Collaborations →"
     },
@@ -21,7 +91,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36253,
+      "followersCount": 36251,
       "friendsCount": 1767,
       "location": ""
     },
@@ -37,7 +107,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 330239,
+      "followersCount": 330244,
       "friendsCount": 220,
       "location": "London"
     },
@@ -55,7 +125,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x",
-      "followersCount": 1232495,
+      "followersCount": 1232655,
       "friendsCount": 2051,
       "location": "Palo Alto"
     },
@@ -73,8 +143,8 @@
       "name": "Shital Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
       "description": "CEO and founder https://t.co/bg8qbK3ei1. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
-      "followersCount": 13961,
-      "friendsCount": 13739,
+      "followersCount": 13962,
+      "friendsCount": 13740,
       "location": "Redmond, WA"
     },
     "images": [],
@@ -89,8 +159,8 @@
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
-      "followersCount": 5706,
-      "friendsCount": 1188,
+      "followersCount": 5707,
+      "friendsCount": 1189,
       "location": "Beijing"
     },
     "images": [],
@@ -105,7 +175,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 161722,
+      "followersCount": 161959,
       "friendsCount": 1272,
       "location": ""
     },
@@ -121,8 +191,8 @@
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
-      "followersCount": 5706,
-      "friendsCount": 1188,
+      "followersCount": 5707,
+      "friendsCount": 1189,
       "location": "Beijing"
     },
     "images": [],
@@ -139,7 +209,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487233,
+      "followersCount": 487237,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -157,7 +227,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487233,
+      "followersCount": 487237,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -175,7 +245,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487233,
+      "followersCount": 487237,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -193,7 +263,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487233,
+      "followersCount": 487237,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -211,7 +281,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487233,
+      "followersCount": 487237,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -229,7 +299,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487233,
+      "followersCount": 487237,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -247,7 +317,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 296125,
+      "followersCount": 296136,
       "friendsCount": 8361,
       "location": "United States"
     },
@@ -263,7 +333,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 161722,
+      "followersCount": 161959,
       "friendsCount": 1272,
       "location": ""
     },
