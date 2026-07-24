@@ -1,11 +1,451 @@
 [
   {
     "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 128497,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBnPZLaQAADn72.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2080776545430557016",
+    "fullText": "New research with Microsoft's and colleagues on training agents inside the harnesses they actually run in.\n\n(bookmark it)\n\nWhy it matters:\n\nAgents today live inside elaborate harnesses like Claude Code, Codex, and OpenClaw.\n\nThose harnesses are hard to train end to end because open RL stacks cannot express stateful, multi-process harness inference. Most training happens in stripped-down environments that look nothing like deployment.\n\nOpenForgeRL closes that gap. A lightweight proxy serves the harness model calls while recording them as training data for a standard RL codebase, and a Kubernetes orchestrator runs each rollout in its own container. You train directly in the real harness, at scale.\n\nUsing only hundreds to a few thousand tasks, OpenForgeGUI reaches 72.3 on WebVoyager, 63.0 on Online-Mind2Web, and 37.7 on OSWorld-Verified, beating open baselines of similar size and matching models several times larger.\n\nHarness choice turns out to be a training variable. Some harnesses are much harder to learn than others, and RL improves self-verification and multi-step completion while error recovery stays weak. That is a useful map for anyone doing agentic RL.\n\nPaper: https://t.co/7CJEoHpJuo\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Fri Jul 24 22:06:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312155,
+      "friendsCount": 947,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBmjflboAAlEdG.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2080775791395340313",
+    "fullText": "// Agentic Context Management //\n\nGreat read for the weekend.\n\n(bookmark it)\n\nProduction agents fail less on reasoning and more on what sits in their context. Conversation history, big prompts, huge tool definitions, and ballooning tool outputs pile up every turn.\n\nThe common response is storage and retrieval, a place to stash memories and look them up. New research argues that framing is too narrow and names a fuller discipline, Agentic Context Management.\n\nIt decomposes into five primitives, architecting, ingesting, scoping, anticipating, and compacting with consolidation.\n\nNaive accumulation grows token cost with the square of conversation length. Crude summarization buys linear cost but hits an accuracy cliff. Only compaction validated against fidelity gets you linear cost without losing what matters.\n\nA reference implementation reports 92% on LongMemEval and 93.2% on LoCoMo.\n\nWhy does it matter?\n\nContext management is becoming a first-class production concern that operates across an entire organization. The five primitives give you a structured way to reason about where your token budget goes.\n\nPaper: https://t.co/mKdZNVnqLv\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Fri Jul 24 22:03:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBks0yXUAEvODK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080773752791416843",
+    "fullText": "Applying Math with Python, with 70+ practical recipes for solving real-world Computational Math problems [2nd Edition]: https://t.co/UMFO2TivPX \n————\n#Mathematics #ComputationalScience #DataScience #Simulation #NumPy #SciPy #Statistics https://t.co/P1jJRzy2te",
+    "createdAt": "Fri Jul 24 21:54:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBknBMXMAAVGfv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080773652107153702",
+    "fullText": "A First Course in Causal Inference: https://t.co/Ew9PcMQ8Ff\n[490-page PDF download]\n\n+ Also see the book \"Causal Inference in Statistics: A Primer\" at https://t.co/ROEZZZAFqN by @yudapearl \n\n#Probability #Mathematics #DataScience #ML #MachineLearning #DataScientist https://t.co/dgn5NOCMBe",
+    "createdAt": "Fri Jul 24 21:54:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBkhDVWEAAJeGc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080773549975876029",
+    "fullText": "All the Math You Missed (But Need to Know for Graduate School) [2nd Edition]: https://t.co/v1ECBjs9j7\n——————\n#Mathematics #LinearAlgebra #Calculus #Topology #NumberTheory #Combinatorics #AnalyticGeometry https://t.co/RGK5RDQ0Cc",
+    "createdAt": "Fri Jul 24 21:54:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBkaYIXYAAGyJn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080773435534258216",
+    "fullText": "A Gentle Introduction to Optimization\n⬇️\nhttps://t.co/sv8ViPMY9z\n—————\n#Mathematics #PrescriptiveAnalytics #DataScience #ML #MachineLearning #ORMS #LinearAlgebra https://t.co/xZ2SOAjLy8",
+    "createdAt": "Fri Jul 24 21:53:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBkQzzWAAA2The.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080773271247622336",
+    "fullText": "Essential Math for Data Science — Take Control of Your Data with Fundamental Linear Algebra, Calculus, Probability, and Statistics: https://t.co/A7johBObKy\n—————\n#Mathematics #ML #MachineLearning #DataScientist https://t.co/6ve4wNAKGK",
+    "createdAt": "Fri Jul 24 21:53:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBkCvqWoAAUB6R.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080773028904878243",
+    "fullText": "The Mathematical Universe — From Pythagoras to Planck: https://t.co/tQnuZR98fP\n\nWith no more than basic high school mathematics, explore and understand better the bizarre world of subatomic particles, honey bees and ants, galaxies, black holes, infinity, and more. https://t.co/xwmjLtYxTF",
+    "createdAt": "Fri Jul 24 21:52:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBj-oKWoAA24nV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080772958482489412",
+    "fullText": "Machine Learning Refined — Foundations, Algorithms, and Applications (with 100 in-depth coding exercises in Python): https://t.co/oUBZkXUe4x\n—————\n#DataScience #ML #AI #Mathematics #DataScientist https://t.co/LNidEPMMlC",
+    "createdAt": "Fri Jul 24 21:51:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBjiVZXIAAWcuG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080772471880356186",
+    "fullText": "Updated 2204-page PDF Mathematics ebook:\n\n\"Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning\"\n\nFind it here: https://t.co/HZc0LRoD7R https://t.co/ZwpkxaFqsV",
+    "createdAt": "Fri Jul 24 21:49:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBjJNgWYAATxbm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080772040684900579",
+    "fullText": "High School Algebra, using hand signals.\n\n#Mathematics https://t.co/AeDRJgK43N",
+    "createdAt": "Fri Jul 24 21:48:08 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
-      "followersCount": 407071,
+      "followersCount": 407069,
+      "friendsCount": 871,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2080771838913999159",
+    "fullText": "Just dropped our latest MOONSHOTS Pod!  Enjoy.\nhttps://t.co/h8WpS6UFOb",
+    "createdAt": "Fri Jul 24 21:47:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBizWTXcAAH-vf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080771665177264322",
+    "fullText": "[Download 585-page PDF eBook]\n\nGame Theory: https://t.co/DUxMDRc1Ll\n—————\n#GameTheory #Gamification #Mathematics #Statistics #Probability https://t.co/ApGD3n5YVQ",
+    "createdAt": "Fri Jul 24 21:46:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBis-ZW0AEYHWE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080771558184804815",
+    "fullText": "“Mathematics for Computer Science”\n\nFree 920-page PDF download, from MIT: https://t.co/QnexP4k4ET https://t.co/Og5wtdeF9I",
+    "createdAt": "Fri Jul 24 21:46:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBiX6tW0AA6Cet.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080771203262726463",
+    "fullText": "Download 698-page PDF eBook…\n\nEverything You Always Wanted To Know About Mathematics* (*But didn’t even know to ask)\n\nA Guided Journey Into the World of Abstract Mathematics, Theorems, and the Writing of Proofs: https://t.co/JLsDOmpP1q https://t.co/WSW4c90rML",
+    "createdAt": "Fri Jul 24 21:44:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBiO8DWcAAY2sD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080771040305729969",
+    "fullText": "Machine Learning and Artificial Intelligence — Concepts, Algorithms and Models: https://t.co/mFOaq5L3d7\n———\n#ML #AI #MachineLearning #DataScientist #DataScience #Mathematics \n———\nAmazon Summary:\n\"Unlike traditional textbooks that lean heavily on equations and mathematical formalization, the author starts with minimal prerequisites, layering deeper math as the reader progresses. Each concept, algorithm, or model is unpacked through clear, hands-on examples that build the reader's skills step by step. It strikes a balance between theoretical foundations and practical application, serving as both an academic reference and a practical guide. Furthermore, the book uses humor, casual language, and comics to make the challenging concepts and topics relatable and fun. Any resemblance between the jokes and real life is pure coincidence, and no offense is intended.\"",
+    "createdAt": "Fri Jul 24 21:44:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBiJq0WMAAlJOv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080770949398327492",
+    "fullText": "From astrophysics to machine learning—a universe of mathematics applications, algorithms, and astonishment. \n\nhttps://t.co/OEb7NccwDQ https://t.co/6nSEo1N4dd",
+    "createdAt": "Fri Jul 24 21:43:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBh23yXAAAQXyI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080770626634006960",
+    "fullText": "New release — \"Matrix Multiplication Workbook: Fill-in-the-Blank Puzzles to Build Real Intuition by Hand\" — at https://t.co/XTB3vByJMq by @ProfTomYeh \n\n𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨:\n●You work by hand, with real numbers\n●You fill in the blanks instead of reading proofs\n●You reason about shapes, rows, columns, and structure step by step\n●You discover the math yourself, rather than being told the rules upfront\n\n𝙒𝙝𝙖𝙩 𝙔𝙤𝙪 𝙒𝙞𝙡𝙡 𝙇𝙚𝙖𝙧𝙣:\n●Multiply matrices confidently using correct shapes and rules\n●Recognize identity matrices, scaling, shifting, and their effects\n●Understand why matrix multiplication is not commutative\n●Apply associativity and distributive properties to simplify work\n●Use chaining and transpose concepts in real computations\n●Build intuition for inverse matrices and linear equations\n●Strengthen speed and accuracy through progressive practice sets\n●Learn tiled multiplication ideas for efficient computation",
+    "createdAt": "Fri Jul 24 21:42:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487239,
+      "friendsCount": 3374,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBhv4KXwAAibTI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2080770506353963511",
+    "fullText": "Hands-on Mathematics, Linear Algebra, and Machine Learning ... \"Deep Learning Math Workbook\" …  with 300 puzzles — by @ProfTomYeh at https://t.co/5hyGm6rBUx https://t.co/2OOMQqiph1",
+    "createdAt": "Fri Jul 24 21:42:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 234823,
+      "friendsCount": 7072,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2080770018233684104",
+    "fullText": "Back on BBC World in a moment",
+    "createdAt": "Fri Jul 24 21:40:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Code: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
+      "followersCount": 105284,
+      "friendsCount": 916,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOBb9saasAAKRlq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2080766623011807490",
+    "fullText": "Introducing Intelligence in the Open 🧠🔬 \n\nA recurring MiniMax research series bringing together researchers and builders to share and discuss groundbreaking work across AI.\n\nFor our first edition on July 28, join us from 6:00–9:00 PM at UpScaleX in San Francisco, with talks exploring new research in reasoning, agents, and evaluation from:\n\n• Matt Turk, Senior ML Researcher at @withprotegeai — counterfactual evaluation for clinical LLMs and agents\n\n• Federico Bianchi, Staff ML Scientist at @togethercompute — learning to discover at test time\n\n• Will Keating, MTS at @ArtificialAnlys — AA-Briefcase, a frontier agentic knowledge-work evaluation\n\n• Isha Chaturvedi, Founding Member at @KeenableAI — structured multi-agent reasoning and process-level error localization\n\nFollowed by an open panel discussion, food, and plenty of time to connect 🤝\n\nPresented by MiniMax, @withprotegeai, @ArtificialAnlys  and @togethercompute. Hosted at UpScaleX.\n\nHope to see you there!\n\nRegistration link in the reply 👇",
+    "createdAt": "Fri Jul 24 21:26:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4296473,
+      "friendsCount": 793,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2080764147885600976",
+    "fullText": "Democrats and Republicans may be about equally likely to have mistaken policies, but Democrats are less dangerous in the worst case. Worst case Democrats are smug ideologues, but worst case Republicans are movie bad guys.",
+    "createdAt": "Fri Jul 24 21:16:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94016,
+      "friendsCount": 1100,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HOBaWzMWYAAIF2B.mp4"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2080762435628130685",
+    "fullText": "Connecting Amazon S3 data to Databricks now takes just a few clicks.\n\nThe new external location creation flow makes one of the most important setup steps much easier, helping teams establish a secure, governed connection to S3 in minutes instead of working across multiple consoles.\n\nLess time configuring infrastructure. More time building with your data.\n\nhttps://t.co/SySzJSxxp4",
+    "createdAt": "Fri Jul 24 21:09:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 234823,
+      "friendsCount": 7072,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2080756845107626438",
+    "fullText": "i’ve made maybe 20 tweets that were outright mistakes out of many thousands in over a dozen years and the tech bro fan boys can only see the 20. \n\nand even those they take out of context.\n\nthat’s bad science, and weak argument.",
+    "createdAt": "Fri Jul 24 20:47:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "",
+      "followersCount": 241015846,
+      "friendsCount": 1376,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2080755686615437501",
+    "fullText": "Just as Tesla made the original Roadster design &amp; software open source, we plan to do the same with Model S &amp; X",
+    "createdAt": "Fri Jul 24 20:43:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 407069,
       "friendsCount": 871,
       "location": ""
     },
@@ -21,8 +461,8 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 433934,
-      "friendsCount": 669,
+      "followersCount": 433956,
+      "friendsCount": 668,
       "location": ""
     },
     "images": [],
@@ -37,7 +477,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 116126,
+      "followersCount": 116141,
       "friendsCount": 51,
       "location": ""
     },
@@ -55,7 +495,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4295201,
+      "followersCount": 4296473,
       "friendsCount": 793,
       "location": ""
     },
@@ -73,7 +513,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "head of product @x",
-      "followersCount": 1235813,
+      "followersCount": 1236517,
       "friendsCount": 2052,
       "location": "Palo Alto"
     },
@@ -89,7 +529,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 383340,
+      "followersCount": 383497,
       "friendsCount": 1,
       "location": ""
     },
@@ -107,7 +547,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 312158,
+      "followersCount": 312155,
       "friendsCount": 947,
       "location": "DAIR.AI Academy"
     },
@@ -123,7 +563,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 330382,
+      "followersCount": 330390,
       "friendsCount": 220,
       "location": "London"
     },
