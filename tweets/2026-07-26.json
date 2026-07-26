@@ -1,11 +1,115 @@
 [
   {
     "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 347625,
+      "friendsCount": 20447,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOKmtR5W4AAYcfL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2081409277172842854",
+    "fullText": "This repository on ML operations has free talks, books, papers and more: https://t.co/CX7l01eoiQ\n\nDeveloped by @visenger https://t.co/GOGmBfZCwm",
+    "createdAt": "Sun Jul 26 16:00:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1033807,
+      "friendsCount": 62,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOKmrO3b0AALQ33.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2081409242410688710",
+    "fullText": "Your neighborhood bakery is capitalizing on AI\n\nCharts of the Week: https://t.co/en0kbnTsjU https://t.co/cyEgchmhpG",
+    "createdAt": "Sun Jul 26 16:00:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94079,
+      "friendsCount": 1100,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HOKiEnKWQAAqhnX.mp4"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2081404199330328756",
+    "fullText": "Our fifth customer hackathon gave teams a week to build with Databricks Genie across real technical use cases.\n\nAcross ten projects, they explored three ways to use Genie:\n• Ask governed data questions with Genie Agents\n• Build data, analytics, and ML workflows with Genie Code\n• Compose Genie Agents into larger agent systems\n\nTeams built a supervisory layer that routed questions across data spanning 190 tables and more than 300 views, a governance intelligence platform with Genie Code, an overnight supply-chain brief using 17 live public feeds, and more.\n\nExplore the projects: https://t.co/c3UAiqLM9s",
+    "createdAt": "Sun Jul 26 15:40:06 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "aigclink",
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36261,
+      "followersCount": 36262,
+      "friendsCount": 1770,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOKgNJ7bYAA82W1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2081402138232828029",
+    "fullText": "免费Claude max 20x这个漏洞，据说被薅到服务器都崩了？下午看社区里有很多人耗的不亦说乎😄 https://t.co/cOVHIKjiin",
+    "createdAt": "Sun Jul 26 15:31:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 330651,
+      "friendsCount": 220,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2081400091483541982",
+    "fullText": "I find GPT 5.6 Pro consistently better than High / Extra High etc on Work/Codex\n\n@OpenAI folk is there an equivalence? \n\nOr is there a skill that means I can use Pro?",
+    "createdAt": "Sun Jul 26 15:23:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 5634942,
+      "friendsCount": 1020,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2081396796174282900",
+    "fullText": "chatgpt work is remarkable, and \"work\" undersells it.\n\nfrom my phone i sent:\n\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\"\n\nit...just worked.",
+    "createdAt": "Sun Jul 26 15:10:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36262,
       "friendsCount": 1770,
       "location": ""
     },
@@ -24,7 +128,7 @@
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
-      "followersCount": 485597,
+      "followersCount": 485633,
       "friendsCount": 1169,
       "location": "United States"
     },
@@ -42,7 +146,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -60,7 +164,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -78,7 +182,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -98,7 +202,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -116,7 +220,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -134,7 +238,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -152,7 +256,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -170,7 +274,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -188,7 +292,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -206,7 +310,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -224,7 +328,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487358,
+      "followersCount": 487368,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -242,7 +346,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149646,
+      "followersCount": 149651,
       "friendsCount": 5420,
       "location": "Montréal · Québec"
     },
@@ -258,7 +362,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 709821,
+      "followersCount": 709905,
       "friendsCount": 827,
       "location": "United States"
     },
@@ -274,7 +378,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 151935,
+      "followersCount": 151941,
       "friendsCount": 3343,
       "location": "on ⛓"
     },
@@ -699,8 +803,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 420709,
-      "friendsCount": 13190,
+      "followersCount": 420828,
+      "friendsCount": 13189,
       "location": "San Francisco, CA"
     },
     "images": [],
