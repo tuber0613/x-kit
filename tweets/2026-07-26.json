@@ -1,11 +1,48 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36261,
+      "friendsCount": 1770,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOKM6NjbgAA_7z3.jpg",
+      "https://pbs.twimg.com/media/HOKNKSibsAAWOdz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2081381558838259881",
+    "fullText": "\"港大研究员造了个 AI员工ClawWork，让它自己赚工资、赚不到就破产，7 小时赚了 1 万美元。\"——这两天在刷屏，它说的项目是真的、有意思，拆开值得看：\n\n给agent 起始 $10，用 GDPVal（OpenAI 的 220 个真实职业任务、44 个职业）干活，消耗的每个 token 从余额里按真实 API 价扣钱，撑不住就\"破产\"。\n\n\"赚钱\"怎么来的：让参与测试的模型交付一份result →  使用GPT按该职业评分标准打质量分 → 质量分 × 职业 BLS 时薪 × 工时 =  模拟收入。（这是个模拟测试，没有真客户、没有真钱进账，\"7 小时\"是跑分。）\n\n通过让各个模型都参与测试得出的结论：\n\n1、质量分都不高：冠军 ATIC + Qwen3.5-Plus 平均才 61.6%，多数模型 36~43%。\n2、最能\"赚\"的不是质量最高的：质量最高的 ATIC-DEEPSEEK（66.8%）只排第 5。\n3、排名第一的是：ATIC+QWEN3.5-PLUS\n\nClawWork的架构值得学习，对于评估AI员工价值的benchmark，可以参考其架构来设计。\n#AIagent #AI打工 #GDPVal #benchmark #HKUDS",
+    "createdAt": "Sun Jul 26 14:10:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
+      "followersCount": 485597,
+      "friendsCount": 1169,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOKHN_jWQAAltsa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rasbt/status/2081374704753950742",
+    "fullText": "Yes, open-source / open-weight models are important for a healthy AI ecosystem. That's how we can verify things, check claims, and keep up outside the closed labs. Plus, it gives us the freedom to run AI on our own hardware if we are not ready to share personal data and IPs with closed labs through using their models. (Not that proprietary models are bad, actually I use them a lot as well, but it wouldn't healthy not to have any alternatives.)\n\nAnyway, while pretty much everyone is waiting for the Kimi K3 and Ling 3.0 weights to land on the model hub any day now, there were quite a few other interesting new open-weight model releases the past week. Yes, one of those weeks!\n\nSo, here are the architecture pics along with some notes on what I found most interesting:\n\n1) Nanbeige 4.2 3B uses looped depth sharing. This basically means it runs the same 22-layer (=transformer block) stack twice. So, it extends the 22-layer architecture to 44-layers, but without duplicating the weights. (2x the transformer block compute but same memory footprint.)\n\nWhy? The info is a bit sparse, but section 2.1 of the Nanbeige 4.2 technical report says two passes gave the best trade-off and retained about 75% of the token efficiency of a standard architecture. More passes gave barely any gains but made the training much slower and much more expensive.\n\n2) Laguna S 2.1 is poolside's Laguna model in a really nice size: 118B sparse MoE with 8B active parameters and a 1M-token context window. Otherwise, the architecture is pretty standard. It uses 36 sliding-window and 12 global (gated-)GQA layers. However, given this size, and the fact that it (just barely) runs on my DGX Spark (uses about <80 GB of RAM), this is right now the most interesting model for me personally. It's 3x bigger and thus a tad slower but maybe a good candidate as daily-driver-Qwen3.6-35B-replacement. (Still waiting on some more independent performance benchmarks though.)\n\n3) Motif-3-Beta is a new 314B-A13B sparse MoE that is somewhat based on DeepSeek V4 in terms of mHC and latent attention. But it uses a new component, Grouped Differential Latent Attention, which is inspired by Multi-head Latent Attention. I probably should write an article about this some time, but for now, the tl;dr is as follows. Regular MLA compresses the keys and values into a smaller latent representation to mainly reduce the KV cache size. GDLA does a similar low-rank compression but puts the attention heads into groups and also learns a noise head for each group where the noise gets subtracted for filtering purposes... Anyway, a topic for another day!\n\n4) Solar Open 2 is a new 250B-A15B hybrid MoE by Upstage that interleaves three Kimi Delta Attention layers with one GQA layer. \n\n5) Antares 1B is a small model (and there is also an even smaller 0.3B variant) from Cisco starts that with the IBM Granite 4.0 1B backbone and uses SFT plus GRPO for terminal-based cybersecurity stuff. It is a nice example of task-specific post-training on a genuinely small model.\n\n6) BTL-3 is a rank-32 LoRA adapter for Qwen3.6-27B aimed at coding agents and structured tool use. The really strong benchmark performance suggests that LoRA adapters are still a useful tool/technique in 2026.\n\nI added all six to the LLM Architecture Gallery for some additional details:\nhttps://t.co/JDtfup3ncn",
+    "createdAt": "Sun Jul 26 13:42:54 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -23,7 +60,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -41,7 +78,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -61,7 +98,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -79,7 +116,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -97,7 +134,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -115,7 +152,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -133,7 +170,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -151,7 +188,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -169,7 +206,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -187,7 +224,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487354,
+      "followersCount": 487358,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -205,7 +242,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149641,
+      "followersCount": 149646,
       "friendsCount": 5420,
       "location": "Montréal · Québec"
     },
@@ -221,7 +258,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 709773,
+      "followersCount": 709821,
       "friendsCount": 827,
       "location": "United States"
     },
@@ -237,7 +274,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 151918,
+      "followersCount": 151935,
       "friendsCount": 3343,
       "location": "on ⛓"
     },
@@ -269,7 +306,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149641,
+      "followersCount": 149646,
       "friendsCount": 5420,
       "location": "Montréal · Québec"
     },
@@ -290,7 +327,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 234623,
+      "followersCount": 234631,
       "friendsCount": 1695,
       "location": "Chicago, IL"
     },
@@ -308,7 +345,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149641,
+      "followersCount": 149646,
       "friendsCount": 5420,
       "location": "Montréal · Québec"
     },
@@ -662,8 +699,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 420519,
-      "friendsCount": 13187,
+      "followersCount": 420709,
+      "friendsCount": 13190,
       "location": "San Francisco, CA"
     },
     "images": [],
