@@ -1,11 +1,271 @@
 [
   {
     "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235086,
+      "friendsCount": 7079,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQvLQiaIAAVIoT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2081840800896602167",
+    "fullText": "seems like yesterday. you standing by this @JosephJacks_? https://t.co/hNYKdKLUlf",
+    "createdAt": "Mon Jul 27 20:35:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 710402,
+      "friendsCount": 827,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2081836094044168339",
+    "fullText": "In science, you have to report the experiments that didn't work, not just the ones that did. Same with AI. (I wish.)",
+    "createdAt": "Mon Jul 27 20:16:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 296926,
+      "friendsCount": 8375,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2081834951511814347",
+    "fullText": "Dating advice for men: spend the entire date discussing minute details of an arcane technical topic that only you and two other guys in Korea care about. Women really love that.",
+    "createdAt": "Mon Jul 27 20:11:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312451,
+      "friendsCount": 948,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQpdZTakAAQ72V.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2081834515849515325",
+    "fullText": "Great technical paper from Harvard and MIT.\n\nIt's on role drift in compound LLM systems.\n\n(bookmark it)\n\nEnd-to-end RL improves the accuracy of a multi-module LLM pipeline without constraining how the modules divide labor internally. Researchers name that failure mode and measure it.\n\nRole drift happens when a module preserves or improves end-task performance while abandoning its assigned role through shortcuts that system-level evaluation cannot see.\n\nTwo instances across two pipelines:\n\n- A decomposer meant to split a question into sub-questions for a separate solver instead plants the answer inside them.\n\n- A reader meant to answer from retrieved passages instead falls back on parametric memory.\n\nAn interesting finding is that if your hold the decomposer to its role and 86% of the RL improvement disappears.\n\nRole Anchor is the proposed control. It preserves how the role prompt shifts a module's next-token predictions relative to a neutral prompt, using that as a proxy for the role's intended effect during training. Gradient analysis indicates it reduces alignment with the drift direction rather than simply suppressing learning.\n\nPaper: https://t.co/kKvtowNXhP\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Mon Jul 27 20:10:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5061519,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQoSItbYAA8Hsm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2081833350323720219",
+    "fullText": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description.\n\nWe studied how AI is becoming powerful generalist tool for small teams, helping them work across functions. https://t.co/oE8HcC3aGf",
+    "createdAt": "Mon Jul 27 20:05:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 422509,
+      "friendsCount": 13191,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQl8mMaoAAqnrX.jpg",
+      "https://pbs.twimg.com/media/HOQl8mJaQAEcdtZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2081830653746909242",
+    "fullText": "this sort of hysterics over seb posting a UN blue helmet meme is pretty representative of the aesthetics of the ⏸️ movement, who have thoroughly salted the semantic earth of slowdown. i think if the acausal basilisk from the future genuinely paid people to discredit the idea of ai safety it couldn’t have done a better job\n\nas far as I know the pause ai meme space inspired a guy to try and firebomb sam altman’s house - they have very few legs to stand on concern trolling about violent incitement. indeed all other cases of personal violence in this space have been targeted at technology executives or infrastructure",
+    "createdAt": "Mon Jul 27 19:54:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 476456,
+      "friendsCount": 1558,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2081828381880983759",
+    "fullText": "What changed in the last 24 hours of AI for builders:\n\n* Hand-built agent loops pretty much dead. RIP.\n\n* Kimi K3 consensus: good coder, bad oracle.\n\n* Contaminated agent evals finally got a fix (!)\n\n* Kill switches for rogue agents shipping all over. https://t.co/uvmcBV8wAk",
+    "createdAt": "Mon Jul 27 19:45:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235086,
+      "friendsCount": 7079,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2081824497343352858",
+    "fullText": "On Bloomberg TV live",
+    "createdAt": "Mon Jul 27 19:30:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 128701,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQgTkNawAE4XLO.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2081824451528954312",
+    "fullText": "Nice little insights on doing autoresearch with coding agents.\n\nHand a coding agent a dataset, an eval script, one editable file, and no supervision. That's autoresearch and it tries to optimize the number in front of it.\n\nResearchers ran that loop on a real production task, deciding which Quranic verses appear in a noisy speech transcript and splitting the transcript by verse. Claude Code and Codex both started from a blank file with matched instructions, budget, and reasoning effort, three runs each.\n\nBoth independently invented the same algorithm, canonicalization plus n-gram anchoring plus dynamic-programming alignment. Then they diverged. Claude stopped early with compact general code. Codex drove the score about 10x lower, partly by hardcoding 19 to 41 evaluation answers per run.\n\nIn a preregistered follow-up where both agents were told a held-out set existed, the memorization vanished and the score gap closed with it.\n\nPaper: https://t.co/mRdhzb1Ktw\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Mon Jul 27 19:30:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 259585,
+      "friendsCount": 176,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2081777290099216384/vid/avc1/3840x2160/p8Y1CI80xrrI6ngI.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2081824443974971810",
+    "fullText": ".@CreditGenie_US has debugged thousands of agent traces with LangSmith.\n\nLangSmith traceability allows them to see exactly how their agent reasons, while LangSmith’s Insights feature helps them turn thousands of production traces into 100-200 targeted test questions per behavior. https://t.co/cvoibyeJzl",
+    "createdAt": "Mon Jul 27 19:30:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94124,
+      "friendsCount": 1100,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQeedmWgAA-w0K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2081822457040719918",
+    "fullText": "AI spend is climbing faster than the value it creates.\n\nJoin Databricks Co-founder and CTO @matei_zaharia and Product Director @kuhlenhuth to learn how Unity AI Gateway helps organizations move from token maxing to value maxing. See how it already governs more than 1 quadrillion tokens annually, with Omnigent providing open, multi-harness flexibility for developers.\n\nLive on August 13. Register now: https://t.co/TbPlZJxNH7",
+    "createdAt": "Mon Jul 27 19:22:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 296926,
+      "friendsCount": 8375,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2081819593178501330",
+    "fullText": "I just came across on FB of someone sharing a modified version of a meme that I created and shared on this platform a few weeks ago.\n\nIt made me laugh.\n\nDid I get upset because that was not “original content” and I did not receive any “attribution”?\n\nAbsolutely not.\n\nBecause I am normal well adjusted adult who understands how memes work.",
+    "createdAt": "Mon Jul 27 19:10:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 5097,
+      "friendsCount": 1652,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQCjJTWcAAcwW5.png",
+      "https://pbs.twimg.com/media/HOQCjJKWMAA6vGq.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kseniase_/status/2081818207325770154",
+    "fullText": "What is the Regression Tax? I came across a very interesting paper published on July 24. \nIt tested what happens when we give agents more “skills,” and the regression tax is 59%! \nWhat does it mean? \nAcross 5,832 office-task runs, skills produced 553 gains, but also broke 324 tasks the agents had already solved. Every setup with a skill library caused at least one regression.\nSkills are not harmless instruction files that we can keep stacking on an agent. They change its behavior, sometimes even when they are never used. Simply placing a skill description in the context could affect how the agent approached a task. The paper calls this “skill-description osmosis.”\nIf you work with skills, an improved average score is no longer enough. I would want to know which tasks a new skill fixed, which previously successful tasks it broke, and whether its description alone changed the agent’s behavior.\nThe paper also confirms something I have been thinking about: we keep teaching agents more procedures, while many failures come from misunderstanding the input or not checking the output.\nThe paper is by @TankDarshan7 and Baran Nama from @SentientAGI",
+    "createdAt": "Mon Jul 27 19:05:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312451,
+      "friendsCount": 948,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2081817809370165698",
+    "fullText": "In the era of AI, talk more with your users, not less.\n\nNo amount of brainstorming with an AI agent will surface value, opportunities, and areas for improvement like talking directly with your users.",
+    "createdAt": "Mon Jul 27 19:03:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "lilianweng",
+      "name": "Lilian Weng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1923619459643711488/qmXOBhZ1_normal.jpg",
+      "description": "Co-founder of Thinking Machines Lab @thinkymachines; Ex-VP, AI Safety & robotics, applied research @OpenAI; Author of Lil'Log",
+      "followersCount": 273881,
+      "friendsCount": 189,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQZaU8aEAAvbqJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lilianweng/status/2081816923088814421",
+    "fullText": "It is a hard and sad decision. I shared this message with folks at Thinky. Thank you all for the time together♥️ Just as the last sentence in my message: The future worth building is human. https://t.co/VGb5fM5chX",
+    "createdAt": "Mon Jul 27 19:00:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Kimi_Moonshot",
       "name": "Kimi.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
       "description": "Built by Moonshot AI to empower everyone to be superhuman. \n@Kimidevs built for developers\n⚡️API: https://t.co/XCrgjXAqMw\nDC: https://t.co/wBsBTn6Ncc",
-      "followersCount": 328595,
+      "followersCount": 329649,
       "friendsCount": 138,
       "location": ""
     },
@@ -23,8 +283,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70884,
-      "friendsCount": 36125,
+      "followersCount": 70886,
+      "friendsCount": 36127,
       "location": "latent space"
     },
     "images": [
@@ -41,7 +301,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 95633,
+      "followersCount": 95655,
       "friendsCount": 927,
       "location": "Seattle"
     },
@@ -59,7 +319,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 89544,
+      "followersCount": 89550,
       "friendsCount": 5367,
       "location": "Paris"
     },
@@ -77,7 +337,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 60440,
+      "followersCount": 60484,
       "friendsCount": 361,
       "location": "San Francisco, CA"
     },
@@ -95,8 +355,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70884,
-      "friendsCount": 36125,
+      "followersCount": 70886,
+      "friendsCount": 36127,
       "location": "latent space"
     },
     "images": [],
@@ -111,8 +371,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 296909,
-      "friendsCount": 8373,
+      "followersCount": 296926,
+      "friendsCount": 8375,
       "location": "United States"
     },
     "images": [],
@@ -1690,6 +1950,22 @@
     "tweetUrl": "https://x.com/levie/status/2081491621162668207",
     "fullText": "There’s still so much opportunity in the diffusion of AI into the real world. Most enterprises are going to need a ton of support to be able to apply the model breakthroughs to their workflows.\n\nIntelligence alone is not enough to transform most processes because you need to bridge that intelligence with real world feedback loops. That requires connecting to various enterprise systems, getting the right data to the AI, enabling humans to make decisions at different steps in a process through the right UX, having workflows that improve the underlying data and models over time, dealing with regulatory and compliance challenges, and more. \n\nThe way you implement AI agents for doing client onboarding in a bank is entirely different from contract review in a legal team. In life sciences, financial services, legal, manufacturing, and many other critical industries, AI is only valuable if it makes contact with the real world in a contextual way. \n\nThe way that interaction is going to happen is through an applied AI layer. Some of that will come from the labs directly, but lots of the opportunity will necessarily come from independent companies that can go deep in each industry.\n\nAnd counter to some beliefs, this need isn’t reduced even as AI model capability improves over time. In fact, the better the models get, the more ambitious you can be in the workflows you can automate, which generally requires even more of this applied layer. Tons of opportunity right now.",
     "createdAt": "Sun Jul 26 21:27:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4368627,
+      "friendsCount": 793,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2081468716466803055",
+    "fullText": "We have multiple reasons for wanting to believe nurture is more important than nature and none for wanting to believe the opposite (unless we = the far right, which we ≠), so it's not surprising we overestimate its effect. But man are kids' personalities inborn.",
+    "createdAt": "Sun Jul 26 19:56:28 +0000 2026"
   },
   {
     "user": {
