@@ -1,12 +1,415 @@
 [
   {
     "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94153,
+      "friendsCount": 1100,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HOUitrkXMAAljku.mp4"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2082108591662588336",
+    "fullText": "Feature logic often gets rebuilt across experimentation, training, and serving, creating duplicated code, training-serving skew, and more infrastructure to operate.\n\nFeature Views give teams one managed definition for experimentation, training, batch inference, and real-time serving. Databricks generates point-in-time-accurate training data, manages production pipelines, serves streaming features with 200ms end-to-end p99 latency, and governs features in Unity Catalog.\n\nLearn more: https://t.co/9O0kXuy4Ko",
+    "createdAt": "Tue Jul 28 14:19:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 407031,
+      "friendsCount": 874,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2082106539590947069",
+    "fullText": "Inspiration4 became the first all-civilian orbital spaceflight in 2021. Polaris Dawn completed the first commercial spacewalk in 2024.\n \nBoth were commanded by the same person: Jared Isaacman the @NASAAdmin .",
+    "createdAt": "Tue Jul 28 14:10:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312530,
+      "friendsCount": 949,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOUfvGibUAAr536.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2082105300392542246",
+    "fullText": "New research from Meta and CMU.\n\nThis one is on agentic context management for long horizon tasks.\n\n(bookmark it)\n\nProduction agents accumulate context every turn. The usual fix compresses on a token threshold and throws the remainder away, so the trigger sometimes fires for reasons unrelated to what the agent is currently working on.\n\nACM hands the agent purpose-built context editing tools. It decides when to compress, offloads what it drops into an external memory store, and queries that store later when it needs the detail back. Compression shifts from short-term to long-term memory.\n\nThey also build a post-training pipeline on high-quality context management demonstrations. That yields a 27% relative gain on BrowseComp-Plus and gets close to open-source models 40 times larger.\n\nBetter context management lowers peak token pressure, lets the agent explore longer before running out of room, and produces more consistent solutions across independent trials of the same task.\n\nCode, data, and checkpoints are released.\n\nPaper: https://t.co/ZRWaYrAwfg\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Tue Jul 28 14:06:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 453006,
+      "friendsCount": 581,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082105044221247488/vid/avc1/1112x720/WdyWNiWA2yJntBwb.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2082105094309613768",
+    "fullText": "A professional voice agent in a hundred lines of Python code.\n\nListen to this agent speak: This is one of the best, human-like voices and intonation you'll find.\n\nStack: LiveKit + Rime + gpt-4o-mini. https://t.co/AUiZTGcV8L",
+    "createdAt": "Tue Jul 28 14:05:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 210174,
+      "friendsCount": 593,
+      "location": "Venice, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2082104974646153422",
+    "fullText": "there is an interesting liability issue that will need to be resolved.\n\nI ask an agentic model to get me some money \"by any means necessary.\"\n\nIt goes on to hack into a bank and siphon money into my account.\n\nAm I liable? \nOr is the model provider? \n(Or the infrastructure provider?)\n\nDoes the answer differ if it's an open weight model?\n\nWhat if I don't instruct it to use \"any means necessary\"?\n\nWhat if I explicitly tell it to \"break the law if you must\"?",
+    "createdAt": "Tue Jul 28 14:04:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70919,
+      "friendsCount": 36149,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082104814473752576/vid/avc1/720x1280/LGVIZysduWX5eV3J.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2082104838821699988",
+    "fullText": "What is @RAAIS? A forum where operators and researchers share best practices on building and implementing frontier AI - from defense, to biotech and more. https://t.co/uhAR3FCnq9",
+    "createdAt": "Tue Jul 28 14:04:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 498358,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082103817668337665/vid/avc1/1280x720/sdsvAQHStzantAfW.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2082103880155046176",
+    "fullText": "Personal Computer is now available in the Perplexity app for Windows.\n\nPersonal Computer is the local agent harness for your work. It orchestrates agents across your local files, connected apps, and the web.\n\nResearch, code, browse, and build all inside one unified system. https://t.co/9W7lweCG8k",
+    "createdAt": "Tue Jul 28 14:00:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 62659,
+      "friendsCount": 11196,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOUdLB8acAAMyfv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2082103583584215077",
+    "fullText": "Today we release the AutoScientist API. \n\nA handful of lines to adapt your data automatically and kick off AutoScientist which automatically optimizes the training. \n\nTake the risk out of model training. Three training runs on us. https://t.co/EekvHVuqfW",
+    "createdAt": "Tue Jul 28 13:59:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
+      "followersCount": 486691,
+      "friendsCount": 1170,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOUb3YXW8AAUbps.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rasbt/status/2082101241908249014",
+    "fullText": "Yes, LLM architectures are getting a little more complicated https://t.co/jII112pJbO",
+    "createdAt": "Tue Jul 28 13:49:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 526931,
+      "friendsCount": 4895,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOUavhEWwAAcIro.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2082100165305835576",
+    "fullText": "K3 already got in the top 5 most liked models of all time on Hugging Face, just 24 hours after being released! Ahead of Llama 3, Whisper and many other great models. Incredible! https://t.co/gAwIBLCxJt",
+    "createdAt": "Tue Jul 28 13:45:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297038,
+      "friendsCount": 8380,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2082098754581381370",
+    "fullText": "Quality has quantity all of its own.",
+    "createdAt": "Tue Jul 28 13:40:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
+      "followersCount": 486691,
+      "friendsCount": 1170,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOUYsVcXgAAJ-va.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rasbt/status/2082098201247600765",
+    "fullText": "The Kimi K3 architecture figure for yesterday's big open-weight model release, along with some observations and thoughts.\n\n1. Yes, it looks relatively complicated, but it's essentially a scaled-up production version of their Kimi Linear model they released last year (scaled up from 48B -> 2.8T; K3 is by far the biggest open-weight model right now)\n\n2. The one new component compared to Kimi Linear is the LatentMoE. I omitted it in the figure below since it's already very crowded, but that's essentially the same LatentMoE as in Nemotron 3 Ultra (you can find it in my LLM Architecture Gallery if you are curious). The idea here is to compress (down-project) large linear layers similar to multi-head latent attention.\n\n3. Kimi K3's overall trend (similar to Nemotron 3, DeepSeek V4, and others) is also towards better inference efficiency. That is, there are many components that replace existing components with efficiency-tweaked versions. I.e., MoE -> LatentMoE, regular attention -> multi-head latent attention and Kimi Delta Attention. (I also have short tutorials and write-ups in my gallery if you are curious about additional details).\n\n4. The one component change that is not an efficiency tweak is attention residuals. Like DeepSeek V4 improved the residual path with mHC (manifold-constrained Hyper-Connections), attention residuals are a way to improve the residual path, but it works a bit differently. I.e., mHC made the residual path wider. Attention residuals (also already part of Kimi Linear) connect the residuals across layers; the connection itself uses an attention score for an important/contribution weight. According to the report, it improves the validation loss and downstream performance (a bit) consistently and adds about 4% in training cost and 2% in inference cost.\n\n5. Interestingly, Kimi K3 got rid of all RoPE layers and uses NoPE (No Positional Embeddings) everywhere instead. (Again, this is inherited from Kimi Linear). In other architectures, the recent trend was towards RoPE in local attention layers (like sliding window attention) and NoPE in the global layers. There were a few architectures that only used NoPE everywhere, but this is the first frontier-level one as far as I know.\n\n6. Kimi K3 now also has native multimodal support, which is great!\n\nThere are several other interesting training tidbits in the technical report, but that's it from the architecture front so far. A really great release overall.",
+    "createdAt": "Tue Jul 28 13:37:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 210174,
+      "friendsCount": 593,
+      "location": "Venice, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOUYWvnXUAABcFi.jpg",
+      "https://pbs.twimg.com/media/HOUYbYzWoAA638Y.jpg",
+      "https://pbs.twimg.com/media/HOUYeLIXcAAS1ff.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2082097648769610098",
+    "fullText": "Cost per performance in AI seems to be falling more than ~200x annualized (and higher at higher levels of benchmark performance.) And exceeding 500x annualized cost declines moving along the efficient frontier of the performance curve.\n\nProbably more relevant practically for users, at $1 per task whereas today you might only have 50/50 odds that the agent succeeds, by the end of year, you should have an 89% chance of success and by a year from now a 97% chance (at least on deepSWE 1.1 type tasks.)\n\nThe moving pareto frontier makes it difficult to cleanly report a performance cost improvement due to the shape of the cost performance curve.\n\nAt the highest asymptote of performance you go from literally not being able to achieve such a low error rate *at any cost* to being able to get that performance for 10s of $s per task (an infinite cost decline). We forecast that top-end rate separately.\n\nIn the belly of the curve you need only cross a performance cost threshold, but as the curve steepens you can also less expensively buy more performance (though not 100% clear that the curve really is steepening that much.) We also model that performance curve, though given uncertainty effectively zero out continued improvement for the conservative case.\n\nAnd at lower levels of benchmark performance you get a cleaner understanding of the underlying cost-per-performance improvement though at thresholds that are less interesting practically.\n\nIf anything I suspect that people are wildly under indexing on the rate of improvement of these models. Even last month's AI spend will fall to a fraction of a fraction within the year (if we weren't going to so predictably deploy the new capabilities against new workloads, tasks and challenges.)\n\nSpending a lot of time trying to painstakingly carve out specific current workflows into more efficient models, at this point in the improvement curve, seems, if anything, a fool's errand designed to line the pockets of a consultant.\n\nLet the tokens flow.",
+    "createdAt": "Tue Jul 28 13:35:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 241127,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOUNXfNaEAAX8Kg.jpg",
+      "https://pbs.twimg.com/media/HOUNYo8aoAEXkhg.jpg",
+      "https://pbs.twimg.com/media/HOUNaA5bkAAWfUp.jpg",
+      "https://pbs.twimg.com/media/HOUNbKWaYAEBT1c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2082093488720708065",
+    "fullText": "Since launching Qwen3.8-Max-Preview, we've received valuable feedback from developers!\n\nTo help users better explore Qwen3.8's agentic capabilities, we're officially launching the #QwenGrowthPlan today! 🚀\n\nWe invite you to:\n- Use Qwen3.8 to complete your real-world tasks\n- Submit your good or bad cases to us\nEvery real task is nourishment for Qwen3.8's growth. We've prepared valuable rewards to recognize your active participation.\n\nFor more detailed participation info and prizes, please check out the posters below👇. Besides emailing us, feel free to share your awesome cases or feedback directly on X and @Alibaba_Qwen \n\nJoin us and let's grow together!",
+    "createdAt": "Tue Jul 28 13:19:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "xdh",
+      "name": "Xuedong Huang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850293366145306624/BLdjcYGg_normal.jpg",
+      "description": "CTO@Zoom",
+      "followersCount": 1853,
+      "friendsCount": 102,
+      "location": "Bellevue, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xdh/status/2082093191084618144",
+    "fullText": "https://t.co/wDiLVS3WZy",
+    "createdAt": "Tue Jul 28 13:17:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
+      "followersCount": 197629,
+      "friendsCount": 552,
+      "location": "tinkertown"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082091134415753217/vid/avc1/1838x1160/CGK9Rkfznv6Cewe2.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/bentossell/status/2082091185477181772",
+    "fullText": "bites is now alive https://t.co/2MChUAcC3f",
+    "createdAt": "Tue Jul 28 13:09:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297038,
+      "friendsCount": 8380,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2082090024158597422",
+    "fullText": "Consent of the governed? In this economy?",
+    "createdAt": "Tue Jul 28 13:05:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 259681,
+      "friendsCount": 176,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2082089323059417089/pu/vid/avc1/1280x720/TrqsZclheUpm3H6_.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2082089367460315585",
+    "fullText": "Coding is a general skill. Your company's domain intelligence is not.\n\nOur partnership with @NVIDIA helps enterprises own and improve their domain intelligence instead of outsourcing it. https://t.co/mfMoQDQYeA",
+    "createdAt": "Tue Jul 28 13:02:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 453006,
+      "friendsCount": 581,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2082083148092043496",
+    "fullText": "If you need the help of the government to crush your competitors, you are going to lose eventually.\n\nIf your product can't compete on its own merits, no amount of regulation will save you.\n\nGovernments change. Political parties come and go in and out of power.\n\nAt the end of the day, the better product will win.\n\nWe aren't stupid, and we see what's happening right now.",
+    "createdAt": "Tue Jul 28 12:38:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297038,
+      "friendsCount": 8380,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2082077981229617193",
+    "fullText": "AI has commoditized neurodivergence.",
+    "createdAt": "Tue Jul 28 12:17:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70919,
+      "friendsCount": 36149,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080434032626761728/vid/avc1/1280x720/R_OP8qJUD59xgM-h.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2082074970142773656",
+    "fullText": "world models are a continuously adapting training environment for ai\n\nhere’s @olivercameron from @odysseyml  https://t.co/mLzz8XOhm8",
+    "createdAt": "Tue Jul 28 12:05:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297038,
+      "friendsCount": 8380,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2082074335779709310",
+    "fullText": "Fahrenheit 451 was directionally correct. They are not banning books before burning them - they are distilling them.",
+    "createdAt": "Tue Jul 28 12:02:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 134522,
+      "friendsCount": 539,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082071236453240833/vid/avc1/1920x1080/N63KiiAFAx-k2xUC.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2082071627484024995",
+    "fullText": "Meet Daon, the cat that became a global star🐱\nOur newest episode of Creator Off Script features Daon_box, the Korean creator behind Daon's stories. Since the beginning of this year, his AI-generated cat adventures have captured hearts around the world, reaching over 20M views.\n\nWith Kling AI, Daon Box keeps Daon's character consistent across different scenes, preserves every little detail in native 4K, and shapes each adventure with greater creative control.\n\nDive into the episode to discover how Daon Box transformed everyday moments with his cat into stories loved by millions.",
+    "createdAt": "Tue Jul 28 11:52:13 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "ceobillionaire",
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149664,
-      "friendsCount": 5421,
+      "followersCount": 149662,
+      "friendsCount": 5422,
       "location": "Montréal · Québec"
     },
     "images": [],
@@ -21,8 +424,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70915,
-      "friendsCount": 36146,
+      "followersCount": 70919,
+      "friendsCount": 36149,
       "location": "latent space"
     },
     "images": [
@@ -40,7 +443,7 @@
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 210155,
+      "followersCount": 210174,
       "friendsCount": 593,
       "location": "Venice, CA"
     },
@@ -56,7 +459,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4383063,
+      "followersCount": 4385549,
       "friendsCount": 793,
       "location": ""
     },
@@ -335,7 +738,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4383063,
+      "followersCount": 4385549,
       "friendsCount": 793,
       "location": ""
     },
@@ -674,7 +1077,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 452999,
+      "followersCount": 453006,
       "friendsCount": 581,
       "location": "🇺🇸 Collaborations →"
     },
