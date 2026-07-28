@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4380494,
+      "friendsCount": 793,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2082013200980099410",
+    "fullText": "A few vintage watch dealers don't like it when you ask for timegrapher numbers. But 10% of the time the response is \"Oops, the numbers are terrible. We'd better have our watchmaker look at this before we sell it.\" Which is why I always ask.",
+    "createdAt": "Tue Jul 28 08:00:03 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "aigclink",
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36280,
+      "followersCount": 36278,
+      "friendsCount": 1770,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOS15R8awAEYrNe.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2081988973216620694",
+    "fullText": "OpenMinis将AI员工跑在手机上成为了现实，对于做AI手机的从业者来说夯爆了，有了它就可以拥有私有的飞书手机或Siri AI，它很大程度局部超越 Apple Intelligence\"，\"可能是 iOS 端最强 AI Agent\"。\n\nOpenMinis在你手机里塞了一个可运行各种Code agent和Harness的沙箱，然后把它交给code agent/harness（claude code/codex/openclaw等），它就能在沙箱装各种软件包、跑脚本、读写真实文件，还能调度手机上的各种健康数据、日历、HomeKit等手机APP工具。\n\n· 设备内的沙箱 Alpine Linux：iOS 走 iSH 的 ARM64 fork、Android 走 PRoot，agent 能装包、跑脚本、操作真实文件；重活交给原生代码\n\n· 深度设备集成工具：Health、日历、提醒事项、通讯录、HomeKit、蓝牙、剪贴板、媒体、闹钟\n\n· 浏览器自动化 + 可扩展 skill + 跨会话记忆 + 多 workspace\n\n大家实际拿它干的事情：拍一张餐照，它识别菜品、估算卡路里、写进 Apple Health；把 X 时间线摘要合成语音当闹钟叫醒你；从 Telegram 群里抽出 bug 和待办、去重、扔进提醒事项；挂载你的 Obsidian vault 当普通工作区读写笔记。\n\n这个赛道很多玩家：但手机上的 AI 不缺聊天框，缺的是能真动手的环境——一个能跑命令、读文件、连系统的 agent，而不是一个更聪明的对话气泡，而OpenMinis卡位的就是这个核心痛点。\n\n#OpenMinis #移动AI #AIagent #iOS #开源 #Android",
+    "createdAt": "Tue Jul 28 06:23:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36278,
       "friendsCount": 1770,
       "location": ""
     },
@@ -21,7 +55,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36280,
+      "followersCount": 36278,
       "friendsCount": 1770,
       "location": ""
     },
@@ -40,7 +74,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
       "followersCount": 5706,
-      "friendsCount": 1192,
+      "friendsCount": 1195,
       "location": "Beijing"
     },
     "images": [],
@@ -55,7 +89,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 476530,
+      "followersCount": 476521,
       "friendsCount": 1558,
       "location": "Austin, TX"
     },
@@ -71,7 +105,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 152016,
+      "followersCount": 152028,
       "friendsCount": 3346,
       "location": "on ⛓"
     },
@@ -89,7 +123,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 234795,
+      "followersCount": 234810,
       "friendsCount": 1696,
       "location": "Chicago, IL"
     },
@@ -105,7 +139,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487477,
+      "followersCount": 487492,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -124,7 +158,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487477,
+      "followersCount": 487492,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -142,7 +176,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487477,
+      "followersCount": 487492,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -160,7 +194,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487477,
+      "followersCount": 487492,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -178,7 +212,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487477,
+      "followersCount": 487492,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -196,7 +230,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487477,
+      "followersCount": 487492,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -214,7 +248,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487477,
+      "followersCount": 487492,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -232,7 +266,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 514082,
+      "followersCount": 514098,
       "friendsCount": 3137,
       "location": ""
     },
@@ -250,7 +284,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4376871,
+      "followersCount": 4380494,
       "friendsCount": 793,
       "location": ""
     },
@@ -268,7 +302,7 @@
       "name": "Lilian Weng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923619459643711488/qmXOBhZ1_normal.jpg",
       "description": "Co-founder of Thinking Machines Lab @thinkymachines; Ex-VP, AI Safety & robotics, applied research @OpenAI; Author of Lil'Log",
-      "followersCount": 275334,
+      "followersCount": 275705,
       "friendsCount": 189,
       "location": "San Francisco, CA"
     },
@@ -284,7 +318,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 5100,
+      "followersCount": 5101,
       "friendsCount": 1653,
       "location": "Join over 105,000 readers at"
     },
@@ -301,7 +335,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
       "followersCount": 5706,
-      "friendsCount": 1192,
+      "friendsCount": 1195,
       "location": "Beijing"
     },
     "images": [],
@@ -318,7 +352,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 476530,
+      "followersCount": 476521,
       "friendsCount": 1558,
       "location": "Austin, TX"
     },
@@ -334,8 +368,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 422958,
-      "friendsCount": 13209,
+      "followersCount": 423149,
+      "friendsCount": 13208,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -582,6 +616,24 @@
     "tweetUrl": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
     "fullText": "We are releasing PerceptionBench, a benchmark that isolates visual perception and evaluates it as a set of atomic capabilities - discovered from how today's models fail, rather than defined in advance. \n\nFrom frontier-model failures across 42 benchmarks, we derive 10 atomic perceptual capabilities and construct 3,000 verified questions, each isolating a single capability and answerable by looking, with no reasoning or external knowledge required.  \n\nBlog: https://t.co/I1QU83CiYv \nGitHub: https://t.co/F5E0VjYgh0\nHugingface: https://t.co/zMdyQD8HO4",
     "createdAt": "Mon Jul 27 18:45:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 452997,
+      "friendsCount": 581,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2081772857483497472/vid/avc1/1112x720/nF37gHWX8p5RBmnj.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2081772897862119894",
+    "fullText": "Hyperagent is great if you want agents without having to deal with configuration, servers, or any complexity whatsoever.\n\nYou don't need a Mac Mini or a server.\n\nEvery agent runs in the cloud, in its own isolated and secure environment.\n\nYou get:\n\n1. The ability to learn any new API as a skill\n2. Browser support\n3. Code execution\n4. Image and video generation\n5. Integration with hundreds of tools\n\nDespite the simplicity, I think their best differentiator is the ability for these agents to learn new skills.\n\nBasically, you can teach an agent how your company does marketing, and it will never forget your rules and processes.\n\nObviously, it also lets you deploy your agents to Slack with a single click, so everyone can use them. You don't even need to mention them since they will pay attention to chats and act when necessary.\n\nI built a simple agent that allows me to translate any message into French. I installed it on Slack, and every time I ping it, it gives me translations. Took me 10 minutes tops.",
+    "createdAt": "Mon Jul 27 16:05:10 +0000 2026"
   },
   {
     "user": {
