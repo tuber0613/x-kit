@@ -1,12 +1,254 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 453011,
+      "friendsCount": 581,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2082162168909509015",
+    "fullText": "Here is a new open-weight audio model you can integrate with your app.\n\nI'm a huge sucker for open models that you can host to keep your data secure and away from Big AI.\n\nThe model is Fish Audio S2.\n\nYou'll find the weights, the code to fine-tune it, and a streaming inference engine in Hugging Face. (Link below).\n\nUnder the hood, it's two models: a 4B one to handle timing and meaning, and a 400M one to fill in the acoustic details.\n\nThe model is really fast!\n\nIf you host it on an H200, it will start returning audio in about 100ms.\n\nIf you don't want to host it, Fish Audio offers a hosted version: the S2.1 Pro.\n\nThis model is even faster, with around 90ms latency, and it supports 83 languages.\n\nThe S2.1 Pro is also ~83% more affordable than ElevenLabs: you pay around $15 for around 12 hours of transcribed audio, which is incredible.\n\nHuggingFace links below.",
+    "createdAt": "Tue Jul 28 17:52:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235152,
+      "friendsCount": 7080,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOVNUqJaQAAekti.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2082156701873058288",
+    "fullText": "Coming Soon: The Alienator vs The Deceiver\n\nA guy who could sell refrigerators to Eskimos (probably by lying about their benefits) versus another guy who is so sure of himself he can’t read a room at all.\n\nThe Future of Humanity is in their hands. https://t.co/elfQ3dUXuy",
+    "createdAt": "Tue Jul 28 17:30:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1558132,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2082153297670992134",
+    "fullText": "New Anthropic research: Discovering cryptographic weaknesses with Claude.\n\nClaude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private.\n\nRead more: https://t.co/TYKLjb3Q7V",
+    "createdAt": "Tue Jul 28 17:16:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5063774,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOVJGp1bwAA_pZO.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2082152074071228702",
+    "fullText": "Coding agents are helping scientists spend more time advancing research, taking on everything from routine maintenance and targeted optimization to complete redesigns and new systems.\n\nWhile agents can reliably execute on ambitious projects, researchers must still define the scientific questions, verify results, and take a stance on long-term ownership.",
+    "createdAt": "Tue Jul 28 17:11:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
+      "followersCount": 85723,
+      "friendsCount": 448,
+      "location": "Seattle, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOVI5L1W0AASdp6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/allen_ai/status/2082150553430200624",
+    "fullText": "The organizations best positioned to use Earth-observation models – those working in conservation, food security, &amp; disaster response – often can't run these models at the scale they need.\n\nThat's an infrastructure problem. So we built the OlmoEarth Platform to solve it. 🧵 https://t.co/aHR9MxoVmD",
+    "createdAt": "Tue Jul 28 17:05:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 259699,
+      "friendsCount": 176,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2082149389045248174",
+    "fullText": "Our data agent now handles roughly 40x the request volume our 3 person data team could manage directly.\n\nNow, our data team can focus on the models, context, and guardrails that make the agent worth trusting in the first place.\n\nHow we built it:\nhttps://t.co/fgPrgNdxUz",
+    "createdAt": "Tue Jul 28 17:01:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 434862,
+      "friendsCount": 668,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2082148602777047149",
+    "fullText": "The biggest threat to humanity is the concentration of Intelligence by just a few. By eschewing open models (even from China), you're allowing *just a few* people to control tremendous amounts of power.\n\nDo you really want that? It's important to have a counter-weight.",
+    "createdAt": "Tue Jul 28 16:58:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235152,
+      "friendsCount": 7080,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOVGCs7bAAAVCRB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2082147417823273269",
+    "fullText": "Sorry, @Sama and @elonmusk, we have not reached the Singularity.\n\nA dissection of of what they might mean and why current AI falls short: https://t.co/h3STqKeBHK",
+    "createdAt": "Tue Jul 28 16:53:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5063774,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082145955454066688/vid/avc1/1920x1080/ja-98KeRCcgXSLLr.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2082146058017321257",
+    "fullText": "We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Leads bringing AI innovation to their campuses.\n\nCampus Leads will work directly with OpenAI and receive hands-on training, funding, credits, swag, and access to a global community of peers.",
+    "createdAt": "Tue Jul 28 16:47:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 60777,
+      "friendsCount": 362,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOVDNLpXkAAjJVc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2082144534394273811",
+    "fullText": "Kimi K3 has everyone’s attention. \n\nOn July 30, hear @Kimi_Moonshot's Feihu Tang explain the architecture and decisions behind it.\n\nHe joins Jue Wang and Zain Hasan from Together AI for a deep dive into long-running agents and production inference. https://t.co/X8g7Il0ZGp",
+    "createdAt": "Tue Jul 28 16:41:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70923,
+      "friendsCount": 36154,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOVB9WIXMAALmAq.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2082142957038125238",
+    "fullText": "quite nuts how info dense the intro is to kimi k3\n\nso much going on, so little tokens https://t.co/a2kFbMZmDg",
+    "createdAt": "Tue Jul 28 16:35:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 498379,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082142572567474177/vid/avc1/1280x720/c-Leh1TvxXE4HiAI.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2082142599671107737",
+    "fullText": "Model Council is now available inside Computer.\n\nRun independent analysis across multiple frontier models, choose your analysis depth, and get a single cited report on where models agree, where they disagree, and what each found that others missed. https://t.co/r74olFGucR",
+    "createdAt": "Tue Jul 28 16:34:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 407027,
+      "friendsCount": 875,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2082141742761922812",
+    "fullText": "Jared Isaacman went from founding a payments company at 16 to commanding the first all-civilian orbital mission and later becoming NASA’s 15th Administrator.\nNEVER let your current title define your trajectory. You can always make an impact even if it doesn't seem in the right line of business.",
+    "createdAt": "Tue Jul 28 16:30:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "head of product @x",
+      "followersCount": 1249484,
+      "friendsCount": 2052,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082133229524676608/vid/avc1/1920x1080/0P0Fvr7uORsFDMpA.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nikitabier/status/2082140254237241588",
+    "fullText": "Photos &amp; video were how the last generation expressed themselves.\n\nToday’s form of expression is software.\n\nWho will create the next viral game or app that plays right inside of the X Timeline?\n\nTry the new Grok app builder. https://t.co/233qfOYKkV",
+    "createdAt": "Tue Jul 28 16:24:55 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "drfeifei",
       "name": "Fei-Fei Li",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
       "description": "Cofounder/CEO @theworldlabs, Prof (CS @Stanford), Co-Director @StanfordHAI, #AI #SpatialIntelligence #GenAI #computervision #robotics #AI-healthcare",
-      "followersCount": 910389,
-      "friendsCount": 1176,
+      "followersCount": 910711,
+      "friendsCount": 1177,
       "location": "Stanford, CA, U.S.A."
     },
     "images": [],
@@ -23,7 +265,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 296913,
+      "followersCount": 296927,
       "friendsCount": 8380,
       "location": "United States"
     },
@@ -41,8 +283,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70920,
-      "friendsCount": 36151,
+      "followersCount": 70923,
+      "friendsCount": 36154,
       "location": "latent space"
     },
     "images": [
@@ -1364,6 +1606,24 @@
     "tweetUrl": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
     "fullText": "We are releasing PerceptionBench, a benchmark that isolates visual perception and evaluates it as a set of atomic capabilities - discovered from how today's models fail, rather than defined in advance. \n\nFrom frontier-model failures across 42 benchmarks, we derive 10 atomic perceptual capabilities and construct 3,000 verified questions, each isolating a single capability and answerable by looking, with no reasoning or external knowledge required.  \n\nBlog: https://t.co/I1QU83CiYv \nGitHub: https://t.co/F5E0VjYgh0\nHugingface: https://t.co/zMdyQD8HO4",
     "createdAt": "Mon Jul 27 18:45:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70923,
+      "friendsCount": 36154,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQTJSwWIAIwVCX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2081809983851676063",
+    "fullText": "the TAM for crispr companies just got even bigger 👀 \n\n“It’s a molecular kill switch that recognizes a particular RNA,” says Yang Liu, a molecular biologist at the University of Utah School of Medicine in Salt Lake City, and an author of one of the papers. \n\n“This is basically a programmable chemotherapy.”",
+    "createdAt": "Mon Jul 27 18:32:32 +0000 2026"
   },
   {
     "user": {
