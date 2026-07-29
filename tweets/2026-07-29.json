@@ -1,11 +1,166 @@
 [
   {
     "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 325621,
+      "friendsCount": 889,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082522495593160704/vid/avc1/576x1024/OuxS678h1MhLzRej.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2082522552358879424",
+    "fullText": "\"Data stops being something you collect. It becomes something you compute.\"\n\nAt #SIGGRAPH2026, @liu_mingyu, VP of NVIDIA's Cosmos Lab, laid out why world models are the data engine of physical AI. Plus, he announced Cosmos-Dreams, a neural closed-loop simulator, and showed off a full demo of it in action.\n\nYou can watch the full keynote here: https://t.co/gyPDOcOZDK",
+    "createdAt": "Wed Jul 29 17:44:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5066271,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082514978586963969/vid/avc1/3840x2160/VcCS2D8-dGb0odps.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2082516370949062989",
+    "fullText": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027.\n\nChatGPT for Academic Researchers is built to accelerate discovery across disciplines. https://t.co/nrHn1no0wQ",
+    "createdAt": "Wed Jul 29 17:19:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70933,
+      "friendsCount": 36182,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082513236725739520/vid/avc1/1920x1080/Wbo8C2ATjFtPNpx4.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2082514312141189342",
+    "fullText": "A bio lab spent ~10 years cracking a bacterial gene-transfer problem. Then, DeepMind's AI co-scientist reproduced the answer in two days, as its top hypothesis.\n\nListen to the story from @vivnat of @GoogleDeepMind at @raais 2026: The scientist's first move was to email Google asking if they'd hacked his computer.\n\nOn porting the AlphaGo recipe into medicine, and building \"the world's most experienced doctor.\"",
+    "createdAt": "Wed Jul 29 17:11:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 152247,
+      "friendsCount": 3352,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2082513253423632485",
+    "fullText": "our kiddos want to go on a camper van road trip. any great spots in the Bay Area (or 1 day of driving away)? best options include water for catching frogs or other wild fun",
+    "createdAt": "Wed Jul 29 17:07:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 5103,
+      "friendsCount": 1653,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOaQ5KFWIAANbFW.png",
+      "https://pbs.twimg.com/media/HOaQ5KEWwAEe6c7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kseniase_/status/2082512413199311251",
+    "fullText": "What is Skill Leakage? I came across another interesting paper about agent skills, published on July 28, and it made me think that we are treating SKILL.md as much simpler than it actually is.\n\nThe researchers kept a skill hidden, then tried to reconstruct it using only benign tasks and the agent’s visible execution traces. Across five scenarios, three model families and three agent frameworks, the reconstructed skills improved success rates by an average of 6.88 percentage points over agents without the skill.\n\nWhat does it mean?\n\nKeeping the skill file private may not keep the procedure private. Tool choices, validation steps, error recovery and output patterns leave a recognizable behavioral signature.\n\nFor anyone building paid or proprietary agent skills, this creates an awkward trade-off. We want visible traces because they let users inspect, interrupt and trust the agent. But those same traces may reveal part of the workflow we are trying to protect.\n\nNotice the caveat: the method compared matched runs with the skill enabled and explicitly disabled. Many products will not expose that switch so cleanly. It also recovered a functional approximation, not the original file word for word.\n\nStill, hiding SKILL.md is not a security strategy. Skill leakage is the reconstruction of a private procedure from the behavior it leaves behind.\n\nResearchers from @nankai @AlibabaGroup Shanghai Artificial Intelligence Laboratory, East China University of Science and Technology and Beihang University",
+    "createdAt": "Wed Jul 29 17:03:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 498600,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2082511900580196596",
+    "fullText": "Today we’re open-sourcing Numbat, an agent-detection and response layer that is designed to work across agent harnesses.\n\nNumbat gives security teams visibility into agent activity, with controls to block selected actions before execution.\n\nRead more: https://t.co/LVhkCJ2sMt",
+    "createdAt": "Wed Jul 29 17:01:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 152247,
+      "friendsCount": 3352,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2082510801802510606",
+    "fullText": "I really love it when my partners make investments I believe in. So good",
+    "createdAt": "Wed Jul 29 16:57:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
+      "followersCount": 407184,
+      "friendsCount": 875,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2082503934371848232",
+    "fullText": "The U.S. committed more than $5 billion to the Genesis Mission, a national effort to use AI for science. I believe this is the right moonshot to go after: turning compute into DISCOVERY.",
+    "createdAt": "Wed Jul 29 16:30:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 514421,
+      "friendsCount": 3138,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082503051441545216/vid/avc1/1488x998/Ys_n_XQl1ODKLoHN.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2082503152104833072",
+    "fullText": "HiFi-UMI\n\nLearning Deployable Manipulation Policies from High-Fidelity UMI Data Alone\n\npaper: https://t.co/u6LP9oGnHh https://t.co/9mcvC2MOCY",
+    "createdAt": "Wed Jul 29 16:26:57 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "huggingface",
       "name": "Hugging Face",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
       "description": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
-      "followersCount": 742991,
+      "followersCount": 743052,
       "friendsCount": 225,
       "location": "NYC and Paris and 🌏"
     },
@@ -23,7 +178,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 107736,
+      "followersCount": 107737,
       "friendsCount": 606,
       "location": "Stanford, CA"
     },
@@ -41,8 +196,8 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 89602,
-      "friendsCount": 5372,
+      "followersCount": 89604,
+      "friendsCount": 5374,
       "location": "Paris"
     },
     "images": [
@@ -59,7 +214,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 235275,
+      "followersCount": 235279,
       "friendsCount": 7082,
       "location": ""
     },
@@ -75,7 +230,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
-      "followersCount": 407166,
+      "followersCount": 407184,
       "friendsCount": 875,
       "location": ""
     },
@@ -93,7 +248,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 259795,
+      "followersCount": 259798,
       "friendsCount": 177,
       "location": ""
     },
@@ -111,7 +266,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297137,
+      "followersCount": 297141,
       "friendsCount": 8379,
       "location": "United States"
     },
@@ -127,7 +282,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 325605,
+      "followersCount": 325621,
       "friendsCount": 889,
       "location": "Santa Clara, CA"
     },
@@ -159,7 +314,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 476702,
+      "followersCount": 476715,
       "friendsCount": 1558,
       "location": "Austin, TX"
     },
@@ -175,7 +330,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 235275,
+      "followersCount": 235279,
       "friendsCount": 7082,
       "location": ""
     },
@@ -191,7 +346,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 342123,
+      "followersCount": 342140,
       "friendsCount": 114,
       "location": "United States"
     },
@@ -209,7 +364,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 128800,
+      "followersCount": 128804,
       "friendsCount": 1,
       "location": ""
     },
@@ -227,7 +382,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297137,
+      "followersCount": 297141,
       "friendsCount": 8379,
       "location": "United States"
     },
@@ -243,7 +398,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 96053,
+      "followersCount": 96083,
       "friendsCount": 929,
       "location": "Seattle"
     },
@@ -261,7 +416,7 @@
       "name": "Wei Xu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1823743197098729496/a6avHXob_normal.jpg",
       "description": "CS professor @GeorgiaTech @gtcomputing @ICatGT @mlatgt. Evaluating & Improving LLMs (multilingual, reasoning, RL, multi-turn, privacy/safety, etc.)",
-      "followersCount": 11600,
+      "followersCount": 11601,
       "friendsCount": 1313,
       "location": "Atlanta, GA"
     },
@@ -279,7 +434,7 @@
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Head of AI @clickup. Tweets about AI, computing and their impacts on society. Previously founder @codegen / ML @palantir / startups. Not a pseudonym.",
-      "followersCount": 74052,
+      "followersCount": 74056,
       "friendsCount": 3478,
       "location": "San Francisco"
     },
