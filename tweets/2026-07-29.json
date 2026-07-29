@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 330938,
+      "friendsCount": 226,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2082392762784084292",
+    "fullText": "How do you even legislate against, regulate or \"pace\" recursive self improvement?",
+    "createdAt": "Wed Jul 29 09:08:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36299,
+      "friendsCount": 1771,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082389808757063680/vid/avc1/1280x800/J58v_vZ7vp8zwOAT.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2082390157374656748",
+    "fullText": "这几天搓了一个开源的生成式引擎优化（GEO）自托管平台GEOLook，打通了GEO全流程：geo诊断 → AI 答案采样 → 工单 → 资产 → 验收 → 交付，一条完整的GEO流水线。\n\n为什么做这个？\n\n看到很多人留言问geo之类的，加上之前我自己公司也买过geo服务，大都做的差强人意，而且完全黑盒，服务一塌糊涂，所以后来就找了专人搞geo，执行过程基本上都是比较脏活累活的一些操作，所以就把这个sop（同时也借鉴了姚金刚老师的一些思路），打造成了geolook这个产品，来替代中间过程，人更多只做结果监测和观察，以及相关的导入自动化发布。\n\n能解决什么问题？\ngeo问诊、geo执行工单、geo实施方案、geo执行自动化、优化过程中的前后结果对比。\n\n对研究geo有兴趣的朋友，可以拿回去自己diy成自己的想要的定制化版本，许可证没限制随便用。\n#GEO #AI搜索优化 #生成式引擎优化 #开源 #自托管",
+    "createdAt": "Wed Jul 29 08:57:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 144670,
+      "friendsCount": 627,
+      "location": "Zürich, Suisse"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HOYOCrIXYAApDIc.mp4"
+    ],
+    "tweetUrl": "https://x.com/giffmana/status/2082367325341122828",
+    "fullText": "Today marks the first time a model was *much faster* than me at debugging. Here i mean only finding the root cause, not writing a fix (they've been faster at writing the fix for a while now). I believe root-causing is one of my strongest skills.\n\nYou may know that i often do a \"debugging race\": before i dive into a longer debugging session, i shoot a vague prompt at an agent (i cycle through which agent so i get a feeling for them all), and then go debug/ultrathink myself in parallel.\n\nEven better: the agent had access to less info than me, because it couldn't access the exact data that caused the bug while i could (different machines).\n\nThis time the agent identified the root cause while i was still at the stage of \"what the hell does this behavior even mean\". To console myself, my best guess was in the right direction, but so far from the root cause.\n\n(The bug was a fun one: i was hitting int64 overflow during serialization)",
+    "createdAt": "Wed Jul 29 07:27:13 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "",
-      "followersCount": 241052253,
+      "followersCount": 241056020,
       "friendsCount": 1377,
       "location": ""
     },
@@ -39,7 +91,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297071,
+      "followersCount": 297099,
       "friendsCount": 8379,
       "location": "United States"
     },
@@ -55,7 +107,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 152173,
+      "followersCount": 152197,
       "friendsCount": 3350,
       "location": "on ⛓"
     },
@@ -71,7 +123,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 163651,
+      "followersCount": 163673,
       "friendsCount": 1275,
       "location": ""
     },
@@ -87,7 +139,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 152173,
+      "followersCount": 152197,
       "friendsCount": 3350,
       "location": "on ⛓"
     },
@@ -103,7 +155,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297071,
+      "followersCount": 297099,
       "friendsCount": 8379,
       "location": "United States"
     },
@@ -119,8 +171,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36294,
-      "friendsCount": 1770,
+      "followersCount": 36299,
+      "friendsCount": 1771,
       "location": ""
     },
     "images": [],
@@ -135,8 +187,8 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 235239,
-      "friendsCount": 7083,
+      "followersCount": 235249,
+      "friendsCount": 7082,
       "location": ""
     },
     "images": [],
@@ -151,7 +203,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487509,
+      "followersCount": 487519,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -169,7 +221,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487509,
+      "followersCount": 487519,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -187,7 +239,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487509,
+      "followersCount": 487519,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -205,7 +257,7 @@
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
-      "followersCount": 5705,
+      "followersCount": 5704,
       "friendsCount": 1195,
       "location": "Beijing"
     },
@@ -221,7 +273,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 514291,
+      "followersCount": 514331,
       "friendsCount": 3138,
       "location": ""
     },
@@ -708,7 +760,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
-      "followersCount": 407061,
+      "followersCount": 407099,
       "friendsCount": 875,
       "location": ""
     },
@@ -726,7 +778,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4399285,
+      "followersCount": 4402994,
       "friendsCount": 793,
       "location": ""
     },
