@@ -1,11 +1,249 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36295,
+      "friendsCount": 1770,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2082309902077493367",
+    "fullText": "MCP的商业化春天来了，MCP第五版2026-07-28发布了：MCP输出结果不再只是一段文字，而是能直接在对话里渲染出可交互的界。\n\n除此之外还有一个更大的改动，从\"有状态的双向连接\"改成了\"请求/响应\"——这一下就能跑在 serverless 和边缘上了，这个版本的几个重要变化：\n\n① 无状态内核（架构层最大的迭代）\n协议从\"双向有状态\"改成\"请求/响应\"的无状态模型，这样 MCP 服务就能部署到 serverless 和边缘基础设施上，部署和扩容都简单了——这是从\"长连接的巧妙管道\"迈向\"能规模化的生产基建\"的关键。\n\n② 两个重要的扩展成官方标准\nMCP Apps：服务器可以在对话里直接渲染可交互 UI——工具结果不再是纯文本块。\nTasks：不改核心协议就能跑长时间任务。\n\n③ 认证对齐企业生产级\n授权向生产级 OAuth 2.0 / OIDC 看齐，MCP 服务器能接 Entra、Okta 这类企业身份系统。\n\nAnthropic 也宣布支持MCP 第五版规范（2026-07-28），anthropic将最新标准带入 Claude的四样能力：\n\n～内联交互 UI：MCP连接器的动作，可直接在对话里看到UI交互界面\n～企业托管认证：通过身份提供商零接触配置\n～开发者可观测性：仪表盘跟踪采用、报错、延迟\n～MCP Tunnels（研究预览）：把私有网络里的服务器接进来、又不暴露到公网\n\n过去一年MCP已经成为行业的基建，这次的标准更新让mcp商业化更近了一步：能 serverless 部署、能接 Okta、能看监控、能穿透内网。\n\nhttps://t.co/hWL43IGCJF\n\n#MCP #Claude #Anthropic #agent #serverless",
+    "createdAt": "Wed Jul 29 03:39:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235238,
+      "friendsCount": 7083,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2082307379144872416",
+    "fullText": "Does the White House have a long game? \n\nIf they do, I am not sure I am following it.",
+    "createdAt": "Wed Jul 29 03:29:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487500,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOXRoPIXMAEVo9_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2082300904015880685",
+    "fullText": "It’s a new era for databases! See what’s new with MySQL and where it is heading: https://t.co/NXPcooaF0G via @odbmsorg https://t.co/xDeT0PoHeL",
+    "createdAt": "Wed Jul 29 03:03:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487500,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOXKKpvXoAAlOQw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2082292897496310265",
+    "fullText": "Fascinating textbook on Game Theory: https://t.co/fnvZT6gLvw\n\n\"A Nontechnical Intro to the Analysis of Strategy\" (3rd Ed.), covers N-person strategies, Nash Equilibria, auctions, bargaining, dominant strategies, Gamification, Behavioral Economics, Experimental Economics, etc. https://t.co/pByBFVBCAm",
+    "createdAt": "Wed Jul 29 02:31:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487500,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOXKQ5fWYAEBaCY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2082292800033329208",
+    "fullText": "[Download 585-page PDF eBook]\n\nGame Theory: https://t.co/DUxMDRc1Ll\n—————\n#GameTheory #Gamification #Mathematics #Statistics #Probability https://t.co/tXR0a0X3pl",
+    "createdAt": "Wed Jul 29 02:31:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5705,
+      "friendsCount": 1194,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2082284477775335831",
+    "fullText": "AGIBOT’S RACE TO SCALE IN EMBODIED AI ROBOTS\n\nHere’s what got my attention about AgiBot:\n\n1: In 2 years, they have rapidly expanded to a full suite of humanoids, quadrupeds and cleaning robots.\n\n2: They are targeting all industries and use cases.\n\n3: They are building an almost full AI tech stack. \n\nThis is really important. Their architecture benefits from efficient training data and speed. \n\n4: AgiBot is co-founded and run by a Huawei SVP and a hardware tech whiz.\n\n5: There is an understandable strategy for getting to scale in robot infrastructure.\n\nAgiBot is now in the top 1-2 in humanoids shipped globally.\n\nAgiBot shipped +5,000 humanoid units in 2025.\n\nNote: Unitree’s 2025 humanoid shipments were +4,000.\n\nRead here for my breakdown.  \n\nhttps://t.co/pcvSXwOcNN",
+    "createdAt": "Wed Jul 29 01:58:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 514263,
+      "friendsCount": 3138,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOXB3-AX0AAMYo1.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2082283660628115926",
+    "fullText": "A.X K2 just dropped on Hugging Face\n\nLarge-Scale Sparse MoE (688B / 33B Active)\n\nhttps://t.co/nVr17DscD3 https://t.co/zOHc6ineWn",
+    "createdAt": "Wed Jul 29 01:54:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5705,
+      "friendsCount": 1194,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082280488665034752/vid/avc1/1080x1920/OttZvJMaOxwmOh95.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2082280530775831028",
+    "fullText": "Cute Transparent AI Assistants\n\nFrom WAIC 2026.\n\nI like this approach to AI for businesses \n\n-transparent screens \n\n-mobile \n\n-With cameras to see and engage\n\nI’d have a cartoon characters https://t.co/HndctyeuUn",
+    "createdAt": "Wed Jul 29 01:42:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 434928,
+      "friendsCount": 668,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2082276627955044542",
+    "fullText": "If you make an unsafe AI that hacks people, you get regulated and held accountable. You don't regulate the whole industry as a form of reg capture. You get asked to slow down. You don't ask the whole industry to decelerate. Even safety should be accelerated.",
+    "createdAt": "Wed Jul 29 01:26:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297030,
+      "friendsCount": 8380,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2082270458771333237",
+    "fullText": "all this decel grandstanding from the top labs is performative pearl clutching",
+    "createdAt": "Wed Jul 29 01:02:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297030,
+      "friendsCount": 8380,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2082268293147365592",
+    "fullText": "Hot take: Neural networks are vestiges of the era when we used humans to design and implement ML algorithms. Their composability, modularity, hierarchical nature, and simple implementation in higher level programming languages were helpful when human insight and productivity were the most valuable part of any ML project. That era is coming to the end now.",
+    "createdAt": "Wed Jul 29 00:53:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "midjourney",
+      "name": "Midjourney",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
+      "description": "A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.",
+      "followersCount": 461126,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/midjourney/status/2082266264085623038",
+    "fullText": "We're doing a web engineering meetup this Tuesday (August 4th) in San Francisco! Come hear talks by @_chenglou and @bsansouci and hang with the team https://t.co/Jb8iQcUie7",
+    "createdAt": "Wed Jul 29 00:45:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5064220,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOWvAa-bAAAw2hd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2082263717916586117",
+    "fullText": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...\n\nYou can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. \n\nThis is an early release, and we're listening to your feedback as we continue improving it.",
+    "createdAt": "Wed Jul 29 00:35:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94166,
+      "friendsCount": 1101,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOWp8QJWMAIC4wt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2082257276392427911",
+    "fullText": "Arsalan Tavakoli, Databricks Co-Founder and SVP of Field Engineering, joined @Bloomberg The Close to discuss how the AI conversation is shifting from token maxxing to value maxxing as enterprises increase focus on ROI, governance, and choosing the right model for each use case.\n\n\"We are seeing a shift in our customers. They are asking: How do you control cost? How do you govern AI usage? We have a product called Unity AI Gateway that is specifically for this. Customers want to balance the right model to the right use case at any given time.\" \n\nWatch the full interview: https://t.co/lRSVznLrWu",
+    "createdAt": "Wed Jul 29 00:09:55 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "StanfordHAI",
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 107732,
+      "followersCount": 107731,
       "friendsCount": 606,
       "location": "Stanford, CA"
     },
@@ -23,7 +261,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
-      "followersCount": 407026,
+      "followersCount": 407043,
       "friendsCount": 875,
       "location": ""
     },
@@ -123,7 +361,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 234854,
+      "followersCount": 234885,
       "friendsCount": 1698,
       "location": "Chicago, IL"
     },
