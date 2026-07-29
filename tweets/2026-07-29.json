@@ -1,11 +1,149 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297191,
+      "friendsCount": 8379,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HObrD39acAAXfbe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2082610331805946225",
+    "fullText": "We are now at this point in our ongoing singularity saga. https://t.co/rDj0M1CThL",
+    "createdAt": "Wed Jul 29 23:32:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107743,
+      "friendsCount": 606,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2082604548699660492",
+    "fullText": "AI chatbots are increasingly used as life coaches, counselors, and therapists. Developers rely on mental health experts to test whether responses are safe. New research finds that expert disagreement makes that process unreliable; the scholars propose a path forward:\nhttps://t.co/5MoNVr6pj0",
+    "createdAt": "Wed Jul 29 23:09:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 856956,
+      "friendsCount": 494,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2082603251258765688",
+    "fullText": "https://t.co/j6qndgKVje",
+    "createdAt": "Wed Jul 29 23:04:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 128825,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HObjlkVawAA1rf_.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2082602115579715988",
+    "fullText": "// Unfolding Sub-Agents for Long-Horizon ML Engineering //\n\nWatch a single agent work a machine learning engineering task for six hours you see issues like context fills with stack traces, dead experiments, and half-finished runs, and the strategic thread disappears under the noise.\n\nMatryoshka Agent splits that work across two levels.\n\n> An Orchestrator holds compact long-horizon exploration state and issues strategic instructions.\n\n> Sub-Agents run concrete solution attempts against the environment through a standardized tool interface and report back.\n\nThis new paper contributes an efficient training paradigm for the hierarchy, so the structure is learned rather than prompted, with results across diverse model types and scales.\n\nPaper: https://t.co/KZcze5WL8d\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Wed Jul 29 23:00:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312703,
+      "friendsCount": 954,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HObjlcMbUAAqOJs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2082602113558077599",
+    "fullText": "Super interesting new work from NVIDIA.\n\n(bookmark it)\n\nThey suggest building agents as Python objects.\n\nVery cool idea and I think it could a lot with agent reliability.\n\nMore below:\n\nAgent development today spreads across prompt templates, tool schemas, callback code, and workflow graphs. NOOA replaces all four with one abstraction.\n\nAn agent is a Python object. Its methods are the actions the model can take, its fields hold state, its docstrings are the prompts, and its type annotations act as contracts.\n\nA method whose body is \"...\" gets completed at runtime by a validated LLM loop. A method with a normal body stays deterministic Python.\n\nThat single convention puts the boundary between probabilistic and deterministic behavior right in the source.\n\nAgent behavior becomes testable, traceable, and refactorable with the same tools you already use on the rest of your codebase.\n\nNVIDIA reports six model-facing ideas combined on one surface, including pass-by-reference over live objects and model-callable harness APIs for context and events, evaluated on SWE-bench Verified, Terminal-Bench 2.0, and ARC-AGI-3.\n\nPaper: https://t.co/PCtFtVY8rT\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Wed Jul 29 23:00:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "v_vashishta",
+      "name": "Vin Vashishta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
+      "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
+      "followersCount": 28399,
+      "friendsCount": 1056,
+      "location": "Reno"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/v_vashishta/status/2082599833215631630",
+    "fullText": "Everyone’s overhauling their AI/AGI teams because the spend on continually making the model better doesn’t return as much as they thought and AGI is a lot farther out than they thought.\n\nWe may already have the minimum viable model for most workflows, so better models != better agents.",
+    "createdAt": "Wed Jul 29 22:51:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 60862,
+      "friendsCount": 364,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HObf-HkboAAxtFw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2082599087707501054",
+    "fullText": "Agentic inference wastes GPUs on KV cache thrashing.  \n\nThunderAgent fixes it at the scheduler level: 2.5x higher single-node throughput and ~10x lower P50 latency at high concurrency.  \n\nThunderAgent was accepted to ICML 2026 as a Spotlight paper.  \n\nFull deep-dive 👇 https://t.co/Voqv7yLpti",
+    "createdAt": "Wed Jul 29 22:48:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 62717,
+      "friendsCount": 11197,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HObfBqCboAAFfO3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2082597100924403785",
+    "fullText": "We still have very little furniture but we now have our own tree of life at @adaption_ai  HQ 🌳 https://t.co/QLZre6iEwE",
+    "createdAt": "Wed Jul 29 22:40:16 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @launchmoonshots",
-      "followersCount": 407212,
+      "followersCount": 407225,
       "friendsCount": 875,
       "location": ""
     },
@@ -21,7 +159,7 @@
       "name": "Lex Fridman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1854713863817646088/nTmsz7jR_normal.jpg",
       "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
-      "followersCount": 5233505,
+      "followersCount": 5233722,
       "friendsCount": 688,
       "location": "Austin and Boston"
     },
@@ -39,8 +177,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70934,
-      "friendsCount": 36190,
+      "followersCount": 70937,
+      "friendsCount": 36194,
       "location": "latent space"
     },
     "images": [],
@@ -55,8 +193,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70934,
-      "friendsCount": 36190,
+      "followersCount": 70937,
+      "friendsCount": 36194,
       "location": "latent space"
     },
     "images": [],
@@ -71,7 +209,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 331022,
+      "followersCount": 331034,
       "friendsCount": 227,
       "location": "London"
     },
@@ -89,7 +227,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 5066732,
+      "followersCount": 5067001,
       "friendsCount": 4,
       "location": ""
     },
@@ -123,7 +261,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4417216,
+      "followersCount": 4418420,
       "friendsCount": 793,
       "location": ""
     },
@@ -139,8 +277,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 70934,
-      "friendsCount": 36190,
+      "followersCount": 70937,
+      "friendsCount": 36194,
       "location": "latent space"
     },
     "images": [
@@ -2017,8 +2155,8 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 330966,
-      "friendsCount": 226,
+      "followersCount": 331034,
+      "friendsCount": 227,
       "location": "London"
     },
     "images": [],
