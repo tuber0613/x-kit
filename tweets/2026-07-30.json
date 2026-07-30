@@ -1,6 +1,478 @@
 [
   {
     "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 128848,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfj5ambkAALuwf.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2082883931582713893",
+    "fullText": "Finally a good paper testing if file-system based memory for LLM agents is worth it.\n\nFirst, what does this look like?\n\nDeployed agents keep long-term memory as a folder of markdown files they read and reorganize with ordinary file tools.\n\nTwo assumptions had never been checked. That an agent can keep a growing store organized as memories accumulate, conflict, and go stale. And whether the organization pays for itself.\n\nOrganized stores roughly halve retrieval cost when the material is large. No agent in the study converted organization into better answers, and in the growth study the store degraded for every management agent except the strongest one.\n\nChanging the tool set alone reshapes the memory store as strongly as swapping the model.\n\nPaper: https://t.co/WC6EtdQBfB\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Thu Jul 30 17:40:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407418,
+      "friendsCount": 875,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082880359759282177/vid/avc1/1920x1080/cmiHbRFhFWaQSrsS.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2082880762165031309",
+    "fullText": "Jensen Huang broke years of silence to post his first ever tweet... a letter signed by 77 companies declaring the world needs open AI models. In contrast OpenAI and Anthropic are now lobbying DC together potentially to lock competitors out. All while China is exporting frontier intelligence to the Global South like a digital Belt and Road. \n\n-- Intelligence cost: down 99.95% in 3.5 years. A new frontier model ships every 6 days on average.\n\n-- Starship 13 deployed 20 Starlink V3 satellites and soft-landed intact. Next flight attempts the first mid-air catch of the upper stage.\n\n-- Opus 5 jumped from 1.5% to 30.2% on Arc AGI 3 — the highest official baseline score ever.\n\n-- Elon: money is irrelevant by 2036. Nobel laureate Daron Acemoglu challenged him to donate his $1 trillion.",
+    "createdAt": "Thu Jul 30 17:27:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 5681167,
+      "friendsCount": 1021,
+      "location": "SF"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfg3rSWsAACTkR.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2082880720989532597",
+    "fullText": "major price cuts today:\n\n*80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output\n*20% drop for GPT-5.6 Terra, to $2/$12\n*GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence https://t.co/erC6u4VoDR",
+    "createdAt": "Thu Jul 30 17:27:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 259931,
+      "friendsCount": 180,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2082879600137244978",
+    "fullText": "LangSmith LLM Gateway is now available in public beta.\n\nSet spend and rate limits, determine fallback policies, and redact sensitive data before it reaches a model provider, all from one gateway that works across models and providers.\n\nLearn more and try the public beta →\n\nhttps://t.co/cAAnhA8IrW",
+    "createdAt": "Thu Jul 30 17:22:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 207777,
+      "friendsCount": 218,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2082878519554764886",
+    "fullText": "Read more about AutoEvals on our blog: https://t.co/EIVbQqPLH2",
+    "createdAt": "Thu Jul 30 17:18:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 207777,
+      "friendsCount": 218,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfeKNlbYAAxzr0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2082878517109572095",
+    "fullText": "The same approach extends beyond text. Across vision, image generation, and code arena, we train modality-specific reward models on live Arena preferences.\n\nFor example, on Text-to-Image, our reward model was trained on more than 3 million preference pairs. On the public MMRB2, it achieves state-of-the-art performance among pointwise reward models, more than 9 points ahead of the next-best baseline.",
+    "createdAt": "Thu Jul 30 17:18:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 207777,
+      "friendsCount": 218,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfeIzJaYAAKCnC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2082878514861355015",
+    "fullText": "AutoEval scores provide an early signal for comparing candidate model checkpoints before full live results become available.\n\nWe compared AutoEval’s early ordering with the final live leaderboard. When two models were separated by at least 10 Arena points, AutoEval ranked the higher-scoring model correctly in more than 90% of cases. For gaps above 15 points, it correctly ordered every tested pair.",
+    "createdAt": "Thu Jul 30 17:18:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 207777,
+      "friendsCount": 218,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2082878513347260814",
+    "fullText": "We train our reward model to handle challenges like preference shifts, increasingly subtle model differences, ambiguous tie votes, and longer and more context-dependent interactions. To evaluate it fairly, we use a temporal holdout: train on historical votes, and test on models released later.\n\nAutoEval’s early scores achieved >0.98 ranking correlation with the live scores that followed. Our text reward model also predicts human preferences 8-10% more accurately than frontier LLM judges.\nThis is what makes AutoEval useful as an early leaderboard signal while human votes are still accumulating.",
+    "createdAt": "Thu Jul 30 17:18:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 207777,
+      "friendsCount": 218,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfdnoJaAAAy9J_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2082878511422070919",
+    "fullText": "How does AutoEval produce Arena Score?\n\nFor a new model to be evaluated, we generate responses on prompts sampled from live Arena evaluations. A pointwise reward model on millions of pairwise human votes to score each response and converts score differences into soft votes.\n\nWe then pass those votes through the same ranking pipeline used for live human evaluations. The result appears directly on the leaderboard as a clearly marked, preliminary AutoEval score.\n\nThe lightning-tagged row is positioned by its estimated score, but receives no official rank until enough live human votes arrive to validate it.",
+    "createdAt": "Thu Jul 30 17:18:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 207777,
+      "friendsCount": 218,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfdgSxagAAkZeP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2082878509131907477",
+    "fullText": "Today we’re launching AutoEval: a new evaluation methodology that ranks models using reward models based on millions of real Arena user preferences.\n\nHighlights:\n- High-quality evaluation signals calibrated on real preference data\n- Strong alignment with live human evaluations\n- Evaluations that are several orders of magnitude faster (hours instead of days)\n- Support for Text, Vision, Image, and Code Arena\n\nAutoEval enables us to evaluate newly launched models much faster and share results with the community sooner. We’ll now show AutoEval estimated scores for new models directly on the leaderboard.\n\nMore details in the thread. 🧵",
+    "createdAt": "Thu Jul 30 17:18:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 386606,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2082878485354438751",
+    "fullText": "The work behind the new prices spans the model, inference stack, and agentic harness, from request routing and token generation to tool use and context management.\n\nLuna and Terra’s lower prices are also reflected in how usage is counted in Codex and ChatGPT Work, so your usage goes further.",
+    "createdAt": "Thu Jul 30 17:18:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 386606,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2082878473409085654",
+    "fullText": "Fast mode for GPT-5.6 Sol in the API delivers up to 2.5x the speed of Standard processing at 2x the Standard price, with no change in intelligence.\n\nExisting API requests tagged `priority` will continue to work.",
+    "createdAt": "Thu Jul 30 17:18:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5070103,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfepUra4AAUEZi.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2082878156483219672",
+    "fullText": "We are committed to pushing the model frontier across cost efficiency, capability, and speed.\n\nStarting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a faster option for GPT-5.6 Sol in the API.\n\nLuna and Terra’s lower prices are reflected in how usage is counted in Codex and ChatGPT Work, so your usage goes further.",
+    "createdAt": "Thu Jul 30 17:17:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 60926,
+      "friendsCount": 364,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOetxlqbsAAxwS6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2082874612916867103",
+    "fullText": "Running open-weight models in production gets hard fast.\n\nOn August 6, we’re walking through major updates to our inference platform that make deployment and operations easier:\n\n→ Safe rollouts: canary, blue-green, automatic rollback\n→ A/B and shadow testing on live traffic\n→ SLO-driven autoscaling\n→ Deploy any model with ~4x faster warm starts\n\nLive walkthrough with @__nikitha (inference PM) and @zainhas (DevRel).\n\nThursday August 6, 10:00–11:00 AM PDT.\n\nRegister: https://t.co/KqTqpBWwlu",
+    "createdAt": "Thu Jul 30 17:03:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407418,
+      "friendsCount": 875,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfXBhGWMAEh6Cw.jpg",
+      "https://pbs.twimg.com/media/HOfXBhAWcAEh3-1.jpg",
+      "https://pbs.twimg.com/media/HOfXBhDXcAA_io-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2082870037157687746",
+    "fullText": "We've got a great conversation coming to the MOONSHOTS podcast with @mkratsios47... Stay tuned. \n\nLive from the White House! https://t.co/Zi7d1ZXbEt",
+    "createdAt": "Thu Jul 30 16:44:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 514641,
+      "friendsCount": 3140,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082869757309521920/vid/avc1/1280x720/I_msGLBHhJJ08Uct.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2082869874179572129",
+    "fullText": "ID-V2V\n\nIdentity-preserving Video Restylization\n\npaper: https://t.co/rE6uMjXOSE https://t.co/KN2iyM5rM5",
+    "createdAt": "Thu Jul 30 16:44:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 514641,
+      "friendsCount": 3140,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfVrvKXoAA3k47.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2082868397507838421",
+    "fullText": "CoRT\n\nCounterfactual Replay for Token-Level Rubric-Guided Policy Optimization\n\npaper: https://t.co/JDwdjy8xGX https://t.co/jrtIlBPyQy",
+    "createdAt": "Thu Jul 30 16:38:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 499243,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082866601679085568/vid/avc1/1280x720/Wof-uyqYy_uhmciR.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2082866707438415932",
+    "fullText": "Today we're launching Projects, an evolution of Spaces.\n\nProjects are hubs for ongoing work in Computer. A single place to manage, create, and collaborate on tasks with a shared file system and persistent memory. https://t.co/TFKEQ4jeCn",
+    "createdAt": "Thu Jul 30 16:31:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 207777,
+      "friendsCount": 218,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfT8sNasAM5kjp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2082866489649152326",
+    "fullText": "Text-to-Image Arena helps you find image generation models with granular categories. Now, we’re bringing that same level of detail to image editing by launching categories in Single and Multi-Image Edit Arenas.\n\nWith millions of real user comparisons, Arena can show not just which model wins overall—but what each model does best.\n\nSingle Image Edit and Multi-Image Edit have the same seven categories as Text-to-Image: photorealistic, portraits, cartoon, art, 3D modeling, commercial design, and text rendering.\n\n- GPT Image 2 is #1 in all seven categories, with a particular strength in Text Rendering.\n- Mai Image 2.5 and Muse Image are comparable in Single-Image Edit, ranking behind GPT Image 2\n- Similarly, for Multi-Image Edit, Seedream 5.0 Pro and Muse Image are very close across categories including Text Rendering, Portraits and Photorealistic, with more differentiation around 3D Modeling and Cartoon.",
+    "createdAt": "Thu Jul 30 16:30:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1036705,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082858042530705408/vid/avc1/1280x720/KmRDHJsHSJCnYqw1.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2082866368848986125",
+    "fullText": "Steijn Pelle quit his tech job to do his dentist's paperwork.\n\nAfter working inside offices filing insurance claims by hand, he and Frédéric Renken built Lassie to automate over 98% of that work.\n\nThey join a16z's Alex Rampell and Olivia Moore for a conversation on how they built Lassie, how software is increasingly doing labor, how to model markets with no large incumbents, and more.\n\n00:00 Intro\n01:12 The dentist doing 200 hours of paperwork\n03:46 Working the front desk before writing any code\n05:39 What changed when the models got better\n07:23 Software never did the work, AI does\n17:24 Getting to 98% automation\n22:08 The startups with no incumbent to beat\n33:35 From dentists to every small business\n39:27 Interviewing for how AI-pilled you are\n55:59 How do you reach 160,000 small businesses?\n\n@steijnpelle @fredericrenken @lassieai @arampell @omooretweets",
+    "createdAt": "Thu Jul 30 16:30:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407418,
+      "friendsCount": 875,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2082866321981587581",
+    "fullText": "If you think about it we are one or multiple AI-discovered material away from changing civilization...\nA room-temperature superconductor?\nA dramatically better battery?\nCheap carbon capture?\nA new catalyst for clean fuel?\nThe possibilities are truly endless. We just have to be brave enough to try.",
+    "createdAt": "Thu Jul 30 16:30:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 514641,
+      "friendsCount": 3140,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfS_2WXAAA5SNO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2082865430993981563",
+    "fullText": "TurboVLA\n\nReal-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with &lt;1 GB VRAM\n\npaper: https://t.co/hu2f4oi0zl https://t.co/UhCU4N3zx6",
+    "createdAt": "Thu Jul 30 16:26:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 60926,
+      "friendsCount": 364,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2082859351199388072",
+    "fullText": "We're live with the @Kimi_Moonshot team to discuss Kimi K3! \nhttps://t.co/t0snpwWVwx",
+    "createdAt": "Thu Jul 30 16:02:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149658,
+      "friendsCount": 5424,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfNHKtXEAASLMC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2082858879382151651",
+    "fullText": "We’re entering the Singularity. The institutions that win will not simply use AI—they will turn objectives into authorized action, proof, memory and recursive improvement.\n\nIntroducing the Universal Corporate & Institutional Operating System Ω.\n\nTools to Ride the Singularity.\n\n#QuebecAI #MontrealAI",
+    "createdAt": "Thu Jul 30 16:00:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 347866,
+      "friendsCount": 20447,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOfNFpKW8AADGz0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2082858852802765056",
+    "fullText": "This diagram represents what's widely considered to be the world's first \"non-trivial\" computer program, developed in 1843 by Ada Lovelace for Charles Babbage's Analytical Engine.\n\n(v/@fermatslibrary) https://t.co/FxFnz9PF24",
+    "createdAt": "Thu Jul 30 16:00:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 60926,
+      "friendsCount": 364,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2082858682132381833",
+    "fullText": "Everything you need to know about Kimi K3: A conversation with Moonshot AI and Together AI https://t.co/t0snpwWVwx",
+    "createdAt": "Thu Jul 30 15:59:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312769,
+      "friendsCount": 956,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082855837920317440/vid/avc1/1920x1080/T0OrylGkPLG_4OgH.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2082858249242439997",
+    "fullText": "AI tutors are something else when using voice agents.\n\n(🔊sound on)\n\nJust built this math tutor with Fable 5. Voice powered by Grok Voice Think Fast 2.0.\n\nThis is rough, but just imagine how much better this will get with newer models. https://t.co/sPnrAunEss",
+    "createdAt": "Thu Jul 30 15:57:58 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "sytelus",
       "name": "Shital Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
