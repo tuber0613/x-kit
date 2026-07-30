@@ -1,6 +1,22 @@
 [
   {
     "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 711607,
+      "friendsCount": 827,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2082732210436575669",
+    "fullText": "Quick reminder of what's ok vs not ok with harnesses used for playing ARC-AGI-3:\n\n1. Not okay: harnesses that were custom-made to solve the benchmark or that contain knowledge about the benchmark format / contents.\n\n2. Fine: general-purpose API settings that were not developed for ARC-AGI-3 and that are available to all API users.\n\nIn the past, we've had a lot of back and forth with OpenAI about how to best test their models, especially with regard to compaction. I'm glad they're starting to figure out the answer.\n\nOf course, if each provider uses different settings when getting their model tested, it creates a potential parity issue. My take is that this is fine as long as the settings and the cost are clearly reported.",
+    "createdAt": "Thu Jul 30 07:37:08 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "SamanyouGarg",
       "name": "Samanyou Garg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2073476853332054018/z3eOkgh1_normal.jpg",
@@ -23,7 +39,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36303,
+      "followersCount": 36308,
       "friendsCount": 1783,
       "location": ""
     },
@@ -41,7 +57,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36303,
+      "followersCount": 36308,
       "friendsCount": 1783,
       "location": ""
     },
@@ -59,7 +75,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 163720,
+      "followersCount": 163718,
       "friendsCount": 1274,
       "location": ""
     },
@@ -77,7 +93,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1036563,
+      "followersCount": 1036653,
       "friendsCount": 63,
       "location": "The Cloud"
     },
@@ -95,7 +111,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 476778,
+      "followersCount": 476759,
       "friendsCount": 1558,
       "location": "Austin, TX"
     },
@@ -115,7 +131,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36303,
+      "followersCount": 36308,
       "friendsCount": 1783,
       "location": ""
     },
@@ -131,7 +147,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 128825,
+      "followersCount": 128832,
       "friendsCount": 1,
       "location": ""
     },
@@ -149,7 +165,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297236,
+      "followersCount": 297267,
       "friendsCount": 8380,
       "location": "United States"
     },
@@ -183,7 +199,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 163720,
+      "followersCount": 163718,
       "friendsCount": 1274,
       "location": ""
     },
@@ -199,7 +215,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 163720,
+      "followersCount": 163718,
       "friendsCount": 1274,
       "location": ""
     },
@@ -217,7 +233,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297236,
+      "followersCount": 297267,
       "friendsCount": 8380,
       "location": "United States"
     },
@@ -582,7 +598,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36303,
+      "followersCount": 36308,
       "friendsCount": 1783,
       "location": ""
     },
