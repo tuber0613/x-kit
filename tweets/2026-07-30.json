@@ -1,11 +1,239 @@
 [
   {
     "user": {
+      "screenName": "SamanyouGarg",
+      "name": "Samanyou Garg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2073476853332054018/z3eOkgh1_normal.jpg",
+      "description": "Building AI agents that run your marketing & win you customers from ChatGPT, Claude & Google.\n\nFounder & CEO @WriteSonic (YC S21).",
+      "followersCount": 3700,
+      "friendsCount": 200,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOc-hTxbsAA2-qK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SamanyouGarg/status/2082702366273597624",
+    "fullText": "1/\nGoogle Search Console now lets you connect Instagram, TikTok, X, or YouTube and see clicks, impressions, and the exact Google queries sending people to your posts.\n\nIt works without a website too. That's a real change. https://t.co/o1lZQVqfap",
+    "createdAt": "Thu Jul 30 05:38:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36303,
+      "friendsCount": 1783,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOc4zgBaEAASBBD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2082701490058306017",
+    "fullText": "Agent时代下组织的新形态：Buzz，AI再不是外挂机器人，而是和你平起平坐的同事\n\n意思是Agent即是组织的原生成员，拥有与人类相同的权限和身份，有自己的密钥、自己的频道成员身份、自己的审计日志\n\n不是你给Bot配个权限那种的外挂，它进频道、发消息、提PR、跑review全都自行签名，和人用完全一样的规矩\n\n它把人、AI Agent、代码、工作流装进同一个空间里，底层用Nostr协议统一所有数据\n\n等于用Nostr协议自建了一套统一空间，替代了Slack、GitHub、CI/CD看板、发布工具的角色，聊天、代码协作、自动化、发版全在一个Relay里完成\n\n以前，你的团队用Slack聊天、用GitHub管代码、用Jira管任务、用飞书文档写需求、用各种机器人自动发通知，这些工具互不相通，信息散落在七八个地方\n\n现在，一个房间里，每个人包括AI，聊天、改代码、跑任务、做决策，全部在这一个房间里，并且没人能抵赖，因为每件事都签了名，AI和人平坐\n\n分支自动变成房间。你开一个分支自动生成一个频道，提交的补丁、CI结果、同事的代码审查结果、合并决定等全留在这个频道里，代码写完，讨论记录就是文档\n\n当Agent成为团队标准配置时，这或许是一套人机协同的新架构\n\n#AI员工 #人机协同 #Buzz  #原生agent",
+    "createdAt": "Thu Jul 30 05:35:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36303,
+      "friendsCount": 1783,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOczE-AbAAA1pr0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2082689528138187039",
+    "fullText": "harness是影响成本的关键变量之一，KIMI K3只是换了个agent harness，token 消耗最高能差 30 倍，也印证了claude code对claude之外的模型不友好。\n\nComposio @composio做了一个harness+大模型的成本和性能测试，结论看很有意思：\n\n① 决定成本的，可能不光是模型，还有你用的 harness： Kimi K3 在 3 个 agent harness（Claude Code、Hermes、Kimi Code）上跑 28 个相同任务：三者成功率相近，但同一个任务的 token 花费，因 harness 不同最高差 30 倍。\n换句话说，选错壳，账单能翻几十倍——模型没变。\n\n② 开源权重不再是\"追赶者\"\nK3 权重发布后，在 14 任务 agentic 基准上，K3 和 Claude Fable 5 打成平手——一模一样的 9 个通过、5 个失败，差别落在成本上。\n\n③ 闭源第一梯队内部，Sol 领先 Opus\n23 任务基准上，GPT-5.6 Sol 胜 Opus 5：Sol 过 22/23、Opus 过 20/23；Sol 每任务 111 秒 vs Opus 147 秒；Opus 多烧 1.85× 的 token也印证了大家在具体任务的时候用codex+sol的效果好于claude code+opus。\n\n当各家顶级模型的\"能不能做完\"越来越接近，会回归到商业本质：成本，\"做完花多少 token、多少秒、多少钱\"——而成本构成里，有一个被长期低估的变量，是套在模型外面的那层 harness。\n\n#harness #kimik3",
+    "createdAt": "Thu Jul 30 04:47:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 163720,
+      "friendsCount": 1274,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOcwe0SaEAAlbBf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2082687136025980935",
+    "fullText": "CodePilot 刚更新了 0.62 版本。\n\n因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。\n\n这次更新主要优化了体验：\n\n1. 侧边栏文件树：\n我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。\n\n2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。\n\n3. 补齐了左侧和输入框的右键菜单",
+    "createdAt": "Thu Jul 30 04:38:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1036563,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOcuLuWaQAAOfUh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2082684137018999051",
+    "fullText": "He never left. Atoms closing dinner. https://t.co/QKbtdR84x0",
+    "createdAt": "Thu Jul 30 04:26:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 476778,
+      "friendsCount": 1558,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOcric1XUAA7ovy.jpg",
+      "https://pbs.twimg.com/media/HOcriczXIAAtIf1.jpg",
+      "https://pbs.twimg.com/media/HOcric1XgAAyW5z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2082681226897371265",
+    "fullText": "What on earth https://t.co/5DPNWrXflo",
+    "createdAt": "Thu Jul 30 04:14:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36303,
+      "friendsCount": 1783,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2082678422476890290",
+    "fullText": "https://t.co/pXCMW4R7xY",
+    "createdAt": "Thu Jul 30 04:03:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 128825,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOcoOSOa4AAldQv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2082677582378811762",
+    "fullText": "// The agent is its own best speculator //\n\nAgents spend a large share of wall-clock time waiting on tool results. Speculation hides that latency by predicting and pre-executing the next call, but external draft models and cached traces are modeling a different policy, so they miss too often to help.\n\nNew research from UC Santa Barbara and LinkedIn unifies both roles in one model. It runs in agent mode to solve the task and in speculator mode to predict its next tool call from a partial trajectory, fully reusing the prefix KV cache.\n\nJoint agent-speculator reinforcement learning derives speculation targets from the agent's own rollouts and alternates updates between the two modes, which keeps dual-mode training from degrading task success.\n\nNext tool-call Hit@1 rises from 44.1 to 61.2 for Qwen3-4B and from 48.9 to 66.3 for Qwen3.5-4B, with agent task success preserved.\n\nPaper: https://t.co/CylvOwJ3Dz\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Thu Jul 30 04:00:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297236,
+      "friendsCount": 8380,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2082676812870729983",
+    "fullText": "There are no safe options any more.",
+    "createdAt": "Thu Jul 30 03:57:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5706,
+      "friendsCount": 1195,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082675807584206849/vid/avc1/1920x1080/4cVQp8Yd_1Ij2fyP.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2082675845328699562",
+    "fullText": "I Want an AI Desk Assistant\n\nI like these new holographic assistants for your desk.\n\n-Cartoon characters \n\n-Dancing girls \n\n-Licensed IP like Iron Man?\n\nThey can run various AI assistants, like Grok or ChatGPT.\n\nRazer has a cool holographic version, shown at CES. \n\nThese simpler ones are by Xmov. Shown at WAIC 2026.",
+    "createdAt": "Thu Jul 30 03:53:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 163720,
+      "friendsCount": 1274,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2082670827657433335",
+    "fullText": "要不是 Cloud Max 有 Fable 5 的话，我现在根本都不想订阅。\n\nOpus 4.7、4.8 和 5.0 都太他妈拉胯了，越来越拉胯。\n\n测试成绩越来越好，但是使用体验上效果越来越差：就是疯狂地不说人话、无法沟通，加上疯狂偷懒。\n\n它就像那种大厂里面最讨厌的同事，全是说教，但是不干活。\n\n而且你给他布置任务以后，他疯狂地通过各种方式削减自己的工作量。\n\n一旦用在自动化循环里，你就会发现你给他 7 个需求，他说都做完了，但是每一个需求都给你砍到原有工作量的 20%，最后的结果就是每个都不能用。\n\n很难想象 Anthropic 这个公司现在经历了什么。\n\n就好像 Opus 4.6 是一个偶然的结果，他们根本没有掌握怎么样再训出一个比 Opus 4.6 更好的 Opus 模型。",
+    "createdAt": "Thu Jul 30 03:33:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 163720,
+      "friendsCount": 1274,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082530066567987201/vid/avc1/1920x1080/-mt-fxR-GCrtaqw5.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/2082666702182154546",
+    "fullText": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力\n https://t.co/01Idq5uQHR",
+    "createdAt": "Thu Jul 30 03:16:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297236,
+      "friendsCount": 8380,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2082663775573057950",
+    "fullText": "I still prefer Joyce’s version …",
+    "createdAt": "Thu Jul 30 03:05:12 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487521,
+      "followersCount": 487526,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -23,7 +251,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "",
-      "followersCount": 241072030,
+      "followersCount": 241075819,
       "friendsCount": 1377,
       "location": ""
     },
@@ -41,7 +269,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487521,
+      "followersCount": 487526,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -59,7 +287,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487521,
+      "followersCount": 487526,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -77,7 +305,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487521,
+      "followersCount": 487526,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -95,7 +323,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487521,
+      "followersCount": 487526,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -113,7 +341,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487521,
+      "followersCount": 487526,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -347,6 +575,24 @@
     "tweetUrl": "https://x.com/omarsar0/status/2082602113558077599",
     "fullText": "Super interesting new work from NVIDIA.\n\n(bookmark it)\n\nThey suggest building agents as Python objects.\n\nVery cool idea and I think it could a lot with agent reliability.\n\nMore below:\n\nAgent development today spreads across prompt templates, tool schemas, callback code, and workflow graphs. NOOA replaces all four with one abstraction.\n\nAn agent is a Python object. Its methods are the actions the model can take, its fields hold state, its docstrings are the prompts, and its type annotations act as contracts.\n\nA method whose body is \"...\" gets completed at runtime by a validated LLM loop. A method with a normal body stays deterministic Python.\n\nThat single convention puts the boundary between probabilistic and deterministic behavior right in the source.\n\nAgent behavior becomes testable, traceable, and refactorable with the same tools you already use on the rest of your codebase.\n\nNVIDIA reports six model-facing ideas combined on one surface, including pass-by-reference over live objects and model-callable harness APIs for context and events, evaluated on SWE-bench Verified, Terminal-Bench 2.0, and ARC-AGI-3.\n\nPaper: https://t.co/PCtFtVY8rT\n\nLearn to build effective AI agents in our academy: https://t.co/1e8RZKs4uX",
     "createdAt": "Wed Jul 29 23:00:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36303,
+      "friendsCount": 1783,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082389808757063680/vid/avc1/1280x800/J58v_vZ7vp8zwOAT.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2082390157374656748",
+    "fullText": "这几天搓了一个开源的生成式引擎优化（GEO）自托管平台GEOLook，打通了GEO全流程：geo诊断 → AI 答案采样 → 工单 → 资产 → 验收 → 交付，一条完整的GEO流水线。\n\n为什么做这个？\n\n看到很多人留言问geo之类的，加上之前我自己公司也买过geo服务，大都做的差强人意，而且完全黑盒，服务一塌糊涂，所以后来就找了专人搞geo，执行过程基本上都是比较脏活累活的一些操作，所以就把这个sop（同时也借鉴了姚金刚老师的一些思路），打造成了geolook这个产品，来替代中间过程，人更多只做结果监测和观察，以及相关的导入自动化发布。\n\n能解决什么问题？\ngeo问诊、geo执行工单、geo实施方案、geo执行自动化、优化过程中的前后结果对比。\n\n对研究geo有兴趣的朋友，可以拿回去自己diy成自己的想要的定制化版本，许可证没限制随便用。\n#GEO #AI搜索优化 #生成式引擎优化 #开源 #自托管",
+    "createdAt": "Wed Jul 29 08:57:57 +0000 2026"
   },
   {
     "user": {
