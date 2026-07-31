@@ -1,11 +1,217 @@
 [
   {
     "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 144921,
+      "friendsCount": 628,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOk7i1nXAAADd7Z.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2083263841664733587",
+    "fullText": "Moonshot's MoonEP acknowledges AcclEP, which is Alibaba's black-box comms library with DeepEP API for their cluster.\n\nBut there's no link because there's no source or documentation. None that I or my agents could find, anyways. Kinda odd to ack that for library inspiration? https://t.co/KyA8cGcNjW",
+    "createdAt": "Fri Jul 31 18:49:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 325905,
+      "friendsCount": 889,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HOk4WwWXIAAuWPG.mp4"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2083258269875798275",
+    "fullText": "Humans count the boxes in this image, hidden ones included, with 82.1% accuracy. The best off-the-shelf multimodal model manages 17.7%.\n\nSpatial-IQ is a diagnostic benchmark from NVIDIA Research that breaks 3D object counting into nine perceptual and cognitive sub-tasks, from counting columns to inferring the blocks that must be underneath to hold the structure up, and scores each one separately. Training on those sub-tasks lifted Qwen2.5-VL-32B object-counting accuracy from 2.9% to 62.6%.\n\nFor researchers developing multimodal reasoning systems, this creates a practical loop: identify where spatial reasoning fails, target the missing capability, and verify that improvement reflects composition, not just a better final score.",
+    "createdAt": "Fri Jul 31 18:27:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 514880,
+      "friendsCount": 3140,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOk4CZMXcAAG4IL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2083258008004354343",
+    "fullText": "Qwen-UI-Agent Technical Report\n\nToward Next-Generation Real-World Centric Foundation GUI Agents\n\npaper: https://t.co/AKIbxQG6Jf https://t.co/tj9Gwf5VH9",
+    "createdAt": "Fri Jul 31 18:26:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 96367,
+      "friendsCount": 929,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2083256800288424128",
+    "fullText": "The pace of progress on models from so many organizations at once is genuinely incredible. Building LLMs isn't driven by rare secrets, but consistent effort, mass capital, and effective organization design. It is great that know-how of such a powerful technology is diffused.",
+    "createdAt": "Fri Jul 31 18:21:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 514880,
+      "friendsCount": 3140,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOk27duXkAAcn4k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2083256759532019878",
+    "fullText": "Explorative Modeling\n\nUnlocking a Third Pretraining Axis and End-to-End Generation\n\npaper: https://t.co/e0sFDi0KLe https://t.co/tkmsesinuE",
+    "createdAt": "Fri Jul 31 18:21:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94237,
+      "friendsCount": 1101,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2083255628038868992/vid/avc1/1280x720/SjCK2m8nV9G0ddsM.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2083255690974371922",
+    "fullText": "AI is changing what data teams are expected to build. Increasingly, the focus is on AI applications, agents, and automations that turn data into action.\n\nThat’s why https://t.co/XahSlxHNg8 founder @Zachly is launching a free six-hour Databricks boot camp starting August 3, covering:\n• Building data systems with Lakebase and Postgres\n• Working with unstructured data, vector search, and retrieval\n• Building AI agents with Agent Bricks\n\nThe course runs entirely in Databricks Free Edition and is designed for beginners and practitioners building practical AI data engineering skills.\n\nJoin here: https://t.co/7DYpgzA00f",
+    "createdAt": "Fri Jul 31 18:17:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1037261,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOk1f7_akAAMGx0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2083255129017651534",
+    "fullText": "The entry-level tech squeeze predates the AI boom\n\nCharts of the Week: https://t.co/IXXDfM8Wph https://t.co/xsXPqFToka",
+    "createdAt": "Fri Jul 31 18:15:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "gdb",
+      "name": "Greg Brockman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+      "description": "President & Co-Founder @OpenAI",
+      "followersCount": 1022990,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gdb/status/2083252189095698440",
+    "fullText": "happy sysadmin appreciation day, to all who celebrate!\n\nnominate a sysadmin who deserves some recognition — we're giving 10 Codex controllers to randomly selected nominees:\n\nhttps://t.co/3poYoFlJcb",
+    "createdAt": "Fri Jul 31 18:03:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297443,
+      "friendsCount": 8385,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2083249580268048517",
+    "fullText": "Parallel computing is great, but the real alpha is in orthogonal computing.",
+    "createdAt": "Fri Jul 31 17:52:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 116317,
+      "friendsCount": 51,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2083230579601137668/vid/avc1/3840x2160/pVaQGm3M74fiyhJs.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/googleaidevs/status/2083245181063852521",
+    "fullText": "After planning your idea, it’s time to build. 🏗️\n\nThis video shows you how you can use the Google ecosystem to construct and deploy AI-native apps seamlessly for the Build with Gemini @XPrize Hackathon, live through August 17. https://t.co/WofMAzlH2M",
+    "createdAt": "Fri Jul 31 17:35:30 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 407600,
+      "followersCount": 407621,
+      "friendsCount": 875,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2083243965415891228",
+    "fullText": "We should not choose between more intelligence and responsible infrastructure. The moonshot is to get both!",
+    "createdAt": "Fri Jul 31 17:30:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 476851,
+      "friendsCount": 1557,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2083243088462397691",
+    "fullText": "Wait so net of everything Leopold's fund is up 80% YTD?\n\nObviously positions had too much risk, but most funds would kill for catastrophe leading to being up 80% YTD.",
+    "createdAt": "Fri Jul 31 17:27:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407621,
       "friendsCount": 875,
       "location": ""
     },
@@ -23,7 +229,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 260106,
+      "followersCount": 260108,
       "friendsCount": 181,
       "location": ""
     },
@@ -39,8 +245,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 71000,
-      "friendsCount": 36241,
+      "followersCount": 71002,
+      "friendsCount": 36242,
       "location": "latent space"
     },
     "images": [],
@@ -55,7 +261,7 @@
       "name": "Google Gemini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 542462,
+      "followersCount": 542527,
       "friendsCount": 52,
       "location": "Mountain View, CA"
     },
@@ -73,7 +279,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4453413,
+      "followersCount": 4454403,
       "friendsCount": 793,
       "location": ""
     },
@@ -89,7 +295,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 312888,
+      "followersCount": 312881,
       "friendsCount": 956,
       "location": "DAIR.AI Academy"
     },
@@ -125,7 +331,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1037219,
+      "followersCount": 1037261,
       "friendsCount": 63,
       "location": "The Cloud"
     },
@@ -159,7 +365,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297437,
+      "followersCount": 297443,
       "friendsCount": 8385,
       "location": "United States"
     },
@@ -530,7 +736,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 539367,
+      "followersCount": 540055,
       "friendsCount": 4896,
       "location": "Miami / New York / Paris"
     },
