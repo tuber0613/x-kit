@@ -1,6 +1,110 @@
 [
   {
     "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407667,
+      "friendsCount": 875,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2083568883051462816",
+    "fullText": "Students that are graduating should have a developed portfolio that shows that they've done and what they can do. A transcript itself only shows employers where you studied... Young people should start graduating with BOTH, especially as the tools are changing faster than job titles.",
+    "createdAt": "Sat Aug 01 15:01:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235319,
+      "friendsCount": 7088,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2083568386072887529",
+    "fullText": "“Open”AI dropped a 249 page paper on new math results but not one page is about how the model works, how the proofs were verified, what role if any humans played, whether any of the proposed proofs had errors, etc.\n\nWhat happened to science?",
+    "createdAt": "Sat Aug 01 14:59:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407667,
+      "friendsCount": 875,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2083558645485166592/vid/avc1/1080x1920/AcdGD8NRrUL6U22B.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2083559999532376482",
+    "fullText": "We know more of what's happening inside our refrigerators and cars than we know about our own bodies...  14.4% of healthy people who walk into Fountain Life have a life-threatening condition they didn't know about. 70% of heart attacks have no warning. 50% of fatal cancers aren't even screened for.\n\n-- 70% of heart attacks have zero warning signs. No pain. No shortness of breath.\n\n-- 25% of our members show accelerated brain aging. Men: over 30%. 50% reversed it in 13 months with better sleep alone.\n\n-- Dario Amodei expects AI to double the human lifespan in 5–10 years. \n\n-- Martine Rothblatt has developed the ability to regrow your thymus — the immune organ that disappears with age.",
+    "createdAt": "Sat Aug 01 14:26:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 128919,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOpInQVa0AAmPqY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2083557620296859937",
+    "fullText": "If you maintain an AGENTS.md or a CLAUDE.md, this is worth a read.\n\n(bookmark it)\n\n288 gold-test evaluated runs across Claude Code and Codex, 17 real tasks from 3 repositories, with context-injection strategy as the only variable.\n\nCorrectness does not move on either agent. Equivalence testing bounds any effect to at most 10 to 15 percentage points.\n\nA failure-mode triage explains why. Agents fail on implementation skill, feature design, pattern selection and exact wiring, rather than on repository knowledge a markdown file could supply. A manipulation probe confirms it, since the real AGENTS.md never converted a near-miss into a pass on either agent.\n\nBorderline task difficulty is agent-specific with Spearman rho of 0.75, so single-agent studies draw tasks from different informative bands and reach opposite conclusions. That explains a lot of the contradictory prior evidence.\n\nPaper: https://t.co/iEC36in8ms\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Sat Aug 01 14:17:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312928,
+      "friendsCount": 956,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOpHsnsbcAEannw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2083556612971913569",
+    "fullText": "// Persistent Workspaces for Long-Lived Claude Code Agent Teams //\n\nFour issues to be aware of:\n\n> Working state vanishes when a terminal closes and the team cannot be resumed.\n\n> Compaction condenses the conversation and blurs each agent's working detail.\n\n> Decisions and operations get trapped in compacted chats, which accumulates as agentic technical debt.\n\n> Every handoff needs another long prompt.\n\nATWZ is a filesystem operations layer built around Claude Code's native Agent Teams. Each agent gets a workstation directory holding its working state alongside the skills, hooks and scripts that maintain those files. The team backs up periodically so knowledge survives compaction, and a single command restores the whole team after the process ends.\n\nAgents also send documents to one another inside the workspace, which replaces most of the handoff prompt writing.\n\nPaper: https://t.co/eNddzxz5e7\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Sat Aug 01 14:13:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407667,
+      "friendsCount": 875,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2083553940185010176/pu/vid/avc1/1280x720/Hw_17boPDxiZ0lkH.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2083554310554562882",
+    "fullText": "Was there life on Mars? \n\n\"First of all, I think I was discounting when I said 90%. I think if you talk to some of the brightest minds here at NASA, they would give you almost 100% certainty that at one point there was microbial life on Mars. I think really we're in this seeing is believing. No one's willing to make the declarative statement based on I want to say failed efforts but you know they were kind of swinging and misses in the past that people have said for sure it was there and then they get they walk it back. I just don't think the scientific community is going to reach that consensus unless you bring those samples back to Earth and you get enough people looking under a microscope. If it turns out to be the case and I think we're very much talking again very dead microbial life but that if you can prove that there was at one point microbial life there and then Europa Clipper starts sending back some interesting data and you send Dragonfly to Titan. You get a mission off to Enceladus and this is all in our backyard. This is our star system, right? It changes the dynamic a little bit from surely it must be out there somewhere to what if it's everywhere.\"",
+    "createdAt": "Sat Aug 01 14:03:52 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "azeem",
       "name": "Azeem Azhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
@@ -21,7 +125,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 453343,
+      "followersCount": 453341,
       "friendsCount": 581,
       "location": "🇺🇸 Collaborations →"
     },
@@ -37,7 +141,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 407670,
+      "followersCount": 407667,
       "friendsCount": 875,
       "location": ""
     },
@@ -53,7 +157,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149644,
+      "followersCount": 149643,
       "friendsCount": 5426,
       "location": "Montréal · Québec"
     },
@@ -69,7 +173,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36392,
+      "followersCount": 36393,
       "friendsCount": 1794,
       "location": ""
     },
