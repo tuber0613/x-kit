@@ -1,11 +1,277 @@
 [
   {
     "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 476973,
+      "friendsCount": 1558,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2083758068341313686",
+    "fullText": "It's weird how each model has subtle tells, but they become more more obvious when it comes to design.\n\nClaude-designed product vs. Codex-designed product is instantly recognizable.",
+    "createdAt": "Sun Aug 02 03:33:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "karpathy",
+      "name": "Andrej Karpathy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+      "description": "I like training large deep neural nets.",
+      "followersCount": 3637388,
+      "friendsCount": 1120,
+      "location": "Stanford"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2083744791876292608/vid/avc1/1920x1080/9NW2QWX_Ejzzlpj5.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/karpathy/status/2083749667410727319",
+    "fullText": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
+    "createdAt": "Sun Aug 02 03:00:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 152812,
+      "friendsCount": 3353,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2083739077732626492",
+    "fullText": "you can be maximally long the tech and still skeptical of the price of admission on a given opp. folks who bought Cisco at 200x in Mar-2000 were right about the internet (traffic grew &gt; than even bulls projected) and still lost 85%. right about the tech != right about the surplus",
+    "createdAt": "Sun Aug 02 02:18:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297739,
+      "friendsCount": 8388,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2083735104309096551",
+    "fullText": "All of this was already proven by Schmidhuber in 1989.",
+    "createdAt": "Sun Aug 02 02:02:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "gdb",
+      "name": "Greg Brockman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+      "description": "President & Co-Founder @OpenAI",
+      "followersCount": 1024157,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gdb/status/2083730016400195845",
+    "fullText": "chatgpt work is such a good thought amplifier",
+    "createdAt": "Sun Aug 02 01:42:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 476973,
+      "friendsCount": 1558,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2083729834274939325",
+    "fullText": "If you’re not in a position where you can use a huge number of tokens the most important thing is to get in a position where you can use a huge number of tokens.\n\nThe great token advantage will only compound from here.",
+    "createdAt": "Sun Aug 02 01:41:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36387,
+      "friendsCount": 1796,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOrjm8YbAAAzatE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2083729293923017094",
+    "fullText": "前manus大佬开源的agent team产品codexloom：把 Codex 的 thread 变成长期在岗的数字员工，再组织成一支团队。解决了一个人无法同时高效管理几十个agent的场景，一旦agent多了人就是最大的瓶颈，主要面向手里养着数十以上专职 agent、想让agent各守一个细分场景、还能被同事或用户通过飞书直接调用的高级个人/一人公司。\n\n现在大家用 code agent 都是任务式的：开 thread，交代背景，拿结果，关掉。旧 thread 里积累的约束、决策、工具用法全部作废，每个任务都在重复付冷启动成本。\n\nCodexLoom 反着做：旧的thread 不该随任务废弃，同场景的后续工作回到同一条 thread。\n\n有人担心长 thread 太贵，作者的回应很扎实：\n\n1、新开 thread 重建上下文同样有成本，只是没人算这笔账\n2、稳定的历史前缀能吃 prompt cache\n3、compaction 压缩旧消息后，工作状态依然在\n4、最关键：纠错、术语、偏好、判断习惯这些隐性知识，换 thread 就丢，用 prompt 根本重建不出来\n\n每个 Agent 有个profile，包含三样东西：Identity（是谁）、Domain（长期负责什么）、Scope（边界在哪）。一份数字员工的岗位说明书。\n\n通信规则：信息流向责任，决定流向权限，结果回到发起者，例外向上升级。拿去管人类团队同样成立。\n\n最有想象空间的是对外：养成熟的 Agent 带着受治理的身份进飞书/Slack 群，同事直接跟它协作。你调教半年的能力，别人可以直接复用。一人公司雇数字员工再外派，最小闭环跑通了，也是未来AI数字员工商业化的基础。\n\n这个项目的方法论非常值得学习，别人还在比谁的编排 DAG 花哨，它在回答更根本的问题：Agent 从一次性工具变成长期同事，组织关系该长什么样。工龄，可能才是下一代 Agent 产品真正的护城河。\n#CodexLoom #Codex #AIagent #多智能体 #agent治理",
+    "createdAt": "Sun Aug 02 01:39:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235340,
+      "friendsCount": 7090,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2083728622855364630",
+    "fullText": "Now you say you want Artificial General Intelligence to be “General”?  \n\nOMG how could you?",
+    "createdAt": "Sun Aug 02 01:36:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297739,
+      "friendsCount": 8388,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2083719175764390383",
+    "fullText": "Astra is another Deep Blue moment.",
+    "createdAt": "Sun Aug 02 00:58:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297739,
+      "friendsCount": 8388,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2083715397396881898",
+    "fullText": "tbh, not a bad run for a hairless ape with a strong penchant for self destruction",
+    "createdAt": "Sun Aug 02 00:43:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 5110,
+      "friendsCount": 1653,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2083710781762240512/vid/avc1/1920x1080/-cH9Ig0ixBl84Srq.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kseniase_/status/2083711113464623506",
+    "fullText": "One AI request may soon begin on one computer and finish on another.\n\n@AMD and @cerebras optimize the architecture of the request. They separating the two phases of LLM inference: AMD's Helios processes prompts and long context, while Cerebras generates tokens.\nThey claim up to 5× more tokens per second per watt.\n\nMeanwhile, OpenAI reportedly cut inference costs for part of ChatGPT traffic by more than half, optimizing software running the request.\n\nSo that’s what the inference race looks like today: extracting more useful work from every chip. \n\nHere I explain how these new systems work in detail",
+    "createdAt": "Sun Aug 02 00:26:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "",
+      "followersCount": 241113777,
+      "friendsCount": 1378,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079623240972939265/vid/avc1/3840x1920/rfqIXTvznhMJ5rAR.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2083709924236751300",
+    "fullText": "Made with Grok Imagine https://t.co/r0zG3rQNjb",
+    "createdAt": "Sun Aug 02 00:22:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235340,
+      "friendsCount": 7090,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2083709832960590163",
+    "fullText": "I said multiple times that Astra is impressive and still the OpenAI guys (past and present) are mad at me and coming at me with misrepresentations and strawmen because I didn’t say Astra is ASI, and emphasized the very real difference between math and other domains.\n\nToo bad. \n\nI am standing my ground and you are just highlighting your own desperation.",
+    "createdAt": "Sun Aug 02 00:21:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 476973,
+      "friendsCount": 1558,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2083707068502995371",
+    "fullText": "Idunno man, I legitimately think we’re in full takeoff mode, and I spend all day wondering why I can’t convince people they need to get on the rocket",
+    "createdAt": "Sun Aug 02 00:10:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235340,
+      "friendsCount": 7090,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2083706289264484775",
+    "fullText": "it is a sign of desperation when people resorting to lying about beliefs.\n\nthat moment has come.",
+    "createdAt": "Sun Aug 02 00:07:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "",
+      "followersCount": 241113777,
+      "friendsCount": 1378,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2083219494231494656/vid/avc1/784x1168/g0Eck_9qcsGwK8ro.mp4?tag=25"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2083706250370449572",
+    "fullText": "Grok Imagine https://t.co/OVBEbvaMvl",
+    "createdAt": "Sun Aug 02 00:07:38 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "togethercompute",
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 61034,
+      "followersCount": 61043,
       "friendsCount": 365,
       "location": "San Francisco, CA"
     },
@@ -21,7 +287,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 235315,
+      "followersCount": 235340,
       "friendsCount": 7090,
       "location": ""
     },
@@ -41,8 +307,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297632,
-      "friendsCount": 8389,
+      "followersCount": 297739,
+      "friendsCount": 8388,
       "location": "United States"
     },
     "images": [],
@@ -57,8 +323,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297632,
-      "friendsCount": 8389,
+      "followersCount": 297739,
+      "friendsCount": 8388,
       "location": "United States"
     },
     "images": [],
@@ -89,8 +355,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297632,
-      "friendsCount": 8389,
+      "followersCount": 297739,
+      "friendsCount": 8388,
       "location": "United States"
     },
     "images": [],
@@ -105,8 +371,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 430186,
-      "friendsCount": 13250,
+      "followersCount": 430377,
+      "friendsCount": 13251,
       "location": "San Francisco, CA"
     },
     "images": [],
