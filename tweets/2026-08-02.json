@@ -1,11 +1,149 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4495474,
+      "friendsCount": 797,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOu6tBraMAAzCCS.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2083968626932215904",
+    "fullText": "1960 Longines automatic with a cal 291 movement. These are among the best bargains in vintage watches. For $700 you can get a golden age Longines that's still accurate to 5 seconds a day (dial up). https://t.co/5zraqlXJFw",
+    "createdAt": "Sun Aug 02 17:30:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70943,
+      "friendsCount": 36282,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOu8WP4W4AAonfb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2083966351434031543",
+    "fullText": "return to the roots @airstreet https://t.co/y9UzDkDYko",
+    "createdAt": "Sun Aug 02 17:21:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312963,
+      "friendsCount": 957,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2083955026905510134",
+    "fullText": "Frontier open models have really changed the conversation on intelligence. It needed to happen because we were headed to an absolute catastrophe.\n\nMost importantly, as AI continues to progress, it's important not to forget how bad centralization of AI is.",
+    "createdAt": "Sun Aug 02 16:36:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94295,
+      "friendsCount": 1101,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HOuw34tWcAAN9ME.mp4"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2083953768400408726",
+    "fullText": "The agentic era demands context engineering, and Databricks is making it easier to build those skills.\n\nThe new Databricks Certified Context Engineer Associate exam is the industry’s first certification focused on context engineering. We’ve also added courses on agent fundamentals, retrieval agents, and agent evaluation, plus official guidance for using AI tools to prepare for certification exams.\n\nExplore the new certification and training resources 🔰: https://t.co/Ltcju82z4h",
+    "createdAt": "Sun Aug 02 16:31:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407691,
+      "friendsCount": 876,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2083953610732269896",
+    "fullText": "As AI makes answers cheaper, the quality of the question becomes more valuable.",
+    "createdAt": "Sun Aug 02 16:30:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 312963,
+      "friendsCount": 957,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOuulXWbsAAQ1P8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2083951213171925221",
+    "fullText": "New research from Google DeepMind.\n\n(bookmark it)\n\nSkillSmith treats model weights as an additional modality the LLM reads natively. The augmented model ingests existing prefix weights alongside rich text describing how a capability relates to a target, then directly outputs new prefix weights that manifest that skill.\n\nSkill composition becomes an inference-time operation instead of a training run. The team calls this instruction-steered parametric synthesis.\n\nThe gains exceed what text-only and weight-only adaptation reach on their own.\n\nPaper: https://t.co/FXmBF0Uu6M\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Sun Aug 02 16:21:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "karpathy",
+      "name": "Andrej Karpathy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+      "description": "I like training large deep neural nets.",
+      "followersCount": 3647157,
+      "friendsCount": 1120,
+      "location": "Stanford"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/karpathy/status/2083948654377996480",
+    "fullText": "More on the pelican on the bicycle test from @simonw:\nhttps://t.co/OXmtODyTKj\n\nI uploaded the source here so it's playable in the browser, forkable etc.\nhttps://t.co/w3Nctc888d\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
+    "createdAt": "Sun Aug 02 16:10:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 164039,
+      "friendsCount": 1281,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOurxqfbQAAFObC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2083948196422906312",
+    "fullText": "补一张，这个风格的金色和黑色真是出彩 https://t.co/aLoVslHGug",
+    "createdAt": "Sun Aug 02 16:09:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "MIT_CSAIL",
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 347894,
+      "followersCount": 347896,
       "friendsCount": 20445,
       "location": "Cambridge, MA"
     },
@@ -21,7 +159,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 129015,
+      "followersCount": 129021,
       "friendsCount": 1,
       "location": ""
     },
@@ -37,7 +175,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4493803,
+      "followersCount": 4495474,
       "friendsCount": 797,
       "location": ""
     },
@@ -71,8 +209,8 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 407692,
-      "friendsCount": 875,
+      "followersCount": 407691,
+      "friendsCount": 876,
       "location": ""
     },
     "images": [],
@@ -87,7 +225,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 164038,
+      "followersCount": 164039,
       "friendsCount": 1281,
       "location": ""
     },
@@ -106,7 +244,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 477010,
+      "followersCount": 477023,
       "friendsCount": 1558,
       "location": "Austin, TX"
     },
@@ -830,7 +968,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 235463,
+      "followersCount": 235472,
       "friendsCount": 7090,
       "location": ""
     },
