@@ -1,11 +1,224 @@
 [
   {
     "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5082105,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0uUesbYAAaHzK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2084378415818579975",
+    "fullText": "GPT-Live can listen while it speaks.\n\nTo make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model.\n\nThis new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation. https://t.co/53VTTsqXg0",
+    "createdAt": "Mon Aug 03 20:38:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487581,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0ulEMWUAASjCu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2084374962312298728",
+    "fullText": "Wow! Major updates in the new 3rd Edition of this amazing massive 826-page book!\n\n\"Machine Learning for Trading — A disciplined workflow from research to live execution, with 9 case studies and AI agents\" — https://t.co/LRiSD5ViL0 by @ml4trading \n\nThe author will also be hosting a live online workshop, Machine Learning for Trading in the Age of AI Agents, on August 15. Event details:\nhttps://t.co/H2uIYXY2Ia ... Wait! I will be sharing a 40% DISCOUNT CODE for the workshop as soon as I receive the code from the host @PacktPublishing",
+    "createdAt": "Mon Aug 03 20:24:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 326253,
+      "friendsCount": 890,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0vYNPWIAARkbx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2084374298530107465",
+    "fullText": "A long-context model's serving speed is largely decided before training starts.\n\nAttention used to be a small part of a model's inference cost, but its share grows sharply as context windows expand. Once attention is the majority of the work, faster kernels stop being enough, and the shape of the attention mechanism itself sets the ceiling.\n\nWe're continuing our series on AI Model Co-Design with a post on the four architecture choices that set that ceiling: group size, head dimension, KV-cache size, and parallelism strategy. It also covers how the right choices improve both system throughput and per-user responsiveness. You can read the full piece here: https://t.co/RxgXDQhPpE",
+    "createdAt": "Mon Aug 03 20:22:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 544204,
+      "friendsCount": 52,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2084373337380356177",
+    "fullText": "What are you cooking up with Gemini Omni? Drop your creations in the replies. 👇\n\nReminder: Free users can create up to 10 videos *at no cost* with Gemini Omni until August 4th, 2026 at 11:59pm PT.",
+    "createdAt": "Mon Aug 03 20:18:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487581,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0sm2rW8AABO3o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2084372325965975621",
+    "fullText": "Agentic Coding with OpenAI Codex CLI — Build intelligent agent workflows using Agentic Engineering, MCP, hooks, and delivery automation: https://t.co/lptzIUqPA9 from @PacktPublishing @PacktDataML \n\n𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨:\n🔵What Is Codex CLI?\n🟠Getting Started with Codex CLI\n🔵Prompting Codex CLI Effectively\n🟠AGENTS.md: Patterns and Pitfalls\n🔵Approval Modes and Trust Boundaries\n🟠Model Selection and Reasoning Effort\n🔵Context Window Management\n🟠MCP: Consuming and Serving\n🔵Hooks: Intercepting the Agent Lifecycle\n🟠The Skills Ecosystem: Using and Writing Skills\n🔵Sub-Agents and Parallel Execution\n🟠Multi-Agent Orchestration Patterns\n🔵Worktrees and Isolated Execution\n🟠Cost Management and Quota Strategy\n🔵CI/CD Integration\n🟠Security Hardening\n🔵Enterprise Deployment\n🟠Debugging and Diagnosing Agent Failures",
+    "createdAt": "Mon Aug 03 20:14:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487581,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0r28pXYAA9N3j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2084370909456994492",
+    "fullText": "Code Revealed — A practical guide to AI agents, workflows, and modern application practices: https://t.co/jgevfltFAI\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🟣Distinguish agents from simpler AI coding assistants\n\n🟣Assess tool fit using capability and autonomy criteria\n\n🟣Structure prompts through richer Context Engineering\n\n🟣Use plans and logs to supervise non-trivial AI tasks\n\n🟣Design workflows for prototyping, refactoring, and QA\n\n🟣Prevent hidden risk from churn, bias, and hallucinations\n\n🟣Reorganize teams around emerging AI-native roles\n\n🟣Build skills for orchestration, review, and governance",
+    "createdAt": "Mon Aug 03 20:08:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129144,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0sIZvaQAAg8NB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2084370729332797724",
+    "fullText": "Finally a good paper testing whether agent memory needs an LLM at all.\n\nProduction memory stacks spend extra model calls on summarizing interactions, writing records, and reranking retrievals. Every one of those calls costs tokens and latency, and the summaries quietly discard the evidence you later need.\n\nZero-Mem removes generation from every memory step. Only the final question-answering reader ever invokes an LLM.\n\nIt keeps original interaction traces as the record and indexes them two ways. An entity-context graph exposes connections across sessions. A temporal hierarchy preserves conversational locality and session state. For each query it weighs both views, retrieves from both, and follows their structure to recover supporting relations or surrounding context. Deterministic calibration then discards conflicting evidence before the reader answers.\n\nAt matched reader and context budget, memory-operation time cost drops 57.6% against the fastest compared baseline, with competitive accuracy on long-memory and long-context QA.\n\nPaper: https://t.co/JVndjGAK6D\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Mon Aug 03 20:08:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 313066,
+      "friendsCount": 957,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0pYkGb0AAYObF.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2084367708439949343",
+    "fullText": "// Model or Harness //\n\nGreat paper if you are building with agents in production.\n\n(bookmark it)\n\nIt organizes 41 agent failure modes by the interaction they originate in. Each mode gets assigned to an edge between two components (model, harness, user, tools, memory, environment) plus a fault side naming where the repair belongs.\n\nAttributing failures to edges rather than to single components matches how agent bugs actually present. Most of them live in the seam between a model and its scaffolding.\n\nThe schema also holds up under automation. Across four frontier models, the strongest judge reaches Cohen's kappa of 0.76 against human category labels, so the labeling can run continuously over production traces instead of one postmortem at a time.\n\nHarness engineering became the main lever for agent builders this year without a shared vocabulary for where a harness bug ends and a model bug begins.\n\nPaper: https://t.co/3U3Nzr44Qd\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Mon Aug 03 19:56:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4520256,
+      "friendsCount": 797,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2084367085954887789",
+    "fullText": "The danger of selling to big companies, if you're a startup, is that they don't say no outright. They have months of meetings with you first. Since you hate meetings, that seems to you a sign of commitment. But it's not. They love having meetings! It's almost all they do.",
+    "createdAt": "Mon Aug 03 19:53:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 235552,
+      "friendsCount": 1701,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0heGBXYAAFkQf.jpg",
+      "https://pbs.twimg.com/media/HO0iS1bXUAAuWW_.jpg",
+      "https://pbs.twimg.com/media/HO0icJ0WQAAoS_k.jpg",
+      "https://pbs.twimg.com/media/HO0i-FvWsAAt42o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2084361778377404715",
+    "fullText": "现在我很多复杂一点的任务都是 Fable 5 写方案，Codex 去执行，Fable 5 验收，相对来说可以做出比较靠谱的方案，以及兼顾性价比。具体是这么做的：\n\n1. Fable 5 的产出是技术方案文档（图1）\n\n一方面文档方便批注修改，另一方面文档方便其他 Agent 快速上手\n\n2. 文档确认后在当前先 /compact 一次\n\n这一步不是必要的，但是有好处，因为后续还要在同一会话去验证，/compact 压缩后，节约后续的上下文空间，之所以讨论方案就马上发送 /compact，因为这时候 Prompt Caching 还在，成本低，后面缓存过期了 compact 要贵一点。\n\n3. 把文档交给 Codex （GPT-5.6 Sol xhigh）去执行（图2）\n\n如果任务明显比较复杂，我一般会加上 /goal，这样中间就不需要反复去 continue，一次性把任务完成\n\n4. Codex 完成后让 Fable 验证（图3）\n\n直接告诉 Fable 其他 Agent 已经实施了，让它确认有没有遗漏，或者方向有无偏离。\n\n如果有些遗漏之类的，把 Fable 的反馈发回给 Codex（图4），不需要新开会话，在同一个 Codex 会话，Codex 会根据反馈继续完善。\n\n---\n\n如果用 Opus 5 替代 GPT 5.6 也可以，做法上可以跟上面一样新开会话，用文档传递上下文。\n\n也可以直接让 Fable 5 开 SubAgent 并指定用 Opus 5 模型，并且要求在 SubAgent 完成任务后验证。\n\n但是我执行下来 Opus 5 不如 GPT 5.6 Sol 稳定，也不如 GPT 5.6 Token 耐用，所以宁愿麻烦一点。",
+    "createdAt": "Mon Aug 03 19:32:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
+      "followersCount": 197879,
+      "friendsCount": 560,
+      "location": "tinkertown"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2084361746098098540",
+    "fullText": "the combo that gets my intent bang on is @pidotdev and opus \n\ni wish it was 5.6 sol",
+    "createdAt": "Mon Aug 03 19:32:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487581,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0f3VSWsAA7lLP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2084357801359347866",
+    "fullText": "The Generative AI Career Masterplan — Navigate the future of AI with practical insights from industry pioneers at AI-first organizations: https://t.co/9Ebqdw4Jam\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🟡Understand the global impact of Generative and Agentic AI on jobs and industries\n🟢Master key GenAI & Agentic AI concepts for any professional background\n🔵Identify your best-fit AI career path and transferable skills\n🟡Build familiarity with LlamaIndex, Haystack, Hugging Face, and core RAG workflows\n🟢Build an AI-enhanced personal brand using the 5-Layer LinkedIn Strategy and Portfolio Showcase Framework\n🔵Apply ethical and responsible AI principles and governance in real-world practice\n🟡Create a lifelong learning and upskilling roadmap for sustained growth",
+    "createdAt": "Mon Aug 03 19:16:39 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "sapna",
       "name": "Sapna Maheshwari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/766436031004602368/-snSkBUg_normal.jpg",
       "description": "whatsupna? @nytimes business reporter. pun lover, Tar Heel, from CT. tips to sapna@nytimes.com, DM for Signal, WhatsApp.",
-      "followersCount": 39444,
+      "followersCount": 39447,
       "friendsCount": 1353,
       "location": "Manhattan, NY"
     },
@@ -21,7 +234,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 260378,
+      "followersCount": 260381,
       "friendsCount": 182,
       "location": ""
     },
@@ -53,7 +266,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 5081942,
+      "followersCount": 5082105,
       "friendsCount": 4,
       "location": ""
     },
@@ -89,7 +302,7 @@
       "name": "Naveen Rao",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1846057841934606337/CGG3iJKT_normal.jpg",
       "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
-      "followersCount": 38343,
+      "followersCount": 38345,
       "friendsCount": 957,
       "location": "San Diego, CA"
     },
@@ -105,7 +318,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487589,
+      "followersCount": 487581,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -123,7 +336,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 235504,
+      "followersCount": 235507,
       "friendsCount": 7091,
       "location": ""
     },
@@ -139,7 +352,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
-      "followersCount": 210980,
+      "followersCount": 211057,
       "friendsCount": 218,
       "location": "US"
     },
@@ -157,7 +370,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 407733,
+      "followersCount": 407730,
       "friendsCount": 876,
       "location": ""
     },
@@ -173,7 +386,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 116289,
+      "followersCount": 116287,
       "friendsCount": 51,
       "location": ""
     },
@@ -191,8 +404,8 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 89689,
-      "friendsCount": 5389,
+      "followersCount": 89700,
+      "friendsCount": 5390,
       "location": "Paris"
     },
     "images": [],
@@ -227,8 +440,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297987,
-      "friendsCount": 8390,
+      "followersCount": 297999,
+      "friendsCount": 8389,
       "location": "United States"
     },
     "images": [],
@@ -243,8 +456,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 297987,
-      "friendsCount": 8390,
+      "followersCount": 297999,
+      "friendsCount": 8389,
       "location": "United States"
     },
     "images": [
@@ -261,7 +474,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4518797,
+      "followersCount": 4520256,
       "friendsCount": 797,
       "location": ""
     },
@@ -277,7 +490,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487589,
+      "followersCount": 487581,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
@@ -295,7 +508,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4518797,
+      "followersCount": 4520256,
       "friendsCount": 797,
       "location": ""
     },
@@ -311,7 +524,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
-      "followersCount": 96618,
+      "followersCount": 96622,
       "friendsCount": 931,
       "location": "Seattle"
     },
@@ -329,7 +542,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 260378,
+      "followersCount": 260381,
       "friendsCount": 182,
       "location": ""
     },
@@ -347,7 +560,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Advisor to startups. Freelancer. @LeadershipData founder. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487589,
+      "followersCount": 487581,
       "friendsCount": 3373,
       "location": "Maryland, USA"
     },
