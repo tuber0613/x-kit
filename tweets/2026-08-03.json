@@ -1,6 +1,454 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4503884,
+      "friendsCount": 797,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2084122822272770074",
+    "fullText": "Most successful startups consist of a wonderfully popular product more than compensating for many mistakes by the founders. You have to have that wonderfully popular product or there is too little margin for error. But if you do, it will buy your way out of all kinds of trouble.",
+    "createdAt": "Mon Aug 03 03:42:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 96594,
+      "friendsCount": 930,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2084122774185074710",
+    "fullText": "It’ll be interesting to see how Qwen 3.8 Max lands, as their previous large models didn’t get a ton of adoption in the API, more people will likely look now (pending license). This could be the feedback loop the Qwen team needed to catch up on the biggest models. \n\nPricing, license, consistent releases, patching feedback, etc about to be the boundary between Kimi, GLM, Qwen, DeepSeek, etc. they’re all capable of landing the leading model and all have been winning different pieces of the market.",
+    "createdAt": "Mon Aug 03 03:42:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodside",
+      "name": "Riley Goodside",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
+      "description": "Mostly screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
+      "followersCount": 220967,
+      "friendsCount": 3535,
+      "location": "Virginia, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOxIntlWwAA_a86.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goodside/status/2084120577661395088",
+    "fullText": "ChatGPT Work (5.6 Sol High) installs Blender and models a chess set with the board position of Byrne vs. Fischer (1956) following the capture of Fischer’s queen but the board is balanced atop a wheelbarrow of tropical fruit in the Backrooms: https://t.co/kqQGG38sJa",
+    "createdAt": "Mon Aug 03 03:34:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36401,
+      "friendsCount": 1796,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2084117494953116031",
+    "fullText": "https://t.co/GSok23UbTM https://t.co/cTHNSYWPoE",
+    "createdAt": "Mon Aug 03 03:21:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36401,
+      "friendsCount": 1796,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOxFxaPbYAActib.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2084117470768705950",
+    "fullText": "MiniMax发布开源H3模型权重，打破谣言，官方说法是「打破任务和模态的边界」——一个通用的全模态生成系统，文本、图像、视频、声音统一理解，然后直接生成带原生立体声的视频。\n\n它不是又一个视频模型，而是把一堆原本要分开做的活收进了同一个模型里：\n1、 最高 2K、15 秒视频，自带原生双声道音频\n2、图生视频、视频转视频的动作迁移（V2V）\n3、音频到音频的参考与编辑\n4、文图视音混着当上下文喂进去，它统一理解\n\n成本优势：官方说 2K 分辨率下每秒价格不到主流模型的 1/3；768P 的价格是同行 720P 的一半，对批量出片的人，这个差价比参数表更有说服力。（主流模型说的应该是sd）\n\n技术创新：H3-VAE tokenizer 让序列长度效率提升 4 倍、H3-Omni Transformer 全模态统一架构、In-context Regeneration 做放大提清晰度，异构算力优化让训练吞吐提升约 30%。官方还强调训练数据「完全由真实自然数据构成」。\n\n能力边界说明：\n1、H3-Regenerate-2K 模块尚未开源，稀疏注意力实现也不在首发版本里\n2、多模态上下文理解还需与 M 系列模型融合提升、模型规模还要继续扩大、部分场景画面细节精度待加强。\n\n国产模型在视频生成这条线上，从「能生成」走到了「全模态 + 开权重 + 打价格」。\n\n#MiniMax #AI视频 #开源模型 #国产大模型 #多模态 #视频生成",
+    "createdAt": "Mon Aug 03 03:21:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235499,
+      "friendsCount": 7091,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2084114068248592447",
+    "fullText": "🚨ASI/AGI is imminent fans don’t realize that they ALREADY lost the argument around Astra.\n\nMy argument (spelled out in detail in my Substack today)  was that Astra was unlikely to be the dramatic leap forward people were fantasizing about. \n\nIn the last few hours, we have learned that Fable and Sol can do a bunch of the same stuff.\n\nThat suggests that Astra is incremental, not a revolution. (OpenAI didn’t even include a control group! Nor any evidence on any tasks that don’t involve formal verification that Astra represents significant advances over earlier models.)\n\nOpenAI may even realize some of Astra’s limits that they didn’t discuss, inasmuch they don’t seem to want to call Astra GPT-6. (Wouldn’t they do so if it was truly a quantum across the board leap?)\n\nAGI will come someday, but pretending that every new model is something it is not is not hastening that moment.",
+    "createdAt": "Mon Aug 03 03:08:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 244029,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOw_JpzasAA9yQm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2084111492182659552",
+    "fullText": "🏆 Alibaba hits #2 on the Text Arena. https://t.co/s3YQ70T7zi",
+    "createdAt": "Mon Aug 03 02:57:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "",
+      "followersCount": 241136567,
+      "friendsCount": 1379,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOw-FlfWEAAm9RX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2084108995980108154",
+    "fullText": "AI is a supersonic tsunami https://t.co/JSaE91DkHS",
+    "createdAt": "Mon Aug 03 02:48:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV7BwZ\nToken Plan: https://t.co/BDCycxepZw \nVideo: @Hailuo_AI",
+      "followersCount": 109802,
+      "friendsCount": 956,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2084105994301501440/vid/avc1/3840x2160/Jy9nKetdgRzlb8fe.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2084106804032872591",
+    "fullText": "MiniMax-H3 Is Now Publicly Available\nhttps://t.co/x24nyGoKt8 https://t.co/oJXDeOTQvZ",
+    "createdAt": "Mon Aug 03 02:39:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodside",
+      "name": "Riley Goodside",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
+      "description": "Mostly screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
+      "followersCount": 220967,
+      "friendsCount": 3535,
+      "location": "Virginia, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOw52V8XMAAMjeP.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2084104333323350016/vid/avc1/640x640/CS-y8POLteMVk_j_.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/goodside/status/2084104350947807389",
+    "fullText": "ChatGPT Work (5.6 Sol Light) installs Blender and renders a 5s video fly-through of a lvl. 5 Menger sponge, returning a video and an editable .blend scene file: https://t.co/A41kvmHffs",
+    "createdAt": "Mon Aug 03 02:29:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 244029,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOw5PY-aYAAoLjO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2084103753045872789",
+    "fullText": "Text Arena: https://t.co/FyzZab0cCK https://t.co/0NGPCr5Dkh",
+    "createdAt": "Mon Aug 03 02:27:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36401,
+      "friendsCount": 1796,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOw4f3PbcAAjyK1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2084103037602439575",
+    "fullText": "GooseWorks 开源了覆盖GTM增长流程的 200+ 个skill：一个命令即可装进 Claude Code、Cursor、Codex，让你的code  agent 直接会投广告、做 SEO、挖客户线索、盯竞品、爬社媒。1078 star。\n\n覆盖了GTM增长栈全流程，利好出海做增长GO TO MARKET的朋友，有了它出海增长有着落了：\n\n1、广告：Meta / Google 的调研、搭建、分析\n2、SEO：关键词、内容缺口、SERP 分析、技术审计\n3、获客与外联：找线索、补全信息、判定资格，邮件和社媒个性化外发\n4、内容：博客、社媒、轮播图、视频脚本、newsletter\n5、竞品情报与监控：盯对手的定价、发布、定位、投放，以及全网提及变化\n6、社媒爬取分析、品牌声音与视觉资产\n\n以前还发过一个类似的 项目是marketingskills（47 个营销 skill、38k star，是纯提示词、完全免费），更多是方法论；而goose-skills 多了真实的数据管道要付费。一个是教你怎么干，一个是连着水管的工具箱——按你缺方法还是缺数据来选。\n\n备注：这个项目接入的数据管道还是要花钱的，不过已经是覆盖全流程完整能跑下来的生产级gtm项目了。\n#AI营销 #增长 #ClaudeCode #agentskills #GTM",
+    "createdAt": "Mon Aug 03 02:24:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 244029,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOw1F2ebgAAkpJJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2084100707423289643",
+    "fullText": "📢Meet Qwen3.8-Max — our most capable model to date. \n\nNext week, the open weights of Qwen3.8-Max will be released, and Qwen3.8-27B is also going open-weights to meet you all!🎉\n\nQwen3.8-Max, a new bar for coding and cowork at 2.4T parameters:\n\n- Autonomous coding: 10+ days of self-evolving development, from empty folder to production without hand-holding, complete project trace in the GitHub：https://t.co/iVHZWQoeSo\n- Real work, real results: Production-quality deliverables across hundreds of professions.\n- Long-horizon mastery: System-level autonomous planning with closed-loop adaptive learning, driving 500+ turns of chip design optimization and 365 days of e-commerce strategy.\n- Native multimodal intelligence: Vision isn't just input — it's a continuous feedback loop for planning, execution, and self-correction.\n\n💰Pricing:\nInput: $2.0 / M tokens\nOutput: $6.0 / M tokens\nImplicit Caching: $0.25 / M tokens\n\nStart building with Qwen3.8-Max! 🚀\n\n📖 Blog: https://t.co/iwjmQxLBof\n✅ Qwen Studio: https://t.co/4V2pFvDovG\n⚡ API: https://t.co/gAGqaLQGbN",
+    "createdAt": "Mon Aug 03 02:15:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "",
+      "followersCount": 241136567,
+      "friendsCount": 1379,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2084099749922165199",
+    "fullText": "Project Hail Mary has sick beats \nhttps://t.co/heS2004ej8",
+    "createdAt": "Mon Aug 03 02:11:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36401,
+      "friendsCount": 1796,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOwwosUbwAAKzFB.jpg",
+      "https://pbs.twimg.com/media/HOwxooaa4AAgxAQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2084098721227436303",
+    "fullText": "Comp AI 开源了一个 销售Agent：替代传统销售做客户research及客情的脏活累活，这个agent自己做客户排期、自己决定下一个查找哪个客户、自己花研究预算——它是一个持续性的销售research agent，关掉浏览器它继续跑，crm在这里只是个数据库功能。\n\n作者把话说得很直白：多数 CRM 就是\"数据库 + 一个表单\"，所谓 AI CRM 只是在表单旁边挂了个聊天框。两者都把真正的活——查清什么是事实、然后写下来——留给了本该干别的事的人，这个项目解决的就是两者之外的事。\n\n四个亮点：\n\n① agent 独立部署、自跑自排期\n它有自己的工作队列，自己决定接下来看谁、自己订复查时间、花掉研究预算就停。队列用 FOR UPDATE SKIP LOCKED 租行，两个调度器取到的活不重叠，进程挂了租约到期自动释放。作者还立了规矩：\"每 N 分钟处理最早的十个\"这种逻辑必须落到任务的到期时间里，不许写成 cron。\n\n② API 里不准有智能\nNestJS 只负责报告\"发生了什么\"（收到一个邮件线程、建了一家公司、有个与会者不认识），写一行进队列；agent 租走这一行，再决定它意味着什么。 在 Nest 服务里直接调数据增强接口会被当成 bug——文档里记了促成这条规矩的事故：两份身份匹配逻辑各自漂移，最后其中一份匹配上了地球上所有雇主。\n\n③ 绝不猜人——这条最值得学\n它没有接受\"置信度分数\"，原因是：让模型给自己的可信度打分，它会打，而且会朝着\"显得自己有用\"的方向出错。所以工具只报观察到了什么（crm.signature-block、github.account-identity），再由一个证据账本给证据定价：强证据直接写进记录，弱证据变成待人裁决的建议。\n一条模型认可但错误的客户事实，比一个空字段更糟，因为没人看得出它错了。\n\n④ 沙箱不给网、也不给数据库\n沙箱 deny-all 出网，而且从不给它 DATABASE_URL：一个既有凭证又能出网的 shell，天生就是数据外泄的形状；两样都没有的 shell，只是个文本处理器。断网还不损功能，因为网页抓取跑在应用运行时、搜索在模型侧。\n\n不配任何 API key 它也能干活：\n\nread_crm_history 读的是你自己的邮件线程、会议记录、签名档——免费，而且是最好的证据。作者说：没有哪个数据商能卖给你一封来自本人地址的回信。 每个外部数据源（LinkedIn、Perplexity 等）都是可选的，启动时会打印哪些开着哪些关着，让 agent 按现有条件规划，而不是一次次调用失败才发现没 key。\n\n规模上：18 个自写工具、4 个 skill（证据、身份匹配、数据边界、怎么写简报，都是 markdown，跟代码一起版本管理）。每条记录都有个 Agent 标签页，能看它每一步、丢掉了哪些线索及原因，分不清两个人时还会当场问你。\n\n注意：\n指向真实客户数据前先读 SECURITY.md，同时深度绑 Vercel 生态（agent 建在 Vercel 的 eve 框架，加 AI Gateway、Sandbox、Blob），想在别处自托管得自己改造。\n\n跟之前聊过的openoutreach（自托管 SDR agent）两个都是销售类 agent 项目：一个用贝叶斯主动学习，一个用证据账本 + 拒绝置信度分数。\n\n#CRM #AIagent #销售 #开源 #agent优先 #销售agent",
+    "createdAt": "Mon Aug 03 02:07:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407716,
+      "friendsCount": 876,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2084097290201874497",
+    "fullText": "The future is not something that happens to us, but the accumulated result of what billions of people choose to learn, fund, invent, permit, build and share.",
+    "createdAt": "Mon Aug 03 02:01:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4503884,
+      "friendsCount": 797,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOwy5YQasAANSj3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2084097211529580815",
+    "fullText": "This may be the most evocative graphic I've ever seen. It shows how much was left of Napoleon's army at each point on the way to and from Moscow. https://t.co/NS4yJi02CN",
+    "createdAt": "Mon Aug 03 02:01:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235499,
+      "friendsCount": 7091,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2084095858157490248",
+    "fullText": "Hunch: they probably are calling it Astra because it is not really worthy of the name GPT-6",
+    "createdAt": "Mon Aug 03 01:55:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4503884,
+      "friendsCount": 797,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2084094758000136265",
+    "fullText": "Instead of credentials, lead with what you've built. Haven't built anything? That's a problem.",
+    "createdAt": "Mon Aug 03 01:51:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4503884,
+      "friendsCount": 797,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2084094594766327890",
+    "fullText": "It's a red flag to emphasize (or worse still exaggerate) your credentials when talking to investors. I can't imagine 19 year old John Collison leading with the fact that he was a Harvard student.",
+    "createdAt": "Mon Aug 03 01:50:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 244029,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2084093069323104256/vid/avc1/3840x2160/jsdhQtMnfSCXKDzY.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2084093402967396594",
+    "fullText": "Meet Qwen3.8-Max: A New Bar for Coding and Cowork. https://t.co/mJaA8vr6xT",
+    "createdAt": "Mon Aug 03 01:46:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 431888,
+      "friendsCount": 13258,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2084091394743013595",
+    "fullText": "wir müssen wissen, wir werden wissen",
+    "createdAt": "Mon Aug 03 01:38:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodside",
+      "name": "Riley Goodside",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
+      "description": "Mostly screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
+      "followersCount": 220967,
+      "friendsCount": 3535,
+      "location": "Virginia, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOwrLbjWMAEOAtR.jpg",
+      "https://pbs.twimg.com/media/HOwrLbhXUAAqH6t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goodside/status/2084088205582778713",
+    "fullText": "ChatGPT Work (5.6 Sol Max) installs Blender and models a chess set with the board position of Byrne vs. Fischer (1956) immediately after Fischer loses his queen: https://t.co/HdKebyoDKF",
+    "createdAt": "Mon Aug 03 01:25:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5704,
+      "friendsCount": 1197,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOwhwWvaUAAsshn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2084084159967084730",
+    "fullText": "DEEPSEEK HAD A GOOD WEEK\n\nNewly released DeepSeek-V4-Flash is $0.14 per million input tokens \n\nAnd $0.28 per million output tokens.\n\nDamn.\n\nIt is way cheaper than frontier models like Claude Opus 5 or GPT-5.6 Sol.\n\nOf course. \n\nBut it’s also cheaper and faster than previous Deepseek models. \n\nDeepSeek-V4-Flash is a high-throughput, low-latency workhorse. \n\nIt activates 13 billion parameters per token out of its 284 billion total parameters.\n\nAnd it has faster response times and significantly lower operational API costs compared to earlier DeepSeek models.\n\nThis meme is a pretty good summary of the situation.",
+    "createdAt": "Mon Aug 03 01:09:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 297943,
+      "friendsCount": 8390,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2084083683489952110",
+    "fullText": "Verifiable domain? In this AI economy?",
+    "createdAt": "Mon Aug 03 01:07:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5704,
+      "friendsCount": 1197,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2084083023126089894",
+    "fullText": "DEEP ROBOTICS, GALBOT, AND BOOSTER ROBOTICS HAVE COMPELLING USE CASES\n\n1: DEEP Robotics leads in industrial quadrupeds\n\nThey focus on utility inspections. \n\nThink difficult environments like power grids, tunnels, and mountain terrains. \n\nSecuring B2B industrial contracts gives them steady cash flow while competitors chase speculative consumer markets.\n\n2: Galbot applies general purpose humanoids (with embodied AI) to complex indoor retail situations.\n\nBuilding robots for precise indoor material handling allows them to commercialize retail use cases faster than pure humanoids.\n\nWheeled chassis and pure sim2real training gets them to market faster.  \n\n3: Booster Robotics uses small humanoid playing soccer as an educational and training sandbox for students and researchers.\n\nTheir compact Booster K1 and T1 humanoids as a clever strategy to seed academic ecosystems and research labs. \n\nEngaging student developers in competitive leagues like RoboCup builds a software talent base that programs natively on their hardware.\n\nListen to this podcast for more.\n\n#DEEPRobotics #Galbot #BoosterRobotics\n\nhttps://t.co/NyJ31yqaRW",
+    "createdAt": "Mon Aug 03 01:04:47 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
