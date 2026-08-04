@@ -1,0 +1,278 @@
+[
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36405,
+      "friendsCount": 1798,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO2A5I6bcAA4moY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2084471939461169610",
+    "fullText": "一款轻量级超长程Agent工具：LoopX，自主运行200+小时多轮协作，状态不漂移\n\n长程任务中常见的问题：目标漂移、人工决策点模糊、证据过期、多Agent交接混乱、调度器空转浪费资源等\n\nLoopX把这些状态统一收敛到一个紧凑的内核层\n\n作者放了两条200+小时的真实轨迹，跨多轮执行、等待、人工决策、writeback与resume后，整个loop仍能找回目标、证据和下一步\n\n一个开源Issue修复，从提 PR 到多轮 review更新）；一个Auto ML实验，假设、证据、无效分支、promote/stop gate全在一个图里\n\nLoopX不替代你的Agent运行时（Codex、Claude Code、Cursor该用什么用什么），而是在其上提供一层持久化的控制状态管理，负责管理跨turn的持久状态，目标、任务、证据、配额、交接\n\nAgent每次执行一个有边界的turn，LoopX决定下一步该谁做、做什么、能不能继续\n\nLoopX不执行工具调用、不跑模型推理、不替代Codex/ Claude Code，它只做一件事：记住状态、决定流程\n\n可配额感知调度，内置quota机制，Agent不会无限循环，quota会决定该不该跑、要不要等人、要不要自我修复，自动turn必须先查quota，安静跳过或预检失败不消耗额度\n\nPeer Agent协作，多个Agent同等注册为peers\n用claim（认领任务）→update（更新状态）→lease（租约）机制协调，没有主Agent概念，比如Claude写代码、Codex review，LoopX记录所有权和交接\n\nGates 代替\"等人回复\" 不做模糊的\"等待 owner\"，每个需要人类介入的点都变成具体关卡，提一个确切的问题让人回答，人回复后自动放行\n\n当一个任务被某个gate堵住时，另一个lanes可以通过独立审计的safe fallback继续执行，但不能绕过原gate\n\nLoopX等于是一个让Agent多天协作不丢上下文、人始终掌握刹车权的本地状态管家\n\n#长程agent #LoopX",
+    "createdAt": "Tue Aug 04 02:50:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4525265,
+      "friendsCount": 797,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2084462364867670066",
+    "fullText": "Sacrificing legibility for distinctiveness in your logo is a common beginner mistake. It not only makes your logo harder to read, but signals weakness. It's the graphic equivalent of timid hunter-gatherers retreating to land the fierce pastoralists don't want.",
+    "createdAt": "Tue Aug 04 02:12:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5705,
+      "friendsCount": 1198,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2084456057703637283",
+    "fullText": "DEEP ROBOTICS’ INDUSTRIAL QUADRUPEDS ARE GOOD AT HAZARDOUS INSPECTIONS\n\nHangzhou-startup DEEP Robotics is deploying scale industrial quadrupeds. \n\nThey delivered 2908 units in 2025, ranking first globally in revenue from industrial quadrupeds. \n\nIt turns out heavy duty robot dogs are good at Utility patrols and power grid inspections.\n\nThey can handle terrain. \n\nAnd can be loaded with sensors. \n\nThe flagship Jueying X30 model has 4 LiDAR sensors. And has 360 degree hemispherical mappings in low light environments.\n\nThe wheeled versions are also a good solution for long distance site maintenance. \n\nThe Lynx series can roll across flat pavement at 5 meters per second while preserving the ability to climb stairs.\n\nI like this use case for robots.\n\nRead here for more. \n\n#DeepRobotics\n\nhttps://t.co/6pCWjLx5GH",
+    "createdAt": "Tue Aug 04 01:47:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5705,
+      "friendsCount": 1198,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO1zaSgbIAAVI22.jpg",
+      "https://pbs.twimg.com/media/HO1zaSlaUAAZ9oO.jpg",
+      "https://pbs.twimg.com/media/HO1zaSob0AAtdRC.jpg",
+      "https://pbs.twimg.com/media/HO1zaSkaYAArEih.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2084449550052524372",
+    "fullText": "AI Assistants Are Getting Creative\n\nI think I’d go for a cartoon assistant.\n\nFrom WAIC 2026 https://t.co/sjzND0A3Pu",
+    "createdAt": "Tue Aug 04 01:21:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 433278,
+      "friendsCount": 13259,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2084448207946576361",
+    "fullText": "dismissing the singularity’s importance is a false modesty and I’m sympathetic to the anthropic principle arguments. the planet only gets to go through a machine intelligence singularity once. it is pretty weird we are all living here through it and bodes poorly in some ways",
+    "createdAt": "Tue Aug 04 01:15:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 5111,
+      "friendsCount": 1653,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO1qOQhXsAA1zMP.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kseniase_/status/2084439014518468811",
+    "fullText": "I’ve spent the last seven years analyzing the world of AI, and it makes me angry when fact-inverting speculation takes the air out of the room.\n\nI’m talking about The Algorithmic Bridge’s claim that @Google didn’t fall behind in the AI race - it withdrew. Even charitably, I would call it bullshit.\n\nRomero created 8,000 words, dense with links and evidence and still holds the evidence upside down.\n\nA company that “withdrew from the agent race” does not assemble an internal strike team to “urgently bridge the gap in agentic execution.” Its co-founder does not declare that “the final race to AGI is afoot,” prescribe 60-hour weeks, and say he is willing to go bankrupt rather than lose. Its CEO does not defend $195–205 billion in capex while preparing the company’s largest training run ever.\n\nRomero cites several of these facts himself. But he concludes withdrawal anyway. Maybe the facts were inconvenient for the headline?\n\nWhat he does get right is that @demishassabis and @sundarpichai want different things from AGI.\n\nHassabis wants to solve grand scientific challenges. Pichai and the founders want to beat Anthropic at enterprise agents, now. Both visions live inside Google, and only one controls the budget.\n\nGoogle is behind. It has not withdrawn.\n\nWhat we are watching is a disagreement between the man who runs its research and the men who run its money, while Google spends $200 billion a year funding both sides.\n\nIf you're interested I've wrote all my thoughts on what it may mean for Hassabis, DeepMind, and Google’s place in the AGI race here: https://t.co/xzN4OpJ5Ap",
+    "createdAt": "Tue Aug 04 00:39:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 61078,
+      "friendsCount": 365,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO1pupyWEAAWCRa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2084438456890019970",
+    "fullText": "DeepSeek V4 Flash is now live on Together AI.\n\nFrontier agent performance is getting dramatically cheaper.\n\nDSV4 on Together AI brings a major jump in coding, tool use, and long-running agent performance. https://t.co/F3vCqhvYot",
+    "createdAt": "Tue Aug 04 00:37:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 298065,
+      "friendsCount": 8389,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2084436578995445775",
+    "fullText": "AI is not just enabling an easier creation of better versions of old products. It’s opening up a possibility for creation of whole new categories of products that would have been too prohibitively expensive or impractical to produce before.",
+    "createdAt": "Tue Aug 04 00:29:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 477172,
+      "friendsCount": 1560,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2084433985438945530",
+    "fullText": "Gauntlet AI is hiring a storyteller (videographer/editor).\n\nMust be onsite in Austin.\n\nDo you know anyone who is really special I should be talking to?",
+    "createdAt": "Tue Aug 04 00:19:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487594,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO1kpi6XwAA-jhB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2084432871280779346",
+    "fullText": "\"Designing Experiments and Analyzing Data: A Model Comparison Perspective\" [Third Edition]: https://t.co/X7WOaX6rlH\n\nAmazon summary of the book's numerous pedagogical features:\n🟡Examples of published research demonstrate the applicability of each chapter’s content.\n🟡Flowcharts assist in choosing the most appropriate procedure.\n🟡End-of-chapter lists of important formulas highlight key ideas and assist readers in locating the initial presentation of equations.\n🟡Useful programming code and tips are provided throughout the book and in associated resources available online.\n🟡Extensive sets of exercises help develop a deeper understanding of the subject.\n🟡Detailed solutions for some of the exercises and realistic data sets are included on the website https://t.co/jNgrIapLnh",
+    "createdAt": "Tue Aug 04 00:14:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407746,
+      "friendsCount": 876,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2084421679883673888",
+    "fullText": "Delegate decisions to AI. Do not abdicate your values to it.",
+    "createdAt": "Mon Aug 03 23:30:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 313096,
+      "friendsCount": 958,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO1ThdEasAA5eN-.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2084414040760275278",
+    "fullText": "TokTier makes tokenization stateful for agentic serving.\n\nAcross 153,951 real agent calls with a 94.1% prompt-cache hit rate, tokenization eats up to 64% of time to first token. Coding agents resubmit a long transcript after every tool result, and even a short append can shift token boundaries at the tail of the previous sequence, so nothing gets reused.\n\nTokTier is a stateful tokenization service. For a session continuation it re-tokenizes a small window around the append, runs a stable-boundary check, and splices only when that check passes. When there is no reusable prefix it runs exact pre-tokenization and BPE on a GPU.\n\nEmitted token IDs always match full reference tokenization. Differential campaigns across 17 tokenizer families covered 1.5e10 split checks with zero divergence.\n\nIncremental repair takes 0.5 to 1.1 ms from 100K to 3M characters, up to 437x faster than HuggingFace. Under vLLM, median time to first token drops 16 to 34%. Four repair cores plus one GPU sustain 1,821 requests per second where a 16-core stateless front end saturates at 40.\n\nPaper: https://t.co/AM2dU8pnIx\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Mon Aug 03 23:00:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129162,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO1SlUvagAA5WCT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2084413007514550720",
+    "fullText": "Nice benchmark to measure agentic e-commerce capabilities.\n\nThey ran an agent for one simulated year of e-commerce operations and it ends up with 27.3% of the money a human makes.\n\nMerchantBench is a 365-day order-level simulation grounded in 98,843 real product records with 26 tools for agent interaction. Agents handle product sourcing, listing and pricing control, cash-flow management, and feedback that arrives at wildly different delays.\n\nScoring runs on cumulative net assets, so incoherence compounds rather than averaging out. Eight LLMs across two agent frameworks, 48 runs of 365 simulated days each, and the best configuration still lands far under the human baseline.\n\nBounded tasks with immediate success criteria have been flattering agents that cannot hold a plan for a month.\n\nPaper: https://t.co/wEWNbzXUjb\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Mon Aug 03 22:56:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 145260,
+      "friendsCount": 628,
+      "location": "Zürich, Suisse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2084411412588187910",
+    "fullText": "After installing the Claude Chrome Plugin, Claude Code (commandline) started connecting to it and control a tab of my Chrome whenever doing frontend tasks.\n\nIt uses it to measure things, check CSS, take screenshots, and generally iterate on frontend.\n\nThis is seriously cool!",
+    "createdAt": "Mon Aug 03 22:49:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 298065,
+      "friendsCount": 8389,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2084405048503926941",
+    "fullText": "The AI elites don’t want you to know this but the open weights models on the internet are free you can download them to your home computer I have 458 open weights models.",
+    "createdAt": "Mon Aug 03 22:24:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodside",
+      "name": "Riley Goodside",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
+      "description": "Mostly screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
+      "followersCount": 221052,
+      "friendsCount": 3535,
+      "location": "Virginia, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOwrLbjWMAEOAtR.jpg",
+      "https://pbs.twimg.com/media/HOwrLbhXUAAqH6t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/goodside/status/2084088205582778713",
+    "fullText": "ChatGPT Work (5.6 Sol Max) installs Blender and models a chess set with the board position of Byrne vs. Fischer (1956) immediately after Fischer loses his queen: https://t.co/HdKebyoDKF",
+    "createdAt": "Mon Aug 03 01:25:23 +0000 2026"
+  }
+]
