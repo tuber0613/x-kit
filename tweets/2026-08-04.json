@@ -1,11 +1,337 @@
 [
   {
     "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94383,
+      "friendsCount": 1101,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO5DGsUXYAAPk-y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2084677480951030255",
+    "fullText": "Databricks joins the Open Secure AI Alliance to advance AI safety and security, alongside @nvidia and other industry leaders. \n\nThe alliance is built on a simple but powerful premise: AI safety and security research should be shared openly, and the tools it produces should be built on open systems. \n\nDatabricks brings governed data, model and agent capabilities, and open tools and frameworks for security, governance, red teaming, and cyber defense.\n\nRead more about what Databricks is bringing to the alliance and how we're securing the agentic era together https://t.co/4KAOvk6M5L",
+    "createdAt": "Tue Aug 04 16:26:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/bg8qbK3ei1. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14000,
+      "friendsCount": 13892,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2084675461817524226",
+    "fullText": "There are huge parallels between code and video generation. In the beginning, it was hard to generate even few hundred lines of code. It was hard to revise the code. The game changer were two things (plus scaling models and context):\n\n1. Adding huge amounts of diff edits in training data so model learns how to generate diffs.\n\n2. Harness and tools so models can review, test and iterate to go beyond single pass generation.\n\nJust like early code models, the current video gen models still struggle to generate few seconds of videos and maintain consistency.\n\nThe general pattern for large scale consistent generation for audio/video/image/whatever:\n\n1. Invent diff format and train model on those diffs.\n2. Create tools to allow review and validations.\n3. Create harness that allows planning and iteration.\n\nI think if we have video harness and diff-enabled video models, it won’t be impossible to generate hours of high quality consistent videos that is indistinguishable from best human creators.",
+    "createdAt": "Tue Aug 04 16:18:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235552,
+      "friendsCount": 7096,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2084674891962618301",
+    "fullText": "so much ad hominem\ntoo little time",
+    "createdAt": "Tue Aug 04 16:16:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 347922,
+      "friendsCount": 20441,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO49EeFWAAA61dL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2084670826566017477",
+    "fullText": "The Harwell Dekatron is the world's oldest original working digital computer.\n\nBuilt in 1951, it needs 10 seconds to multiply two numbers (v/JonErlichman on X). https://t.co/ivZizWUYXL",
+    "createdAt": "Tue Aug 04 16:00:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 326435,
+      "friendsCount": 890,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2084670730734838003",
+    "fullText": "Build NemoClaw Agents on Jetson | NVIDIA Jetson AI Lab https://t.co/JUSahmfEG4",
+    "createdAt": "Tue Aug 04 16:00:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 235552,
+      "friendsCount": 7096,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO47WjEaYAAeFiH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2084668938399756472",
+    "fullText": "Coming this weekend: What chess teaches us about Generative AI and its limitations\n\nImage with impossible position and bishops of two sizes produced by ChatGPT cc @Kasparov63",
+    "createdAt": "Tue Aug 04 15:53:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 164161,
+      "friendsCount": 1282,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO46VSpaIAAlsBM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2084667826200305810",
+    "fullText": "昨天的夕阳相当带劲了 https://t.co/wXzSLPqDN3",
+    "createdAt": "Tue Aug 04 15:48:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1039684,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2084663069725069312/vid/avc1/1920x1080/JZPkmbaOKN0ZTsPU.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2084663712112402874",
+    "fullText": "1 million investigations supported.\n10 thousand people brought home.\n27 missing people found per day.\n\n@Flock_Safety https://t.co/eNvXDus3P9",
+    "createdAt": "Tue Aug 04 15:32:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 260460,
+      "friendsCount": 182,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO4u7bRW4AArwiG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2084660731211833541",
+    "fullText": "🔄 Model Fallbacks with LangSmith LLM Gateway\n\nDon’t let model outages take your agents with them.\n\nDefine fallback rules across models and hosts and use them across every agent. When a provider goes down or hits a rate limit, calls are routed to another model.\n\nhttps://t.co/cAAnhA8IrW",
+    "createdAt": "Tue Aug 04 15:20:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
+      "followersCount": 70896,
+      "friendsCount": 36310,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2084660382874869760/vid/avc1/720x1280/eHMmGS0D58JevX9r.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2084660410087563694",
+    "fullText": "Profluent's new CRISPR-based approach enables 10X the number of targetable mutations for base editing, significantly expanding the addressable market and patient populations. https://t.co/W7p4cTAiMu",
+    "createdAt": "Tue Aug 04 15:19:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "aigclink",
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36418,
+      "followersCount": 36421,
+      "friendsCount": 1798,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO4wSQ1bwAEKuad.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2084656786716721188",
+    "fullText": "OpenBMB（面壁智能）发布ForgeStencil，是我曾经发过项目里最硬核的一个agent：由两个 LLM Agent 协同，把一个 Stencil 优化想法自动变成真实软件里经过验证的加速。过去二十年,Stencil 优化只自动化了一件事:写代码。\n\n如果要想出该用什么优化策略、再把它塞进一个几十万行的真实科学软件里还不能算错——这两步一直是博士生的手工活。\n\n例如：天气预报、石油勘探、医学影像、飞机模拟这些软件,都要在超算上把同一道数学题算成千上万遍,一跑几小时几天,烧钱烧电。\n\n让它们跑快点,一直得靠一种稀缺博士高手:先想出提速的招,再把这招装进几十万行的老软件里,还得保证算出来的结果一分不差。这活又贵又慢,一个博士生折腾几个月才搞定一个。\n\nOpenBMB 的 ForgeStencil,用两个 AI 把这个高手替了:\n一个 AI 专门\"想招\",自己反复试、攒出一本提速秘籍;\n另一个 AI 拿着秘籍,去真实软件里找最慢的地方、把招装进去、再自动验一遍结果对不对。\n\n全程没有人插手。拿 100 个真在用的科学软件试了一遍，平均快了一倍,个别的快几十倍。\n\n最狠的是真实场景测试：对照的是软件原本就在用、已经优化过的正版代码,而不是随便找个弱鸡版本来比;测速用软件自己的秒表,来回交叉测好几轮。谁敢虚报加速,系统直接报错。现在的 AI 大多栽在\"demo 好看、真上场就拉胯、数字还注水\"。作者坦诚有些提速是沾了老软件本身的光，确保每个数字都能从零复现、任人核对。\n\n这才是 AI 自动搞研究该有的样子——不是刷榜,是在真刀真枪的活里,干出经得起一分一毫核对的真本事。\n#openbmb #ForgeStencil #Stencil优化",
+    "createdAt": "Tue Aug 04 15:04:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4537603,
+      "friendsCount": 797,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2084655582938808691",
+    "fullText": "When you go talk to users, don't (just) ask them what features they want. Ask them what problems they have. In the best case this will lead you to think of features they'll love but would never have thought to ask for. And expect to go through multiple cycles of ask-and-build.",
+    "createdAt": "Tue Aug 04 14:59:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 96704,
+      "friendsCount": 931,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2084654655519465472/vid/avc1/3840x2160/9vUDXh_6urdr8_dp.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/natolambert/status/2084655250125033898",
+    "fullText": "Another quick q&a video as I wrap up the course soon. These ended up all being on various details in getting a post-training recipe right.\n\n00:00 Intro\n00:13 Q1: Should capabilities be trained separately, then merged?\n04:14 Q2: Why does RLVR often omit the KL penalty?\n05:58 Q3: How does the ~1M SFT prompt budget scale with model size?\n08:11 Q4: Is RL just SFT with a regularization term?\n11:01 Q5: In-house traces: train into the weights, or handle with ICL?\n12:44 Q6: Can distillation-only continued pretraining make a model worse?\n\nPS I'm going through and rebranding the course more tightly just around post-training. Just because my book title is RLHF doesn't mean I need to title my course that! Cheers & thanks for sending feedback.",
+    "createdAt": "Tue Aug 04 14:58:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 298097,
+      "friendsCount": 8391,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2084650895850275229",
+    "fullText": "The reason normies are so scared of the data centers is because they never liked data to begin with.",
+    "createdAt": "Tue Aug 04 14:41:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
+      "followersCount": 197929,
+      "friendsCount": 560,
+      "location": "tinkertown"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2084650739918307707",
+    "fullText": "european vc backed out on a term sheet (that they signed)\n\n$500k of compute credits gone with it\n\nwtf",
+    "createdAt": "Tue Aug 04 14:40:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94383,
+      "friendsCount": 1101,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2084649563621613568/vid/avc1/1280x720/CctQwrWVHVwtecuw.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2084649668365914298",
+    "fullText": "Omnigent is an open source AI meta-harness that gives teams one place to compose, control, and collaborate across agent workflows.\n\nBring together coding agents including Codex, Claude, Cursor, Pi, Antigravity, and your own custom agents. Add dynamic guardrails, run agents in isolated remote sandboxes, and share live sessions by URL so teammates can review, comment, and steer agents together in real time.\n\nOmnigent is available now. Start orchestrating your agents: https://t.co/gUz6qn7Lvv",
+    "createdAt": "Tue Aug 04 14:36:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 477254,
+      "friendsCount": 1560,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2084648325463035904/vid/avc1/1080x1920/kyFaZgBX-BtqzHLz.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Austen/status/2084648392098013208",
+    "fullText": "8-year-old had picked out a puppy right before we decided to move to Austin, and landed in a spot that didn’t have room for a dog.\n\nHe’s been asking if he could get a puppy literally every day for the past year.\n\nLast night we finally surprised him. https://t.co/hwJUhrnSuM",
+    "createdAt": "Tue Aug 04 14:31:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 407871,
+      "friendsCount": 876,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2084648253866262647",
+    "fullText": "If an AI system can recommend a medical treatment, approve a loan or direct a robot, where should human review be mandatory?\n\nThe answer cannot simply be everywhere or nowhere.",
+    "createdAt": "Tue Aug 04 14:30:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 298097,
+      "friendsCount": 8391,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2084648118755495947",
+    "fullText": "And just like that parents are telling kids NOT to major in a STEM field.",
+    "createdAt": "Tue Aug 04 14:30:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36421,
       "friendsCount": 1798,
       "location": ""
     },
@@ -24,7 +350,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 407750,
+      "followersCount": 407871,
       "friendsCount": 876,
       "location": ""
     },
@@ -40,7 +366,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 260456,
+      "followersCount": 260460,
       "friendsCount": 182,
       "location": ""
     },
@@ -74,7 +400,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487569,
+      "followersCount": 487562,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -92,7 +418,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487569,
+      "followersCount": 487562,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -110,7 +436,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487569,
+      "followersCount": 487562,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -128,7 +454,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487569,
+      "followersCount": 487562,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -146,7 +472,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487569,
+      "followersCount": 487562,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -164,7 +490,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
-      "followersCount": 197927,
+      "followersCount": 197929,
       "friendsCount": 560,
       "location": "tinkertown"
     },
@@ -180,7 +506,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487569,
+      "followersCount": 487562,
       "friendsCount": 3374,
       "location": "Maryland, USA"
     },
@@ -674,7 +1000,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 436393,
+      "followersCount": 436432,
       "friendsCount": 667,
       "location": ""
     },
@@ -1001,7 +1327,7 @@
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV7BwZ\nToken Plan: https://t.co/BDCycxepZw \nVideo: @Hailuo_AI",
-      "followersCount": 111922,
+      "followersCount": 112044,
       "friendsCount": 969,
       "location": "San Francisco"
     },
