@@ -1,12 +1,78 @@
 [
   {
     "user": {
+      "screenName": "SamanyouGarg",
+      "name": "Samanyou Garg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2073476853332054018/z3eOkgh1_normal.jpg",
+      "description": "Building AI agents that run your marketing & win you customers from ChatGPT, Claude & Google.\n\nFounder & CEO @WriteSonic (YC S21).",
+      "followersCount": 3702,
+      "friendsCount": 200,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPBMpGqbUAA0118.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SamanyouGarg/status/2085250921429340633",
+    "fullText": "A high-schooler in London, spent about two weeks with us and shipped two projects our experienced team had kept postponing. He worked more than eight hours a day.\n\nI was surprised by how much he (Ayush) got done.\n\nAyush rebuilt the AI Crawl Checker on our marketing site through four pull requests, all four of which were merged. It now runs against a live API with tests and CI.\n\nHe also built Competitor Watch, a standalone Next.js service on Supabase with a Vercel cron job.\n\nIt checks competitor blogs, changelogs and pricing pages, compares each page with its previous snapshot, sends meaningful changes to Slack, and shows them on a dashboard.\n\nAyush moved fast partly because he hadn't yet absorbed which tasks engineers are expected to find hard. He asked the question, got an answer and kept going.\n\nThe fetching and diffing were straightforward. Deciding whether a pricing edit or changelog entry was interesting still needed the team's judgement.\n\nOn his own time and accounts, Ayush is building an app that turns the random links and posts people save into things you actually do, like keeping the recipe you saw on YouTube last week with the original link and resurfacing both when they are useful.\n\nIt is already running on his phone: he can share a link into it, save it, and avoid duplicates. He's now testing it with family and friends.\n\nMotivated young builders can do remarkable things now, especially with AI. You have to involve them, give them real tasks that matter and guide them.\n\nWhen someone is motivated and gets things done, a lack of experience isn't the obstacle people assume it is.",
+    "createdAt": "Thu Aug 06 06:25:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 436832,
+      "friendsCount": 13274,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2085238745562001584",
+    "fullText": "let’s have a kompromat jubilee. computer security bankruptcy. everything leaks and we all forgive each other for our sins",
+    "createdAt": "Thu Aug 06 05:37:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 477474,
+      "friendsCount": 1559,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2085226040536809620",
+    "fullText": "https://t.co/wRlAl7yIYz",
+    "createdAt": "Thu Aug 06 04:46:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 477474,
+      "friendsCount": 1559,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2085222613391937726",
+    "fullText": "Earlier tonight someone said, “Just tell Fable you want to train a small language model for it.”\n\nCasually tossing out building a production SLM for a point solution.\n\nCrazy world we live in now.",
+    "createdAt": "Thu Aug 06 04:33:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "mathemagic1an",
       "name": "Jay Hack",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
       "description": "Head of AI @clickup. Tweets about AI, computing and their impacts on society. Previously founder @codegen / ML @palantir / startups. Not a pseudonym.",
-      "followersCount": 74424,
-      "friendsCount": 3491,
+      "followersCount": 74431,
+      "friendsCount": 3494,
       "location": "San Francisco"
     },
     "images": [
@@ -23,7 +89,7 @@
       "name": "John Schulman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1389000537195040770/DzWPljT-_normal.jpg",
       "description": "@thinkymachines. Interested in reinforcement learning, alignment, birds, jazz music",
-      "followersCount": 79055,
+      "followersCount": 79101,
       "friendsCount": 2086,
       "location": ""
     },
@@ -39,7 +105,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 61189,
+      "followersCount": 61213,
       "friendsCount": 366,
       "location": "San Francisco, CA"
     },
@@ -57,7 +123,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 298736,
+      "followersCount": 298785,
       "friendsCount": 8394,
       "location": "United States"
     },
@@ -73,7 +139,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "ex-head of product @x",
-      "followersCount": 1267864,
+      "followersCount": 1268627,
       "friendsCount": 2056,
       "location": "Palo Alto"
     },
@@ -91,7 +157,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 298736,
+      "followersCount": 298785,
       "friendsCount": 8394,
       "location": "United States"
     },
@@ -107,7 +173,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 477458,
+      "followersCount": 477474,
       "friendsCount": 1559,
       "location": "Austin, TX"
     },
@@ -125,7 +191,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 235735,
+      "followersCount": 235751,
       "friendsCount": 7099,
       "location": ""
     },
@@ -141,7 +207,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 164339,
+      "followersCount": 164350,
       "friendsCount": 1284,
       "location": ""
     },
@@ -159,8 +225,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 436609,
-      "friendsCount": 13273,
+      "followersCount": 436832,
+      "friendsCount": 13274,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -175,8 +241,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 436609,
-      "friendsCount": 13273,
+      "followersCount": 436832,
+      "friendsCount": 13274,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -192,7 +258,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
       "followersCount": 5707,
-      "friendsCount": 1198,
+      "friendsCount": 1199,
       "location": "Beijing"
     },
     "images": [
@@ -210,7 +276,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "",
-      "followersCount": 241171352,
+      "followersCount": 241169182,
       "friendsCount": 1382,
       "location": ""
     },
@@ -228,7 +294,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "",
-      "followersCount": 241171352,
+      "followersCount": 241169182,
       "friendsCount": 1382,
       "location": ""
     },
@@ -246,7 +312,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 298736,
+      "followersCount": 298785,
       "friendsCount": 8394,
       "location": "United States"
     },
@@ -282,8 +348,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 436609,
-      "friendsCount": 13273,
+      "followersCount": 436832,
+      "friendsCount": 13274,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -300,7 +366,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 298736,
+      "followersCount": 298785,
       "friendsCount": 8394,
       "location": "United States"
     },
@@ -316,8 +382,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 436609,
-      "friendsCount": 13273,
+      "followersCount": 436832,
+      "friendsCount": 13274,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -332,7 +398,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36548,
+      "followersCount": 36549,
       "friendsCount": 1812,
       "location": ""
     },
@@ -348,7 +414,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36548,
+      "followersCount": 36549,
       "friendsCount": 1812,
       "location": ""
     },
@@ -366,7 +432,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409288,
+      "followersCount": 409329,
       "friendsCount": 879,
       "location": ""
     },
@@ -382,7 +448,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409288,
+      "followersCount": 409329,
       "friendsCount": 879,
       "location": ""
     },
@@ -398,7 +464,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1041017,
+      "followersCount": 1041146,
       "friendsCount": 63,
       "location": "The Cloud"
     },
@@ -416,7 +482,7 @@
       "name": "Ksenia Se",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
       "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
-      "followersCount": 5114,
+      "followersCount": 5113,
       "friendsCount": 1578,
       "location": "Join over 105,000 readers at"
     },
@@ -434,7 +500,7 @@
       "name": "clem 🤗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
       "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
-      "followersCount": 557246,
+      "followersCount": 557499,
       "friendsCount": 4897,
       "location": "Miami / New York / Paris"
     },
@@ -452,7 +518,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409288,
+      "followersCount": 409329,
       "friendsCount": 879,
       "location": ""
     },
@@ -468,7 +534,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
-      "followersCount": 212872,
+      "followersCount": 212915,
       "friendsCount": 218,
       "location": "US"
     },
@@ -752,7 +818,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487586,
+      "followersCount": 487584,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
