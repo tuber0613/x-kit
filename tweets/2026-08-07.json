@@ -1,0 +1,533 @@
+[
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36556,
+      "friendsCount": 1813,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HPFETM3boAAk1tV.mp4"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2085523459141222862",
+    "fullText": "Google Creative Lab的一个小团队做了一台完全离线的语音翻译机：树莓派 5 （8GB）上跑 Gemma 4（LiteRT-LM）+ Moonshine 语音识别与合成，装好断网也能用。\n\n• 推理：gemma4-e2b + LiteRT-LM，纯端侧\n• 语音：Moonshine 负责 STT 和 TTS\n• UI：480x320 小屏复古终端风，两条 lane 面对面，各自一个语言\"轮盘\"，按住 Z/X 说话，松手转写→翻译→用对方语言念出来\n• 部署：https://t.co/RAoJNy7c3m 一条命令装成 systemd 服务 + Chromium kiosk 自启\n• 仓库里连翻译机的3D 打印外壳的 STL 都给了\n\n端侧小模型真正有说服力的形态可能不是手机上再塞一个 chatbot，而是这种——一个几百块的专用硬件，做一件事，不联网，不上传，开机即用。\n\n这两年\"端侧 AI\"喊得多，真做成能拿在手里、断网也能用的东西的少。 之前介绍的minicpm-robot是把模型塞进机器人、lightmem-ego是塞进智能眼镜，而这个是三者里最轻的一个——一块八十几美元的板子，加一个打印出来的壳，就是一台不联网的翻译机。\n\n#Gemma #端侧AI #离线翻译 #树莓派 #开源",
+    "createdAt": "Fri Aug 07 00:28:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 409535,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2085520448050397547",
+    "fullText": "One of the biggest challenges in AI drug discovery isn’t improving benchmark scores—it’s generalizing to biology we’ve never seen before.\n\nThis new paper argues that many docking models perform well on familiar targets but struggle on truly novel ones. The authors propose a hybrid physics + AI approach and back it with prospective wet-lab validation.\n\nIf these results hold up, this could represent an important step toward making AI a more reliable engine for discovering new medicines.\n\nhttps://t.co/u7KhEyWvTQ",
+    "createdAt": "Fri Aug 07 00:16:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1041818,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085518453038010368/vid/avc1/1280x720/BOEXkXEodcU6V1AE.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2085518489700421954",
+    "fullText": ".@bhorowitz on how a game studio turned it's last $6 million into Slack:\n\n\"Stewart calls me. He says, 'Ben, I've got $6 million left. I have no way to raise money because I've made really no progress. So I've got three choices. I can pray for rain and try and finish it, I can shut down the company and give you your $6 million back, or we built this tool that we use in our engineering team to communicate with each other, and I could just put that out as a product.'\"\n\n\"I'm like, 'What? You just built some tool to talk to each other and you want to put that out as a product? And you're a consumer guy, and you want to become an enterprise software guy?'\"\n\n\"$6 million is not gonna make any difference in my life. If you really think it's a good idea, go ahead.\"\n\nBen Horowitz Talks Honesty, Failure, and Secrets at UC Berkeley (2016)",
+    "createdAt": "Fri Aug 07 00:08:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107800,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO5aQCma0AAqhaV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2085518283210465731",
+    "fullText": "Astronomy has always been data-rich. A new sky survey launching this year will generate millions of images every night for a decade. Stanford HAI Associate Director Risa Wechsler and the Center for Decoding the Universe are building AI methods to understand how the universe evolves over time: https://t.co/5OFFOArT3U",
+    "createdAt": "Fri Aug 07 00:08:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4582721,
+      "friendsCount": 798,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2085516526485110956",
+    "fullText": "14 yo asked me if I thought NYC would do well under Mamdani. I told him that he seems well-meaning and not stupid, and that if the experience of trying to compete with grocery stores' margins teaches him about economics, he could be good.",
+    "createdAt": "Fri Aug 07 00:01:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4582721,
+      "friendsCount": 798,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2085506489922576434",
+    "fullText": "1. Your token costs when using LLMs to generate code should be lower in a more abstract language.\n\n2. LLMs aren't afraid of prefix notation.\n\nI'm just saying...",
+    "createdAt": "Thu Aug 06 23:21:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 409535,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2085501575485624473",
+    "fullText": "American companies now invest roughly $700 billion a year in R&amp;D, far outpacing the federal government and higher education combined.",
+    "createdAt": "Thu Aug 06 23:01:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94565,
+      "friendsCount": 1102,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPEwbc2aUAAb1Xx.jpg",
+      "https://pbs.twimg.com/media/HPEwbcwaUAIqeCQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2085501357315023262",
+    "fullText": "At Black Hat 2026, author and analyst Allie Mellen joined attendees at our booth to discuss the shifts AI has brought to cybersecurity, and what practitioners can learn from it. It's a theme that runs parallel to her newest book, Code War — which explores how cyberattacks can be employed as deliberate, strategic instruments, and how businesses can respond.\n\nThat gap between how fast attacks move and how fast defenses respond is exactly what Databricks' Lakewatch closes — unifying security, IT, and business data on an open, governed foundation so AI agents can detect, triage, and hunt at machine speed.\n\nThank you to everyone who stopped by — and to Allie for hosting her book signing with us!",
+    "createdAt": "Thu Aug 06 23:00:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 438195,
+      "friendsCount": 13280,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2085495119755817086",
+    "fullText": "“clever girl”",
+    "createdAt": "Thu Aug 06 22:35:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 299021,
+      "friendsCount": 8395,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2085492910557192376",
+    "fullText": "I for one welcome our new Corgi overlords.",
+    "createdAt": "Thu Aug 06 22:27:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "gdb",
+      "name": "Greg Brockman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+      "description": "President & Co-Founder @OpenAI",
+      "followersCount": 1026856,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gdb/status/2085488217030266943",
+    "fullText": "Black Hat talk from the team, with a detailed timeline of and takeaways from the OpenAI-Hugging Face Incident: https://t.co/GtXWiAZ2RQ",
+    "createdAt": "Thu Aug 06 22:08:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 389388,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085482199135252480/vid/avc1/3200x2160/mgwHqhk1RxbZo2FS.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2085482310636560830",
+    "fullText": "Now in research preview: Codex Security Review\n\nIt takes a deeper look at GitHub pull requests for security issues, using repository context to surface actionable findings directly in the PR.\n\nSee how to enable automatic reviews: https://t.co/OUm6Sq2ZaC https://t.co/Ut55Vg3lPO",
+    "createdAt": "Thu Aug 06 21:45:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 332462,
+      "friendsCount": 249,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2085480381390688512",
+    "fullText": "I am surprised we are not seeing another wave of AI psychosis with Fable\n\nIt makes such weird mistakes while being so confident about things, particularly in physics, with errors being subtle but profound\n\nI find it unusable for math, even in max mode, how are folk using it?",
+    "createdAt": "Thu Aug 06 21:37:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 409535,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2085478671821771188",
+    "fullText": "When I say the future can be better... I am not making a prediction.\n\nI am opening an invitation.",
+    "createdAt": "Thu Aug 06 21:30:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487589,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPEbB1eW0AEUmPc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085477823465042399",
+    "fullText": "Pandas for Everyone — Python Data Analysis (Addison-Wesley Data &amp; Analytics Series - 2nd Edition): https://t.co/DFw2pJlRTZ https://t.co/JX9Yyv87LF",
+    "createdAt": "Thu Aug 06 21:27:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 61280,
+      "friendsCount": 366,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085477555839066112/vid/avc1/1920x1080/sPBsFasbzEsD5uCd.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2085477765290340677",
+    "fullText": "Open models give teams more room to run agent loops, with API prices at a fraction of GPT-5.6 Sol and Claude Fable 5.\n\nThat matters as planning, tool calls, retries, and long contexts compound token usage. https://t.co/kx0TH8NnK5",
+    "createdAt": "Thu Aug 06 21:27:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487589,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPEa-OcX0AAHC7B.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085477761674567738",
+    "fullText": "New release from @PacktPublishing\n \n\"Everyone is a Programmer\" — battle-tested guide to building real apps with AI coding: https://t.co/RowY8laNjg\n\n𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨\n🔴Mindset & Philosophy: The Creator in the Age of AI\n🟠Front-End Design & AI Implementation\n🟡Infrastructure Setup: The Frugal Full-Stack Toolkit\n🟢Backend Development & Advanced Integration\n🔵Project Practice 1: Building a Habit Tracker From Scratch\n🟣Project Practice 2: Building a Commercial-Grade AI Image Generation Platform",
+    "createdAt": "Thu Aug 06 21:26:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487589,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPEa4hyXwAA6VpN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085477664794747257",
+    "fullText": "AI Mastery >> The Complete Machine Learning Engineer Cookbook for Everyone — Become an AI Developer with Python: https://t.co/7N49LDIDH0\n\nComplete 5-part Learning Path:\n1 - Build Your Foundation\n2 - Assemble Your ML Toolkit\n3 - Discover Deep Learning & Generative AI\n4 - Master Natural Language Processing (NLP)\n5 - Become an Optimization Expert",
+    "createdAt": "Thu Aug 06 21:26:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "v_vashishta",
+      "name": "Vin Vashishta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
+      "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
+      "followersCount": 28401,
+      "friendsCount": 1057,
+      "location": "Reno"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/v_vashishta/status/2085475232467628332",
+    "fullText": "It amazes me how many professors on here post 100% AI slop that they would fail their students for handing in.\nHow many CEOs slop-post who would fire employees for emailing them the same thing.\nThe double standards are wild.",
+    "createdAt": "Thu Aug 06 21:16:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 260752,
+      "friendsCount": 182,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085474468483170304/vid/avc1/1920x1080/nqmXsMan57y18gOl.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2085474829386265033",
+    "fullText": "LangSmith for Startups Spotlight: @Backopsai \n\n✅ An AI-native resolution layer for supply chain and complex operations. \n\n✅ Their agents handle operational workflows end to end: filing claims, reading emails, and updating systems like a top ops manager rather than a fragile script.\n\n✅ Uses LangSmith for end-to-end workflow tracing, monitoring, and experimentation tools for their multi-step agent runs, helping them run evaluators and track performance metrics to catch regressions, before customers ever notice.\n\nBackOps is hiring. Check out their open roles at https://t.co/VOGG5uwFSL.",
+    "createdAt": "Thu Aug 06 21:15:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "levie",
+      "name": "Aaron Levie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+      "description": "ceo @box - your business lives in content. unleash it with AI",
+      "followersCount": 3234077,
+      "friendsCount": 921,
+      "location": "Bay Area"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPEX1WMaIAASkXl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/levie/status/2085474309943030032",
+    "fullText": "Huge Atlassian quarterly beat. There was a misplaced thesis over the past 6 months that somehow agents would be bad for certain software categories. There’s definitely truth in this in some areas, but many were parsing this poorly.\n\nIn a world where agents are generating 100X more code, processing massive amounts of data, or making decisions across your systems, the role of the platforms that manage this data and  these workflows becomes more important, not less.\n\nEnterprises care about governance, security, compliance, guardrails, safe access to data, and many more critical capabilities that go into these systems of record.",
+    "createdAt": "Thu Aug 06 21:13:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 560217,
+      "friendsCount": 4899,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPEXrdtbkAA1rZr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2085474143722742169",
+    "fullText": "In Seattle and SF with @julien_c to get some compute for HF and our customers. Let us know if you need GPUs with ultra fast connection to HF models and datasets! https://t.co/Ct3AEwL12E",
+    "createdAt": "Thu Aug 06 21:12:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "RamaswmySridhar",
+      "name": "sridhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
+      "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
+      "followersCount": 35513,
+      "friendsCount": 623,
+      "location": "Mountain View, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPEVk1yaAAAGo2z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RamaswmySridhar/status/2085471919957270587",
+    "fullText": "We created data-eng-bench with @bespokelabsai and we’re open-sourcing it.  \n\nThere are plenty of model performance benchmarks for code generation. But for data engineering, the harness matters just as much as the model.  \n\nWe built a benchmark that asks agents to build and fix real pipelines, then grades them on whether the output actually works.  \n\nThe results: Using the same Opus 5 model, @Snowflake CoCo achieves 73.8% Pass@1 at 3.9× lower cost than Claude Code.  With Sonnet 5, CoCo delivers the same quality at 2.3x lower cost.  \n\nNow anyone can use data-eng-bench to evaluate model + harness combinations on real data engineering workflows. Run your own tests and share what you find.  \n\nhttps://t.co/wlFwOZ3Ne1",
+    "createdAt": "Thu Aug 06 21:03:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 713630,
+      "friendsCount": 826,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPEUki3WsAAY-2Q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2085471158887923728",
+    "fullText": "The Keras community meeting will take place this Friday at 10am PT -- the team will present the latest developments in the Keras ecosystem, in particular the new vLLM integration.\n\nAnyone can join the call. Please use this link https://t.co/tllqzfieXS to join when the meeting starts (10am Friday).",
+    "createdAt": "Thu Aug 06 21:00:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94565,
+      "friendsCount": 1102,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPEUTXbWkAAweEQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2085470446854574440",
+    "fullText": "Moonshot AI's latest open-weight model, Kimi K3, is now available on Databricks through Unity AI Gateway. @Kimi_Moonshot \n\nRun Kimi K3 where your data already lives - governed, secure, and ready for custom AI apps and agents built with the data in your Lakehouse.\n\nUnity AI Gateway lets you deploy Kimi K3 with enterprise-grade access controls. Govern every call, monitor performance, and scale securely across your AI apps. Test Kimi K3 alongside other frontier models without changing your application code. \n\nThe open-weight frontier just arrived on Databricks. Try it today. https://t.co/w0UPtVGYBU",
+    "createdAt": "Thu Aug 06 20:57:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94565,
+      "friendsCount": 1102,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPETtwHXUAAiNOG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2085469800289956041",
+    "fullText": "@Kimi_Moonshot's latest open-weight model, Kimi K3, is now available on Databricks through Unity AI Gateway. \n\nRun Kimi K3 where your data already lives - governed, secure, and ready for custom AI apps and agents built with the data in your Lakehouse.\n\nUnity AI Gateway lets you deploy Kimi K3 with enterprise-grade access controls. Govern every call, monitor performance, and scale securely across your AI apps. Test Kimi K3 alongside other frontier models without changing your application code. \n\nThe open-weight frontier just arrived on Databricks. Try it today. https://t.co/w0UPtVGYBU",
+    "createdAt": "Thu Aug 06 20:55:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487589,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HPES-HpWUAEYBzz.mp4"
+    ],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085469131545997328",
+    "fullText": "Data Analysis Patterns - what, why, how\n\n→ Checking data quality\n→ Describing what happened\n→ Diagnosing why\n→ Comparing things\n→ Spotting trends\n→ Finding anomalies\n→ Segmenting groups\n→ Predicting outcomes\n→ Finding relationships\n\nSource for infographic: https://t.co/7iUcallC14",
+    "createdAt": "Thu Aug 06 20:52:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 116360,
+      "friendsCount": 51,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/googleaidevs/status/2085468449145544780",
+    "fullText": "Use these @Antigravity commands to navigate the CLI, manage background tasks, configure utilities, and run research subagents more efficiently. 🚀 https://t.co/uJDNvZLPNL",
+    "createdAt": "Thu Aug 06 20:49:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 62928,
+      "friendsCount": 11220,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2085458613288780172",
+    "fullText": "5 mins is back after a short summer hiatus. \n\nme + @carlesgelada + jono bring together interesting people.\n\nOnly requirement, if your name is pulled out of a hat you have to give a 5 min talk on a topic you think other people should know about. 🔥✨\n\nhttps://t.co/wIAeRXUrW1",
+    "createdAt": "Thu Aug 06 20:10:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 409535,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2085456279762248175",
+    "fullText": "More than 90% of utility-scale renewable projects commissioned in 2025 produced electricity below the cost of the cheapest new fossil-fuel plant in their market. Look at it this way, cheap generation does not eliminate the need for transmission, storage, permitting and resilient grids. It will all depend on how infrastructure will let this technology scale.",
+    "createdAt": "Thu Aug 06 20:01:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487589,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085453584645390551",
+    "fullText": "𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n\n◉Design end-to-end generative AI product workflows\n\n◉Build and evaluate AI systems with robust metrics\n\n◉Implement production-ready code and testing practices\n\n◉Apply LLMOps and automation for AI deployments\n\n◉Architect scalable systems using modern AI patterns\n\n◉Improve reliability with observability and SRE practices\n\n◉Run A/B tests to measure product impact effectively",
+    "createdAt": "Thu Aug 06 19:50:55 +0000 2026"
+  }
+]
