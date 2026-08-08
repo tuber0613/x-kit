@@ -1,0 +1,609 @@
+[
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 236164,
+      "friendsCount": 1703,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPKijECXoAAZhMA.jpg",
+      "https://pbs.twimg.com/media/HPKiklDWAAALuYb.jpg",
+      "https://pbs.twimg.com/media/HPKimNQXoAAy2v0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2085908601638445177",
+    "fullText": "很多人不知道该怎么用好 Agent 的 /goal 功能，也就是说给 Agent 一个目标，让它长时间运行，直到目标完成为止。\n\n其实没你想的那么复杂，注意几个点：\n1. 你的目标是什么\n2. 如何验证结果\n3. 停止条件\n\n比如说我这两天做的一个性能优化的任务，Fable 5 帮我把视频转录性能优化了2倍多（图2），提示词很简单（图1）：\n> /goal 帮我优化当前 cli 的转录大视频的性能，在遇到像这样大体积的视频时，需要优化转录性能，请以 Moss 模型测试这个视频（英文为主，多语言）转录，建立基准，然后分析性能瓶颈，尝试优化，直到你觉得已经没有优化空间了。注意你的主要任务是分析、编排和验证，具体任务尽可能交给 subagent（Opus5）去执行\n\n首先用 /goal 表示这是一个需要长时间执行的任务，需要反复执行，不能运行一会就结束了。\n\n然后给它一个视频让它先自己跑一遍转录，记录一下关键数据，建立基准。\n\n基于转录时收集的数据，Agent 自己可以去分析原因，去自己优化，优化完成后再去跑一遍，记录数据，对照前面的基准看是更好了还是更坏了。\n\n结束条件是它自己觉得已经没有优化空间了就结束。之所以我没给它一个具体指标，是因为我也不知道能优化多少，如果指标太容易达到，它一轮可能就结束了；如果指标太难超出物理极限也没意义，反而可能会出现为了优化去做一些极端的事情。\n\n最后一句让它开subagent执行子任务是因为 Fable 5 太贵，全程 Fable 5 用不了多久就要额度不够了，加了这句就耐用多了，而且质量也挺好。\n\n---\n\n还有些时候，想到一个新的技术方案，但并不知道这方案是不是有效，那也可以让它开个worktree，去验证一下是不是靠谱，看数据是更好还是更坏，如果没提升就没必要做了。（参考图3）",
+    "createdAt": "Sat Aug 08 01:58:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4601629,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2085908573109002547",
+    "fullText": "I wonder if it will one day seem remarkable to historians that the population collapse wasn't due to AGI, but actually began a couple decades earlier.",
+    "createdAt": "Sat Aug 08 01:58:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 164467,
+      "friendsCount": 1284,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPKeUYUaYAAoWB0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2085903657053340078",
+    "fullText": "Karpathy 居然锁定了他的账户，也改了签名。\n\n他说因为机器人活动和其他问题，估计是受不了那些 AI 和机器人的回复了。\n\n锁定以后，新用户无法关注他，也没办法看到他的内容，只有已经关注的人才能看到。 https://t.co/1nU6WNPpNx",
+    "createdAt": "Sat Aug 08 01:39:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 61305,
+      "friendsCount": 366,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085885803108978689/vid/avc1/1920x1080/bPZlrCDvSbTNbwEN.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2085886342265819458",
+    "fullText": "We analyzed DeepSeek V4 Flash and GPT-5.6 Luna on DeepSWE.\n\nA DeepSeek-first cascade with test-suite verification solved MORE tasks than Luna alone at 37% lower cost per task.",
+    "createdAt": "Sat Aug 08 00:30:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 439709,
+      "friendsCount": 13286,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2085879952709476381",
+    "fullText": "trump is the superintelligence president. the only thing he and his team will be remembered for is if they get this one right or not. if he brokers a bilateral agreement with china on pacing the frontier he goes down as one of the best presidents of all time. nobel peace prize",
+    "createdAt": "Sat Aug 08 00:05:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 409645,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2085871237348159955",
+    "fullText": "The reason so many people fear AI is that the only story they have been told about it is dystopian. If the only future you can imagine is Terminator, of course you'll be terrified.",
+    "createdAt": "Fri Aug 07 23:30:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107804,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2085864313038778734",
+    "fullText": "There is no consensus on what counts as an AI mental health tool or where the line falls between a clinical function and a wellness feature. Until there is, regulation will remain fragmented and companies will continue to operate in ambiguity. Learn more about the challenges of governing mental health AI: https://t.co/DUTsex9XWs",
+    "createdAt": "Fri Aug 07 23:03:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJ4t3AXUAA3HqC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085862309805584437",
+    "fullText": "🚀✨Explore TOP artificial intelligence books for reading, learning, growing your knowledge and advancing your career: https://t.co/jd4NpyYF7x\n🌟🌟🌟🌟🌟\n\n#DataScience #Python #MachineLearning #ML #AI #Mathematics #DataScientist https://t.co/07dSXEDnJF",
+    "createdAt": "Fri Aug 07 22:55:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 5769849,
+      "friendsCount": 1021,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2085862292311396515",
+    "fullText": "astra is a powerful model and we are working to make it generally available.\n\nwe do not think it is a good strategy to keep powerful models to a chosen few.\n\ngiven its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long!",
+    "createdAt": "Fri Aug 07 22:54:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJ3o8bWAAAemN4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085861129000267899",
+    "fullText": "Enterprise AI Productivity: Success Beyond the Hype\n\nSee it here: https://t.co/h8Dsz7I7pZ by @SelimMimaroglu  \n\nSee real-world examples and a chapter-by-chapter breakdown of roles, responsibilities, and workflows in these areas of enterprise AI:\n🔷AI Organizational Design\n🔷From Idea to Product\n🔷Model Lifecycle Management\n🔷Cross-Functional Collaboration\n🔷Real-World Case Studies\n🔷Strategic AI Thinking\n———\nMy Review (posted on Amazon):\n5 stars⭐️⭐️⭐️⭐️⭐️\n\nRefreshing, Useful, and Wonderfully Readable Enterprise AI Guidebook\n\nI found this book to be very refreshing and useful in the way that it addresses practical requirements for optimizing enterprise AI productivity: elaborating and connecting the key enterprise focal points (roles, responsibilities, and workflows) with the key enterprise AI development activities (AI Organizational Design, From Idea to Product, Model Lifecycle Management, Cross-Functional Collaboration, Real-World Case Studies, and Strategic AI Thinking). This practical style of presenting the main ideas of the book should be helpful to the enterprise audience to whom this book is directed. Each chapter has a self-contained rich menu of easily navigable topics, which makes reading the book a real pleasure. I also found the anecdotes at the end of each chapter to be a great addition to the other material. These sections could be considered as \"profiles in courage\" since they present inspirational profiles of people who have pushed the frontier in their organizations and who invested their personal strengths and convictions to bring their projects to success.",
+    "createdAt": "Fri Aug 07 22:50:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94608,
+      "friendsCount": 1102,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJ2wCdacAA1hP5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2085860148690681923",
+    "fullText": "“If your AI coding costs are growing exponentially, it reverses the efficiency benefits of having AI tool adoption.”\n\nDatabricks co-founder and VP of Engineering Patrick Wendell joined @tbpn to share what he’s learned about deploying AI coding tools at scale — and why the efficiency frontier is bigger than the intelligence frontier. \n\n“By far, our favorite way to control cost is to adopt newer, more cost-efficient models. But we also use techniques like smart routing, spend controls and context optimization that let us get more out of every token.”\n\nWatch Patrick, Jordi and John talk about how to control spending without sacrificing productivity: https://t.co/bGwXQwLpbx",
+    "createdAt": "Fri Aug 07 22:46:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4601629,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJ09irbYAEMSrz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2085859809639973181",
+    "fullText": "Another of the greatest automatic movements of the golden age: the Omega 561. https://t.co/XF9m55ojhB",
+    "createdAt": "Fri Aug 07 22:45:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4601629,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2085857033941926064",
+    "fullText": "\"You're the boss. I'm just the guy who's right.\"\n\n— 14 yo",
+    "createdAt": "Fri Aug 07 22:34:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1042514,
+      "friendsCount": 64,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJy_8JasAApX_V.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2085856023244599351",
+    "fullText": "European countries are allocating more to defense budgets and America’s role as a net-exporter of defense goods is growing\n\nCharts of the Week: https://t.co/TprfteuoSk https://t.co/ZZbj67bsIl",
+    "createdAt": "Fri Aug 07 22:30:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nContact via email. \nWrites @interconnectsai\nWrote The RLHF Book,\n🏔️🏃‍♂️",
+      "followersCount": 97297,
+      "friendsCount": 931,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2085855936284110967",
+    "fullText": "The worst slop is @Xfinity with a horrible, slop customer service bot that they instructed to say it was human when it is obviously AI. I'm typing this tweet and it's on a loop of \"hello nathan, are you still there nathan, hello hello, hello nathan...\"\n\nShame.",
+    "createdAt": "Fri Aug 07 22:29:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "fellow creators the creator seeks",
+      "followersCount": 439709,
+      "friendsCount": 13286,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2085852428440895737",
+    "fullText": "We see dimly in the Present what is small and what is great, \nSlow of faith how weak an arm may turn the iron helm of fate, \nBut the soul is still oracular; amid the market’s din, \nList the ominous stern whisper from the Delphic cave within,—\n“They enslave their children’s children who make compromise with sin.”",
+    "createdAt": "Fri Aug 07 22:15:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1042514,
+      "friendsCount": 64,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJlQrEbsAA3pij.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2085840917609762893",
+    "fullText": "According to data from SensorTower, Kimi app downloads nearly quintupled and daily active users jumped by ~40%. The K3 hype is translating into real users.\n\nCharts of the Week: https://t.co/TprfteuoSk https://t.co/Yml9RqepUs",
+    "createdAt": "Fri Aug 07 21:30:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJhqBZWEAAgHsG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085836956714283123",
+    "fullText": "The Big Book of Dashboards — Visualizing Your Data Using Real-World Business Scenarios: https://t.co/cvQxrZ3m6O\n\nContains dozens of examples that address different industries and departments (healthcare, transportation, finance, human resources, marketing, customer service, sports, etc.) & different platforms (print, desktop, tablet, smartphone, conference room display).",
+    "createdAt": "Fri Aug 07 21:14:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJdmlvWkAArfGj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085832499603837296",
+    "fullText": "General Relativity step by step — A first course : https://t.co/TE0WJXHHBc\n\nAmazon summary:\n“Learn the mathematics of curved space-time. Understand Einstein's field equations and the principles of General Relativity in this step by step guide. Even if the reader's calculus is rusty and they need a refresher on linear algebra, this book provides the bite-sized lessons that explain each concept with no steps left out. This is not a layman's overview of General Relativity. Real understanding and learning are contained within. Neither is this an unapproachable graduate level text. Undergraduates, high school students and, even, enthusiastic amateurs can learn to solve basic problems in General Relativity — for example, how much does light bend going around the Sun?”",
+    "createdAt": "Fri Aug 07 20:56:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJch3wWkAAqCQY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085831317199983040",
+    "fullText": "“Just Six Numbers: The Deep Forces that Shape the Universe”, by Martin Rees\n\nGet the book at https://t.co/dH0gxLRq6I\n—————\n#Astrophysics #Physics #Cosmology #Astronomy https://t.co/GuUvkVV4Eg",
+    "createdAt": "Fri Aug 07 20:51:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJcYzjWAAA5s8o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085831162098786326",
+    "fullText": "The Mathematical Universe — From Pythagoras to Planck: https://t.co/tQnuZR98fP\n\nWith no more than basic high school mathematics, explore and understand better the bizarre world of subatomic particles, honey bees and ants, galaxies, black holes, infinity, and more. https://t.co/ZCxDxfEBUA",
+    "createdAt": "Fri Aug 07 20:51:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJcR4kXIAAC6de.jpg",
+      "https://pbs.twimg.com/media/HPJcR4lWYAAiz_f.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085831042431168841",
+    "fullText": "Signal Processing is a surprisingly powerful domain at the intersection of real world applications (interesting data) and theory (interesting math). \n\nLinear Algebra for Data Science, Machine Learning, and Signal Processing: https://t.co/35q4mkbXkA\n\nSignal Processing — A Mathematical Approach: https://t.co/VjSiIxfS5w",
+    "createdAt": "Fri Aug 07 20:50:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJb9YHWMAAJtjC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085830690961002544",
+    "fullText": "Math for Web Design — Precision Layout and Animation: https://t.co/TVdqIKRmka\n\nAmazon summary:\n\nBeautiful websites and apps are rooted in established mathematical principles. Know the math, and you'll gain a superpower when it comes to layout calculations, animating page elements, accurate color rendering, and responsive design. “Math for Web Design” teaches you the math you need to create awesome, precise, and highly functional front-end designs.\n\nYou'll learn how to: \n\n- Improve layouts and animations with the Golden Ratio and proportional scaling.\n- Optimize responsiveness and accessibility with percentage-based sizing.\n- Create UI effects with physics, vectors, and geometric transformations.\n- Master algebra and grid calculations for CSS Grid and Flexbox.\n- Grok color theory and blending math.",
+    "createdAt": "Fri Aug 07 20:49:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJbyk8XUAA416t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085830505455366339",
+    "fullText": "\"Mathematical Thinking — For People Who Hate Math: Level Up Your Analytical and Creative Thinking Skills. Excel at Problem-Solving and Decision-Making\"\n\nGet started at https://t.co/jBtQ125p0s https://t.co/AlsXr2KekS",
+    "createdAt": "Fri Aug 07 20:48:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487597,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJbXFRXQAEndfv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2085830032484655475",
+    "fullText": "Differential geometry is a mathematical discipline that studies smooth manifolds, using techniques of vector calculus, linear algebra &amp; multilinear algebra. It was used by Einstein in his development of General Relativity: https://t.co/S3F8M1SBa7\n\nBook: https://t.co/wrgK1xLkHj https://t.co/2z9dJukaXP",
+    "createdAt": "Fri Aug 07 20:46:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1042514,
+      "friendsCount": 64,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085825811131838465/vid/avc1/1280x720/dAXKlVQ6OwywovwL.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2085825886633570800",
+    "fullText": ".@ExaAILabs CEO Will Bryk says we can reach the moon, but still struggle to find good information:\n\n\"In high school, I was like, 'I'm gonna start a new type of news organization,' because I have had this frustration... We can get to the moon and split the atom, and yet if I wanna understand what's going on at the border right now, it's really hard to. That to me is just an error in humanity.\"\n\n\"Why is everything politicized? I always thought this was ridiculous, and I don't accept it. I think that's just an error in our coordination structure. Something's wrong here.\"\n\n\"I think a lot comes back to our information tools. If there was some really well-funded news organization that didn't have bad incentives and was fully devoted to the truth, I think that would have a huge impact in the world.\"\n\n\"Me and my co-founder built a search engine in college together, way before Exa, because we were frustrated that it's so hard to find high-quality information.\"\n\n@WilliamBryk on @KnuckleUpHQ",
+    "createdAt": "Fri Aug 07 20:30:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94608,
+      "friendsCount": 1102,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085824807648600064/vid/avc1/720x1280/cxRfpMz5vgxTZlh0.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2085824871120924774",
+    "fullText": "That's a wrap on Black Hat 2026 🎩\n\nThe conversations this week reinforced our belief that the future of agentic security has to be open: open frameworks for securing AI, open data to help defend against evolving threats, and an open, governed foundation for security operations. And as a founding member of the Open Secure AI Alliance, we're excited to keep advancing that vision through open research and continued innovation in Lakewatch — our open security lakehouse. \n\nThanks to everyone who stopped by to explore what's next!",
+    "createdAt": "Fri Aug 07 20:26:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 61305,
+      "friendsCount": 366,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085821258709516288/vid/avc1/1920x1080/QfnFdBOqmWmhNpDr.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2085821345841938548",
+    "fullText": "A lot of the questions we get from developers are about the concepts behind the API: TTFT, context windows, sampling, fine-tuning, quantization, deployment tradeoffs.\n\nWe added Learn to the Together docs to go deeper on them. 👇\n\nhttps://t.co/W2WkWfkurZ https://t.co/fldy7TKQGV",
+    "createdAt": "Fri Aug 07 20:12:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 409645,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2085818676423344532",
+    "fullText": "We are about to have more raw intelligence than anyone knows what to do with, and the scarcity will simply move somewhere we have not priced yet. Taste. Patience. The willingness to care about a problem long after it stops being interesting.",
+    "createdAt": "Fri Aug 07 20:01:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1042514,
+      "friendsCount": 64,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPJJy7GbcAAuN3d.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2085810719875060097",
+    "fullText": "AI is eating the billable hour\n\nCharts of the Week: https://t.co/TprfteuoSk https://t.co/saOw1WqLh9",
+    "createdAt": "Fri Aug 07 19:30:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 77546,
+      "friendsCount": 1682,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2085807789436530860",
+    "fullText": "2.  At AGI-26 last week I saw a lot of people asking their agent swarms to code AGI for them: download 25 of Ben's (or other cool AGI) papers, bash them together into a codebase, make it tick. This has in it the seeds of a workable approach to AGI.",
+    "createdAt": "Fri Aug 07 19:18:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 77546,
+      "friendsCount": 1682,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2085807777247793434",
+    "fullText": "1. Can a proto-AGI help build its successor?  New substack post on how our OmegaHive agent hives can incrementally self-uplift toward AGI — implementing, testing & tuning cognitive mechanisms from decades of AGI research, one measured step at a time... .  . https://t.co/rhoDF82sUt. ... Summarized here via tweetstorm..",
+    "createdAt": "Fri Aug 07 19:18:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 260856,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082894519498887168/vid/avc1/1920x1080/MHrGCbGLZzsJGYlv.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2085803161990651964",
+    "fullText": "Austin Berke, Lead AI Product Engineer at @Harmonic recently shared how they rebuilt Scout on Deep Agents, quadrupling retention along the way.\n\nWatch the full fireside chat at https://t.co/WTE470p7VQ https://t.co/1MKtizqOTO",
+    "createdAt": "Fri Aug 07 19:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5092454,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2085801349866729975",
+    "fullText": "After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework.\n\nThis is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development happens safely and securely. \n\nWe're working hard to make Astra broadly available, and get its advanced cyber capabilities into the hands of defenders.\n\nhttps://t.co/9lMIvdeMMJ",
+    "createdAt": "Fri Aug 07 18:52:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 409645,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2085382693651431455",
+    "fullText": "https://t.co/InwvaKTsuw",
+    "createdAt": "Thu Aug 06 15:09:13 +0000 2026"
+  }
+]
