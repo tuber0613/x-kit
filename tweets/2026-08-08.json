@@ -1,11 +1,104 @@
 [
   {
     "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 61339,
+      "friendsCount": 366,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085933297654210560/vid/avc1/854x480/fjRaAYDvZMAtDuzX.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2086142646373044570",
+    "fullText": "We asked Seedance 2.5 on Together AI to generate a 30-second lost-cinema trailer in one prompt 📽️ https://t.co/g4GshzP73Y",
+    "createdAt": "Sat Aug 08 17:29:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 62948,
+      "friendsCount": 11222,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPNynkPboAA_cAd.jpg",
+      "https://pbs.twimg.com/media/HPNynkHacAAUoK9.jpg",
+      "https://pbs.twimg.com/media/HPNynkPaUAAP2Jd.jpg",
+      "https://pbs.twimg.com/media/HPNynkOaAAA6-i5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2086137128724087091",
+    "fullText": "Hosting family from London.\n\nWhich means many epic meals back to back. https://t.co/YDFG7APjCa",
+    "createdAt": "Sat Aug 08 17:07:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1043266,
+      "friendsCount": 64,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPNxEsqbMAAZgFW.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2086135380802457701",
+    "fullText": "Box HQ, Berkeley, 2005 https://t.co/zYzXdBlpll",
+    "createdAt": "Sat Aug 08 17:00:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "v_vashishta",
+      "name": "Vin Vashishta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
+      "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
+      "followersCount": 28395,
+      "friendsCount": 1057,
+      "location": "Reno"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPNVbomawAAhpam.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/v_vashishta/status/2086135352537026722",
+    "fullText": "How market analysts and LinkedIn experts sound when they talk about AI and agents…\n\n“My kitten stole my Apple Watch. Apple’s AI strategy is paying off. Chart below.” https://t.co/xlhVDISQMU",
+    "createdAt": "Sat Aug 08 17:00:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 213682,
+      "friendsCount": 218,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2086124560861270016/vid/avc1/1920x1080/NN_pkpMa3N6e__GJ.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/arena/status/2086132106455904562",
+    "fullText": "Arena intern and UCLA PhD candidate, @hgzhou42, introduces Trace-and-Amplify (TA), a framework for collecting training-time reward-hacking trajectories at scale without hacking instructions.\n\nMonitors trained and evaluated on prompt-elicited hacking trajectories can achieve high detection accuracy, but often fail to transfer to training-time reward-hacking trajectories that emerge during RL without hacking instructions. Trace-and-Amplify enables scalable collection of these training-time trajectories, producing monitors that generalize much better to real and held-out hacking types.\n\nDetection accuracy 59.98% (PE-trained) → 90.16% (TA-trained) compared to 97.1% on prompted hacks → 28.0% on training-time hacks.\n\n0:00 – OpenAI's ExploitGym cyberattack benchmark exploit\n1:04 – Goodhart's Law and the CoastRunners boat-racing hack (2016)\n2:04 – Gaming the evaluator: the robot-hand grasping example (2017)\n3:10 – Reward hacking in code generation: hard-coding, test-rewriting, skipping eval\n4:20 – A standard defense: reward-hacking monitors\n4:58 – Monitor architectures: zero-shot LLMs, fine-tuned BERT, hidden-state probes\n6:11 – Where monitor training data comes from today: prompted hacks\n7:03 – The core question: do prompted hacks represent real hacks?\n7:35 – Why this matters: RL post-training is the standard recipe for frontier models\n8:20 – Why nobody's checked this before (hacking is rare, labeling isn't scalable)\n9:23 – Introducing the method: Trace-and-Amplify\n9:49 – The Tracer: a contradictory unit test that locates evaluation-gaming\n10:50 – Amplify: collecting hacking rollouts at scale during RL training\n11:32 – Experiment setup: Qwen2.5-Coder, DeepSeek-Coder, LeetCode/TACO\n12:16 – Finding #1: prompt-trained monitors don't transfer to real hacks\n14:40 – Can strong zero-shot judges (GPT-4.1, o4-mini) do better?\n15:48 – Finding #2: monitors trained on real hacks generalize much better to unseen hacks\n17:04 – Ruling out artifacts introduced by the method\n17:55 – Why the gap? Real hacking is more hidden than prompted hacking\n20:05 – Three takeaways, limitations, and future work",
+    "createdAt": "Sat Aug 08 16:47:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 299558,
+      "followersCount": 299579,
       "friendsCount": 8396,
       "location": "United States"
     },
@@ -23,7 +116,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -41,7 +134,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 347967,
+      "followersCount": 347966,
       "friendsCount": 20443,
       "location": "Cambridge, MA"
     },
@@ -59,7 +152,7 @@
       "name": "Vin Vashishta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
       "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
-      "followersCount": 28396,
+      "followersCount": 28395,
       "friendsCount": 1057,
       "location": "Reno"
     },
@@ -93,7 +186,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409681,
+      "followersCount": 409688,
       "friendsCount": 879,
       "location": ""
     },
@@ -109,7 +202,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409681,
+      "followersCount": 409688,
       "friendsCount": 879,
       "location": ""
     },
@@ -125,7 +218,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -143,7 +236,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -161,7 +254,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -179,7 +272,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -197,7 +290,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -215,7 +308,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -233,7 +326,7 @@
       "name": "Geoffrey Hinton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_normal.jpg",
       "description": "deep learning",
-      "followersCount": 632294,
+      "followersCount": 632333,
       "friendsCount": 28,
       "location": ""
     },
@@ -267,7 +360,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -285,7 +378,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -303,7 +396,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -321,7 +414,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -339,7 +432,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 477673,
+      "followersCount": 477676,
       "friendsCount": 1563,
       "location": "Austin, TX"
     },
@@ -357,7 +450,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -375,7 +468,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -393,7 +486,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487621,
+      "followersCount": 487631,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -411,7 +504,7 @@
       "name": "Vin Vashishta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
       "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
-      "followersCount": 28396,
+      "followersCount": 28395,
       "friendsCount": 1057,
       "location": "Reno"
     },
@@ -445,7 +538,7 @@
       "name": "Greg Brockman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
       "description": "President & Co-Founder @OpenAI",
-      "followersCount": 1027866,
+      "followersCount": 1027897,
       "friendsCount": 8,
       "location": ""
     },
@@ -461,7 +554,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36593,
+      "followersCount": 36594,
       "friendsCount": 1815,
       "location": ""
     },
@@ -479,7 +572,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409681,
+      "followersCount": 409688,
       "friendsCount": 879,
       "location": ""
     },
@@ -1871,7 +1964,7 @@
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
-      "followersCount": 490956,
+      "followersCount": 490976,
       "friendsCount": 1174,
       "location": "United States"
     },
