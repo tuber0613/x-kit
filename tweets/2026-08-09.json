@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 61353,
+      "friendsCount": 366,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2086277823501656064/vid/avc1/1920x1080/27O_-yxMAvCxcN7T.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2086292886656569628",
+    "fullText": "We compared how far the same budget goes with DeepSeek V4 Flash and GPT-5.6 Luna on DeepSWE.\n\nTwo DeepSeek V4 Flash attempts solved MORE tasks than one Luna attempt at roughly one-third the cost.",
+    "createdAt": "Sun Aug 09 03:26:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36601,
+      "friendsCount": 1819,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPP0WEOb0AAgvEN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2086280871699701786",
+    "fullText": "清华+Frontis开源的RSI项目OpenRSI：把\"AI 改进 AI\"做成了可执行的工程问题，框架和思想值得学习。近期递归自我进化RSI被炒得非常火，比如田渊栋的Recursive Superintelligence刚拿了几亿美元的融资，相比于Recursive，OpenRSI开源透露了很多细节。\n\n首发成果是一个 35B 模型：在MLE基准上，单张 RTX 4090（限 12GB 显存）、每任务 12 小时成绩超过 GPT-5.5+Codex，逼近 GPT-5.6 Sol 和 2.8T 的 Kimi K3。\n\n核心设计：四个原子算子 Draft / Improve / Debug / Crossover，训练和推理共用同一套接口。SFT 和 RL 训的就是搜索时要调的东西，模型成了自己那套进化框架的变异引擎。\n\n实验消融很干净，模型的功劳和框架的功劳分开测试：\n1、固定框架换模型，39.39% → 60.61%；\n2、换到没训过的 NatureBench Lite，换模型 50% → 70%，换框架 20% → 50%。\n\n对比原版 AIRA-Evo，总 token 少 41.7%，但每百万 token 的有效发现高 84.3%，原因是把\"全量历史进上下文\"换成了\"按算子按需检索有界证据\"，这对于单位token价值提升有极大的价值。\n\n目前作者说以上实验是 model + harness 的系统分，也写明了没有实现通用 RSI，当前更多是meta自进化。\n#rsi #Recursive #harness #自进化",
+    "createdAt": "Sun Aug 09 02:38:15 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 299728,
+      "followersCount": 299760,
       "friendsCount": 8396,
       "location": "United States"
     },
@@ -23,8 +59,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 441457,
-      "friendsCount": 13292,
+      "followersCount": 441555,
+      "friendsCount": 13290,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -39,7 +75,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409767,
+      "followersCount": 409766,
       "friendsCount": 879,
       "location": ""
     },
@@ -55,7 +91,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1024551,
+      "followersCount": 1024722,
       "friendsCount": 5917,
       "location": "San Francisco, CA"
     },
@@ -71,7 +107,7 @@
       "name": "Greg Brockman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
       "description": "President & Co-Founder @OpenAI",
-      "followersCount": 1028262,
+      "followersCount": 1028306,
       "friendsCount": 8,
       "location": ""
     },
@@ -87,7 +123,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 61348,
+      "followersCount": 61353,
       "friendsCount": 366,
       "location": "San Francisco, CA"
     },
@@ -105,7 +141,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409767,
+      "followersCount": 409766,
       "friendsCount": 879,
       "location": ""
     },
@@ -121,7 +157,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4621041,
+      "followersCount": 4622212,
       "friendsCount": 800,
       "location": ""
     },
@@ -137,8 +173,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 441457,
-      "friendsCount": 13292,
+      "followersCount": 441555,
+      "friendsCount": 13290,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -153,7 +189,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "ex-head of product @x",
-      "followersCount": 1275939,
+      "followersCount": 1276058,
       "friendsCount": 2057,
       "location": "Palo Alto"
     },
@@ -189,7 +225,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 71032,
+      "followersCount": 71033,
       "friendsCount": 36402,
       "location": "latent space"
     },
@@ -207,7 +243,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409767,
+      "followersCount": 409766,
       "friendsCount": 879,
       "location": ""
     },
@@ -223,7 +259,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4621041,
+      "followersCount": 4622212,
       "friendsCount": 800,
       "location": ""
     },
@@ -239,7 +275,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 299728,
+      "followersCount": 299760,
       "friendsCount": 8396,
       "location": "United States"
     },
@@ -257,7 +293,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 97437,
+      "followersCount": 97441,
       "friendsCount": 931,
       "location": "Seattle"
     },
@@ -273,7 +309,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487666,
+      "followersCount": 487664,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -291,7 +327,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487666,
+      "followersCount": 487664,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -309,7 +345,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487666,
+      "followersCount": 487664,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -327,7 +363,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487666,
+      "followersCount": 487664,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -345,7 +381,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487666,
+      "followersCount": 487664,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -364,7 +400,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487666,
+      "followersCount": 487664,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -382,7 +418,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of superinvestment staff @airstreet @airstreetpress @stateofai @raais",
-      "followersCount": 71032,
+      "followersCount": 71033,
       "friendsCount": 36402,
       "location": "latent space"
     },
@@ -398,7 +434,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409767,
+      "followersCount": 409766,
       "friendsCount": 879,
       "location": ""
     },
@@ -414,7 +450,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 61348,
+      "followersCount": 61353,
       "friendsCount": 366,
       "location": "San Francisco, CA"
     },
@@ -432,7 +468,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 62950,
+      "followersCount": 62952,
       "friendsCount": 11222,
       "location": "San Francisco"
     },
@@ -453,7 +489,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1043582,
+      "followersCount": 1043640,
       "friendsCount": 64,
       "location": "The Cloud"
     },
@@ -471,7 +507,7 @@
       "name": "Vin Vashishta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
       "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
-      "followersCount": 28396,
+      "followersCount": 28395,
       "friendsCount": 1057,
       "location": "Reno"
     },
@@ -489,7 +525,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
-      "followersCount": 213767,
+      "followersCount": 213815,
       "friendsCount": 218,
       "location": "US"
     },
@@ -595,7 +631,7 @@
       "name": "Geoffrey Hinton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_normal.jpg",
       "description": "deep learning",
-      "followersCount": 632693,
+      "followersCount": 632758,
       "friendsCount": 28,
       "location": ""
     },
