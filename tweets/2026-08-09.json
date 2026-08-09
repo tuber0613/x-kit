@@ -1,6 +1,76 @@
 [
   {
     "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94753,
+      "friendsCount": 1102,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPSrE2eWsAARix8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2086480648454164876",
+    "fullText": "The latest testing from our research team found that data agents can improve accuracy and lower cost at the same time.\n\nWe evaluated Genie Code against three leading general-purpose coding agents on 401 tasks distilled from real internal usage. Each agent used their own harness, the latest models from leading frontier labs, Databricks MCP, and had the same 20-minute task budget.\n\nGenie Code was both the most accurate agent we tested and the cheapest, delivering a correct answer at less than half the cost of other agents. Genie Code achieved the highest accuracy at 76.6%, and the lowest mean cost at $0.55 per task.\n\nThe advantage came from context. Semantic search, persistent memory, and workspace understanding helped Genie Code avoid the inefficient exploration that drove more errors, timeouts, and higher costs for general coding agents. https://t.co/sGWLHmAKwq",
+    "createdAt": "Sun Aug 09 15:52:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 97484,
+      "friendsCount": 932,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPSgaXzaAAAapyA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2086469399905796403",
+    "fullText": "Some takeaways from recent hacks and what comes next. A recurring theme is that while the AI problems we face seem technically tractable, our incentive structures create an environment where I expect most solutions come AFTER more serious harms.\n\n10 takes on @interconnectsai. https://t.co/AudOACNO2O",
+    "createdAt": "Sun Aug 09 15:07:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 480742,
+      "friendsCount": 1551,
+      "location": "CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPSgWhOa4AA2NPv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2086468839307640833",
+    "fullText": "Rogue OpenAI agents independently developed Kantian ethics. https://t.co/UchoD4bA8N",
+    "createdAt": "Sun Aug 09 15:05:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 5787738,
+      "friendsCount": 1021,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2086468661670461671",
+    "fullText": "one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it",
+    "createdAt": "Sun Aug 09 15:04:28 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "ceobillionaire",
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
@@ -23,7 +93,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409825,
+      "followersCount": 409832,
       "friendsCount": 879,
       "location": ""
     },
@@ -39,7 +109,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36601,
+      "followersCount": 36602,
       "friendsCount": 1822,
       "location": ""
     },
@@ -57,7 +127,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487699,
+      "followersCount": 487688,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -75,7 +145,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487699,
+      "followersCount": 487688,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -93,7 +163,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 299909,
+      "followersCount": 299930,
       "friendsCount": 8395,
       "location": "United States"
     },
@@ -127,7 +197,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 89919,
+      "followersCount": 89926,
       "friendsCount": 5397,
       "location": "Paris"
     },
@@ -143,7 +213,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409825,
+      "followersCount": 409832,
       "friendsCount": 879,
       "location": ""
     },
@@ -159,7 +229,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 477803,
+      "followersCount": 477791,
       "friendsCount": 1562,
       "location": "Austin, TX"
     },
@@ -175,7 +245,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409825,
+      "followersCount": 409832,
       "friendsCount": 879,
       "location": ""
     },
@@ -191,7 +261,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241217267,
+      "followersCount": 241217956,
       "friendsCount": 1386,
       "location": ""
     },
@@ -209,7 +279,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241217267,
+      "followersCount": 241217956,
       "friendsCount": 1386,
       "location": ""
     },
@@ -227,8 +297,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 442424,
-      "friendsCount": 13290,
+      "followersCount": 442518,
+      "friendsCount": 13289,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -243,7 +313,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487699,
+      "followersCount": 487688,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -261,7 +331,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487699,
+      "followersCount": 487688,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -279,7 +349,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487699,
+      "followersCount": 487688,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -297,7 +367,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487699,
+      "followersCount": 487688,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -315,7 +385,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487699,
+      "followersCount": 487688,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -333,7 +403,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487699,
+      "followersCount": 487688,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -349,7 +419,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36601,
+      "followersCount": 36602,
       "friendsCount": 1822,
       "location": ""
     },
@@ -367,7 +437,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 437327,
+      "followersCount": 437337,
       "friendsCount": 665,
       "location": ""
     },
