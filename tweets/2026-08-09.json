@@ -1,11 +1,81 @@
 [
   {
     "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149536,
+      "friendsCount": 5432,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPSe7vXWgAAHeX-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2086467279722516808",
+    "fullText": "𝗠𝗶𝘀𝘀𝗶𝗼𝗻-𝗦𝗼𝘃𝗲𝗿𝗲𝗶𝗴𝗻 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗼𝗿 ⚜️✨\n\nThe market rents Beta. GoalOS manufactures Alpha.\n\nΩ + SEIZE underwrites the Spread, constitutes Specialist ASI via Bounded AGI Jobs, then grants scoped authority under fresh proof—capturing and compounding mission Alpha. https://t.co/85LMtP4Uoy",
+    "createdAt": "Sun Aug 09 14:58:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 409825,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2086460133731692967",
+    "fullText": "A high school kid should be able to go online, submit a hypothesis to a national lab, and have an autonomous system run the experiment and report results. That is the vision. And it is closer than you think.",
+    "createdAt": "Sun Aug 09 14:30:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36601,
+      "friendsCount": 1822,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPSWpt7bMAAv-Q1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2086458198849196440",
+    "fullText": "最近聊RSI自进化的特别多，前OpenAI的大佬Lilian Weng认为：短期内实用的 RSI 不太可能靠直接自我改进模型权重，而可依赖\"模型外面那层系统\" harness 成为自我进化的路径。\n\nharness = 模型和真实世界之间的那层系统：怎么规划、怎么调工具、怎么管上下文、怎么存产物、怎么评估结果等。Claude Code / Codex 这类产品的差距基本都长在这一层。\n\n她有个观察挺重要：编程 agent 的工具分组已经趋于稳定了——Claude Code、Codex、Cursor 这类基本会收敛成同一套：文件系统、shell、IO（lsp/git）、外部上下文（MCP/Skills）、网页搜索、artifacts、后台进程、agent 委派。\n\nharness 怎么优化，她梳理成三条线：\n\n① 上下文工程——ACE 把上下文当\"不断演化的 playbook\"而不是越来越长的 prompt；MCE 把\"怎么管上下文\"的机制和\"上下文里是什么\"的内容分开做双层优化；Meta-Harness 干脆去优化\"那段决定该存什么、取什么、给模型看什么的代码\"。\n\n② 工作流设计——AI Scientist、ScientistOne（每条主张都必须能溯源到证据）、ADAS、AFlow（把工作流当图，上 MCTS）\n\n③ 自改进 harness——STOP（改进器改进自己，后来自己长出了遗传算法、多臂老虎机、模拟退火这些策略）；AHE 提出三根可观测性支柱（组件、经验、决策可观测），其中\"每次改动都要配一个可被推翻的预测\"这条特别工程化；Darwin Gödel Machine 让 agent 直接改自己的 harness 代码库，SWE-bench Verified 从 20% 做到 50%。\n\n她在blog里提到的 Continual Harness，正是刚发的prime-agent（Prime Intellect 那个自改进 agent）的两大核心抽象之一；\"上下文与记忆的生命周期\"这个难题，正是 acm-context-management（CMU+Meta）在做的事；而 RSI 这条主线，openrsi（Frontis+清华）刚好给出了可执行的测量版本——而且openrsi团队和 Weng 一样，明确说没解决通用 RSI。\n\n#harness #AIagent #RSI #agent工程 #LilianWeng",
+    "createdAt": "Sun Aug 09 14:22:53 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487691,
+      "followersCount": 487699,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPST_eSW4AAt7F3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086455249485602918",
+    "fullText": "The Mathematics of Large Language Models — A Readable Guide to LLMs, Transformers, Diffusion, Neural Networks, and Generative AI: https://t.co/3sDIaIroX8 https://t.co/h6AeaBSVYg",
+    "createdAt": "Sun Aug 09 14:11:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487699,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -23,8 +93,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 299910,
-      "friendsCount": 8396,
+      "followersCount": 299909,
+      "friendsCount": 8395,
       "location": "United States"
     },
     "images": [
@@ -57,7 +127,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 89917,
+      "followersCount": 89919,
       "friendsCount": 5397,
       "location": "Paris"
     },
@@ -73,7 +143,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409814,
+      "followersCount": 409825,
       "friendsCount": 879,
       "location": ""
     },
@@ -89,7 +159,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 477792,
+      "followersCount": 477803,
       "friendsCount": 1562,
       "location": "Austin, TX"
     },
@@ -105,7 +175,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409814,
+      "followersCount": 409825,
       "friendsCount": 879,
       "location": ""
     },
@@ -121,7 +191,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241215860,
+      "followersCount": 241217267,
       "friendsCount": 1386,
       "location": ""
     },
@@ -139,7 +209,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241215860,
+      "followersCount": 241217267,
       "friendsCount": 1386,
       "location": ""
     },
@@ -157,7 +227,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 442313,
+      "followersCount": 442424,
       "friendsCount": 13290,
       "location": "San Francisco, CA"
     },
@@ -173,7 +243,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487691,
+      "followersCount": 487699,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -191,7 +261,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487691,
+      "followersCount": 487699,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -209,7 +279,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487691,
+      "followersCount": 487699,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -227,7 +297,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487691,
+      "followersCount": 487699,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -245,7 +315,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487691,
+      "followersCount": 487699,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -263,7 +333,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487691,
+      "followersCount": 487699,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -297,7 +367,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 437318,
+      "followersCount": 437327,
       "friendsCount": 665,
       "location": ""
     },
@@ -315,7 +385,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 61385,
+      "followersCount": 61390,
       "friendsCount": 366,
       "location": "San Francisco, CA"
     },
@@ -351,8 +421,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 299910,
-      "friendsCount": 8396,
+      "followersCount": 299909,
+      "friendsCount": 8395,
       "location": "United States"
     },
     "images": [
@@ -369,7 +439,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 442313,
+      "followersCount": 442424,
       "friendsCount": 13290,
       "location": "San Francisco, CA"
     },
@@ -385,7 +455,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409814,
+      "followersCount": 409825,
       "friendsCount": 879,
       "location": ""
     },
@@ -401,7 +471,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1025815,
+      "followersCount": 1025959,
       "friendsCount": 5917,
       "location": "San Francisco, CA"
     },
