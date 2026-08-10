@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36611,
+      "friendsCount": 1826,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2086708060609982464/vid/avc1/1700x1500/gAknypMgVX6lHfVa.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2086711453508370696",
+    "fullText": "阿里最新放出来了一款全新端到端角色图像动画框架：Wan-Animate-2，实时驱动角色，延迟极低\n\nWan-Animate-2的一大核心是实时交互，直接解锁直播主播、交互式数字人场景\n\n首先，Teacher forcing+错误缓冲+Self-Forcing蒸馏+逐块反向传播三阶段训练，这套组合拳把延迟压到了实时，把从几分钟生成一段视频变成实时流式生成\n\n其次是端到端不需要中间运动提取，之前的方法先提取骨骼/关键点再驱动，提取一错角色就崩\n\n再就是驱动视频的拍摄角度和输出视角可以分开\n\n以前驱动视频是从什么角度拍的，生成的视频就只能是什么角度，想让角色换个机位做不到，或者需要额外复杂的相机控制流程\n\n现在直接打字就能改变输出视频的机位，动作和视角完全解耦\n\n从效果上看，复杂动作、精细表情和物理合理性上复制的还可以，支持单人到多人、多人到多人、跨身份的动作迁移\n\n#图像驱动动画视频 #虚拟人 #虚拟主播 #WanAnimate2",
+    "createdAt": "Mon Aug 10 07:09:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4644450,
+      "friendsCount": 800,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2086702444420182383",
+    "fullText": "17 yo asked what makes a good founder. I said being good at building stuff and being sufficiently fierce. That's about it.",
+    "createdAt": "Mon Aug 10 06:33:26 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nikitabier",
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "ex-head of product @x",
-      "followersCount": 1278480,
+      "followersCount": 1278615,
       "friendsCount": 2057,
       "location": "Palo Alto"
     },
@@ -21,7 +55,7 @@
       "name": "Qwen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
       "description": "Open foundation models for AGI.",
-      "followersCount": 262154,
+      "followersCount": 262219,
       "friendsCount": 3,
       "location": ""
     },
@@ -91,8 +125,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36606,
-      "friendsCount": 1822,
+      "followersCount": 36611,
+      "friendsCount": 1826,
       "location": ""
     },
     "images": [
@@ -127,7 +161,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 443312,
+      "followersCount": 443628,
       "friendsCount": 13288,
       "location": "San Francisco, CA"
     },
@@ -143,7 +177,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 443312,
+      "followersCount": 443628,
       "friendsCount": 13288,
       "location": "San Francisco, CA"
     },
@@ -159,7 +193,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4643100,
+      "followersCount": 4644450,
       "friendsCount": 800,
       "location": ""
     },
@@ -175,7 +209,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1027719,
+      "followersCount": 1027886,
       "friendsCount": 5918,
       "location": "San Francisco, CA"
     },
@@ -191,7 +225,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487749,
+      "followersCount": 487750,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -210,7 +244,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487749,
+      "followersCount": 487750,
       "friendsCount": 3375,
       "location": "Maryland, USA"
     },
@@ -228,7 +262,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 300127,
+      "followersCount": 300152,
       "friendsCount": 8397,
       "location": "United States"
     },
@@ -246,7 +280,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 409927,
+      "followersCount": 409933,
       "friendsCount": 879,
       "location": ""
     },
@@ -262,7 +296,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4643100,
+      "followersCount": 4644450,
       "friendsCount": 800,
       "location": ""
     },
@@ -280,7 +314,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - your business lives in content. unleash it with AI",
-      "followersCount": 3254775,
+      "followersCount": 3255255,
       "friendsCount": 922,
       "location": "Bay Area"
     },
@@ -296,7 +330,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4643100,
+      "followersCount": 4644450,
       "friendsCount": 800,
       "location": ""
     },
@@ -312,8 +346,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 443516,
-      "friendsCount": 13286,
+      "followersCount": 443628,
+      "friendsCount": 13288,
       "location": "San Francisco, CA"
     },
     "images": [],
