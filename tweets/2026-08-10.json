@@ -1,11 +1,613 @@
 [
   {
     "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPZFQ8fWIAEABiA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086931637917430268",
+    "fullText": "🔥Must see the major updates in the new 3rd Edition of this amazing massive 826-page book!\n\n🚀\"Machine Learning for Trading — A disciplined workflow from research to live execution, with 9 case studies and AI agents\" — https://t.co/LRiSD5ViL0 by @ml4trading \n\n🏆The author is hosting a live online workshop, Machine Learning for Trading in the Age of AI Agents, on August 15. Event details: https://t.co/iekKQhEr9Z\n🌟⤴️This link automatically applies my 40% DISCOUNT CODE ‘KIRK40’ when registering for the workshop [hosted by @PacktPublishing]",
+    "createdAt": "Mon Aug 10 21:44:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 71046,
+      "friendsCount": 36404,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2086911369614422016/vid/avc1/938x578/hkze-7HjM9W0hS-L.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2086930433560744420",
+    "fullText": "jensen and the lads on the telly https://t.co/9YTNT3D7Fx",
+    "createdAt": "Mon Aug 10 21:39:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4657494,
+      "friendsCount": 800,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2086929188284719448",
+    "fullText": "The Democrats made a huge mistake letting themselves become the party of pronouns and land acknowledgements. They should just ditch that stuff entirely. Especially since it doesn't actually do any good.",
+    "createdAt": "Mon Aug 10 21:34:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 237089,
+      "friendsCount": 1703,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPZCva4WMAAXhXf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2086928989549920678",
+    "fullText": "Anthropic 宣布将给 Claude 的输出内容加上机器可读的标记，包括文本中嵌入的隐形水印，以及生成文件中附加的数字签名元数据。8 月 2 日起（也就是上周），所有新发布的 Claude 模型已经开始执行这套标记机制。\n\n这是 Anthropic 为遵守欧盟 AI 法案第 50 条签署的透明度行为准则。但执行范围不限于欧盟，全球所有使用 Claude 的地方都会生效。\n\n具体来说有两层标记。\n\n第一层是文本水印：Claude 生成文字时，会在文本中织入人眼不可见的水印，不影响阅读体验和内容质量。这个水印的特点是“跟着文字走”，你把 Claude 写的一段话复制粘贴到邮件、文档或博客里，水印依然在，一定程度的编辑修改后也可能保留。\n\n第二层是文件元数据：Claude 生成 SVG、PNG、JPG 等文件时，会附加符合 C2PA 标准的签名元数据。C2PA 是 Adobe、微软、Google 等公司共同推动的内容溯源开放协议，OpenAI 和 Google 的图像生成工具已经在用。\n\n覆盖面很广。API、Claude 官网、Claude Code、Claude Cowork、Claude Tag，所有产品线都适用。通过 AWS、Google Cloud 或 Microsoft Foundry 调用 Claude 时，文本水印同样生效，但文件元数据取决于各云平台的功能支持。\n\n在此之前，Claude 一直没有公开部署过文本水印。OpenAI 此前开发过文本水印方案，但出于各种考虑一直没上线。Anthropic 这次直接在文本层面落地水印，算是 AI 大模型厂商中走得比较靠前的一步。\n\n对于用 Claude 写东西的人来说，一个直接的影响是：你用 Claude 起草的邮件、报告、文章，里面都会携带可被机器检测的水印。Anthropic 表示正在开发配套的检测工具，未来第三方也能检测。\n\n不过限制也很实际。检测到水印只能说明内容“可能经过 Claude 处理”，不能确认 Claude 是原始作者，因为很多人用它润色、翻译、总结已有内容。反过来也一样，检测不到水印不代表内容不是 AI 写的，文本被大量改写后水印会消失，太短的文本信号不够可靠，文件经过格式转换或截图也会丢失元数据。\n\n8 月 2 日之前发布的现有 Claude 模型，Anthropic 正在补充标记功能，具体时间表还没公布。如果你基于 Claude API 构建产品，Anthropic 建议你独立评估欧盟 AI 法案第 50 条对自己的合规要求。\n\n相关文档：https://t.co/GOPcV056Aa",
+    "createdAt": "Mon Aug 10 21:33:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPZCarSWQAAzXr1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086928506147979657",
+    "fullText": "Graph Data Modeling with Python — Guide to curating, analyzing, & modeling data with graphs: https://t.co/c4c3lVaQtn v/ @PacktDataML\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🔵Transform relational data models into graph data model while learning key applications along the way\n🔴Discover common challenges in graph modeling and analysis, and learn how to overcome them\n🟠Practice real-world use cases of community detection, knowledge graphs, and recommendation network",
+    "createdAt": "Mon Aug 10 21:31:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPZCWKyWcAAmhSw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086928429656547346",
+    "fullText": "Highly rated new book from @PacktPublishing @PacktDataML ...\n\n\"Architecting Generative AI Applications: Build, deploy, and scale production-ready GenAI systems with LLMOps best practices\"\n\nSee it at https://t.co/qEfwoYVBdT https://t.co/5eV3AbbeZ2",
+    "createdAt": "Mon Aug 10 21:31:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 437639,
+      "friendsCount": 665,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2086928196134707664",
+    "fullText": "Do I have any RL env friends who I can ask a couple questions to? Just curious about some stuff!",
+    "createdAt": "Mon Aug 10 21:30:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 61431,
+      "friendsCount": 367,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPZBvoGWMAATTlp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2086927767602377104",
+    "fullText": "Muse Glimmer is now live on Together AI.\n\nWe’re proud to be a Day 0 launch partner for this open-weight model from Meta Superintelligence Labs, built for long-running agents that can reason, use tools, recover, and keep working across complex tasks. https://t.co/QP8KvRgINN",
+    "createdAt": "Mon Aug 10 21:28:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPZBroYXkAAOien.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086927698379657445",
+    "fullText": "Mastering MongoDB 7.0 — Achieve data excellence by unlocking the full potential of #MongoDB [4th ed.]: https://t.co/k9oktGKYF8 v/ @PacktPublishing\n——\n#Database #CDO #DBA #DataEngineer #DataStrategy\n——\nWhat you will learn:\n🟢Execute advanced MongoDB queries for intricate data insights\n🟢Harness the power of aggregation pipelines to transform data\n🟢Ensure data integrity with multi-document ACID transactions\n🟢Optimize query performance using strategic indexing techniques\n🟢Navigate MongoDB Atlas seamlessly for monitoring and backups\n🟢Enable robust search functionality with Atlas Search\n🟢Master RBAC, user management, and data encryption for security\n🟢Implement auditing practices for transparency and accountability",
+    "createdAt": "Mon Aug 10 21:28:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086927245143130424",
+    "fullText": "🚀📈Visit https://t.co/MJWLYrSRnU = Code repository for “Causal Inference and Discovery in Python” via @PacktPublishing @PacktDataML \n ➕\n📈🚀Get the book at: https://t.co/Q1aU74Va2L",
+    "createdAt": "Mon Aug 10 21:26:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPZAuaRXIAAL19o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086926647307972692",
+    "fullText": "Deep Learning with C++ — Design and deploy neural networks using CUDA for high-performance AI in C++\n\nGet the book at https://t.co/qbSvDZiV3s from @PacktPublishing @PacktDataML https://t.co/W9RuwceR77",
+    "createdAt": "Mon Aug 10 21:24:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPZAp2tWAAAsFKC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086926575971311806",
+    "fullText": "New! 580 pages. From @PacktPublishing @PacktDataML \n\n\"AI-Ready PostgreSQL 18 - Building Intelligent Data Systems with Transactions, Analytics, and Vectors\"\n\nAvailable at https://t.co/u1tcrNdRjA https://t.co/RUf6dQhpuo",
+    "createdAt": "Mon Aug 10 21:24:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4657494,
+      "friendsCount": 800,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2086926176338194460",
+    "fullText": "Now that AI has compressed the design phase for so many products, there is going to be more demand for technologies that compress the construction phase. After we get those, the final frontier will be regulation.",
+    "createdAt": "Mon Aug 10 21:22:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY_xx4WgAASi6C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086925605015347304",
+    "fullText": "Learn Quantum Computing with Python and IBM Quantum — Write your own practical quantum programs [2nd Edition]: https://t.co/YbJbYOiDqx v/ @PacktDataML\n \n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n\n🟠Get familiar with the features within the IBM Quantum Platform\n\n🔴Create and visualize quantum gates and circuits\n\n🟠Operate quantum gates on qubits using the IBM Quantum Composer\n\n🔴Install and run your quantum circuits on an IBM Quantum computer\n\n🟠Discover Qiskit and its many features such as the Qiskit Runtime\n\n🔴Get to grips with fundamental quantum algorithms and error mitigation techniques to help you get started\n\n🟠Understand the new era of quantum utility and how this moves us closer towards quantum advantage",
+    "createdAt": "Mon Aug 10 21:20:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY_sorXAAAaN5H.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086925517312147926",
+    "fullText": "Mathematical Foundations of Quantum Computing: A Scaffolding Approach\n\nGet it at https://t.co/2KAkN0toOK https://t.co/Bwo98xOEbQ",
+    "createdAt": "Mon Aug 10 21:19:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY_pCdWoAA2Gpq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086925454301094025",
+    "fullText": "Dancing with Qubits — From qubits to algorithms, embark on the Quantum Computing journey shaping our future: https://t.co/Zuz6bCpJ1w [2nd Edition] v/ @PacktDataML\n\nCovers Quantum Machine Learning and AI \n——————\n#ComputerScience #ComputationalScience https://t.co/zZky69wAi5",
+    "createdAt": "Mon Aug 10 21:19:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY_kwPWUAAjbK9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086925380649201865",
+    "fullText": "CFO, CEO, financial analyst, tech entrepreneur, student, job-seeker, friends &amp; family — be future-ready with this book &gt;&gt; \"Quantum Machine Learning and Optimization in Finance\" (494 pages; 2nd Edition): https://t.co/8tiYttfcwC https://t.co/Pt2vlHMbr9",
+    "createdAt": "Mon Aug 10 21:19:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY_gorW8AAannp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086925310004547614",
+    "fullText": "[New! 2nd Edition] Quantum Computing for Programmers: https://t.co/3ixYzeg2SR\n\n\"New material throughout this fully revised and expanded second edition includes new chapters on Quantum Machine Learning, State Preparation, and Similarity Tests. Coverage includes algorithms exploiting entanglement, black-box algorithms, the quantum Fourier transform, phase estimation, quantum walks, and foundational QML algorithms.\"",
+    "createdAt": "Mon Aug 10 21:19:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY_cshWcAAHTYP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086925242694275102",
+    "fullText": "Understanding Quantum Computing — A Guide to QC and Future Tech in Plain English for the Curious Professional: https://t.co/mJNBjdOog8 https://t.co/GBsDy7impe",
+    "createdAt": "Mon Aug 10 21:18:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY_AWlWMAEsSAT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086924755232239738",
+    "fullText": "The Definitive Guide to DAX — Mastering the Semantic Model Expression Language for Microsoft PowerBI, Fabric, and Excel: https://t.co/u5RNWh3iMJ [THIRD EDITION]\n—————\n#BI #Analytics #DataAnalytics #DataAnalysis #DataScience #CDO #DataAnalyst #DataScientist https://t.co/IOShLlAvtN",
+    "createdAt": "Mon Aug 10 21:16:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY-7fEWUAAWHJY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086924671451004942",
+    "fullText": "The Complete PowerBI Interview Guide — A modern approach to acing the data analyst interview and landing your dream job: https://t.co/PD4XeGPTvA v/ @PacktDataML\n————\n#DataAnalyst #DataScientist #DataScience #Analytics #BI #CDO #CMO https://t.co/PHM0Jb9b0H",
+    "createdAt": "Mon Aug 10 21:16:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY-3fvXkAAz0_c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086924603612340698",
+    "fullText": "Learn Microsoft Power BI — A comprehensive, beginner-friendly guide to real-world business intelligence [3rd Edition]: https://t.co/ZDq9gDkOzk by @GregDeckler via @PacktPublishing @PacktDataML \n\n𝗪𝗵𝗮𝘁 𝗬𝗼𝘂 𝗪𝗶𝗹𝗹 𝗟𝗲𝗮𝗿𝗻:\n🟡Understand the fundamentals of Microsoft Fabric and Copilot\n🟡Plan and manage your business intelligence projects\n🟡Connect to and transform data using Power Query\n🟡Create semantic models and DAX calculations optimized for analysis and reporting\n🟡Uncover business insights and design professional reports\n🟡Deploy and govern Power BI, with a focus on gateways and deployment pipelines",
+    "createdAt": "Mon Aug 10 21:16:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY-xo5XcAAC5We.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086924502475137306",
+    "fullText": "Updated (2nd edition) 814-page book from @PacktDataML at https://t.co/DGqmM11fiN\n\n\"Extending PowerBI with Python and R — Advanced analysis using the power of analytical languages\"\n\n#DataScience #Analytics #BI #CDO \n\n(comes with link to free PDF eBook) https://t.co/mc4ErHTCkc",
+    "createdAt": "Mon Aug 10 21:15:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY-kYaWIAAUsVp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086924274770604226",
+    "fullText": "Transform Data for Analysis &amp; Visualization with this Updated Book: “Microsoft PowerBI Cookbook” — Convert raw data into business insights — techniques, use cases, &amp; best practices: https://t.co/qVTpPilSlJ\n—\n#BI #CDO #CFO #Analytics https://t.co/9LmxtF7B64",
+    "createdAt": "Mon Aug 10 21:14:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY973TXEAA1VF9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086923578696421860",
+    "fullText": "Data Cleaning with PowerBI — The guide to transforming dirty data into actionable insights: https://t.co/o9jSM15FH5 v/ @PacktDataML \n————\n#DataAnalyst #DataScientist #DataScience #Analytics #BI #CDO #CMO #CTO #DataEngineer https://t.co/sU4vtLRwo5",
+    "createdAt": "Mon Aug 10 21:12:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY9wRDWsAA3xlr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086923379785736209",
+    "fullText": "16 Data Analytics Concepts For Data Scientists To Know in 2026\n\nSource for all this information: https://t.co/IBgXavGdKY\nby @SaiBysani18\n\n𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬:\n1 SQL Joins and Window Functions\n↳ https://t.co/taCEbcotDN\n\n2 Data Cleaning with Python (Pandas)\n↳ https://t.co/LqAL99Nw64\n\n3 Exploratory Data Analysis (EDA)\n↳ https://t.co/zSVe0S3VOG\n\n4 Statistical Significance & Hypothesis Testing\n↳ https://t.co/n5O9OOaMHE\n\n𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 & 𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠:\n5 Dashboard Design Principles\n↳ https://t.co/vFDohudpZ0\n\n6 Data Storytelling for Stakeholders\n↳ https://t.co/CTOdHeQBSJ\n\n7 Choosing the Right Chart Type\n↳ https://t.co/YnNCJCszJL\n\n𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐦𝐩𝐚𝐜𝐭:\n8 Defining KPIs and Metrics That Matter\n↳ https://t.co/1mSMrVICXl\n\n9 Cohort Analysis\n↳ https://t.co/tTNZSqC92w\n\n10 Funnel Analysis\n↳ https://t.co/RI0m1AMiKJ\n\n11 A/B Testing & Experimentation\n↳ https://t.co/RYzimFpIho\n\n𝐌𝐨𝐝𝐞𝐫𝐧 𝐓𝐨𝐨𝐥𝐬 & 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞:\n12 dbt for Data Transformation\n↳ https://t.co/Q2qKMOize7\n\n13 Cloud Data Warehouses (Snowflake, BigQuery)\n↳ https://t.co/LxTwqlRbgA\n\n14 Version Control with Git\n↳ https://t.co/LKYyLy0amd\n\n𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬:\n15 Prompt Engineering for Data Analysis\n↳ https://t.co/TZYEiRUyo4\n\n16 Using LLMs as a Thinking Partner\n↳ https://t.co/rQFu9xA2pJ",
+    "createdAt": "Mon Aug 10 21:11:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 116450,
+      "friendsCount": 51,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/googleaidevs/status/2086923278472687964",
+    "fullText": "Step 3: Communicating with the driver.\nRace car drivers can’t look at a screen mid-corner! The app uses Text-to-Speech (TTS) for instant audio feedback. The visual dashboard was built with Jetpack Compose to render spatial metrics fluidly without dropping frames under heavy loads.",
+    "createdAt": "Mon Aug 10 21:10:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY9a0kX0AArOrg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086923011349782615",
+    "fullText": "Simple Practical Data Cleaning Python Code Snippets for messy data: https://t.co/d982YmvjUb\n+\nData Cleaning Cookbook to prepare your data for analysis — PANDAS, NumPy, Matplotlib, scikit-learn, etc.: https://t.co/6AxvYTItfJ v/ @PacktDataML\n—————\n#DataScience #DataScientist https://t.co/ykI5rD9t4o",
+    "createdAt": "Mon Aug 10 21:09:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY9VBJWwAAg1IX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086922911110050098",
+    "fullText": "Data Cleaning and Exploration with Machine Learning: https://t.co/DOuMe5J5j2 \n ++\nVisit the book's GitHub code repository: https://t.co/3nZVhNGNnj https://t.co/ySmmDzjsP6",
+    "createdAt": "Mon Aug 10 21:09:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY872GWsAAVlMj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086922478429917535",
+    "fullText": "Awesome! @PacktPublishing is offering a discount on this workshop. Register with my DISCOUNT CODE 'KIRK40' to get 40% OFF.\n\n10 Essential AI Agents Every Engineer Must Build: https://t.co/r3l37vGV6e\n🌟➡️Use my CODE 'KIRK40'⬅️🌟 https://t.co/kNdjlw0UBS",
+    "createdAt": "Mon Aug 10 21:07:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY8hOCWAAAav9k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086922021506593054",
+    "fullText": "\"Adversarial AI Attacks, Mitigations, and Defense Strategies — A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps\"\n\nGet the book here: https://t.co/7lKNPTi9Kp\n\n586 pages from @PacktPublishing https://t.co/I3zLPE6sM5",
+    "createdAt": "Mon Aug 10 21:05:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487813,
+      "friendsCount": 3377,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY8RpWX0AICMHv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2086921815432089605",
+    "fullText": "✨Build With AI — Resources and Events for the AI-Native Full-Stack Developer — hosted by @PacktPublishing \n\n🚀Start your learning journey here: https://t.co/Lh0GmkcbDb\n\n➡️Register with discount code 'AIPOWERED40' to get 40% OFF on your access pass.\n\n🌐Next Event: Hands-On Codex Workshop",
+    "createdAt": "Mon Aug 10 21:05:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 284547,
+      "friendsCount": 334,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2086921171568668672/vid/avc1/1920x1080/2NCfRHa0WlOEiGtO.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2086921725044817922",
+    "fullText": "P-Image-Ideogram is now on Runway.\n\nGo from prompt to image in as little as 0.6 seconds, with four quality modes to balance speed and detail however you need.\n\nGet started now at the link below. https://t.co/fIKSc9Aq4Q",
+    "createdAt": "Mon Aug 10 21:04:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 477967,
+      "friendsCount": 1564,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY5PS5XwAAdG4f.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2086918655737020664",
+    "fullText": "The cool thing about investing in startups is that some teams will build and iterate and flail for two years before they finally figure something out https://t.co/eRbRZSoUWS",
+    "createdAt": "Mon Aug 10 20:52:35 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 235988,
+      "followersCount": 235995,
       "friendsCount": 7103,
       "location": ""
     },
@@ -21,7 +623,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
-      "followersCount": 198233,
+      "followersCount": 198227,
       "friendsCount": 562,
       "location": "tinkertown"
     },
@@ -37,7 +639,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 477961,
+      "followersCount": 477967,
       "friendsCount": 1564,
       "location": "Austin, TX"
     },
@@ -53,7 +655,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 477961,
+      "followersCount": 477967,
       "friendsCount": 1564,
       "location": "Austin, TX"
     },
@@ -69,7 +671,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 410108,
+      "followersCount": 410123,
       "friendsCount": 879,
       "location": ""
     },
@@ -85,7 +687,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 516650,
+      "followersCount": 516665,
       "friendsCount": 3139,
       "location": ""
     },
@@ -631,7 +1233,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4656982,
+      "followersCount": 4657494,
       "friendsCount": 800,
       "location": ""
     },
