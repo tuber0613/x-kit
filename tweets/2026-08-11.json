@@ -1,11 +1,156 @@
 [
   {
     "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
+      "followersCount": 198252,
+      "friendsCount": 562,
+      "location": "tinkertown"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPcxHgZWcAANKe0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2087190962049016259",
+    "fullText": "obligatory “this app is free” tweet https://t.co/ECmWf6AuLz",
+    "createdAt": "Tue Aug 11 14:54:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 90243,
+      "friendsCount": 5404,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPcsO8WXsAAKuKL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2087185719689130481",
+    "fullText": "NVIDIA released Nemotron3.5 Lightning 🔥\n> A3B/30B with 1M context\n> best in class across many benchmarks, built for post-training \n> same arch as Nemotron 3 (Hybrid MoE) supported in transformers 🤗\n> comes with DSpark & DFlash for faster inference and NVFP4 ckpt 💨 https://t.co/5YASxpJUrR",
+    "createdAt": "Tue Aug 11 14:33:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 313736,
+      "friendsCount": 961,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPcqko1bIAAsPH6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2087183764057460972",
+    "fullText": "Qodo just launched the AI Code Review Academy.\n\nIt’s a free set of chapters from @QodoAI on code review in the era of AI-generated code.\n\nNo sign-up required.\n\nI went through the benchmarks and tool comparison chapter. I would recommend it to anyone evaluating review tools right now.\n\nIt gives you a way to judge whether a benchmark means anything before you act on it.\n\n- The dataset has to be real production PRs.\n- Every tool has to run at default settings; otherwise you are measuring tuning effort.\n- The methodology has to be open enough to rerun yourself.\n- And precision and recall have to be reported together, so you know how much a tool catches and how much of what it flags is real.\n\nThe number that stuck with me came from a 2025 study cited in the chapter. Same model, two evaluations. It scored 84-89% on an isolated benchmark and 25-34% inside a real codebase with dependencies and conventions.\n\nThe chapter's best advice is to run every tool you are considering against the same 10-20 pull requests from your own codebase.\n\nAcademy: https://t.co/s1wipsItkS\n\nThanks, Qodo, for partnering on this post.",
+    "createdAt": "Tue Aug 11 14:26:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
+      "followersCount": 492033,
+      "friendsCount": 1174,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPcnxJYWUAEseIm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rasbt/status/2087180773497421926",
+    "fullText": "Whoa, Meta released a new open-weight LLM yesterday, something that hasn't happened since the good old Llama days.\n\nTheir Meta Muse Glimmer model is a 30B multimodal reasoning model with a Gemma-like architecture design. (“Glimmer” is probably a wordplay on “Spark,” the more likely capable model from which Glimmer was distilled. Muse Spark is only available through Meta’s Model API, though.)\n\nArchitecture-wise, here are some of the main points:\n\n1. \"Only\" a 131k context window, compared to Qwen3.6 and Gemma 4, which support 2x that natively; it's reasonable, but maybe on the shorter end in the age of agent harnesses\n\n2. It's a dense model, not a mixture-of-experts. (So, it's fairer to compare it to Qwen3.6 27B than Qwen3.6 30B-A3B.)\n\n3. Hybrid attention with grouped-query attention (GQA) and sliding window attention (SWA); the SWA:GQA pattern is a 3:1 local:global ratio. Other models like Gemma 4, which uses similar components, have a 5:1 ratio for comparison.\n\n4. It adopts gated attention for both GQA and SWA; gated attention has become quite common in recent months. It basically applies a sigmoid gate to the attention output to decide how much of the attention information enters the residual connection. The interesting point is that it uses relatively standard GQA and SWA rather than hybrid attention mechanisms such as Nemotron or Qwen3.6.\n\n5. A very extreme GQA ratio: 32 query heads and only 2 KV heads; for comparison, Gemma 4 31B uses 32 Q / 16 KV in the local heads and 32 Q / 4 KV in the global heads. This means that Meta Glimmer has a very small KV cache.\n\nOverall, the probably most similar architecture is Gemma 3 27B (including the Gemma-style pre/post RMSNorm placement) and Gemma 4 31B, but with some tweaks like SwiGLU instead of GeGLU activations, gated attention, and the more extreme GQA:SWA pattern mentioned before.\n\nWhat stands out is its extreme KV-cache efficiency. \nI.e., the KV CACHE / TOKEN ratios (in BF16) are:\n\n- Muse Glimmer: 52 KiB (lower is better)\n- Qwen3.6 27B: 64 KiB\n- Gemma 4 31B: 840 KiB\n\nModeling-performance-wise, their own benchmarks show that it's mostly ahead of Qwen3.6. According to the independent composite benchmarks on the Artificial Analysis Intelligence Index, it's slightly behind Qwen3.6 (see figure below). So, a few days of using it will tell where it really ranks.\n\nOverall, it looks like a solid model, particularly for agentic workflows. What stands out most is its very low memory footprint and also pretty fast prefill and decode speed. It’s also just great to see Meta releasing open weights again :).",
+    "createdAt": "Tue Aug 11 14:14:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 454546,
+      "friendsCount": 585,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2086669416625008641/vid/avc1/1320x1528/S7kxpoYIzyP70fCr.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2087178668367876316",
+    "fullText": "Me trying to stop Codex from changing my entire codebase when I only asked to fix the background color.\n https://t.co/hQFlXTDNpQ",
+    "createdAt": "Tue Aug 11 14:05:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 236067,
+      "friendsCount": 7104,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPclznkakAAKQBR.jpg",
+      "https://pbs.twimg.com/media/HPclznnbEAE9LPT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2087178523412926975",
+    "fullText": "My May 2025 prediction about US politics and the current state of affairs, per a new poll: https://t.co/NckTmpPUPM",
+    "createdAt": "Tue Aug 11 14:05:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 71058,
+      "friendsCount": 36410,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2087178233863188480/vid/avc1/720x1280/Brva7gMjIyJL9A3k.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2087178265702109416",
+    "fullText": "in gene editing, we hear about fine-scale edits akin to genetic scalpels, and large-scale insertions of kilobase payloads. \n\nthe latter, exemplified by @profluentbio's Lilly deal, focuses on significant genetic payload integration. https://t.co/B8AvYo6b4X",
+    "createdAt": "Tue Aug 11 14:04:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 94924,
+      "friendsCount": 1102,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPclUv6XkAE5iPb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2087178012009619604",
+    "fullText": "We’re excited to announce that @ElectricSQL, the maker of PGlite, is joining Databricks to bring WASM Postgres to AI agent sandboxes.\n\nTogether, we’re excited to extend Databricks' Postgres capabilities from the lakehouse to the edge. \n\nElectric is leading the way in pioneering backend technology purpose-built for agents. With PGlite, every agent gets its own WASM Postgres build right inside the sandbox where it runs, providing ultra low latency access to local context. And Electric’s real-time sync engine synchronizes distributed state back to a central Lakebase, enabling teams of agents to collaborate without losing track of shared context. \n\nPlease join us in welcoming the Electric team! https://t.co/U1pMDP5UF8",
+    "createdAt": "Tue Aug 11 14:03:10 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 410228,
+      "followersCount": 410243,
       "friendsCount": 879,
       "location": ""
     },
@@ -21,7 +166,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 236057,
+      "followersCount": 236067,
       "friendsCount": 7104,
       "location": ""
     },
@@ -39,7 +184,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 61447,
+      "followersCount": 61448,
       "friendsCount": 367,
       "location": "San Francisco, CA"
     },
@@ -57,7 +202,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261169,
+      "followersCount": 261174,
       "friendsCount": 183,
       "location": ""
     },
@@ -75,7 +220,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 327528,
+      "followersCount": 327842,
       "friendsCount": 895,
       "location": "Santa Clara, CA"
     },
@@ -93,7 +238,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149530,
+      "followersCount": 149529,
       "friendsCount": 5434,
       "location": "Montréal · Québec"
     },
@@ -127,7 +272,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 454545,
+      "followersCount": 454546,
       "friendsCount": 585,
       "location": "🇺🇸 Collaborations →"
     },
@@ -143,8 +288,8 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 90228,
-      "friendsCount": 5405,
+      "followersCount": 90243,
+      "friendsCount": 5404,
       "location": "Paris"
     },
     "images": [],
@@ -161,7 +306,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 478024,
+      "followersCount": 478035,
       "friendsCount": 1564,
       "location": "Austin, TX"
     },
@@ -177,7 +322,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149530,
+      "followersCount": 149529,
       "friendsCount": 5434,
       "location": "Montréal · Québec"
     },
@@ -209,7 +354,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36662,
+      "followersCount": 36663,
       "friendsCount": 1833,
       "location": ""
     },
@@ -227,7 +372,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 166856,
+      "followersCount": 166921,
       "friendsCount": 1285,
       "location": ""
     },
@@ -263,7 +408,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487889,
+      "followersCount": 487914,
       "friendsCount": 3377,
       "location": "Maryland, USA"
     },
@@ -281,7 +426,7 @@
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 210639,
+      "followersCount": 210636,
       "friendsCount": 595,
       "location": "Venice, CA"
     },
@@ -297,7 +442,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487889,
+      "followersCount": 487914,
       "friendsCount": 3377,
       "location": "Maryland, USA"
     },
@@ -315,7 +460,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487889,
+      "followersCount": 487914,
       "friendsCount": 3377,
       "location": "Maryland, USA"
     },
@@ -333,7 +478,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 239548,
+      "followersCount": 239651,
       "friendsCount": 1703,
       "location": "Chicago, IL"
     },
@@ -399,7 +544,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4669986,
+      "followersCount": 4670185,
       "friendsCount": 800,
       "location": ""
     },
@@ -415,8 +560,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 445748,
-      "friendsCount": 13300,
+      "followersCount": 445819,
+      "friendsCount": 13297,
       "location": "San Francisco, CA"
     },
     "images": [],
