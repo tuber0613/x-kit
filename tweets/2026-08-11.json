@@ -1,11 +1,191 @@
 [
   {
     "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 548293,
+      "friendsCount": 53,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2087268836424982954",
+    "fullText": "Last chance! Reminder that you can create up to 10 videos with Gemini Omni at no cost through 11:59pm PT tonight (8/11). \n\nSome inspiration from the community to get you started 👇",
+    "createdAt": "Tue Aug 11 20:04:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129447,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPdz0GIbEAAtWdm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2087264294782279808",
+    "fullText": "Impressive new paper from Microsoft.\n\n(bookmark it)\n\nReasoning modes beat non-reasoning modes on multi-step agentic tasks, and they charge a 3 to 6x premium in output tokens on every single episode. Much of that spend goes into re-deriving procedures the model already worked out on earlier episodes in the same domain.\n\nThis work amortizes that cost.\n\nA coding agent reads a small corpus of existing trajectories from a training split, compiles a compact natural-language skill, and injects it into the non-reasoning model's system prompt.\n\nAcross ALFWorld, tau-squared-bench telecom and retail, and SpreadsheetBench-Verified, skills recover 55% to over 100% of the reasoning gap for GPT-5.4-mini on held-out tasks. On two of the four benchmarks the skill-equipped non-reasoning model beats reasoning mode outright, while emitting 2.7 to 6x fewer output tokens and zero reasoning tokens.\n\nReasoning traces turn out to be optional. Skills distilled from non-reasoning trajectories alone stay competitive with skills distilled from paired corpora.\n\nPaper: https://t.co/LwBBH5e7qw\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Tue Aug 11 19:46:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffDean",
+      "name": "Jeff Dean",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_normal.jpg",
+      "description": "Co-founder & CEO of Discovery Loop. Former Chief Scientist, Google. Helped build many Google products, TPUs, Gemini, TensorFlow, MapReduce, Bigtable, ...",
+      "followersCount": 514666,
+      "friendsCount": 6434,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPdzR7UaMAAKkk9.jpg",
+      "https://pbs.twimg.com/media/HPdzZdBa0AA2wk3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffDean/status/2087263925578662325",
+    "fullText": "And the final couple https://t.co/fIvf1BfXt0",
+    "createdAt": "Tue Aug 11 19:44:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffDean",
+      "name": "Jeff Dean",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_normal.jpg",
+      "description": "Co-founder & CEO of Discovery Loop. Former Chief Scientist, Google. Helped build many Google products, TPUs, Gemini, TensorFlow, MapReduce, Bigtable, ...",
+      "followersCount": 514666,
+      "friendsCount": 6434,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPdypHVa8AA7W2q.jpg",
+      "https://pbs.twimg.com/media/HPdy2u2bUAAX5h8.jpg",
+      "https://pbs.twimg.com/media/HPdy7tKbUAA_J0_.jpg",
+      "https://pbs.twimg.com/media/HPdzCQrbQAA__Eg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffDean/status/2087263532253634570",
+    "fullText": "This slide was a build of a bunch of pieces, with some more pictures and context in the intermediate parts https://t.co/oilsgiDSm1",
+    "createdAt": "Tue Aug 11 19:43:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487959,
+      "friendsCount": 3376,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPdvT8gW4AAYjw3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2087259974669828143",
+    "fullText": "Linear Algebra Done Right (Undergraduate Text in Mathematics) [4th edition. Open Access]\n\nDownload 404-page PDF here: https://t.co/CyFjp4JlU6 https://t.co/2H1mwD57ls",
+    "createdAt": "Tue Aug 11 19:28:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487959,
+      "friendsCount": 3376,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPdueQUWsAAsIhr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2087258458072527229",
+    "fullText": "Introduction to Graph Theory: https://t.co/doAI3c6XgT (454-page PDF) — edges, vertices, trees, networks, paths, and graphs (and theorems!)\n—————\n#Mathematics #NetworkScience https://t.co/yM7WGeeVFN",
+    "createdAt": "Tue Aug 11 19:22:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487959,
+      "friendsCount": 3376,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPdtzvxXUAEevsc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2087257730968945039",
+    "fullText": "[Free 737-page PDF download] Mathematical Introduction to Deep Learning — Methods, Implementations, and Theory: https://t.co/8gtw5Xgon0\n————\n#AI #Mathematics #DataScience #Algorithms #MachineLearning #ML #DataScientist https://t.co/oS258eGU4t",
+    "createdAt": "Tue Aug 11 19:19:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 487959,
+      "friendsCount": 3376,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPds01vXAAAotp1.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2087256632392597580",
+    "fullText": "Download 698-page PDF eBook…\n\n“Everything You Always Wanted To Know About Mathematics* (*But didn’t even know to ask)”\n\nA Guided Journey Into the World of Abstract Mathematics, Theorems, and the Writing of Proofs: https://t.co/gJ31Zw5Ba0 https://t.co/ulZA3MUnMC",
+    "createdAt": "Tue Aug 11 19:15:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
+      "followersCount": 198280,
+      "friendsCount": 562,
+      "location": "tinkertown"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPdsPsOXwAAE89d.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2087255975367430561",
+    "fullText": "grok bot telling me to be naughty https://t.co/QksU8DQMYu",
+    "createdAt": "Tue Aug 11 19:12:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 478093,
+      "friendsCount": 1564,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2087255350823043322",
+    "fullText": "Honestly pisses me off that AI is so good at everything else but so bad at using a browser, which is one of the most important things I want it to do",
+    "createdAt": "Tue Aug 11 19:10:29 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 410294,
+      "followersCount": 410290,
       "friendsCount": 879,
       "location": ""
     },
@@ -21,7 +201,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261189,
+      "followersCount": 261185,
       "friendsCount": 183,
       "location": ""
     },
@@ -39,7 +219,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 61455,
+      "followersCount": 61456,
       "friendsCount": 367,
       "location": "San Francisco, CA"
     },
@@ -57,7 +237,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
-      "followersCount": 284561,
+      "followersCount": 284558,
       "friendsCount": 334,
       "location": "New York, USA"
     },
@@ -75,7 +255,7 @@
       "name": "Sapna Maheshwari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/766436031004602368/-snSkBUg_normal.jpg",
       "description": "whatsupna? @nytimes business reporter. pun lover, Tar Heel, from CT. tips to sapna@nytimes.com, DM for Signal, WhatsApp.",
-      "followersCount": 39445,
+      "followersCount": 39443,
       "friendsCount": 1352,
       "location": "Manhattan, NY"
     },
@@ -91,8 +271,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 300523,
-      "friendsCount": 8404,
+      "followersCount": 300548,
+      "friendsCount": 8405,
       "location": "United States"
     },
     "images": [
@@ -109,7 +289,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487958,
+      "followersCount": 487959,
       "friendsCount": 3376,
       "location": "Maryland, USA"
     },
@@ -127,7 +307,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 94980,
+      "followersCount": 94987,
       "friendsCount": 1105,
       "location": "HQ: San Francisco, CA"
     },
@@ -145,7 +325,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1046283,
+      "followersCount": 1046337,
       "friendsCount": 64,
       "location": "The Cloud"
     },
@@ -163,7 +343,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4673579,
+      "followersCount": 4674513,
       "friendsCount": 800,
       "location": ""
     },
@@ -179,7 +359,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 391237,
+      "followersCount": 391285,
       "friendsCount": 1,
       "location": ""
     },
@@ -197,8 +377,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 300523,
-      "friendsCount": 8404,
+      "followersCount": 300548,
+      "friendsCount": 8405,
       "location": "United States"
     },
     "images": [],
@@ -213,7 +393,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487958,
+      "followersCount": 487959,
       "friendsCount": 3376,
       "location": "Maryland, USA"
     },
@@ -231,7 +411,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487958,
+      "followersCount": 487959,
       "friendsCount": 3376,
       "location": "Maryland, USA"
     },
@@ -249,7 +429,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149528,
+      "followersCount": 149525,
       "friendsCount": 5432,
       "location": "Montréal · Québec"
     },
@@ -267,7 +447,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487958,
+      "followersCount": 487959,
       "friendsCount": 3376,
       "location": "Maryland, USA"
     },
@@ -285,7 +465,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487958,
+      "followersCount": 487959,
       "friendsCount": 3376,
       "location": "Maryland, USA"
     },
@@ -303,7 +483,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 487958,
+      "followersCount": 487959,
       "friendsCount": 3376,
       "location": "Maryland, USA"
     },
@@ -371,7 +551,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 5099958,
+      "followersCount": 5099989,
       "friendsCount": 4,
       "location": ""
     },
@@ -802,7 +982,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 90268,
+      "followersCount": 90262,
       "friendsCount": 5404,
       "location": "Paris"
     },
@@ -999,8 +1179,8 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 328338,
-      "friendsCount": 895,
+      "followersCount": 328587,
+      "friendsCount": 896,
       "location": "Santa Clara, CA"
     },
     "images": [
