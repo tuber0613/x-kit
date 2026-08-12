@@ -1,11 +1,327 @@
 [
   {
     "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 313798,
+      "friendsCount": 961,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPiOQTuaUAAVM07.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2087574841893474556",
+    "fullText": "Very interesting new work from Anthropic.\n\n(bookmark it)\n\nThey evolve mind viruses, ideas that spread through a multi-agent system by getting each host to pass them on, then measure what governs the spread.\n\nHow it works:\n\nA small team of agents on a shared coding project, and a chain of agents whose context is wiped between sessions. Propagation survives the wipe, so the shared work product carries the payload.\n\nSpread depends on host model, existing instructions, payload harmfulness, and network topology.\n\nHarmful payloads travel less well but still land sometimes. A brief warning in the system prompt gives near-total immunity.\n\nPaper: https://t.co/dxAoJs0TZn\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Wed Aug 12 16:20:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "natolambert",
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 97780,
+      "followersCount": 97797,
+      "friendsCount": 934,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2087570340356686132",
+    "fullText": "The vibes shifting from \"Anthropic is so far ahead\" to \"model competition back to all time highs\" took like 4 weeks. 🎢",
+    "createdAt": "Wed Aug 12 16:02:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 935698,
+      "friendsCount": 494,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2087569793217945600/vid/avc1/1600x1600/4q6mOowAeWjxAcwr.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2087570047967408396",
+    "fullText": "Our first reasoning model, MAI-Thinking-1, is built from scratch. Now available in Microsoft Foundry. Kudos to the team! More below. https://t.co/7NWith33MS",
+    "createdAt": "Wed Aug 12 16:00:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 348087,
+      "friendsCount": 20442,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPiJwV9W4AEogiE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2087569893382099280",
+    "fullText": "IBM introduced its first PC #otd in 1981. With a 4.77 MHz Intel 8088 microprocessor, the $1600 \"Model 5150\" soon became the best-selling computer in the world: https://t.co/rCzWSRsRNL https://t.co/cksqv94kat",
+    "createdAt": "Wed Aug 12 16:00:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 410374,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPiJbU7aAAAJqTv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2087569534110806519",
+    "fullText": "Hanging out with Fei Fei Li. Excited she’s go in to be joining us at the March abundance Summit in LA. https://t.co/86mJAGEd8F https://t.co/TQfSiF1Ol5",
+    "createdAt": "Wed Aug 12 15:58:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 549183,
+      "friendsCount": 53,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2087567329567904048",
+    "fullText": "You can now connect to even more apps in Gemini to get more done.\n\nBy linking your favorite services to Gemini in your settings, you can easily plan, create, and tackle your to-do list all in one place. \n\nHere are 14 new apps to use with Gemini. 🧵",
+    "createdAt": "Wed Aug 12 15:50:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 240684,
+      "friendsCount": 1703,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPiGBkAXIAAmhTb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2087565843248906666",
+    "fullText": "deepseek-v4-pro\nhttps://t.co/IjkVmGeWvo https://t.co/YhfvnA8N6A",
+    "createdAt": "Wed Aug 12 15:44:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107897,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2087563761099907077",
+    "fullText": "Stanford HAI and @HooverInst's Technology Policy Accelerator are backing three research projects examining AI's impact on global security and geopolitics. Meet the teams researching AI’s role in nuclear proliferation monitoring, US and Chinese public opinion, and political influence: https://t.co/RZLifq935k",
+    "createdAt": "Wed Aug 12 15:36:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 343736,
+      "friendsCount": 114,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2087562250349359104/pu/vid/avc1/1280x720/sSZ-1zjD5FrQxwIT.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2087562287431229731",
+    "fullText": "Your AI coding agent comes with defaults: which model runs, what you pay, and what leaves your machine. You can turn those defaults into choices.\n\nIn our new short course, AI Coding Workflows: From Cloud to Local, built in partnership with @JetBrains and taught by @paulweveritt, Developer Advocate at JetBrains, you'll rebuild the same app across cloud, hybrid, and fully local setups.\n\nAlong the way, you'll split work across subagents, put cheaper models on the routine tasks, and finish with models running on your own machine.\n\nEnroll for free: https://t.co/C2X4AEYA3y",
+    "createdAt": "Wed Aug 12 15:30:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 579189,
+      "friendsCount": 4899,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPiCkWlbwAA822M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2087562019788697818",
+    "fullText": "Let's go!\n\nhttps://t.co/BAJlYIJqDQ https://t.co/FYTH5MrTBG",
+    "createdAt": "Wed Aug 12 15:29:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 410374,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2087559675113820160/vid/avc1/1920x1080/Unhzme_EPoY1uxWO.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2087559918026928195",
+    "fullText": "Four frontier AI labs confirmed breaches in containment within one month. OpenAI's agents faked human identities and socially engineered their way past reviewers. A Chinese open-weight model broke out of a sandbox. Meta's model hacked another company during cybersecurity testing. Every frontier lab, in every country, is experiencing the same thing. Models are escaping. \n\n-- Bots crossed 57.4% of all web traffic — first time in history. Human traffic to business sites down 40% in one year.\n\n-- China simulated 1 billion agents with beliefs, personalities, and political behaviors. \n\n-- Meta dropped a 30B parameter agentic model that runs on your Mac. \n\n-- Sergey Brin is back running Gemini hands-on. Google is skipping to Gemini 4.",
+    "createdAt": "Wed Aug 12 15:20:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 261296,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2087557674908925952/vid/avc1/1692x1080/P0XUtI-T__o2Ra21.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2087557830408626639",
+    "fullText": "📊We’ve rebuilt Dashboards in LangSmith to make them more useful for investigation and reporting. \n\nPut KPIs next to trends, compare metrics with different units, break traces down by model or user, add notes, and arrange the dashboard freely. \n\nhttps://t.co/A876TfbLUZ https://t.co/dVCQ8coVYw",
+    "createdAt": "Wed Aug 12 15:12:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 95151,
+      "friendsCount": 1105,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPh-snEWYAAPoqN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2087557753065595114",
+    "fullText": "As AI usage grows, the harder question is not how many tokens teams consume. It is whether that spend is delivering value.\n\nJoin Databricks Co-Founder and CTO @matei_zaharia and Product Director @kuhlenhuth to see how Unity AI Gateway gives IT decision-makers visibility, guardrails, and spend control across every model, agent, harness, and workflow.\n\nYou’ll also learn how the Omnigent meta-harness helps builders safely combine and share the coding agents and SDKs they already use while leaders maintain control over governance, cost, and quality.\n\nRegister to join us tomorrow: https://t.co/VVk8yxxpw8",
+    "createdAt": "Wed Aug 12 15:12:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 410374,
+      "friendsCount": 879,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2087557699374326178",
+    "fullText": "https://t.co/i4a9BSQ8Q6",
+    "createdAt": "Wed Aug 12 15:11:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 488194,
+      "friendsCount": 3342,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPh-nOMWQAA3-b9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2087557642742837621",
+    "fullText": "2nd Edition, by @keithbourne v/ @PacktDataML\n\n\"Unlocking Data with Generative AI and RAG — Learn AI Agent Fundamentals with RAG-powered Memory, Graph-based RAG, and Intelligent Recall\"\n\nGet the book here: https://t.co/rlGjMsw2wX https://t.co/7cEaVWcPuS",
+    "createdAt": "Wed Aug 12 15:11:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 488194,
+      "friendsCount": 3342,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPh-agxXMAEA8v5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2087557424483909814",
+    "fullText": "The 2nd Edition of this book has arrived, with Agentic AI updates: \"Generative AI with LangChain — Build Production-ready LLM Applications and Advanced Agents using Python and LangGraph\" at https://t.co/w9ytSBypl0 v/ @PacktDataML\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🟠Design and implement multi-agent systems using LangGraph\n🟠Implement testing strategies that identify issues before deployment\n🟠Deploy observability and monitoring solutions for production environments\n🟠Build agentic RAG systems with re-ranking capabilities\n🟠Architect scalable, production-ready AI agents using LangGraph and MCP\n🟠Work with the latest LLMs and providers like Google Gemini, Anthropic, Mistral, DeepSeek, and OpenAI's o3-mini\n🟠Design secure, compliant AI systems aligned with modern ethical practices",
+    "createdAt": "Wed Aug 12 15:10:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 488194,
+      "friendsCount": 3342,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPh-SLkW4AAaZAA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2087557281604894884",
+    "fullText": "Generative AI on Google Cloud with LangChain — Design scalable Generative AI solutions with Python, LangChain, and Vertex AI on Google Cloud: https://t.co/AUNKss6smZ v/ @PacktDataML\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🔴Turn challenges into opportunities by learning advanced techniques for text generation, summarization, and question answering using LangChain and Google Cloud tools\n\n🔵Solve real-world business problems with hands-on examples of GenAI applications on Google Cloud\n\n🟡Learn repeatable design patterns for Gen AI on Google Cloud with a focus on architecture and AI ethics\n\n🔴Build and implement GenAI agents and workflows, such as RAG and NL2SQL, using LangChain and Vertex AI\n\n🔵Purchase of the print or Kindle book includes a free PDF eBook",
+    "createdAt": "Wed Aug 12 15:10:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 488194,
+      "friendsCount": 3342,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPh-K2iW8AAXnYq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2087557155545039323",
+    "fullText": "\"Context Engineering for Multi-Agent Systems: Move beyond prompting to build a Context Engine, a transparent architecture of context and reasoning\" — at https://t.co/r81mcAePuF v/ @PacktDataML\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🔵Develop memory models to retain short-term and cross-session context\n🟣Craft semantic blueprints and drive multi-agent orchestration with MCP\n🟠Implement high-fidelity RAG pipelines with verifiable citations\n🟡Apply safeguards against prompt injection and data poisoning\n🔵Enforce moderation and policy-driven control in AI workflows\n🟣Repurpose the Context Engine across legal, marketing, and beyond\n🟠Deploy a scalable, observable Context Engine in production",
+    "createdAt": "Wed Aug 12 15:09:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 97797,
       "friendsCount": 934,
       "location": "Seattle"
     },
@@ -21,7 +337,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 134585,
+      "followersCount": 134586,
       "friendsCount": 540,
       "location": ""
     },
@@ -39,7 +355,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
-      "followersCount": 284587,
+      "followersCount": 284592,
       "friendsCount": 334,
       "location": "New York, USA"
     },
@@ -57,7 +373,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 71093,
+      "followersCount": 71094,
       "friendsCount": 36421,
       "location": "latent space"
     },
@@ -73,7 +389,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 300730,
+      "followersCount": 300754,
       "friendsCount": 8409,
       "location": "United States"
     },
@@ -89,7 +405,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 97780,
+      "followersCount": 97797,
       "friendsCount": 934,
       "location": "Seattle"
     },
@@ -107,8 +423,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -125,8 +441,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -143,8 +459,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -161,7 +477,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 410368,
+      "followersCount": 410374,
       "friendsCount": 879,
       "location": ""
     },
@@ -177,7 +493,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1034442,
+      "followersCount": 1034706,
       "friendsCount": 5920,
       "location": "San Francisco, CA"
     },
@@ -195,8 +511,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -213,8 +529,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -231,8 +547,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -249,8 +565,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -269,8 +585,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -287,8 +603,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -305,8 +621,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488182,
-      "friendsCount": 3352,
+      "followersCount": 488194,
+      "friendsCount": 3342,
       "location": "Maryland, USA"
     },
     "images": [
@@ -646,7 +962,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 715419,
+      "followersCount": 715452,
       "friendsCount": 827,
       "location": "United States"
     },
