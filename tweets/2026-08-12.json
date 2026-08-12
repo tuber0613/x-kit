@@ -1,6 +1,60 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36676,
+      "friendsCount": 1840,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2087467165922541568/vid/avc1/1916x1080/KdKf-VSAwmZzGAwf.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2087469053824692650",
+    "fullText": "识别PDF类型并提取出干净的Markdown：pdf-inspector，200个PDF 0.47秒\n\n它把PDF分类和文本提取分开了，先判断PDF的类型，文本型、扫描件、图片型还是混合型，然后精确到具体哪几页需要OCR，按需OCR\n\n文本型的直接本地提取Markdown，扫描件才路由到OCR\n\n提取带位置感知+自动多栏布局；表格能处理财务报表、跨页连续表格、脚注表等\n\n#PDF转markdown #PDF解析工具",
+    "createdAt": "Wed Aug 12 09:19:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36676,
+      "friendsCount": 1840,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2087455564809080832/vid/avc1/2160x2160/A-xecyaKpHDGBY8M.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2087458801171710425",
+    "fullText": "500个DOCX 1.7秒搞定的一款文档解析工具：anydoc，一个文件低于5毫秒的Markdown转换，快得离谱\n\n统一文档模型，所有格式经过同一个文档模型，再用同一个Markdown序列器输出，所以不管输入是什么格式，表格转义、标题锚点、脚注等行为完全一致\n\n基于内容识别格式，不依赖后缀，所以文件后缀错了也能正确转换\n\n支持Word、PPT、Excel、PDF、RTF、EPUB、CSV等14 种格式\n\n#文档转Markdown  #anydoc",
+    "createdAt": "Wed Aug 12 08:38:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 167564,
+      "friendsCount": 1286,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPgjXQvbsAAxijR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2087457636128333947",
+    "fullText": "小红书发布了他们的 Read Skills Top 100 排行榜，这个有专门的页面，而且会自动更新。\n\n结果发现，藏师傅居然有两个 Skills 在前十的位置，其中一个居然排在第二！\n\n他们这个也挺有意思的，排名第一的居然是一个占星应用。 https://t.co/Tpja0SwuGu",
+    "createdAt": "Wed Aug 12 08:34:18 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
@@ -165,7 +219,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 90264,
+      "followersCount": 90259,
       "friendsCount": 5404,
       "location": "Paris"
     },
@@ -362,7 +416,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4683471,
+      "followersCount": 4684867,
       "friendsCount": 800,
       "location": ""
     },
@@ -378,7 +432,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241261969,
+      "followersCount": 241263331,
       "friendsCount": 1387,
       "location": ""
     },
@@ -466,7 +520,7 @@
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, ONEAI OECD, co-chair @indexingai, writer @ https://t.co/3vmtHYkIJ2 Past: @openai, @business @theregister. Neural nets, distributed systems, weird futures",
-      "followersCount": 138501,
+      "followersCount": 138505,
       "friendsCount": 4617,
       "location": "San Francisco, CA"
     },
@@ -500,7 +554,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 300668,
+      "followersCount": 300674,
       "friendsCount": 8405,
       "location": "United States"
     },
@@ -516,8 +570,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "fellow creators the creator seeks",
-      "followersCount": 446889,
-      "friendsCount": 13306,
+      "followersCount": 446962,
+      "friendsCount": 13307,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -532,7 +586,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 167546,
+      "followersCount": 167564,
       "friendsCount": 1286,
       "location": ""
     },
@@ -550,8 +604,8 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149517,
-      "friendsCount": 5432,
+      "followersCount": 149518,
+      "friendsCount": 5433,
       "location": "Montréal · Québec"
     },
     "images": [
@@ -568,7 +622,7 @@
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
-      "followersCount": 5699,
+      "followersCount": 5701,
       "friendsCount": 1200,
       "location": "Beijing"
     },
