@@ -1,11 +1,221 @@
 [
   {
     "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 214847,
+      "friendsCount": 218,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPixA9ab0AA35AI.jpg",
+      "https://pbs.twimg.com/media/HPixA9aaoAEMl3L.jpg",
+      "https://pbs.twimg.com/media/HPixA9YbgAEljL6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2087614570043215937",
+    "fullText": "We analyzed tens of thousands of real-world, high-reasoning Claude Opus and Fable outputs from versions 4.5 to 5 in the Text Arena and found that @claudeai's  writing has changed in more ways than one:\n\nAcross language complexity, patterns and markers, we now see:\n\nClaude’s answers have become much longer:\n- Opus 5 averages 510 words per response\n- This makes Opus 5 responses 3x longer than Opus 4.5’s average of 158\n\nResponses have also become more structurally elaborate from Opus 4.5 to Opus 5:\n- 58% rise in average sentence length\n- 46% rise in clause frequency rises\n\nHowever, the vocabulary itself is not becoming more difficult, making Opus 5 longer and more structurally complex, but lexically simpler between 4.5 and 5:\n- 6.8% pt drop in long content words (46.9% to 40.1%)\n- 53% drop in abstract nouns (6.02 → 3.79 per 1k words)\n\nWriting habits people notice are much more common in Opus 5: \n- 2.3x as many em dashes\n- ~2x as many phrases like “load-bearing”\n- 50% more honesty wording like “honestly” and “frankly”\n\nFable 5 is 38% more concise than Opus 5, averaging 316 words vs. 510. At the same time, it is nearly 2x as likely to include praise/validation or open with phrases like “yes, exactly”",
+    "createdAt": "Wed Aug 12 18:57:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 95156,
+      "friendsCount": 1105,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPiwlvAW8AI7Xln.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2087612610329952630",
+    "fullText": "Classifying text against taxonomies with 100,000+ labels creates a hard tradeoff between accuracy, cost, and maintainability.\n\nWe tested three approaches across vendor normalization, company deduplication, and biomedical entity linking:\n• Vector search\n• Vector search followed by AI Classify\n• Direct frontier model calls with prompt caching\n\nThe AI Classify workflow delivered five points higher average accuracy than the next-best direct frontier model at roughly one-hundredth of the per-document cost.\n\nThe pattern is simple: retrieve the most relevant labels first, then classify.\n\nExplore the benchmark and workflow: https://t.co/fUz5oOXwiC",
+    "createdAt": "Wed Aug 12 18:50:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 71096,
+      "friendsCount": 36419,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPiszgnX0AE1Ji5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2087608582619459663",
+    "fullText": "using @jackandjillai is like linkedin but:\n\na) you only see ppl who are actually open for roles\nb) you get first party info on what they're looking for\nc) agents do the work for you!\n\nsee below for senior ai engineers in london (obfuscated titles and companies a bit for privacy) https://t.co/85OgsVqbHI",
+    "createdAt": "Wed Aug 12 18:34:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y \nMiniMax Design: @Hailuo_AI",
+      "followersCount": 115241,
+      "friendsCount": 981,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPioh8zbkAAV7J0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2087607572711010709",
+    "fullText": "MiniMax H3 × @fal 🎙️\n\nTomorrow., join @OdinLovis, Creative Engineer at fal, Ethan Wei, AI Solutions Architect at MiniMax, and @VictorSuOrtiz, GTM Engineer at MiniMax for a live breakdown of how creators and developers are building with H3 on Fal\n\nWe’ll cover multimodal references, native audio, prompting, LoRAs + customization, open weights, and real creative + technical workflows on fal.\n\nAug 13 · 11 AM PT · X Spaces\n\nSet a reminder ↓\nhttps://t.co/U6CnZaqbeG",
+    "createdAt": "Wed Aug 12 18:30:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 313811,
+      "friendsCount": 961,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPipuFkaIAICGl3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2087605040240582991",
+    "fullText": "Why does CLAUDE.MD keep growing?\n\nIf you maintain a CLAUDE.md or an AGENTS.md, this one is worth your time.\n\n(bookmark it)\n\nThis work traces why these files grow without bound. Appending an instruction is free. Deleting one after its rationale is gone costs exponential verification, so nobody removes anything.\n\nAcross 247,694 instruction lifetimes in 1,867 repositories, prompts more than tripled over their lifetime and gained 4.9 net instructions per commit. The older an instruction gets, the less likely anyone is to delete it.\n\nThe proposed fix is comments. Writing down the reasoning behind an instruction removed 99.3% of excess instructions in verifiable settings and improved real agentic instruction-following by up to 23.1%.\n\nPaper: https://t.co/wz3kKcsmEg\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Wed Aug 12 18:20:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4694366,
+      "friendsCount": 800,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2087604352622153922",
+    "fullText": "A lot of founders I talk to are worried about what will happen with AI. So am I frankly. But they're actually better off than anyone else. If the world is going to get turned upside down, the safest place to be is in a small, fast-moving company that can easily change direction.",
+    "createdAt": "Wed Aug 12 18:17:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129483,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPilmiJbgAAfTrI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2087600513441546589",
+    "fullText": "Four small architecture decisions can cost up to 47% of a model's long-context performance.\n\nNew research from Ai2, Carnegie Mellon, and the University of Washington isolates them. Normalization, GQA, pretraining context length, and sliding window attention.\n\nEach one is made by at least one of the Olmo, Llama, and Qwen dense families, and each looks harmless on its own.\n\nCombine three or more and downstream long-context performance drops significantly. None of it shows up in short-context loss or validation sets, which is how the choices survive into shipped models.\n\nApplying context extension early in pretraining exposes the problem. They release OlmPool, 26 comparable 7B models with checkpoints before and after extension, from over 170,000 GPU hours of training.\n\nPaper: https://t.co/2XOoY5A2nz\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Wed Aug 12 18:02:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4694366,
+      "friendsCount": 800,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2087599777076887651",
+    "fullText": "This is the 47th YC batch. I missed talking to a couple during covid, but except for that I think I've talked to all of them. Strangely enough I actually write new talk notes each time, though I bet there's a huge amount of overlap with what I've said in past years.",
+    "createdAt": "Wed Aug 12 17:59:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4694366,
+      "friendsCount": 800,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2087596692568949072",
+    "fullText": "As often happens, this exercise was also useful for the startups themselves. For example, trying to cook up super ambitious future plans to present to investors would often result in genuinely good new ideas.",
+    "createdAt": "Wed Aug 12 17:46:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 90285,
+      "friendsCount": 5404,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPie7gKW8AEqgK2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2087595917264244933",
+    "fullText": "three open releases @huggingface today, one large frontier, two small VLMs🤯\n\n> Qwen3.8 Max is out, A95B/2.4T with 1M ctx window, #1 in agentic AA index\n> Liquid released LFM2.5-VL-3B, small VLM best in class across different benchmarks, 32k ctx \n> Cohere released North Micro Vision, small VLM with native resolution processing and 128k ctx \n\nTHIS WEEK IS NOT OVER YET",
+    "createdAt": "Wed Aug 12 17:43:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1035111,
+      "friendsCount": 5920,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPifeC_b0AA_0sB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2087594114372259890",
+    "fullText": "GBrain just dropped v0.45.6.0 which added 17 new brain skills hardened through my own personal OpenClaw agent with hundreds of thousands of markdown files. \n\nA personal AGI is one that works for you. GBrain now works with Codex and Claude code, btw.\n\nhttps://t.co/yFpFU4pn5b https://t.co/MqpMfX4wsX",
+    "createdAt": "Wed Aug 12 17:36:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 478194,
+      "friendsCount": 1567,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2087593890467430484",
+    "fullText": "It’s insane how xAI was basically not a contender and now they’re right back in the race.\n\nI honestly can’t believe it. I thought they were toast and it was a two-horse race.",
+    "createdAt": "Wed Aug 12 17:35:43 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "LangChain",
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261300,
+      "followersCount": 261302,
       "friendsCount": 183,
       "location": ""
     },
@@ -21,7 +231,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 517054,
+      "followersCount": 517065,
       "friendsCount": 3139,
       "location": ""
     },
@@ -39,8 +249,8 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 478180,
-      "friendsCount": 1565,
+      "followersCount": 478194,
+      "friendsCount": 1567,
       "location": "Austin, TX"
     },
     "images": [],
@@ -55,7 +265,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 454620,
+      "followersCount": 454610,
       "friendsCount": 584,
       "location": "🇺🇸 Collaborations →"
     },
@@ -71,7 +281,7 @@
       "name": "Zoubin Ghahramani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1294283059747893248/9K2p5oV__normal.jpg",
       "description": "VP Research, Google DeepMind, ex-head of Google Brain. Professor at University of Cambridge. Machine Learning Researcher. ex-Chief Scientist & VP of AI, Uber.",
-      "followersCount": 35789,
+      "followersCount": 35791,
       "friendsCount": 720,
       "location": "Cambridge, UK"
     },
@@ -87,7 +297,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488217,
+      "followersCount": 488236,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -105,7 +315,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 300768,
+      "followersCount": 300789,
       "friendsCount": 8409,
       "location": "United States"
     },
@@ -121,7 +331,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488217,
+      "followersCount": 488236,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -139,7 +349,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488217,
+      "followersCount": 488236,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -157,7 +367,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488217,
+      "followersCount": 488236,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -175,7 +385,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488217,
+      "followersCount": 488236,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -193,7 +403,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 167655,
+      "followersCount": 167650,
       "friendsCount": 1286,
       "location": ""
     },
@@ -211,7 +421,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488217,
+      "followersCount": 488236,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -229,7 +439,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488217,
+      "followersCount": 488236,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -247,7 +457,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488217,
+      "followersCount": 488236,
       "friendsCount": 3342,
       "location": "Maryland, USA"
     },
@@ -265,7 +475,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 313807,
+      "followersCount": 313811,
       "friendsCount": 961,
       "location": "DAIR.AI Academy"
     },
@@ -283,7 +493,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 97803,
+      "followersCount": 97807,
       "friendsCount": 934,
       "location": "Seattle"
     },
@@ -299,7 +509,7 @@
       "name": "Mustafa Suleyman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
       "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
-      "followersCount": 936082,
+      "followersCount": 936546,
       "friendsCount": 494,
       "location": "Redmond, WA"
     },
@@ -317,7 +527,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 348097,
+      "followersCount": 348103,
       "friendsCount": 20442,
       "location": "Cambridge, MA"
     },
@@ -335,7 +545,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 410369,
+      "followersCount": 410384,
       "friendsCount": 879,
       "location": ""
     },
@@ -353,7 +563,7 @@
       "name": "Google Gemini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 549246,
+      "followersCount": 549314,
       "friendsCount": 53,
       "location": "Mountain View, CA"
     },
@@ -369,7 +579,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 240706,
+      "followersCount": 240701,
       "friendsCount": 1703,
       "location": "Chicago, IL"
     },
