@@ -1,11 +1,179 @@
 [
   {
     "user": {
+      "screenName": "v_vashishta",
+      "name": "Vin Vashishta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
+      "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
+      "followersCount": 28391,
+      "friendsCount": 1057,
+      "location": "Reno"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/v_vashishta/status/2087898577213509931",
+    "fullText": "Breaking! \"Apple in talks to pay publishers for access to real-time news stories.\"\nSo Apple is building Grok with worse unit economics?",
+    "createdAt": "Thu Aug 13 13:46:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 300965,
+      "friendsCount": 8409,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2087898097687146762",
+    "fullText": "Gemini is the next Bard",
+    "createdAt": "Thu Aug 13 13:44:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36667,
+      "friendsCount": 1849,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2087896901404499968/vid/avc1/3024x1964/iGkFXBN3I_ShXTyH.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2087897992665919997",
+    "fullText": "deepseek-harness重磅开源，采用了一切皆插件的架构，也就是中国版的openclaw，体验了下可以称之为私有化的workbuddy。\n\n场景侧冲击：有了deepseek-harness之后，企业域的私有化code、cowork基本用这个就可以了，直接会冲击workbuddy之类的市场。\n\n之前DeepSeek Harness内测招募，本质是一次开源 Agent 生态大摸底，把全球 Agent 基础设施的家底扫了一遍后，预计后续版本应该会在开放生态上做一些事情。\n\ndsh看点不在\"又一个 Claude Code\"，有3个看点：\n\n1️⃣ 一切皆插件\n模型、工具、skill、会话、沙箱、存储、主循环、调度，连 UI 都是插件，配置里全都可换，不动源码。四种运行模式里最有意思的是 Minimal——只留一个 bash 和一个文件编辑器，摆明了是给模型做裸机 benchmark 的。\n\n2️⃣ 每一次运行都可回放\n系统提示、推理过程、工具调用与结果、子 agent 调度、所有 context 注入，全部进 append-only 的 session log，resume / fork / search / replay 都跑在同一条事件流上。\n\n3️⃣ 最狠的是内核\ndsh 跑在 Cordis 上，它把插件系统拆成两个正交维度：时间可组合性：卸载一个组件时副作用能完整回滚（每个 context 变换都带一个逆，运行时来追踪）；空间可组合性：依赖可声明、且 context 一变就反向通知组件。还给了一套动态组合的演算，证明这个性质能从单个组件传导到整个系统。\n\n总的来说，这次deepseek-harness最大的特点是极致的可替换性，也就是用最小的基础来承载，然后其他都是可插拔的插头。\n\n#DeepSeek #harness #Cordis #编程范式 #北大 #开源",
+    "createdAt": "Thu Aug 13 13:44:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 284604,
+      "friendsCount": 334,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPmxhToa8AAlIHg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/runwayml/status/2087895092220833853",
+    "fullText": "The winners of our API Hackathon, all built in a weekend with Runway Dev, our API platform for building with the best models from Runway and other frontier labs.\n\n1st, Quigo: turn passive video into interactive stories, no code\n2nd, ClinicalSim: rehearse hard conversations with virtual patients\n3rd, Scene Fixer: continuity repair for mismatched AI footage\n\nSee what they built 🧵",
+    "createdAt": "Thu Aug 13 13:32:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36667,
+      "friendsCount": 1849,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPmu2UAaIAA-QLr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2087892982871834986",
+    "fullText": "刚刚，DeepSeek的Harness已发布，跟其他“Harness们”不一样的地方是：造了一套造Agent的系统，你自己决定Agent该是什么样\n\ngithub：https://t.co/9V2XeQgGf9\n\n#DeepSeekHarness https://t.co/dCb0yHqvwS",
+    "createdAt": "Thu Aug 13 13:24:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 410478,
+      "friendsCount": 880,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2087887583258857886",
+    "fullText": "The global AI market surpassed half a trillion dollars, reaching $514.5 billion in 2026. On track for $3.5 trillion by 2033. This can very well be the new foundation of the global economy.",
+    "createdAt": "Thu Aug 13 13:02:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "deepseek_ai",
+      "name": "DeepSeek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
+      "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+      "followersCount": 1089457,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/deepseek_ai/status/2087887408440164663",
+    "fullText": "🧩 DeepSeek Harness v0.1 is now available in Developer Preview!\n\n🔹 We’re opening it up to developers building agent harnesses worldwide and open-sourcing the codebase in MIT license.\n🔹 Powered by the Cordis meta-framework, DeepSeek Harness is an agent harness built around one core idea: Everything is a plugin. Models, tools, skills, sessions, sandboxes, filesystems, loops, orchestration, and UI are ALL implemented as plugins, and can be mixed, matched, replaced, and extended.\n\nTry it now!\nhttps://t.co/2YWSvJHhKA",
+    "createdAt": "Thu Aug 13 13:02:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 454618,
+      "friendsCount": 584,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2087882613088538898",
+    "fullText": "We are all learning here, so I’m in no position to tell you how you should write and review your code.\n\nWhat I can tell you is what's working for the people I work with and me.\n\nWe aren't manually reading the code anymore. We don't care about individual lines. We don't have anybody trying to understand the thousands of AI-generated lines we get.\n\nInstead, we have designed (and continue to invest here) automated processes to verify that we are shipping high-quality software,\n\nThe quality of our software hasn’t gone down in any way, shape, or form. We are delivering more and faster.\n\nPeople are working the same amount of time, but the nature of their work has changed significantly.\n\nI don't know what you are building and how you are doing it, so I'm not going to pretend I can speak about how you should do it.\n\nIf you find value in reading AI-generated code, good for you! If you think that's the best way for you to verify the software you build is good, then keep doing it.",
+    "createdAt": "Thu Aug 13 12:43:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
+      "followersCount": 198370,
+      "friendsCount": 563,
+      "location": "tinkertown"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2087879539938525543",
+    "fullText": "grok bot will do well because theres very little setup to do",
+    "createdAt": "Thu Aug 13 12:30:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149523,
+      "friendsCount": 5436,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPmhp1JXEAAwlkl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2087877645178413351",
+    "fullText": "🔱 If you’re not inside, you’re outside ✨\n\n#AGIClub https://t.co/1Iv8GjIUgF",
+    "createdAt": "Thu Aug 13 12:23:16 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "azeem",
       "name": "Azeem Azhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
       "description": "Exponential View @exponentialview.",
-      "followersCount": 52819,
+      "followersCount": 52821,
       "friendsCount": 2354,
       "location": "2.718281828459045"
     },
@@ -23,8 +191,8 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149522,
-      "friendsCount": 5435,
+      "followersCount": 149523,
+      "friendsCount": 5436,
       "location": "Montréal · Québec"
     },
     "images": [],
@@ -39,7 +207,7 @@
       "name": "DeepSeek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
       "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
-      "followersCount": 1087766,
+      "followersCount": 1089457,
       "friendsCount": 0,
       "location": ""
     },
@@ -57,7 +225,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241276256,
+      "followersCount": 241279489,
       "friendsCount": 1389,
       "location": ""
     },
@@ -75,7 +243,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 167711,
+      "followersCount": 167737,
       "friendsCount": 1287,
       "location": ""
     },
@@ -96,7 +264,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 240816,
+      "followersCount": 240828,
       "friendsCount": 1706,
       "location": "Chicago, IL"
     },
@@ -117,7 +285,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 61493,
+      "followersCount": 61495,
       "friendsCount": 367,
       "location": "San Francisco, CA"
     },
@@ -135,7 +303,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488275,
+      "followersCount": 488296,
       "friendsCount": 3343,
       "location": "Maryland, USA"
     },
@@ -153,7 +321,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488275,
+      "followersCount": 488296,
       "friendsCount": 3343,
       "location": "Maryland, USA"
     },
@@ -171,7 +339,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488275,
+      "followersCount": 488296,
       "friendsCount": 3343,
       "location": "Maryland, USA"
     },
@@ -189,7 +357,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488275,
+      "followersCount": 488296,
       "friendsCount": 3343,
       "location": "Maryland, USA"
     },
@@ -207,7 +375,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488275,
+      "followersCount": 488296,
       "friendsCount": 3343,
       "location": "Maryland, USA"
     },
@@ -225,7 +393,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488275,
+      "followersCount": 488296,
       "friendsCount": 3343,
       "location": "Maryland, USA"
     },
