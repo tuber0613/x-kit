@@ -1,11 +1,113 @@
 [
   {
     "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 715885,
+      "friendsCount": 828,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPr4QOIaEAAbtT9.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2088254592182305165",
+    "fullText": "Regular reminder -- the set of public ARC 3 games is called \"demonstration set\", not \"eval set\" nor \"training set\". It is not meant to be used as training data, and it is not meant to be used as an eval. Scores on the public demonstration set are not indicative of scores on the actual benchmark.\n\nThe demonstration set is intended to demonstrate the format and drive human engagement.\n\nThe private eval set is substantially more difficult and more novel.\n\nThe top score on the Kaggle leaderboard today is 2.70% (that's the semi-private set -- at the end of the competition, the submissions are scored on the fully private set).",
+    "createdAt": "Fri Aug 14 13:21:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 265058,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPr1QtzbkAALwEr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2088251315256520943",
+    "fullText": "Less than 2 hours to say hi👋. It's almost time!\nSee you soon: 👀\nhttps://t.co/rXzUQ4d6WQ https://t.co/r6mnbuNiKZ",
+    "createdAt": "Fri Aug 14 13:08:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 261433,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2088220873165582337/vid/avc1/1920x1080/PNlPkL57ot5o8WJ0.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2088250630620037440",
+    "fullText": "Reining in LLM spend gets harder once your team has started using multiple agents calling multiple models.\n\nWithout the proper controls, costs can spike before you realize what happened.\n\nIn this walkthrough, learn how to set and enforce consistent cost controls using LangSmith LLM Gateway.\n\nWatch the demo:",
+    "createdAt": "Fri Aug 14 13:05:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 478557,
+      "friendsCount": 1570,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2088244243533799594",
+    "fullText": "The people I feel really bad for are the people who made one funny Instagram/tiktok video that went viral and now their entire life revolves around recreating that bit every day",
+    "createdAt": "Fri Aug 14 12:40:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 454596,
+      "friendsCount": 585,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2088242987692429657",
+    "fullText": "In my experience, the cost of building software hasn't decreased at all.\n\nPeople are still working 40 hours every week. They are still putting in maximum effort to build whatever they are building.\n\nAre we shipping more and better software? Likely yes.\n\nBut we are also paying a ton of money in tokens, and I don't really see companies firing half their development teams to save money.",
+    "createdAt": "Fri Aug 14 12:35:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 411248,
+      "friendsCount": 881,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2088241911253368928",
+    "fullText": "How would you reinvent the education system from the ground up?",
+    "createdAt": "Fri Aug 14 12:30:43 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "ceobillionaire",
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149509,
+      "followersCount": 149507,
       "friendsCount": 5437,
       "location": "Montréal · Québec"
     },
@@ -23,7 +125,7 @@
       "name": "Ben Goertzel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
       "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
-      "followersCount": 77647,
+      "followersCount": 77653,
       "friendsCount": 1682,
       "location": "Vashon Island, WA, USA"
     },
@@ -39,7 +141,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 90303,
+      "followersCount": 90306,
       "friendsCount": 5406,
       "location": "Paris"
     },
@@ -55,7 +157,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 167779,
+      "followersCount": 167793,
       "friendsCount": 1287,
       "location": ""
     },
@@ -73,8 +175,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36705,
-      "friendsCount": 1853,
+      "followersCount": 36708,
+      "friendsCount": 1854,
       "location": ""
     },
     "images": [
@@ -91,8 +193,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36705,
-      "friendsCount": 1853,
+      "followersCount": 36708,
+      "friendsCount": 1854,
       "location": ""
     },
     "images": [
@@ -109,8 +211,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 450701,
-      "friendsCount": 13319,
+      "followersCount": 450834,
+      "friendsCount": 13317,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -127,7 +229,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488341,
+      "followersCount": 488359,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -145,7 +247,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488341,
+      "followersCount": 488359,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -163,7 +265,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488341,
+      "followersCount": 488359,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -179,7 +281,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488341,
+      "followersCount": 488359,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -197,7 +299,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488341,
+      "followersCount": 488359,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -215,7 +317,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488341,
+      "followersCount": 488359,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -233,7 +335,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488341,
+      "followersCount": 488359,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -479,7 +581,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 411080,
+      "followersCount": 411248,
       "friendsCount": 881,
       "location": ""
     },
@@ -1237,8 +1339,8 @@
       "name": "Elena",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2040456263151296512/ytSp018p_normal.jpg",
       "description": "new media @a16z",
-      "followersCount": 32113,
-      "friendsCount": 2923,
+      "followersCount": 32115,
+      "friendsCount": 2922,
       "location": "sf"
     },
     "images": [],
