@@ -1,11 +1,116 @@
 [
   {
     "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 438379,
+      "friendsCount": 673,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPtboHvbEAAgTJu.png",
+      "https://pbs.twimg.com/media/HPtbshYa4AA2cwP.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2088363707219001391",
+    "fullText": "From 93K to a beautiful 3.1K LoC ❤️ https://t.co/vQjPOSUB1e",
+    "createdAt": "Fri Aug 14 20:34:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 411673,
+      "friendsCount": 882,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2088361735153725625",
+    "fullText": "I’m going to flood your feed with optimism",
+    "createdAt": "Fri Aug 14 20:26:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107921,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPtVy1Ib0AAnS8c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2088357206379118933",
+    "fullText": "Applications are still open for Stanford HAI and @stanforddschool's Human-Centered AI for Social Impact program — a three-day experience at Stanford University for nonprofits, philanthropy, and local government leaders building AI solutions grounded in real human needs: https://t.co/tnJx40zGpt",
+    "createdAt": "Fri Aug 14 20:08:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 411673,
+      "friendsCount": 882,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2088355390576541833",
+    "fullText": "Imagine a teenager in rural India who has never met a doctor, being able to diagnose her grandmother's heart condition with a pocket device and an AI that speaks her language? \n\nThis is the future I'm fighting to build.",
+    "createdAt": "Fri Aug 14 20:01:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129536,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPtTzUSbgAAgPDy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2088354997176320491",
+    "fullText": "//  Skill Misevolution in Self-Improving LLM Agents //\n\nSelf-improving agents write their successes down as reusable skills. An unsafe success becomes reusable policy long after the input that triggered it is gone.\n\nSkillMisevo-Gym versions skill state across agent frameworks so risk can be attributed separately to authoring, retrieval, and later execution.\n\nAcross 25 agent-method configurations covering 525 tasks each, all 21 evolved configurations author unsafe artifacts. Only 15 produce harm in a fresh session, which means authoring risk and execution risk are separate problems.\n\nThree malicious tasks raise carryover attack success from 16.0% to 35.3%.\n\nTheir SafeEvolve wrapper cuts unsafe retrieval by 26.7 points and fresh-session harm by 17.3 points while benign utility moves 0.4 points.\n\nPaper: https://t.co/945S3pZL0t\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Fri Aug 14 20:00:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 284621,
+      "friendsCount": 334,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2088354291220385792/vid/avc1/1280x720/VDxZN30-mHD1nUDd.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2088354331540222178",
+    "fullText": "Congratulations to the second cohort of creatives whose work won big in Runway's Another Big Ad Contest for Products That Don't Exist. Of the thousands of ads we received across genres, briefs and formats, just 15 winners have been selected.\n\nWatch the top 5 ads below. https://t.co/K3XCMegtEc",
+    "createdAt": "Fri Aug 14 19:57:27 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "AnthropicAI",
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 1593630,
+      "followersCount": 1593719,
       "friendsCount": 2,
       "location": ""
     },
@@ -21,7 +126,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 301228,
+      "followersCount": 301241,
       "friendsCount": 8411,
       "location": "United States"
     },
@@ -37,7 +142,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261467,
+      "followersCount": 261474,
       "friendsCount": 183,
       "location": ""
     },
@@ -55,7 +160,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 330457,
+      "followersCount": 330475,
       "friendsCount": 897,
       "location": "Santa Clara, CA"
     },
@@ -73,7 +178,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 147209,
+      "followersCount": 147215,
       "friendsCount": 632,
       "location": "Zürich, Suisse"
     },
@@ -89,7 +194,7 @@
       "name": "Character.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963055647853051907/NZME6Fm9_normal.png",
       "description": "Unleash your imagination—chat, create, explore.",
-      "followersCount": 148173,
+      "followersCount": 148172,
       "friendsCount": 13,
       "location": ""
     },
@@ -110,7 +215,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 301228,
+      "followersCount": 301241,
       "friendsCount": 8411,
       "location": "United States"
     },
@@ -126,7 +231,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 478605,
+      "followersCount": 478608,
       "friendsCount": 1570,
       "location": "Austin, TX"
     },
@@ -142,7 +247,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 95807,
+      "followersCount": 95817,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -160,7 +265,7 @@
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 210714,
+      "followersCount": 210708,
       "friendsCount": 595,
       "location": "Venice, CA"
     },
@@ -178,7 +283,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 1593630,
+      "followersCount": 1593719,
       "friendsCount": 2,
       "location": ""
     },
@@ -194,7 +299,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 411630,
+      "followersCount": 411673,
       "friendsCount": 882,
       "location": ""
     },
@@ -212,7 +317,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 301228,
+      "followersCount": 301241,
       "friendsCount": 8411,
       "location": "United States"
     },
@@ -248,7 +353,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 97962,
+      "followersCount": 97964,
       "friendsCount": 934,
       "location": "Seattle"
     },
