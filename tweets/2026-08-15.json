@@ -1,11 +1,99 @@
 [
   {
     "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314039,
+      "friendsCount": 961,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPx27T3boAAliyc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2088675092238889461",
+    "fullText": "Interesting new research from IBM.\n\nIf you pick models from benchmark deltas, some of that delta belongs to the phrasing rather than the model.\n\nBenchDrift generates meaning-preserving variations of benchmark problems along linguistic, referential, pragmatic, and structural axes, holding the answer fixed, then measures how often correctness flips.\n\nPhrasing sensitivity does not fade as models improve. It changes sign. Weak models gain more from rephrasing than they lose, while strong models lose far more than they gain, so the top models on a benchmark are the ones whose scores depend most on the wording they happened to receive.\n\nFragility also belongs to the rephrasing. Across eight models on GSM8K, MMLU, and MATH-Hard, they largely agree on which rephrasings cost the most correct answers even while differing in how much they drift overall.\n\nRephrasing breaks answers models were confident about, whether the problem gets shorter or longer.\n\nPaper: https://t.co/69JlAwXcev\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Sat Aug 15 17:12:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hardmaru",
+      "name": "hardmaru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
+      "description": "Co-Founder and CEO @SakanaAILabs 🎏",
+      "followersCount": 428115,
+      "friendsCount": 1900,
+      "location": "Minato-ku, Tokyo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPv4TFaaMAAp7qp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hardmaru/status/2088672566865272944",
+    "fullText": "unpopular opinion: gemini 3.1 pro is a pretty great model\n\nmost current baseline models are actually perfectly fine for 99% of everyday work. not everyone needs a state-of-the-art coding model to get things done. https://t.co/jYpD8U1H8Q",
+    "createdAt": "Sat Aug 15 17:02:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129561,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPxz8yzaEAAnyA8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2088671819394138465",
+    "fullText": "New work from Google DeepMind and collaborators.\n\nAgentic algorithm discovery keeps getting demonstrated on problems with fast rewards. Microarchitecture has vast search spaces, strict hardware budgets, and simulation times measured in hours, which is why the original ArchAgent stopped at single-level cache replacement.\n\nArchAgent v2 scales to multi-level data prefetching with two additions. Cascaded evolutionary search subdivides the space by sequentially evolving and freezing prefetchers at individual cache levels. A hardware-realizability feedback loop embeds real-time size estimation into evolution, so candidates that cannot fit the budget get pruned during search.\n\nUnder identical 4th Data Prefetching Championship rules, the discovered three-level prefetcher beats the winning hand-designed solution. 3.8% geometric mean IPC speedup over baseline, 0.3% over prior champion BertiGO, widening to 4.6% against 2.6% on low-bandwidth single-core configurations.\n\nMulti-core evolution remains blocked by simulation latency slowing the evolution loop.\n\nPaper: https://t.co/dvh9Y8UqRe\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Sat Aug 15 16:59:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 301501,
+      "friendsCount": 8416,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2088667588922622362",
+    "fullText": "So I want to buy a rental and turn it into a mini datacenter. Has anyone done something like this?",
+    "createdAt": "Sat Aug 15 16:42:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 71152,
+      "friendsCount": 36440,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPxuqLKXoAAuHaJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2088666005329355137",
+    "fullText": "mood in europe right now when the chinese uber eats ships better models than you do and your best hope prefers to serve them rather than cook https://t.co/2K3Fm3M33t",
+    "createdAt": "Sat Aug 15 16:35:55 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "garrytan",
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1044144,
+      "followersCount": 1044274,
       "friendsCount": 5924,
       "location": "San Francisco, CA"
     },
@@ -23,7 +111,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149512,
+      "followersCount": 149511,
       "friendsCount": 5440,
       "location": "Montréal · Québec"
     },
@@ -41,7 +129,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 236199,
+      "followersCount": 236206,
       "friendsCount": 7114,
       "location": ""
     },
@@ -59,7 +147,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1050865,
+      "followersCount": 1050914,
       "friendsCount": 64,
       "location": "The Cloud"
     },
@@ -77,7 +165,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412280,
+      "followersCount": 412297,
       "friendsCount": 882,
       "location": ""
     },
@@ -93,7 +181,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 348178,
+      "followersCount": 348182,
       "friendsCount": 20439,
       "location": "Cambridge, MA"
     },
@@ -111,7 +199,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 95914,
+      "followersCount": 95918,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -129,7 +217,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412280,
+      "followersCount": 412297,
       "friendsCount": 882,
       "location": ""
     },
@@ -147,7 +235,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 236199,
+      "followersCount": 236206,
       "friendsCount": 7114,
       "location": ""
     },
@@ -163,7 +251,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1044144,
+      "followersCount": 1044274,
       "friendsCount": 5924,
       "location": "San Francisco, CA"
     },
@@ -181,7 +269,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4757960,
+      "followersCount": 4758880,
       "friendsCount": 800,
       "location": ""
     },
@@ -197,8 +285,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 71148,
-      "friendsCount": 36439,
+      "followersCount": 71152,
+      "friendsCount": 36440,
       "location": "latent space"
     },
     "images": [
@@ -215,7 +303,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 301486,
+      "followersCount": 301501,
       "friendsCount": 8416,
       "location": "United States"
     },
@@ -231,7 +319,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 301486,
+      "followersCount": 301501,
       "friendsCount": 8416,
       "location": "United States"
     },
@@ -249,8 +337,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 71148,
-      "friendsCount": 36439,
+      "followersCount": 71152,
+      "friendsCount": 36440,
       "location": "latent space"
     },
     "images": [
@@ -267,7 +355,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 454670,
+      "followersCount": 454677,
       "friendsCount": 585,
       "location": "🇺🇸 Collaborations →"
     },
@@ -301,7 +389,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149512,
+      "followersCount": 149511,
       "friendsCount": 5440,
       "location": "Montréal · Québec"
     },
@@ -319,7 +407,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412280,
+      "followersCount": 412297,
       "friendsCount": 882,
       "location": ""
     },
