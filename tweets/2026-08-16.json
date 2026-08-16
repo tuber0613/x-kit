@@ -1,12 +1,82 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36756,
+      "friendsCount": 1859,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPzqpEpaYAANQUb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2088811741757215060",
+    "fullText": "Qwen3.8-27B的开源模型，能跑在 3090 上，它的意义不是传统的\"开源超越闭源\"这种老叙事，真正值得关注的是商业生态层面：Opus 4.6 级别的能力，从今天起变成了全球可以人人都可拥有的私有能力，对于全球的AI生态是一次大洗牌。\n\n这次发布的具有很多标志性意义：\n\n一、模型能力地板被抬起来了，而且这个地板是私有的\n\n用户对\"一个能用的模型\"的最低心理预期，从今天起锚定在 Opus 4.6 那条线以上：低于这条线的模型，无论开源闭源，商业价值会迅速塌陷，而这条线现在的价格是 OpenRouter 上claude官方的 $0.45 / $3.20 每百万 token，或者一张 3090（这是anthropic那边的人要求限制的核心原因，触及其利益了）\n\n二、定价权发生了转移\n\n任何靠\"我比开源强\"收费模型产品，溢价空间被压到了opus  4.6 以上，其中长程 agent、深度推理能力qwen38-27b不如opus 4.6，这块恰恰是最难做、最难卖、也最难交付的部分，还有中间地带的模型 API 生意，从今天起会很难做。\n\n三、拥有模型主权不再成为模型公司的养料\n\n智能体公司以前要拿到 4.6 级别的能力，必须把数据发出去，当模型公司的养料，现在可以不用。医疗、金融、政务、法务等所有卡在\"数据不能出内网\"的场景，今天获得了一个此前不存在的选项。这件事的商业含义，我认为比 benchmark 数字大得多，我们已经尝试把医疗模型底座换成qwen3.8试试效果。\n\n四、开源的迭代节奏已经快到眼睛看不清了\n\nMeta 8 月 10 日发布 Muse Glimmer-30B，定位\"最强 30B 级开源模型\"，四天后，Qwen3.8-27B 在 Qwen 公布的每一项重叠指标上都超过了它。\n\n客观说，Qwen3.8-27B也不是全部超越了opus 4.6：吃 benchmark、吃工具调用、吃单点任务的能力被qwen3.8-27b追平甚至反超；但长程可靠性和深度推理方面还是opus4.6强一些，这块就是上面说的溢价机会。\n#qwen27b #qwen #opus46 #claude",
+    "createdAt": "Sun Aug 16 02:15:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 61667,
+      "friendsCount": 368,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2088797736338616320/vid/avc1/1280x720/e6boyBYBoGwCS04K.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2088807960457699509",
+    "fullText": "Yutori's browser-use agents run in tight loops: screenshot, action, repeat, dozens of times per task.\n\nOn Together AI, their Navigator model beats frontier performance at 2x faster inference and 4-5x lower cost. https://t.co/wr7zZWOfYX",
+    "createdAt": "Sun Aug 16 02:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36756,
+      "friendsCount": 1859,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPzu5VdaYAAKgxS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2088807175867224154",
+    "fullText": "昨天anthropic发布的 8 月风险报告，提到的Model 2超越了mythos ，但最值得关注的不是内部模型model2的能力提升（本身他们也承认没有提升太多），而是：\n\n1、防蒸馏\nmodel 2 把“防蒸馏当成一项常规工程在投入”\n\n2、Anthropic 自己的判定是没达到 RSP 阈值：\nModel 2 相对 Mythos 5 只是\"明显改进\"，没有像之前Opus 4.6 → Mythos Preview 是跳了一大步，这是减速的形状，不是加速的形状\n\n3、尺子坏了\n任务型评估尺子不能再测量出能力提升情况（也就是benchmark的评估精度不够了），但他们自己文章上在RSI方向上“看到了\"加速的早期迹象”\n\n按报告里的披露看，RSI 在当前的测量维度上没看到明显突破，甚至代际跳跃还在收窄。报告里，又承认自己的测量工具已经失灵，还自曝看到了早期加速迹象，但把细节挡住了。\n#anthropic #rsi",
+    "createdAt": "Sun Aug 16 01:56:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 453818,
+      "friendsCount": 13333,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2088805338049122679",
+    "fullText": "“Dario speaks of this.”\n“Have you read his longtweet?”\n“No. Have you?”\n“No.”",
+    "createdAt": "Sun Aug 16 01:49:35 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 478818,
-      "friendsCount": 1573,
+      "followersCount": 478842,
+      "friendsCount": 1574,
       "location": "Austin, TX"
     },
     "images": [
@@ -23,7 +93,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 453719,
+      "followersCount": 453818,
       "friendsCount": 13333,
       "location": "San Francisco, CA"
     },
@@ -39,7 +109,7 @@
       "name": "Sergey Levine",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/990434811662680064/BKCbJypl_normal.jpg",
       "description": "Associate Professor at UC Berkeley\nCo-founder, Physical Intelligence",
-      "followersCount": 134314,
+      "followersCount": 134334,
       "friendsCount": 144,
       "location": "Berkeley, CA"
     },
@@ -55,8 +125,8 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 478818,
-      "friendsCount": 1573,
+      "followersCount": 478842,
+      "friendsCount": 1574,
       "location": "Austin, TX"
     },
     "images": [
@@ -73,7 +143,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 438668,
+      "followersCount": 438672,
       "friendsCount": 674,
       "location": ""
     },
@@ -89,7 +159,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 301581,
+      "followersCount": 301589,
       "friendsCount": 8417,
       "location": "United States"
     },
@@ -105,7 +175,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241345258,
+      "followersCount": 241345773,
       "friendsCount": 1389,
       "location": ""
     },
@@ -123,7 +193,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 147347,
+      "followersCount": 147352,
       "friendsCount": 632,
       "location": "Zürich, Suisse"
     },
@@ -139,7 +209,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412399,
+      "followersCount": 412410,
       "friendsCount": 883,
       "location": ""
     },
@@ -155,7 +225,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4765262,
+      "followersCount": 4766427,
       "friendsCount": 800,
       "location": ""
     },
@@ -171,7 +241,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488427,
+      "followersCount": 488431,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -189,7 +259,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488427,
+      "followersCount": 488431,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -207,7 +277,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488427,
+      "followersCount": 488431,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -225,7 +295,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4765262,
+      "followersCount": 4766427,
       "friendsCount": 800,
       "location": ""
     },
@@ -241,7 +311,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 63029,
+      "followersCount": 63032,
       "friendsCount": 11262,
       "location": "San Francisco"
     },
@@ -257,7 +327,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 454692,
+      "followersCount": 454696,
       "friendsCount": 586,
       "location": "🇺🇸 Collaborations →"
     },
@@ -273,7 +343,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 301581,
+      "followersCount": 301589,
       "friendsCount": 8417,
       "location": "United States"
     },
@@ -289,7 +359,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412399,
+      "followersCount": 412410,
       "friendsCount": 883,
       "location": ""
     },
@@ -359,7 +429,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4765262,
+      "followersCount": 4766427,
       "friendsCount": 800,
       "location": ""
     },
@@ -375,7 +445,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412399,
+      "followersCount": 412410,
       "friendsCount": 883,
       "location": ""
     },
