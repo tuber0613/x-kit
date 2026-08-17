@@ -1,11 +1,82 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36771,
+      "friendsCount": 1860,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2089179318694154613",
+    "fullText": "据说Anthropic 那边有个叫 Conway 的常驻 agent 在测，同样是用浏览器独立处理多步骤任务，这个赛道去年其实perplexity一直在干，还发布了computer，只不过有点拉垮",
+    "createdAt": "Mon Aug 17 02:35:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36771,
+      "friendsCount": 1860,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089172114645700610/vid/avc1/3024x1964/VZur4iRP1iVK1bta.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2089179167636226355",
+    "fullText": "花了几天把 Grok Bot 测完了，整体感受是它把人类白领的工作接管了，相当于24小时不停歇的云端人类白领：\n\n你建一个 bot，系统给它分配一台云端电脑：这台机器上有真实的浏览器、文件系统和终端。你把活派给它，它自己登录你现有的工具，一步步做完，你合上笔记本它还在跑。 \n\n一开始我对它期望挺高的，用完后还是蛮失望的：测试之前感觉它是一个AI员工，测试完更感觉Grok Bot 是 RPA 的重做版，是chatgpt work、claude  cowork的阉割版，唯一的差异就是提供了一个可显示的云端电脑。\n\n1、先说好的一面\nGrok Bot 核心是让它像白领一样操作屏幕，这对于国内各家都没有统一接口的时候，很多场景非常有意义，比如公司的一个 SaaS系统就算没有开放 API，AI员工照样能进去干活。\n\n还有一个有意思的功能是teach a task：不写流程，人把这件事做一遍给它看，它录下来变成可复用的自动化。然后设置 routine 可以定点跑，比如每天早上七点出简报、也可以被事件触发、比如 Slack 来了新消息回复，你在一个 bot 上连过 Gmail 或者 GitHub，其他 bot 直接共用这个连接。 \n\n写自动化的门槛，就这样从会写代码的人，降到了会干这件事的人。\n\n2、当然也有不好的一面\n不能选模型：派哪个模型干哪个活由系统自己决定，界面上没有开关，个人用户无所谓，团队要做成本核算或者合规审计就很难受。 \n\n账单也糙：用量按周结算，超出部分按原始 token 成本计费，目前还没有花费上限。发布那周有人专门买了 Cursor Ultra 去测，后台仪表盘显示零用量，app 里却显示已经用掉 48%。 稳定性同样是 beta 水平，不同网站上的表现差距明显，复杂的多步骤指令会被理解错，说明grok的能力还有待提升。\n\n目前Grok Bot 更像一个白领里的搬运工，比如从各种网站或后台之间搬运数据和内容，它挺合适的。\n\n不过grok带来的影响是，AI 员工这个形态的底层单位已经清楚了：一个身份，一台机器，一组账号权限，一份持续的记忆。剩下的问题是这套东西归谁，xAI 的方案要求你把公司账号的钥匙交给一朵美国云，绝大多数中国企业或注重隐私的估计不会干，未来国内相信也会出来类似的产品。\n\n#grok #grokbot",
+    "createdAt": "Mon Aug 17 02:35:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 488488,
+      "friendsCount": 3345,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HP46QO9WYAAWqjr.jpg",
+      "https://pbs.twimg.com/media/HP46QO5XwAAK1DG.jpg",
+      "https://pbs.twimg.com/media/HP46QPHW0AEmxxz.jpg",
+      "https://pbs.twimg.com/media/HP46QO_W0AAvbLG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2089171331224936767",
+    "fullText": "Python Series — Learn • Build • Master — with this 11-book series…\n\nSee all 11 books here➡️ https://t.co/nuNkJne5Zs ⬅️\n💯✨💥🚀🌟🏆\n#DataScience #DataScientist #DataAnalysis https://t.co/2KJakaGRCh",
+    "createdAt": "Mon Aug 17 02:03:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/bg8qbK3ei1. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14007,
+      "friendsCount": 14050,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2089169379057639694",
+    "fullText": "Eight Sleep is another massive influencer scam, at the same level as AG1. \n\nThe sole purpose of these products is to drain deep pockets of ~10M tech people tuned in their podcaster bubble. \n\nExtra ordinarily lucrative market.",
+    "createdAt": "Mon Aug 17 01:56:09 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Suhail",
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 438804,
+      "followersCount": 438818,
       "friendsCount": 675,
       "location": ""
     },
@@ -23,8 +94,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 455516,
-      "friendsCount": 13334,
+      "followersCount": 455613,
+      "friendsCount": 13335,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -39,7 +110,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 301793,
+      "followersCount": 301840,
       "friendsCount": 8421,
       "location": "United States"
     },
@@ -57,7 +128,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -75,7 +146,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -93,7 +164,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -107,11 +178,27 @@
   },
   {
     "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 236929,
+      "friendsCount": 7118,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2089139961165701217",
+    "fullText": "@sethharpesq and see my substack today which made similar points re anthropic",
+    "createdAt": "Sun Aug 16 23:59:15 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -129,7 +216,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -147,7 +234,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -165,7 +252,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -183,7 +270,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -201,7 +288,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -219,7 +306,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -238,7 +325,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -256,7 +343,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 478995,
+      "followersCount": 479008,
       "friendsCount": 1574,
       "location": "Austin, TX"
     },
@@ -272,7 +359,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -293,7 +380,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -311,7 +398,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -329,7 +416,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -348,7 +435,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412540,
+      "followersCount": 412544,
       "friendsCount": 883,
       "location": ""
     },
@@ -364,7 +451,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412540,
+      "followersCount": 412544,
       "friendsCount": 883,
       "location": ""
     },
@@ -380,7 +467,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1052646,
+      "followersCount": 1052715,
       "friendsCount": 64,
       "location": "The Cloud"
     },
@@ -398,7 +485,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -416,7 +503,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -434,7 +521,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -452,7 +539,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -470,7 +557,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -488,7 +575,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -506,7 +593,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -524,7 +611,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -542,7 +629,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -560,7 +647,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -578,7 +665,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -596,7 +683,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -616,7 +703,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -634,7 +721,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -652,7 +739,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488482,
+      "followersCount": 488488,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -688,7 +775,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4788592,
+      "followersCount": 4789920,
       "friendsCount": 800,
       "location": ""
     },
@@ -738,7 +825,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 241320,
+      "followersCount": 241316,
       "friendsCount": 1708,
       "location": "Chicago, IL"
     },
@@ -750,5 +837,25 @@
     "tweetUrl": "https://x.com/dotey/status/2089072890104725788",
     "fullText": "可能是太久没用 ChatGPT 了，才发现从 ChatGPT 就能直接让它修改代码提交 PR。（我是用的 ChatGPT Pro）\n\n起因是我在做一个 Deep Research 调研，完了后就想让它基于我的代码库做一个方案，但是整个代码库都打包上传太麻烦了，我就把 GitHub 地址发给它了，没想到它自己就 clone 到本地开始分析代码了，最后给了一份很详细的结合当前代码库现状的方案。\n\n一看方案写挺好，想着干脆帮我实现吧，让它自己去提交个 PR，结果它真的就基于方案帮我实现并提交 PR 了，中间确认了一次 GitHub 操作权限。\n\n需要先在 ChatGPT 的设置的 Plugins 里面连上 GitHub 才能访问你的 GitHub Repo，以及以你的名义提交 PR。",
     "createdAt": "Sun Aug 16 19:32:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 168005,
+      "friendsCount": 1289,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HP3F4QOawAAQGWM.jpg",
+      "https://pbs.twimg.com/media/HP3F4WxboAAibhy.jpg",
+      "https://pbs.twimg.com/media/HP3F4nLaEAAtQ-0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2089043643680403573",
+    "fullText": "卧槽，原来现在还是能以每个月 99 美元的价格，订阅 Grok Harvey 这个级别的会员，这个超值！\n\n你相当于一下获得了：\n\n1. 价值 300 美元的 Grok Harvey（包括 Grok Build 权限）\n\n2. 价值 200 美元的 Cursor Ultra 会员，还有 Fable 5 的额度。\n\n3. Grok Bot 的独立额度（这三个额度都是独立的）\n\n4. Grok Image 和 Video（图像与视频模型）的额度\n\n5. 会自动送你一份 Twitter Premium+ 订阅\n\n折合下来只要 700 块钱一个月，简直夯爆了！\n\n尤其是 Grok 后面还有更强的模型要发布。\n\n可以看一下具体的使用路径：\n\n1. 准备 Grok 账号：先登录一个 Grok 账号。\n\n前提条件：如果你之前是用 Twitter（X）登录并订阅的，需要先取消 Twitter 订阅（取消后不会立即生效，所以我建议直接注册申请一个新的 Grok 账号。虽然新账号没办法共享你原有的 Twitter Premium，但这次订阅）。\n如果是用旧账户或者 Twitter 授权登录，操作起来会有点麻烦，所以强烈建议用新账户注册。\n\n2. 订阅促销活动：\n\n先去第一个链接(https://t.co/k6ne2lX9qE)，订阅获取两个月的 Super Grok 促销。\n\n订阅成功后，再去下面第二个地址(https://t.co/pU6xTSi5Z9)，订阅连续三个月 99 美元的 Super Grok Harvey。\n\n注意：后续记得及时取消订阅，否则到期后会恢复成 300 美元/月。\n\n3. 绑定 Cursor 会员：\n\n下载并登录 Grok Bot，登录时有个选项会要求选择 Cursor 授权登录。\n\n这个时候，只要你有一个相同邮箱的 Cursor 账号（如果没有，就用这个邮箱注册一个），系统就会自动给你充值 Cursor 的 Ultra 会员。",
+    "createdAt": "Sun Aug 16 17:36:31 +0000 2026"
   }
 ]
