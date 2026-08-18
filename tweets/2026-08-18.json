@@ -1,12 +1,130 @@
 [
   {
     "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 116587,
+      "friendsCount": 51,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089539990896406528/vid/avc1/1920x1080/hRROnyQRVkn6c-3j.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/googleaidevs/status/2089540580422644216",
+    "fullText": "Turn the web into an interactive visual encyclopedia with Nano Banana and Gemini Omni. 🌐✨\n\nWe built a Chrome Extension in @Antigravity with Gemini 3.7 Flash that lets you highlight any text to quickly generate rich, visual definitions while you browse for deeper learning.\n\nCheck out the demo ↓",
+    "createdAt": "Tue Aug 18 02:31:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 457276,
+      "friendsCount": 13339,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2089538921692819944",
+    "fullText": "there may come a time when the least intelligent business in the world is a second or third place AI lab: all others will use the frontier model, but competitors will be banned",
+    "createdAt": "Tue Aug 18 02:24:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 457276,
+      "friendsCount": 13339,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2089536992803721267",
+    "fullText": "twitter “mandate of heaven” is an active antisignal for good business practices and ethical behavior. just rewards whatever is in the immediate financial interests of certain species of technical enthusiasts. you begin to see how hard it must be to do democratic politics",
+    "createdAt": "Tue Aug 18 02:16:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 5131,
+      "friendsCount": 1583,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kseniase_/status/2089532219547078694",
+    "fullText": "https://t.co/7EqTH20Qri",
+    "createdAt": "Tue Aug 18 01:57:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36769,
+      "friendsCount": 1862,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089530678279086080/vid/avc1/1280x720/MlFWbghmwV2ZNJVv.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2089530764706861145",
+    "fullText": "LlamaFactory作者郑耀威搞的新东西：PenguinHarness ，用 Agent 造 Agent，而且造出来的 Agent 会自己进化，也就是Harness for RSI.，本地化部署。\n\nLlamaFactory 当年是把微调这件事从\"论文复现\"降到\"填个 YAML\"，PenguinHarness 是把搭 Agent 从\"手写编排\"降到\"说一句话\"。\n\n三个亮点：\n1、一句话生成一整个 Agent 应用\n一句话生成完整 Agent 应用（脚手架+代码+说明），demo那个 RAG 应用只花了 0.2 元 token\n\n2、刻意做小的工具集节省成本\n工具少、接口干净 → 对比数据分析准确率第一、成本是 Claude Code 的 1/70\n\n3、自进化skill\n内置一组 Agent 调优 skill：agent-creation / benchmark-design / agent-evaluation / agent-optimization，Agent 自己跑分自己迭代，每轮自动快照可回滚。\n\n4、模型侧对国产开源模型深度适配\nDeepSeek V4、Kimi K3、GLM 5.2、混元 3、Qwen 3.8 Max，也支持 GPT / Gemini / Claude，任何 OpenAI 协议端点都能接。\n\n国内团队在 Agent harness 这层的活儿，最近确实开始有东西了：对比之前的openrsi训练\"改进者\"模型本身，PenguinHarness走的更容易上手，走产品化路线——桌面端 + skill 库 + 评估中心，一句话就能用，但跑分自建、口径混了模型与 harness。\n\n#RSI #AIagent #DeepSeek #LLaMAFactory #开源",
+    "createdAt": "Tue Aug 18 01:52:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5701,
+      "friendsCount": 1201,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2089530586692223445",
+    "fullText": "5 TAKE-AWAYS FROM THE UNITREE ROBOTICS FILING\n\nWe’ve finally got some numbers for Unitree. \n\nThe IPO filing is pretty interesting reading. \n\nHere are my 5 take-aways from the filing:\n\n1: Unitree has a good growth story in both robodogs and humanoids. \n\nRapid growth in the last 1-2 years. In both product categories. Highly diversified revenue geographically. \n\n2: Unitree has frontier-level expertise in robot bodies and agility. \n\nThis is where they are most impressive.\n\n3: Unitree was late to embodied AI capabilities. \n\nIt’s unclear if they are going to do everything internally. Or by partnership. Or let programmers use what they want for embodied AI.\n\n4: The hands don’t appear advanced. \n\nThis is unclear to me. But are the Unitree hands really only 10 DoF?\n\nThey are vertically integrated (hands, lidar).\n\n5: Operationally, Unitree is still a relatively small company. \n\nIt has only 516 FTEs, versus 1,500 at Agibot.\n\nListen to this podcast for more.\n\n#unitree #robotics #embodiedAI\n\nhttps://t.co/g9PuhmYasL",
+    "createdAt": "Tue Aug 18 01:51:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 483146,
+      "friendsCount": 1556,
+      "location": "CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HP-AjKrWUAA1JRX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2089530098902864336",
+    "fullText": "Labour to keep alive in your Breast that Little Spark of Celestial fire Called Conscience https://t.co/nBfua981ZJ",
+    "createdAt": "Tue Aug 18 01:49:31 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "NaveenGRao",
       "name": "Naveen Rao",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2087023262236921858/GCaQr6e4_normal.jpg",
       "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
-      "followersCount": 38674,
-      "friendsCount": 965,
+      "followersCount": 38677,
+      "friendsCount": 966,
       "location": "Incline Village, NV"
     },
     "images": [],
@@ -21,8 +139,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 457247,
-      "friendsCount": 13341,
+      "followersCount": 457276,
+      "friendsCount": 13339,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -37,7 +155,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 302075,
+      "followersCount": 302091,
       "friendsCount": 8421,
       "location": "United States"
     },
@@ -53,7 +171,7 @@
       "name": "Azeem Azhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
       "description": "Exponential View @exponentialview.",
-      "followersCount": 52885,
+      "followersCount": 52896,
       "friendsCount": 2354,
       "location": "2.718281828459045"
     },
@@ -71,7 +189,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
-      "followersCount": 216737,
+      "followersCount": 216745,
       "friendsCount": 219,
       "location": "US"
     },
@@ -87,7 +205,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
-      "followersCount": 216737,
+      "followersCount": 216745,
       "friendsCount": 219,
       "location": "US"
     },
@@ -103,7 +221,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1053970,
+      "followersCount": 1053974,
       "friendsCount": 64,
       "location": "The Cloud"
     },
@@ -121,7 +239,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4811537,
+      "followersCount": 4812451,
       "friendsCount": 799,
       "location": ""
     },
@@ -137,7 +255,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4811537,
+      "followersCount": 4812451,
       "friendsCount": 799,
       "location": ""
     },
@@ -153,7 +271,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 98282,
+      "followersCount": 98284,
       "friendsCount": 935,
       "location": "Seattle"
     },
@@ -171,7 +289,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412628,
+      "followersCount": 412638,
       "friendsCount": 884,
       "location": ""
     },
@@ -187,7 +305,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479169,
+      "followersCount": 479149,
       "friendsCount": 1574,
       "location": "Austin, TX"
     },
@@ -203,7 +321,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412628,
+      "followersCount": 412638,
       "friendsCount": 884,
       "location": ""
     },
@@ -219,7 +337,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412628,
+      "followersCount": 412638,
       "friendsCount": 884,
       "location": ""
     },
@@ -235,7 +353,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
-      "followersCount": 216737,
+      "followersCount": 216745,
       "friendsCount": 219,
       "location": "US"
     },
@@ -269,7 +387,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 129711,
+      "followersCount": 129701,
       "friendsCount": 1,
       "location": ""
     },
@@ -287,7 +405,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1053970,
+      "followersCount": 1053974,
       "friendsCount": 64,
       "location": "The Cloud"
     },
@@ -305,7 +423,7 @@
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 116568,
+      "followersCount": 116587,
       "friendsCount": 51,
       "location": ""
     },
@@ -422,5 +540,21 @@
     "tweetUrl": "https://x.com/LangChain/status/2089422681481592910",
     "fullText": ".@mondaydotcom built their AI copilot, Sidekick, to do more than answer questions.\n\nIt can handle complex, iterative work like analyzing CSVs or generating a map on the fly. To do this, they give agents an isolated workspace with LangSmith Sandboxes.\n\nHow they built it and what they learned: https://t.co/XGxytGYM8c",
     "createdAt": "Mon Aug 17 18:42:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 348351,
+      "friendsCount": 20441,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2089394060809146841",
+    "fullText": "Hi! It's @TamarRottShaham here 👋\n\nTaking over the CSAIL account for the day as I’m wrapping up my postdoc! I’ll be sharing a bit about my research and life at CSAIL. Feel free to ask me anything about AI interpretability research or postdoc life!",
+    "createdAt": "Mon Aug 17 16:48:57 +0000 2026"
   }
 ]
