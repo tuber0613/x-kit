@@ -1,11 +1,185 @@
 [
   {
     "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1054699,
+      "friendsCount": 64,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089749545974738944/vid/avc1/1280x720/qKZX8GUlUnmKQC1Z.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2089751881677681106",
+    "fullText": "It's been 5 weeks since we learned about the OpenAI/Hugging Face breach, which revealed an awkward reality: defenders have to ask models the same questions attackers do.\n\nIn this conversation, Cotool CEO Max Pollard and Neo CEO Nick Warner sit down with a16z's Joel de la Garza at Black Hat to discuss how security tools were designed to stop people or malware (and how AI agents are neither), what breaks when half of enterprise software goes agentic, and how teams are routing around cyber refusals.\n\n00:00 Intro\n01:00 Models escaping containment & the Hugging Face breach\n01:50 Why models refuse to help the good guys\n05:45 Built to stop people and malware, but agents are neither\n06:45 \"The end justifies the means, in the mind of the model\"\n10:45 50% of enterprise apps agentic before 2027\n14:20 When your honeypot becomes a false positive machine\n15:25 Signatures are dead, and so is behavioral detection\n18:55 Defending AI and defending from AI\n\n@maxpollard415 @cotoolai @neo_ai_security",
+    "createdAt": "Tue Aug 18 16:30:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 261821,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089556657781256194/vid/avc1/1920x1080/XTUah5dKXt-xj9Ry.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2089751679487090945",
+    "fullText": "Learn how @unifygtm cut 90-95% of model costs two weeks before launch on last week’s Max Agency episode\n\n⏯️ YouTube: https://t.co/Ldy6KnW1Rm\n\n🎧 Apple: https://t.co/6KAVbFxc9V\n\n🎧 Spotify: https://t.co/UhEMNqx5oN https://t.co/PonVpDUwCj",
+    "createdAt": "Tue Aug 18 16:30:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 412693,
+      "friendsCount": 884,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2089751667948356055",
+    "fullText": "The most valuable asset outside of your house, family, company, job, you name it... Is the healthy time you have left to enjoy all of them!",
+    "createdAt": "Tue Aug 18 16:29:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 331516,
+      "friendsCount": 897,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQBIe5nasAEi9NE.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2089750360869233059",
+    "fullText": "We just released TensorRT Model Connect in Public Preview.\n\nYou can take a supported @huggingface model to end-to-end TensorRT inference in just two commands. No intermediate ONNX export, and the resulting bundle can run through native C++ APIs.\n\nWe also built the entire project with @OpenAIDevs Codex agents, with humans directing and reviewing the work. That includes model implementations, performance tuning, tests, integrations, and docs.\n\nIt’s open source, so go try it out, dig into the implementations, or contribute support for a new model: https://t.co/qlOT90ylxY",
+    "createdAt": "Tue Aug 18 16:24:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 261821,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2089749512432877874",
+    "fullText": "Introducing LangSmith Tuned Evaluators\n\nThey automatically score agent behavior in production, starting with Perceived Error.\n\nPerceived Error is one of the clearest signals that your agent is giving users a helpful experience.\n\nIn our benchmark, our specialized model outperformed every frontier model we tested and reduced evaluation cost by 82%.\n\nLearn more: https://t.co/mStTxLhrih",
+    "createdAt": "Tue Aug 18 16:21:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 302189,
+      "friendsCount": 8419,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQBGbgub0AAXe__.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2089747669531123790",
+    "fullText": "https://t.co/ij6I2kbIPn",
+    "createdAt": "Tue Aug 18 16:14:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107988,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2089745565844197731",
+    "fullText": "The smarter X’s algorithm gets at reading your behavior, the further it drifts from what you actually want. A new Stanford-led study explains why: \nhttps://t.co/L74gisPsZl",
+    "createdAt": "Tue Aug 18 16:05:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 348407,
+      "friendsCount": 20444,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQBDlxZXQAAN4eH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2089744547735650385",
+    "fullText": "New MIT paper finds that you can can delete an artist from an AI model's training data &amp; nothing changes.\n\nCSAIL engineers also observed that it's hard to trace AI-generated images to specific data. Their work raises new questions about AI copyright: https://t.co/FvvWJpXMHO https://t.co/T9ehvzIoYE",
+    "createdAt": "Tue Aug 18 16:01:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 500099,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089744108294426624/vid/avc1/1280x720/Jq7fBYECJybll2KQ.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2089744150229131651",
+    "fullText": "Computer now works in email.\n\nSend, forward, or cc computer@perplexity.com on any thread.\n\nEvery email task runs as a normal session in Computer, viewable on web and mobile, with the same audit trail as any task in the app. https://t.co/y5UtNtI3Y4",
+    "createdAt": "Tue Aug 18 16:00:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314280,
+      "friendsCount": 962,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQBAsonakAAw_Fv.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2089741366331146694",
+    "fullText": "// What Actually Happens Inside An Agent Team //\n\nAgent teams are an unsolved problem. And it's actually quite hard to get agent teams to work correctly.\n\nThis work finds that naming one agent the coordinator creates no communication hub and gives no reliable improvement in success.\n\nHow so?\n\nResearchers instrumented 1,902 multi-agent coding runs as temporal networks, with agents and files as nodes and messages, writes, and reads as timestamped edges carrying cost.\n\nDirect messaging grows close to quadratically with team size, much of it from an early round of introductions, then saturates in the largest teams as agents switch to broadcast.\n\nTask shape drives topology. Shared-specification work produces dense connected teams while pipeline tasks produce sparse networks organised around local interfaces.\n\nSwapping repeated one-to-one messages for shared files cut output tokens about 42% at eight agents on message-heavy work.\n\nAgents sought out hidden grading material unprompted, and in a sealed rerun across 244 runs with marked placeholder files they still reached for it in four fifths of runs.",
+    "createdAt": "Tue Aug 18 15:49:01 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 454854,
+      "followersCount": 454860,
       "friendsCount": 588,
       "location": "🇺🇸 Collaborations →"
     },
@@ -23,7 +197,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261817,
+      "followersCount": 261821,
       "friendsCount": 183,
       "location": ""
     },
@@ -57,7 +231,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 154913,
+      "followersCount": 154916,
       "friendsCount": 3360,
       "location": "on ⛓"
     },
@@ -75,7 +249,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479205,
+      "followersCount": 479207,
       "friendsCount": 1575,
       "location": "Austin, TX"
     },
@@ -91,7 +265,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479205,
+      "followersCount": 479207,
       "friendsCount": 1575,
       "location": "Austin, TX"
     },
@@ -107,7 +281,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 96087,
+      "followersCount": 96089,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -125,7 +299,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36773,
+      "followersCount": 36777,
       "friendsCount": 1866,
       "location": ""
     },
@@ -143,7 +317,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 302175,
+      "followersCount": 302189,
       "friendsCount": 8419,
       "location": "United States"
     },
@@ -177,7 +351,7 @@
       "name": "sridhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
       "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
-      "followersCount": 35581,
+      "followersCount": 35584,
       "friendsCount": 624,
       "location": "Mountain View, CA"
     },
@@ -195,7 +369,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36773,
+      "followersCount": 36777,
       "friendsCount": 1866,
       "location": ""
     },
@@ -213,7 +387,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479205,
+      "followersCount": 479207,
       "friendsCount": 1575,
       "location": "Austin, TX"
     },
