@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 302243,
+      "friendsCount": 8420,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2089829406755922376",
+    "fullText": "Sovereignty is all you need.",
+    "createdAt": "Tue Aug 18 21:38:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314289,
+      "friendsCount": 962,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQCP5A1bsAAyrxn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2089828440572846461",
+    "fullText": "Really interesting paper.\n\nI recommend it to anyone interested in training agents using existing harnesses.\n\n(bookmark it)\n\nClawGym II runs RL through OpenClaw and Claude Code as opaque boxes. A serving proxy sits at the model boundary and captures every call the harness makes, then those calls get organized into prefix trees so PPO and GRPO can optimize over the recovered multi-turn structure.\n\nQwen3-30A3B gains 9.98 points of Pass@1 through OpenClaw and 14.81 through Claude Code, stable across 200 to 400 optimization steps.\n\nMix-harness training pushes further. One model gets optimized jointly by heterogeneous harnesses, which points at policies that generalize across execution systems instead of overfitting to a single one.\n\nPaper: https://t.co/Am5kH7TguU\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Tue Aug 18 21:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129736,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQCOwXLaIAAQukT.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2089827192184471980",
+    "fullText": "Does your context compactor actually save anything?\n\nIf you built or tuned one, this one is worth your time.\n\n(bookmark it)\n\nTask completion is the standard way to validate compression, and it hides the real bill. In a bounded 24-turn tool-using agent, GPT-5.5 held completion flat from 80% to 85% while retrieval calls climbed from 21.0 to 63.9. The agent kept finishing. It just spent three times the tool calls going back for state the compactor had dropped.\n\nRetrieval rose in all six model-regime comparisons, five of them significant after correction, while completion moved in none.\n\nContent validity mattered more than volume. Replacing retained state with semantically irrelevant content raised retrieval 57% with no completion change, and random selection performed about as well as an offline hindsight oracle.\n\nALFWorld showed no retrieval surge under sliding compression, so this needs measuring in your own environment.\n\nPaper: https://t.co/5YSimyYimG\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Tue Aug 18 21:30:04 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "googleaidevs",
       "name": "Google AI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
       "description": "AI for every developer. So what will you build?",
-      "followersCount": 116832,
+      "followersCount": 116841,
       "friendsCount": 51,
       "location": ""
     },
@@ -23,7 +75,7 @@
       "name": "Shivon Zilis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
       "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
-      "followersCount": 555204,
+      "followersCount": 555284,
       "friendsCount": 1733,
       "location": "Palo Alto, CA"
     },
@@ -41,7 +93,7 @@
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 333855,
+      "followersCount": 333859,
       "friendsCount": 307,
       "location": "London"
     },
@@ -57,7 +109,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241393789,
+      "followersCount": 241394239,
       "friendsCount": 1392,
       "location": ""
     },
@@ -73,7 +125,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261861,
+      "followersCount": 261862,
       "friendsCount": 183,
       "location": ""
     },
@@ -91,7 +143,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "followersCount": 500121,
+      "followersCount": 500125,
       "friendsCount": 78,
       "location": "San Francisco, CA"
     },
@@ -109,7 +161,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 96111,
+      "followersCount": 96113,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -145,7 +197,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261861,
+      "followersCount": 261862,
       "friendsCount": 183,
       "location": ""
     },
@@ -163,7 +215,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 302234,
+      "followersCount": 302243,
       "friendsCount": 8420,
       "location": "United States"
     },
@@ -179,7 +231,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "AI is cool i guess",
-      "followersCount": 5923591,
+      "followersCount": 5923799,
       "friendsCount": 1022,
       "location": "SF"
     },
@@ -211,7 +263,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412722,
+      "followersCount": 412719,
       "friendsCount": 884,
       "location": ""
     },
@@ -245,7 +297,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 331625,
+      "followersCount": 331633,
       "friendsCount": 897,
       "location": "Santa Clara, CA"
     },
@@ -453,7 +505,7 @@
       "name": "Microsoft AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
       "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
-      "followersCount": 18333,
+      "followersCount": 18335,
       "friendsCount": 19,
       "location": ""
     },
