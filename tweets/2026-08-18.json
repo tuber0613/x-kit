@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 302188,
+      "friendsCount": 8421,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2089766685301710860",
+    "fullText": "Asyncronous communication, *ESPECIALLY* in professional setting, should be the default. There are very, very, very few circumstances that warrant immediate synchronous communication, and almost none where such communication needs to be scheduled at a predetermined time.",
+    "createdAt": "Tue Aug 18 17:29:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 393808,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089766362508124160/vid/avc1/1280x720/lcF_ox5-j_NTZIv3.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2089766380480725199",
+    "fullText": "OpenAI DevDay is going global.\n\nStarting this October, DevDay Exchange is bringing builders together to swap build notes, share real projects, and meet the teams building OpenAI tools in:\n\nBengaluru\nTokyo\nSeoul\nBerlin\nParis\nLondon\nSão Paulo\nMexico City\n\nWe're ready to see what developers around the 🌎 are pushing to prod.",
+    "createdAt": "Tue Aug 18 17:28:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 216789,
+      "friendsCount": 219,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089752245583876096/vid/avc1/1920x1080/LzzNi96KTrLGOSEE.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/arena/status/2089755251134083578",
+    "fullText": "During an agentic session, a quick “hi” after a coffee break can cost a full dollar.\n\nBut it’s not because of the “hi.” It’s the million tokens of context you’re repaying for the moment your cache goes cold.\n\nHere's the caching math from @evan_a_frick:\n\n0:00 Why you're billed for last turn's context, not just this one\n0:17 Cache hits: ~10% of full price\n0:41 Agentic AI = way more back-and-forth than chat\n1:16 Paying full price for context even on a 1-token tool call\n1:40 Cache hit vs. cache miss\n2:13 The $1 \"hi\": walk away for an hour, come back to a cold cache\n2:59 Cost grows by the square, even with caching\n3:28 How context compaction helps\n4:03 Why Claude Code/Codex may compact at ~200-300K, not the full 1M window",
+    "createdAt": "Tue Aug 18 16:44:12 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "a16z",
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1054699,
+      "followersCount": 1054749,
       "friendsCount": 64,
       "location": "The Cloud"
     },
@@ -23,7 +75,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261821,
+      "followersCount": 261826,
       "friendsCount": 183,
       "location": ""
     },
@@ -41,7 +93,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412693,
+      "followersCount": 412702,
       "friendsCount": 884,
       "location": ""
     },
@@ -57,7 +109,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 331516,
+      "followersCount": 331550,
       "friendsCount": 897,
       "location": "Santa Clara, CA"
     },
@@ -75,7 +127,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261821,
+      "followersCount": 261826,
       "friendsCount": 183,
       "location": ""
     },
@@ -91,8 +143,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 302189,
-      "friendsCount": 8419,
+      "followersCount": 302188,
+      "friendsCount": 8421,
       "location": "United States"
     },
     "images": [
@@ -109,7 +161,7 @@
       "name": "Stanford HAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
       "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
-      "followersCount": 107988,
+      "followersCount": 107989,
       "friendsCount": 605,
       "location": "Stanford, CA"
     },
@@ -125,7 +177,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 348407,
+      "followersCount": 348404,
       "friendsCount": 20444,
       "location": "Cambridge, MA"
     },
@@ -143,7 +195,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "followersCount": 500099,
+      "followersCount": 500111,
       "friendsCount": 78,
       "location": "San Francisco, CA"
     },
@@ -161,7 +213,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 314280,
+      "followersCount": 314282,
       "friendsCount": 962,
       "location": "DAIR.AI Academy"
     },
@@ -179,7 +231,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 454860,
+      "followersCount": 454848,
       "friendsCount": 588,
       "location": "🇺🇸 Collaborations →"
     },
@@ -197,7 +249,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261821,
+      "followersCount": 261826,
       "friendsCount": 183,
       "location": ""
     },
@@ -215,7 +267,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412693,
+      "followersCount": 412702,
       "friendsCount": 884,
       "location": ""
     },
@@ -231,7 +283,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 154916,
+      "followersCount": 154921,
       "friendsCount": 3360,
       "location": "on ⛓"
     },
@@ -249,7 +301,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479207,
+      "followersCount": 479214,
       "friendsCount": 1575,
       "location": "Austin, TX"
     },
