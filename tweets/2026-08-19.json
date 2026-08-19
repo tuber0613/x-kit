@@ -1,0 +1,364 @@
+[
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 63141,
+      "friendsCount": 11295,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQDEWVoaIAEliRZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2089886123367801016",
+    "fullText": "This is for sale in a famous taxidermy shop in SF.\n\nHow much do you think it costs? https://t.co/Odtl2fmnYk",
+    "createdAt": "Wed Aug 19 01:24:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 479255,
+      "friendsCount": 1575,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2089886032506306806",
+    "fullText": "If you’ve never visited Gauntlet AI and seen what the challengers are doing you’ll never get it.\n\nIf you’re ever in Austin you owe it to yourself to swing by.",
+    "createdAt": "Wed Aug 19 01:23:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36775,
+      "friendsCount": 1866,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQDA2kmasAAAVQE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2089884445495169241",
+    "fullText": "HarnessRouter也开源了：这个项目一直在关注，如果说OpenRouter 路由的是模型，HarnessRouter 路由的是 harness，一套 API 之下，Codex、Claude Code、Hermes 随便换。\n\n解决问题： 前段时间 Composio 做了组基准：同一个模型、同一批任务，只换 agent harness，token 消耗最高差 30 倍。 那么问题就来了——你怎么换、怎么比？HarnessRouter 就是这个发现的基础设施答案。\n\n在HarnessRouter里Codex、Claude Code、Hermes 三个 agent 运行时，一个 OpenAI Responses 兼容的 API 全接管，会话/流式/文件/取消/幂等统一，你的 key、无云、无遥测。\n\n最有分量的部分是那个协议 UHP协议（Unified Harness Protocol）：包含十章规范 + OpenAPI schema + 一致性测试套件，自己是参考实现，docker 一条命令自托管，自带 key、不回传。\n\n这段时间已经分享了一堆各种harness，当一个品类开始出现\"路由 + 协议 + 合规测试\"的时候，说明它正在从各家自造收敛成基础设施。 这跟当年 LLM 有了 OpenRouter、工具调用有了 MCP 是同一种节奏。harness层的路由项目HarnessRouter 能不能成不好说，但这个位置一定会有人占，或许UHP协议是个开始。\n#AIagent #harness #agent基础设施 #自托管 #开源",
+    "createdAt": "Wed Aug 19 01:17:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 459103,
+      "friendsCount": 13338,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2089884327740158288",
+    "fullText": "people on here are thinkers so they assume that reasoning about alignment is the hard part and making sure millions(1) of task types, environments, and their respective virtual machines are configured correctly is the easy part but it’s essentially the opposite. you need to have worked in a large technology organization to appreciate the complexity and unreliability of this intuitively\n\n(1) made up order of magnitude",
+    "createdAt": "Wed Aug 19 01:17:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 90397,
+      "friendsCount": 5406,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HQC_Q17acAAagsW.mp4"
+    ],
+    "tweetUrl": "https://x.com/mervenoyann/status/2089880946527137822",
+    "fullText": "pov training 4B Qwen to play snake it just learned to piggybacking on survival \n\nI should penalize every turn that it doesn't eat anything but I'm sure this will have funny side effects 😄 https://t.co/pQc8eZPaJK",
+    "createdAt": "Wed Aug 19 01:03:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5696,
+      "friendsCount": 1201,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2089878621863411941",
+    "fullText": "INSIDE TAIROS: TENCENT'S PLAY TO BE THE ANDROID OF ROBOTS\n\nI had 3 take-aways from the Tencent forum:\n\n1: Tencent is way more focused on robot brains (i.e., embodied AI) than I was aware of. \n\nThat’s Tairos. \n\n2: WorkBuddy is their flagship for AI agents. \n\nBut they have 5 other “buddies” to keep an eye on.\n\n3: Tencent will likely be the global leader in AI and agent marketing.\n\nRead my breakdown of Tairos here.\n\nhttps://t.co/zABrM6LM5v",
+    "createdAt": "Wed Aug 19 00:54:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 412742,
+      "friendsCount": 884,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2089850292644802722",
+    "fullText": "Elon does not like being #2. Neither should any founder who has access to the same frontier model tools be available. Always push for the best.",
+    "createdAt": "Tue Aug 18 23:01:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 107996,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQCh2Iya8AADxt2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2089848204171100529",
+    "fullText": "Thanks to the incredible congressional staffers who joined us on campus this week for the Stanford HAI Congressional Boot Camp on AI! Over three days, we explored how AI is transforming everything from health care and education to national security and energy — and what smart, human-centered policy can look like. Thank you to the staffers, who brought sharp questions, and our panelists of faculty and industry leaders, who brought deep insight.",
+    "createdAt": "Tue Aug 18 22:53:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1600665,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089839233309773824/vid/avc1/1280x720/nHWgl750hpZfMNMd.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2089842387845804246",
+    "fullText": "Many drugs work by binding to a specific target in the body and blocking or changing what it does. An important first step in the drug development process is designing a molecule that can bind tightly to its target. Traditionally, that's meant weeks or months of expert work per target, sifting through a large number of candidates to identify the few that work.\n\nWe wanted to test if Claude could successfully design novel protein binders from scratch (also called de novo design). With a protein design prompt written by a human expert, Claude autonomously designed protein binders against 14 out of 15 targets.\n\nWe then worked with Adaptyv Bio and Twist Bioscience, who independently built and tested the proteins Claude designed.",
+    "createdAt": "Tue Aug 18 22:30:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 302284,
+      "friendsCount": 8422,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQCVPJFbQAA5qE0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2089834318340468754",
+    "fullText": "Yeah, that’s totally off. https://t.co/9tIbwXnb9X",
+    "createdAt": "Tue Aug 18 21:58:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 302284,
+      "friendsCount": 8422,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2089829406755922376",
+    "fullText": "Sovereignty is all you need.",
+    "createdAt": "Tue Aug 18 21:38:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314301,
+      "friendsCount": 964,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQCP5A1bsAAyrxn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2089828440572846461",
+    "fullText": "Really interesting paper.\n\nI recommend it to anyone interested in training agents using existing harnesses.\n\n(bookmark it)\n\nClawGym II runs RL through OpenClaw and Claude Code as opaque boxes. A serving proxy sits at the model boundary and captures every call the harness makes, then those calls get organized into prefix trees so PPO and GRPO can optimize over the recovered multi-turn structure.\n\nQwen3-30A3B gains 9.98 points of Pass@1 through OpenClaw and 14.81 through Claude Code, stable across 200 to 400 optimization steps.\n\nMix-harness training pushes further. One model gets optimized jointly by heterogeneous harnesses, which points at policies that generalize across execution systems instead of overfitting to a single one.\n\nPaper: https://t.co/Am5kH7TguU\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Tue Aug 18 21:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129735,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQCOwXLaIAAQukT.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2089827192184471980",
+    "fullText": "Does your context compactor actually save anything?\n\nIf you built or tuned one, this one is worth your time.\n\n(bookmark it)\n\nTask completion is the standard way to validate compression, and it hides the real bill. In a bounded 24-turn tool-using agent, GPT-5.5 held completion flat from 80% to 85% while retrieval calls climbed from 21.0 to 63.9. The agent kept finishing. It just spent three times the tool calls going back for state the compactor had dropped.\n\nRetrieval rose in all six model-regime comparisons, five of them significant after correction, while completion moved in none.\n\nContent validity mattered more than volume. Replacing retained state with semantically irrelevant content raised retrieval 57% with no completion change, and random selection performed about as well as an offline hindsight oracle.\n\nALFWorld showed no retrieval surge under sliding compression, so this needs measuring in your own environment.\n\nPaper: https://t.co/5YSimyYimG\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Tue Aug 18 21:30:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 116871,
+      "friendsCount": 51,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089823496868352000/vid/avc1/1920x1080/b1f4K880EVwYpgZV.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/googleaidevs/status/2089825267732849049",
+    "fullText": "From a single prompt to a fully animated parallax landing page. 🤯\n\nSee how Gemini 3.7 Flash, combined with Nano Banana and Omni, builds interactive websites in one shot. Under the hood, 3.7 Flash calls the right tools to generate the copy, image references, and render parallax-ready Omni videos.",
+    "createdAt": "Tue Aug 18 21:22:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "shivon",
+      "name": "Shivon Zilis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
+      "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
+      "followersCount": 555760,
+      "friendsCount": 1733,
+      "location": "Palo Alto, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQCM3EKXYAASZbS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/shivon/status/2089825111763263681",
+    "fullText": "Rare starwhal sighting https://t.co/tor15B0pDI",
+    "createdAt": "Tue Aug 18 21:21:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 333883,
+      "friendsCount": 312,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2089822790601850947",
+    "fullText": "Who are the smartest investors thinking about the Intelligence Age transition?",
+    "createdAt": "Tue Aug 18 21:12:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241396249,
+      "friendsCount": 1392,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2089822761938194900",
+    "fullText": "There is a potential future that is super amazing is we all fight hard to achieve it",
+    "createdAt": "Tue Aug 18 21:12:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241396249,
+      "friendsCount": 1392,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2089820740820619673",
+    "fullText": "@a16z Yup 😂",
+    "createdAt": "Tue Aug 18 21:04:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 261865,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQCIFSAXEAAg12l.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2089819864542146775",
+    "fullText": "An agent that fixes your agent. It’s genius. https://t.co/q8yZf21VVi",
+    "createdAt": "Tue Aug 18 21:00:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 500147,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQCH5rPbkAAU52d.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2089819655712210956",
+    "fullText": "DeepSeek V4 Pro, hosted in the U.S., is now available in Perplexity Computer.\n\nWe evaluated it against other models on WANDR. It scored 0.359 at $0.75 per task, 62% cheaper than the next model on the cost-performance frontier. https://t.co/uSlRUfcNoI",
+    "createdAt": "Tue Aug 18 21:00:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 210814,
+      "friendsCount": 597,
+      "location": "Venice, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089684856943030274/vid/avc1/2400x1320/oMIg2EvCgHwC22Jq.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/wintonARK/status/2089684911741706253",
+    "fullText": "The United States vs The World\n\nBetter to live in *any* US state.\n\nBetter to live now than ever before. https://t.co/lw3ihP0vgV",
+    "createdAt": "Tue Aug 18 12:04:42 +0000 2026"
+  }
+]
