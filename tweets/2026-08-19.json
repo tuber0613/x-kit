@@ -1,11 +1,202 @@
 [
   {
     "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 217045,
+      "friendsCount": 219,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQGxYkpbMAAb3ay.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2090147328619692153",
+    "fullText": "Top 15 models in Agent Arena vs. median task cost: who's delivering the most for their price?\n\nKey findings:\n\nEven within the top 5, median cost per task ranges from $0.62 for Kimi K3 (Max) to $3.37 for Claude Opus 5 (Max), a more than 5x difference.\n\nClaude Opus 5 (Max) costs almost twice as much as Opus 5 (High), despite scoring slightly lower:\n- Opus 5 (Max): +12.0% at $3.37 per task\n- Opus 5 (High): +12.3% at $1.78 per task\n\nKimi K3 (Max) stands out for value near the top. It ranks #4 with +10.5% net improvement, while its $0.62 median task cost is the lowest among the top eight.\n\nGPT-5.6 Sol (xHigh) is the highest-ranked OpenAI model at #5. Its $1.39 median cost is lower than all three Anthropic models ranked above it, although its +9.8% score is also lower.\n\nGrok and Qwen deliver competitive performance at some of the lowest costs:\n- Grok 4.5 achieves +6.1% at $0.22 per task\n- Qwen-3.8 Max achieves +6.3% at $0.33 per task\n\nAgent Arena evaluates models on millions of real-world, long-horizon agentic tasks from a global community of users. Models use tools like web search, filesystem access, and terminal commands to complete complex workflows.\n\nPerformance is measured as net improvement, using causal tracing methodology to estimate how much each model improves outcomes relative to the average model. Cost is measured below as median cost per task.",
+    "createdAt": "Wed Aug 19 18:42:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "character_ai",
+      "name": "Character.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963055647853051907/NZME6Fm9_normal.png",
+      "description": "Unleash your imagination—chat, create, explore.",
+      "followersCount": 148082,
+      "friendsCount": 13,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQGxYupb0AAtQSj.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090146670373924864/vid/avc1/1080x1080/LZLk6XJ7CgiW2gMo.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2090146706520420352/vid/avc1/1080x1080/piIVxT9Rj-yflu6V.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/character_ai/status/2090147088453750928",
+    "fullText": "(c.ai+) members can now set their Imagine Animate videos as chat wallpapers🖼️\n\npick a fav clip from your Gallery, or directly set one in the wallpaper settings in your chat.\n\nmake your chat even more immersive✨\n\n#characterai #cai https://t.co/EgwvvcOcvb",
+    "createdAt": "Wed Aug 19 18:41:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 98410,
+      "friendsCount": 936,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQGvH2LXoAAvzAQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2090145176832389595",
+    "fullText": "I think the RAM score @xeophon and I made for ATOM work is a really solid metric. If I just rank by the top RAM scores @ 30days within our artifacts curation, all the models are really solid.\n\nRAM score @ t= (model's cumulative downloads) @ t / (top-10 downloads for size class) @ t\n\nRAM is essentially looking at a model's downloads at specific points in time (this case t is 30 days), relative to the downloads of the top 10 models of all time in that size bracket. A score of above 1 means it's on track to be a top 10 downloaded model at that size category. Imo most meaningful for 50B+ models.\n\nDownloads alone normally isn't great on HuggingFace, but it's rare a large MoE gets a ton of adoption without being a solid model.",
+    "createdAt": "Wed Aug 19 18:33:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 412814,
+      "friendsCount": 884,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2090144441080127901",
+    "fullText": "Hollywood has exported American culture for a century. Now, 9/10 of the top text-to-video models are from Chinese companies. \nWhat happens when the world gets flooded with Chinese-produced English-language films?",
+    "createdAt": "Wed Aug 19 18:30:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314342,
+      "friendsCount": 968,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090137194002300930/vid/avc1/3780x2160/kEGqH0BF2HFW4tpy.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2090138030296219973",
+    "fullText": "New open-source agent harness just landed!\n\nI got early access to TrueForge by TrueFoundry and have been running it locally for the past few days.\n\nThe harness layer deserves as much attention as the model, and open source matters here because you can inspect the loop, run it on your own infrastructure, and swap to the latest or cheaper models.\n\nTrueForge handles the runtime work that makes an agent reliable.\n\nIt drives the tool-calling loop, manages context, coordinates subagents, and executes code in a sandbox, with any model you choose. Every tool call re-sends the growing context to the model, so in practice the harness controls most of what an agent costs to run.\n\nA few things stood out from my testing and their published benchmarks.\n\nVendor-Neutral by design. It runs OpenAI, Anthropic, and Google models alongside open-weight models like Kimi, GLM, and DeepSeek. Model routing is a setting, and you can send each task to the model that fits it.\n\nOn a 14-task enterprise agent benchmark, it matched the accuracy of Claude Managed Agents running the same Opus 4.8 model at roughly 30% lower cost per run (3.8M tokens vs 10M for the same answers).\n\nRouting the same tasks to GLM-5.2 held accuracy and brought cost down by about 75%, around $3 per run instead of $12.\n\nFully self-hosted and Open Source (MIT License). I had it running locally with one command, with sandboxed code execution working out of the box.\n\nIt's time to own your agent harness. \n\nThanks to @truefoundry for partnering on this post.",
+    "createdAt": "Wed Aug 19 18:05:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241415586,
+      "friendsCount": 1392,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2090136255694881101",
+    "fullText": "Derek Chauvin was unjustly convicted of murder, therefore he should be freed. \n\nThe facts show that he was not the cause of death, nor did he at any time intend for a death to occur. Whatever else he may be, he is not a murderer. \n\nThat is the truth.",
+    "createdAt": "Wed Aug 19 17:58:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NaveenGRao",
+      "name": "Naveen Rao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2087023262236921858/GCaQr6e4_normal.jpg",
+      "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
+      "followersCount": 38703,
+      "friendsCount": 967,
+      "location": "Incline Village, NV"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NaveenGRao/status/2090134680477860050",
+    "fullText": "The single biggest thing that the general populace is missing about AI is that it will create 100x more entrepreneurs. People focus on job \"loss\" (partially the fault of AI labs' rhetoric)...it's not loss, it's change. AI enables human agency and enables more people to deliver value! It seems so obvious",
+    "createdAt": "Wed Aug 19 17:51:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4849109,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2090134146995900840",
+    "fullText": "The Tesla that Jessica just bought cost $48k and has a range of about 350 miles. The one she bought in 2015 cost $135k, adjusted for inflation, and had a range of 270 miles. People who think they dislike capitalism don't know how good they have it.",
+    "createdAt": "Wed Aug 19 17:49:48 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "LangChain",
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 261955,
+      "followersCount": 261963,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQGjLS5XQAAio9u.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2090131322262159618",
+    "fullText": "The Learning Loop in SF on September 2nd: https://t.co/HSlr2SV1AI\n\nHear from:\n- Jake Broekhuizen, Labs Engineer, LangChain\n- Will Brown, Head of Applied Research, @PrimeIntellect\n- Charlie O'Neill, Co-Head of Model Training, @baseten \n\nfor an evening exploring continual learning, what it means to own your own intelligence, and how to build systems that learn and improve over time.\n\nAfter the talks, we’ll head to the patio where you can meet the LangSmith Engine team, enjoy food, drinks, slot car racing, an AI photo booth, and more. Spots are limited.",
+    "createdAt": "Wed Aug 19 17:38:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 479355,
+      "friendsCount": 1576,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2090131060658978891",
+    "fullText": "The biggest difference between Grok Bot and OpenClaw is it was actually packaged for the end consumer, not open source for devs.\n\nThat means you can’t require people install a bunch of crap, go get API keys, install a server (or a Mac mini), etc.\n\nHas to “just work.”",
+    "createdAt": "Wed Aug 19 17:37:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4849109,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQGiD5KbYAArfks.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2090130045063107015",
+    "fullText": "The trouble with having Zane Hengsperger visit your house is that instead of the usual random house gift, he brings you a 10 pound block of solid aluminum. https://t.co/OYS0uZdwgG",
+    "createdAt": "Wed Aug 19 17:33:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 261963,
       "friendsCount": 183,
       "location": ""
     },
@@ -23,7 +214,7 @@
       "name": "Prof. Anima Anandkumar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1443692617473015808/1ygwZsWX_normal.jpg",
       "description": "AI+Science, Bren Professor @caltech, Time100, Fmr Sr Director of #AI research @nvidia Fmr Principal Scientist @awscloud",
-      "followersCount": 41668,
+      "followersCount": 41669,
       "friendsCount": 2434,
       "location": ""
     },
@@ -41,7 +232,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 394239,
+      "followersCount": 394254,
       "friendsCount": 1,
       "location": ""
     },
@@ -57,7 +248,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1055877,
+      "followersCount": 1055928,
       "friendsCount": 64,
       "location": "The Cloud"
     },
@@ -75,7 +266,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479341,
+      "followersCount": 479355,
       "friendsCount": 1576,
       "location": "Austin, TX"
     },
@@ -91,7 +282,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 129764,
+      "followersCount": 129766,
       "friendsCount": 1,
       "location": ""
     },
@@ -143,7 +334,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 331857,
+      "followersCount": 331868,
       "friendsCount": 897,
       "location": "Santa Clara, CA"
     },
