@@ -1,11 +1,50 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36783,
+      "friendsCount": 1872,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQEofW2aAAAfGcU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2089996669186462041",
+    "fullText": "腾讯开源： teamai-cli，用Git驱动面向团队的AI协作基础设施\n\n让团队里用Claude Code、Codex、WorkBuddy、Cursor等不同AI编程工具的人，共享同一套技能、规则、文档，Git原生分发方式\n\n等于是公司里的员工手册+培训体系+知识库管理系统\n\n它可以把Skills、Rules、Docs、Hooks以及MCP Server 配置等Harness资源放进一个团队Git仓库，再同步给 WorkBuddy、Codex、Claude Code等不同AI\n\n团队管理员在GitHub/TGit上建一个共享仓库，把技能、规则、文档放进去；每个成员在自己的项目里运行teamai init <仓库地址>，一键接入\n\n以后每次开AI会话，自动teamai pull，把最新规则同步到本地的Claude/Cursor等里\n\n想改规则的话，teamai push提交一个合并请求，审完合并，全队自动生效\n\n#teamaicli",
+    "createdAt": "Wed Aug 19 08:43:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 168399,
+      "friendsCount": 1290,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQEkSSfbkAEQd_t.jpg",
+      "https://pbs.twimg.com/media/HQEkSSgaUAAdu7D.jpg",
+      "https://pbs.twimg.com/media/HQEkSWka4AATnMQ.jpg",
+      "https://pbs.twimg.com/media/HQEkSSfasAEBZI7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2089991628631191991",
+    "fullText": "豆包手机控制和云电脑做得比Codex牛皮呀！\n\n刚才看豆包上线了云电脑模式，而且它还能支持手机控制本地电脑。\n\n我觉得它在手机控制电脑的连接设计上做得非常自然，体验极佳，甚至比 Codex 那些好太多了。\n\n你只需要在本地电脑发起聊天，手机上就能直接同步看到，然后只需在手机上点一下授权（电脑端完全不需要任何操作），就可以直接获取控制权。\n\n之后你就能通过手机操作电脑上的任务，响应速度极快，延迟极低。\n这次还增加了一个云电脑模式。虽然云电脑本质上是给你分配了一个虚拟机，很多人觉得上面没有自己的数据和信息，干不了什么事。\n\n但我觉得它内置的连接器（比如我们常说的 MCP）挺有意思的。它可以直接连接你的Notion、GitHub、飞书、企业微信等应用，直接从中获取你的上下文。\n\n同时，云电脑也是可以安装 Skill 的。比如我试了一下：\n\n先让它在云电脑端查找我飞书里所有的会议纪要，并整理出待办事项。\n整理完待办后，我通过手机下达指令，让它在云电脑上安装了我自己开发的社交媒体卡片 Skill。\n\n接着再让它基于这些待办事项去跑任务。\n\n在这个过程中，安装 Skill 的命令是我在手机上下的，而阅读会议纪要的命令是在电脑上下的。无论是云电脑还是本地电脑，这种跨端控制的体验都非常丝滑。\n\n在本地电脑上，我也试着让它查找对应目录的文件，并清理了一些大文件，这充分发挥了本地电脑的优势。当然，在有了这个系统以后，我们在手机上同样可以下达对应的清理任务，并直接看到结果。\n\n还有一个玩法我觉得特别有意思，就是把手机控制电脑当作“文件传输助手”来用。\n\n比如我在发手机截图的时候，直接指令它“只接收图片，不要做任何操作，不用管它”，它就真的只接收而不做多余响应，非常听话。\n\n如果你想这么用，建议可以单独开一个聊天窗口，专门把它当作文件传输助手。\n\n在开始时给这个聊天设置一个提示词，告诉它“凡是发送的文件和图片，接收即可，不需要做任何多余响应”，这样就非常好用了。",
+    "createdAt": "Wed Aug 19 08:23:29 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Kimi_Moonshot",
       "name": "Kimi.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2086719038798102529/diJGKpOE_normal.jpg",
       "description": "Built by Moonshot AI to empower everyone to be superhuman. \nPR: globalpr@moonshot.ai\nDC: https://t.co/wBsBTn6fmE",
-      "followersCount": 356468,
+      "followersCount": 356473,
       "friendsCount": 137,
       "location": ""
     },
@@ -23,7 +62,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 236964,
+      "followersCount": 236960,
       "friendsCount": 7121,
       "location": ""
     },
@@ -57,7 +96,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488650,
+      "followersCount": 488652,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -75,7 +114,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488650,
+      "followersCount": 488652,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -93,7 +132,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488650,
+      "followersCount": 488652,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -111,7 +150,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488650,
+      "followersCount": 488652,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -129,7 +168,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488650,
+      "followersCount": 488652,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -147,7 +186,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - your business lives in content. unleash it with AI",
-      "followersCount": 3324391,
+      "followersCount": 3324715,
       "friendsCount": 932,
       "location": "Bay Area"
     },
@@ -163,7 +202,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479288,
+      "followersCount": 479299,
       "friendsCount": 1576,
       "location": "Austin, TX"
     },
@@ -181,7 +220,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488650,
+      "followersCount": 488652,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -202,7 +241,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488650,
+      "followersCount": 488652,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
