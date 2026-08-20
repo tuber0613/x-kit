@@ -1,11 +1,131 @@
 [
   {
     "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 395107,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2090536945554456724",
+    "fullText": "More on transparency coming soon 😉\n\nhttps://t.co/3G7CRmUKsY",
+    "createdAt": "Thu Aug 20 20:30:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 395107,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090536890466525184/vid/avc1/1280x720/yVo8c6WU4aChP9fG.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2090536933571330440",
+    "fullText": "Transparent backgrounds are now available in preview for GPT-Image-2 in the API.\n\nGenerate reusable assets you can place on any background—for product imagery, graphic design, website mockups, and marketing campaigns. https://t.co/yRhBIYh8uP",
+    "createdAt": "Thu Aug 20 20:30:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129809,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQMTRxKaUAA_1iK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2090535851612942340",
+    "fullText": "Very interesting new work Amazon and colleagues.\n\n(bookmark it)\n\nThis connects to the emerging theme of treating the corpus as part of the harness. Planning loops, tool protocols, and context management have matured fast, while the knowledge an agent investigates over still sits behind an embedding index as opaque chunks.\n\nCTIFoundry builds structure at index time instead. Official cross-references across four authoritative security knowledge bases become typed traversable edges, and a span-grounded report layer keeps provenance attached to every chunk. Seven typed tools and three procedural skills expose that structure on a stock open-source harness.\n\nSwapping only the action surface lifts the identically-harnessed agent by 0.19 to 0.28 overall F1 across a four-model panel. A small model on the scaffold beats a flagship on the flat substrate at roughly half the tool calls.\n\nPaper: https://t.co/FywxdksD62\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Thu Aug 20 20:26:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 412964,
+      "friendsCount": 887,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2090534562611020209",
+    "fullText": "In the games my boys play. they memorize so many parameters and interactions that it’s extraordinary. Why aren’t there educational games where the parameters and interactions being memorized are true to physics or chemistry?",
+    "createdAt": "Thu Aug 20 20:20:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314433,
+      "friendsCount": 971,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQMRN8HaIAAzAfP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2090533587066249514",
+    "fullText": "Banger paper on harness continual learning.\n\n(bookmark it)\n\nIf you already are allowing your agents to rewrite their own prompts, skills, or memory files, this one is worth your time.\n\n(bookmark it)\n\nContinual learning has always tracked what changes in the weights. Modern agents accumulate experience in the harness instead, across prompts, memories, tools, skills, and routing rules.\n\nWhat this means is that if you update any harness component, previously reliable behavior can break with the model completely untouched. The paper names that harness-level forgetting and provides a way to measure it.\n\nGuarded harness evolution separates proposing an update from committing it. A Continual Optimizer drafts a candidate harness from post-execution feedback, and a Continual Evaluator commits only after checking current improvement, historical retention, and validity.\n\nRelative gains exceed 10% across textual reasoning, multimodal perception, and open-world interaction.\n\nPaper: https://t.co/58HvPcpANi\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Thu Aug 20 20:17:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ZoubinGhahrama1",
+      "name": "Zoubin Ghahramani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1294283059747893248/9K2p5oV__normal.jpg",
+      "description": "VP Research, Google DeepMind, ex-head of Google Brain. Professor at University of Cambridge. Machine Learning Researcher. ex-Chief Scientist & VP of AI, Uber.",
+      "followersCount": 36088,
+      "friendsCount": 720,
+      "location": "Cambridge, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ZoubinGhahrama1/status/2090532430436294939",
+    "fullText": "Two great AI milestones in the last couple of weeks @Google : one billion users of @GeminiApp and one billion downloads of our open @googlegemma models!",
+    "createdAt": "Thu Aug 20 20:12:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 237111,
+      "friendsCount": 7127,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQMH0WObEAAP3xF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2090523471604548041",
+    "fullText": "Uh oh, IPOs.\n\nVia @theinformation: https://t.co/K4lOX05Wfa",
+    "createdAt": "Thu Aug 20 19:36:50 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tszzl",
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 462216,
+      "followersCount": 462310,
       "friendsCount": 13339,
       "location": "San Francisco, CA"
     },
@@ -21,7 +141,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 395060,
+      "followersCount": 395107,
       "friendsCount": 1,
       "location": ""
     },
@@ -39,7 +159,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412960,
+      "followersCount": 412964,
       "friendsCount": 887,
       "location": ""
     },
@@ -55,7 +175,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 96222,
+      "followersCount": 96230,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -73,7 +193,7 @@
       "name": "AI at Meta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
       "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
-      "followersCount": 838391,
+      "followersCount": 838429,
       "friendsCount": 353,
       "location": ""
     },
@@ -109,7 +229,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 71214,
+      "followersCount": 71217,
       "friendsCount": 36535,
       "location": "latent space"
     },
@@ -127,7 +247,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 717711,
+      "followersCount": 717709,
       "friendsCount": 828,
       "location": "United States"
     },
@@ -145,7 +265,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 71214,
+      "followersCount": 71217,
       "friendsCount": 36535,
       "location": "latent space"
     },
@@ -179,7 +299,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 302716,
+      "followersCount": 302723,
       "friendsCount": 8424,
       "location": "United States"
     },
@@ -197,7 +317,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412960,
+      "followersCount": 412964,
       "friendsCount": 887,
       "location": ""
     },
@@ -213,7 +333,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 237110,
+      "followersCount": 237111,
       "friendsCount": 7127,
       "location": ""
     },
@@ -231,7 +351,7 @@
       "name": "AI at Meta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
       "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
-      "followersCount": 838391,
+      "followersCount": 838429,
       "friendsCount": 353,
       "location": ""
     },
@@ -249,7 +369,7 @@
       "name": "Alexandr Wang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
       "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
-      "followersCount": 628089,
+      "followersCount": 628174,
       "friendsCount": 880,
       "location": "San Francisco, CA"
     },
@@ -434,7 +554,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 439358,
+      "followersCount": 439365,
       "friendsCount": 675,
       "location": ""
     },
