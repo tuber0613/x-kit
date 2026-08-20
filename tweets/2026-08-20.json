@@ -1,11 +1,113 @@
 [
   {
     "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 237123,
+      "friendsCount": 7127,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2090566739352539503",
+    "fullText": "the elephant in the room that no company wants to address:\n\n“OpenAI’s 69-page report on ChatGPT enterprise adoption doesn’t address the biggest question: ROI” by @EmilyForlini \n\nhttps://t.co/LKsZJ5DZzU",
+    "createdAt": "Thu Aug 20 22:28:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4874612,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2090562823697109248",
+    "fullText": "14 yo: If Y Combinator had a mascot, what would it be?\n\nMe: I suppose it would have to be a cockroach.\n\n14 yo: Not a very appealing mascot.",
+    "createdAt": "Thu Aug 20 22:13:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 479519,
+      "friendsCount": 1576,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQMpjfRW8AAJttt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2090560344804536787",
+    "fullText": "Billions of dollars have been made from “simple UX affordances” engineers are not impressed by https://t.co/tvDrwH4UNv",
+    "createdAt": "Thu Aug 20 22:03:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 129813,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQMo11gakAAjXBZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2090559561128407336",
+    "fullText": "Finally a good paper testing whether memory-based self-improving agents actually improve.\n\nThe re-evaluation adds two things prior work skipped, multiple runs to measure variance and randomly shuffled task orders.\n\nBoth hurt.\n\nAgent evaluation is already noisy on multi-step tasks, and stacking a self-improvement loop amplifies that noise. Default task orderings impose an implicit curriculum that much of the reported gain was riding on.\n\nAdding detailed rubrics and environment feedback to memory construction recovers part of the drop, and a significant gap remains.\n\nPaper: https://t.co/qRsrqf0GcX\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Thu Aug 20 22:00:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 61831,
+      "friendsCount": 368,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2090555766747140364",
+    "fullText": "Web agent economics are set by inference volume and each step is one inference call. A simple task (extract a field, fill a form, navigate a site) is 10 to 20 calls. \n\nA multi-site workflow runs into the hundreds.\n\nFrom @RaiseSummit last month: @abhshkdz, @yutori_ai  co-founder/CEO, on how they ship Navigator at 2-5x cheaper and faster than closed models on web tasks:\n-> ~80% prefix cache hit rate\n-> Speculative decoding on smaller footprint models\n-> Post-training Qwen models with SFT and RL\n\nThey run on Together, where customizable endpoints and auto-scaling let them A/B test new model variants in minutes. \nhttps://t.co/gRvl9JlOf4",
+    "createdAt": "Thu Aug 20 21:45:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 395238,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090555212516003840/vid/avc1/1280x720/45-QIQPkuuKYXZlq.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2090555241343418814",
+    "fullText": "Shared threads in Codex and ChatGPT Work let you show the process behind your build with a read-only link, giving others the context and reasoning behind a pull request, deep dive, or project handoff. https://t.co/VauCKCrm8q",
+    "createdAt": "Thu Aug 20 21:43:04 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Suhail",
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 439374,
+      "followersCount": 439377,
       "friendsCount": 675,
       "location": ""
     },
@@ -21,7 +123,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 302739,
+      "followersCount": 302749,
       "friendsCount": 8425,
       "location": "United States"
     },
@@ -39,7 +141,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241432645,
+      "followersCount": 241433292,
       "friendsCount": 1395,
       "location": ""
     },
@@ -55,7 +157,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 262073,
+      "followersCount": 262077,
       "friendsCount": 183,
       "location": ""
     },
@@ -73,7 +175,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
-      "followersCount": 217305,
+      "followersCount": 217306,
       "friendsCount": 219,
       "location": "US"
     },
@@ -123,7 +225,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 395184,
+      "followersCount": 395238,
       "friendsCount": 1,
       "location": ""
     },
@@ -141,7 +243,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 129812,
+      "followersCount": 129813,
       "friendsCount": 1,
       "location": ""
     },
@@ -175,7 +277,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 314441,
+      "followersCount": 314447,
       "friendsCount": 971,
       "location": "DAIR.AI Academy"
     },
@@ -209,7 +311,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 237120,
+      "followersCount": 237123,
       "friendsCount": 7127,
       "location": ""
     },
@@ -227,7 +329,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 462375,
+      "followersCount": 462471,
       "friendsCount": 13338,
       "location": "San Francisco, CA"
     },
@@ -243,7 +345,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 395184,
+      "followersCount": 395238,
       "friendsCount": 1,
       "location": ""
     },
@@ -277,7 +379,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 96232,
+      "followersCount": 96236,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -656,7 +758,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 439374,
+      "followersCount": 439377,
       "friendsCount": 675,
       "location": ""
     },
