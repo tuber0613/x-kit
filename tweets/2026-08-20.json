@@ -1,11 +1,100 @@
 [
   {
     "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 412969,
+      "friendsCount": 885,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2090491998566510954",
+    "fullText": "https://t.co/MFqrJAVqpl",
+    "createdAt": "Thu Aug 20 17:31:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 237085,
+      "friendsCount": 7127,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQLopUAa4AAMdHQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2090491062569845050",
+    "fullText": "How the US is failing to learn from Leopold Aschenbrenner’s mistakes: https://t.co/0oCVyJEkpk https://t.co/UVu5I1fYJ8",
+    "createdAt": "Thu Aug 20 17:28:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AIatMeta",
+      "name": "AI at Meta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
+      "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
+      "followersCount": 838367,
+      "friendsCount": 353,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090484947815682048/vid/avc1/1920x1080/e73bezsxcwNL7Ule.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/AIatMeta/status/2090485743034716420",
+    "fullText": "Muse Spark 1.2 supports a broad range of multimodal tasks, from turning visuals into working code to translating perception into physical action. It also brings robust audio-visual understanding to enable video-heavy workflows common in real-world enterprise use.\n\nToday, we’re sharing new evals and demos that illustrate the breadth of the model’s visual understanding and reasoning capabilities.\n\nLet’s start with a demo that shows how Muse Spark parses multimodal observations and calls tools to guide a robot to navigate in an unstructured environment to find a rubber duck.\n\n🧵👇",
+    "createdAt": "Thu Aug 20 17:06:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 627923,
+      "friendsCount": 880,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090478849591312385/vid/avc1/1920x1080/zPSqIuR7JNT335NB.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2090478874308321281/vid/avc1/2746x2160/jbeg4LLJuFB3nk71.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2090485261629354352",
+    "fullText": "1/ muse spark 1.2 is a very strong multimodal model—it can do visual coding, robotics planning, and audio-visual understanding that all come together through agentic tools. https://t.co/WgXGnW6crn",
+    "createdAt": "Thu Aug 20 17:05:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
+      "followersCount": 262068,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090482599844265984/vid/avc1/1920x1080/6iAeSv-AxVZpZ5M9.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2090482824554172675",
+    "fullText": "Preview Builds are now in Public Beta for LangSmith Deployment.\n\nTest agent changes before merging by automatically spinning up temporary, production-like deployments from a PR branch.\n\nInspect traces, share feedback, and merge once the agent behaves the way you expect.\n\nPreview Builds are short-lived and will automatically tear down after you merge changes.\n\nRead the blog: https://t.co/hM7xbvUR8k",
+    "createdAt": "Thu Aug 20 16:55:19 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "v_vashishta",
       "name": "Vin Vashishta",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
       "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
-      "followersCount": 28389,
+      "followersCount": 28388,
       "friendsCount": 1057,
       "location": "Reno"
     },
@@ -21,7 +110,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 262065,
+      "followersCount": 262068,
       "friendsCount": 183,
       "location": ""
     },
@@ -37,7 +126,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149492,
+      "followersCount": 149493,
       "friendsCount": 5437,
       "location": "Montréal · Québec"
     },
@@ -55,7 +144,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479518,
+      "followersCount": 479523,
       "friendsCount": 1575,
       "location": "Austin, TX"
     },
@@ -71,8 +160,8 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 314410,
-      "friendsCount": 970,
+      "followersCount": 314420,
+      "friendsCount": 971,
       "location": "DAIR.AI Academy"
     },
     "images": [],
@@ -87,7 +176,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 332249,
+      "followersCount": 332262,
       "friendsCount": 897,
       "location": "Santa Clara, CA"
     },
@@ -103,7 +192,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 348520,
+      "followersCount": 348526,
       "friendsCount": 20442,
       "location": "Cambridge, MA"
     },
@@ -119,8 +208,8 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 314410,
-      "friendsCount": 970,
+      "followersCount": 314420,
+      "friendsCount": 971,
       "location": "DAIR.AI Academy"
     },
     "images": [
@@ -137,7 +226,7 @@
       "name": "Jim Fan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
       "description": "NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
-      "followersCount": 559570,
+      "followersCount": 559699,
       "friendsCount": 3143,
       "location": "Views my own. Contact →"
     },
@@ -153,7 +242,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 439347,
+      "followersCount": 439358,
       "friendsCount": 675,
       "location": ""
     },
@@ -169,7 +258,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 455035,
+      "followersCount": 455044,
       "friendsCount": 590,
       "location": "🇺🇸 Collaborations →"
     },
@@ -187,8 +276,8 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 237070,
-      "friendsCount": 7126,
+      "followersCount": 237085,
+      "friendsCount": 7127,
       "location": ""
     },
     "images": [],
@@ -205,7 +294,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479518,
+      "followersCount": 479523,
       "friendsCount": 1575,
       "location": "Austin, TX"
     },
