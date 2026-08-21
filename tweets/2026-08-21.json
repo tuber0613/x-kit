@@ -1,11 +1,134 @@
 [
   {
     "user": {
+      "screenName": "SilverJacket",
+      "name": "Matthew Hutson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1402377580167241734/8zTEBQyJ_normal.jpg",
+      "description": "Freelance science writer for The New Yorker, Science, Nature, etc. Fire dancer. Into cognition—animal and mineral (aka psych & AI).",
+      "followersCount": 4612,
+      "friendsCount": 495,
+      "location": "NYC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SilverJacket/status/2090785661192118680",
+    "fullText": "“Inventing Eliza” Review: The Mother of All Chatbots.\n\nMy latest book review for @WSJ @WSJBooks. \n\nBook by @SarahCiston, @davidmedberry, Anthony C. Hay, @markcmarino, Peter Millican, Arthur I. Schwarz, Jeff Shrager, and @peggyweil. https://t.co/Awgk0UMSQj",
+    "createdAt": "Fri Aug 21 12:58:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36807,
+      "friendsCount": 1876,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQPw21DaQAAf5z2.jpg",
+      "https://pbs.twimg.com/media/HQPxOh8akAAOOag.jpg",
+      "https://pbs.twimg.com/media/HQPx8ZnaUAEZ80u.jpg",
+      "https://pbs.twimg.com/media/HQPyCnGbEAAzu1N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2090781208712233247",
+    "fullText": "Ox Alpha这个在openrouter上的神秘模型，大家测评认为部分能力比fable还强，有人猜测是国内模型，我测试了下一看就不可能是国内的见图：\n\n第一张图是Ox Alpha的回复，第二张图是国产模型，第三张图是Claude回答，第四张是chatgpt的 https://t.co/KKvF6gPTmJ",
+    "createdAt": "Fri Aug 21 12:40:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 455061,
+      "friendsCount": 591,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2090778453851472174",
+    "fullText": "I can tell the truth now:\n\nI once deployed a training pipeline for a company on AWS. It took around 20 hours to train the model.\n\nMonths after that, they asked me to optimize the process.\n\nIt took me 10 minutes to realize I'd been paying for an instance with 4 GPUs but using only one.\n\nThe company spent months wasting money on 3 GPUs that they never used. All of it because of a stupid mistake I made.\n\nThe lesson I took from this: you should pay attention to the operational metrics of whatever you deploy to production.\n\nIf I had looked even once at my instance's GPU utilization, I would have realized it was never above 25%.\n\nI don't think I ever said anything back then.",
+    "createdAt": "Fri Aug 21 12:30:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
+      "followersCount": 1506688,
+      "friendsCount": 275,
+      "location": "London, UK"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQPpMRGXgAA5VnB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/2090772922818286080",
+    "fullText": "Games have been an important testbed for our AI research for over 15 years. 🎮\n\nFrom mastering Atari to reaching Grandmaster in StarCraft II, they have driven some of our biggest AI breakthroughs.\n\nOur work with SIMA taught agents how to understand 3D worlds, but learning to navigate real human dynamics takes a living, persistent universe.\n\nThrough our research partnership with @FenrisCreations, we’re exploring how to tackle open challenges in AI:\n\n🔵 Continual learning to acquire new skills without forgetting past knowledge.\n🔵 Deep memory systems that store and retrieve information far beyond today’s context windows.\n🔵 Long-horizon planning over weeks, months, or years.\n🔵 Multi-agent dynamics spanning cooperation, negotiation, economics, and emergent behaviors.\n\nOur long-term goal is to use AI to discover entirely new gameplay experiences in partnership with game developers – making games more accessible and personalized – while applying what we've learned to problems in the real world and scientific discovery.\n\nFind out more → https://t.co/fAbYdukA5A",
+    "createdAt": "Fri Aug 21 12:08:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 54134,
+      "friendsCount": 2358,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089321103009144832/vid/avc1/1080x1920/vr5t3nke1akuDzkX.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/azeem/status/2090772152458821641",
+    "fullText": "AI infrastructure is being built at a scale not seen since America’s 19th-century railways. \n\nAt the end of 2025, GenAI revenue roughly covered hyperscaler depreciation.\n\nThat is a milestone – it is not yet a good business. https://t.co/ScLrxqDStT",
+    "createdAt": "Fri Aug 21 12:05:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 134587,
+      "friendsCount": 553,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090746159061229568/vid/avc1/2560x1440/YyFQ3Qtx4Mzu3C7f.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2090770894000144430",
+    "fullText": "Bro Picked the WRONG Cat 😼 https://t.co/YJAsAFSO82",
+    "createdAt": "Fri Aug 21 12:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149487,
+      "friendsCount": 5439,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2090766979036598472",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Fri Aug 21 11:44:27 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "EMostaque",
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 334151,
+      "followersCount": 334153,
       "friendsCount": 342,
       "location": "London"
     },
@@ -21,7 +144,7 @@
       "name": "DeepSeek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
       "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
-      "followersCount": 1106362,
+      "followersCount": 1106685,
       "friendsCount": 0,
       "location": ""
     },
@@ -39,7 +162,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36806,
+      "followersCount": 36807,
       "friendsCount": 1876,
       "location": ""
     },
@@ -57,7 +180,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241445614,
+      "followersCount": 241447008,
       "friendsCount": 1394,
       "location": ""
     },
@@ -75,8 +198,8 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 155226,
-      "friendsCount": 3362,
+      "followersCount": 155231,
+      "friendsCount": 3363,
       "location": "on ⛓"
     },
     "images": [],
@@ -91,7 +214,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488791,
+      "followersCount": 488795,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -107,7 +230,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4886175,
+      "followersCount": 4887765,
       "friendsCount": 799,
       "location": ""
     },
@@ -123,7 +246,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4886175,
+      "followersCount": 4887765,
       "friendsCount": 799,
       "location": ""
     },
@@ -139,7 +262,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412981,
+      "followersCount": 412990,
       "friendsCount": 887,
       "location": ""
     },
@@ -155,8 +278,8 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 155226,
-      "friendsCount": 3362,
+      "followersCount": 155231,
+      "friendsCount": 3363,
       "location": "on ⛓"
     },
     "images": [
