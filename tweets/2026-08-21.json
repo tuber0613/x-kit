@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36801,
+      "friendsCount": 1876,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQOp1vYaMAAQpva.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2090701433213784524",
+    "fullText": "Wake：以前套壳模型，现在流行套壳code agent，不同Code Agent 聊天记录，现在散在 ~/.claude、~/.codex等多个私有code agent目录里，Wake把这 13 个code  agent 的会话全收进一个窗口，能搜、能跳、能一键接着聊。\n\n它支持的 13 个 agent：\n\nClaude Code、Codex CLI、Copilot CLI、Cursor 的 CLI 转写、OpenCode（含 v2 beta）、Kiro、Gemini CLI、Pi、Oh My Pi、Grok Build、Kimi Code，以及 Antigravity CLI（只能读元数据——转写是加密的）。\n\n痛点：\nagent 用久了会意识到一件事：真正积累下来的资产不是代码，是那几百段对话——你怎么描述问题、怎么纠偏、哪条路走通了。但这批资产通常散落在不同地方：Claude Code 在 ~/.claude，Codex 在 ~/.codex，Cursor、opencode、gemini、kimi、grok 各存各的，格式还都不一样，等于每换一个 agent，上下文就清零一次。\n\nWake 干的就是把这层捡起来：13 个 agent 的 session 只读扫进一个 macOS 原生 app，⌘+K 全文搜索（FTS5 trigram，中文和代码子串同样能搜），选中一条直接回到原目录 resume。\n\n我一直觉得这类\"agent 记忆的归集层\"会是个独立品类——模型和 agent 会一直换，我们的对话史不该跟着一起丢。它和昨天介绍的 harnessrouter恰好是同一个趋势的两面：HarnessRouter 统一 harness 的\"运行\"（一套 API 换 harness），Wake 统一 harness 的\"历史\"（一个窗口看所有会话）。\n\n当一个品类开始出现路由器和聚合器，说明它正在变成基础设施。\n\n#AIagent #开发者工具 #Rust #macOS #开源",
+    "createdAt": "Fri Aug 21 07:23:59 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241439625,
+      "followersCount": 241440512,
       "friendsCount": 1395,
       "location": ""
     },
@@ -23,7 +41,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 155195,
+      "followersCount": 155202,
       "friendsCount": 3362,
       "location": "on ⛓"
     },
@@ -39,7 +57,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488784,
+      "followersCount": 488787,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -55,7 +73,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4881415,
+      "followersCount": 4882458,
       "friendsCount": 799,
       "location": ""
     },
@@ -71,7 +89,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4881415,
+      "followersCount": 4882458,
       "friendsCount": 799,
       "location": ""
     },
@@ -87,7 +105,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 412979,
+      "followersCount": 412978,
       "friendsCount": 887,
       "location": ""
     },
@@ -103,7 +121,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 155195,
+      "followersCount": 155202,
       "friendsCount": 3362,
       "location": "on ⛓"
     },
@@ -121,7 +139,7 @@
       "name": "MiniMax Design (H3)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2086821620228980736/JzAOUvuf_normal.jpg",
       "description": "Discord: https://t.co/vPihZSqbU8\nINS: https://t.co/koyDATq9CZ\nCreator Partnership Program(CPP): https://t.co/KLDCVOlk92",
-      "followersCount": 79193,
+      "followersCount": 79286,
       "friendsCount": 655,
       "location": "San Francisco"
     },
@@ -137,7 +155,7 @@
       "name": "MiniMax Design (H3)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2086821620228980736/JzAOUvuf_normal.jpg",
       "description": "Discord: https://t.co/vPihZSqbU8\nINS: https://t.co/koyDATq9CZ\nCreator Partnership Program(CPP): https://t.co/KLDCVOlk92",
-      "followersCount": 79193,
+      "followersCount": 79286,
       "friendsCount": 655,
       "location": "San Francisco"
     },
@@ -171,7 +189,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4881415,
+      "followersCount": 4882458,
       "friendsCount": 799,
       "location": ""
     },
@@ -187,7 +205,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 332384,
+      "followersCount": 332391,
       "friendsCount": 897,
       "location": "Santa Clara, CA"
     },
@@ -203,7 +221,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 237190,
+      "followersCount": 237197,
       "friendsCount": 7128,
       "location": ""
     },
@@ -308,7 +326,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4881415,
+      "followersCount": 4882458,
       "friendsCount": 799,
       "location": ""
     },
