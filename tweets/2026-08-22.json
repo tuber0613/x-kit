@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
+      "followersCount": 495827,
+      "friendsCount": 1180,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQVFCBqXkAAthsd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rasbt/status/2091153697766047896",
+    "fullText": "A couple of days ago, I did a quick explainer on Claude’s new watermarking process and implementation. Since it’s such a popular topic and sparked such a lively discussion, I thought it might be interesting to go into a bit more detail when explaining how it works.\n\nSo, instead of the usual text article, I recorded a little lecture on the topic (to change it up a bit from my usual articles). \n\nIt ended up a bit longer than intended, but I hope it clarifies a lot of things:\n\n- Sampling the next token in an LLM and pseudorandom number generators\n- How watermarking relates to the regular LLM sampling process\n- Whether watermarking makes text \"worse\"\n- How to remove watermarks\n- Tournament sampling\n- How new text is checked for watermarks without rerunning the LLM\n\nI ended up with ~50 slides, but I hope that these explain it well, though! Happy watching!",
+    "createdAt": "Sat Aug 22 13:21:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149474,
+      "friendsCount": 5439,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQU_rEiWUAAn0rv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2091147615022785017",
+    "fullText": "The next frontier in agent learning may not be a smarter agent.\n\nIt may be a world that knows exactly what the agent still cannot do.\n\nNew paper:\n\nENVHARNESS: AWAKENING STATIC WORLDS FOR AGENT LEARNING\n\nAgent harnesses gave frozen models tools, memory and execution loops.\n\nEnvHarness applies the same idea to the other side:\n\nFrozen model + Agent Harness = capable agent\n\nStatic environment + EnvHarness = adaptive teacher\n\nMost training environments are hand-built and static. They repeat the same states, actions and observations—then eventually stop teaching.\n\nEnvHarness wraps an existing environment without changing its underlying logic or trusted verifier.\n\nThree components reshape experience:\n\nStage — changes where an episode begins\n\nContract — changes actions, observations and interaction rules\n\nChain — connects environments into longer-horizon work\n\nThen EnvRigger closes the loop:\n\nObserve trajectories.\nDiagnose a weakness.\nWrite a targeted component.\nValidate it through fresh rollouts.\nAccept it only if it remains solvable and teaches the intended capability.\n\nThis is precision curriculum engineering for a black-box policy.\n\nAcross five benchmarks in embodied action, web interaction, software engineering and office automation, EnvHarness reports gains of up to 9.0 points on held-out tasks—with 9.8% fewer execution steps. On SWE-bench Verified, customized environments keep improving with scale while real and generated environment baselines flatten.\n\nThe timing is extraordinary.\n\nSkillOpt makes agent skills trainable.\n\nSPADE makes new executable worlds generative.\n\nEnvHarness makes trusted existing worlds adaptive.\n\nEffective Feedback Compute suggests that the decisive resource is not interaction volume, but informative, valid and retained feedback that changes future behavior.\n\nA new architecture is emerging:\n\nMODEL × AGENT HARNESS × ENVIRONMENT HARNESS\n\nThe agent learns.\nThe world studies the learner.\nThe curriculum moves.\nCapability and environment co-evolve.\n\nThe implications extend beyond benchmarks. Adaptive environments can expose shortcuts before deployment, isolate missing skills, extend planning horizons, preserve trusted verification and keep teaching as models improve.\n\nPerhaps the next scaling law will not ask how much data an agent consumed.\n\nIt will ask how precisely its world transformed failure into experience.\n\nFull credit to:\n\nChengsong Huang, Zifeng Wang, Rujun Han, Jun Yan, Yanfei Chen, Zoey CuiZhu, Ke Jiang, Peng Xia, Han Yu, Yufan Zhuang, Yifei Ming, Jiaqi Pan, Bhavana Dalvi Mishra, Jiaxin Huang, Burak Gokturk, Tomas Pfister and Chen-Yu Lee.\n\nPaper :\nhttps://t.co/rxU0g8vGWZ\n\nCode :\nhttps://t.co/nT9ngE2ywp\n\nWeb :\nhttps://t.co/yQz9aDsRil\n\nWe taught agents to act in worlds.\n\nNow the worlds are beginning to teach back.\n\n#ArtificialIntelligence #AIAgents #ReinforcementLearning #AIResearch",
+    "createdAt": "Sat Aug 22 12:56:57 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 168553,
+      "followersCount": 168561,
       "friendsCount": 1290,
       "location": ""
     },
@@ -21,7 +57,7 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149473,
+      "followersCount": 149474,
       "friendsCount": 5439,
       "location": "Montréal · Québec"
     },
@@ -37,7 +73,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 148598,
+      "followersCount": 148602,
       "friendsCount": 635,
       "location": "Zürich, Suisse"
     },
@@ -71,7 +107,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 168553,
+      "followersCount": 168561,
       "friendsCount": 1290,
       "location": ""
     },
@@ -92,7 +128,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -110,7 +146,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -128,7 +164,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -146,7 +182,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -164,7 +200,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -182,7 +218,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -200,7 +236,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -218,7 +254,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -236,7 +272,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -254,7 +290,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -272,7 +308,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -290,7 +326,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -308,7 +344,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -326,7 +362,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479666,
+      "followersCount": 479671,
       "friendsCount": 1577,
       "location": "Austin, TX"
     },
@@ -342,7 +378,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -358,7 +394,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -376,7 +412,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -394,7 +430,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303065,
+      "followersCount": 303076,
       "friendsCount": 8435,
       "location": "United States"
     },
@@ -412,7 +448,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -430,7 +466,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -448,7 +484,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -466,7 +502,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -484,7 +520,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -502,7 +538,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -520,7 +556,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488822,
+      "followersCount": 488824,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
