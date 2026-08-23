@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "drfeifei",
+      "name": "Fei-Fei Li",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
+      "description": "Cofounder/CEO @theworldlabs, Prof (CS @Stanford), Co-Director @StanfordHAI, #AI #SpatialIntelligence #GenAI #computervision #robotics #AI-healthcare",
+      "followersCount": 1000283,
+      "friendsCount": 1179,
+      "location": "Stanford, CA, U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/drfeifei/status/2091635761712185591",
+    "fullText": "On this random Sunday afternoon, I just noticed that I have 1M followers on X now. Feels like a big responsibility 🤔❤️",
+    "createdAt": "Sun Aug 23 21:16:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 413423,
+      "friendsCount": 887,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2091631947109806517",
+    "fullText": "Why do we still watch humans play chess or sports at all? Because we're unpredictable. The tension, emotion, and imperfection are the point. AI may change what we do, but it won’t replace everything that makes us human.",
+    "createdAt": "Sun Aug 23 21:01:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314872,
+      "friendsCount": 978,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQb334laIAASphM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2091631620025647184",
+    "fullText": "Great paper on multi-agent systems for code review.\n\nIt's challenging to know how many coding agents to use to address a problem.\n\nThe default fix for weak agentic code review is more agents. In turns out that scaling agents to a large number gives diminishing returns on repository-level tasks.\n\nThis new work tries structured conflict instead. Adversarial Review runs three agents. A main coding agent writes, a reviewer evaluates, and a critic audits the review before any edit are done.\n\nOn LiveCodeBench it beats a five-agent baseline while using three agents.\n\nOn SWE-PRBench the naive version exposed a failure mode. The agents converged on agreement without enough evidence behind it. Making disagreement an explicit instruction recovered the highest F1 among tested methods.\n\nThey also find that cooperative review works when the disagreement is minimal, structured, and grounded in evidence.\n\nPaper: https://t.co/NY1gcqajI0\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Sun Aug 23 21:00:13 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "a16z",
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1060288,
+      "followersCount": 1060315,
       "friendsCount": 63,
       "location": "The Cloud"
     },
@@ -23,7 +73,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413429,
+      "followersCount": 413423,
       "friendsCount": 887,
       "location": ""
     },
@@ -40,7 +90,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
       "followersCount": 63203,
-      "friendsCount": 11347,
+      "friendsCount": 11348,
       "location": "San Francisco"
     },
     "images": [],
@@ -55,7 +105,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 439705,
+      "followersCount": 439707,
       "friendsCount": 676,
       "location": ""
     },
@@ -73,8 +123,8 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479793,
-      "friendsCount": 1578,
+      "followersCount": 479781,
+      "friendsCount": 1579,
       "location": "Austin, TX"
     },
     "images": [],
@@ -89,7 +139,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413429,
+      "followersCount": 413423,
       "friendsCount": 887,
       "location": ""
     },
@@ -105,7 +155,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4940710,
+      "followersCount": 4941221,
       "friendsCount": 799,
       "location": ""
     },
@@ -123,7 +173,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4940710,
+      "followersCount": 4941221,
       "friendsCount": 799,
       "location": ""
     },
@@ -139,7 +189,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 439705,
+      "followersCount": 439707,
       "friendsCount": 676,
       "location": ""
     },
@@ -155,7 +205,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -173,7 +223,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -191,7 +241,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -209,7 +259,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -227,7 +277,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -245,7 +295,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -263,7 +313,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -281,7 +331,7 @@
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - your business lives in content. unleash it with AI",
-      "followersCount": 3357313,
+      "followersCount": 3357456,
       "friendsCount": 935,
       "location": "Bay Area"
     },
@@ -299,7 +349,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -317,7 +367,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -335,7 +385,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -353,7 +403,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303394,
+      "followersCount": 303401,
       "friendsCount": 8438,
       "location": "United States"
     },
@@ -374,7 +424,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4940710,
+      "followersCount": 4941221,
       "friendsCount": 799,
       "location": ""
     },
@@ -390,7 +440,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -408,7 +458,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -426,7 +476,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -447,7 +497,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -465,7 +515,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -483,7 +533,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -501,7 +551,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -519,7 +569,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488876,
+      "followersCount": 488877,
       "friendsCount": 3345,
       "location": "Maryland, USA"
     },
@@ -537,7 +587,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 237982,
+      "followersCount": 237991,
       "friendsCount": 7130,
       "location": ""
     },
@@ -553,7 +603,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413429,
+      "followersCount": 413423,
       "friendsCount": 887,
       "location": ""
     },
@@ -655,7 +705,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4940710,
+      "followersCount": 4941221,
       "friendsCount": 799,
       "location": ""
     },
@@ -1023,7 +1073,7 @@
       "name": "Shivon Zilis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
       "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
-      "followersCount": 571849,
+      "followersCount": 571920,
       "friendsCount": 1734,
       "location": "Palo Alto, CA"
     },
@@ -1552,7 +1602,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413429,
+      "followersCount": 413423,
       "friendsCount": 887,
       "location": ""
     },
