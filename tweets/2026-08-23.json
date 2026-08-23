@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "ZoubinGhahrama1",
+      "name": "Zoubin Ghahramani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1294283059747893248/9K2p5oV__normal.jpg",
+      "description": "VP Research, Google DeepMind, ex-head of Google Brain. Professor at University of Cambridge. Machine Learning Researcher. ex-Chief Scientist & VP of AI, Uber.",
+      "followersCount": 36137,
+      "friendsCount": 722,
+      "location": "Cambridge, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ZoubinGhahrama1/status/2091548462001115255",
+    "fullText": "Excellent article on AI consciousness from The Economist. A few years ago this would have been fringe; now it's on the cover! Even if we avoid definitional arguments, as more people develop rich interactions with AI, and as AI systems start to experience the physical world, the question of whether/when they are conscious becomes more and more relevant. 1/2\nhttps://t.co/HgfIOupRxI",
+    "createdAt": "Sun Aug 23 15:29:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314849,
+      "friendsCount": 976,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQasEbdasAAbxRh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2091548272968245466",
+    "fullText": "You don't often see one-word titles in AI papers.\n\nThat aside, strong recommend this paper from Google DeepMind.\n\nI think this is an interesting training-free approach to evolve model architectures by leveraging the model itself to inform architectural modifications.\n\nSomething like this could also inspire even more robust recursive self-improvement approaches.\n\nApproach details below:\n\nA feedforward transformer can only update its internal state as many times as it has layers. Long generations need more updates than that, so chain-of-thought ends up doing basic state tracking in text.\n\nRecirculation adds recurrence at inference time.\n\nThe model feeds activations back through itself during prefill, which lets it act like a dynamical system and track belief states without any retraining.\n\nGeneration cost stays flat. All the serial work happens in prefill.\n\nOn the Gemma3 family, the adaptive variant cuts perplexity 23% and lifts GSM8k accuracy 21%, with the original weights frozen and only light hyperparameter tuning.\n\nPaper: https://t.co/H8LlBJG4pJ\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Sun Aug 23 15:29:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "paulg",
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4934979,
+      "followersCount": 4935401,
       "friendsCount": 799,
       "location": ""
     },
@@ -21,7 +55,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 96309,
+      "followersCount": 96310,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -39,7 +73,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413350,
+      "followersCount": 413358,
       "friendsCount": 887,
       "location": ""
     },
@@ -55,7 +89,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413350,
+      "followersCount": 413358,
       "friendsCount": 887,
       "location": ""
     },
@@ -71,7 +105,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488874,
+      "followersCount": 488881,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -90,7 +124,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488874,
+      "followersCount": 488881,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -108,7 +142,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488874,
+      "followersCount": 488881,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -126,7 +160,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488874,
+      "followersCount": 488881,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -144,7 +178,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488874,
+      "followersCount": 488881,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -162,7 +196,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 439669,
+      "followersCount": 439673,
       "friendsCount": 676,
       "location": ""
     },
@@ -178,7 +212,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413350,
+      "followersCount": 413358,
       "friendsCount": 887,
       "location": ""
     },
@@ -194,7 +228,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 148684,
+      "followersCount": 148686,
       "friendsCount": 636,
       "location": "Zürich, Suisse"
     },
@@ -231,7 +265,7 @@
       "name": "Azeem Azhar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
       "description": "Exponential View @exponentialview.",
-      "followersCount": 54137,
+      "followersCount": 54138,
       "friendsCount": 2359,
       "location": "2.718281828459045"
     },
@@ -266,7 +300,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
       "followersCount": 71235,
-      "friendsCount": 36535,
+      "friendsCount": 36534,
       "location": "latent space"
     },
     "images": [
@@ -283,7 +317,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 168626,
+      "followersCount": 168625,
       "friendsCount": 1290,
       "location": ""
     },
@@ -301,7 +335,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488874,
+      "followersCount": 488881,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -318,7 +352,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
       "followersCount": 63195,
-      "friendsCount": 11346,
+      "friendsCount": 11347,
       "location": "San Francisco"
     },
     "images": [
@@ -337,7 +371,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 488874,
+      "followersCount": 488881,
       "friendsCount": 3344,
       "location": "Maryland, USA"
     },
@@ -373,7 +407,7 @@
       "name": "Shivon Zilis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
       "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
-      "followersCount": 570772,
+      "followersCount": 570807,
       "friendsCount": 1734,
       "location": "Palo Alto, CA"
     },
@@ -391,7 +425,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303316,
+      "followersCount": 303323,
       "friendsCount": 8438,
       "location": "United States"
     },
@@ -409,7 +443,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 718330,
+      "followersCount": 718338,
       "friendsCount": 828,
       "location": "United States"
     },
@@ -425,7 +459,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303316,
+      "followersCount": 303323,
       "friendsCount": 8438,
       "location": "United States"
     },
