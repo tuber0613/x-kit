@@ -1,6 +1,61 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36823,
+      "friendsCount": 1876,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQVXl9YagAAEe6_.jpg",
+      "https://pbs.twimg.com/media/HQVXv6CbwAAj8eQ.jpg",
+      "https://pbs.twimg.com/media/HQZWHiraoAAW2OA.jpg",
+      "https://pbs.twimg.com/media/HQZWUINakAA8fTm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2091454298962215336",
+    "fullText": "最近折腾了一个AI Team的项目FDELINK，总算差不多收尾了，预计很快对外开源，可实现：0成本共享的自己AI员工，0摩擦使用各种AI员工，跨设备、跨账号、跨code agent\n\n主要解决以下几个问题：\n1、跨设备：团队经常有同事做了好用的AI员工，想给其他同事用，经常存在非常麻烦的给同事装各种code agent、装各种环境，跨设备非常麻烦\n2、跨账号：我的cc账号经常被封，就算再注册新账号，之前的各种ai员工要恢复得费至少1-2天\n3、跨code agent：我经常将cc的skill放到codex上用，每次都得配一下才行，这个可以跨code agent基座（支持cc、codex、grok cli、gemini cli、dsh、kimi code等）\n\n除了解决以上三个核心问题之外，还有很多亮点：\n1、支持云端设备接入，可以跑各种code agent基座，解决跨网络使用cc的问题\n2、提供长程agent管理，单任务的长agent避免飘移\n3、提供多agent协同链形成项目制干活\n4、AI员工创建支持三种方式：团队内共享、市场获取、自建三种方式\n5、支持将任意code agent的ai员工导入\n6、多场景benchmark支持，并且定期针对升级模型测评不同ai员工的降智情况，形成自进化方案，从而可沉淀提升AI员工\n\n这个产品最开始的初心：平时做了很多好的skill，想给团队的小伙伴用，迁移是个非常麻烦的事，有了fdelink以后各种0门槛迁移基本上就实现了\n#aiteam #ai团队",
+    "createdAt": "Sun Aug 23 09:15:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 54140,
+      "friendsCount": 2359,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2091446260255371477",
+    "fullText": "AI Bubble May Deflate, Not Burst by Brett Decker https://t.co/Fr5Aq7hnWy",
+    "createdAt": "Sun Aug 23 08:43:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36823,
+      "friendsCount": 1876,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2091445178041298944/vid/avc1/960x544/2lpTfRdUnZGGaqVv.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2091445288322129946",
+    "fullText": "今天下午去了第二届世界人形机器人运动会现场，相比于去年25年的第一届比赛，今年的机器人很多都是新公司新面孔，赛事增加了考验机器人协调性的太极拳和乒乓球运动。\n\n据说，今年有666支队伍、2056台机器人同场竞技，足球、跳远、举重、拔河、乒乓球等项目轮番上演。但从现场情况来看，除了跑步相对没有太多人为控制外，依靠机器人自身视觉、姿态感知、算法自主完成，拳击、灵巧手、乒乓球还是需要人工干预的，太极拳项目倒是没有人工干预，相比于田径赛太极拳，对机器人的协调性要求较高。\n\n～足球考验团队协同性、机器人下足灵活性、机器人平衡、灵活性；\n～拳击考验整体全身的协调性、姿态感知\n～田径赛考验机器人的重力控制能力、平衡型、灵活性、爆发力等\n～乒乓球考验机器人的多模态感知能力、自身视觉能力等\n～药物分拣，针对不同药品甚至胶囊进行分拣，考验机器人的多模态感知、收不灵活性等能力\n\n相比于去年，今年的世界人形机器人整体感觉比去年好太多了，去年基本上大多数机器人还是比较弱的，今年明显上了一个档次，但是局限性也很明显：\n1、当前人形机器人应用场景还是表演为主，有价值的实用场景还非常有限\n2、机器人自主性和泛化能力非常有限，大多数机器人还是特定场景的指令集植入，然后面向特定场景进行运动，这以点的方式解决问题，看似也有价值，但距离大规模应用还有十万八千里。\n\n如果要达到人类小孩10岁的水平，也得当物理模型的chatgpt时刻来临后，才能有真正的突破，当前的物理模型还处于1.0阶段，有点像ai 1.0阶段，也就是13年到22年之间的nlp和cv解决单点问题，远没到chatgpt解决全面问题的时刻。\n\n只有突破物理AI的chatgpt时刻才能真正带领具身只能进入大繁荣，这个时间还需要2-3年，没有突破前，人形机器人观赏性或许是最大的商业价值，至于实际生活场景可能会有小规模投放但真正敢用还需要很长的路要走。\n\n#第二届世界人形机器人运动会 #具身智能",
+    "createdAt": "Sun Aug 23 08:39:48 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nathanbenaich",
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
@@ -23,7 +78,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 168590,
+      "followersCount": 168594,
       "friendsCount": 1290,
       "location": ""
     },
@@ -57,7 +112,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 63201,
+      "followersCount": 63200,
       "friendsCount": 11347,
       "location": "San Francisco"
     },
@@ -95,7 +150,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 61930,
+      "followersCount": 61937,
       "friendsCount": 368,
       "location": "San Francisco, CA"
     },
@@ -113,7 +168,7 @@
       "name": "Shivon Zilis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
       "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
-      "followersCount": 569757,
+      "followersCount": 569868,
       "friendsCount": 1734,
       "location": "Palo Alto, CA"
     },
@@ -131,7 +186,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303263,
+      "followersCount": 303278,
       "friendsCount": 8438,
       "location": "United States"
     },
@@ -149,7 +204,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 718258,
+      "followersCount": 718268,
       "friendsCount": 828,
       "location": "United States"
     },
@@ -165,7 +220,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303263,
+      "followersCount": 303278,
       "friendsCount": 8438,
       "location": "United States"
     },
@@ -183,7 +238,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4927276,
+      "followersCount": 4928399,
       "friendsCount": 799,
       "location": ""
     },
@@ -201,7 +256,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413291,
+      "followersCount": 413296,
       "friendsCount": 887,
       "location": ""
     },
@@ -233,7 +288,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 155436,
+      "followersCount": 155441,
       "friendsCount": 3364,
       "location": "on ⛓"
     },
@@ -249,7 +304,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413291,
+      "followersCount": 413296,
       "friendsCount": 887,
       "location": ""
     },
