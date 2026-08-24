@@ -1,11 +1,133 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 303579,
+      "friendsCount": 8440,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2091918081006403877",
+    "fullText": "He’s a ten but he is an AI startup founder in San Francisco.",
+    "createdAt": "Mon Aug 24 15:58:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314971,
+      "friendsCount": 979,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQf3q_iXoAAnWg8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2091915906305704015",
+    "fullText": "Solving recursive self-improvement with a harness.\n\nThe big question with the agent harnesses I use is: how does it support RSI and compound on every iteration?\n\nWhat capabilities do I need to own the harness? \n\nWhat are the best solutions right now?\n\nSomething important to understand when using harnesses. Once an agent starts rewriting its own prompts, tools, and memory, you need durable state underneath it that the agent cannot modify, plus a way to roll a run back to an earlier checkpoint.\n\nexo is a new open-source agent harness built to solve exactly that. It splits an agent into three layers.\n\n1) The exoharness stores everything durable. Conversation history is an append-only event log the agent cannot alter, and it holds artifacts, secrets, and sandbox lifecycle alongside it.\n\n2) The executor decides how the agent behaves. It assembles the prompt, calls the model, dispatches tools, and manages memory. The agent can rewrite any of that, and you can swap the executor for another harness.\n\n3) The sandbox runs the important work. Packages, files, and commands execute in an isolated machine you can snapshot and rewind.\n\nYou can do many things with that setup.\n\n- Fork a conversation from any event and run two versions of the same task\n\n- Roll back to the event right before an agent broke itself\n\n- Resume a conversation weeks later with its full history and its own mount\n\n- Read which commands actually ran from tool_requested and tool_result\n\nAgents will keep taking on more of their own configuration, and that raises the bar for the harness underneath them. It reaches a point where an event log, forking, and rollback are must-haves.",
+    "createdAt": "Mon Aug 24 15:49:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 1013830,
+      "friendsCount": 494,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2091915181576081575",
+    "fullText": "One of the most important and inspiring quotes of all time: “The concern for man and his destiny must always be the chief interest of all technical effort… in order that the creations of our mind shall be a blessing and not a curse to mankind.” (Albert Einstein, 1931)",
+    "createdAt": "Mon Aug 24 15:46:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 345308,
+      "friendsCount": 114,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQf5kAaXsAA3D5w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2091914953116549510",
+    "fullText": "Grok 4.6 with Cursor data = a massive leap in agentic efficiency. 🧠 The new model completes long-running knowledge work tasks in half the turns of other leading models. 📉 Fewer turns mean lower costs for complex agentic apps. 💸 \n\nDive into the architecture details: https://t.co/TGIWVT4tdo",
+    "createdAt": "Mon Aug 24 15:46:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 519331,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQf341jXwAA4mtu.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2091913229437915495",
+    "fullText": "InfinityEdit\n\nInfinite Video Editing with a Lightweight Edit-Ignition Adapter\n\npaper: https://t.co/AnI1w6eCLI https://t.co/Q0DKxlcQKb",
+    "createdAt": "Mon Aug 24 15:39:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149456,
+      "friendsCount": 5438,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQf3mRgWYAAPRia.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2091912793746231760",
+    "fullText": "Frontier AI is becoming easier to rent.\n\nInstitutional intelligence is not.\n\nAs frontier models become more capable—and more interchangeable—the enduring advantage will shift from access to ownership: ownership of the mission, evidence, learned decision structures and governing intelligence that determine how capability is used.\n\nIntroducing The Neural-Symbolic SUCCESSOR Ω—a lightweight, customized, customer-owned intelligence architecture designed to preserve that advantage.\n\n“Neural-symbolic” describes a disciplined division of labour: neural learning interprets complex evidence and proposes hypotheses; symbolic synthesis compiles them into inspectable world, policy, proof and authority programs.\n\nConsider an organization providing its mission, operating evidence, constraints and tools.\n\nSUCCESSOR Ω is designed to generate competing world programs, predict consequences, expose uncertainty, search for falsifiers and test candidates inside a sealed sandbox. The exact candidate release is then frozen and submitted to independent fresh proof.\n\nOnly an admitted release may receive production authority—and that authority remains bounded, expiring, monitored, reversible and proportional to the evidence.\n\nThe constitutional sequence is simple:\n\nCapability proposes.\nThe Gym challenges.\nThe release freezes.\nIndependent evidence proves.\nAccountable admission authorizes.\nThe Chronicle remembers.\n\nThis creates something more consequential than data ownership: institutional continuity across provider change.\n\nThe underlying model, compute provider or tool may be replaced. The organization’s mission fingerprint, evidence lineage, executable knowledge and Chronicle remain portable and customer-owned.\n\nAnd succession follows a crucial law:\n\nMemory may be inherited. Proof and authority must be earned again.\n\nWhen a component changes, its authority contracts until the new configuration earns proportionate fresh proof.\n\nAt https://t.co/dCKMr5Lici, I am advancing this architecture because organizations should gain more than temporary access to intelligence. They should be able to constitute, govern and compound intelligence of their own. ✨\n\nRent the frontier.\nOwn the intelligence.\nProve the capability.\nBound the authority.\nCompound the alpha.\n\nIf your AI provider changed tomorrow, which parts of your organization’s intelligence would remain truly yours?\n\n#NeuralSymbolicAI #EnterpriseAI #AIGovernance #DecisionIntelligence #MontrealAI",
+    "createdAt": "Mon Aug 24 15:37:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36823,
+      "friendsCount": 1877,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQfxk4ub0AAXenz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2091906859502583960",
+    "fullText": "我靠，Cursor团队发布Grok Bot 0.18.0时泄漏了runtime source maps ，被大牛还原出来了：把 Electron 主进程、host、coordinator、本地执行和协议层还原成了可读的TypeScript，大佬还加了一层推理路由（同一套 agent loop 能切到 Claude Code、Codex、OpenRouter），本地 Docker 沙箱还能替掉远端 box。\n\n这一下就让整个行业都可以快速复制grok-bot了，估计过些天国内和网上会有一堆开源的grok-bot要来了\n\n这算是cursor给行业送福利了😂\n#cursor #grokbot",
+    "createdAt": "Mon Aug 24 15:13:55 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "natolambert",
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 98693,
+      "followersCount": 98698,
       "friendsCount": 936,
       "location": "Seattle"
     },
@@ -24,7 +146,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303568,
+      "followersCount": 303579,
       "friendsCount": 8440,
       "location": "United States"
     },
@@ -40,8 +162,8 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149455,
-      "friendsCount": 5437,
+      "followersCount": 149456,
+      "friendsCount": 5438,
       "location": "Montréal · Québec"
     },
     "images": [
@@ -58,7 +180,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 130028,
+      "followersCount": 130037,
       "friendsCount": 1,
       "location": ""
     },
@@ -76,7 +198,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413525,
+      "followersCount": 413528,
       "friendsCount": 888,
       "location": ""
     },
@@ -92,7 +214,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 96322,
+      "followersCount": 96321,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -110,7 +232,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1982142240571920384/hla62KCQ_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 90481,
+      "followersCount": 90484,
       "friendsCount": 5424,
       "location": "Paris"
     },
@@ -126,8 +248,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489000,
-      "friendsCount": 3346,
+      "followersCount": 489021,
+      "friendsCount": 3347,
       "location": "Maryland, USA"
     },
     "images": [
@@ -145,8 +267,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489000,
-      "friendsCount": 3346,
+      "followersCount": 489021,
+      "friendsCount": 3347,
       "location": "Maryland, USA"
     },
     "images": [
@@ -163,8 +285,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489000,
-      "friendsCount": 3346,
+      "followersCount": 489021,
+      "friendsCount": 3347,
       "location": "Maryland, USA"
     },
     "images": [
@@ -181,8 +303,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489000,
-      "friendsCount": 3346,
+      "followersCount": 489021,
+      "friendsCount": 3347,
       "location": "Maryland, USA"
     },
     "images": [
@@ -199,8 +321,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489000,
-      "friendsCount": 3346,
+      "followersCount": 489021,
+      "friendsCount": 3347,
       "location": "Maryland, USA"
     },
     "images": [
@@ -217,7 +339,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 262270,
+      "followersCount": 262275,
       "friendsCount": 183,
       "location": ""
     },
@@ -233,8 +355,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489000,
-      "friendsCount": 3346,
+      "followersCount": 489021,
+      "friendsCount": 3347,
       "location": "Maryland, USA"
     },
     "images": [
@@ -251,8 +373,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489000,
-      "friendsCount": 3346,
+      "followersCount": 489021,
+      "friendsCount": 3347,
       "location": "Maryland, USA"
     },
     "images": [
@@ -269,8 +391,8 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149455,
-      "friendsCount": 5437,
+      "followersCount": 149456,
+      "friendsCount": 5438,
       "location": "Montréal · Québec"
     },
     "images": [],
@@ -285,8 +407,8 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149455,
-      "friendsCount": 5437,
+      "followersCount": 149456,
+      "friendsCount": 5438,
       "location": "Montréal · Québec"
     },
     "images": [],
@@ -301,7 +423,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 455065,
+      "followersCount": 455067,
       "friendsCount": 591,
       "location": "🇺🇸 Collaborations →"
     },
@@ -319,7 +441,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Powering the Agent Development Lifecycle. Makers of LangSmith and @LangChain_OSS and @LangChain_JS.",
-      "followersCount": 262270,
+      "followersCount": 262275,
       "friendsCount": 183,
       "location": ""
     },
@@ -337,7 +459,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
-      "followersCount": 285232,
+      "followersCount": 285233,
       "friendsCount": 334,
       "location": "New York, USA"
     },
@@ -355,7 +477,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 314965,
+      "followersCount": 314971,
       "friendsCount": 979,
       "location": "DAIR.AI Academy"
     },
@@ -854,7 +976,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1070584,
+      "followersCount": 1070682,
       "friendsCount": 5928,
       "location": "San Francisco, CA"
     },
@@ -1314,7 +1436,7 @@
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, ONEAI OECD, co-chair @indexingai, writer @ https://t.co/3vmtHYkIJ2 Past: @openai, @business @theregister. Neural nets, distributed systems, weird futures",
-      "followersCount": 140916,
+      "followersCount": 140996,
       "friendsCount": 4619,
       "location": "San Francisco, CA"
     },
