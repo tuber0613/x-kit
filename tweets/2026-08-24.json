@@ -1,11 +1,113 @@
 [
   {
     "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 413478,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2092001647132016809",
+    "fullText": "Technology is the means by which we can take vacations from survival!",
+    "createdAt": "Mon Aug 24 21:30:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1061422,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092001512335822848/vid/avc1/1280x720/cXkXCQowKbStJkJL.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2092001552697557214",
+    "fullText": ".@bhorowitz on why he refused the Databricks founders' $200K ask and wrote them a $10M check instead:\n\n\"So there were six PhD students, and Ion Stoica, who was their professor.\"\n\n\"What they had was this thing called Spark, and the competitor was something called Hadoop. Hadoop had very well-funded companies already running towards it, and Spark was open-source. So the clock was ticking. I think they didn't quite know what they had.\"\n\n\"Professors in general, it's a pretty big win if you start a company and you make $50 million. You're a hero on campus... So I'm always a little nervous about a company that comes out of academia thinking too small.\"\n\n\"So I said 'I'm not gonna write you a check for $200,000. I'll write you a check for $10 million.'\"\n\n\"You need to build a company. You need to really go for it if you're gonna do this, otherwise you guys should stay in school.\"\n\nBen Horowitz w/ @lennysan on Lenny's Podcast (2025)",
+    "createdAt": "Mon Aug 24 21:30:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 398118,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2091995301397893501",
+    "fullText": "🔴 We’re live with @AlexFinn\n\nTune in to jam with us and see how he runs his workflows hands-free using voice agent in Codex—on desktop and mobile.\n\nhttps://t.co/TZVBy3EBDD",
+    "createdAt": "Mon Aug 24 21:05:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 130028,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQhBf6cbQAAVdhE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2091994046948655506",
+    "fullText": "Interesting new approach to enable memory in long-running agents.\n\nWeighted Memory Tree organizes execution into tasks, subtasks, and actions, then gives every memory a retention score that moves. Event based updates raise it, selection based decay lowers it.\n\nWhen a subtask finishes, its step by step detail collapses into a short summary and the full version stays retrievable. If a later step needs the details, the agent pulls them back.\n\nContext trimming is usually permanent. Drop the wrong turn and the agent has no way to recover it. Folding gives you the same token savings with a way back.\n\nOn GAIA-Text with Qwen3-8B, Gemma 4 E4B, and Llama-3.1-8B, it beats linear memory by 9.97 points on average while using 32.8% fewer prompt tokens. Memory poisoning experiments show retention scoring limits how far unreliable information spreads.\n\nPaper: https://t.co/2huRNYeOMz\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Mon Aug 24 21:00:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314975,
+      "friendsCount": 980,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQhBf0yb0AAP7aD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2091994045962911949",
+    "fullText": "Nice little survey on Terminal Agents.\n\nIt provides good information on what exactly is a terminal agent, and why do harness comparisons keep contradicting each other?\n\nPaper: https://t.co/sbSNs6hgjZ\n\nTrack more trending AI papers in our academy: https://t.co/qF2b2uvKf1 https://t.co/nKIeOA9RH3",
+    "createdAt": "Mon Aug 24 21:00:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodfellow_ian",
+      "name": "Ian Goodfellow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112921710339084288/nJ2wKwuv_normal.jpg",
+      "description": "Co-founder of stealth startup. Inventor of GANs. Lead author of https://t.co/M6vl8pEQ4I Founding chairman of @pubhealthaction",
+      "followersCount": 378522,
+      "friendsCount": 1365,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goodfellow_ian/status/2091991047090188755",
+    "fullText": "New BBC World Service documentary: \"The Rise of Deepfakes: How AI Changed Porn, Politics, and Reality\" https://t.co/F6ADDajOu7",
+    "createdAt": "Mon Aug 24 20:48:27 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "paulg",
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4960629,
+      "followersCount": 4961377,
       "friendsCount": 799,
       "location": ""
     },
@@ -23,7 +125,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303580,
+      "followersCount": 303589,
       "friendsCount": 8440,
       "location": "United States"
     },
@@ -39,7 +141,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 62124,
+      "followersCount": 62126,
       "friendsCount": 368,
       "location": "San Francisco, CA"
     },
@@ -55,7 +157,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 398073,
+      "followersCount": 398118,
       "friendsCount": 1,
       "location": ""
     },
@@ -73,7 +175,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1061388,
+      "followersCount": 1061422,
       "friendsCount": 63,
       "location": "The Cloud"
     },
@@ -91,7 +193,7 @@
       "name": "Richard Socher",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1232361282759610368/YYxndVmI_normal.jpg",
       "description": "Building self-improving superintelligence\nCEO @recursive_si and @youdotcom\nMP @aixventuresHQ\nEx: Stanford Adj Prof, Chief Scientist at Salesforce, CEO MetaMind",
-      "followersCount": 122148,
+      "followersCount": 122142,
       "friendsCount": 1157,
       "location": ""
     },
@@ -109,7 +211,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 479931,
+      "followersCount": 479932,
       "friendsCount": 1579,
       "location": "Austin, TX"
     },
@@ -125,7 +227,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 238052,
+      "followersCount": 238055,
       "friendsCount": 7131,
       "location": ""
     },
@@ -143,7 +245,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 96322,
+      "followersCount": 96323,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -164,7 +266,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 334447,
+      "followersCount": 334453,
       "friendsCount": 897,
       "location": "Santa Clara, CA"
     },
@@ -182,7 +284,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303580,
+      "followersCount": 303589,
       "friendsCount": 8440,
       "location": "United States"
     },
@@ -198,7 +300,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
-      "followersCount": 285232,
+      "followersCount": 285238,
       "friendsCount": 334,
       "location": "New York, USA"
     },
@@ -216,7 +318,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 398073,
+      "followersCount": 398118,
       "friendsCount": 1,
       "location": ""
     },
@@ -234,7 +336,7 @@
       "name": "Mistral AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996905418065375232/mzwynOLB_normal.jpg",
       "description": "Frontier AI in your hands. Get work done with @MistralVibe at https://t.co/JsGnCVMUFq.",
-      "followersCount": 204033,
+      "followersCount": 204054,
       "friendsCount": 2,
       "location": "Paris, France"
     },
@@ -250,7 +352,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413475,
+      "followersCount": 413478,
       "friendsCount": 888,
       "location": ""
     },
@@ -266,7 +368,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 238052,
+      "followersCount": 238055,
       "friendsCount": 7131,
       "location": ""
     },
@@ -282,7 +384,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
-      "followersCount": 262265,
+      "followersCount": 262266,
       "friendsCount": 183,
       "location": ""
     },
@@ -298,7 +400,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 519341,
+      "followersCount": 519345,
       "friendsCount": 3135,
       "location": ""
     },
@@ -2148,7 +2250,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 468931,
+      "followersCount": 469014,
       "friendsCount": 13360,
       "location": "San Francisco, CA"
     },
