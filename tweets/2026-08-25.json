@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 155774,
+      "friendsCount": 3364,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2092332431592616151",
+    "fullText": "It’s HotChips week! about to interview @renehaas237 the ARM $SFTB.NE CEO for @NoPriorsPod. I’ll obviously ask him about the AGI CPU. what else?",
+    "createdAt": "Tue Aug 25 19:25:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "BornsteinMatt",
+      "name": "Matt Bornstein",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2090880177194897408/oiNHZQxv_normal.jpg",
+      "description": "GP at a16z & AI enthusiast. Investor in @cursor_ai, @inferact, @mirendil, @unconvAI, @character_ai, @replicate, @tabulario, and many others.",
+      "followersCount": 8588,
+      "friendsCount": 395,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092328559687913472/vid/avc1/1920x1080/enA5mJHyGCJhS_ga.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/BornsteinMatt/status/2092329558183903517",
+    "fullText": "Music streaming is amazing. You can just play any track ever recorded. But I can never remember what I have saved, so I end up listening to the same stuff all the time. Weird paradox.\n\nAnyway, I made a cozy listening room so you can flip through &amp; play your @Spotify albums: https://t.co/lHqvQLC4S1",
+    "createdAt": "Tue Aug 25 19:13:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 413587,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2092326835358982385",
+    "fullText": "Imagine I handed you 10,000 brilliant employees tonight. What would you do with them tomorrow morning? That's exactly what AI agents are about to give you. Most people have no answer.",
+    "createdAt": "Tue Aug 25 19:02:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 315084,
+      "friendsCount": 981,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQlvmG5bMAA9py5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2092326207077634351",
+    "fullText": "If you keep safety rules or coding standards in an AGENTS.md or a CLAUDE.md, this one is worth your time.\n\n(bookmark it)\n\nResearchers measured what context compaction actually destroys across 20 production agent configurations.\n\nA safety rule and an episodic log compete for the same tokens, and when the budget overflows both get summarized at the same rate. Only the rule needs exact wording to stay enforceable.\n\nClaude Code compact on Sonnet 4.6 preserves 53% of safety rules after one round. After five rounds, it goes to 10%.\n\nTheir fix is Knowledge Triage, which classifies each line of the knowledge base by type and routes each type through its own retention policy. Three deterministic operators handle compaction, partitioning, and retrieval, preserving 2 to 4x more safety rules at every ratio with 96% recall over five rounds.\n\nPaper: https://t.co/iVYbNrTRJX\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Tue Aug 25 19:00:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 262349,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQlCWDlXEAAV5LB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2092326141893784006",
+    "fullText": "Join us next week for The Learning Loop in SF on September 2nd: https://t.co/HSlr2SUtLa\n\nHear from:\n✅ @jakebroekhuizen- LangChain\n✅ @willcb- @PrimeIntellect \n✅ @oneill_c- @baseten \n\nWe’ll dive into continual learning, what it means to own your own intelligence, and how teams are building systems that learn and improve over time.\n\nAfter the talks, we’ll head to the patio where you can meet the LangSmith Engine team, enjoy food and drinks, slot car racing, an AI photo booth, and more.\n\nSpots are limited, so be sure to register!",
+    "createdAt": "Tue Aug 25 19:00:00 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GeminiApp",
       "name": "Google Gemini",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
       "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
-      "followersCount": 561368,
+      "followersCount": 561390,
       "friendsCount": 53,
       "location": "Mountain View, CA"
     },
@@ -17,11 +103,99 @@
   },
   {
     "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 500891,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2092321982440476787",
+    "fullText": "Advances in models, chips, or devices will continually improve local-first capabilities. We will open our benchmarks soon.\n\nRead the full post: https://t.co/SHYlWB56zA",
+    "createdAt": "Tue Aug 25 18:43:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 500891,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQlrvqSbkAAlxdA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2092321970369249399",
+    "fullText": "We post-trained the model to purpose. PPLX 27B is trained inside the Computer harness on synthetic tasks developed from how people actually use Computer, no real user data. https://t.co/0Z16bihCdg",
+    "createdAt": "Tue Aug 25 18:43:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 500891,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQlru0GbwAALjeV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2092321955836043587",
+    "fullText": "The local model can escalate to frontier advisor. It's user-gated, PII-flagged, text guidance only.\n\nOn Terminal Bench 2.1, escalation lifts the score from 59.6% to 73.0% at $0.415 per rollout, recovering about three-fifths of the frontier gap at two-thirds of the cost. https://t.co/7JnORP4xmZ",
+    "createdAt": "Tue Aug 25 18:43:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 500891,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQlrt89akAAu9u9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2092321941160149371",
+    "fullText": "Parsing runs entirely on-device, so sensitive documents never leave the machine.\n\nOn ParseBench-100, Computer scores 65.1% vs 34.6% for Hermes and 13.9% for Pi, in least time with fewest tokens. https://t.co/GQ590BYEn5",
+    "createdAt": "Tue Aug 25 18:43:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 500891,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQlrtFZa0AAam9m.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2092321926173843491",
+    "fullText": "Web research: on 1,266 BrowseComp tasks, Computer reaches 66.7% accuracy vs 50.2% for Pi and 43.9% for Hermes on their respective search providers.\n\nPortable uses the least wall time and the fewest tokens. Inference and private documents stay local; only search touches the web. https://t.co/ebw1MjO0eN",
+    "createdAt": "Tue Aug 25 18:43:15 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489267,
+      "followersCount": 489269,
       "friendsCount": 3348,
       "location": "Maryland, USA"
     },
@@ -38,11 +212,47 @@
   },
   {
     "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 500891,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQlrsPObgAATPdc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2092321911468691469",
+    "fullText": "The model and harness are designed together because small models fail in harnesses built for frontier models.\n\nPortable is a minimal system prompt, skills that load on demand, connectors as compact CLI tools instead of MCP servers, self-verification, and an always-on sandbox. https://t.co/eF2Qceiqpv",
+    "createdAt": "Tue Aug 25 18:43:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 500891,
+      "friendsCount": 78,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQlrrWbboAAQwsi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2092321896721432824",
+    "fullText": "New research: Portable Computer is a local-first agent for private and cost-effective work.\n\nWith an on-device 27B model, our harness scores 82.6% on real knowledge work, beating open-source harnesses Pi and Hermes. Our post-trained PPLX 27B reaches 85.4%. https://t.co/Rb6d47clCI",
+    "createdAt": "Tue Aug 25 18:43:08 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "svpino",
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 455141,
+      "followersCount": 455146,
       "friendsCount": 591,
       "location": "🇺🇸 Collaborations →"
     },
@@ -60,7 +270,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489267,
+      "followersCount": 489269,
       "friendsCount": 3348,
       "location": "Maryland, USA"
     },
@@ -81,8 +291,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1073249,
-      "friendsCount": 5929,
+      "followersCount": 1073329,
+      "friendsCount": 5930,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -115,7 +325,7 @@
       "name": "Andrew Ng",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
       "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-      "followersCount": 1829774,
+      "followersCount": 1829870,
       "friendsCount": 1104,
       "location": "Palo Alto, CA"
     },
@@ -131,7 +341,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 96359,
+      "followersCount": 96357,
       "friendsCount": 1106,
       "location": "HQ: San Francisco, CA"
     },
@@ -149,7 +359,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
-      "followersCount": 262345,
+      "followersCount": 262349,
       "friendsCount": 183,
       "location": ""
     },
@@ -165,7 +375,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 130064,
+      "followersCount": 130069,
       "friendsCount": 1,
       "location": ""
     },
@@ -183,7 +393,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 334629,
+      "followersCount": 334633,
       "friendsCount": 897,
       "location": "Santa Clara, CA"
     },
@@ -217,7 +427,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413570,
+      "followersCount": 413587,
       "friendsCount": 888,
       "location": ""
     },
@@ -233,7 +443,7 @@
       "name": "Santiago",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
       "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
-      "followersCount": 455141,
+      "followersCount": 455146,
       "friendsCount": 591,
       "location": "🇺🇸 Collaborations →"
     },
@@ -265,7 +475,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 5125201,
+      "followersCount": 5125257,
       "friendsCount": 4,
       "location": ""
     },
@@ -283,7 +493,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489267,
+      "followersCount": 489269,
       "friendsCount": 3348,
       "location": "Maryland, USA"
     },
