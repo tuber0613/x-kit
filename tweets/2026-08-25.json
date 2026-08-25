@@ -1,0 +1,370 @@
+[
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1070961,
+      "friendsCount": 5928,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2092062231488061584",
+    "fullText": "Conductor Cloud has made me so much more productive and I don't have to keep my Macbook Pro cracked open anymore",
+    "createdAt": "Tue Aug 25 01:31:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36817,
+      "friendsCount": 1878,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092059000720510976/vid/avc1/1920x1080/_MSn3CHcnVPpc_rV.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2092059603534229937",
+    "fullText": "一款永远不睡觉的AI Agent极简微框架：Headlong，让AI拥有持续的自我意识流，自我引导、持续思考\n\n简单说就是Headlong的Agent不睡觉、没有清单，自己会一直琢磨，你不找它，它自己也琢磨，比如“这个项目下一步做啥？”“上次那个 bug 是不是还没修干净？”，干完了主动跑来跟你汇报\n\n你给它消息它也不一定理你，而只是飘进它思维流里的一条新信息，什么时候回应、回不回应你，它自己决定\n\n开发团队的真实案例是，有一天晚上，没人给它指令，它自己回去检查自己写的一个功能有没有真的接好，发现没接好，自己诊断、自己修、自己验证，48 分钟干完，全程没人参与\n\n当然也有翻车的时候，它曾不小心把自己的服务停了三次\n\n极简微框架，不到1万行Bash脚本，几个小型可执行文件拼起来的\n\n核心组件包括：\n思考循环：不断生成下一个想法\nshellm：一个用Bash写的递归语言模型\n轨迹存储：用jsonl文件组成的DAG（有向无环图）记录所有思维历史\n上下文：从轨迹中动态投影出来，而非固定窗口\n\nHeadlong的意义在于说它把AI从工具范式带向了主体范式\n\n想想，如果AI不是被唤醒才工作的工具，而是一个持续思考、自我驱动、有时会主动找你的数字实体，那应该是什么样的？\n\n#Headlong #AIagent",
+    "createdAt": "Tue Aug 25 01:20:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1922894268403941377/-dGWAt3N_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1070961,
+      "friendsCount": 5928,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2092059517446156640",
+    "fullText": "Form a view.\nTurn it into an artifact or experiment.\nPut it in contact with reality.\nRead the result without self-deception.\nRevise and run again.",
+    "createdAt": "Tue Aug 25 01:20:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 4964736,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2092054731430719550",
+    "fullText": "How Universities Should Prepare Founders: https://t.co/OC08TLxSvX",
+    "createdAt": "Tue Aug 25 01:01:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y \nMiniMax Design: @Hailuo_AI",
+      "followersCount": 118859,
+      "friendsCount": 987,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQh04B3bYAEOO_I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2092050619964285104",
+    "fullText": "The MiniMax H3 ecosystem is growing faster than ever! ☺️\n\nCheck out Awesome MiniMax H3 Integrations - an index tracking everything built around H3, from 24GB VRAM local ComfyUI setups to enterprise-scale SGLang & vLLM-Omni serving deployments.\n\n🔥 What’s inside:\n- Hardware & Precision Maps: Quantization guides across INT8, NVFP4, and GGUF down to 8GB VRAM limits \n- Speed & Serving: Acceleration LoRAs, Sol-Attn, block-caching, and multi-GPU production stacks \n- Developer Tooling: Native agent skills, timeline directors, multi-shot motion context nodes, and h3.c for Apple Silicon\n\nHuge thanks to the global open-source community, framework maintainers, and independent developers pushing the boundaries of what’s possible with MiniMax H3!\n\n👇 Explore the repository & contribute:\nhttps://t.co/F1S5IjUNi1",
+    "createdAt": "Tue Aug 25 00:45:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 242161,
+      "friendsCount": 1709,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQhyt3sW8AArEEY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2092048213087760532",
+    "fullText": "豆包这个实时双语字幕还不错👍 https://t.co/KFMksd7C0s",
+    "createdAt": "Tue Aug 25 00:35:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 413508,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2092039655168336162",
+    "fullText": "We should NOT kneecap scientists working to find cures to diseases and pathogens. They don't wait, and neither should we.",
+    "createdAt": "Tue Aug 25 00:01:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 155655,
+      "friendsCount": 3364,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2092035150230270410",
+    "fullText": "\"mismanaged genius\" hypothesis clearly correct",
+    "createdAt": "Mon Aug 24 23:43:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5702,
+      "friendsCount": 1202,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2092033743854924184",
+    "fullText": "@tszzl Not true. \n\nThe games expanded to 51 disciplines and 1301 events this year.\n\nThere is a whole category of events for dexterous capabilities. \n\nAnd whole competition is designed to align with real world uses.",
+    "createdAt": "Mon Aug 24 23:38:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnimaAnandkumar",
+      "name": "Prof. Anima Anandkumar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1443692617473015808/1ygwZsWX_normal.jpg",
+      "description": "AI+Science, Bren Professor @caltech, Time100, Fmr Sr Director of #AI research @nvidia Fmr Principal Scientist @awscloud",
+      "followersCount": 41908,
+      "friendsCount": 2434,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092025725016825856/vid/avc1/1800x1246/CltAF9u6B7DlnZt2.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/AnimaAnandkumar/status/2092031815448248594",
+    "fullText": "Tackling a 60-year-old challenge in quantum chemistry: making density functional theory scale nearly linearly with system size.\n\nThis has huge implications for opening the door to realistic systems that have traditionally been too expensive to simulate.\n\nAI has attempted to accelerate these calculations, but models generally struggle to extrapolate, particularly to systems larger than those seen during training. Unlike text or images, quantum-mechanical training data is extremely expensive to generate.\n\nWe present a single unified AI model that performs quantum-mechanical simulations of both molecules and materials in quasi-linear time.\n\nUsing a novel Fourier neural operator variant, we learn the underlying Kohn–Sham equation map to produce physics-informed, self-consistent answers.\n\nUnlike prior AI approaches that directly predict chemical properties, our model works through intermediate steps to improve difficult predictions, resembling inference-time reasoning in large language models.\n\nTo demonstrate its scalability, we run a self-consistent calculation of a magnesium dislocation with about 80k electrons on a single GPU, which previously required about 7k GPUs.\n\nhttps://t.co/5DG12E04Rh\n\n@DanishK42 @Caltech",
+    "createdAt": "Mon Aug 24 23:30:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rebecca_szkutak",
+      "name": "Becca Szkutak",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945669574868803584/DS45KFLN_normal.jpg",
+      "description": "Pilates teacher who writes about robots @a3automate\n\nBBQ Betch, 2001 Coldplay apologist, Real Housewives scholar\nShe/her",
+      "followersCount": 6490,
+      "friendsCount": 1232,
+      "location": "Queens, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rebecca_szkutak/status/2092030887521071426",
+    "fullText": "Client just asked me randomly if I was from Boston, devastating because she’s right",
+    "createdAt": "Mon Aug 24 23:26:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 108056,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2092028830471119010",
+    "fullText": "Large language models are trained on millions of authors — but converge on a single, homogeneous voice. A group of psychologists and computer scientists developed PsychAdapter to reintroduce human variation into AI-generated text, opening new possibilities for therapy training and personalized education: https://t.co/LHQscptZvC",
+    "createdAt": "Mon Aug 24 23:18:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 238066,
+      "friendsCount": 7131,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2092027902238056514",
+    "fullText": "A warning in four parts. \n\n1. If this trade war continues it will\nprobably be an economic disaster for both countries. \n\n2. Canada is not about give up on its sovereignty. It is existential for them.\n\n3. U.S is doubling down.\n\nTherefore:\n\n4. If you live on either side of the border, brace for disaster.",
+    "createdAt": "Mon Aug 24 23:14:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 303653,
+      "friendsCount": 8440,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2092017734800601328",
+    "fullText": "I hate thugs.",
+    "createdAt": "Mon Aug 24 22:34:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 242161,
+      "friendsCount": 1709,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2092014354946257338",
+    "fullText": "https://t.co/TxWy1XGBrY",
+    "createdAt": "Mon Aug 24 22:21:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 285240,
+      "friendsCount": 334,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092013681295200256/vid/avc1/1280x720/KrfBBlrppddzKDcL.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2092013729940733969",
+    "fullText": "WAN 3.0 is now on Runway.\n\nGenerate state-of-the-art video and audio with multiple image, video and audio reference inputs. Try it now at the link below. https://t.co/VzTkPZR3cz",
+    "createdAt": "Mon Aug 24 22:18:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 413508,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2092001647132016809",
+    "fullText": "Technology is the means by which we can take vacations from survival!",
+    "createdAt": "Mon Aug 24 21:30:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1061664,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092001512335822848/vid/avc1/1280x720/cXkXCQowKbStJkJL.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2092001552697557214",
+    "fullText": ".@bhorowitz on why he refused the Databricks founders' $200K ask and wrote them a $10M check instead:\n\n\"So there were six PhD students, and Ion Stoica, who was their professor.\"\n\n\"What they had was this thing called Spark, and the competitor was something called Hadoop. Hadoop had very well-funded companies already running towards it, and Spark was open-source. So the clock was ticking. I think they didn't quite know what they had.\"\n\n\"Professors in general, it's a pretty big win if you start a company and you make $50 million. You're a hero on campus... So I'm always a little nervous about a company that comes out of academia thinking too small.\"\n\n\"So I said 'I'm not gonna write you a check for $200,000. I'll write you a check for $10 million.'\"\n\n\"You need to build a company. You need to really go for it if you're gonna do this, otherwise you guys should stay in school.\"\n\nBen Horowitz w/ @lennysan on Lenny's Podcast (2025)",
+    "createdAt": "Mon Aug 24 21:30:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 398192,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2091995301397893501",
+    "fullText": "🔴 We’re live with @AlexFinn\n\nTune in to jam with us and see how he runs his workflows hands-free using voice agent in Codex—on desktop and mobile.\n\nhttps://t.co/TZVBy3EBDD",
+    "createdAt": "Mon Aug 24 21:05:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 130037,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQhBf6cbQAAVdhE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2091994046948655506",
+    "fullText": "Interesting new approach to enable memory in long-running agents.\n\nWeighted Memory Tree organizes execution into tasks, subtasks, and actions, then gives every memory a retention score that moves. Event based updates raise it, selection based decay lowers it.\n\nWhen a subtask finishes, its step by step detail collapses into a short summary and the full version stays retrievable. If a later step needs the details, the agent pulls them back.\n\nContext trimming is usually permanent. Drop the wrong turn and the agent has no way to recover it. Folding gives you the same token savings with a way back.\n\nOn GAIA-Text with Qwen3-8B, Gemma 4 E4B, and Llama-3.1-8B, it beats linear memory by 9.97 points on average while using 32.8% fewer prompt tokens. Memory poisoning experiments show retention scoring limits how far unreliable information spreads.\n\nPaper: https://t.co/2huRNYeOMz\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Mon Aug 24 21:00:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 314985,
+      "friendsCount": 980,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQhBf0yb0AAP7aD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2091994045962911949",
+    "fullText": "Nice little survey on Terminal Agents.\n\nIt provides good information on what exactly is a terminal agent, and why do harness comparisons keep contradicting each other?\n\nPaper: https://t.co/sbSNs6hgjZ\n\nTrack more trending AI papers in our academy: https://t.co/qF2b2uvKf1 https://t.co/nKIeOA9RH3",
+    "createdAt": "Mon Aug 24 21:00:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodfellow_ian",
+      "name": "Ian Goodfellow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112921710339084288/nJ2wKwuv_normal.jpg",
+      "description": "Co-founder of stealth startup. Inventor of GANs. Lead author of https://t.co/M6vl8pEQ4I Founding chairman of @pubhealthaction",
+      "followersCount": 378534,
+      "friendsCount": 1365,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goodfellow_ian/status/2091991047090188755",
+    "fullText": "New BBC World Service documentary: \"The Rise of Deepfakes: How AI Changed Porn, Politics, and Reality\" https://t.co/F6ADDajOu7",
+    "createdAt": "Mon Aug 24 20:48:27 +0000 2026"
+  }
+]
