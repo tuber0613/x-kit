@@ -1,0 +1,366 @@
+[
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 315117,
+      "friendsCount": 981,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQm-RzEbIAA-zY4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2092412718573899970",
+    "fullText": "Great paper on why agent leaderboard comparisons are hard to trust.\n\nIt's on the hot topic of how much of an agent benchmark score actually belongs to the harness.\n\nThe harness is the layer between the model and the task. It builds the context the model sees, mediates tool calls, validates outputs, and decides when to retry or stop. Every score comes out of a model and a harness together, but only the model gets reported.\n\nThe authors ran a controlled grid to measure this. Three frontier models, three harness configurations, 100 tasks from SWE-bench Verified, with task order, execution environment, step budget, and evaluation script all held fixed.\n\nSwapping the harness moved GLM-5.1 by 13.0 points. Swapping the model inside a fixed harness moved scores by 3.0, 2.5, and 5.0 points.\n\nHarness-induced variance came out 7.8x larger than model-induced variance, and 6 of 9 model-pair comparisons flipped their ranking depending on which harness ran.\n\nPublic leaderboards show the same thing. On SWE-bench Verified Mini, HAL reports a 34 point swing for Claude Sonnet 4.5 across scaffolds and nearly 48 points for o4-mini.\n\nThey propose a Harness Card, a structured disclosure across seven layers, so you can tell whether a score gap came from the model, the harness, or the interaction.\n\nPaper: https://t.co/pAE8edBsB9\n\nTrack more trending AI papers in our academy: https://t.co/1e8RZKs4uX",
+    "createdAt": "Wed Aug 26 00:44:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
+      "followersCount": 5706,
+      "friendsCount": 1203,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2092410599821181000",
+    "fullText": "HUAWEI & CHINA UNICOM JUST LAUNCHED A“ROBOT NATIVE NETWORK” AT THE WORLD HUMANOID ROBOT COMPETITION\n\nRobot native mobile networks just made their first appearance.\n\nAt the robot games in Beijing.\n\nHere’s what happened. \n\n1: The World Humanoid Robot Games are a live test case for robot-native networks.\n\nIt uses a new 5G-A large uplink model jointly developed by Huawei and China Unicom.\n\n2: Humanoid robots require massive continuous uplink capacity rather than fast downlink speeds.\n\nOperating dozens of robots in real time demands approximately one Gbps in dedicated uplink bandwidth.\n\nThat’s the key number for autonomous humanoids in complicated activities. \n\n3: 5G-A in competition requires ultra-low latency - for real-time robotic motor control.\n\nThe games deployment achieved 18 ms end-to-end latency.\n\nThis type of 5G-A network is currently being deployed in Beijing.\n\nIt will likely be the first city with a robot-native network. \n\nListen to this podcast for more.\n\n#Huawei #ChinaUnicom #TechStrategy\n\nhttps://t.co/x199qm71fO",
+    "createdAt": "Wed Aug 26 00:35:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 238148,
+      "friendsCount": 7132,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmzEwbbsAAGNHm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2092400399190016176",
+    "fullText": "Totally unexpected life achievement unlocked: my latest column, shared in the Neil Young’s Times Contrarian:\n\nhttps://t.co/qmR4Yg3Cd3 https://t.co/pGkPVL2dUR",
+    "createdAt": "Tue Aug 25 23:55:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "MiniMax Agent: @MiniMaxAgent \nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y \nMiniMax Design: @Hailuo_AI",
+      "followersCount": 119584,
+      "friendsCount": 987,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092399017074601984/vid/avc1/3420x1958/pwUkDIfOtEVyyQf2.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2092399533989015780",
+    "fullText": "Love seeing real-world agent benchmarks like this 👇\n\nMiniMax-M3: $0.018 to spin up an inbox, write and send a business email end-to-end. The cheapest model on the board - and it finished the job.\n\nThis is what efficient intelligence looks like.\n\n(Yes! We’re a frontier lab - we don't just build video and music models, we also train and open-source our frontier LLMs for you to use.)",
+    "createdAt": "Tue Aug 25 23:51:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 303844,
+      "friendsCount": 8441,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2092395653939011610",
+    "fullText": "What if memory doesn’t want to be unified?",
+    "createdAt": "Tue Aug 25 23:36:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 413638,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2092394233441235210",
+    "fullText": "Companies beyond dying from competition.... die from shared assumptions.",
+    "createdAt": "Tue Aug 25 23:30:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 303844,
+      "friendsCount": 8441,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmninGbsAATL1I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2092387717334307138",
+    "fullText": "Prefill? You mean fluffer? https://t.co/mK5hQX8Kup",
+    "createdAt": "Tue Aug 25 23:04:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 130083,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmmfeYaEAEuGyY.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2092386565045747719",
+    "fullText": "// There Is No Neutral Harness //\n\nGreat work discussing some of the issues in harness evaluation.\n\nTwelve open-weight models answer the same 3,679 items from ARC, HellaSwag, MMLU, and TruthfulQA under 26 equally defensible harness configurations.\n\nItems, weights, and greedy decoding stay fixed. Only option order, prompt wording, and whether the answer is read from generated text or per-option likelihoods change.\n\ngemma4-31b lands anywhere from 31% to 89% depending on the harness alone.\n\nOn the items that two adjacent models both answer stably, the pair is tied. Config-fragile items carry 95.7% of the gap between them, and four of the twelve models reach rank one under some configuration.\n\nItem discrimination, the property benchmark-compression methods maximize when picking a representative subset, correlates with fragility. Compressed benchmarks are selecting for the items most sensitive to configuration.\n\nPaper: https://t.co/CE6dCkLc80\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Tue Aug 25 23:00:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 303844,
+      "friendsCount": 8441,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2092385297246159032",
+    "fullText": "Man was born free, but everywhere he is cross functionally optimizing shareholder value through B2B sales.",
+    "createdAt": "Tue Aug 25 22:55:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 98798,
+      "friendsCount": 936,
+      "location": "Seattle"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmhksyX0AAl5JE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2092381263478817138",
+    "fullText": "OOO for a bit, time to celebrate &amp; rest :) https://t.co/SUDnav5fYE",
+    "createdAt": "Tue Aug 25 22:39:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "jackclarkSF",
+      "name": "Jack Clark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
+      "description": "@AnthropicAI, ONEAI OECD, co-chair @indexingai, writer @ https://t.co/3vmtHYkIJ2 Past: @openai, @business @theregister. Neural nets, distributed systems, weird futures",
+      "followersCount": 141598,
+      "friendsCount": 4622,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmcf0KbYAAYoao.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jackclarkSF/status/2092376163142565902",
+    "fullText": "This morning, I hiked through dust and into mossy forests, past coyotes and wild turkeys, climbed to find myself atop the world, able to peek at land islands garlanded with fog beneath and scalloped clouds above. #VOTENATURE2026 https://t.co/xfHVAvlsQ7",
+    "createdAt": "Tue Aug 25 22:18:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 334678,
+      "friendsCount": 897,
+      "location": "Santa Clara, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmYg2WboAAtSra.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2092371238635307116",
+    "fullText": "When an LLM engine crashes, a cold restart can mean minutes of lost capacity.\n\nShadow engine recovery, a new preview feature in NVIDIA Dynamo, keeps a standby engine warmed up and ready to take over.\n\nIn our GLM-5.2 test, it restored capacity in 7.3 seconds, nearly 39x faster than a cold restart.\n\nRead all about it: https://t.co/dUVzW731vc",
+    "createdAt": "Tue Aug 25 21:59:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 398681,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2092371220507533344",
+    "fullText": "Ready to hack?\n\nJoin us at the WebMCP Challenge kickoff livestream.\n\nWe’ll talk through the WebMCP open standard, show off some builds, and cover prizes and how to hack with us.\n\nhttps://t.co/MD9itG75yN",
+    "createdAt": "Tue Aug 25 21:59:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 398681,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2092366121408311600",
+    "fullText": "We’re excited to announce the OpenAI Build Week winners 🥁\n\nMeet the builders behind the eight winning projects and see what they shipped with Codex.\n\nhttps://t.co/NzN5bCWkMU",
+    "createdAt": "Tue Aug 25 21:38:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 345499,
+      "friendsCount": 114,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmLlZbXEAAI6no.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2092356978651668834",
+    "fullText": "Building reliable AI out of unpredictable components requires a new playbook: continuous iteration and disciplined eval loops.\nTo help developers bridge the gap from quick demo to production, @AndrewYNg mapped out Pillar 1: Building and deploying AI Applications, of the AI Engineering Skills Map: 👇🧵👇\n\n🧠 LLM Foundations: Understand model mechanics to predict failures and select the right architecture.\n📊 Grounding Models with Data: Architect reliable context through clean data pipelines and retrieval structures.\n🤖 Building Agentic Systems: Design the agent harness, including tool integrations, context memory, and production guardrails.\n🧪 Evaluation-Driven Development: Build tailored evaluation loops to drive systematic, measurable progress.\n⚙️ Operating in Production: Maintain reliability using real-time observability, security defenses, and statistical evaluation.\n 📈 Machine Learning Foundations: Use core deep learning principles to evaluate model trade-offs and engineer better data.\n\nRead the full technical breakdown of Pillar 1 here: \nhttps://t.co/H7MHm8rSAI\n\n#AIEngineering #MachineLearning #LLM",
+    "createdAt": "Tue Aug 25 21:02:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 413638,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2092356796912447610",
+    "fullText": "Intelligence is on its way to become a commodity. And when infrastructure commoditizes, value explodes at the application layer. Electricity did it. Compute did it. The internet did it. Entrepreneurs, this is your chance!",
+    "createdAt": "Tue Aug 25 21:01:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 262360,
+      "friendsCount": 183,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmLMQ4XAAAgk_O.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2092356549775692014",
+    "fullText": "LangSmith Engine is your lightning rod. Catch issues when they strike. https://t.co/BMpJ0MUWb2",
+    "createdAt": "Tue Aug 25 21:00:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489302,
+      "friendsCount": 3348,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmJHL7W0AAFGTq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2092354262852358639",
+    "fullText": "Causal Inference for Data Science : https://t.co/nCnRPwt6KB via @ManningBooks \n——————\n#Statistics #MachineLearning #ML #DataScientist https://t.co/R0Dg5wkAFe",
+    "createdAt": "Tue Aug 25 20:51:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489302,
+      "friendsCount": 3348,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmI6s8X0AEDfsV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2092354048389177473",
+    "fullText": "\"Causal Inference in Python\" at https://t.co/0S6gcr6cui by @MatheusFacure via @OReillyMedia https://t.co/1Q4SoYTz2f",
+    "createdAt": "Tue Aug 25 20:50:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489302,
+      "friendsCount": 3348,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmItohWUAAR6CP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2092353823809339721",
+    "fullText": "All of Statistics — 442-page Course in Statistical Inference: https://t.co/lp2m4h0Cow https://t.co/vfVnKnSRVk",
+    "createdAt": "Tue Aug 25 20:50:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489302,
+      "friendsCount": 3348,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQmIkbIXgAA3Q6K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2092353666707488771",
+    "fullText": "Inference in Statistical Modelling and Machine Learning: https://t.co/9Dmaz0Rc2w\n————\n#DataScience #DataScientist #Statistics #ML https://t.co/vqgEkDbKMG",
+    "createdAt": "Tue Aug 25 20:49:22 +0000 2026"
+  }
+]
