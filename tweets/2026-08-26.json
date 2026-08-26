@@ -1,12 +1,87 @@
 [
   {
     "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 169534,
+      "friendsCount": 1293,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQnfpPjboAAYdVr.jpg",
+      "https://pbs.twimg.com/media/HQnfpPibcAAKmIb.jpg",
+      "https://pbs.twimg.com/media/HQnfpPnb0AAiyl4.jpg",
+      "https://pbs.twimg.com/media/HQnfpP9aMAAJj_d.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2092449498245272002",
+    "fullText": "感觉 AI 领域的竞争已经到了下一个阶段：\n\n现在大家除了拼模型能力以外，也在拼成本以及整个供应链的整合。\n\nOpenAI 发布了他们自研的第一代芯片，而且直接击败了英伟达、AMD 和谷歌所有可比可测芯片的推理 ASIC。\n\n这款芯片专为大语言模型推理从零设计，从 2024 年中开始设计到流片只用了 16 个月。\n\n它是通用的推理芯片，并非只能跑 OpenAI 自己的模型。在文章展示中，他们测试了 DeepSeek R1 以及 Kimi 2.5 的推理效率，可以跑各种模型和工作负载，甚至能跑 Doom 游戏。\n\n目前该芯片只有工程样品，量产爬坡会在 2027 年开始，大部分产能预计在明年年底铺开。\n\n这款芯片专门针对每瓦性能（能效比）进行设计。因为当前数据中心的核心瓶颈是电力，而非预算或占地面积，所以它必须在极低功耗下实现尽可能高的推理效率。\n\n它的每瓦吞吐量全面碾压英伟达的 Blackwell，甚至超过了采用 HBM4 的 Rubin：\n\nDeepSeek R1 超过 700 token/s/用户\nGPT OSS 超过 1400 token/s\nKimi 2.5 接近 700 token/s/用户\n\n值得一提的是，OpenAI 尚未发布的 Astra AI 模型也深度参与了这款芯片的设计，这或许是它拥有极高能效且开发周期极短的关键原因。\n\n芯片团队通过 Codex 和 GPT Astro，在两个月内把三个原本不在生产计划内的开源模型优化到了最高性能；AI 生成的部分模块比人类专家编写的模块还要快 1.5 到 1.8 倍。\n\n颇具讽刺意味的是，跑在英伟达 GPU 上的 OpenAI 模型，正在帮助设计旨在击破英伟达 CUDA 护城河的芯片。\n\nOpenAI 的下一个目标是达到 100MW 的部署规模，并计划于今年年底开始在自家的基础设施中正式部署该芯片。",
+    "createdAt": "Wed Aug 26 03:10:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 169534,
+      "friendsCount": 1293,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQneBB2a0AAtIFQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2092447707378123126",
+    "fullText": "T3 Code 的这个 Agent 和模型选择结合在一起的选择器挺不错的，给 Code Pilot 参考了一下，用上了 https://t.co/qcBwN8O1K8",
+    "createdAt": "Wed Aug 26 03:03:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 169534,
+      "friendsCount": 1293,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQndBO1akAAmkd-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2092446690620113076",
+    "fullText": "Codex 支持给你的好友赠送额度了，类似于礼品卡。\n\n你可以选择不同价格的额度，对方拿到链接或者通过邮箱就能领取。感觉以后发福利可以通过这种方式 https://t.co/9OhEYUYgAB",
+    "createdAt": "Wed Aug 26 02:59:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 71276,
+      "friendsCount": 36537,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQnTaGDX0AAg2hk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2092435985015423087",
+    "fullText": "la blague https://t.co/aoT1ijub2R",
+    "createdAt": "Wed Aug 26 02:16:29 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "omarsar0",
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 315117,
-      "friendsCount": 981,
+      "followersCount": 315127,
+      "friendsCount": 982,
       "location": "DAIR.AI Academy"
     },
     "images": [
@@ -23,7 +98,7 @@
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
-      "followersCount": 5706,
+      "followersCount": 5707,
       "friendsCount": 1203,
       "location": "Beijing"
     },
@@ -39,7 +114,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 238148,
+      "followersCount": 238147,
       "friendsCount": 7132,
       "location": ""
     },
@@ -56,8 +131,8 @@
       "screenName": "MiniMax_AI",
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
-      "description": "MiniMax Agent: @MiniMaxAgent \nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y \nMiniMax Design: @Hailuo_AI",
-      "followersCount": 119584,
+      "description": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y \nMiniMax Design: @Hailuo_AI",
+      "followersCount": 119597,
       "friendsCount": 987,
       "location": "San Francisco"
     },
@@ -75,8 +150,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303844,
-      "friendsCount": 8441,
+      "followersCount": 303852,
+      "friendsCount": 8442,
       "location": "United States"
     },
     "images": [],
@@ -91,7 +166,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 413638,
+      "followersCount": 413645,
       "friendsCount": 888,
       "location": ""
     },
@@ -107,8 +182,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303844,
-      "friendsCount": 8441,
+      "followersCount": 303852,
+      "friendsCount": 8442,
       "location": "United States"
     },
     "images": [
@@ -125,7 +200,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 130083,
+      "followersCount": 130085,
       "friendsCount": 1,
       "location": ""
     },
@@ -143,8 +218,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 303844,
-      "friendsCount": 8441,
+      "followersCount": 303852,
+      "friendsCount": 8442,
       "location": "United States"
     },
     "images": [],
@@ -159,7 +234,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 98798,
+      "followersCount": 98801,
       "friendsCount": 936,
       "location": "Seattle"
     },
@@ -177,7 +252,7 @@
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, ONEAI OECD, co-chair @indexingai, writer @ https://t.co/3vmtHYkIJ2 Past: @openai, @business @theregister. Neural nets, distributed systems, weird futures",
-      "followersCount": 141598,
+      "followersCount": 141604,
       "friendsCount": 4622,
       "location": "San Francisco, CA"
     },
@@ -195,7 +270,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 334678,
+      "followersCount": 334696,
       "friendsCount": 897,
       "location": "Santa Clara, CA"
     },
@@ -213,7 +288,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 398681,
+      "followersCount": 398755,
       "friendsCount": 1,
       "location": ""
     },
@@ -229,7 +304,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 398681,
+      "followersCount": 398755,
       "friendsCount": 1,
       "location": ""
     },
