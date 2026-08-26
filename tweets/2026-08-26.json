@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36826,
+      "friendsCount": 1882,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQoYfFibEAAnlm2.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2092511914559693139",
+    "fullText": "让AI自己写代码来指挥自己的Agent框架：Prime Agent，在ARC-AGI 3拿到 95.5%，超人类专家的95.4%\n\n三次运行非常稳定，比模型原生harness更省token\n\n别的harness是固定流程+静态提示词，它是Agent干活时顺手就能改自己的提示词、记忆、技能，还能派一堆持久子代理并行干活，能跑无人值守长任务\n\n首先，它用持久化REPL替代对话轮次，等于给模型一个持久化的IPython内核（REPL），让它把对话当成一个不会关机的Jupyter Notebook，这意味着变量跨轮次存活、代码即动作、用编程语言的表达能力替代僵化的工具调用协议\n\n把子智能体变成异步函数调用，可并行派发、后台运行、持久存活、随时复用\n\n框架自己会“长脑子”，把提示词、技能、记忆、子智能体规格视为可被模型自己增删改查CRUD的组件，配合 /refine机制，能自动复盘运行轨迹，把成功经验沉淀为可复用技能，失败教训写成记忆\n\n后台托管所有会话，断线可重连、崩溃可恢复、不活跃会话自动落盘省内存\n\n设定目标预算+定时心跳+自动续跑，让智能体能无人值守地长期工作直到通过验收\n\n父子兄弟智能体直接发消息对话，无需经过用户或主循环中转\n\n上下文管理，历史以追加式JSONL存储，支持分支克隆，异步压缩清理当前窗口但不丢完整轨迹\n\n一句话，Prime Agent让harness外推模型能力，让模型自己管理脚手架，而非让模型去适应僵化的脚手架\n\n#PrimeAgent #RSI",
+    "createdAt": "Wed Aug 26 07:18:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 148921,
+      "friendsCount": 636,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQoPnBfXMAAlmTB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2092502146449035372",
+    "fullText": "What a nice morning it is today https://t.co/vrLoH2BvNo",
+    "createdAt": "Wed Aug 26 06:39:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 77883,
+      "friendsCount": 1686,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2092496550509613422",
+    "fullText": "OpenWater aims to provide a simple way for media and data to carry their own history around, leveraging fully decentralized infrastructure and without requiring the appointment of any company, government or blockchain as Ministry of Reality. https://t.co/H1y3LUa7pA",
+    "createdAt": "Wed Aug 26 06:17:09 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "saranormous",
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 155929,
+      "followersCount": 155953,
       "friendsCount": 3364,
       "location": "on ⛓"
     },
@@ -37,7 +89,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489327,
+      "followersCount": 489341,
       "friendsCount": 3348,
       "location": "Maryland, USA"
     },
@@ -53,7 +105,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 242508,
+      "followersCount": 242519,
       "friendsCount": 1709,
       "location": "Chicago, IL"
     },
@@ -73,7 +125,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 238150,
+      "followersCount": 238155,
       "friendsCount": 7132,
       "location": ""
     },
@@ -91,7 +143,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 155929,
+      "followersCount": 155953,
       "friendsCount": 3364,
       "location": "on ⛓"
     },
@@ -125,7 +177,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4990450,
+      "followersCount": 4991564,
       "friendsCount": 799,
       "location": ""
     },
@@ -141,7 +193,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 480134,
+      "followersCount": 480143,
       "friendsCount": 1579,
       "location": "Austin, TX"
     },
@@ -159,7 +211,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 169545,
+      "followersCount": 169555,
       "friendsCount": 1293,
       "location": ""
     },
@@ -180,7 +232,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 169545,
+      "followersCount": 169555,
       "friendsCount": 1293,
       "location": ""
     },
@@ -198,7 +250,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 169545,
+      "followersCount": 169555,
       "friendsCount": 1293,
       "location": ""
     },
@@ -234,7 +286,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 315147,
+      "followersCount": 315148,
       "friendsCount": 982,
       "location": "DAIR.AI Academy"
     },
@@ -268,7 +320,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 238150,
+      "followersCount": 238155,
       "friendsCount": 7132,
       "location": ""
     },
@@ -286,7 +338,7 @@
       "name": "MiniMax (official)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
       "description": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y \nMiniMax Design: @Hailuo_AI",
-      "followersCount": 119635,
+      "followersCount": 119668,
       "friendsCount": 987,
       "location": "San Francisco"
     },
