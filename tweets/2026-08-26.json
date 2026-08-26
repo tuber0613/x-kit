@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 71282,
+      "friendsCount": 36537,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2092540462162997576",
+    "fullText": "opus 5 is so bad you have to use fable 5 instead",
+    "createdAt": "Wed Aug 26 09:11:38 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "aigclink",
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 36825,
+      "followersCount": 36828,
+      "friendsCount": 1882,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQonNCWaUAErzBu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2092531851307241792",
+    "fullText": "阿里淘宝最新开源了款电商直播全模态理解模型：TLive-Omni，可以边看、边听、边读，边做笔记、边找重点\n\n简单说就是一个24小时不休息的直播助理，帮你盯直播，替代人工看回放、扒话术、找片段、写总结\n\n商家可以用来搭建自己的直播回放系统，比如说看商品展示够不够清楚？定位视频片段做切片\n\n主播可以用来做直播复盘工具，对照有没有漏讲卖点？镜头切换是否专业？回放直达等\n\n基本上电商直播场景需要的能力覆盖全了\n语音识别/说话人识别、商品视觉定位、OCR、时序定位、视频密集描述、全模态问答、多维度镜头标注（景别、机位、构图、内容）\n\n核心是解决了多模态对齐，声音和画面必须按秒对齐的问题\n\n它设计了Timestamped Per-vGrid的token组织方式，把视频画面切成时间网格，每个时间片里，音频token紧挨着对应的视频token，这样当主播说“这个包包的拉链”时，模型能立刻关联到画面中拉链的位置\n\n支持256K token上下文，等于能记住几小时的直播内容了\n\n#TLiveOmni #电商模型 #AI直播助手",
+    "createdAt": "Wed Aug 26 08:37:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 36828,
       "friendsCount": 1882,
       "location": ""
     },
@@ -23,7 +57,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 148924,
+      "followersCount": 148925,
       "friendsCount": 636,
       "location": "Zürich, Suisse"
     },
@@ -41,7 +75,7 @@
       "name": "Ben Goertzel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
       "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
-      "followersCount": 77881,
+      "followersCount": 77880,
       "friendsCount": 1686,
       "location": "Vashon Island, WA, USA"
     },
@@ -57,7 +91,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 155963,
+      "followersCount": 155979,
       "friendsCount": 3364,
       "location": "on ⛓"
     },
@@ -89,7 +123,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489351,
+      "followersCount": 489361,
       "friendsCount": 3348,
       "location": "Maryland, USA"
     },
@@ -105,7 +139,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 242524,
+      "followersCount": 242542,
       "friendsCount": 1709,
       "location": "Chicago, IL"
     },
@@ -125,7 +159,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 238159,
+      "followersCount": 238162,
       "friendsCount": 7132,
       "location": ""
     },
@@ -143,7 +177,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 155963,
+      "followersCount": 155979,
       "friendsCount": 3364,
       "location": "on ⛓"
     },
@@ -177,7 +211,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 4991149,
+      "followersCount": 4992280,
       "friendsCount": 799,
       "location": ""
     },
@@ -193,7 +227,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 480150,
+      "followersCount": 480159,
       "friendsCount": 1579,
       "location": "Austin, TX"
     },
@@ -211,7 +245,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 169557,
+      "followersCount": 169562,
       "friendsCount": 1293,
       "location": ""
     },
@@ -232,7 +266,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 169557,
+      "followersCount": 169562,
       "friendsCount": 1293,
       "location": ""
     },
@@ -250,7 +284,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 169557,
+      "followersCount": 169562,
       "friendsCount": 1293,
       "location": ""
     },
@@ -268,7 +302,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 71280,
+      "followersCount": 71282,
       "friendsCount": 36537,
       "location": "latent space"
     },
@@ -286,7 +320,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
-      "followersCount": 315156,
+      "followersCount": 315167,
       "friendsCount": 982,
       "location": "DAIR.AI Academy"
     },
@@ -304,7 +338,7 @@
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
-      "followersCount": 5707,
+      "followersCount": 5706,
       "friendsCount": 1203,
       "location": "Beijing"
     },
