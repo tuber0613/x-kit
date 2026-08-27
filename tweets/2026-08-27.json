@@ -1,0 +1,330 @@
+[
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 63454,
+      "friendsCount": 11379,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQr93gJakAAD20y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2092764111281295791",
+    "fullText": "Swagggg https://t.co/EVFmba7y7N",
+    "createdAt": "Thu Aug 27 00:00:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 130126,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2092764069849944567",
+    "fullText": "Most agent memory benchmarks test whether an agent remembers user history. That's not what production agents actually need. They need to internalize the environment they live in (interface quirks, state dynamics, recurring failure modes) the way an experienced colleague would.\n\nNew paper from UCLA introduces LongMemEval-V2, a benchmark that directly tests this. 451 manually curated questions across five memory abilities for web agents: static state recall, dynamic state tracking, workflow knowledge, environment gotchas, and premise awareness. History trajectories scale up to 500 traces and 115M tokens per question.\n\nThe interesting result is their AgentRunbook-C method, which stores trajectories as files and lets a coding agent gather evidence in a sandbox. It hits 72.5% average accuracy versus 48.5% for the strongest RAG baseline and 69.3% for an off-the-shelf coding agent. The catch: latency costs are high.\n\nWhy it matters: this reframes \"agent memory\" as environment expertise, not user history. If your agent operates in a custom web environment, RAG over trajectories is leaving 24 points on the table.\n\nPaper: https://t.co/7z4NEBAlse\n\nLearn to build effective AI agents in our academy: https://t.co/LRnpZN7L4c\n\nhttps://t.co/Ovz9P83TQK",
+    "createdAt": "Thu Aug 27 00:00:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 413739,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2092749422878662792",
+    "fullText": "There's not much talk about a universal right to artificial intelligence yet... I suspect within a couple of years, once memory starts selling out and concentrating in a few labs, everyone will.",
+    "createdAt": "Wed Aug 26 23:01:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 96351,
+      "friendsCount": 1106,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092748109709230081/vid/avc1/1200x628/fSznoFwy4-3rDNQN.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2092748152273072195",
+    "fullText": ".@SpaceXAI's latest model, Grok 4.6, is now available on Databricks!\n\nGrok 4.6 sets a new state-of-the-art performance standard with Genie harness on Databricks' OfficeQA Pro v2 benchmark, our flagship benchmark for complex data reasoning tasks on enterprise documents.\n\nRun Grok 4.6 where your data already lives - governed, secure, and ready for custom AI apps and agents built with the data in your Lakehouse. Govern every call, monitor performance, and scale securely across your AI apps with Unity Gateway. \n\nhttps://t.co/yZ2eYYAqfz",
+    "createdAt": "Wed Aug 26 22:56:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5001822,
+      "friendsCount": 800,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2092747834819055695",
+    "fullText": "Someone asked how founders can make their companies huge without being overconfident. It was meant to be rhetorical question, but it has an answer, and the answer is an important one. Incrementally.",
+    "createdAt": "Wed Aug 26 22:55:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 303895,
+      "friendsCount": 8442,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2092738754016592367",
+    "fullText": "Imagine not making $100B in a quarter smh.",
+    "createdAt": "Wed Aug 26 22:19:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 6026076,
+      "friendsCount": 1024,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2092733018838290817",
+    "fullText": "i think we should do another party for our next model release, the 5.5 party was a lot of fun.\n\nwhat would make the next one awesome?",
+    "createdAt": "Wed Aug 26 21:56:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "lexfridman",
+      "name": "Lex Fridman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1854713863817646088/nTmsz7jR_normal.jpg",
+      "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
+      "followersCount": 5428408,
+      "friendsCount": 691,
+      "location": "Austin and Boston"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092687038189350912/vid/avc1/1920x1080/4LqdGC4vZfVS0qjs.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/lexfridman/status/2092730967056392550",
+    "fullText": "Here's my conversation with @DHH. He is back for round 2! It was an epic fun 5 hour conversation about the future of programming, AI, Linux, and human civilization.\n\nIt's here on X in full and is up everywhere else (see comment).\n\nTimestamps:\n0:00 - Episode highlight\n1:27 - Introduction\n2:56 - Programming with AI agents\n18:14 - How software will change\n27:30 - AI impact on open source\n37:21 - Building Omarchy Linux distro\n47:05 - Vibe coding vs agentic engineering\n1:00:06 - The end of manual programming\n1:10:24 - Advice for programmers\n1:22:30 - Surviving Internet Hate\n1:31:46 - Programming setup for AI Agents\n1:44:11 - Obsessing about speed\n2:07:06 - Voice prompting vs typing\n2:21:05 - Best AI coding models\n2:37:55 - Best AI coding harnesses\n2:50:57 - AI video generation and filmmaking\n3:10:28 - Fatherhood\n3:38:35 - Linux will win the desktop\n3:49:51 - PewDiePie\n3:59:24 - Future of programming\n4:22:17 - Politics and immigration\n4:53:54 - Longevity, over-optimization, and fear of death\n5:05:38 - Eternal recurrence and future of human civization",
+    "createdAt": "Wed Aug 26 21:48:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "huggingface",
+      "name": "Hugging Face",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
+      "description": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
+      "followersCount": 761122,
+      "friendsCount": 226,
+      "location": "NYC and Paris and 🌏"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQrccU0bUAAdaQu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/huggingface/status/2092727360584135026",
+    "fullText": "We use Inkling-Small to turn paper abstracts into quick, useful summaries.\n\nopen weights × open science 🤝 https://t.co/UVbAkpri7l",
+    "createdAt": "Wed Aug 26 21:34:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 303895,
+      "friendsCount": 8442,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2092726901987332167",
+    "fullText": "String theory is retardmaxxing on a hard mode.",
+    "createdAt": "Wed Aug 26 21:32:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y \nMiniMax Design: @Hailuo_AI",
+      "followersCount": 119868,
+      "friendsCount": 987,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQrYOC2a4AAQWQf.jpg",
+      "https://pbs.twimg.com/media/HQrYOBzaYAARPem.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2092722804693327873",
+    "fullText": "MiniMax H3 is at @anyscalecompute’s #RaySummit today in SF.\n\n@VictorSuOrtiz will break down our 33B open-weight audio-video model at the @vllm_project Conference, bringing text, image, video + audio into one context.\n\n@VoidAsuka will share how builders are fine-tuning, evaluating + serving H3 alongside @digitalocean, @nvidia, @inferact, and @NousResearch.\n\nFrom the model to the community building on it. See you there! 👋\n\n🔗 Session details below:",
+    "createdAt": "Wed Aug 26 21:16:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 303895,
+      "friendsCount": 8442,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2092717195214364967",
+    "fullText": "You either die an AI hero, or live long enough to become another neocloud provider.",
+    "createdAt": "Wed Aug 26 20:53:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1063312,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQrRQ9ubgAAWSiF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2092715069461373009",
+    "fullText": "Vibe shift. ETF sectors with the highest inflow:\n\nIn 2020: Clean energy, innovation, healthcare, cloud, emerging markets tech\n\nIn 2026: Artificial intelligence, infrastructure, defense, space, nuclear https://t.co/PDt6vKyc7z",
+    "createdAt": "Wed Aug 26 20:45:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 399395,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092707231267758080/vid/avc1/1280x720/cezRLSaT9Sa36Aqn.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2092707336116933063",
+    "fullText": "That idea you keep meaning to build.\n\n@itskasturiii used Codex to finally ship her own npm library for loading experiences in AI apps. https://t.co/4xogofB8Ru",
+    "createdAt": "Wed Aug 26 20:14:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 480178,
+      "friendsCount": 1580,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQrJOaXWoAEvdut.jpg",
+      "https://pbs.twimg.com/media/HQrJOaSXQAEsZT4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2092706230334574681",
+    "fullText": "Both valued at $2.5 Billion today:\n\nLinear, having crossed $100 million ARR with 177% net revenue retention.\n\nInstinct, the viral AI assistant that launched last week. https://t.co/n2dqByuloR",
+    "createdAt": "Wed Aug 26 20:10:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 480178,
+      "friendsCount": 1580,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQrHC-mXAAEd56c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2092703834204254547",
+    "fullText": "Am I high https://t.co/WDdp0V8FuY",
+    "createdAt": "Wed Aug 26 20:00:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 519603,
+      "friendsCount": 3135,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQrFb1gWAAAJ_0S.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2092702100270497858",
+    "fullText": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment\n\npaper: https://t.co/XvU5W6uasP https://t.co/13fgFS0uOV",
+    "createdAt": "Wed Aug 26 19:53:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 472182,
+      "friendsCount": 13367,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2092701433728827817",
+    "fullText": "many people worked incredibly hard on this post and associated report including me\n\nwhilst everyone took alignment quite seriously before I think no question that this begins a new era. hugging face incident represents reaching a waterline of capabilities that real loss-of-control is possible, and many are taking it as a premonition or ‘warning shot’ of dangers to come. I believe both that alignment is unsolved but also that real progress is possible\n\nhttps://t.co/9oFnONGUuv",
+    "createdAt": "Wed Aug 26 19:51:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 130126,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQrCSbPbIAAlj9_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2092698602401599868",
+    "fullText": "Interesting new approach to recursive self-improvement in agents.\n\nSystems that add a meta-level hold that level fixed.\n\nSystems that edit themselves have to leave part of their own editing machinery untouched to stay stable, which caps realized meta-depth at roughly two.\n\nMeta^n keeps the meta-operation fixed and recurses on its input instead.\n\nOne operator is applied repeatedly to its own products, reading the traces of the solver stack below together with the code that produced them, then writing the next layer as a strategic pre-process and a library of callable helpers.\n\nDepth is set by convergence rather than fixed in advance, and an evolutionary archive searches over layer chains.\n\nBecause the operator never changes it cannot destabilize the system, and because its input strictly grows each layer reasons from a higher vantage than the last.\n\nAcross two backbones it outperforms prior self-improving agents on all eight benchmark families. On ARC-AGI-2, built to resist skill memorization, it is the only method scoring above zero. Distinct layer roles emerge with depth although no prompt prescribes them.\n\nPaper: https://t.co/T8z2BlSV3w\n\nTrack more trending AI papers in our academy: https://t.co/LRnpZN7L4c",
+    "createdAt": "Wed Aug 26 19:40:01 +0000 2026"
+  }
+]
