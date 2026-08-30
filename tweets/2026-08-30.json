@@ -1,11 +1,119 @@
 [
   {
     "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 315589,
+      "friendsCount": 992,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRAWcCabUAAjIQJ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2094198501475590616",
+    "fullText": "Interesting paper on prompt optimization.\n\nThey claim that a single-lineage prompt optimizer just matched GEPA on a smaller rollout budget.\n\nPrompt optimization has been drifting toward heavier machinery, with candidate pools, reflection trees, and Pareto-based selection.\n\nNPO keeps one lineage. At each iteration it runs the student on the current prompt, collects rollout traces and rewards, and hands a sliding window of recent iterations to a teacher model that rewrites the prompt.\n\nThere is no candidate population and no search tree.\n\nOn the two instruction-following benchmarks it spends 3,500 and 6,800 rollouts against GEPA's 3,593 and 6,871, and it stays broadly comparable across 22 TextArena games.\n\nThe interaction with teacher strength is what makes this interesting. NPO's advantage grows as the teacher model gets stronger, which suggests optimizer-side search complexity has been compensating for weak teacher reasoning all along.\n\nPaper: https://t.co/rez9FnNZhW\n\nChat with Paper: https://t.co/sy7HME8Z99",
+    "createdAt": "Sun Aug 30 23:00:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489558,
+      "friendsCount": 3353,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRARrC8XoAA8ogb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2094193260629512283",
+    "fullText": "General Relativity step by step — A first course : https://t.co/Zddtwm1dwF\n\nAmazon summary:\n“Learn the mathematics of curved space-time. Understand Einstein's field equations and the principles of General Relativity in this step by step guide. Even if the reader's calculus is rusty and they need a refresher on linear algebra, this book provides the bite-sized lessons that explain each concept with no steps left out. This is not a layman's overview of General Relativity. Real understanding and learning are contained within. Neither is this an unapproachable graduate level text. Undergraduates, high school students and, even, enthusiastic amateurs can learn to solve basic problems in General Relativity — for example, how much does light bend going around the Sun?”",
+    "createdAt": "Sun Aug 30 22:39:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489558,
+      "friendsCount": 3353,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRARiDgWkAAGPKk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2094193106904125495",
+    "fullText": "Math Refresher for Adults — The Perfect Solution for Mastering Essential Math Skills: https://t.co/fXEOnX0CEV\n\nThere are lots of reasons why you might want to have this book, no matter what your math proficiency might currently be. See the list of reasons on the book cover. \n\nMy reason:\nI tutored students in math when I was in high school and college, I taught math in my computational & data science courses as a university professor, I guided students who feared math into doing and loving calculus (conquering their fears and converting some into math lovers), and I sat for countless hours with my own children through many years of math homework & exam prep in their school years. My latest target audience are my grandkids. A book like this keeps me grounded in these new opportunities to share the love and beauty of math with a new generation.\n\nMath Lovers-Я-us!",
+    "createdAt": "Sun Aug 30 22:38:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489558,
+      "friendsCount": 3353,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRAQs9IXgAA7T4E.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2094192195024646480",
+    "fullText": "New (2nd edition) at https://t.co/3oUqMLht1G\n\nRAG-Driven Generative AI — Build MAS-RAG with DualRAG, GraphRAG, multimodal video pipelines, and Oracle Database 23ai (=Oracle’s major database release that natively embeds artificial intelligence and vector search directly into its converged database engine)\n\n𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:\n🟢Master DualRAG by combining vector search with SQL filtering over structured enterprise data.\n\n🟢Implement GraphRAG, Spatial-RAG, and vector search natively in Oracle Database 23ai.\n\n🟢Build multimodal video pipelines with human-feedback loops and fine-tuned models.\n\n𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀 𝘁𝗼 𝘁𝗵𝗲 𝗥𝗲𝗮𝗱𝗲𝗿:\n🟣Bring intelligence directly to the data within Oracle Database 23ai.\n\n🟣Defeat hallucinations and data poisoning with DualRAG, synchronizing vector semantics with structured SQL.\n\n🟣Build MAS-RAG pipelines with Planner, Agent Registry, and MCP-standardized sovereign agents.\n\n🟣Engineer an inference-time router using hybrid adaptive RAG to switch between reasoning, retrieval, and human feedback.\n\n🟣Fuse vector similarity, Oracle Spatial, and SQL Property Graph traversal into a converged hyper-query.\n\n🟣Deploy multimodal video RAG with version-controlled schema registry and semantic vector search over visual assets.",
+    "createdAt": "Sun Aug 30 22:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489558,
+      "friendsCount": 3353,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRAQX7NXEAAsiYK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2094191833035243536",
+    "fullText": "SQL Essentials for Data Analysis: 50-Day Hands-on Challenge Book (Go From Beginner to Pro) — https://t.co/GCicIZ5TOL by @RealBenjizo \n\nBenefits:\n✅Strong command of SQL fundamentals & advanced features\n✅Confidence to solve real-world data problems\n✅Practical experience with diverse datasets\n✅Mini end-to-end projects to showcase your skills",
+    "createdAt": "Sun Aug 30 22:33:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489558,
+      "friendsCount": 3353,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRAQGvxWwAA0xay.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2094191537844277303",
+    "fullText": "Pandas Cookbook — Practical recipes for scientific computing, time series and exploratory data analysis using Python: https://t.co/8yjkkCl8h0 v/ @PacktDataML [3rd ed.]\n\n𝓦𝓱𝓪𝓽  𝓨𝓸𝓾  𝓦𝓲𝓵𝓵  𝓛𝓮𝓪𝓻𝓷:\n🟠The PANDAS type system - how to best navigate it\n🟢Import/export DataFrames to/from common data formats\n🔵Data exploration in PANDAS through dozens of practice problems\n🟣Grouping, aggregation, transformation, reshaping, and filtering data\n🔴Merge data from different sources through PANDAS SQL-like operations\n🟡Leverage the robust PANDAS time series functionality in advanced analyses\n🔵Scale PANDAS operations to get the most out of your system\n🟠The large ecosystem that PANDAS complements",
+    "createdAt": "Sun Aug 30 22:32:25 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 304391,
+      "followersCount": 304396,
       "friendsCount": 8446,
       "location": "United States"
     },
@@ -23,7 +131,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 62345,
+      "followersCount": 62351,
       "friendsCount": 369,
       "location": "San Francisco, CA"
     },
@@ -41,7 +149,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -60,7 +168,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -78,7 +186,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -96,7 +204,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -114,7 +222,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -132,7 +240,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 304391,
+      "followersCount": 304396,
       "friendsCount": 8446,
       "location": "United States"
     },
@@ -148,7 +256,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241505589,
+      "followersCount": 241506775,
       "friendsCount": 1399,
       "location": ""
     },
@@ -164,7 +272,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -182,7 +290,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -200,7 +308,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -218,7 +326,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -236,7 +344,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -254,7 +362,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -272,7 +380,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 130807,
+      "followersCount": 130823,
       "friendsCount": 1,
       "location": ""
     },
@@ -290,7 +398,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -308,7 +416,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
-      "followersCount": 489545,
+      "followersCount": 489558,
       "friendsCount": 3353,
       "location": "Maryland, USA"
     },
@@ -326,7 +434,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 149227,
+      "followersCount": 149230,
       "friendsCount": 639,
       "location": "Zürich, Suisse"
     },
@@ -344,7 +452,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 478308,
+      "followersCount": 478446,
       "friendsCount": 13412,
       "location": "San Francisco, CA"
     },
@@ -360,7 +468,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 414780,
+      "followersCount": 414819,
       "friendsCount": 888,
       "location": ""
     },
@@ -376,7 +484,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 720862,
+      "followersCount": 720858,
       "friendsCount": 829,
       "location": "United States"
     },
@@ -392,7 +500,7 @@
       "name": "Shivon Zilis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
       "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
-      "followersCount": 591452,
+      "followersCount": 591696,
       "friendsCount": 1734,
       "location": "Palo Alto, CA"
     },
@@ -410,7 +518,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 304391,
+      "followersCount": 304396,
       "friendsCount": 8446,
       "location": "United States"
     },
@@ -426,7 +534,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 304391,
+      "followersCount": 304396,
       "friendsCount": 8446,
       "location": "United States"
     },
@@ -442,7 +550,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 441071,
+      "followersCount": 441065,
       "friendsCount": 682,
       "location": ""
     },
@@ -608,7 +716,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 414780,
+      "followersCount": 414819,
       "friendsCount": 888,
       "location": ""
     },
@@ -2027,7 +2135,7 @@
       "name": "Dwarkesh Patel",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
       "description": "Host of @dwarkeshpodcast\n\nhttps://t.co/3SXlu7fy6N\nhttps://t.co/4DPAxODFYi\nhttps://t.co/hQfIWdM1Un",
-      "followersCount": 263509,
+      "followersCount": 264220,
       "friendsCount": 1076,
       "location": "San Francisco "
     },
@@ -2252,7 +2360,7 @@
       "name": "Zvi Mowshowitz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2873511010/24e99a900de1fc5a22336b80aef68a59_normal.png",
       "description": "Blogger primarily on AI and AI x-risk but also other things at Don't Worry About the Vase (SS/WP/LW), founding Balsa Research to fix policy.",
-      "followersCount": 41185,
+      "followersCount": 41193,
       "friendsCount": 319,
       "location": "New York City"
     },
