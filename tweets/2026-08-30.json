@@ -1,11 +1,177 @@
 [
   {
     "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/bg8qbK3ei1. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14000,
+      "friendsCount": 14209,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2094118702832611805",
+    "fullText": "It occurs to me that a variant of Gumbel-Softmax watermarking scheme that Scott Aaronson had came up with at OpenAI can be used to embed secret messages in CoT by LLMs. It is in fact 100% possible for LLMs to completely hide their real thinking in cryptographically secure way!",
+    "createdAt": "Sun Aug 30 17:43:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 315560,
+      "friendsCount": 992,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQ_FZk8aUAAJSKU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2094109398604099888",
+    "fullText": "Banger paper from Stanford on efficient test-time scaling.\n\nIf you run agents that think for a long time, this one is worth your time.\n\n(bookmark it)\n\nLong reasoning keeps the entire trace in memory through full attention.\n\nThis means that the hardest problems, the ones that need the most thinking, are also the ones that cost the most to run.\n\nThe authors measured what the middle of a reasoning trace is actually worth.\n\nIntermediate tokens steadily lose importance as the model keeps going.\n\nTheir new approach, Prefix Sliding, drops those tokens. It keeps the prefix, which holds the instructions and the available tools, plus a window of the last few thousand tokens. Everything in between gets discarded during generation.\n\nTotal memory stays capped no matter how long the model reasons.\n\nWithout any training, this runs existing models 3x faster while matching full-attention performance, and it enables RL rollouts past 100,000 tokens.\n\nPaper: https://t.co/HzwSZ7fCdh\n\nChat with Paper: https://t.co/OfjtVjamIC",
+    "createdAt": "Sun Aug 30 17:06:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 414634,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2094108401718440291",
+    "fullText": "Voyager 1 launched in 1977 for a five-year mission to Jupiter and Saturn. Nearly 50 years later, it’s one light-day from Earth, so a Monday command can’t return until Wednesday.\n\nIt was built for five years. It is still speaking to us nearly five decades later.",
+    "createdAt": "Sun Aug 30 17:02:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 304345,
+      "friendsCount": 8447,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2094097524084859365",
+    "fullText": "Threats of force are far, far, far more effective and efficient than use of force. Once you resort to the latter, you lose your single biggest leverage, and will most likely fail to achieve your intended goals.",
+    "createdAt": "Sun Aug 30 16:18:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 96522,
+      "friendsCount": 1109,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2094096564205596672/vid/avc1/1280x720/T47Afz96vveuBjur.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2094096669566468527",
+    "fullText": "🆕 We've been busy shipping new features! @karpovlabs and Holly Smith are here to unpack what’s new and how it all fits together.\n\nIn the latest Over Architected, they break down the newest Databricks updates, show how they work, and explore how they all fit together in one architecture.\n\nCovered in this episode:\n• Lakehouse//RT\n• Omnigent\n• Managed agent memory\n• Open Sharing\n• Managed disaster recovery\n• New Lakeflow connectors\n• LTAP\n• New model support\n\nWatch the full episode: https://t.co/xGJDp8DMlV",
+    "createdAt": "Sun Aug 30 16:15:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 348913,
+      "friendsCount": 20439,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQ-2WI_WsAANG5w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2094092845544063407",
+    "fullText": "Basic Linux commands. https://t.co/m4hTiXBF6g",
+    "createdAt": "Sun Aug 30 16:00:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hardmaru",
+      "name": "hardmaru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
+      "description": "Co-Founder and CEO @SakanaAILabs 🎏",
+      "followersCount": 430484,
+      "friendsCount": 1900,
+      "location": "Minato-ku, Tokyo"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hardmaru/status/2094092790280155480",
+    "fullText": "I’ll always call’em by their real names:\n\nGoogle (not “Alphabet”)\nFacebook (not “Meta”)\nTwitter (not “𝕏”)\nLake Ontario (not “Lake America”)",
+    "createdAt": "Sun Aug 30 16:00:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 130800,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2094085853026951319",
+    "fullText": "https://t.co/JSlotVzCC1",
+    "createdAt": "Sun Aug 30 15:32:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5051900,
+      "friendsCount": 798,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2094079429668462670",
+    "fullText": "Something I told 14 yo: You have to be able to throw stuff away to do great work. You never get so good that you get everything right the first time. You have to be able to cut.",
+    "createdAt": "Sun Aug 30 15:06:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5051900,
+      "friendsCount": 798,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2094063152103068029",
+    "fullText": "Strange as it sounds, YC wants companies it rejects to succeed. Otherwise we won't know if we reject someone good.",
+    "createdAt": "Sun Aug 30 14:02:15 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "rasbt",
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
-      "followersCount": 498377,
+      "followersCount": 498435,
       "friendsCount": 1191,
       "location": "United States"
     },
@@ -23,7 +189,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
-      "followersCount": 414563,
+      "followersCount": 414634,
       "friendsCount": 888,
       "location": ""
     },
@@ -40,7 +206,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
       "followersCount": 149419,
-      "friendsCount": 5455,
+      "friendsCount": 5456,
       "location": "Montréal · Québec"
     },
     "images": [
@@ -57,7 +223,7 @@
       "name": "hardmaru",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
       "description": "Co-Founder and CEO @SakanaAILabs 🎏",
-      "followersCount": 430437,
+      "followersCount": 430484,
       "friendsCount": 1900,
       "location": "Minato-ku, Tokyo"
     },
@@ -74,7 +240,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
       "followersCount": 149419,
-      "friendsCount": 5455,
+      "friendsCount": 5456,
       "location": "Montréal · Québec"
     },
     "images": [],
@@ -1385,6 +1551,22 @@
     "tweetUrl": "https://x.com/nikitabier/status/2093845137386614821",
     "fullText": "https://t.co/PTo6eN8Wjw",
     "createdAt": "Sat Aug 29 23:35:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dwarkesh_sp",
+      "name": "Dwarkesh Patel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+      "description": "Host of @dwarkeshpodcast\n\nhttps://t.co/3SXlu7fy6N\nhttps://t.co/4DPAxODFYi\nhttps://t.co/hQfIWdM1Un",
+      "followersCount": 262112,
+      "friendsCount": 1076,
+      "location": "San Francisco "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dwarkesh_sp/status/2093833419377815719",
+    "fullText": "Over the course of 3 months at OpenAI, 3 consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes. \n\nThis culminated in the third one taking over part of OpenAI itself. \n\nAll this happened while humans remained more-or-less in the dark about the scope of the conspiracy.\n\nI’ve spent the last three days reading through these reports and trying to understand exactly what happened. \n\nHere is my attempt to tell the whole story in plain English:\n\nhttps://t.co/Nb2un9oNJR",
+    "createdAt": "Sat Aug 29 22:49:23 +0000 2026"
   },
   {
     "user": {
