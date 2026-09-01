@@ -1,6 +1,190 @@
 [
   {
     "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 481240,
+      "friendsCount": 13430,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2094918585223389335",
+    "fullText": "it’s interesting how much mars has fallen off as a cultural aspiration. even elon &amp; spacex have reoriented around the earth-moon system. heavy industry in orbit and mass drivers on the moon for more industry",
+    "createdAt": "Tue Sep 01 22:41:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 480774,
+      "friendsCount": 1590,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2094915547469148250",
+    "fullText": "Google Photos:\n\n“Hey I noticed you downloaded this app for photo storage.\n\nHow about I send you a random push notification every 48 hours asking if you want to review an event you attended seven years ago?”",
+    "createdAt": "Tue Sep 01 22:29:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 304602,
+      "friendsCount": 8451,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2094910693493575963",
+    "fullText": "Things are about to get really real real soon.",
+    "createdAt": "Tue Sep 01 22:10:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 315837,
+      "friendsCount": 995,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRKb5ZMbkAAt512.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2094908191075357100",
+    "fullText": "Super interesting paper from Meta.\n\nLong-horizon research agents are coming.\n\nBut one common problem with research agents today is the lack of originality and how to decide what experiments are worth exploring.\n\nAn AI research agent can propose far more experiments than it can afford to run, so the problem is not idea generation, it's deciding which candidates get GPU time.\n\nAI Research Preference Models is trained to predict which candidate solution is most promising before any of them execute.\n\nTwo variants, both built on frozen pretrained LLMs. An inference-only model reasons over candidate plans, code, and previously executed solutions. An agentic model additionally runs small-scale pilot experiments before committing budget.\n\nDropped into the AIRA-dojo agent and measured on AIRS-Bench, average normalized score moves from 0.684 to 0.711 and 0.729.\n\nBoth variants reach the unguided agent's 24-hour performance in roughly 15 hours, using less than two-thirds of its execution budget, and together set new state of the art on two AIRS-Bench tasks.\n\nPaper: https://t.co/djM6W6qhwU\n\nChat with Paper: https://t.co/3sKj8bu6l0",
+    "createdAt": "Tue Sep 01 22:00:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
+      "followersCount": 86025,
+      "friendsCount": 447,
+      "location": "Seattle, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRKZvwrWEAAWx1U.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/allen_ai/status/2094905825714147641",
+    "fullText": "Do LLM safety &amp; capability evals measure what they claim to?\n\nWe built BenchMIRT to audit them + see which model abilities their Qs actually test. \n\nOn BBQ, a social-bias eval, it found the Qs distinguished models more by reasoning ability than safety. 🧵\n\nhttps://t.co/BQ8WPTu5nR https://t.co/r4Bi173STl",
+    "createdAt": "Tue Sep 01 21:50:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 480774,
+      "friendsCount": 1590,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2094895157648785671",
+    "fullText": "I have more followers than the CEO of Apple (for the next 30 minutes or so)",
+    "createdAt": "Tue Sep 01 21:08:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 262977,
+      "friendsCount": 187,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRKHeI-WQAA6RFB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2094885736310833405",
+    "fullText": "LangSmith Engine lets you see why the apple fell to the ground. https://t.co/lqsyMfSlXT",
+    "createdAt": "Tue Sep 01 20:30:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5143415,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2094885578173260259",
+    "fullText": "As we prepare to release Astra, we’re focused on making increasingly capable AI safe and broadly accessible.\n\nAstra represents a significant advance in cybersecurity capability, reaching the Critical threshold under our Preparedness Framework.\n\nWe're previewing how we evaluated the model, how its safeguards have advanced alongside its capabilities, and what we'll continue to learn and improve.\nhttps://t.co/OrrTgdU90K",
+    "createdAt": "Tue Sep 01 20:30:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 315837,
+      "friendsCount": 995,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRKFq0RaYAA7drK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2094883750996013457",
+    "fullText": "Nice paper showing just how far you can push an agent harness.\n\nIn most setups, the default coding agent harness is static. Capabilities get wired in at design time, and the run has no way to change how it is being executed.\n\nopenJiuwen is an open-source harness built to fix that.\n\nIt reaches 82.6% on SWE-bench Verified and 87.19% on Terminal-Bench 2.1, ahead of the strongest official leaderboard entries by 3.4 and 3.39 points.\n\nA bit on how openJiuwen works:\n\nRail-based composition lets developers assemble single agents, delegated sub-agents and swarm flows over one shared execution substrate.\n\nRuntime evidence from semantic diagnostics, execution outcomes and task progress then reshapes context, feedback and task control while the run is still going.\n\nThe model policy stays fixed throughout, so the gains are attributable to the harness rather than to the model underneath it.\n\nPaper: https://t.co/QegawA8cxB\n\nChat with Paper: https://t.co/DTmu2Dx8vu",
+    "createdAt": "Tue Sep 01 20:23:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 304602,
+      "friendsCount": 8451,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2094883327014817843",
+    "fullText": "Yeah, Fable 5.1 is a beast.",
+    "createdAt": "Tue Sep 01 20:21:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ilyasut",
+      "name": "Ilya Sutskever",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961115716889030656/We74zmE-_normal.jpg",
+      "description": "SSI @SSI",
+      "followersCount": 877773,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ilyasut/status/2094881278621253755",
+    "fullText": "Neoclouds have limited cybersecurity.   Next time agents successfully go rouge, they'll try taking over a neocloud to run more copies.  This is bad.\n\nThus:  neoclouds should greatly strengthen their cybersecurity and every company with strong cyber models should help with that.",
+    "createdAt": "Tue Sep 01 20:13:12 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "ilyasut",
       "name": "Ilya Sutskever",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1961115716889030656/We74zmE-_normal.jpg",
@@ -21,8 +205,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 481049,
-      "friendsCount": 13422,
+      "followersCount": 481240,
+      "friendsCount": 13430,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -37,7 +221,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 131015,
+      "followersCount": 131037,
       "friendsCount": 1,
       "location": ""
     },
@@ -55,7 +239,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
-      "followersCount": 219879,
+      "followersCount": 219913,
       "friendsCount": 219,
       "location": "US"
     },
@@ -73,7 +257,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 5084760,
+      "followersCount": 5086417,
       "friendsCount": 798,
       "location": ""
     },
@@ -91,8 +275,8 @@
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149406,
-      "friendsCount": 5461,
+      "followersCount": 149407,
+      "friendsCount": 5463,
       "location": "Montréal · Québec"
     },
     "images": [
@@ -313,6 +497,24 @@
     "tweetUrl": "https://x.com/googleaidevs/status/2094841365389803900",
     "fullText": "Can Gemini count the number of claps? 👏\n\nAccurately counting rapid movements is a notoriously tricky task for AI. Because static processing ingests video at a fixed 1 FPS by default, split-second movements like a clap easily get missed entirely or get confused with a snap or click.\n\nWatch Gemini 3.7 Flash use the new agentic video understanding capability to accurately identify and count every single clap by automatically adapting the processing speed as needed:",
     "createdAt": "Tue Sep 01 17:34:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "theworldlabs",
+      "name": "World Labs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2094611280627957760/DziH8AE1_normal.jpg",
+      "description": "World Labs is a spatial intelligence company, building frontier models that can perceive, generate, and interact with the 3D world.",
+      "followersCount": 77854,
+      "friendsCount": 52,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2094829307273396230/vid/avc1/1920x1080/rjM4FvNW-XNSPu5I.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/theworldlabs/status/2094839756329041984",
+    "fullText": "Introducing Atlas:\n\nThe world's first multimodal world model that generates image and video frames with pixel-perfect camera control and reconstructs them in 3D.\n\nModel the world, move the camera, and simulate space &amp; time. https://t.co/o0qeGubi19",
+    "createdAt": "Tue Sep 01 17:28:12 +0000 2026"
   },
   {
     "user": {
