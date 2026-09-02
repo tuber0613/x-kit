@@ -1,6 +1,299 @@
 [
   {
     "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 149599,
+      "friendsCount": 641,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRPeC48XsAA0XYV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2095262398068257130",
+    "fullText": "Holy shit what a banger lol https://t.co/ABg31jXZEw",
+    "createdAt": "Wed Sep 02 21:27:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 649335,
+      "friendsCount": 886,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRPbd_wbYAAa3x-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2095259709603455435",
+    "fullText": "underrated result of muse spark 1.3\n\ntry it out with muse code:\n\ncurl -fsSL https://t.co/TFXsXfJKW8 | bash https://t.co/cSeL2gE4Nq",
+    "createdAt": "Wed Sep 02 21:16:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 62612,
+      "friendsCount": 372,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2095252830424547329/vid/avc1/1920x1080/uujETx0GYOTnhOSe.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2095253650671042815",
+    "fullText": "everyone’s trying to find where to test glm 5.3 &amp; glm 5.3 flash\n\nyou can try it free on Together Chat, no api setup\n\njust pick one + start prompting\n\nserved on secure north american infrastructure\n\nhttps://t.co/IgND3kr22e https://t.co/aEtdzISxE2",
+    "createdAt": "Wed Sep 02 20:52:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 239351,
+      "friendsCount": 7145,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HRPWCt-aoAAlf-f.mp4"
+    ],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2095253599135953314",
+    "fullText": "How I feel about reducing genAI monitoring before developing better alternatives.\n\nRIP @IsiahWhitlockJr,  cc @AoDespair https://t.co/Qn2BXr43dK",
+    "createdAt": "Wed Sep 02 20:52:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 131126,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRPVcLobsAABkXz.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2095252935659913657",
+    "fullText": "Nice paper with great insights on improving self-evolving agents.\n\nSelf-evolving agents fail in three specific ways:\n\n1. Terminal-only feedback makes it ambiguous which step caused the error.\n\n2. Agents memorize task-specific patterns instead of acquiring general capability.\n\n3. And unguarded updates quietly erase competence the agent already had.\n\nHarnessEvolve addresses all three in one loop.\n\nFor credit assignment it generates reference trajectories, execution paths produced when the agent is given the ground-truth answer, then aligns failed runs against them to extract error signals.\n\nThose signals are clustered so the update targets a systematic pattern rather than one bad rollout.\n\nTwo gates stand between a candidate harness update and the live agent. A quality gate filters data leakage and prompt bloat. A performance gate accepts the update only if it improves the current batch without degrading recent batches, with epoch-end validation on a held-out set choosing the snapshot.\n\nExecution, evaluation, optimization and gating are separate modules, so the agent doing the work is decoupled from the pipeline changing it.\n\nResults hold across open-domain and enterprise benchmarks, different models and different agent frameworks.\n\nPaper: https://t.co/v0qB5sdsNm\n\nChat with Paper: https://t.co/eMaaJrJe86",
+    "createdAt": "Wed Sep 02 20:50:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 416251,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2095248049689768170",
+    "fullText": "If the news is optimizing for what is going wrong today, the data has been optimizing for what has been going right this century! Look how far we have come as humanity.",
+    "createdAt": "Wed Sep 02 20:30:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 263063,
+      "friendsCount": 187,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2095247969003954567",
+    "fullText": "In 2 weeks, the LangSmith Roadshow comes to Dallas! \n\n✅ @hwchase17 keynote on the state of agent development. \n✅ Hands-on workshops on Deep Agents + LangSmith Engine\n\nSpaces are limited. RSVP today! https://t.co/jSX8faS6ge",
+    "createdAt": "Wed Sep 02 20:30:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "RamaswmySridhar",
+      "name": "sridhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
+      "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
+      "followersCount": 35693,
+      "friendsCount": 626,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2095246304192655360/vid/avc1/1200x1200/1eNRn8-K6dwuLi4G.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/RamaswmySridhar/status/2095247236158697941",
+    "fullText": "We are in the midst of a once-in-a-lifetime technology shift, and @Snowflake sits right at the center of the AI revolution.\n\nOur Q2 results reflect the incredible speed and urgency with which our team is executing:\n\n📈 Product revenue reached $1.49B (+37% YoY)\n🤝 692 net customer adds\n❄️ 14,554 total customers on the AI Data Cloud\n↔️ Non-GAAP operating margin up 400+ bps YoY to 15%",
+    "createdAt": "Wed Sep 02 20:27:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 455313,
+      "friendsCount": 592,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2095242862300635142",
+    "fullText": "If your agent executes code, you want to run it in an isolated environment.\n\nI learned this the hard way.\n\nI also know a couple of people who let OpenClaw go nuts and had to wipe out their laptops after a few days to clean up the mess.\n\nTwo rules you must always follow:\n\n1. Agent that runs code → isolated environment\n2. Agent that controls a browser → isolated environment\n\nBut that generates a new problem: that environment has to start quickly, use as little memory as possible, and give you enough control to operate it.\n\nThis is hard to achieve, but you don't need to reinvent the wheel:\n\nCube Sandbox is an open-source MicroVM sandbox developed by Tencent Cloud. Think of it as a production-grade agent infrastructure that you can use to run agents at scale.\n\nCube Sandbox uses RustVMM and KVM to run each sandbox with hardware-level isolation.\n\n• It cold-starts in under 60ms\n• It uses less than 5MB of RAM overhead\n• You can launch tens of thousands of sandboxes within a minute\n\nHere is what you can do with it:\n\n1. Capture, clone, and restore sandbox state with snapshots and rollback\n2. Deploy sandbox clusters through Kubernetes\n3. Run workloads on ARM infrastructure\n4. Observe what happens inside agent executions\n5. Govern ingress and egress traffic\n6. Persistent volumes and cross-machine pause/resume\n\nHere is the GitHub repository:\nhttps://t.co/2X3k2NQEE8\n\nYou can inspect the code and try it out with your own agent workflow.\n\n#ad",
+    "createdAt": "Wed Sep 02 20:10:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 108343,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2095240337577148416/vid/avc1/1600x900/ZlY0cviNzqtI81SS.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2095241546702708937",
+    "fullText": "Stanford HAI's fall conference returns this October. Confronting Our AI Future: Hope, Fear, and the Choices Ahead will feature a full day of conversations on work, learning, governance, and how we ensure AI expands human potential. Speakers include @drfeifei, @JeffDean, @audreyt, @erikbryn, Alondra Nelson, and @istoica05, with more to be announced.\n\nRegister by October 1 for early bird pricing: https://t.co/PCmPWlKc73",
+    "createdAt": "Wed Sep 02 20:04:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 502586,
+      "friendsCount": 65,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2095241544383226274",
+    "fullText": "Today we’re open-sourcing Lily, the local inference engine we built for hybrid compute in Perplexity Computer.\n\nLily is specialized for Qwen3.6-35B-A3B on Apple silicon, built so on-device compute doesn’t bottleneck Computer tasks.\n\nRead more: https://t.co/OnowTP3ql6",
+    "createdAt": "Wed Sep 02 20:04:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 316013,
+      "friendsCount": 996,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2095240828658589864",
+    "fullText": "Is it just me, or does this feel like we are in the early innings of RSI? \n\nSomething has dramatically changed in the last month.\n\nHave you witnessed the velocity of model releases recently?",
+    "createdAt": "Wed Sep 02 20:01:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 401293,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2095240355910439020",
+    "fullText": "24 hours.\n\nTime to ship your project for the WebMCP Challenge.\n\nEntries close tomorrow, Sept 3 @ 1 pm PT.\n\nhttps://t.co/l0s0U9t9hC",
+    "createdAt": "Wed Sep 02 20:00:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AIatMeta",
+      "name": "AI at Meta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
+      "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
+      "followersCount": 842308,
+      "friendsCount": 359,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRO-xtxbgAAyyYe.jpg",
+      "https://pbs.twimg.com/media/HRPAM4NbEAA6CV6.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AIatMeta/status/2095234385129963666",
+    "fullText": "We’re excited to release Muse Spark 1.3 with improved performance on agentic and coding tasks, and a focus on real-world usability.\n\nKey capabilities:\n→ Sustains longer-horizon work across multiple workflows in a single thread\n→ More actively collaborates with users: it asks clarifying questions, flags when it's stuck, confirms before consequential actions\n→ Better calibrated on its own limits instead of hallucinating outcomes\n→ ~20% fewer tool calls and ~25% fewer tokens vs. Muse Spark 1.2 in internal comparisons",
+    "createdAt": "Wed Sep 02 19:36:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 649335,
+      "friendsCount": 886,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRPDAHea0AAsm5h.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2095232916276260884",
+    "fullText": "1/ today we’re releasing muse spark 1.3—available in muse code &amp; the meta model api.\n\nthis is our most capable model yet—frontier performance almost too cheap to meter. much stronger at agentic and coding with better usability. we think users will really notice the jump. https://t.co/RW6n5NQsBw",
+    "createdAt": "Wed Sep 02 19:30:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 336835,
+      "friendsCount": 897,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2095232821912912328",
+    "fullText": "DGX Spark Live: Perplexity Portable Computer Goes Local https://t.co/jYwLOCtKly",
+    "createdAt": "Wed Sep 02 19:30:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 401293,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2095229022884278272/vid/avc1/1280x720/Igj2CHaKGoBcizfD.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2095229096712458327",
+    "fullText": "GPT-5.6 Sol helps @bryantchou’s team at @ployai orchestrate complex marketing campaigns as they experiment with subagents to save time and cut costs. https://t.co/LEdN7vVgl6",
+    "createdAt": "Wed Sep 02 19:15:18 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "paulg",
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
@@ -325,6 +618,24 @@
     "tweetUrl": "https://x.com/sarahookr/status/2095175496099360835",
     "fullText": "Why is AI infrastructure under significant pressure to change?\n\nCame up at dinner this week. What’s driving the shift comes down to two specific forces:\n- Test-Time Compute\n-  Agentic Workflows\n\nBoth place immense pressure on how infra is currently organized for AI workloads.",
     "createdAt": "Wed Sep 02 15:42:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra). 3 under 3 👶.",
+      "followersCount": 199202,
+      "friendsCount": 569,
+      "location": "tinkertown"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HROMe5LXYAM4ii3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2095172731666833422",
+    "fullText": "remove .bg is being sunset\n\nso fable made me my own (you can clone it) https://t.co/OXeBA6BLHK",
+    "createdAt": "Wed Sep 02 15:31:20 +0000 2026"
   },
   {
     "user": {
@@ -1493,6 +1804,24 @@
     "tweetUrl": "https://x.com/tszzl/status/2094878108931498352",
     "fullText": "you know I kind of thought we’d have figured out what dark matter is by now",
     "createdAt": "Tue Sep 01 20:00:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Trevs_Dev",
+      "name": "Trevor B (Trev The Creator) 🇬🇾🇺🇸",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1522702770016595968/cHiHaGTe_normal.jpg",
+      "description": "Design Engineer @arenaphysica | iOS Developer | Augmented Reality Enthusiast | 3D-Modeling Hobbyist | baconeggandcheese Connoisseur",
+      "followersCount": 3972,
+      "friendsCount": 576,
+      "location": "Bedford Stuyvesant, Brooklyn"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2094840462133563392/vid/avc1/1280x720/rPp9xno_cJRdta8w.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Trevs_Dev/status/2094840529997410525",
+    "fullText": "After years of working in electronics, this feels like a full circle moment. Many late nights later we are releasing Atlas Fields Studios, free for everyone\n\nhttps://t.co/7oLIWf1Bs9\n\nThe Fields Studio App lets you explore electromagnetic behavior around PCB designs\n#buildinpublic https://t.co/iXtmw2cus8",
+    "createdAt": "Tue Sep 01 17:31:17 +0000 2026"
   },
   {
     "user": {
