@@ -1,12 +1,152 @@
 [
   {
     "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149401,
+      "friendsCount": 5463,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2095102443688185929",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Wed Sep 02 10:52:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5092686,
+      "friendsCount": 798,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2095100424684437754",
+    "fullText": "Twitter has started classifying a lot of AI-generated replies as probable spam. On a recent tweet of mine it hid 34 of 59 replies as probable spam, presumably mostly for this reason. I assume this ratio will only get worse, and that from now on most replies will be hidden.",
+    "createdAt": "Wed Sep 02 10:44:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37152,
+      "friendsCount": 1893,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRM-qirbcAAxjZW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2095090007237415199",
+    "fullText": "阿里Qwen进军自动驾驶AI基础模型：Qwen-Drive-1.0\n\n跟端到端专用驾驶模型的区别是不改造基座，保留预训练 VLM的完整架构，外挂3D感知头和规划专家，让通用视觉模型直接学会开车\n\n外挂在通用模型旁边装了一个“路况雷达”，专门把画面转成3D路况、一个“方向盘手”，专门规划轨迹\n\n配了一个BEV感知头，让模型能精确感知3D世界，同时：\n\n3D目标检测：识别周围的车、人、障碍物在哪里\n语义占用预测：判断每个空间格子是空的、有车、还是路面\nBEV地图分割：画出可行驶区域、车道线、人行道\n\n一个Planning Expert，根据看到的情况，生成未来5秒要怎么开\n\n输出：50个路点（每0.1秒一个），告诉车往哪走、转多少方向，用的流匹配生成轨迹，出安全平滑的开车路线\n\n轨迹规划能力上，NAVSIM得分90.7，与SOTA专业规划器相当\n\n#QwenDrive #AI自动驾驶模型",
+    "createdAt": "Wed Sep 02 10:02:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489774,
+      "friendsCount": 3353,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRM3INQWgAI8Aoh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2095078869791346865",
+    "fullText": "A First Course in Causal Inference: https://t.co/nkfVTpyxQ0\n[490-page PDF download]\n\n+ Also see the book \"Causal Inference in Statistics: A Primer\" at https://t.co/LfQFmC0der by @yudapearl \n\n#Probability #Mathematics #DataScience #ML #MachineLearning #DataScientist https://t.co/tmFgQrH9wU",
+    "createdAt": "Wed Sep 02 09:18:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489774,
+      "friendsCount": 3353,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRM3BsoXkAI3Mrx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2095078758277320853",
+    "fullText": "Thinking Analytically — A Guide for Making Data-Driven Decisions: https://t.co/s95DCYd2Im\n\nAmazon summary:\n\nThis book introduces the ‘Thinking Analytically’ pyramid, covering:\n1. Cognitive Foundation: Understand how cognitive limitations impact data interpretation.\n2. Probability Mindset: Improve probabilistic thinking and avoid common errors.\n3. Data Quality: Learn how subtle problems can distort the results.\n4. Experimental Design: Explore how context affects the conclusions you can draw.\n5. Analytics: Produce sound results by integrating all pyramid levels.",
+    "createdAt": "Wed Sep 02 09:17:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Top B2B influencer & social promoter of Data Science AI ML. PhD Astrophysics @Caltech",
+      "followersCount": 489774,
+      "friendsCount": 3353,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRM2mLwWsAEaHG_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2095078286640509115",
+    "fullText": "An Integrative Approach to Signals, Systems and Inference — this textbook is a comprehensive text that builds on introductory courses in time- and frequency-domain analysis of signals and systems, and probability: https://t.co/qi74DgtS9Z https://t.co/bR7UrZmg0l",
+    "createdAt": "Wed Sep 02 09:16:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 71431,
+      "friendsCount": 36611,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRMjPvBb0AAsFRp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2095057022068949072",
+    "fullText": "zeitgeist https://t.co/9umsLL0EzU",
+    "createdAt": "Wed Sep 02 07:51:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 263012,
+      "friendsCount": 187,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRMXjYEWAAEAzTY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2095044152069169496",
+    "fullText": "We’re hosting a LangChain Amsterdam Meetup with @hwchase17 on October 6th!\n\nJoin us to learn how other companies have successfully leveraged the LangChain ecosystem, and hear directly from Harrison about the latest developments.\n\nSpace is limited, so RSVP today! https://t.co/MAhRnHU2hd",
+    "createdAt": "Wed Sep 02 07:00:24 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 239239,
-      "friendsCount": 7142,
+      "followersCount": 239273,
+      "friendsCount": 7143,
       "location": ""
     },
     "images": [],
@@ -43,8 +183,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 71417,
-      "friendsCount": 36605,
+      "followersCount": 71431,
+      "friendsCount": 36611,
       "location": "latent space"
     },
     "images": [
@@ -61,7 +201,7 @@
       "name": "Amir Efrati",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1294851984269352964/oyjUk9zh_normal.jpg",
       "description": "Executive Editor @theinformation. We're hiring. amir @ https://t.co/XVwTW5utuC amir.62 on Signal",
-      "followersCount": 42236,
+      "followersCount": 42343,
       "friendsCount": 998,
       "location": "San Francisco"
     },
@@ -79,8 +219,8 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 239239,
-      "friendsCount": 7142,
+      "followersCount": 239273,
+      "friendsCount": 7143,
       "location": ""
     },
     "images": [],
@@ -95,8 +235,8 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 171506,
-      "friendsCount": 1298,
+      "followersCount": 171569,
+      "friendsCount": 1299,
       "location": ""
     },
     "images": [
@@ -113,7 +253,7 @@
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
-      "followersCount": 134644,
+      "followersCount": 134651,
       "friendsCount": 553,
       "location": ""
     },
@@ -131,8 +271,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 37153,
-      "friendsCount": 1892,
+      "followersCount": 37152,
+      "friendsCount": 1893,
       "location": ""
     },
     "images": [],
@@ -149,7 +289,7 @@
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 441423,
+      "followersCount": 441497,
       "friendsCount": 683,
       "location": ""
     },
@@ -183,8 +323,8 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 239239,
-      "friendsCount": 7142,
+      "followersCount": 239273,
+      "friendsCount": 7143,
       "location": ""
     },
     "images": [],
@@ -595,8 +735,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 481617,
-      "friendsCount": 13442,
+      "followersCount": 481988,
+      "friendsCount": 13443,
       "location": "San Francisco, CA"
     },
     "images": [],
