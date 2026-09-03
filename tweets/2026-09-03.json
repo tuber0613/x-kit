@@ -1,11 +1,277 @@
 [
   {
     "user": {
+      "screenName": "BornsteinMatt",
+      "name": "Matt Bornstein",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2090880177194897408/oiNHZQxv_normal.jpg",
+      "description": "GP at a16z & AI enthusiast. Investor in @cursor_ai, @inferact, @mirendil, @unconvAI, @character_ai, @replicate, @tabulario, and many others.",
+      "followersCount": 8655,
+      "friendsCount": 395,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRUeGIjb0AAIUx7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BornsteinMatt/status/2095615474738643175",
+    "fullText": "have we considered the possibility that Bernie Sanders has AI psychosis? https://t.co/I6xo8JjzYi",
+    "createdAt": "Thu Sep 03 20:50:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 316440,
+      "friendsCount": 999,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRUcvXAasAE_41O.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2095612805496164801",
+    "fullText": "Banger paper from Google DeepMind and colleagues.\n\n(bookmark it)\n\nA model reads its entire KV cache on every generated token, even though it ends up attending to a tiny slice of it.\n\nIn other words, if you ask about one detail from a 1M-token conversation the global attention layers re-read all of it, per token.\n\nThe usual fix is to guess the relevant tokens first with cheap proxy scores, which still costs O(N) every step. Declarative Attention asks the model instead.\n\nThe model declares where it needs to look, inside its own chain-of-thought.\n\nIn this way, generation splits into three modes: global reads the full context, focus reads one specific region, and local reads only recent output.\n\nThe inference engine parses those declarations the same way it parses tool calls and skips most of the cache read.\n\nOn zero-shot on off-the-shelf weights across 15 long-context tasks, attended tokens during decoding drop 52.0% on Gemma-4-31B and 31.1% on Qwen-3.6-27B.\n\nPaper: https://t.co/caC2iKjXGD\n\nChat with Paper: https://t.co/6TIllXY5nQ",
+    "createdAt": "Thu Sep 03 20:40:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 96699,
+      "friendsCount": 1108,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRUbSnqW4AQU6DB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2095611229272252422",
+    "fullText": "Super excited to see GPT-6 Astra being rolled out to enterprises!\n\nWe've been testing @OpenAI's GPT-6 Astra during early access - it achieves state-of-the-art on Databricks' OfficeQA Pro, OfficeQA Pro V2, and Document Processing benchmarks.\n\nGPT-6 Astra is coming soon to Databricks through Unity Gateway.",
+    "createdAt": "Thu Sep 03 20:33:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 221474,
+      "friendsCount": 219,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2095609298785272028",
+    "fullText": "Watch @petergostev put GPT-6 Astra by @OpenAI through an extensive, zero-cherry-picking gauntlet of one-shot 3D and interactive world generations.\n\nPeter compares GPT-6 Astra against Claude Fable 5.1, and breaks down how reasoning levels (from low to ultra) affect output quality, detail, and cost.\n\nGPT-6 Astra is coming to the Arena soon! Stay tuned to test, and see scores.\n\nhttps://t.co/lqv1dXS40t",
+    "createdAt": "Thu Sep 03 20:26:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 487432,
+      "friendsCount": 1565,
+      "location": "CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2095608811868524679",
+    "fullText": "GPT-6 is a major jump in capabilities and will unlock new use-cases. Will launch on Replit very soon for you to try it!",
+    "createdAt": "Thu Sep 03 20:24:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshotslive",
+      "followersCount": 416398,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2095603187042378074",
+    "fullText": "Sequencing the first human genome took 13 years and roughly $3 billion. It now costs a few hundred dollars. A variety of things are getting onto that same curve as technology advances.",
+    "createdAt": "Thu Sep 03 20:01:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+      "followersCount": 6112266,
+      "friendsCount": 1025,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2095601211869421726",
+    "fullText": "We are working towards getting Astra in everyone's hands as quickly as we can; I know it is frustrating and I appreciate the patience. It should be quick.",
+    "createdAt": "Thu Sep 03 19:53:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 441746,
+      "friendsCount": 683,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2095600615615521255",
+    "fullText": "Man, AI is insane.",
+    "createdAt": "Thu Sep 03 19:51:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+      "followersCount": 6112266,
+      "friendsCount": 1025,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2095600429363302720",
+    "fullText": "We hit a little snag getting the blog post deployed, but it is really great:\n\nhttps://t.co/jjqXUWfrNW",
+    "createdAt": "Thu Sep 03 19:50:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+      "followersCount": 6112266,
+      "friendsCount": 1025,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2095600005772104059",
+    "fullText": "GPT-6 Astra is here.\n\nWe hope it will begin to enable a new generation of entrepreneurship, scientific discovery, and building.\n\nWe believe it is the best model in the world for computer use, professional work, science, coding, cybersecurity, and more.\n\nIt took us some extra time to ensure that we could meet the safety and alignment standards required for this capability level, but we think you’ll find it worth the wait.\n\nIt scores 98% on FrontierMath Tier 4, 99.9% on ARC-AGI 3, and 100% on ExploitBench.",
+    "createdAt": "Thu Sep 03 19:49:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "gdb",
+      "name": "Greg Brockman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+      "description": "President & Co-Founder @OpenAI",
+      "followersCount": 1040910,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gdb/status/2095598855073255644",
+    "fullText": "Introducing GPT-6 Astra: https://t.co/0eb3Ek6Gl8",
+    "createdAt": "Thu Sep 03 19:44:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 721995,
+      "friendsCount": 827,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2095598451115614371",
+    "fullText": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems. It scores 66% on ARC-AGI-3 using our standard harness, and nearly 100% with a continuous conversation harness and custom compaction, at a cost of roughly $360 per game.\n\nIn fact, the continuous harness version significantly outperforms our human baseline in action efficiency across almost all levels. When we examined the reasoning chains to understand how the model operates, we found it performing highly efficient, on-the-fly symbolic world modeling for each game and level. It goes as far as developing its own shorthand DSL to represent in-game situations -- essentially a game-specific algebraic notation.\n\nOverall, Astra exhibits symbolic modeling behaviors we had previously only seen with sophisticated harnesses -- so harness capabilities are increasingly shifting into the model itself.\n\nWe see Astra as a major breakthrough in model intelligence.\n\nRead our post on Astra and what these results mean: https://t.co/wJnYxEqYNI",
+    "createdAt": "Thu Sep 03 19:42:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 402846,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2095595931827900416/vid/avc1/1920x1080/G70CPKqlxOJtvEql.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2095596020638036311",
+    "fullText": "GPT-6 Astra is our best model yet for computer use, software engineering, and visual understanding to date.\n\nHear from the builders putting it to work: https://t.co/xZrolWBXXU",
+    "createdAt": "Thu Sep 03 19:33:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5162254,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2095595661559574528/vid/avc1/1920x1080/grXdGA07X-yPH_8z.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2095595741528125780",
+    "fullText": "This is GPT-6 Astra.\n\nAnything you can do on a computer, Astra can do for you. Fast. https://t.co/gDd0IsewJw",
+    "createdAt": "Thu Sep 03 19:32:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 263156,
+      "friendsCount": 188,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2095595209656520738",
+    "fullText": "We have several LangChain-led and community-led meetups coming up! RSVP and bring a friend!\n\n🇸🇪 9/8 Stockholm\n🇺🇸 9/9 Pittsburgh\n🇺🇸 9/15 Chicago\n🇵🇱 9/15 Warsaw\n🇵🇱 9/22 Wrocław\n🗽 9/22 NYC\n🇫🇷 10/5 Paris (w/ @hwchase17)\n🇳🇱 10/6 Amsterdam (w/ Harrison Chase)\n🇩🇪 10/27 Munich\n\nRSVP 👉  https://t.co/XExzX12HiT",
+    "createdAt": "Thu Sep 03 19:30:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 455428,
+      "friendsCount": 592,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2095595024352264343",
+    "fullText": "GPT-6 Astra saturates ARC-AGI-3 with a 99.9% score and ExploitBench with a 100% score.\n\nNot even Fable did this.",
+    "createdAt": "Thu Sep 03 19:29:22 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "giffmana",
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 149712,
+      "followersCount": 149739,
       "friendsCount": 641,
       "location": "Zürich, Suisse"
     },
