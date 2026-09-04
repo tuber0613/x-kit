@@ -1,11 +1,253 @@
 [
   {
     "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 489844,
+      "friendsCount": 3356,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRaRtTSWsAMUoOy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2096022892613910834",
+    "fullText": "Mathematics for Trading -- 151 Strategies (download 361-page PDF):\nhttps://t.co/OJ1X9QH2JB https://t.co/2bN5jGs0xT",
+    "createdAt": "Fri Sep 04 23:49:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "shivon",
+      "name": "Shivon Zilis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
+      "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond @neuralink @shivolink.",
+      "followersCount": 603006,
+      "friendsCount": 1736,
+      "location": "Palo Alto, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/shivon/status/2096014361374732451",
+    "fullText": "Neuralink research is truly misunderstood, and it's something we've been fighting for. It's impossible to break into this industry because it's simply not understood, and more doctors are needed in this space. We can make disabilities a thing of the past. I'm supporting @shivolink for these reasons.\n\nThe concept itself is really cool, an experiment that is fun and shows everyone the true power. The idea that Neuralink is just a government's way of controlling you is silly, the fact that over 5 patients happily agreed to have their links connected to a simple X account to post their thoughts freely shows it's really not as evil as everyone believes.\n\nInterested to see how this turns out.",
+    "createdAt": "Fri Sep 04 23:15:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 316754,
+      "friendsCount": 1006,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRaGZ6MbcAAhmKY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2096010460491649099",
+    "fullText": "Great paper on designing multi-agent systems.\n\nHow many distinct communication topologies does an LLM multi-agent system actually need?\n\nThis works claims that it's about six.\n\nTechnical summary:\n\nResearchers grew the codebook capacity from 8 to 64 and the topologies that survived a reward filter kept collapsing to roughly the same six.\n\nTwo further findings undercut the standard formulation. Edge count correlates negatively with measured token consumption at r about -0.4, so sparsifying the agent graph makes inference more expensive.\n\nAnd a message-passing scorer over agent-profile nodes is adjacency-invariant whenever agents share a profile, which is the default configuration in published benchmarks, so it cannot rank candidates at all in that regime.\n\nCodebook Agent drops the search entirely. A vector-quantized autoencoder compresses successful topologies into a query-independent 16-entry codebook, a reward-weighted MLP maps the query embedding to a distribution over codes, and an MLP proxy reading the flattened adjacency reranks the top decoded candidates in one batched forward pass.\n\nIt emits a topology in 2.4 ms, leads all six benchmarks at 84.6 average against 83.0 for the strongest prior designer, and uses 21.9 to 33.2% fewer LLM tokens.\n\nPaper: https://t.co/y9J9uiRgw3\n\nChat with Paper: https://t.co/djPNhbctiF",
+    "createdAt": "Fri Sep 04 23:00:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 131288,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRaGZoybYAAyyTR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2096010455210959202",
+    "fullText": "This work introduces diffusion-augmented LLMs, a new class of models.\n\nThey first suggest that speculative decoding needs a separate draft model.\n\nDiffusion LLMs give up the quality of the model they replace. This work achieves parallel token generation without either cost.\n\nUno is a class of diffusion augmented LLMs that defines an autoregressive model distribution and uses diffusion to draw multiple tokens in parallel from that same distribution.\n\nThe parameters split in two. Autoregressive weights train under standard next token prediction, and a lightweight set of diffusion weights is added by a short distillation phase that adds negligible overhead to an existing training pipeline.\n\nBecause the sampler draws from the AR distribution itself, the speedup is lossless. An existing open-weight AR model can be upgraded rather than retrained.\n\nUno beats leading speculative decoding methods at every evaluated batch size, including the largest the device supports, and reaches up to 3x over the base model. The 8B Uno outperforms the 26B DiffusionGemma and the proprietary Mercury 2 across agentic tool use, coding and long-context reasoning.\n\nPaper: https://t.co/ef8Wgpu5wm\n\nChat with Paper: https://t.co/FKAF3F8PAU",
+    "createdAt": "Fri Sep 04 23:00:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 489844,
+      "friendsCount": 3356,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRaFCMdXIAAC2eX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2096008956229427352",
+    "fullText": "“Trading is Math: The Formulas for Profitable Trading in Any Market” at https://t.co/P9JMqAP4Ih https://t.co/dITDYW98nn",
+    "createdAt": "Fri Sep 04 22:54:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 489844,
+      "friendsCount": 3356,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRaE28cWgAE-7WR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2096008765191405819",
+    "fullText": "ge Language Models in Finance — Hands-on guide to LLM architectures, agents, RAG, governance, and evaluation in finance: https://t.co/8WlLasVusC via @PacktPublishing @PacktDataML \n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🟢Understand LLM foundations for financial applications\n🟢Build financial LLM systems from ingestion to deployment\n🟢Fine-tune models with LoRA, QLoRA, RLHF, and DPO\n🟢Create RAG pipelines for financial documents and knowledge\n🟢Design autonomous agents and multi-agent finance workflows\n🟢Integrate LLMs securely with MCP and enterprise systems\n🟢Apply LLMs to trading, banking, risk, fraud, KYC, and AML\n🟢Evaluate and govern auditable financial AI with rigorous metrics",
+    "createdAt": "Fri Sep 04 22:53:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 489844,
+      "friendsCount": 3356,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRaEo2yW0AIGCCG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2096008520713765252",
+    "fullText": "🔥Must see the major updates in the new 3rd Edition of this amazing massive 826-page book!💥\n\n🚀\"Machine Learning for Trading — A disciplined workflow from research to live execution, with 9 case studies and AI agents\" — https://t.co/LRiSD5ViL0 by @ml4trading via @PacktDataML @PacktPublishing 🏆",
+    "createdAt": "Fri Sep 04 22:52:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305424,
+      "friendsCount": 8453,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRaEKwXbAAAuiZF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2096008002042200554",
+    "fullText": "Wow https://t.co/SpMuSlPNJh",
+    "createdAt": "Fri Sep 04 22:50:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 489844,
+      "friendsCount": 3356,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRZ_ZdBX0AMQoRk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2096002754460242315",
+    "fullText": "Awesome updated 309-page PDF eBook &gt;&gt; \"Patterns, Predictions, and Actions: Foundations of Machine Learning\" https://t.co/Z3pwmzy9Th\n…sharpen your Probability, Calculus, and Linear Algebra knowledge with this!\n—————\n#ML #DataScience #DataScientist https://t.co/eKyqCxvb4P",
+    "createdAt": "Fri Sep 04 22:29:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305424,
+      "friendsCount": 8453,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2095999433880350809",
+    "fullText": "Wow\n\nJust wow",
+    "createdAt": "Fri Sep 04 22:16:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 481274,
+      "friendsCount": 1603,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2095998539843383439",
+    "fullText": "I really enjoy putting the models against each other.\n\nHey Claude, here’s what ChatGPT said about your work. And here’s what Grok thinks.\n\nHow do you respond?",
+    "createdAt": "Fri Sep 04 22:12:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "xdh",
+      "name": "Xuedong Huang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850293366145306624/BLdjcYGg_normal.jpg",
+      "description": "CTO@Zoom",
+      "followersCount": 1868,
+      "friendsCount": 103,
+      "location": "Bellevue, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xdh/status/2095997952682787085",
+    "fullText": "https://t.co/4wAzvkJRGg",
+    "createdAt": "Fri Sep 04 22:10:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 239659,
+      "friendsCount": 7150,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2095996200294211641",
+    "fullText": "Legal experts: If, hypothetically, OpenAI committed crimes, and hypothetically those crimes were foreseeable, and, hypothetically, their Board did nothing, before or after, where would that leave the Board?",
+    "createdAt": "Fri Sep 04 22:03:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 96775,
+      "friendsCount": 1108,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2095991921353043971/vid/avc1/1200x628/4lyQ_gGVAQCFc9ZR.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2095991985219764494",
+    "fullText": "GPT-6 Astra, @OpenAI's most powerful model, has landed as a day-zero release on Databricks!\n\nThis is OpenAI's biggest leap in agentic reasoning and your teams can put it to work on production data today.\n\n→ In our internal evaluations, Astra achieves state-of-the-art quality at great efficiency on Databricks' OfficeQA Pro, OfficeQA Pro V2, and Document Processing benchmarks.\n\n→ Every call to GPT-6 Astra flows through Unity Gateway:\n↳ same governance\n↳ same audit trail\n↳ same cost controls you already know and trust across Claude, Gemini, Grok and every other model on Databricks.\n\nTry GPT-6 Astra - see documentation: https://t.co/W6d1lbQ24d",
+    "createdAt": "Fri Sep 04 21:46:45 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "paulg",
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 5129052,
+      "followersCount": 5129807,
       "friendsCount": 798,
       "location": ""
     },
@@ -21,7 +263,7 @@
       "name": "Perplexity",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
       "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "followersCount": 503703,
+      "followersCount": 503712,
       "friendsCount": 66,
       "location": "San Francisco, CA"
     },
@@ -39,7 +281,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 404012,
+      "followersCount": 404176,
       "friendsCount": 1,
       "location": ""
     },
@@ -57,7 +299,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1071596,
+      "followersCount": 1071679,
       "friendsCount": 63,
       "location": "The Cloud"
     },
@@ -214,7 +456,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 5226711,
+      "followersCount": 5228520,
       "friendsCount": 4,
       "location": ""
     },
@@ -712,8 +954,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 489822,
-      "friendsCount": 3355,
+      "followersCount": 489844,
+      "friendsCount": 3356,
       "location": "Maryland, USA"
     },
     "images": [
