@@ -1,11 +1,238 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5137345,
+      "friendsCount": 798,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2096288408024854864",
+    "fullText": "Unexpected benefit of AI: Tantalizingly vague clickbait no longer works. Instead of clicking on the link to learn the new theory that explains x, I just ask ChatGPT what it is.",
+    "createdAt": "Sat Sep 05 17:24:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 316877,
+      "friendsCount": 1007,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2096286567853957120/vid/avc1/3704x2160/9mG-WNYxA7ZLwpxJ.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2096288397811679718",
+    "fullText": "GPT-6 Astra is absolutely insane for generating 3D stuff.\n\n\"Generate a Grok Bot version of Codex Micro.\"\n\nNow I want this so bad!\n\nIn one prompt. Imagine what else it can do—sharing more insane examples shortly. https://t.co/YOcWgKZe8x",
+    "createdAt": "Sat Sep 05 17:24:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2095688960156815360/O8Pnwbii_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1096615,
+      "friendsCount": 5937,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRd-um4bAAE-lPX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2096283493764665350",
+    "fullText": "You need to build and own your own intelligence: your own agent, your own models, your own memory\n\nJoin us for the YC Own Your Intelligence Hackathon September 27 in San Francisco\n\nhttps://t.co/wBt9wYw8LC https://t.co/tlLUz8GDGO",
+    "createdAt": "Sat Sep 05 17:05:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 416535,
+      "friendsCount": 888,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2096282894008238407",
+    "fullText": "While the future is arriving faster than our own emotional abilities can process it, I will tell you one thing. DON'T panic. Instead, use this time to learn or create something FASTER.",
+    "createdAt": "Sat Sep 05 17:02:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 481402,
+      "friendsCount": 1604,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2096282625107481003",
+    "fullText": "OpenAI now officially in the lead.\n\nSpaceX/Grok winning on usability. Model caught up fast.\n\nMeta building new products that are very solid (in private beta).\n\nAnthropic has been quiet…\n\nToo quiet.",
+    "createdAt": "Sat Sep 05 17:01:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 131318,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRd6XFNagAAx7kJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2096278691966001512",
+    "fullText": "Banger paper from Microsoft and Cornell.\n\nIf you have looked at thinking tokens and decided you cannot afford the context, read this one.\n\n(bookmark it)\n\nA pause token buys the model extra compute for each next-token prediction, and it pays for that compute with a sequence position. Free pause tokens carry the same compute in a parallel prediction stream over a weight-shared backbone, riding an existing position instead of adding one.\n\nAt inference it adds nothing to context length, leaves the KV cache unchanged, and costs essentially no extra latency, since the additional flops are not the throughput bottleneck. On a 1B model it improves next-token prediction by 2 to 3 centinats.\n\nThe cost moves to training, where the overhead against an optimized pretraining pipeline comes down to about 1.14x while keeping most of the benefit.\n\nPaper: https://t.co/gtVh1RkXqd\n\nChat with Paper: https://t.co/xknIYXckQ3",
+    "createdAt": "Sat Sep 05 16:46:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AIatMeta",
+      "name": "AI at Meta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1454145678075117568/2qXqM_Cu_normal.png",
+      "description": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
+      "followersCount": 845137,
+      "friendsCount": 361,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2096270698109132800/vid/avc1/1920x1080/1iMwEaDHthk3wWZV.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/AIatMeta/status/2096271545589190927",
+    "fullText": "As a test of our progress to advance the frontier of AI research, in June we entered the next generation of our autonomous AI research system, AIRA₃, in a live Kaggle competition run by NVIDIA to fine-tune a 30B Nemotron model. The challenge was to teach the model to reason better — all competitors had access to the same information and were graded externally on a private test set.\n\nAIRA₃ placed 8th out of ~4,000 teams to win Gold, outperforming human competitors who had access to the same frontier tools.\n\nWe believe this is a reliable signal that AIRA₃ can improve a targeted capability of an AI model at a level similar to human experts.",
+    "createdAt": "Sat Sep 05 16:17:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 349462,
+      "friendsCount": 20433,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2096265917990600705/pu/vid/avc1/720x758/k9flEEhgknAe4XOg.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2096267153456451596",
+    "fullText": "Shapes can look quite different, depending on your point of view.\n\nv/@TheMathFlow https://t.co/xcUoDr8sV8",
+    "createdAt": "Sat Sep 05 16:00:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 222195,
+      "friendsCount": 220,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2096266554308792320/vid/avc1/1920x1080/j7ymYTUJnWGOaOP6.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/arena/status/2096266879870583263",
+    "fullText": "Head-to-head: From napkin sketch, to working app using Agent Mode on Arena.\n\nTwo @arena engineers, Graham and Logan, both built the same taco truck waitlist app from a single napkin sketch, with a build-vs-buy recommendation on the line.\n\nSee who built it better, and try out this prompt yourself with top agents on Agent Arena. \n\nhttps://t.co/aiNuPsGZkq",
+    "createdAt": "Sat Sep 05 15:59:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 405772,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2096259745501921758",
+    "fullText": "What can you ship with GPT-6 Astra?\n\nDrop a demo or link below, plus one line on how Astra helped.\n\nGame on. You’ve got 24 hours.",
+    "createdAt": "Sat Sep 05 15:30:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149405,
+      "friendsCount": 5469,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRdnX7oW0AMTjOv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2096257818642780666",
+    "fullText": "The enduring AI asset is not the model that wins today.\n\nIt is the institution that can keep finding what works tomorrow.\n\nI’m sharing:\n\nSUCCESSOR Ω v10.0.0 — MACHINE CIVILIZATION\nFrom verified mission advantage to enduring civilizational capability\n\nThe ambition is to turn useful intelligence into accepted outcomes, accepted outcomes into realized surplus, and part of that surplus into better research, energy, computation and productive assets.\n\nNot automatic compounding.\n\nA succession of measured improvements.\n\nHere is where AGI Jobs and $AGIALPHA fit.\n\nAGI Jobs organize the work: bounded assignments with defined deliverables, funding, evidence and settlement rules.\n\n$AGIALPHA is the settlement token used in the documented AGI Jobs history—connecting machine work to recorded economic payments.\n\nSUCCESSOR Ω is the proposed institution that preserves the mission, validated knowledge, evidence and accountability as models change.\n\nIn plain English:\n\nCommission useful work.\nEvaluate what was delivered.\nPay under the agreed protocol.\nPreserve what the evidence supports.\nReinvest only what has actually been earned.\n\nPayment, customer acceptance, independent proof and authority remain distinct. A settlement receipt records an economic event—not a licence to act.\n\nPractical missions: identify questionable supplier payments; schedule computation and battery use within energy constraints; determine which bottleneck deserves the next investment.\n\nR2’s two reproducible synthetic studies retain an important result: on nominal tests, custom candidates beat weaker references—not stronger alternatives. Stress tests expose further weaknesses.\n\nThe decision: retain the better alternative, not the preferred model.\n\nA failed candidate can still leave valuable knowledge.\n\nFormal models connect comparative advantage, verifier incentives, recoverable succession and resource-constrained reinvestment.\n\nWhy now?\n\nAlphaEvolve became generally available on Google Cloud in July 2026. NIST’s AI Agent Standards Initiative advances secure, interoperable agents and identity infrastructure.\n\nMy synthesis: as intelligent problem-solving becomes more accessible, the enduring opportunity is to own the capacity to select, verify, coordinate and renew it.\n\nMemory may cross.\nAuthority must requalify.\n\nThis is research with synthetic experiments, not peer reviewed. No realized customer Alpha, independent Specialist ASI qualification or production authorization is established.\n\nVincent Boucher\nPresident, https://t.co/9VRSyr4dv4 & https://t.co/dCKMr5Lici\n\nPaper :\nhttps://t.co/aZobp8ppbs\n\nBuild intelligence that earns its place.\nPreserve knowledge that outlives its model.\nTurn verified progress into the capacity to create more.\n\n#Successor #AGIJobs #AGIALPHA #MachineCivilization #MontrealAI",
+    "createdAt": "Sat Sep 05 15:23:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 96821,
+      "friendsCount": 1108,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRdmratXcAMhsgn.jpg",
+      "https://pbs.twimg.com/media/HRdmsneWAAAJLRG.png",
+      "https://pbs.twimg.com/media/HRdmt2AW0AIUCAu.png",
+      "https://pbs.twimg.com/media/HRdmvD_W4AA2yl3.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2096257131305398292",
+    "fullText": "You ship code in seconds and build apps, agents, and AI products faster than ever. So why does your database still take hours to provision?\n\nLakebase is a new category of serverless Postgres database built for the way teams write software today, with instant branching, separate compute and storage, and architecture designed to scale with app and agent workloads.\n\nRead 𝘓𝘢𝘬𝘦𝘣𝘢𝘴𝘦 𝘍𝘰𝘳 𝘋𝘶𝘮𝘮𝘪𝘦𝘴 to learn:\n• Why traditional databases break down under modern app and agent workloads\n• How separating compute from storage changes cost, speed, and reliability\n• What instant branching and cloning unlock for development teams\n• How the lakebase architecture fits alongside your lakehouse for unified transactional and analytical work https://t.co/1eWPQsQeAL",
+    "createdAt": "Sat Sep 05 15:20:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 481402,
+      "friendsCount": 1604,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2096255433526985072",
+    "fullText": "Astra both very good and way more efficient with tokens than I’d expect",
+    "createdAt": "Sat Sep 05 15:13:36 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "EMostaque",
       "name": "Emad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
       "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
-      "followersCount": 337310,
+      "followersCount": 337401,
       "friendsCount": 399,
       "location": "London"
     },
@@ -21,7 +248,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-      "followersCount": 6135852,
+      "followersCount": 6136837,
       "friendsCount": 1028,
       "location": "SF"
     },
@@ -38,7 +265,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
       "followersCount": 149405,
-      "friendsCount": 5470,
+      "friendsCount": 5469,
       "location": "Montréal · Québec"
     },
     "images": [
@@ -55,7 +282,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
-      "followersCount": 416524,
+      "followersCount": 416535,
       "friendsCount": 888,
       "location": ""
     },
@@ -89,7 +316,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 239774,
+      "followersCount": 239894,
       "friendsCount": 7150,
       "location": ""
     },
@@ -105,7 +332,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 239774,
+      "followersCount": 239894,
       "friendsCount": 7150,
       "location": ""
     },
@@ -121,7 +348,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 490024,
+      "followersCount": 490085,
       "friendsCount": 3357,
       "location": "Maryland, USA"
     },
@@ -389,7 +616,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 100049,
+      "followersCount": 100055,
       "friendsCount": 937,
       "location": "Seattle"
     },
@@ -714,7 +941,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 149941,
+      "followersCount": 149959,
       "friendsCount": 641,
       "location": "Zürich, Suisse"
     },
