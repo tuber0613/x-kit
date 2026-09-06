@@ -1,12 +1,80 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5144748,
+      "friendsCount": 798,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRiDPaxWgAIZrBf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2096569948592111636",
+    "fullText": "I finally realized who he reminds me of. https://t.co/TgAs5EVtnE",
+    "createdAt": "Sun Sep 06 12:03:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "francoisfleuret",
+      "name": "François Fleuret",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2083996579719999488/O2ra2-RB_normal.jpg",
+      "description": "Research Scientist @meta (FAIR), Prof. @Unige_en, co-founder @neural_concept_. I like reality.",
+      "followersCount": 54369,
+      "friendsCount": 480,
+      "location": "Switzerland"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/francoisfleuret/status/2096559743993000263",
+    "fullText": "If I want a server with a A100 24/24 7/7, what is the best deal?",
+    "createdAt": "Sun Sep 06 11:22:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149410,
+      "friendsCount": 5473,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2096558873880502465",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Sun Sep 06 11:19:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37159,
+      "friendsCount": 1906,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRhh_hYakAAfFSS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2096535433933107534",
+    "fullText": "使用本地大模型像使用云端API一样简单的一款开源工具：Magnitude，Agent原生集成\n\n它把硬件检测、模型选型、性能调优、Agent集成这些复杂步骤全部自动化了\n\n一条prompt让agent自己搞定硬件分析、选模型、下载调优跑起来，直接接进你现有的Agent\n\n它会自动分析机器配置（芯片型号、内存大小、带宽情况），根据硬件能力推荐能跑得起来的模型，给出预估的生成速度（tok/s）\n\n自动配置推测解码、并发等高级参数，无需手动调参\n\nAgent需要时自动加载模型，空闲时或内存吃紧时自动释放，后台静默运行\n\n对于有隐私需求或者对合规敏感的用户比较适用，对于想本地又不想手动配置的普通用户比较友好\n\n#Magnitude #本地大模型工具",
+    "createdAt": "Sun Sep 06 09:46:13 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tszzl",
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 485812,
-      "friendsCount": 13486,
+      "followersCount": 485899,
+      "friendsCount": 13487,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -21,7 +89,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241582822,
+      "followersCount": 241586035,
       "friendsCount": 1403,
       "location": ""
     },
@@ -37,8 +105,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 485812,
-      "friendsCount": 13486,
+      "followersCount": 485899,
+      "friendsCount": 13487,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -53,7 +121,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 172161,
+      "followersCount": 172207,
       "friendsCount": 1305,
       "location": ""
     },
@@ -71,7 +139,7 @@
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
-      "followersCount": 142964,
+      "followersCount": 143003,
       "friendsCount": 4620,
       "location": "San Francisco, CA"
     },
@@ -87,7 +155,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 490307,
+      "followersCount": 490332,
       "friendsCount": 3358,
       "location": "Maryland, USA"
     },
@@ -103,7 +171,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 305467,
+      "followersCount": 305483,
       "friendsCount": 8461,
       "location": "United States"
     },
@@ -119,7 +187,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 172161,
+      "followersCount": 172207,
       "friendsCount": 1305,
       "location": ""
     },
@@ -137,7 +205,7 @@
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
       "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
-      "followersCount": 481499,
+      "followersCount": 481513,
       "friendsCount": 1607,
       "location": "Austin, TX"
     },
