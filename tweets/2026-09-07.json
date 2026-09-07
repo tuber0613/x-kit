@@ -1,6 +1,446 @@
 [
   {
     "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149413,
+      "friendsCount": 5480,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2097068934092456315",
+    "fullText": "👾",
+    "createdAt": "Mon Sep 07 21:06:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 131535,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRpHvHZaUAA9lEP.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2097067454883328053",
+    "fullText": "Really strong benchmark paper on coding agents.\n\nClaude Opus 5 running under Claude Code passes 23.9% of the evaluations. An expert human reference scores 82.2%.\n\nHere is what the task actually is.\n\nThe developer agent is dropped into a client engagement. It gets the records a business really keeps, a client who holds the requirements and will answer questions, a production API that operations has to run through, an inherited codebase, and hard limits on serving cost and model choice. From that it has to deliver a working customer service agent.\n\nThe score comes from deploying the agent it built against held-out simulated users. 53 tasks across four domains.\n\nThe failures look familiar to anyone who has done this work. The models query the business records shallowly instead of reading them properly. They tell the client almost nothing. They experiment very little with agent architecture or serving spend, and ship the first design that runs.\n\nExisting coding benchmarks score a patch. This one scores whether an agent can do the cooperative part of the job.\n\nPaper: https://t.co/4qYQWrx7au",
+    "createdAt": "Mon Sep 07 21:00:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "ex-head of product @x",
+      "followersCount": 1330634,
+      "friendsCount": 2062,
+      "location": "Palo Alto"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097064552630517760/vid/avc1/1320x988/mp0ieD_Sc_Xi2Bpu.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nikitabier/status/2097064614035128473",
+    "fullText": "When a slop aggregator account says they’ll start posting original content https://t.co/kyZfL4O4lO",
+    "createdAt": "Mon Sep 07 20:49:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305505,
+      "friendsCount": 8464,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097062024547307772",
+    "fullText": "The main difference between blockchain and fiat currencies is that the blockchain ones are far more centralized and opaque than the fiat ones.",
+    "createdAt": "Mon Sep 07 20:38:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305505,
+      "friendsCount": 8464,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097061244926845384",
+    "fullText": "I can’t even begin to imagine what 2028 is gonna look like.",
+    "createdAt": "Mon Sep 07 20:35:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 317713,
+      "friendsCount": 1010,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRo_84oWwAAPp6P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2097059598960132110",
+    "fullText": "A few days ago, Anthropic shared this brilliant prompt. \n\nI was surprised by how it significantly improved writing with Fable 5.1.\n\nEven more surprising, it also improved writing for GPT-5.6 Sol. \n\nI have it as a rule everywhere I use AI for editing/writing. https://t.co/rlXZPmzcz5",
+    "createdAt": "Mon Sep 07 20:29:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 726130,
+      "friendsCount": 828,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2097058741325881442",
+    "fullText": "The narrative around why building AGI was a good idea has always been about invention -- \"it will cure cancer\", \"it will solve fusion energy\", etc.\n\nSo I would not \"declare AGI\" until we have AI that is, at last, capable of invention -- conceptual breakthroughs, novel insights, new real-world technology, etc.",
+    "createdAt": "Mon Sep 07 20:25:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRo8yTCagAAxutS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097055424059154574",
+    "fullText": "New release from @PacktPublishing at https://t.co/7nF0kP6Rqk\n\n\"Quantum Readiness for Leaders\" helps to build quantum strategies, teams, security, and ecosystems to lead in the era of quantum advantage.\n\nAmazon Summary:\n\"This book is organized as a complete strategic operating system for the quantum transition. Part One equips executives with investment frameworks, governance structures, and talent roadmaps. Part Two guides technical leaders through infrastructure assessment, workforce development, and quantum-era data strategy. Part Three delivers a security playbook covering post-quantum cryptography and adaptive architecture. Part Four maps the full quantum ecosystem and partnerships that will determine which institutions lead commercially.\"",
+    "createdAt": "Mon Sep 07 20:12:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRo7gJeXsAIndv7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097054388506251532",
+    "fullText": "Awesome NEW RELEASE from @PacktPublishing \n\n\"Building AI Agents for Finance: Build and deploy robust financial agentic systems with advanced reasoning, architectures, and Python\"\n\nAvailable here: https://t.co/UvLf1c2mSc\n[756 pages]\n\nWhat You Will Learn:\n🟠Master core AI agent design patterns and apply them to finance\n🟠Compare major AI agentic frameworks and learn how to select the right one\n🟠Explore reasoning paradigms used in agentic workflows\n🟠Design multi-agent orchestration using various architectural styles\n🟠Build financial use cases with hands-on Python labs\n🟠Evaluate and test AI agent behavior effectively\n🟠Implement guardrails, tracing, and observability\n🟠Apply AI agents across fundamental analysis, trading, research, and compliance",
+    "createdAt": "Mon Sep 07 20:08:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 481651,
+      "friendsCount": 1609,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRo5oUmWUAASlUW.jpg",
+      "https://pbs.twimg.com/media/HRo5oU8b0AAwlzD.jpg",
+      "https://pbs.twimg.com/media/HRo5oUYWQAAdCFl.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HRo5oUbX0AAMcXi.mp4"
+    ],
+    "tweetUrl": "https://x.com/Austen/status/2097051993046982710",
+    "fullText": "I wanted to play with Astra, so I built an interactive 3D golf strike simulator: \n\nChange your club (including weights), strike location on the club face, club path, clubhead speed, face angle, attack angle, wind, etc. and watch the impact and ball flight change. https://t.co/QV8CWgFUR4",
+    "createdAt": "Mon Sep 07 19:58:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305505,
+      "friendsCount": 8464,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097051780496625807",
+    "fullText": "If you are into reading text, pivot to reading vectors in the latent space.",
+    "createdAt": "Mon Sep 07 19:58:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRo3W9NWIAAAL6I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097049451080622547",
+    "fullText": "Algorithms and Programs — An AI-Assisted Approach: https://t.co/dRFFpPQZ7o\n—\nDefine, design, and develop algorithms for your specific need with confidence.\n\nAmazon summary: “Rather than relying on traditional pseudocode, this book uses precise algorithm outlines that are easier to understand and directly support correct implementation. This approach bridges the gap between design and code, reducing ambiguity and minimizing errors.”",
+    "createdAt": "Mon Sep 07 19:48:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRo24CxXEAATqFt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097048966495903966",
+    "fullText": "AI and Machine Learning textbooks (downloadable PDF format)\n\n1️⃣ Understanding Machine Learning, covers theory and algorithms, top pick for beginners  \n🔗 https://t.co/lfpoWqW0bS\n\n2️⃣ Mathematical Foundations of Machine Learning, start here if your math skills need a boost  \n🔗 https://t.co/dp9zNHE0eD\n\n3️⃣ Mathematical Analysis of Machine Learning Algorithms  \n🔗 https://t.co/Yq7N26RsCu\n\n4️⃣ Theoretical Principles of Deep Learning  \n🔗 https://t.co/ZcfRmD5I5w\n\n5️⃣ Neural Networks and Machine Learning  \n🔗 https://t.co/JCqu8q0NxR\n\n6️⃣ Graph Deep Learning  \n🔗 https://t.co/vBfiemXBZy\n\n7️⃣ The Algorithmic Perspective on Machine Learning  \n🔗 https://t.co/aFSdUA5RDU\n\n8️⃣ Probability Theory: Theory and Examples  \n🔗 https://t.co/3ipdb1vwHg\n\n9️⃣ Fundamentals of Applied Probability  \n🔗 https://t.co/lrM72XJS5g\n\n🔟 Advanced Data Analysis  \n🔗 https://t.co/uv1bgNxkKA",
+    "createdAt": "Mon Sep 07 19:46:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 417035,
+      "friendsCount": 890,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2097045131140460937",
+    "fullText": "AI can generate stories, and simulate empathy... But the truth is, a story comes alive when it is shared. Empathy matters because another person lived it. Most human activities have been about experience, not output. AGI might arrive, but humans won't be irrelevant.",
+    "createdAt": "Mon Sep 07 19:31:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRow4albsAA3V26.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097042332675924053",
+    "fullText": "🔵AI Agents in Action: https://t.co/dALPmfIrMf v/ @ManningBooks\n\n🟡New! Updated! 2nd Edition!\n\n🟢 Table of Contents:\n\nChapters:\n1. The rise of AI agents\n2. Core components: Large language models, prompting, and agents\n3. Actions with Model Context Protocol for AI agents\n4. Architecting and building multi-agent systems\n5. Agent reasoning and planning\n6. Working with memory & knowledge RAG for agents\n7. Building robust agents with evaluation and feedback\n8. Deploying agents and agentic systems\n9. Understanding the agentic loop\n10. Exploring the cognitive agent that thinks, monitors, and adapts\n11. Tips for building agentic systems\n\nAppendices\nA. Setting up the sample code repository\nB. Node.js setup for local MCP servers",
+    "createdAt": "Mon Sep 07 19:20:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRowVJLWQAAyavl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097041722886754561",
+    "fullText": "New release from @PacktPublishing\n\n“System Design and Behavioral Intelligence: Master technical and behavioral interviews with proven design frameworks and AI-driven preparation”\n\nGet it at https://t.co/WByigykr6T https://t.co/gMRKosd19P",
+    "createdAt": "Mon Sep 07 19:18:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRotDIEa0AApadk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097038112786366791",
+    "fullText": "Game Theory Mastery — The Definitive Guide to Master Every Decision, Anticipate Others' Moves, and Ensure Success: https://t.co/i4zCjoeUGP https://t.co/vcT3BWkbYY",
+    "createdAt": "Mon Sep 07 19:03:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRostn0W4AAJ7Rz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097037762583040071",
+    "fullText": "[Download 585-page PDF eBook]\n\nGame Theory: https://t.co/8NySL3GFmu\n—————\n#GameTheory #Gamification #Mathematics #Statistics #Probability https://t.co/4rt4G8d9Z5",
+    "createdAt": "Mon Sep 07 19:02:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRosMGuWMAEHx5p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097037169579688051",
+    "fullText": "🔥Must see the major updates in the new 3rd Edition of this amazing massive 826-page book!💥\n\n🚀\"Machine Learning for Trading — A disciplined workflow from research to live execution, with 9 case studies and AI agents\" — https://t.co/1o690qFNk2 by @ml4trading @PacktPublishing 🏆 https://t.co/WL2qwogYg3",
+    "createdAt": "Mon Sep 07 18:59:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRor0Q_WMAAWzyd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097036762522763425",
+    "fullText": "Large Language Models in Finance — Hands-on guide to LLM architectures, agents, RAG, governance, and evaluation in finance: https://t.co/8WlLasW2ia via @PacktPublishing @PacktDataML \n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🟢Understand LLM foundations for financial applications\n🟢Build financial LLM systems from ingestion to deployment\n🟢Fine-tune models with LoRA, QLoRA, RLHF, and DPO\n🟢Create RAG pipelines for financial documents and knowledge\n🟢Design autonomous agents and multi-agent finance workflows\n🟢Integrate LLMs securely with MCP and enterprise systems\n🟢Apply LLMs to trading, banking, risk, fraud, KYC, and AML\n🟢Evaluate and govern auditable financial AI with rigorous metrics",
+    "createdAt": "Mon Sep 07 18:58:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490569,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRornqkaMAEWg1l.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097036541923082538",
+    "fullText": "“Trading is Math: The Formulas for Profitable Trading in Any Market” at https://t.co/P9JMqAP4Ih https://t.co/EsIMO6pOEw",
+    "createdAt": "Mon Sep 07 18:57:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 338044,
+      "friendsCount": 412,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2097033810390966762",
+    "fullText": "the only alignment\nthat will work\n\nis enlightenment",
+    "createdAt": "Mon Sep 07 18:46:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 62739,
+      "friendsCount": 372,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097031685498138624/vid/avc1/1920x1498/um7Dtk_ZY4wn4wFl.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2097031751310639213",
+    "fullText": "glm-5.3 flash and gpt-5.6 terra score the same on artificial analysis’ intelligence index\n\nbut flash costs 82% less per task https://t.co/PQuTjTzTJL",
+    "createdAt": "Mon Sep 07 18:38:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 417035,
+      "friendsCount": 890,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097030327688409088/vid/avc1/1920x1080/fVwgPOTUCv_SsJ_b.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2097030604671881465",
+    "fullText": "Nobody can hold the number one spot for a full week anymore. GPT-6 Astra dropped and saturated benchmarks that were built over the last few years. Forty-eight hours later, Anthropic fired back with Fable 5.1 and retook the crown on broad capability. Then they formalized a 358-year-old proof in math. Meanwhile, Tesla launched the lollapalooza of autonomous Robotaxis on public roads. We're past the point where any of this feels normal.\n\n-- Cybercab: $30K, full autonomy, no wheel, no pedals. Waymo: $100K+. Buy ten Cybercabs, deploy them, earn passive income. \n\n-- GPT-6 Astra: 99.9% ARC AGI 3, 98% Frontier Math, 100% Exploitbench. But on broad economic capability, Fable 5.1 still holds the crown.\n\n-- GLP-1 drugs extended mouse lifespan by nearly 100 days, equivalent to 8–10 human years. \n\n-- Fermat's proof took Wiles 7 years and 300 pages. Anthropic formalized 13 million lines and proved 29,000 new theorems along the way.",
+    "createdAt": "Mon Sep 07 18:33:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305505,
+      "friendsCount": 8464,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRole1nbYAAxfCR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097029798287769708",
+    "fullText": "Touch trees. https://t.co/ZUmkeNptbp",
+    "createdAt": "Mon Sep 07 18:30:39 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
@@ -39,7 +479,7 @@
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
-      "followersCount": 143129,
+      "followersCount": 143176,
       "friendsCount": 4619,
       "location": "San Francisco, CA"
     },
