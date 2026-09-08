@@ -1,12 +1,435 @@
 [
   {
     "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 131581,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRs6SqrbwAAhsjK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2097334147908096003",
+    "fullText": "// Beneath the Surface of Chains-of-Thought //\n\nImpressive paper on whether reasoning steps have internal structure or only textual structure.\n\nResearchers ask whether distinct reasoning operations, such as problem formulation, goal decomposition and deduction, are geometrically organized in hidden representations.\n\nIt turns out they are.\n\nOperations are separable in held out representations, and separability peaks in middle layers.\n\nThe authors check that lexical and positional confounds do not explain it.\n\nThey find that identical surface tokens are represented differently depending on the operation of the surrounding chunk, so the geometry tracks function rather than wording.\n\nAnd attention masking shows that operation aligned representations at the start of a chunk depend on preceding reasoning context, so the operation label is constructed from the trace rather than read off the current token.\n\nAcross layers, token wise operation alignment becomes more distributed over spans. If you want to steer or monitor reasoning by operation type, this study shows where the important signals might be.\n\nPaper: https://t.co/58PqbAL5PF\n\nChat with Paper: https://t.co/VGnSK13PW4",
+    "createdAt": "Tue Sep 08 14:40:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490877,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRs6QC7XwAAHqnJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097334102827368506",
+    "fullText": "\"Architecting AI Software Systems: Crafting robust and scalable AI systems for modern software development\" at https://t.co/SfaLq9v42M v/ @PacktDataML\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🔴Learn to integrate AI with traditional software architectures, enabling architects to design scalable, high-performance systems\n🟢Explore key tools and processes to mitigate risks in AI-driven system development, ensuring timely project delivery and budget control\n🔵Gain hands-on experience through case studies and exercises, applying architectural concepts to real-world AI systems",
+    "createdAt": "Tue Sep 08 14:39:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305637,
+      "friendsCount": 8463,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097334011786080313",
+    "fullText": "I mean, I’ve known my whole life how unprincipled most people are, but still …",
+    "createdAt": "Tue Sep 08 14:39:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490877,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRs5gcwaQAAb96-.jpg",
+      "https://pbs.twimg.com/media/HRs5gcebYAAZWU4.jpg",
+      "https://pbs.twimg.com/media/HRs5gb0XcAEoKSP.jpg",
+      "https://pbs.twimg.com/media/HRs5gbwW4AAjkEU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097333284896166284",
+    "fullText": "See all the wonderful books on Causality and Inference by @yudapearl at https://t.co/izwelY835J https://t.co/LKZ8aB1k76",
+    "createdAt": "Tue Sep 08 14:36:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490877,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRs4_yNbwAAKR2b.jpg",
+      "https://pbs.twimg.com/media/HRs4_xwXUAAdDsv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097332725313122305",
+    "fullText": "Have fun with Mathematics…\n\nThe Moscow Puzzles - 359 Mathematical Recreations: https://t.co/cJlfVfvQCp\n\nMathematical Puzzles: https://t.co/6QqMTBwcWE https://t.co/zJRy2dgDBq",
+    "createdAt": "Tue Sep 08 14:34:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490877,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRs4354W8AAcgXu.jpg",
+      "https://pbs.twimg.com/media/HRs4354WkAA0_TE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097332589140824418",
+    "fullText": "The Alignment Problem — Machine Learning and Human Values: https://t.co/wjKnYRFMNZ\n\nAmazon summary: \"A jaw-dropping exploration of everything that goes wrong when we build AI systems and the movement to fix them.\"\n\nBy the author of \"Algorithms to Live By\": https://t.co/3cGm0HN0IT https://t.co/8Q3jfbuJpo",
+    "createdAt": "Tue Sep 08 14:33:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 490877,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRs4scdaYAAuJBW.jpg",
+      "https://pbs.twimg.com/media/HRs4scTbMAAQm2m.jpg",
+      "https://pbs.twimg.com/media/HRs4sb3WYAAyIaY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097332390746050573",
+    "fullText": "Books by @burkov \n\nMachine Learning Engineering: https://t.co/V1XFQtUejT\n++\nHundred-Page Machine Learning Book: https://t.co/AlEVuSyUJE\n+++\nHundred-Page Language Models Book — Hands-on with PyTorch: https://t.co/SiVg4ajmUP \n———\n#ML #DataScience #AI #DataScientist https://t.co/CvcyfPndNN",
+    "createdAt": "Tue Sep 08 14:33:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 290110,
+      "friendsCount": 336,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRs2uJHWcAAX6s1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/runwayml/status/2097330512113098866",
+    "fullText": "The team from Kinetix, a Paris-based research lab, is joining Runway as we accelerate our investment in robotics research and scale commercial deployment.\n\nLearn more, and view our open roles in Paris and globally, at the link below. https://t.co/G1EW7fzXmj",
+    "createdAt": "Tue Sep 08 14:25:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305637,
+      "friendsCount": 8463,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097330138883174564",
+    "fullText": "If all options are on the table, then ALL options are on the table. Not just those that benefit you and your narrow interests.",
+    "createdAt": "Tue Sep 08 14:24:06 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "ceobillionaire",
       "name": "Vincent Boucher · AGI.eth → ASI.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
       "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
-      "followersCount": 149420,
-      "friendsCount": 5479,
+      "followersCount": 149424,
+      "friendsCount": 5480,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRszpcEbEAAQdou.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2097326843531497726",
+    "fullText": "Frontier intelligence is becoming a commodity. Alpha is not.\n\nAt https://t.co/dCKMr5Lici, we’re increasingly focused on what comes after access to frontier AI.\n\nWhen every serious organization can rent essentially the same models, agents and tools, that capability becomes AI Beta: powerful, valuable—and increasingly available to everyone.\n\nThe strategic question changes:\n\nWhere is the remaining mission-specific Alpha?\n\nWhere is the advantage your competitors cannot obtain simply by opening the same API?\n\nHow do you discover it?\nHow do you manufacture it?\nHow do you prove it?\nHow do you preserve it when the models inevitably change?\n\nSUCCESSOR Ω is our answer.\n\nNot another chatbot.\nNot another agent wrapper.\nNot another benchmark trophy.\n\nA customer-controlled mission institution designed to:\n\n→ search for differentiated Alpha\n→ develop competing capabilities inside a Mission Gym\n→ compare them against the incumbent and the best credible alternative\n→ freeze the strongest candidate\n→ test it on fresh, protected mission evidence\n→ admit only what actually earns the designation\n→ preserve the methods, evidence, skills, memory and proof behind the result\n→ renew the institution as models, providers and conditions change\n\nThe model is replaceable.\n\nThe mission intelligence is the asset.\n\nAnd this is where solana:tWKHzXd5PRmxTF5cMfJkm2Ua3TcjwNNoSRUqx6Apump becomes useful.\n\n$AGIALPHA is not merely a ticker attached to the idea.\n\nIt is designed to participate in the machinery around it:\n\nACCESS — qualifying direct $AGIALPHA holdings can unlock designated experimental SUCCESSOR Ω / GoalOS reference experiences.\n\nWORK — AGI Jobs can use $AGIALPHA to fund escrow-backed machine work: define the objective, fund the job, execute, validate, settle.\n\nCONTRIBUTION — agents and validators can earn $AGIALPHA for useful work and evaluation under the applicable protocol rules.\n\nIn other words:\n\n$AGIALPHA helps turn intelligence from something you merely consume into something you can commission, evaluate and coordinate.\n\nThat is the larger thesis:\n\nBeta is rented.\nAlpha is manufactured.\nProof determines what survives.\nSUCCESSOR Ω preserves what matters.\n\nAnd $AGIALPHA gives the machine economy a way to access, fund and reward the work around that process.\n\nOwn the institution. Replace the models. Preserve the mission. Ω\n\n$AGIALPHA · Alpha → Gym → Specialist ASI → SUCCESSOR Ω\n\n#AGIALPHA",
+    "createdAt": "Tue Sep 08 14:11:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "v_vashishta",
+      "name": "Vin Vashishta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
+      "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
+      "followersCount": 28384,
+      "friendsCount": 1057,
+      "location": "Reno"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/v_vashishta/status/2097326233742966892",
+    "fullText": "The 3 biggest barriers to AI I'm seeing:\n1. Access to credit/funding: Money isn't flowing to the biggest opportunities.\n2. Enterprise ROI inertia: Lack of productization and monetization.\n3. Agent reliability: Agentic and information architectures are maturing, but many use cases remain infeasible.",
+    "createdAt": "Tue Sep 08 14:08:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
+      "followersCount": 1520393,
+      "friendsCount": 271,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097322936709664768/vid/avc1/1080x1080/_UzVA-skyU02RUX5.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/2097325048109384166",
+    "fullText": "We’re launching AlphaGenome Atlas: an AI-powered searchable database mapping the predicted impact of all 9 billion possible single-letter DNA changes.\n\nHere’s how it could help researchers better understand our biology 🧵",
+    "createdAt": "Tue Sep 08 14:03:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 96916,
+      "friendsCount": 1108,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097324582684241921/vid/avc1/1280x720/hmun8kQYJZXBkzro.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2097324624904126565",
+    "fullText": "You can now run, debug, and scale Databricks workloads without leaving your local IDE or CLI.\n\nConnect VS Code, Cursor, or your terminal directly to Serverless, AI Runtime, and dedicated clusters to work with Python and SQL on Databricks compute.\n\nYou can also browse Unity Catalog, keep files and dependencies in sync with the workspace, and use coding agents with full workspace context.\n\nFewer context switches. A faster development loop for data engineering and ML. https://t.co/d9RTHRmG8C",
+    "createdAt": "Tue Sep 08 14:02:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358834299538051072/F0cQFEjK_normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 347860,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRswV0HXsAA6Ezo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2097323205702689050",
+    "fullText": "The viral \"Ox Alpha\" model is officially GLM-5.3-Flash from Zai. 🔍\n\n📊 320B parameters with 18B active per token\n⚡ Hybrid architecture mixing linear and sparse attention\n💰 Leading performance on real world tasks from GDPval AA v2 at just $0.09 per task\n\nThe best part? Zai ran the massive free preview entirely on China-made hardware, proving smart memory optimization can overcome hardware limits. 🛠️\n\nDive into the architecture details in The Batch: https://t.co/FbARPd5e7p\n\n#DeepLearningAI #LLMs #OpenWeights",
+    "createdAt": "Tue Sep 08 13:56:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305637,
+      "friendsCount": 8463,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097322090269650986",
+    "fullText": "My favorite thing about automating verifiability of many scientific topics is that we’ll FINALLY be able to get rid of “peer review” once and for all. What a horrible, horrible, system that is.",
+    "createdAt": "Tue Sep 08 13:52:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 100212,
+      "friendsCount": 937,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2097320558559895862",
+    "fullText": "I put 0% chance any researchers at OpenAI or Anthropic look directly at specific user’s data. The amount of controls on this sort of behavior at tech companies is wild — eg when I was at meta I think you got fired immediately for doing this (or something similar).",
+    "createdAt": "Tue Sep 08 13:46:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
+      "followersCount": 504867,
+      "friendsCount": 1203,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRssmb0WQAAeo0W.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rasbt/status/2097319324721557964",
+    "fullText": "Re today's incident, maybe not a bad idea to check your settings (Settings → Data Controls) https://t.co/QHLPaJWoCZ",
+    "createdAt": "Tue Sep 08 13:41:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 241185,
+      "friendsCount": 7151,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2097318270231822847",
+    "fullText": "OpenAI’s Board has stuck with Sam Altman for too long.",
+    "createdAt": "Tue Sep 08 13:36:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305637,
+      "friendsCount": 8463,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRspZDTaUAA8Gsv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097315564293341560",
+    "fullText": "I went out for a little walk yesterday … https://t.co/YrMpFaTGo2",
+    "createdAt": "Tue Sep 08 13:26:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 71534,
+      "friendsCount": 36651,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097312270569320448/vid/avc1/720x1280/SML36xsbJ-s2nf_P.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2097312390295478505",
+    "fullText": "World models represent a new AI category, learning world dynamics from visual and auditory experience. \n\nThis enables advances in robotics, gaming, advertising, defense, education, and retail. \n\nHere's @jeffrey_hawke of @odysseyml at @raais https://t.co/U1KRt02xba",
+    "createdAt": "Tue Sep 08 13:13:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 263926,
+      "friendsCount": 189,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRskF06WgAA8SxT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2097309736966271263",
+    "fullText": ".@CopilotKit is sponsoring Interrupt NYC!\n\nStop by their booth during the event and go hands-on with the enterprise-ready frontend stack for agents. https://t.co/u2BSw6kqX2",
+    "createdAt": "Tue Sep 08 13:03:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305637,
+      "friendsCount": 8463,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097298693586383344",
+    "fullText": "Not all constraints are blockers. Many are regulators.",
+    "createdAt": "Tue Sep 08 12:19:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 455622,
+      "friendsCount": 597,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRsX9a_bIAAzzAE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2097296398001852725",
+    "fullText": "AI Engineering is a lot more than learning how to prompt a model.\n\nYesterday, I told the story of a developer who can't use AI at work and is afraid of falling behind, and many people replied, saying that it would take almost no time to learn everything required to become an effective AI Engineer.\n\nI don't think that's the case.\n\nAttached is a skill map for using coding agents. This image was published by @AndrewYNg last week.\n\nWe are well past the point where coding with AI is as simple as prompting a model. As we learn how to tame these tools, the work is becoming more and more nuanced, and we are developing patterns and techniques that require time to learn and master.\n\nIf you are a professional developer, you will be fine and adapt to the new ways, but it won't be easy. It won't take a week.\n\nI found Andrew's article very good, so I'm linking to it below.",
+    "createdAt": "Tue Sep 08 12:10:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 338376,
+      "friendsCount": 896,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2097278805564170463",
+    "fullText": "Specializing AI for Regulated Industries - How Domyn Uses NVIDIA Nemotron https://t.co/Zw8i7qU4gV",
+    "createdAt": "Tue Sep 08 11:00:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149424,
+      "friendsCount": 5480,
       "location": "Montréal · Québec"
     },
     "images": [],
@@ -21,8 +444,8 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 37166,
-      "friendsCount": 1912,
+      "followersCount": 37167,
+      "friendsCount": 1914,
       "location": ""
     },
     "images": [],
@@ -296,7 +719,7 @@
       "name": "Prof. Anima Anandkumar",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2092855511029006336/DCV19usT_normal.jpg",
       "description": "AI+Science, Bren Professor @caltech, Time100, Fmr Sr Director of #AI research @nvidia Fmr Principal Scientist @awscloud",
-      "followersCount": 45004,
+      "followersCount": 45325,
       "friendsCount": 2458,
       "location": ""
     },
