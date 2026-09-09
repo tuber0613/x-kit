@@ -1,12 +1,218 @@
 [
   {
     "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 338802,
+      "friendsCount": 417,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2097597378249318861",
+    "fullText": "You can tell if your news source is serious by whether the Navier Stokes solution is in the main news or tech news section \n\nOr not on the front page at all…",
+    "createdAt": "Wed Sep 09 08:06:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Michael_J_Black",
+      "name": "Michael Black",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
+      "description": "VP Digital Human Research, Epic Games. Emeritus Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Opinions are my own.",
+      "followersCount": 103004,
+      "friendsCount": 739,
+      "location": "Tübingen, Deutschland"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Michael_J_Black/status/2097585486466327003",
+    "fullText": "What is the role of academic computer vision research in the age of increasingly powerful large models?  Is GPT-6 Astra a step change? How can a researcher have an impact today in academia?\n\nThese are the questions I ask myself as I head off to ECCV 2026, a conference I’ve attended since 1992.  One of my papers this year is VIGA, a method that takes an image as input and outputs a 3D Blender scene that represents that image. This is a classical inverse-graphics task and VIGA was the first method to solve it using an agentic approach.\n\nThe idea is now several years old and the first version of the paper was rejected. This delayed publication significantly.  After it was accepted at ECCV, it was quickly surpassed by people using Claude Code for the same purpose. Today GPT-6 Astra blows away all previous results. But we still head off to ECCV to tell the community about our invention that is now fully out of date.\n\nThe way academic work often progresses is that one reads recent papers, notices that they have limitations, comes up with a new idea, explores this, publishes it, etc. Any published paper I read today is based on ideas that are at least a year old. And those ideas were based  on the literature of the time, which was also a year old. That means that any paper I see at ECCV is likely two years out of date. In AI today, two years means your work is likely irrelevant.\n\nAt CVPR this summer I noticed that many authors have not gotten the message. They continue to work on “old” problems that have a long history. This history is based on assumptions about how the “vision problem” will be “solved”. The truth is that it is being solved in a very different way and many of these problems are no longer relevant. Another group of papers focuses on very niche problems where large models likely fail because of insufficient data or lack of business interest. The impactful papers were largely from industry and had long author lists and massive data+compute behind them. These papers were also out of data, describing systems that had been released months before, but at least they served to provide the community with more complete documentation and analysis of commercial systems.\n\nSo what should academics do?  First, we need to put aside the tools we’ve used for years and start from scratch. Every project should start by trying really hard to solve the problem with existing tools. I would like to see every paper begin with a detailed experimental analysis of how existing models perform and why they fail (if they do). This gives the kind of insight we need today. Then, assuming current models fail, the solution should provide some fundamental insight that will outlive the next release of such models.\n\nReviewers today still focus on technical novelty. This pushes people to focus on tweaking architectures rather than clearly moving the field forward. Papers need to be judged based on their novel insight and not their novel technical contribution. This is a real shift in thinking but it focuses us on what matters - progress of the field.\n\nIf we want there to be a “field” of computer vision, then it can’t become a marginal backwater, focusing on esoteric problems. If you haven’t tried using Astra (or whatever comes next) to solve your problem, then you have not done your homework. This omission should be seen as negatively as not having a previous work section.\n\nConcretely, I think papers should include a new section analogous to “Related Work” where that related work is current models and how they perform on the task. Reviewers should start asking for this and expecting authors to be able to articulate their insights about the limitations of existing large models.\n\nI'm interested in your thoughts.",
+    "createdAt": "Wed Sep 09 07:18:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491071,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRwICFLXYAANJY9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097560361729700007",
+    "fullText": "Math Makers — The Lives and Works of 50 Famous Mathematicians: https://t.co/ckC915MKNr\n\n\"The unusual behaviors and life circumstances of these intriguing personalities make for fascinating reading and a highly enjoyable introduction to mathematics.\" \n\nHT @oprydai > the book \"shows how breakthroughs came from obsession, struggle, and curiosity; not just equations.\"",
+    "createdAt": "Wed Sep 09 05:38:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491071,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRwH5wsXIAAMMAu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097560221140808053",
+    "fullText": "Enterprise AI Productivity: Success Beyond the Hype\n\nSee it here: https://t.co/h8Dsz7HzAr by @SelimMimaroglu  \n\nSee real-world examples and a chapter-by-chapter breakdown of roles, responsibilities, and workflows in these areas of enterprise AI:\n🔷AI Organizational Design\n🔷From Idea to Product\n🔷Model Lifecycle Management\n🔷Cross-Functional Collaboration\n🔷Real-World Case Studies\n🔷Strategic AI Thinking\n———\nMy Review (posted on Amazon):\n5 stars⭐️⭐️⭐️⭐️⭐️\n\nRefreshing, Useful, and Wonderfully Readable Enterprise AI Guidebook\n\nI found this book to be very refreshing and useful in the way that it addresses practical requirements for optimizing enterprise AI productivity: elaborating and connecting the key enterprise focal points (roles, responsibilities, and workflows) with the key enterprise AI development activities (AI Organizational Design, From Idea to Product, Model Lifecycle Management, Cross-Functional Collaboration, Real-World Case Studies, and Strategic AI Thinking). This practical style of presenting the main ideas of the book should be helpful to the enterprise audience to whom this book is directed. Each chapter has a self-contained rich menu of easily navigable topics, which makes reading the book a real pleasure. I also found the anecdotes at the end of each chapter to be a great addition to the other material. These sections could be considered as \"profiles in courage\" since they present inspirational profiles of people who have pushed the frontier in their organizations and who invested their personal strengths and convictions to bring their projects to success.",
+    "createdAt": "Wed Sep 09 05:38:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 318077,
+      "friendsCount": 1016,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRwGru5asAA1DKS.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2097558879194558838",
+    "fullText": "Nice paper to improve inference efficiency.\n\nIt's been a while we haven't seen good work on efficiency.\n\nHere is why it matters:\n\nA long-running agent's workspace outgrows its context window long before the task finishes.\n\nThe first approach commonly used, compaction, loses the fine-grained execution evidence. And text retrieval re-prefills content the model already processed.\n\nKVMem keeps the overflow as paged KV state instead, spread across GPU memory, host memory and NVMe.\n\nLightweight attention-space indexes, native to the model, pick the relevant historical blocks and materialize a query-dependent view that fits inside the native context window.\n\nOn the DeepSWE long-context test with Qwen3.8-27B, task success goes from 43.8% under compaction to 48.4%.\n\nThe local deployment result stands out. It runs Qwen3.6/3.8-27B NVFP4 with MTP on a laptop with a 24GB RTX 5090, virtualizing an agent workspace up to 1M tokens, four times the model's native 256K window, at around 50 tokens per second.\n\nPaper: https://t.co/rKIAqnzxII",
+    "createdAt": "Wed Sep 09 05:33:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 54797,
+      "friendsCount": 2363,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRwC2UAbIAAnTit.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2097556665457328281",
+    "fullText": "How much did Anthropic make from Chinese distillation?\n\nThe U.S. DoD's CSA report outlines the scope of this distillation campaign. \n\nBut in the end, it contributed little revenue to Anthropic, and even less to OpenAI.\n\n@natolambert @kevinsxu @pstAsiatech @RnaudBertrand @scmallaby @jordanschneider @sinocism",
+    "createdAt": "Wed Sep 09 05:24:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 131615,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRwDtUeawAA0h5X.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2097555607389896732",
+    "fullText": "Good work on improving memory for long-horizon agents.\n\nThey separate two things that agent memory papers usually collapse into one. How memories get merged when they are written, and how retrieved content gets assembled into the prompt.\n\nThe setting is a tight prompt budget of 2k to 5k tokens, where full-context prompting is off the table because of latency, cost and context limits.\n\nRSM-full combines a cosine-gated max-member merge rule on the write side with an atom-aware grouped packer on the read side. At a 4k budget it reaches 83% of full-context quality at 32% of the token cost.\n\nThe ablations attribute the gain to both halves separately. The merge rule is worth 5.7 points over online k-means and matched DP-means. The grouped packer is worth 5.0 points over flat concatenation.\n\nIt reproduces on RealMem, beating Budget-RAG, Streaming-Proto and the A-MEM agentic memory baseline, and landing level with BM25-RAG rather than above it.\n\nThe authors state that higher-token baselines stay stronger outside this budget range.\n\nPaper: https://t.co/W6imgK7G0H",
+    "createdAt": "Wed Sep 09 05:20:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 481846,
+      "friendsCount": 1614,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2097554095070417109",
+    "fullText": "Alright, what are your favorite AI skills/abilities you use all the time?",
+    "createdAt": "Wed Sep 09 05:14:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491071,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097553788311609835",
+    "fullText": "Daily #1669\n0️⃣6️⃣⬛0️⃣5️⃣\n0️⃣7️⃣⬛0️⃣8️⃣\n0️⃣9️⃣⬛1️⃣0️⃣\n1️⃣1️⃣⬛1️⃣2️⃣\n1️⃣3️⃣⬛1️⃣4️⃣\n1️⃣5️⃣⬛1️⃣8️⃣\n1️⃣7️⃣⬛1️⃣6️⃣\n1️⃣9️⃣⬛2️⃣0️⃣\nTry it yourself at https://t.co/9TDaj0mo1W\n#sedecordle = 16-word Wordle.\nSolved all 16 in 20 guesses today.\nMy first 4 words were just my starter words, used to tease out letters and patterns in the actual game words.",
+    "createdAt": "Wed Sep 09 05:12:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305729,
+      "friendsCount": 8469,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRwCAQDaoAADNOi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2097553732859011576",
+    "fullText": "Oh OK looks like my content has been deemed original enough. https://t.co/DnPtWprF9a",
+    "createdAt": "Wed Sep 09 05:12:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 63675,
+      "friendsCount": 11456,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2097549173465977042",
+    "fullText": "I am scared of flying. \n\nBut I have to fly a lot. \n\nSo I have found statistics help. I look statistics of every airport and airplane I fly in.\n\nI find it very reassuring.\n\nBut a side effect is I now know SFO is one of the only airports that allow parallel landings. So cool.",
+    "createdAt": "Wed Sep 09 04:54:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 62802,
+      "friendsCount": 372,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097546303676772352/vid/avc1/1920x1120/ICWKCf4IGN7GPHG_.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2097547280819577253",
+    "fullText": "glm-5.3 flash beats claude fable 5.1 on agentic automation tasks\n\nat ~99% lower cost per task https://t.co/hTRSvBIL4H",
+    "createdAt": "Wed Sep 09 04:46:56 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "JeffreyTowson",
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
       "followersCount": 5714,
-      "friendsCount": 1210,
+      "friendsCount": 1213,
       "location": "Beijing"
     },
     "images": [],
@@ -23,7 +229,7 @@
       "name": "Sara Hooker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
       "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
-      "followersCount": 63662,
+      "followersCount": 63675,
       "friendsCount": 11456,
       "location": "San Francisco"
     },
@@ -40,7 +246,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
       "description": "I help increase online growth and strengthen digital AI moats. Digital & AI mgmt consultant. Get my free email and Tech Strategy podcast.",
       "followersCount": 5714,
-      "friendsCount": 1210,
+      "friendsCount": 1213,
       "location": "Beijing"
     },
     "images": [],
@@ -55,7 +261,7 @@
       "name": "Alexandr Wang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
       "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
-      "followersCount": 659791,
+      "followersCount": 660501,
       "friendsCount": 888,
       "location": "San Francisco, CA"
     },
@@ -71,7 +277,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 158434,
+      "followersCount": 158458,
       "friendsCount": 3370,
       "location": "on ⛓"
     },
@@ -87,7 +293,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 5281236,
+      "followersCount": 5287941,
       "friendsCount": 4,
       "location": ""
     },
@@ -105,7 +311,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 158434,
+      "followersCount": 158458,
       "friendsCount": 3370,
       "location": "on ⛓"
     },
@@ -283,8 +489,8 @@
       "name": "Shital Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
       "description": "CEO and founder https://t.co/bg8qbK3ei1. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
-      "followersCount": 14056,
-      "friendsCount": 14329,
+      "followersCount": 14085,
+      "friendsCount": 14335,
       "location": "Redmond, WA"
     },
     "images": [],
