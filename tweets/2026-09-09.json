@@ -1,6 +1,624 @@
 [
   {
     "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 150434,
+      "friendsCount": 642,
+      "location": "Zürich, Suisse"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2097788963998064841",
+    "fullText": "It's kinda amazing that we have the rare opportunity to witness, live, what collective delusion/hysteria looks like!",
+    "createdAt": "Wed Sep 09 20:47:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 727347,
+      "friendsCount": 828,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2097786823909192140",
+    "fullText": "ZeroModels: 100+ model families with pretrained weights, implemented in Keras 3 and ready to run with any backend. Between this and KerasHub, that's a very extensive range of foundation models.\n\nhttps://t.co/LfXtvqVwaX",
+    "createdAt": "Wed Sep 09 20:38:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5298672,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRzVoTSbcAAWpe5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2097786616311840853",
+    "fullText": "We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find and fix vulnerabilities we might never have discovered otherwise.\n\nWe’re sharing what we learned, the architecture, and a practical playbook so you can build your own Defense Factory: a continuous loop where AI agents find vulnerabilities, validate them, and verify that fixes work.\n\nhttps://t.co/k1oWJHle8S",
+    "createdAt": "Wed Sep 09 20:37:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 241809,
+      "friendsCount": 7153,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2097785492523880905",
+    "fullText": "What a fucking shitty, greedy-ass company.\n\nI hope they eventually go out of business. \n\n“Facebook Is Hosting Huge Numbers of Horrifying AI-Generated Videos of Violent Child Abuse, and Meta Is Barely Even Pretending to Care About Taking Them Down\n\nFacebook is filled with AI-generated videos of children being beaten, burned, and bludgeoned with heavy objects. Meta doesn't seem to care.”\n\nhttps://t.co/emhkKtYf8R",
+    "createdAt": "Wed Sep 09 20:33:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 417850,
+      "friendsCount": 890,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2097784786521600266",
+    "fullText": "Mark my words, a year from now, we will be amazed by how slow the world still feels today.",
+    "createdAt": "Wed Sep 09 20:30:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 246528,
+      "friendsCount": 1719,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097526768739737600/vid/avc1/1536x992/oT5hWoikkIK8Erj1.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2097782510776180756",
+    "fullText": "你可能刷到过这个“模拟果蝇大脑玩 Beat Saber”的视频。但不要激动的太早，不是真的在玩，视频里的运动输出是把模型过拟合（overfit）到一段预录动作序列上回放出来的，真正的视觉识别和强化学习还没做完。https://t.co/z7Ql7LdjuH\n\n右边的连接组是一张静态接线图，不是一个活的大脑。这些游戏演示是拿真实神经数据搭的互动玩具，看起来很酷，但离果蝇大脑独立打游戏还很远。\n\n9 月 3 日，HHMI Janelia 研究所联合 Google Research 和剑桥大学，在 Cell 上发表了雄性果蝇完整中枢神经系统的连接组（connectome），包含 166,700 个神经元和 1.25 亿个突触连接，是目前最大的完整脑图谱。它覆盖了果蝇的大脑和腹神经索（相当于脊髓），第一次可以追踪从“看见东西”到“做出动作”的完整回路。\n\n整个数据集以 CC-BY 协议开源。数据发布仅两天，佐治亚理工的研究生 Evan Smith 就用 GPT-6 Astra 把全部神经元装进了 Minecraft，之后 Beat Saber、Mario 64、Doom 版接连出现。之所以传播很快，主要是因为开源加上门槛够低。\n\n这项研究真正重要的地方在于，之前已有雌性果蝇的连接组，现在雄性到齐，科学家第一次能在突触精度上比较两性大脑。结果发现只有 4.8% 的神经元存在性别差异，而且集中在负责决策的高级脑区，感觉和运动区域两性基本一样。也就是说，雄果蝇和雌果蝇看到的世界差不多，但处理方式在关键节点上不同，4.8% 的局部差异就能在全脑产生连锁效应。\n\n下一步是脊椎动物。Google 和哈佛正在画斑马鱼的全脑连接组，小鼠部分脑区也在推进。\n\n一些相关文章可以看：\nhttps://t.co/oWKVfJbZbX\nhttps://t.co/VlZ6E7mMa0",
+    "createdAt": "Wed Sep 09 20:21:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 504392,
+      "friendsCount": 66,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2097782467210166601",
+    "fullText": "We're introducing Q2D-Web (Query2Doc-Web), a benchmark and public leaderboard for evaluating retrieval in agentic RAG systems.\n\nQ2D-Web tests how embedding models perform on large-scale web search using agent-reformulated search queries.\n\nRead more: https://t.co/s476SxkE1L",
+    "createdAt": "Wed Sep 09 20:21:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 264167,
+      "friendsCount": 190,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRzNVqcWwAUJ_3P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2097777301064745073",
+    "fullText": "Just one week to go until the LangSmith Roadshow in Dallas!\n\nHear from @hwchase17, go hands-on with Deep Agents + LangSmith Engine, and meet the LangChain community!\n\nRSVP today! https://t.co/jSX8faS6ge https://t.co/C9SwgBOngH",
+    "createdAt": "Wed Sep 09 20:00:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
+      "description": "co-founder @HuggingFace - moonshots",
+      "followersCount": 131113,
+      "friendsCount": 7808,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097774232721846272/vid/avc1/2160x2160/NKPuFCfVPdIpea9i.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/2097776274794070197",
+    "fullText": "in 2026 training a model for a task should be as easy as vibe-coding an app\n\nthe pieces were already available on 🤗: papers, datasets, pre-trained models, benchmarks, storage and compute\n\nwhat was missing was an agent to put them together and run the whole process\n\nthat’s why we’re releasing ML Intern in HuggingChat\n\njust ask. it handles the work, keeps you posted, and keeps you in control of the process, steps and cost\n\nstart with a conversation. finish with a full set of shareable artifacts on the Hub\n\nhttps://t.co/apqYOBX1OK",
+    "createdAt": "Wed Sep 09 19:56:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 481984,
+      "friendsCount": 1614,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2097771753812496495",
+    "fullText": "“Lol can you believe they’re charging $3,200 for the 2 Terabyte iPhone Duo?”\n\n…yeah?\n\nwtf do you need a TWO TERABYTE iPhone for?",
+    "createdAt": "Wed Sep 09 19:38:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 241809,
+      "friendsCount": 7153,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2097771456554041361",
+    "fullText": "live on @MSNOWNews shortly",
+    "createdAt": "Wed Sep 09 19:37:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 246528,
+      "friendsCount": 1719,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097751839144038400/vid/avc1/2070x1180/EM9WSdlcTiuiHSeZ.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2097768111730458760",
+    "fullText": "苹果刚刚发布了它的首款折叠手机，iPhone Duo  ​​​​https://t.co/afzxygqaQ8\n\nApple 今天在 Apple Park 举办\"Surprise and Shine\"发布会，这是新任 CEO John Ternus 上任以来的第一场重大产品发布。Ternus 于 9 月 1 日正式接替 Tim Cook，后者转任执行董事长。Cook 本人也坐在了发布会前排。\n\n发布会的核心是两款手机：Apple 第一款折叠屏 iPhone Duo，以及 iPhone 18 Pro 系列。\n\niPhone Duo：Apple 的第一款折叠屏\n\n传了好几年的折叠 iPhone 终于来了。iPhone Duo 采用书本式折叠设计，展开后形似护照，内屏 7.6 英寸，外屏 5.4 英寸。机身用的是 5 级钛金属，IP68 防尘防水。\n\n芯片和 iPhone 18 Pro 一样是 A20 Pro，搭配 Apple 自研的 C2 基带。后置双 48MP 摄像头，没有长焦镜头，这是相比 18 Pro 最明显的妥协，大概率是为了控制机身厚度。生物识别用的是侧边按钮的 Touch ID，而非 Face ID，也可以用 Apple Watch 解锁。后续还会支持 Apple Pencil。\n\n两个颜色：星光白和夜空色。256GB 起售价 2,000 美元，最高配置大约 3,000 美元。今天只是发布，预计最早 10 月开售，比 iPhone 18 Pro 晚一步。\n\n对比三星 Galaxy Z Fold 系列（同样 256GB 起售价 1,999 美元），Apple 在价格上基本持平，但在折叠屏市场已经是后来者，三星和华为在这个品类经营了七年。\n\niPhone 18 Pro：2nm 芯片和可变光圈\n\niPhone 18 Pro 和 Pro Max 搭载 A20 Pro 芯片，2nm 工艺，2 个\"桌面级\"超级核心加 4 个能效核心，7 核 GPU。散热性能提升到上一代的三倍。\n\n摄像头最大的变化是 48MP 主摄支持可变光圈，简单说就是镜头可以自动调节进光量和景深，拍人像和夜景时效果会明显提升。还有一个新功能：手机可以验证一张照片没有被 AI 编辑过，在 AI 生成内容满天飞的时代，这算是一个实用的信任工具。\n\nDynamic Island 缩小了，同时最多支持三个实时活动同步显示。Pro Max 续航提升到 30 小时，充电 15 分钟可以到 50%，这是 iPhone 有史以来最大的电池提升幅度。\n\n四个新颜色：黑色、浅蓝、冰川色（银）、勃艮第（红）。Pro 起售价 1,199 美元，Pro Max 起售价 1,299 美元，均为 256GB 起步。9 月 12 日开始预购，9 月 18 日发售。\n\n其他产品\n\nAirPods 5 的降噪比 AirPods 4 提升了 50%。两个版本：基础版 129 美元带主动降噪，高配版 149 美元多了耳柄音量控制、更长续航和无线充电盒。今天开始预购。\n\nApple Watch Series 12（399 美元起）和 Ultra 4（799 美元起）升级了健康追踪系统，Series 12 重新引入了陶瓷材质。新增了一个叫 Siri Recap 的功能，用环境监听为你整理一天的高级别笔记。今天预购。\n\niOS 27 的正式推送日期确认为 9 月 14 日。\n\n值得注意的是，今年普通版的 iPhone 18、iPhone Air 2 和 iPhone 18e 被推到了 2027 年春季，Apple 把九月发布会的焦点完全集中在了高端产品线上。",
+    "createdAt": "Wed Sep 09 19:24:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 481984,
+      "friendsCount": 1614,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2097767612503466440",
+    "fullText": "I’m not sure if I’d like the iPhone duo but do I have to pay $2200 to find out",
+    "createdAt": "Wed Sep 09 19:22:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491131,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRzDlxPXwAEsj0b.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097766674883842188",
+    "fullText": "💥Scikit-learn Cookbook — 80+ recipes for Machine Learning in Python with scikit-learn [3rd Edition]: https://t.co/Z32D8jP7na\n\n𝓒𝓸𝓷𝓽𝓮𝓷𝓽𝓼:\n🔹Common Conventions & API Elements of Scikit-Learn\n🔹Pre-Model Workflow and Data Preprocessing\n🔹Dimensionality Reduction Techniques\n🔹Build Models with Distance Metrics & Nearest Neighbors\n🔹Linear Models and Regularization\n🔹Advanced Logistic Regression and Extensions\n🔹Support Vector Machines and Kernel Methods\n🔹Tree-Based Algorithms and Ensemble Methods\n🔹Text Processing and Multiclass Classification\n🔹Clustering Techniques\n🔹Novelty and Outlier Detection\n🔹Cross-Validation and Model Evaluation Techniques\n🔹Deploying Scikit-Learn Models in Production\n\nMy Review (on Amazon):\nI love this book, not only for its amazing content, but also for its brilliant adherence to its \"Cookbook\" label. The table of contents looks repetitive, but that's the magic of it. Find the algorithm, method, or application that you want \"to cook up,\" and the presentation follows a uniform format from chapter to chapter. This is an extraordinarily practical, useful, and reader-friendly style, perfect for the target audience: anyone who needs to use (or is discovering how to use) specific Scikit-learn tools for their Python-based machine learning tasks. Consequently, this is great not only for individual use but also for training workshops and other educational settings. Python code in a cookbook context has never looked so good. IMHO.",
+    "createdAt": "Wed Sep 09 19:18:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491131,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRzAlXHaQAEEbx3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097766084384285092",
+    "fullText": "Principles of Tensor Calculus: https://t.co/cmpvLWs3Im\n \nBecome acquainted with this multidimensional mind-bending and space-bending subdomain of calculus. Then imagine Einstein thinking about this stuff while examining patent applications in Switzerland in his 20's. He was 26 years old in 1905 when he published four revolutionary physics papers during the \"Miraculous Year of Physics\" (annus mirabilis): https://t.co/A3uznqjfdC\nHe ultimately published his paper on the General Theory of Relativity in 1915, which relied heavily on tensor calculus.",
+    "createdAt": "Wed Sep 09 19:16:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "midjourney",
+      "name": "Midjourney",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826028197256822784/pfgqU218_normal.jpg",
+      "description": "A community supported research lab - exploring new mediums of thought and amplifying the imaginative powers of the human species.",
+      "followersCount": 461641,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/midjourney/status/2097765833653260595",
+    "fullText": "Midjourney Weekly Office Hours 9/9 https://t.co/xs61zt8U0l",
+    "createdAt": "Wed Sep 09 19:15:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 570673,
+      "friendsCount": 53,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2097765788149330058",
+    "fullText": "Ready to produce your next track? 🎵\n\nTune into our next Gemini Discord demo, where a Googler will show off Lyria 3.5’s new creative controls. Choose your music’s duration, genre, and vocals, or get quick inspiration for your creations with templates.\n\n👉 Join the Discord to watch live: https://t.co/IAYiy1ZOzh\n📅 Thursday, September 10 at 11:30am PT",
+    "createdAt": "Wed Sep 09 19:15:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 339061,
+      "friendsCount": 422,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2097765052220608683",
+    "fullText": "Thinking of doing a daily blog to analyse the singularity\n\nShould I do it? \n\nIf so here, substack or something else?\n\nAnything you'd like me to write about?",
+    "createdAt": "Wed Sep 09 19:12:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 241809,
+      "friendsCount": 7153,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRzCH30boAAeCuo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2097764970826215921",
+    "fullText": "The case for boycotting Generative AI: https://t.co/jse1naVrFi https://t.co/z1luGzPSE0",
+    "createdAt": "Wed Sep 09 19:11:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 410054,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097763508972830720/vid/avc1/1920x1080/c7Xtdf97uUTrh34K.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2097763537447973112",
+    "fullText": "Exchange ideas. Build what’s next.\n\nMeet local builders, share what you’re building, and connect directly with our team at a DevDay Exchange near you.\n\nhttps://t.co/6xYBye1NOc https://t.co/49X8YbKbnI",
+    "createdAt": "Wed Sep 09 19:06:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1647426,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2097762642958135398",
+    "fullText": "We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet.\n\nMETR will also conduct an independent investigation, with wide-ranging access, including to transcripts beyond the window in which the incidents occurred, and to Anthropic employees permitted to share confidential information. Our initial agreement runs for eight weeks, and we intend to give METR as much time as it deems necessary to complete a thorough investigation. https://t.co/2f3ypwLPUr",
+    "createdAt": "Wed Sep 09 19:02:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491131,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy_sObbQAAEH94.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097762297259204954",
+    "fullText": "Python Machine Learning By Example: https://t.co/3mO7oBt4gc v/ @PacktDataML [4th Edition]\n+\nGitHub: https://t.co/XmXK8pz96h\n\n518-pages! What you will learn:\n\n🟣Machine learning best practices throughout data preparation and model development\n\n🟣Build and improve image classifiers using convolutional neural networks (CNNs) and transfer learning\n\n🟣Develop and fine-tune neural networks using TensorFlow and PyTorch\n\n🟣Analyze sequence data and make predictions using recurrent neural networks (RNNs), transformers, and CLIP\n\n🟣Build classifiers using support vector machines (SVMs) and boost performance with PCA\n\n🟣Avoid overfitting using regularization, feature selection, and more",
+    "createdAt": "Wed Sep 09 19:01:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491131,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy_fYVWIAMC5Q3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097762075921793273",
+    "fullText": "TRANSFER LEARNING book [390 pages]: https://t.co/mXv4YBHs9s\n\nAmazon Summary:\n\"Transfer learning deals with how systems can quickly adapt themselves to new situations, tasks and environments. It gives machine learning systems the ability to leverage auxiliary data and models to help solve target problems when there is only a small amount of data available. This makes such systems more reliable and robust, keeping the machine learning model faced with unforeseeable changes from deviating too much from expected performance. At an enterprise level, transfer learning allows knowledge to be reused so experience gained once can be repeatedly applied to the real world.\"",
+    "createdAt": "Wed Sep 09 19:00:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491131,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy_ZCna4AAYzMM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097761968081752433",
+    "fullText": "UPDATED 4th edition of this classic AI textbook [1166 pages] now covers Deep Learning, Transfer Learning, multi-agent systems, robotics, NLProc, causality &amp; much more!\n\n➡️ “Artificial Intelligence — A Modern Approach”\n🌟🌟🌟🌟🌟\nSee the book at https://t.co/vAoSnsm1gh https://t.co/KYDNx2NiXb",
+    "createdAt": "Wed Sep 09 19:00:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491131,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy_PCJWIAkqJYS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097761794802467298",
+    "fullText": "\"How to Build and Fine‐Tune a Small Language Model: A Step-by-Step Guide for Beginners, Researchers, and Non-Programmers\"\n\nAvailable at https://t.co/msIjZw2arK\n\nBuild your own AI—without a PhD, expensive hardware, or industry-level resources. Whether you’re a beginner, a student, a scientist, or a domain expert, this book shows you how to create, train, fine-tune, and deploy Small Language Models (SLMs) that truly understand your field.\n\nMost AI books explain what models are. This one teaches you to build them. You’ll go from zero to a working GPT-style model, then learn how to fine-tune, align, evaluate, and deploy it for real applications.\n\nAll chapters include ready-to-run Google Colab notebooks.",
+    "createdAt": "Wed Sep 09 18:59:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491131,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy_KHcW8A40TkU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097761711692423663",
+    "fullText": "\"Domain-Specific Small Language Models: Efficient AI for local deployment\" available at https://t.co/K10yQCh9cU via @ManningBooks https://t.co/F2ErYp7KEU",
+    "createdAt": "Wed Sep 09 18:59:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491131,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy_EcrWgA0nIRJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2097761614816563625",
+    "fullText": "Mastering QuickBooks 2026 — Complete guide to small business accounting with US QuickBooks Online: https://t.co/cZQO6LKanK [7th Edition]\n\nAmazon Summary:\n\"Mastering QuickBooks 2026 is here to break everything down into clear, practical steps so you can stop second-guessing your numbers and start feeling in control of your business’s finances. The author, Crystalynn Shelton, is a licensed CPA, a small business advisor, and a QuickBooks Top 100 ProAdvisor. The book has been designed to help small business owners and entrepreneurs overcome their fear of bookkeeping. This book aims to make bookkeeping a walk in the park, so that you can focus on your core business – just as you had always imagined!\"\n\n\"By referring to Mastering QuickBooks 2026, you can automate your invoices, payments, and expense tracking with AI Agents and learn to use Intuit Assist for reconciliations, cash flow analysis, and forecasting. If you’re exploring multi-channel sales for your business, this book can guide you through eCommerce integrations with Shopify, Amazon, and Square. The book also includes updated chapters on payroll, inventory, and compliance to help you stay aligned with the latest regulations.\"\n\n\"Additionally, Mastering QuickBooks 2026 includes ready-to-use QuickBooks Online templates and tips and tricks from the author on YouTube.\"",
+    "createdAt": "Wed Sep 09 18:58:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 264167,
+      "friendsCount": 190,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy-e7-aYAAV8SU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2097761161202581800",
+    "fullText": "We’re joining the @AWSstartups program as an Activate Exclusive Offers partner.\n\nNow, eligible startups can now access up to $10,000 in LangSmith credits to help them build, test, evaluate, deploy, and operate agents on @awscloud.\n\nInterested in getting started? Visit https://t.co/SXAXQYBws3",
+    "createdAt": "Wed Sep 09 18:56:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 455647,
+      "friendsCount": 598,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2097756313480479217",
+    "fullText": "iPhone Duo is the ultimate upgrade to your agentic coding setup.\n\nI'm running around a dozen parallel agents on my iPhone, and I can't ever go back.\n\nThread on how you can escape the matrix.\n\n↓ (1/42)",
+    "createdAt": "Wed Sep 09 18:37:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_normal.jpg",
+      "description": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
+      "followersCount": 1523088,
+      "friendsCount": 271,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097754595216805898/vid/avc1/1280x720/0AnLOkaQT88JY1e9.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/GoogleDeepMind/status/2097756121582743931",
+    "fullText": "From tracking hurricanes to optimizing renewable energy grids,  @PeterWBattaglia and @fryrsquared explore how WeatherNext 3 is shaping how we model forecasts and prepare in a fast-changing climate.\n\nPodcast timecodes:\n00:00 Introduction \n00:38 Hurricane Melissa\n11:50 Why weather forecasting is hard\n14:13 Traditional models vs AI models \n21:55 Probabilistic forecasting \n26:00 WeatherNext 3 \n33:00 Future outlook \n43:44 Hannah's reflections",
+    "createdAt": "Wed Sep 09 18:36:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn about AI Agents for FREE here: https://t.co/P5SA9u54xO",
+      "followersCount": 318194,
+      "friendsCount": 1022,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy5cMrbIAAY5XR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2097755424007373270",
+    "fullText": "Another banger paper from Google.\n\nIf you build memory for long-horizon agents, this one is worth your time.\n\n(bookmark it)\n\nReally nice to see how knowledge graphs are being explored in creative ways for agents. This has lots of implications for self-evolving agents.\n\nTechnical summary below:\n\nAgents usually pick actions by generating over an accumulating history, which leaves the procedural knowledge implicit. As trajectories get longer they lose track of objectives, call tools out of order, and repeat actions that did not work.\n\nThe Procedural Graph helps to make that knowledge explicit.\n\nA knowledge graph stores facts as entity-relation-entity triplets. A Procedural Graph stores procedures as procedure-relation-procedure triplets, so the agent can query what to do next and under which conditions.\n\nAt each step, the framework localizes the agent's active node, and a guidance model turns the surrounding subgraph into step-level guidance that biases the next action without dictating it.\n\nThe graph rewrites itself.\n\nAn LLM refiner compares failed trajectories against successful ones and edits the topology and attributes, committing only edits that hold up on held-out validation, and keeping the rejected ones on file so the same change is not proposed twice.\n\nStarting from a minimal skeleton it builds graphs that match or beat hand-designed ones, and it helps to repair a flawed expert priors instead of inheriting them.\n\nPaper: https://t.co/YZdhtzsSS2",
+    "createdAt": "Wed Sep 09 18:34:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 172715,
+      "friendsCount": 1305,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy3eaVbQAAUqCp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2097754211618623503",
+    "fullText": "iPhone Duo 国行起售价 15999 了\n\n1T 版本要 21499 太可怕了\n\n而且国内需要 10 月 16 日才能预购 23 日发售\n\n下面还写了需要在批准后发售，难道是还有可能延期的意思？\n\n这手机全球只有 esim 版本 https://t.co/3sS9Hu9oJo",
+    "createdAt": "Wed Sep 09 18:29:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241623948,
+      "friendsCount": 1405,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2097753657714573749",
+    "fullText": "If you want to reach the smartest people in the world, advertise on 𝕏",
+    "createdAt": "Wed Sep 09 18:27:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 481984,
+      "friendsCount": 1614,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2097753557571191155",
+    "fullText": "Maybe it's because my hands are small but the iPhone Duo looks massive to me",
+    "createdAt": "Wed Sep 09 18:26:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "character_ai",
+      "name": "Character.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097483970745339904/7BxXDKPD_normal.jpg",
+      "description": "Unleash your imagination—chat, create, explore.",
+      "followersCount": 148242,
+      "friendsCount": 13,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRy1QEiakAAwvYQ.jpg",
+      "https://pbs.twimg.com/media/HRy1QEhbUAAmKEi.jpg",
+      "https://pbs.twimg.com/media/HRy1QEjbgAA_i5A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/character_ai/status/2097751741987213650",
+    "fullText": "🪩 CREATOR SPOTLIGHT: Zairisu 🪩\n\nwith a background in indie game development, Zairisu brings an experimental mindset to https://t.co/UCt2gUhpUs - playing with props, aesthetics, and prompts to bring their Scenes to life 🎮✨\n\nstep into Zairisu’s world at https://t.co/r9G6O2uthI !(๑>◡<๑)",
+    "createdAt": "Wed Sep 09 18:19:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 246528,
+      "friendsCount": 1719,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2097743074210279559",
+    "fullText": "刚才我 Codex 突然左下角提示我的额度只有 7% 了，但我记得之前还有 70% 左右，还以为当前任务消耗太大，继续用提示只有 6% 了。\n\n去设置页查了一会发现用量正常，正在想要不要用充值卡，现在又恢复正常了，显示有 75% 剩余，不知道你们有没有遇到类似问题？",
+    "createdAt": "Wed Sep 09 17:44:57 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
@@ -454,6 +1072,24 @@
     "tweetUrl": "https://x.com/nathanbenaich/status/2097673158463553946",
     "fullText": "wait but this story of muse calling and speaking in Croatian is weird bc my muse said it cannot make phone calls… https://t.co/FFZBakb1MS",
     "createdAt": "Wed Sep 09 13:07:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "corleonecapital",
+      "name": "Vito",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1836468592478490624/JaPZwDBT_normal.jpg",
+      "description": "Family man, investor, screenwriter. I like talking stocks and AI. Nothing I write is financial advice.",
+      "followersCount": 615,
+      "friendsCount": 994,
+      "location": "Orlando, FL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRxtXvOaYAAWwCf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/corleonecapital/status/2097672004237213970",
+    "fullText": "Gemini Spark is a shit product\n\nI’ve tried dozens of times to have it do something - anything - and it either refuses or outright bugs the fuck out\n\nWho is accountable for this @sundarpichai @OfficialLoganK @joshwoodward @GeminiApp @demishassabis \n\nWhy is this so shitty while Meta Muse and Grok Bot are awesome?\n\nWhy does it refuse to unsubscribe from emails within Gmail? Why does it flake out every time I ask a follow up? Why doesn’t it get better when I send info on it being shitty to a specific response?\n\nAlso, why doesn’t Gemini voice, an otherwise good product, keep changing voices mid convo, in a way that mimics a literal fucking horror movie?",
+    "createdAt": "Wed Sep 09 13:02:33 +0000 2026"
   },
   {
     "user": {
