@@ -1,6 +1,197 @@
 [
   {
     "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 62882,
+      "friendsCount": 374,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2098171482408956223",
+    "fullText": "introducing preemptible compute for together gpu clusters\n\nsame nvidia gpu infrastructure, 50% of the on-demand price\n\nbuilt for evals, fine-tuning, batch inference + short experiments, with up to 5 minutes to checkpoint before reclamation\n\nnow in public preview\nhttps://t.co/qcrFplNNUR",
+    "createdAt": "Thu Sep 10 22:07:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 482115,
+      "friendsCount": 1614,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2098165879490191483",
+    "fullText": "LIVE Gauntlet Cohort 6 Showcase Day https://t.co/AU43Etuc96",
+    "createdAt": "Thu Sep 10 21:45:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 290341,
+      "friendsCount": 336,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098165131796713472/vid/avc1/1920x1080/xh43iiDBleiRNZ9g.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2098165164713636283",
+    "fullText": "The Runway AI Summit speaker list is growing. We've just added a new group of voices to the lineup, joining us for a full day in San Francisco this September. Hear where AI is headed next, straight from the people building it. Register at the link below. https://t.co/4UXY7cljar",
+    "createdAt": "Thu Sep 10 21:42:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnimaAnandkumar",
+      "name": "Prof. Anima Anandkumar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2092855511029006336/DCV19usT_normal.jpg",
+      "description": "AI+Science, Co-Founder @accelerated_u, Bren Professor @caltech, Time100, Fmr Sr Director of #AI research @nvidia Fmr Principal Scientist @awscloud",
+      "followersCount": 46255,
+      "friendsCount": 2461,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnimaAnandkumar/status/2098164857682248068",
+    "fullText": "My guest post on Terence Tao's famous blog: https://t.co/C6KcYhYowE\n\nThank you Terry for giving us this opportunity and talking about our work from the very moment we launched on September 7th even before @OpenAI did. \n\nIn the post, I go into how our method takes a different starting point: designing physics-AI (PINN) to discover singular candidates rather than human constructed ones. \n\nMaking PINN optimization work for the first time for unforced Euler in R^3, converting that numerical solution to certified bounds which are then used in analytical stability arguments: we develop new tools to bridge numerical computation with analysis, and we believe it has much broader applications in theory. \n\nPhysics-AI in the form of Neural Operators have already been successful in so many applications, including training the first AI-based high-resolution weather model, and most recently making density functional theory in quantum chemistry quasi-linear time. There is a wealth of new research to be done here!",
+    "createdAt": "Thu Sep 10 21:40:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 97002,
+      "friendsCount": 1108,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098164619814613000/vid/avc1/1920x1080/cEOND9NED4EisucW.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2098164683349823521",
+    "fullText": "AI is showing up everywhere. The next step is making sure teams can actually see what’s being used, what it costs, and whether it’s working.\n\n@matei_zaharia and @kuhlenhuth walk through how Unity Gateway helps teams answer questions like:\n• Who’s using what?\n• What’s it costing?\n• Is it delivering quality outcomes?\n\nThey also cover how Omnigent helps builders safely combine and share the coding agents and SDKs they already use.\n\nWatch now: https://t.co/VVk8yxxpw8",
+    "createdAt": "Thu Sep 10 21:40:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491197,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR4q0puXsAYkIwp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098162276734026091",
+    "fullText": "Just released! New book from @PacktPublishing \n\n\"Multi-Agent AI Engineering: Design, build, and operate AI systems that think and act as coordinated teams\"\n\nGet it at https://t.co/9kt6ry4JAR\n\n𝓣𝓪𝓫𝓵𝓮 𝓸𝓯 𝓒𝓸𝓷𝓽𝓮𝓷𝓽𝓼:\n🟣Introduction to Multi-Agent Systems\n🟡Principles of Multi-Agent Systems\n🟢Frameworks and Mental Models\n🟣Constructing Your First Agents\n🟡Agent Communication and Collaboration\n🟢Context Management in Agents\n🟣Orchestrating Agent Teams\n🟡Unified Abstractions and Protocols for Agent Collaboration\n🟢Design Patterns for Multi-Agent Collaboration\n🟣Comparative Survey of Frameworks\n🟡Evaluating the Performance and Behaviors of Multi-Agent Systems\n🟢Security and Online Guardrails for Multi-Agent Systems\n🟣Observability for Agentic AI\n🟡Self-Evolving Multi-Agent Systems\n🟢Deploying and Scaling Multi-Agent Systems\n🟣Case Studies from Real-World Applications\n🟡Emerging Research and Industry Trends\n🟢Conclusions and Future Outlook",
+    "createdAt": "Thu Sep 10 21:30:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NaveenGRao",
+      "name": "Naveen Rao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2087023262236921858/GCaQr6e4_normal.jpg",
+      "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
+      "followersCount": 38924,
+      "friendsCount": 973,
+      "location": "Incline Village, NV"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NaveenGRao/status/2098159993715655133",
+    "fullText": "Doomerism is like Hinduism...they assume you are a member of the religion whether or not you know it yet.",
+    "createdAt": "Thu Sep 10 21:21:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 131725,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR4khuzbEAAdvjh.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2098154641854992676",
+    "fullText": "Another interesting approach to self-evolve agent skills.\n\nBut it's important to know that skill self-evolution loops fail in two specific ways:\n\n1. Direction instability. Effective corrections get overwritten by iteration-local feedback instead of accumulating, so the loop keeps undoing its own fixes.\n\n2. Fixed update scope. Every revision changes about the same amount regardless of whether recent case-level improvements were consistent or noisy.\n\nSkillAdam addresses both by porting Adam's two moment estimates to discrete, non-differentiable skill documents.\n\nAs a functional analogue of the first moment, an optimization memory records identified problems and the outcomes of prior solution attempts, which stabilizes the update direction. As an analogue of the second moment, a volatility-driven edit budget tracks the history-weighted variation of recent case-level improvements and controls how large each revision is allowed to be.\n\nAcross seven benchmarks spanning short and long-horizon tasks it reaches state of the art with more stable optimization dynamics, and it gets there in substantially fewer iterations and at lower cost than prior methods.\n\nPaper: https://t.co/mwMvfycpVF",
+    "createdAt": "Thu Sep 10 21:00:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 664596,
+      "friendsCount": 889,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR4i32dbEAAmEzg.jpg",
+      "https://pbs.twimg.com/media/HR4i32dbIAAh_Hp.jpg",
+      "https://pbs.twimg.com/media/HR4i32daQAAiXp2.jpg",
+      "https://pbs.twimg.com/media/HR4i32eaEAACQhM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2098152822886039780",
+    "fullText": "reading the reviews of muse on the app store made my day 💌\n\nit’s so cool to see how everyone is using muse—our goal was to make ai to make people’s lives better! https://t.co/XGgSjpGrdN",
+    "createdAt": "Thu Sep 10 20:53:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 224419,
+      "friendsCount": 222,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2098151432771998201",
+    "fullText": "Our CEO and Co-Founder, @ml_angelopoulos, joined @kleinerperkins for a new episode of Grit.\n\nThey discuss @arena's real-world vantage point on the rapid pace of AI progress: including how open models are closing key performance gaps, Chinese labs are advancing the frontier, and more.\n\nhttps://t.co/wPvWkRMa2Q",
+    "createdAt": "Thu Sep 10 20:47:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
+      "followersCount": 318399,
+      "friendsCount": 1029,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR4X26laQAAEV4t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2098140712504332411",
+    "fullText": "This is a brilliant paper.\n\nIt's of the cleanest long-context agent designs I have seen in the past couple of months.\n\nSequential memory agents read chunks one after another while maintaining a compact memory state.\n\nThis behavior ties reasoning depth to document traversal and makes accuracy sensitive to where the evidence sits. It also makes latency grow linearly with document length.\n\nPARSER decouples the two.\n\nA bank of lightweight subagents, each bound to a single chunk, reads the whole document in parallel.\n\nA lead agent reasons through iterative scatter-gather rounds, broadcasting a query to all subagents, aggregating the returned evidence, and forming a deeper follow-up query conditioned on what it has found.\n\nAll the learnable behavior is build into the lead agent, which is trained with RL. The subagents stay frozen off-the-shelf models.\n\nOn multi-hop QA from 7K to 896K tokens, a 4B PARSER beats the strongest sequential memory baseline by 5.7 points on average and 12.0 points at 896K. At 9B it passes DeepSeek-V4-Pro by 6.3 points.\n\nControlled experiments show it holds up under perturbations to evidence position, order and distance, which cause large accuracy swings in sequential methods, while cutting inference latency by up to 11x.\n\nPaper: https://t.co/lpCsLALdDv",
+    "createdAt": "Thu Sep 10 20:05:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "OpenAIDevs",
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
@@ -584,6 +775,24 @@
     "tweetUrl": "https://x.com/KirkDBorne/status/2098079066209329640",
     "fullText": "The Mathematics of Large Language Models — A Readable Guide to LLMs, Transformers, Diffusion, Neural Networks, and Generative AI: https://t.co/3sDIaIroX8 https://t.co/2xfkXFD5pl",
     "createdAt": "Thu Sep 10 16:00:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MelMitchell1",
+      "name": "Melanie Mitchell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1417524012104785928/HENn1FzD_normal.jpg",
+      "description": "Professor, Santa Fe Institute.  Mostly posting  on https://t.co/4NpA2IL5Va (at-melaniemitchell). More thoughts at https://t.co/nC43NHRozX.",
+      "followersCount": 51477,
+      "friendsCount": 672,
+      "location": "Santa Fe, NM"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR3ff0MaoAAAZPP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MelMitchell1/status/2098078745794073003",
+    "fullText": "I am baffled by why journalists are treating the \"&gt;10% risk of human extinction\" as a novel claim worthy of expansive reporting.  There is nothing new here, and no new \"evidence\" for this evidence-free claim. https://t.co/iCNw2PXNle",
+    "createdAt": "Thu Sep 10 15:58:48 +0000 2026"
   },
   {
     "user": {
@@ -2164,6 +2373,22 @@
     "tweetUrl": "https://x.com/Austen/status/2097885048351375631",
     "fullText": "My home screen is now ~50% apps that didn’t exist a couple years ago https://t.co/iFw7Ip48zm",
     "createdAt": "Thu Sep 10 03:09:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 489024,
+      "friendsCount": 13543,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2097861866538373279",
+    "fullText": "the bostrom wager is insane ( gamble humanity to prevent individual deaths now ). there are few ideas so preposterously selfish. “dragon-tyrant” lunacy must be retired. eight billion natural deaths is not even close to close to the scale of tragedy of human extinction",
+    "createdAt": "Thu Sep 10 01:37:00 +0000 2026"
   },
   {
     "user": {
