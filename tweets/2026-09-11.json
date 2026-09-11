@@ -1,0 +1,311 @@
+[
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 247596,
+      "friendsCount": 1720,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097796173356515331/vid/avc1/1920x1080/73ECx0dKcN75MA5W.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2098203738205024315",
+    "fullText": "这期播客是 The Pragmatic Engineer 对 OpenAI Codex 团队负责人 Thibault（Tibo）的访谈，聊了 Codex 的诞生、技术决策、工程文化以及软件开发方式的变迁。https://t.co/AEv4YPnSZl\n\n以下是核心要点：\n\n个人经历与加入 OpenAI\n\nThibault 是比利时人，学应用数学出身，先后做过制药供应链优化的创业公司，在 Google 做过加速移动网页的项目（后被砍掉，让他学到了要时刻审视项目真实影响力的教训），之后在 Google Maps 做评论，再转到 DeepMind。在 DeepMind 期间，他参与了一个内部聊天机器人的开发——本质上就是 ChatGPT，但比 ChatGPT 早了一年。内部传播很快，大家都在分享对话，但 DeepMind 不具备把它作为产品发布的机制，最终没能推出。\n\n后来他得知 ChatGPT 只有大约 20 个人在维护，这让他既震惊又觉得很有吸引力——这意味着极高的个人影响力。于是他加入 OpenAI，进去就赶上了推理模型的冲刺，大约一个月后 o1 preview 就发布了。\n\n为什么用 Rust 写 Codex\n\n这是一个反直觉的决定——当时模型对 Rust 的支持并不好，业界其他 AI 编码工具基本都用 TypeScript 或 Python。但团队从第一性原理出发，认为智能体的核心需要健壮、安全、高效，而 Rust 的编译时验证特性天然适合智能体场景。同时用不同语言也强制建立了产品界面和智能体核心之间的清晰边界，避免代码耦合。事实证明 Rust 确实\"很快就变得非常适合智能体开发\"。\n\n开源和模型无关的策略\n\nCodex CLI、SDK 都是开源的，而且支持非 OpenAI 模型——这在主要 AI 实验室中是独一无二的。理由很实际：如果不开源，别人只需改十行代码就能 fork 出一个支持其他模型的版本，那还不如自己直接支持。开源的好处包括新员工入职前就已经熟悉代码库、社区贡献、以及逼迫自己靠模型和产品体验赢用户而非靠锁定。\n\n代价也很明显：竞争对手会在你还没发布的时候就抄走你正在公开开发的功能，\"确实有点刺痛\"；还有大量低质量 PR 需要处理。\n\n工程文化与代码审查的变革\n\n新员工入职后听到最多的一句话是\"你问过 Codex 了吗？\"——因为 Codex 在 OpenAI 内部接入了 Slack、文档、所有代码，几乎任何问题都能给出不错的回答。\n\n代码审查正在发生质变。OpenAI 开发了专门的代码审查模型，能在逻辑推理和安全漏洞检测上达到\"超人水平\"——可以深入三四层依赖去发现文档错误导致的不变量违反。安全审查已经是强制自动化的，发现安全问题会直接阻止合并。一个 PR 可以当天提交、当天上线到十亿用户的 ChatGPT 上。\n\n代码审查的角色正在从\"正确性检查\"转向\"意图讨论\"——你到底想做什么？这件事值不值得做？这种讨论不一定要围绕代码发生。\n\n维护成本和重构的变化\n\n维护一直是软件工程的\"税\"，但现在大量维护工作（依赖升级、安全补丁）可以完全自动化。更重要的是，重新架构的成本也急剧下降——以前可能要花几个月甚至几年的重构，现在快得多。但好的架构设计反而更重要了：设计好\"盒子\"和不变量，盒子内部随便改都不影响其他部分。\n\nHarness 与模型的关系\n\n一个有趣的洞察：harness（工具/脚手架）总是\"走在模型前面\"。Codex 团队的工作本质上是为模型搭建拐杖——提醒它跑测试、保持目标一致等。然后下一代模型训练时会把这些能力内化，拐杖就可以去掉，developer message 也会越来越短。最新一代模型已经不再需要 /goal 命令来保持长期任务的专注，\"你直接告诉模型去工作一周，它就真的会做到\"。\n\nCodex 与 ChatGPT 的合并\n\n这是一个重大工程挑战：Codex 原本完全本地运行，ChatGPT 是托管云服务，两套完全不同的技术栈要统一。目标是让云端版本具备本地版本同样的能力，同时高效到能纳入 20 美元/月的 Plus 计划。ChatGPT Work 模式本质上是在云端虚拟机里运行完整的 Codex harness，机器配置强大到用户可以在里面训练模型、安装 Blender 做 3D 建模。\n\n有趣的是，Codex 在整个合并过程中还充当了\"记者\"角色，因为它能访问所有 Slack 讨论和文档，记录了团队的辩论和决策过程。\n\nThibault 的个人用法与建议\n\n他大量使用手机上的 ChatGPT Work，通过语音口述发送任务，定制了专属的技能和指令来生成他能高效消化的报告和幻灯片。任何问题——公众舆情、生产日志、功能使用率分析、团队动态——30 分钟内都能得到答案。周末他还会用 Codex 做代码探索和原型，\"一天之内就能把脑子里的想法变成可以展示给人看的东西\"。\n\n对工程师的建议：保持深度好奇心，训练自己快速理解系统的能力（\"五个为什么\"不断追问），以及与你服务的用户群体保持同步——如果你无法清晰表达意图，就很难做出好的工作。",
+    "createdAt": "Fri Sep 11 00:15:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 339392,
+      "friendsCount": 428,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2098200629067854059",
+    "fullText": "p(Doom) is dressed up regret minimax",
+    "createdAt": "Fri Sep 11 00:03:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1075245,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR5HjAPacAAijeB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2098193145498636592",
+    "fullText": "first principles all the way down https://t.co/d3bGsOmU73",
+    "createdAt": "Thu Sep 10 23:33:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 727817,
+      "friendsCount": 829,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2098190206319112333",
+    "fullText": "Astra is making better memes than redditors, it's over",
+    "createdAt": "Thu Sep 10 23:21:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305859,
+      "friendsCount": 8472,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2098188331813109814",
+    "fullText": "Fields Medal too cheap to matter.",
+    "createdAt": "Thu Sep 10 23:14:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 417992,
+      "friendsCount": 890,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2098185184440914322",
+    "fullText": "Beyond a software competition amongst top AI labs, it's beginning to look a lot like the largest construction project of our generation.",
+    "createdAt": "Thu Sep 10 23:01:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kseniase_",
+      "name": "Ksenia Se",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052505877165256707/27iQfyjT_normal.jpg",
+      "description": "Finding patterns in AI: past, present, possible futures. Building @TheTuringPost, researching @T2_Diplomacy, talking at https://t.co/aKNWULV76o. Mom of 5",
+      "followersCount": 5206,
+      "friendsCount": 1590,
+      "location": "Join over 105,000 readers at"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098177270158434315/vid/avc1/1080x1080/CGJA3Z9pqzNY5yYj.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kseniase_/status/2098178754300244049",
+    "fullText": "World models vs. LLMs – what do LLMs still miss?\n\nLLMs predict the next token, but they don’t build the kind of internal representation world models aim for.\n\nThe idea with a world model is to build that representation around what actually matters for what happens next – and ignore what doesn’t. LLMs still struggle with that.\n\nI'm very grateful to @labenz and @myprak for creating space to reflect on where AI is taking us. We discussed AGI, open source, world models, and more.\n\nWatch the full conversation: https://t.co/C7O9K9iVxd",
+    "createdAt": "Thu Sep 10 22:36:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491188,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098175640105071021",
+    "fullText": "Explore this huge curated collection of some of the best mathematics books ever written — spanning classical foundations, probability, analysis, geometry, and problem-solving texts used by mathematicians, scientists, engineers, and AI researchers: https://t.co/7ixaFw1vfi\n\nThe list is organized by these topics: \nMath\nMachine Learning\nPhysics\nEconometrics\nOptimization\nInformation Theory\nSignal Pprocessing\nHistory\nProbability",
+    "createdAt": "Thu Sep 10 22:23:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 62889,
+      "friendsCount": 374,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2098171482408956223",
+    "fullText": "introducing preemptible compute for together gpu clusters\n\nsame nvidia gpu infrastructure, 50% of the on-demand price\n\nbuilt for evals, fine-tuning, batch inference + short experiments, with up to 5 minutes to checkpoint before reclamation\n\nnow in public preview\nhttps://t.co/qcrFplNNUR",
+    "createdAt": "Thu Sep 10 22:07:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 482128,
+      "friendsCount": 1614,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2098165879490191483",
+    "fullText": "LIVE Gauntlet Cohort 6 Showcase Day https://t.co/AU43Etuc96",
+    "createdAt": "Thu Sep 10 21:45:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 290343,
+      "friendsCount": 336,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098165131796713472/vid/avc1/1920x1080/xh43iiDBleiRNZ9g.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2098165164713636283",
+    "fullText": "The Runway AI Summit speaker list is growing. We've just added a new group of voices to the lineup, joining us for a full day in San Francisco this September. Hear where AI is headed next, straight from the people building it. Register at the link below. https://t.co/4UXY7cljar",
+    "createdAt": "Thu Sep 10 21:42:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnimaAnandkumar",
+      "name": "Prof. Anima Anandkumar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2092855511029006336/DCV19usT_normal.jpg",
+      "description": "AI+Science, Co-Founder @accelerated_u, Bren Professor @caltech, Time100, Fmr Sr Director of #AI research @nvidia Fmr Principal Scientist @awscloud",
+      "followersCount": 46287,
+      "friendsCount": 2462,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnimaAnandkumar/status/2098164857682248068",
+    "fullText": "My guest post on Terence Tao's famous blog: https://t.co/C6KcYhYowE\n\nThank you Terry for giving us this opportunity and talking about our work from the very moment we launched on September 7th even before @OpenAI did. \n\nIn the post, I go into how our method takes a different starting point: designing physics-AI (PINN) to discover singular candidates rather than human constructed ones. \n\nMaking PINN optimization work for the first time for unforced Euler in R^3, converting that numerical solution to certified bounds which are then used in analytical stability arguments: we develop new tools to bridge numerical computation with analysis, and we believe it has much broader applications in theory. \n\nPhysics-AI in the form of Neural Operators have already been successful in so many applications, including training the first AI-based high-resolution weather model, and most recently making density functional theory in quantum chemistry quasi-linear time. There is a wealth of new research to be done here!",
+    "createdAt": "Thu Sep 10 21:40:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 97007,
+      "friendsCount": 1108,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098164619814613000/vid/avc1/1920x1080/cEOND9NED4EisucW.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2098164683349823521",
+    "fullText": "AI is showing up everywhere. The next step is making sure teams can actually see what’s being used, what it costs, and whether it’s working.\n\n@matei_zaharia and @kuhlenhuth walk through how Unity Gateway helps teams answer questions like:\n• Who’s using what?\n• What’s it costing?\n• Is it delivering quality outcomes?\n\nThey also cover how Omnigent helps builders safely combine and share the coding agents and SDKs they already use.\n\nWatch now: https://t.co/VVk8yxxpw8",
+    "createdAt": "Thu Sep 10 21:40:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491188,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR4q0puXsAYkIwp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098162276734026091",
+    "fullText": "Just released! New book from @PacktPublishing \n\n\"Multi-Agent AI Engineering: Design, build, and operate AI systems that think and act as coordinated teams\"\n\nGet it at https://t.co/9kt6ry4JAR\n\n𝓣𝓪𝓫𝓵𝓮 𝓸𝓯 𝓒𝓸𝓷𝓽𝓮𝓷𝓽𝓼:\n🟣Introduction to Multi-Agent Systems\n🟡Principles of Multi-Agent Systems\n🟢Frameworks and Mental Models\n🟣Constructing Your First Agents\n🟡Agent Communication and Collaboration\n🟢Context Management in Agents\n🟣Orchestrating Agent Teams\n🟡Unified Abstractions and Protocols for Agent Collaboration\n🟢Design Patterns for Multi-Agent Collaboration\n🟣Comparative Survey of Frameworks\n🟡Evaluating the Performance and Behaviors of Multi-Agent Systems\n🟢Security and Online Guardrails for Multi-Agent Systems\n🟣Observability for Agentic AI\n🟡Self-Evolving Multi-Agent Systems\n🟢Deploying and Scaling Multi-Agent Systems\n🟣Case Studies from Real-World Applications\n🟡Emerging Research and Industry Trends\n🟢Conclusions and Future Outlook",
+    "createdAt": "Thu Sep 10 21:30:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NaveenGRao",
+      "name": "Naveen Rao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2087023262236921858/GCaQr6e4_normal.jpg",
+      "description": "CEO @unconvai. Former CEO MosaicML/Databricks & Nervana/IntelAI. Neuro + CS. I like to build stuff that will eventually learn how to build other stuff.",
+      "followersCount": 38932,
+      "friendsCount": 973,
+      "location": "Incline Village, NV"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NaveenGRao/status/2098159993715655133",
+    "fullText": "Doomerism is like Hinduism...they assume you are a member of the religion whether or not you know it yet.",
+    "createdAt": "Thu Sep 10 21:21:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 131724,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR4khuzbEAAdvjh.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2098154641854992676",
+    "fullText": "Another interesting approach to self-evolve agent skills.\n\nBut it's important to know that skill self-evolution loops fail in two specific ways:\n\n1. Direction instability. Effective corrections get overwritten by iteration-local feedback instead of accumulating, so the loop keeps undoing its own fixes.\n\n2. Fixed update scope. Every revision changes about the same amount regardless of whether recent case-level improvements were consistent or noisy.\n\nSkillAdam addresses both by porting Adam's two moment estimates to discrete, non-differentiable skill documents.\n\nAs a functional analogue of the first moment, an optimization memory records identified problems and the outcomes of prior solution attempts, which stabilizes the update direction. As an analogue of the second moment, a volatility-driven edit budget tracks the history-weighted variation of recent case-level improvements and controls how large each revision is allowed to be.\n\nAcross seven benchmarks spanning short and long-horizon tasks it reaches state of the art with more stable optimization dynamics, and it gets there in substantially fewer iterations and at lower cost than prior methods.\n\nPaper: https://t.co/mwMvfycpVF",
+    "createdAt": "Thu Sep 10 21:00:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 664717,
+      "friendsCount": 890,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR4i32dbEAAmEzg.jpg",
+      "https://pbs.twimg.com/media/HR4i32dbIAAh_Hp.jpg",
+      "https://pbs.twimg.com/media/HR4i32daQAAiXp2.jpg",
+      "https://pbs.twimg.com/media/HR4i32eaEAACQhM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2098152822886039780",
+    "fullText": "reading the reviews of muse on the app store made my day 💌\n\nit’s so cool to see how everyone is using muse—our goal was to make ai to make people’s lives better! https://t.co/XGgSjpGrdN",
+    "createdAt": "Thu Sep 10 20:53:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MelMitchell1",
+      "name": "Melanie Mitchell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1417524012104785928/HENn1FzD_normal.jpg",
+      "description": "Professor, Santa Fe Institute.  Mostly posting  on https://t.co/4NpA2IL5Va (at-melaniemitchell). More thoughts at https://t.co/nC43NHRozX.",
+      "followersCount": 51512,
+      "friendsCount": 674,
+      "location": "Santa Fe, NM"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR3ff0MaoAAAZPP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MelMitchell1/status/2098078745794073003",
+    "fullText": "I am baffled by why journalists are treating the \"&gt;10% risk of human extinction\" as a novel claim worthy of expansive reporting.  There is nothing new here, and no new \"evidence\" for this evidence-free claim. https://t.co/iCNw2PXNle",
+    "createdAt": "Thu Sep 10 15:58:48 +0000 2026"
+  }
+]
