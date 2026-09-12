@@ -1,0 +1,317 @@
+[
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 306045,
+      "friendsCount": 8472,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2098579776382365907",
+    "fullText": "Real Mathematics has never been tried.",
+    "createdAt": "Sat Sep 12 01:09:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 418024,
+      "friendsCount": 890,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2098577728861573367",
+    "fullText": "The most persuasive robotaxi ride is usually the boring one. No drama. No surprise. The vehicle simply gets you home.",
+    "createdAt": "Sat Sep 12 01:01:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
+      "followersCount": 318551,
+      "friendsCount": 1035,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR-k-csbIAAtwFu.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2098577348211994947",
+    "fullText": "What happens if you agents to run a town's economy?\n\nThis super interesting paper provides some insights:\n\nThey put 100 LLM agents in charge of a town economy for 26 simulated weeks, and they find that money stops moving.\n\nThe agents earn wages, run businesses and set prices on real Pokhara Lakeside geography, across 91 runs and 2.44M decisions.\n\nA 12x tourist shock raises business revenue 4.62x. Wages move 1.03x, and only 0.3% of 3,981 menu items are ever repriced.\n\nA cash transfer shows the same pattern. 96.7% of it is still unspent 311 steps later.\n\nHere is the interesting part for anyone building agent simulations. Swapping the underlying LLM changed every outcome they measured. Deleting the agents' memory changed none of them detectably.\n\nResults at the usual 1 to 2 week horizon also mislead. Wealth rankings look frozen at 2 weeks and only start to move by week 12.\n\nPaper: https://t.co/Kx8u1ZttyW\n\nChat with Paper: https://t.co/sqm4Q1NeNj",
+    "createdAt": "Sat Sep 12 01:00:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building first principles, sovereign AI @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 339615,
+      "friendsCount": 432,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2098564039483719727",
+    "fullText": "The Fields Medallists fear AI will break mathematics. I think it may let millions in. https://t.co/4C8k8BN7a6",
+    "createdAt": "Sat Sep 12 00:07:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37254,
+      "friendsCount": 1926,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2098560045235818654",
+    "fullText": "Anthropic 昨天的报告在圈内炸了，国内看的人不多，但对中国模型公司是近一年最硬的一份\"证据\"，下来预计将中美两边都会全面清查token工厂、模型公司和中转站。\n\n真正致命的不是\"蒸馏\"这个词，是 Moonshot 和 DeepSeek 被指控把用户请求静默转给 Claude，返回结果当自己的，蒸馏还算是道德层面的，这个是用户欺诈 + 数据跨境，海外企业客户听到这个，是直接换供应商的级别。\n\nAnthropic 的反制也说明了方向：推理轨迹改成摘要输出、加密、锁定上下文，OpenAI 早就藏 CoT，靠偷推理轨迹追赶前沿的窗口在关。\n\n几个判断：\n1、\"中转站\"这条灰色供应链会被大力清剿，而且不只是 Anthropic 一家\nOpenAI、Google 早就有同样指控，本周美国网安和情报机构也发了官方声明指控中国 AI 公司\"系统性提取\"，这次报告的价值在于把数据坐实了——1.51 亿、5380 个账号、账号集中在新加坡/日本——这是能拿去国会和制裁名单上用的证据格式。\n2、最伤的不是阿里，是 Moonshot 和 DeepSeek\n\"蒸馏\"在行业里有争议空间，但\"把用户请求偷偷转给 Claude 再当自己的返回\"是消费者欺诈 + 数据跨境双重问题，海外企业客户听到这个会直接跑，Kimi K3 刚在硅谷打开局面，时间点非常不利。\n3、CoT 蒸馏这条路会越来越窄\nAnthropic 已经把推理轨迹改成摘要 + 加密 + 锁上下文，OpenAI 早就藏 CoT，靠\"偷推理轨迹\"追赶前沿的窗口在收窄，后面得回到真正的 RL 和数据工程上。\n4、国内实验室海外合规成本上升\n账号验证、企业身份核实、地域封锁会更严；通过新加坡/日本壳公司走的路径已经被点名，这条路成本翻倍。\n5、这报告也证明了国产模型和 Claude 的差距在\"推理轨迹质量\"上，否则不会有人花这么大力气偷。对国产模型是打脸，也是差距坐标。\n\n报告是 Anthropic 单方面指控，归因没有第三方验证，几家大概率不回应，但这份报告的风格，大概率是给美国国会和制裁名单用的，国内token工厂会进入深度洗牌，后面不是阿猫阿狗都可以做了。\n\nhttps://t.co/eKz2Vld9pt",
+    "createdAt": "Fri Sep 11 23:51:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 482213,
+      "friendsCount": 1615,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR-GNIMaMAAnnZe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2098543527131009260",
+    "fullText": "Gauntlet AI cohort 6 is in the books.\n\nCongratulations! https://t.co/9r1ghqR5UI",
+    "createdAt": "Fri Sep 11 22:45:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491271,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR-C4lVX0AkWo54.jpg",
+      "https://pbs.twimg.com/media/HR-C4lla0AA40Eq.jpg",
+      "https://pbs.twimg.com/media/HR-C4lHXUAEVfDz.jpg",
+      "https://pbs.twimg.com/media/HR-C4lYW4AQL4oZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098539864899584461",
+    "fullText": "1 - Grokking Deep Learning: https://t.co/Q2F5JYInaO\n+\n2 - Grokking Machine Learning: https://t.co/qlHXgNe9Mj\n+\n3 - Grokking AI Algorithms: https://t.co/kfCgiz781h\n+\n4 - Grokking AI Applications: https://t.co/5vYBoVNB8q\n\n1+2+3+4=💯🏆 https://t.co/rzZCqNf7t4",
+    "createdAt": "Fri Sep 11 22:31:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491271,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR-CCITbIAAEF8Z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098538929246839060",
+    "fullText": "Hacking and Security: The Comprehensive Guide to Ethical Hacking, Penetration Testing, and Cybersecurity\n\nGet it at https://t.co/z0oaFI4uWV\n\n[99% 4- and 5-star reviews. 1141 pages] https://t.co/lzu7guN5SI",
+    "createdAt": "Fri Sep 11 22:27:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491271,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR-B8pnXcAIlvw6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098538834598179004",
+    "fullText": "From @PacktDataML — available at https://t.co/fmHgkRo26I\n\n\"AI-Native LLM Security — Threats, Defenses, and Best Practices for Building Safe and Trustworthy AI\"\n\n𝘽𝙤𝙤𝙠 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣:\n\"Adversarial AI attacks present a unique set of security challenges, exploiting the very foundation of how AI learns. This book explores these threats in depth, equipping cybersecurity professionals with the tools needed to secure generative AI and LLM applications. Rather than skimming the surface of emerging risks, it focuses on practical strategies, industry standards, and recent research to build a robust defense framework.\n\nStructured around actionable insights, the chapters introduce a secure-by-design methodology, integrating threat modeling and MLSecOps practices to fortify AI systems. You’ll discover how to leverage established taxonomies from OWASP, NIST, and MITRE to identify and mitigate vulnerabilities. Through real-world examples, the book highlights best practices for incorporating security controls into AI development life cycles, covering key areas such as CI/CD, MLOps, and open-access LLMs.\"",
+    "createdAt": "Fri Sep 11 22:27:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491271,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR-B2s-bUAAjL52.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098538731552796990",
+    "fullText": "🟠2nd Edition, 746 pages, massive!\n\nModern Computer Vision with PyTorch Deep Learning — from practical fundamentals to advanced applications and Generative AI: https://t.co/CNCENoTVfS v/ @PacktDataML\n\n𝓚𝓮𝔂  𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟣Understand the inner workings of various neural network architectures and their implementation, including image classification, object detection, segmentation, generative adversarial networks, transformers, and diffusion models.\n🔵Build solutions for real-world computer vision problems using PyTorch.\n🟢All code files are available on GitHub and can be run on Google Colab.",
+    "createdAt": "Fri Sep 11 22:26:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491271,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR-BxQkWkA049Je.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098538638283841761",
+    "fullText": "\"Adversarial AI Attacks, Mitigations, and Defense Strategies — A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps\"\n\nGet the book here: https://t.co/QKfdSIStKA\n\n586 pages from @PacktPublishing https://t.co/FQ7gyBuA2h",
+    "createdAt": "Fri Sep 11 22:26:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 306045,
+      "friendsCount": 8472,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2098536105692000400",
+    "fullText": "Lots of “scribes don’t like the printing press” energy today.",
+    "createdAt": "Fri Sep 11 22:16:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hardmaru",
+      "name": "hardmaru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
+      "description": "Co-Founder and CEO @SakanaAILabs 🎏",
+      "followersCount": 434043,
+      "friendsCount": 1900,
+      "location": "Minato-ku, Tokyo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR95wuiacAAqfLX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hardmaru/status/2098531497737412956",
+    "fullText": "Do large language models actually understand the world, or are they just very good at pretending? Does it even matter?\n\nOur recent special issue in the Royal Society, “World Models in Natural and Artificial Intelligence,” brings together pioneers across AI, biology, and philosophy to argue that the path to true intelligence runs through something deeper: the ability to model not just language, but causality, the self, and the physical world.\n\nFeaturing contributions from Douglas Hofstadter, Michael Levin, Josh Tenenbaum, Samuel Gershman, Melanie Mitchell, and others, the collection asks a radical question:\n\nWhat if the next leap in AI requires not just more data, but systems that model themselves?\n\nHere are 3 ideas that might redefine how we build AI:\n\n1. Capability is not the same as true intelligence.\n\nCurrent foundation models are incredibly capable, but they often lack true emergent intelligence. They learn surface statistics instead of compact, causal abstractions. Simply scaling compute will not fix this fundamental issue.\n\n2. Self-modeling is an engineering primitive, not a philosophical luxury.\n\nNew research in the issue shows that when networks learn to predict their own internal states, they compress and simplify, becoming more efficient as a form of regularization. For physical AI and future agents, a self-model is what will allow them to adapt their own skills and morphologies in real-time.\n\n3. The hardest problems in AI are continuous with the hardest problems of life.\n\nBiological minds do not passively ingest data; they actively explore, driven by empowerment to increase control over their environment. If world modeling is about an agent representing itself in relation to its environment to survive and adapt, then general AI may need to look much more like artificial life.\n\nThe takeaway is that the next leap in AI won’t come from just scaling up next-token prediction, but rather from systems that are agentic, self-referential, and temporally grounded.\n\nRead the introductory essay and the full special issue here: https://t.co/KnNJMiZ9lZ\n\nWhat do you think is the most important missing ingredient in today’s AI systems?",
+    "createdAt": "Fri Sep 11 21:57:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
+      "followersCount": 318551,
+      "friendsCount": 1035,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR97FTlagAAbxWz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2098531286319341932",
+    "fullText": "Very cool paper on memory compression for agents.\n\nIf you run many agent sandboxes in parallel for RL or evals, memory becomes highly redundant. This work suggests that compressing against that redundancy cuts sandbox memory by up to 8.7x.\n\nMemory is becoming the capacity limit for high-fanout agent workloads.\n\nOne task can spawn many concurrent sandboxes, and they all start from the same template and run related trajectories.\n\nHKUST researchers measured 76 to 96% of pages with template-relative or cross-sandbox redundancy.\n\nAgentZip compresses pages against the template and against sibling sandboxes, including pages that are similar without being identical.\n\nIt runs expensive compression while the agent is waiting on the LLM, and it prefetches pages at restore time to control slowdown.\n\nResults:\n\nSandbox-owned memory drops by up to 8.7x, against 2.1x for the Linux configuration. Aggressive compression slows execution by 3.1x on its own, and the scheduling and prefetching bring that down to 1.40x.\n\nPaper: https://t.co/AxW5WrgPLr\n\nChat with Paper: https://t.co/FXrRtzHkHm",
+    "createdAt": "Fri Sep 11 21:57:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491271,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR96TcqbwAAtOHF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098530433176592388",
+    "fullText": "Code Revealed — Practical guide to AI agents, workflows, and modern application practices: https://t.co/6GIA4qLXeW via @PacktPublishing @PacktDataML\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🟣Distinguish agents from simpler AI coding assistants\n🟣Assess tool fit using capability and autonomy criteria\n🟣Structure prompts through richer Context Engineering\n🟣Use plans and logs to supervise non-trivial AI tasks\n🟣Design workflows for prototyping, refactoring, and QA\n🟣Prevent hidden risk from churn, bias, and hallucinations\n🟣Reorganize teams around emerging AI-native roles\n🟣Build skills for orchestration, review, and governance",
+    "createdAt": "Fri Sep 11 21:53:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491271,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR96FjVWEAoacyB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098530218210148638",
+    "fullText": "Agentic Coding with OpenAI Codex CLI — Build intelligent agent workflows using Agentic Engineering, MCP, hooks, and delivery automation: https://t.co/O5dy3iUKSv via @PacktPublishing @PacktDataML \n\n𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨:\n🔵What Is Codex CLI?\n🟠Getting Started with Codex CLI\n🔵Prompting Codex CLI Effectively\n🟠AGENTS.md: Patterns and Pitfalls\n🔵Approval Modes and Trust Boundaries\n🟠Model Selection and Reasoning Effort\n🔵Context Window Management\n🟠MCP: Consuming and Serving\n🔵Hooks: Intercepting the Agent Lifecycle\n🟠The Skills Ecosystem: Using and Writing Skills\n🔵Sub-Agents and Parallel Execution\n🟠Multi-Agent Orchestration Patterns\n🔵Worktrees and Isolated Execution\n🟠Cost Management and Quota Strategy\n🔵CI/CD Integration\n🟠Security Hardening\n🔵Enterprise Deployment\n🟠Debugging and Diagnosing Agent Failures",
+    "createdAt": "Fri Sep 11 21:52:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491271,
+      "friendsCount": 3359,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2098527663769952272",
+    "fullText": "Another great workshop hosted by @PacktPublishing\n🌟🌟🌟\n“Build Production-Ready AI Agents: From Workflow to Deployment”, presented by Ashley Nicholson\n✨✨✨\nSee more details and Register at https://t.co/13Alh361Yc — my 40% OFF discount code will be automatically applied.",
+    "createdAt": "Fri Sep 11 21:42:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 482213,
+      "friendsCount": 1615,
+      "location": "Austin, TX"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR9yWNFX0AQBg__.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2098521682973544852",
+    "fullText": "RIP creator program 🙏 https://t.co/U8mCPhzoDh",
+    "createdAt": "Fri Sep 11 21:18:52 +0000 2026"
+  }
+]
