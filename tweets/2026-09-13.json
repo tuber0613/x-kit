@@ -1,11 +1,265 @@
 [
   {
     "user": {
+      "screenName": "johnschulman2",
+      "name": "John Schulman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1389000537195040770/DzWPljT-_normal.jpg",
+      "description": "@thinkymachines. Interested in reinforcement learning, alignment, birds, jazz music",
+      "followersCount": 81779,
+      "friendsCount": 2193,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/johnschulman2/status/2099193668917997880",
+    "fullText": "would be nice if anthropic's approach to elon could also work with china",
+    "createdAt": "Sun Sep 13 17:49:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
+      "followersCount": 319136,
+      "friendsCount": 1040,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSHNB8haIAEEngq.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2099184337195565335",
+    "fullText": "Looped transformers are a popular architecture topic right now.\n\nThis new technical report extends the loop across tokens.\n\nRecurrent Looped Transformer (RLT) makes the decoder recurrent over every token, prompt and response included.\n\nA causal encoder builds global KV memory. For each new token, the decoder combines the token's encoder representation with its own final hidden state from the previous token and a sliding-window cache of recent activations.\n\nWith a 48-layer decoder, the computation path after t tokens runs through 48t decoder blocks, while each token still executes a fixed number of blocks. Depth grows with the sequence and per-token cost stays the same.\n\nThe same state transition is used for pretraining, SFT, sampling and RL replay, and nothing resets at the prompt-response boundary. RL replay rebuilds states under the current weights instead of reusing stale rollout states.\n\nThe report is a design proposal. The author states that reasoning gains, hardware speedups and RL scaling are goals that have not been measured yet.\n\nPaper: https://t.co/rSSuuWijR3\n\nChat with Paper: https://t.co/fVDQaGdfpX",
+    "createdAt": "Sun Sep 13 17:12:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 306019,
+      "friendsCount": 8473,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2099040126882263040/vid/avc1/752x560/xotyNU5z-rhu3vu5.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/tunguz/status/2099180857538073035",
+    "fullText": "We got ourselves some time. At least a couple of weeks. https://t.co/RBI1oKQ3n3",
+    "createdAt": "Sun Sep 13 16:58:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 242787,
+      "friendsCount": 7162,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2099177050536120384",
+    "fullText": "Long dissection of Dario’s essay coming soon, putting together skepticism from everyone across the political and techinical spectrum, from  @DavidSacks to  @fchollet to  @HeidyKhlaaf, and a shout to @timnitGebru @mmitchell_ai and @rajiinio whose ideas Dario seems to have nicked without attribution.",
+    "createdAt": "Sun Sep 13 16:43:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 482651,
+      "friendsCount": 1616,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2099176928657687031",
+    "fullText": "If you ask ChatGPT something about ChatGPT, it uses an \"OpenAI product guidance\" skill, which makes so much sense. \n\nIf you ask Claude about Claude, it basically tells you that the product you're using doesn't exist because it's not in the weights yet.",
+    "createdAt": "Sun Sep 13 16:42:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 418218,
+      "friendsCount": 894,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2099173981597077798",
+    "fullText": "Everyone wants to be early AND nobody wants to look stupid today (if they fail, something goes wrong, you name it). Those are the same price, paid at different times. Start your goal, and work tirelessly for it. And if you fail, great! The best inventors failed many times before a breakthrough.",
+    "createdAt": "Sun Sep 13 16:30:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 132048,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2099168306863190147",
+    "fullText": "https://t.co/B0r0rw2yrC",
+    "createdAt": "Sun Sep 13 16:08:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "levie",
+      "name": "Aaron Levie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+      "description": "ceo @box - your business lives in content. unleash it with AI",
+      "followersCount": 3449976,
+      "friendsCount": 948,
+      "location": "Bay Area"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSG-KVSa8AA94Vx.jpg",
+      "https://pbs.twimg.com/media/HSG-KVSacAAljKW.jpg",
+      "https://pbs.twimg.com/media/HSG-KVSbUAA7q-H.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/levie/status/2099167992835924301",
+    "fullText": "“Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to hobble competitors through undue regulation. \n\nHowever, the specific improvement goals laid out in Dario’s are absolute necessities in AI development. We expect equivalent in areas like aerospace, life sciences, health care, and other industries, and AI development likely shouldn’t be that different. \n\nAI is going to be the technology underpinning our financial trading systems, our medical devices, our biotech breakthroughs, defense systems, government workflows, and many more mission critical domains. So it completely stands to reason that we want these systems to be safe and “aligned”. \n\nHow we get there -without meaningfully slowing down innovation progress or reducing competition- is one of the most complex questions in the 21st century, but the need is clearly real.",
+    "createdAt": "Sun Sep 13 16:07:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 350027,
+      "friendsCount": 20428,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSG8mo6X0AUeZ_4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2099166276195156233",
+    "fullText": "Beginner-friendly LLM course exploring foundations, architectures, training, deployment, and current trends: https://t.co/4lQcEGmPR5\n\nv/@Hesamation https://t.co/vNzieQyhgq",
+    "createdAt": "Sun Sep 13 16:00:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 668610,
+      "friendsCount": 894,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2099164106490347745",
+    "fullText": "i am so proud of the @Muse team.\n\nif you knew them you wouldn't be surprised muse came out the way it did. they are soulful and thoughtful people, hard workers, brilliant, fighters - the kind who take the hard problem, stay with it through every dead end, and don't let up until it's solved.\n\ni’m lucky to work with them. every detail of the product and the model was turned over in somebody's hands, worried over, chosen on purpose by a thoughtful soul. that’s the whole secret. good people, good work.",
+    "createdAt": "Sun Sep 13 15:51:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "YiMaTweets",
+      "name": "Yi Ma",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
+      "description": "Chair Professor of AI, Hong Kong University\nPursuing a Mathematical Theory of Intelligence:\nhttps://t.co/leZlkUQDhL",
+      "followersCount": 125569,
+      "friendsCount": 797,
+      "location": "Hong Kong and Berkeley"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSG5q4kagAAPH1O.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/YiMaTweets/status/2099163053292232713",
+    "fullText": "https://t.co/mStdkXaWo6",
+    "createdAt": "Sun Sep 13 15:47:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "notmisha",
+      "name": "Misha Denil",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1788400083639169024/ODLsRr9C_normal.jpg",
+      "description": "I tweet about things that interest me, mostly machine learning things. ex-DeepMind.",
+      "followersCount": 25499,
+      "friendsCount": 855,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/notmisha/status/2099158677047357853",
+    "fullText": "My favorite feature of claude right now is that if you ask him to orchestrate a mixed swarm of claude and codex workers then he's consistently a little bit racist against codex.",
+    "createdAt": "Sun Sep 13 15:30:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 306019,
+      "friendsCount": 8473,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSGyZW5bcAAMzSw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2099155059494056115",
+    "fullText": "Scam alert: this is probably a hacked fake account purporting to be someone working at OpenAI. https://t.co/Syi9WcLWzn",
+    "createdAt": "Sun Sep 13 15:15:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SchmidhuberAI",
+      "name": "Jürgen Schmidhuber",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
+      "description": "OG of: P and T in ChatGPT, 100x deeper learning, meta learning and RSI, neural distillation, GAN/World Model... Co-authored most-cited AI paper of 20th century",
+      "followersCount": 218427,
+      "friendsCount": 0,
+      "location": "Switzerland, KSA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SchmidhuberAI/status/2099154145093529868",
+    "fullText": "It was fun to be on Filipe Barata's podcast https://t.co/sgwax865Wb",
+    "createdAt": "Sun Sep 13 15:12:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 158839,
+      "friendsCount": 3376,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2099149775392407718",
+    "fullText": "Reply with things you want a personal ai assistant to do for you\n\nMore instinct invites, here\nhttps://t.co/e9BTrmOFNY",
+    "createdAt": "Sun Sep 13 14:54:41 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "jackclarkSF",
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
-      "followersCount": 145518,
+      "followersCount": 145648,
       "friendsCount": 4616,
       "location": "San Francisco, CA"
     },
@@ -21,7 +275,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "ex-head of product @x",
-      "followersCount": 1334520,
+      "followersCount": 1334640,
       "friendsCount": 2063,
       "location": "Palo Alto"
     },
@@ -37,7 +291,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 97128,
+      "followersCount": 97137,
       "friendsCount": 1108,
       "location": "HQ: San Francisco, CA"
     },
@@ -331,8 +585,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 490697,
-      "friendsCount": 13586,
+      "followersCount": 490830,
+      "friendsCount": 13588,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -1247,5 +1501,23 @@
     "tweetUrl": "https://x.com/hq4ai/status/2098788162189635894",
     "fullText": "尤栗Yuri的演唱会圆满落地。忙到现在总算能发个帖子，几千人的现场几乎全满了，最后一首歌时，大家都没走。站在最后看着这一幕，很难相信那一刻是真实的。\n百米巨幕12k，我们证明了AIGC完全能在线下创造视觉奇观。正式节目本周陆续更新。 https://t.co/BQ7s9pQqBZ",
     "createdAt": "Sat Sep 12 14:57:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hardmaru",
+      "name": "hardmaru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
+      "description": "Co-Founder and CEO @SakanaAILabs 🎏",
+      "followersCount": 434568,
+      "friendsCount": 1900,
+      "location": "Minato-ku, Tokyo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR95wuiacAAqfLX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hardmaru/status/2098531497737412956",
+    "fullText": "Do large language models actually understand the world, or are they just very good at pretending? Does it even matter?\n\nOur recent special issue in the Royal Society, “World Models in Natural and Artificial Intelligence,” brings together pioneers across AI, biology, and philosophy to argue that the path to true intelligence runs through something deeper: the ability to model not just language, but causality, the self, and the physical world.\n\nFeaturing contributions from Douglas Hofstadter, Michael Levin, Josh Tenenbaum, Samuel Gershman, Melanie Mitchell, and others, the collection asks a radical question:\n\nWhat if the next leap in AI requires not just more data, but systems that model themselves?\n\nHere are 3 ideas that might redefine how we build AI:\n\n1. Capability is not the same as true intelligence.\n\nCurrent foundation models are incredibly capable, but they often lack true emergent intelligence. They learn surface statistics instead of compact, causal abstractions. Simply scaling compute will not fix this fundamental issue.\n\n2. Self-modeling is an engineering primitive, not a philosophical luxury.\n\nNew research in the issue shows that when networks learn to predict their own internal states, they compress and simplify, becoming more efficient as a form of regularization. For physical AI and future agents, a self-model is what will allow them to adapt their own skills and morphologies in real-time.\n\n3. The hardest problems in AI are continuous with the hardest problems of life.\n\nBiological minds do not passively ingest data; they actively explore, driven by empowerment to increase control over their environment. If world modeling is about an agent representing itself in relation to its environment to survive and adapt, then general AI may need to look much more like artificial life.\n\nThe takeaway is that the next leap in AI won’t come from just scaling up next-token prediction, but rather from systems that are agentic, self-referential, and temporally grounded.\n\nRead the introductory essay and the full special issue here: https://t.co/KnNJMiZ9lZ\n\nWhat do you think is the most important missing ingredient in today’s AI systems?",
+    "createdAt": "Fri Sep 11 21:57:52 +0000 2026"
   }
 ]
