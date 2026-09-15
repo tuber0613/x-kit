@@ -1,11 +1,136 @@
 [
   {
     "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 134825,
+      "friendsCount": 553,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSP9eqsaUAAJ0-7.jpg",
+      "https://pbs.twimg.com/media/HSP9eqxaEAAGfgm.jpg",
+      "https://pbs.twimg.com/media/HSP9eqvbcAAB26G.jpg",
+      "https://pbs.twimg.com/media/HSP9eq6aIAAv5U0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kling_ai/status/2099830602304249900",
+    "fullText": "On September 10, Kling AI joined TIFF: The Market 2026, connecting with the global film community through an industry panel, networking reception, and on-site showcase.\n\nFrom feature-length animation to real-world production workflows, we explored how AI video is becoming part of professional filmmaking.\n\nAt Cannes, Toronto, and beyond, Kling AI continues to join leading film festivals and help advance AI video’s role in production.",
+    "createdAt": "Tue Sep 15 12:00:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 78239,
+      "friendsCount": 1685,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2099814292933484544/vid/avc1/1080x1920/kDHM9FtMBD4jas4w.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/bengoertzel/status/2099815526511874333",
+    "fullText": "On @DarioAmodei's (likely half-sincere) AI Slowdown proposal ... a hard no from me and from reality. https://t.co/1FRGpB2nes",
+    "createdAt": "Tue Sep 15 11:00:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hq4ai",
+      "name": "汗青 HQ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
+      "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
+      "followersCount": 37069,
+      "friendsCount": 589,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2099802989498396672/vid/avc1/2538x1080/nWsWFl3uirX5rwrj.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/hq4ai/status/2099803596296691863",
+    "fullText": "云烟成雨｜外滩大会xYuri AI音乐会\n感谢房东的猫与Yuri的跨次元联动。太喜欢这个组合了。\n有些支持，不是靠说出来，而是站在身边。\n感谢房东的猫愿意来现场，多年后，希望这是一个有意义的时刻。\nhttps://t.co/W3W1Gvm1hm",
+    "createdAt": "Tue Sep 15 10:12:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37304,
+      "friendsCount": 1930,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HSP8c8saMAAERAT.mp4"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2099801428168724920",
+    "fullText": "当医疗大模型开始进入问诊辅助、用药咨询、健康管理等真实场景，一个很自然的问题会出现：AI给出的回答真的可靠吗？\n\n一般做法是外挂式护栏，大模型先回答，用另外一个审核模型再把问题和答案重新读一遍，判断是否违规、是否有风险\n\n问题是贵、慢、还容易看不懂复杂上下文\n\n蚂蚁刚发布并开源了一套内生式运行时护栏：SingProbe，让模型一边生成答案，一边同步给自己打风险分\n\n它不是重新读文本，是从主模型已有的hidden states里读风险信号，针对每个基座模型训练一个约3–5M的小探针，像“读数器”一样，从主模型中间状态里读出风险分数\n\n每个token输出几类分数：用户意图是否有风险、已生成回答是否不安全、内容幻觉风险有多高。因为只依赖当前已生成前缀，所以可以做到流式实时预警，风险刚露头就能告警、截断、重试或切换策略\n\n在Ling-3.0-flash生产环境的decode阶段，额外开销小于 0.5%\n\n医疗版中，AI答错的地方，可以现场把25%的错误拗回来，并且它平时不全程干预，风险触发后才在有限窗口内纠偏\n\n#SingProbe #AI安丛护栏",
+    "createdAt": "Tue Sep 15 10:04:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149450,
+      "friendsCount": 5498,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2099797079916781962",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Tue Sep 15 09:46:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hq4ai",
+      "name": "汗青 HQ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
+      "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
+      "followersCount": 37069,
+      "friendsCount": 589,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2099776655183286272/vid/avc1/1920x1080/jV_9Q0HcKpbcmiae.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/hq4ai/status/2099778727781794240",
+    "fullText": "为蓝.斩霄｜外滩大会xYuri AI音乐会 02首\nAI与中国民乐的现场合奏，灵感来自北宋千里江山图。得益于100米的巨幕，可以把千里江山图的长卷在线下缓缓展开。 https://t.co/cO463GgxEl",
+    "createdAt": "Tue Sep 15 08:33:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 483340,
+      "friendsCount": 1619,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2099750764402946515",
+    "fullText": "Confirming ownership of @KellyClaudeAI on @dexscreener with 1789454045414",
+    "createdAt": "Tue Sep 15 06:42:48 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "levie",
       "name": "Aaron Levie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
       "description": "ceo @box - your business lives in content. unleash it with AI",
-      "followersCount": 3452962,
+      "followersCount": 3453347,
       "friendsCount": 948,
       "location": "Bay Area"
     },
@@ -21,7 +146,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241650763,
+      "followersCount": 241650475,
       "friendsCount": 1406,
       "location": ""
     },
@@ -660,5 +785,39 @@
     "tweetUrl": "https://x.com/dotey/status/2099622850097303576",
     "fullText": "黄仁勋正在洛杉矶 All-In Summit 做台上访谈，手机突然响了，打来的是美国总统特朗普。黄仁勋接起电话，切成免提，现场观众直接听到了总统的声音。https://t.co/zpUnA1i4lp\n\n两天前，Anthropic CEO Dario Amodei 发表了一篇近四千字的长文《We Must Pace the Frontier》，呼吁 AI 行业主动放慢能力提升速度，给安全研究留出追赶时间。文章发出后，OpenAI 的 Sam Altman 公开表态同意，Elon Musk 也发了三个字：\"Dario is right。\"整个行业氛围突然转向了\"该踩刹车\"。\n\n特朗普显然不买账。他当天早上先在 Truth Social 上发文反驳，紧接着就打进了黄仁勋的台上访谈。电话里，特朗普把话说得很直：\"AI 不会接管世界，机器人不会接管世界，整件事就是个骗局。\"他说数据中心让原本衰落的社区变得富裕，AI 比互联网还大，反对建数据中心的人\"正中那些不希望美国赢的人下怀，可能是政客，也可能是中国\"。\n\n黄仁勋全程附和，回应说：\"您说得对，我们不会让那种事发生。我们会确保美国在 AI 竞赛中，每个行业、每家公司、每个州、每个人都赢。\"",
     "createdAt": "Mon Sep 14 22:14:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 492137,
+      "friendsCount": 13607,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2099596570895560751",
+    "fullText": "95% of all stars that will ever be born have been born. whether we live in an “early universe” or not depends mostly on the habitability of red dwarf stars, that last hundreds of billions of years",
+    "createdAt": "Mon Sep 14 20:30:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dylanbowmanSF",
+      "name": "Dylan Bowman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2054564690030895105/sZ3P6fzs_normal.jpg",
+      "description": "currently: pre-deployment team lead @ApolloResearch. formerly: waiting in the void for my flesh to be wrought",
+      "followersCount": 1443,
+      "friendsCount": 773,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSJbtvda0AIzdpc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dylanbowmanSF/status/2099341220707475522",
+    "fullText": "Apparently this is YLC’s presentation at ECCV from last week, there’s no way this is real right? https://t.co/olFKa4pfEi",
+    "createdAt": "Mon Sep 14 03:35:25 +0000 2026"
   }
 ]
