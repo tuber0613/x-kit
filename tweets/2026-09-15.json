@@ -1,11 +1,144 @@
 [
   {
     "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 492393,
+      "friendsCount": 13607,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2100000955588841816",
+    "fullText": "when telling the story of this, one of the game mechanics that people will find the most confusing is “bureaucratic dysfunction”. very few intuitively understand the distributed nature of knowledge and expertise inside large organizations",
+    "createdAt": "Tue Sep 15 23:16:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 444437,
+      "friendsCount": 687,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2099999180483895759",
+    "fullText": "If you do &gt; 1B tokens a day in batched api requests with OpenAI or Anthropic, would love to talk to you to learn about ups/downs of implementing batching. \n\nDM",
+    "createdAt": "Tue Sep 15 23:09:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 243115,
+      "friendsCount": 7166,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2099996839198314511",
+    "fullText": "live on Vargas @NewsNationTV in a sec",
+    "createdAt": "Tue Sep 15 23:00:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 671479,
+      "friendsCount": 896,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2099984011791839542",
+    "fullText": "something most folks who use muse won't ever know or appreciate was the degree to which this was @natfriedman's baby.\n\nit has been one of the great honors of my career watching nat cook. he assembled and ran the team, and so many of the little details that people love came from his beautiful mind.\n\nnat is one of the great artists of our time with products as his medium. more people should experience his brilliance, and with muse, they can ❤️",
+    "createdAt": "Tue Sep 15 22:09:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 249252,
+      "friendsCount": 1723,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2099982947394687156",
+    "fullText": "Anthropic 工程师讲了一堂 FDE 入门课 \nhttps://t.co/kakqFy0ZGZ\n\nKevin Bai 现在在 Anthropic 的 Applied AI 团队，之前是 Rippling FDE 团队的创始成员，再之前在 Palantir 干了好几年。最近他做了一个 FDE 101 的分享，把前线部署工程师这个角色讲得很清楚，值得总结一下。\n\n先说一个数据：在上市 SaaS 公司里，按平均合同金额排，Palantir 是 400 万美元，ServiceNow 120 万，Workday 60 万，剩下的没有一家能超过 50 万。Palantir 靠几千人做到了别人几万人做不到的客单价。靠的就是 FDE 模式。\n\nFDE 到底在解决什么问题？\n\nPalantir 的产品 Foundry 是一个应用构建平台，技术门槛很高，但买家是石油、消费品这些行业的非技术高管。你把一个复杂的技术平台丢给一个不会写代码的人，指望他自己搞明白怎么用，这不现实。\n\n所以 Palantir 的做法是：客户买的既不是软件产品，也不是咨询服务，而是一个\"结果\"。你派工程师过去，深入理解客户的业务场景，在平台上给他们把东西建出来。客户关心的是货架上多了多少商品、产线效率提升了多少，他们不关心数据怎么组织的，也不该关心。\n\nFDE 和外包开发有什么区别？\n\nKevin 特别强调了一点：如果你的工程师每次都从零给客户写定制代码，那你做的不是 FDE，是外包开发。FDE 模式能成立，前提是你有一个可复用的平台。工程师是在平台已有的基础能力上组装和定制，不是每次重新造轮子。没有平台，维护成本会吞掉所有利润，工程师也会因为要维护几十个毫无关联的代码库而跑路。\n\n要不要搞 FDE？两个问题就能判断。\n\n第一，你是不是必须把一个技术复杂的东西卖给非技术买家？如果你的客户本身就是工程师，比如卖 GitHub 或者 Datadog 的，不需要 FDE。如果你的产品本身就是开箱即用的，比如 Slack 或者 Jira，也不需要。只有你的产品很复杂、客户又不懂技术的时候，FDE 才有必要。\n\n第二，你有没有一个可复用的平台？或者你愿不愿意投入去建一个？没有共享的基础组件，FDE 就是不可持续的。\n\n2026 年的新变化是什么？\n\nKevin 的判断很有意思：软件行业做生意的方式本身变了，AI 让构建软件变得极其容易，几乎所有平台都在走向 Agent 化，这意味着几乎所有平台都变得高度可定制。后果就是：越来越多的客户搞不清楚你的产品到底能做什么。你把产品的成败交给客户自己去摸索，在 Agent 时代会越来越难走通。\n\n这就把 FDE 从 Palantir 独有的小众玩法，变成了更多软件公司需要认真考虑的事情。\n\n最后一个问题：什么样的人适合做 FDE？\n\nKevin 的回答很简洁：FDE 就是一个你信任到可以让他直接面对客户的软件工程师。技术能力是基本盘，但你还得放心让他代表公司去跟客户打交道。",
+    "createdAt": "Tue Sep 15 22:05:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 159287,
+      "friendsCount": 3382,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2099982348611993693",
+    "fullText": "Having @ChrisPainterYup President, @METR_Evals on @NoPriorsPod to talk about the state of AI alignment. Questions??",
+    "createdAt": "Tue Sep 15 22:03:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 214777,
+      "friendsCount": 596,
+      "location": "Venice, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSSckjGbMAAL6S_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2099978878345474512",
+    "fullText": "on \"Pacing the Frontier\"\n\n(My view on the state of play.) \n\nInternally, Anthropic and OpenAI (and emergingly SpaceXai) are 1 to 2 generations ahead of what's available to external parties. They are banking a lead against the openweight model providers as well as the fine-tuners developing for specific verticals. \n\nRecursive self-improvement is a myth, but having access to wildly performant internal tooling, plus being able to access that tooling at cash cost rather than paying margin on top, gives their staff accelerating advantage versus the rest of the market.  Hence this year's wild performance gains, many of which delivered to customers.\n\nThe recent series of model releases and optimizations that have accelerated cost-performance improvements to 99.99% per year were partly catalyzed by OpenAI trying to reel in Anthropic commercially but are also driving continued market expansion. Demand is skyrocketing, the frontier lab companies see amazing margins since they are forced to price against a scarce compute resource. Additional releases could drive even better margins, but the capability of this next set of systems could well result in accidental botnet infestations being unleashed by unwitting customers.\n\nSuch an occurrence would impose huge political as well as civic liability on the closed labs, so they need to co-agree not to jockey for position as they clean up that liability. If botnet infestations are an inevitability, much much better that the first notable large-scale attack comes from an openweight model. Better still if the closed labs then have the tool available that can clean it up and help to protect the rest of the world's vulnerable infrastructure. \n\nIf, on the other hand, any of the US labs are the cause of the economically costly disruption, it will be very difficult for even a more blameless US lab to charge for the solution without facing severe political (and potentially regulatory) blowback.  \n\nThey've built a lead, better now to let their common enemies cross the dangerous threshold first while internally compounding their own advantage against the rest of the field.  Moreover, the safe solution that they propose--the tool to fix the botnet infestations--will be an AI tool paired with an AI monitoring tool that will probably have to be run on their own infrastructure. I could imagine zero-data-retention-pledging mechanisms by which they could try to launch such a product but it would certainly be more expensive--also possible that palantir could provide more enterprise-friendly monitoring attachments, but those will almost certainly be less performant than vertically integrated solutions.  \n\nIn effect, just like the harness provided the closed labs with a higher degree of defensibility in terms of their business, the safety harness will similarly expand their entrenchedness. If there is some semi-co-opted regulatory apparatus that has to approve and monitor the safety harnesses, even more so!  \n\nNet, I would expect that the blistering pace of cost declines will dampen somewhat. In 2025 we were experiencing performance doublings every 1.5 months. In 2026, on the agentic benchmarks, doublings were coming every 4 weeks(!) If every other doubling is now eaten up by safety investments we could move to a 2 month doubling pace, a paltry 98% annualized cost decline.  \n\nNet the effective productivity delivery per GW could slow slightly, but considering the blistering pace of growth of the market overall, I don't think that it will that meaningfully impact the trajectory of corporate uptake and topline growth.  \n\nIf the botnet infestation concern does manifest, the closed lab providers will be extremely well set up to provide hardening and protection. Datacenters are far and away the most likely unintentional attack target though there could also be infestations of end-point infrastructure (your smart home stereo is burning more power because it has also been co-opted to run a VM for a little bot doing some sort of inane classification task at massive scale). (The more obviously politically salient targets are much more likely to be intentionally attacked rather than submit to unintentional infestation and so will almost certainly be performed on open weight models.)  \n\nI do think that space supercompute will prove more robust to botnet parasitic drag than will terrestrial datacenters due to its modularity and infrastructural simplicity (you won't see a botnet penetrate a satellite system via its air-conditioning system; whereas for a terrestrial datacenter that sort of thing may be the most likely penetration vector.)  \n\nI do think its wise for the closed model providers to seek a way to coordinate a slowdown, so they can let one of the openweight guys Wile E. Coyote off a cliff.  \n\nOn the margin, SpaceX is probably most advantaged, as they get a little more time to pull fully abreast at the frontier and likely have the more hardened infrastructure stack go-forward.  Most regulatory outcomes would favor the incumbents with a lead, though by allowing them to pad their margins rather than drive top-line as aggressively. \n\nThere remains a tail-risk regulatory clampdown outcome, which would be terrible for humanity, denying all of the benefits while exposing us to essentially the same level of risk. I don't think that is the likely case, however, in part because the tools are already proving so useful to so many.",
+    "createdAt": "Tue Sep 15 21:49:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 225946,
+      "friendsCount": 222,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSSYGPDa0AAv4Ia.jpg",
+      "https://pbs.twimg.com/media/HSSYGPEagAA6Xj5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2099971741993050236",
+    "fullText": "Image-to-WebDev Arena update: four newly evaluated model releases have landed!\n\n- #1 GPT-6 Astra (Max) by @OpenAI (1733 pts): 129 pts above GPT-5.6 Sol (xHigh), and 23 pts above the #2 ranked model\n\n- #2 Claude Fable 5.1 (Max) by @AnthropicAI (1710 pts): 87 pts above Fable 5 (1623 pts) and 45 above Claude Opus 5 (Max) in the #3 spot (1665 pts)\n\n- #4 Muse Spark 1.3 (Max) by @AIatMeta (1645 pts)\n\n- #10 GLM-5.3-Flash by @Zai_org (1588 pts)\n\nOf those, three have landed on the Pareto frontier: GPT-6 Astra (Max), Muse Spark 1.3 (Max) and GLM-5.3-Flash, delivering efficient performance to cost results! \n\nUsing the blended price per 1M tokens:\n- #1 GPT-6 Astra (Max): 1733 pts at $40/M\n- #3 Muse Spark 1.3 (Max): 1645 pts at $3.50/M\n- #4 GLM-5.3 Flash: 1588 pts at $0.21/M\n\nThe Image-to-WebDev leaderboard ranks models on their ability to generate websites from images and screenshots, alongside agentic coding workflows involving multi-step reasoning and tool use. Dive in at the link below.",
+    "createdAt": "Tue Sep 15 21:20:53 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "paulg",
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 5234280,
+      "followersCount": 5234982,
       "friendsCount": 799,
       "location": ""
     },
@@ -23,7 +156,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 491661,
+      "followersCount": 491680,
       "friendsCount": 3360,
       "location": "Maryland, USA"
     },
@@ -41,8 +174,8 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2095688960156815360/O8Pnwbii_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1109328,
-      "friendsCount": 5953,
+      "followersCount": 1109451,
+      "friendsCount": 5954,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -57,7 +190,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1076695,
+      "followersCount": 1076753,
       "friendsCount": 63,
       "location": "The Cloud"
     },
@@ -75,7 +208,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 243111,
+      "followersCount": 243115,
       "friendsCount": 7166,
       "location": ""
     },
@@ -93,7 +226,7 @@
       "name": "Stability AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2076698922530004993/kyQNkO9d_normal.jpg",
       "description": "We’ll help you make it like nobody’s business. Multimodal media generation and editing tools to get your idea to production. Self-deploy? 👍 Need a partner? 🤝",
-      "followersCount": 261539,
+      "followersCount": 261541,
       "friendsCount": 10,
       "location": ""
     },
@@ -112,7 +245,7 @@
       "name": "OpenAI Developers",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
       "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
-      "followersCount": 426949,
+      "followersCount": 427051,
       "friendsCount": 1,
       "location": ""
     },
