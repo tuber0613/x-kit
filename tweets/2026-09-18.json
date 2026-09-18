@@ -1,0 +1,603 @@
+[
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 249524,
+      "friendsCount": 1725,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2100733704582672384/vid/avc1/1920x1080/JCL9AKo2Tby9eqif.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2100746723178242197",
+    "fullText": "Jason Wei 在 Stanford AI Club 做了一场约 30 分钟的演讲，围绕三个他认为理解 2025 年 AI 格局最基本的思维框架展开。Jason Wei 目前在 Meta Superintelligence Labs 做研究，此前在 OpenAI 参与创建了 o1 和 Deep Research，更早在 Google Brain 推动了 chain-of-thought prompting 和 instruction tuning 的研究，累计被引超过 9 万次。\n\n一、智能正在变成大宗商品\n\n他把 AI 的进步分成两个阶段：第一阶段是推前沿，模型还做不好某件事，你在解锁新能力；第二阶段是一旦能力达成，它就会迅速被商品化。用 MMLU 基准测试的数据看，每一年达到同等智能水平所需的花费都在下降，这个趋势在他看来还会持续，核心原因是深度学习历史上第一次\"自适应计算\"真正跑通了。过去不管问题多简单多难，推理用的算力是固定的；现在从 o1 开始，模型可以根据问题难度动态调整推理时的算力投入，这意味着简单任务的成本可以被压到极低。\n\n另一个维度是获取公开信息的时间。他画了一条时间线：从前互联网时代到互联网时代、聊天机器人时代、再到 AI 智能体时代，找到一条信息所需的时间在指数级缩短。他举了一个例子——\"1983 年韩国釜山有多少对夫妇结婚？\"——o3 回答不了这个问题，但 OpenAI Operator 可以，因为它能打开韩国统计数据库 KOSIS，一路点击操作直到查到答案。OpenAI 内部用一个叫 BrowseComp 的基准来衡量这种\"知道答案就秒验证，但找答案极耗时\"的任务，人类平均每题花两小时以上，很多题根本做不出来，而 Deep Research 能解决大约一半。\n\n这个趋势带来几个推论：过去靠知识门槛建立壁垒的领域会被民主化，vibe coding 和个人健康管理是典型例子；公开信息近乎免费之后，私有内部信息的相对价值反而上升了——比如你知道哪些房子没上市但可以卖，这种信息会更值钱；最终每个人将拥有一个\"个性化互联网\"，想知道什么就有一个为你定制的页面呈现给你。\n\n二、验证者定律：能衡量的就能被 AI 攻克\n\n第二个框架是他所说的\"验证不对称性\"。有些任务，生成一个解比验证一个解难得多——数独是经典例子，写出能跑 Twitter 的代码需要大量工程师，但验证它能不能用只要打开网页点几下。另一些任务则相反：写一篇看起来有道理的事实性文章很快，但逐句核实极其费时；宣称\"最好的饮食是只吃野牛肉\"只花 10 秒，但验证这个说法需要大样本和长期跟踪。\n\n他在一个二维平面上把这些任务画出来：X 轴是生成难度，Y 轴是验证难度。关键洞察是，你可以通过提供\"特权信息\"来改变任务在这个平面上的位置——竞赛数学题如果给了答案就秒验证，写代码如果给了测试用例（像 SWE-bench 那样）验证也变得简单。\n\n由此他提出了 Verifier's Law：AI 训练出来在某个任务上的能力，基本上与该任务的可验证程度成正比。具体来说，可验证性取决于五个因素：是否有客观正确答案、验证速度多快、能否大规模并行验证、噪声大不大、以及奖励信号是连续的还是二元的。几乎所有 AI benchmark 本身就是因为容易验证才被设计出来的，而这些 benchmark 确实在过去几年被逐一攻破，这恰好是 Verifier's Law 的实例。\n\n他特别推荐了 DeepMind 的 AlphaEvolve 作为利用验证不对称性的范例。AlphaEvolve 挑选满足上述五个条件的问题——比如找到 11 个六边形的最优排列使外接六边形最小——然后用大语言模型采样大量候选解，自动评分，把最优解作为下一轮采样的灵感，不断迭代。关键技巧在于它绕过了泛化问题：训练集和测试集是同一道题，你就是想知道这一道题的最优解。\n\n这个框架的实际推论是：最先被自动化的任务一定是验证成本最低的任务；而一个正在崛起的创业方向是——发明新的衡量方法，把原本难以验证的任务变得可验证，从而让 AI 去优化它。\n\n三、智能的锯齿状边缘\n\n对于\"AI 将如何改变世界\"这个问题，他看到的观点光谱极广。他的一个量化交易员朋友觉得 ChatGPT 跟自己工作无关，而他在顶级实验室的同事则认为再过两三年 AI 就会取代他们自己的工作。\n\n他明确反对\"快速起飞\"假说——即一旦 AI 跨过某个临界点就会突然变成超级智能。他的理由是，AI 的自我改进不是一个二元开关，而是一个渐进光谱：从跑不起来代码，到能训练但结果一般，到能自主训练但不如顶尖研究者，再到偶尔还需要人工干预。更重要的是，自我改进的速度应该按任务来看。AI 的能力图谱是一条锯齿线：在某些任务上已经达到山峰（竞赛数学、部分编程），但在另一些任务上仍是低谷（比如 ChatGPT 曾长期认为 9.11 大于 9.9，或者说一门只有几百人会的原住民语言 Tlingit）。\n\n他给出了判断 AI 在某个任务上进步速度的三条启发式规则。第一，AI 擅长数字化任务，核心原因是迭代速度——数字环境可以轻松扩展算力，而物理机器人的实验扩展成本高得多。第二，人类觉得容易的任务 AI 也往往容易，但有一类例外是\"人类因生理限制做不到但 AI 可以做到\"的任务，比如读过一千万张乳腺影像后发现某个人类注意力无法捕捉的模式来预测乳腺癌。第三，数据充足的任务 AI 表现好——数学推理在不同语言上的表现和该语言的训练数据量高度相关；而如果一个任务有单一客观指标，就可以通过强化学习生成合成数据来突破数据瓶颈，AlphaEvolve 和 AlphaZero 都是这个路线。\n\n他用一张表把这些启发式规则应用到具体任务上：主流语言翻译已经完成；调试基础代码 2023 年搞定；竞赛数学 2024 年搞定；AI 研究本身大概 2027 年；化学研究因为不是纯数字任务会更晚；拍电影大概 2029 年；修水管和理发因为高度物理化，短期内不太可能；乌兹别克传统地毯编织需要一组人花一个月、非数字化且缺数据，AI 不太可能碰到；至于\"带女朋友约会让她满意\"——他的判断是\"impossible，非数字化，缺数据\"，人类还能保住饭碗。\n\nhttps://t.co/CIbwKE5n3X",
+    "createdAt": "Fri Sep 18 00:40:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 492510,
+      "friendsCount": 13614,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2100738964470849820",
+    "fullText": "pacing is the hot new word in San Francisco. no one knows what it means but it gets the people going",
+    "createdAt": "Fri Sep 18 00:09:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "jackclarkSF",
+      "name": "Jack Clark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
+      "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
+      "followersCount": 147155,
+      "friendsCount": 4611,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jackclarkSF/status/2100731156199334373",
+    "fullText": "@natolambert Thanks for your thoughts - this was a project I helped supervise as a follow-on to When AI Builds Itself. We're sharing this as a way to put more information and methodology for measuring RSI into the world. I agree with you the definitional aspects of this are v complicated",
+    "createdAt": "Thu Sep 17 23:38:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 418635,
+      "friendsCount": 897,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2100729143520330157",
+    "fullText": "Let's be real, we are NOT going to 'uninvent' digital intelligence. Instead, we should focus on how to steer it. Better evals, harder red-teaming, stronger institutions, and more transparency. We should not 'stop everything' either.",
+    "createdAt": "Thu Sep 17 23:30:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 428638,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2100725748252459008/vid/avc1/1280x720/ycYcppBHR8xUGHTT.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2100726653366534560",
+    "fullText": "Appshots 🤝 Windows\n\nGive ChatGPT context from the apps you’re working in and spend less time getting it up to speed.\n\nDebug an issue, grab a UI you want to recreate, pull in data from another app, and more. A lot less copying and pasting.\n https://t.co/zEbJIR5Q0L",
+    "createdAt": "Thu Sep 17 23:20:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 492510,
+      "friendsCount": 13614,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2100724332612006345",
+    "fullText": "“I worry about” “I’m concerned about” are becoming extremely high status sentiments, and the more esoteric the better. they indicate that you’re fighting the good fight and you’re an activist. but I much prefer to learn that someone is curious or fascinated about something",
+    "createdAt": "Thu Sep 17 23:11:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149450,
+      "friendsCount": 5500,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2100724209454333952/vid/avc1/1920x1080/zUQqe2__yxEsYHIX.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2100724252026519636",
+    "fullText": "MONTREAL ♡ AI\n\nYEARS IN THE MAKING. BUILT FOR THE SINGULARITY ERA.\n\nTHE MISSION: BUILD MONTREAL’S LARGEST AI BUSINESS.\n\nUNICORN STATUS IS THE FIRST TARGET.\n\nhttps://t.co/YNkY3FWbw3\n\nhttps://t.co/i4Rfe6rKI6 → $1B+ → ∞\n\n#MontrealAI https://t.co/EDQw5QSaR6",
+    "createdAt": "Thu Sep 17 23:11:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 676790,
+      "friendsCount": 897,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2100717269861167524",
+    "fullText": "the most underrated part of muse is the model that powers it. thank you to the MSL research team—some of the most technically brilliant, hardworking scientists and engineers i’ve ever known. you brought original ideas to difficult problems, invented new methods, and battled through enormous technical complexity to build the jewel at the heart of muse.\n\nthank you to the teams working on agentic post-training, tool and computer use, memory, personalization, alignment, safety, and multimodal understanding. thank you to the people building data, evals, and infrastructure beneath it all. so much scientific ingenuity lives in those details: designing a better experiment, finding the flaw in an apparently good result, staying with a stubborn problem until a new way forward becomes clear.\n\nand now that jewel powers a beautiful product your grandma can use without knowing a thing about the extraordinary complexity underneath. it will just work for her. all those discoveries, all that patient work, becoming something simple and useful in another person’s hands. there is something magical about that. i’m grateful to be building with you.",
+    "createdAt": "Thu Sep 17 22:43:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 676790,
+      "friendsCount": 897,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HSc5epCbQAAVEnO.mp4"
+    ],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2100714048329580957",
+    "fullText": "muse for mac is HERE!! your agent can now get stuff done right on your computer — files, messages, calendar, notes, all of it.\n\nyou're in control of what it can access, and it always asks before doing anything sensitive.\n\nAdd it to the dock - https://t.co/bFHgBZlkLj https://t.co/mecGVDzXiq",
+    "createdAt": "Thu Sep 17 22:30:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 97312,
+      "friendsCount": 1108,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HSc3G_AW0AECvaa.mp4"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2100708365382881424",
+    "fullText": "Getting an answer is only the start. The next step is turning that insight into something you can share, reuse, and act on.\n\nGenie One is adding more ways to keep that work in one place:\n\n• Turn conversations into collaborative documents\n• Save repeatable workflows as Genie Agents\n• Bring in more enterprise context with Genie Ontology snippets and file uploads\n• Take actions through connected MCP tools\n\nThere’s also a new desktop app, so Genie One is easier to keep close while you work. \n\nLearn more: https://t.co/B0z5PRqktu",
+    "createdAt": "Thu Sep 17 22:07:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSc2G2kXgAA31jB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100707245948318199",
+    "fullText": "Tensor Decompositions for Data Science [and Computational Science]: https://t.co/WofrhrRiGo\n——\n#ML #MachineLearning #DataScientist #DataScience #Mathematics\n——\nNote: Extensive background materials in linear algebra, optimization, probability, & statistics are included as appendices.",
+    "createdAt": "Thu Sep 17 22:03:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSc1tpPWMAARd-P.jpg",
+      "https://pbs.twimg.com/media/HSc1tpUWEAMryH8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100706812408242449",
+    "fullText": "Great for students (and the rest of us who need to refresh our knowledge) — 16 STUDY GUIDE books in the series, including Science (Chemistry, Biology,...), Mathematics (Algebra, Geometry,...), Computer Science (Coding), History, &amp; more.\n\nCheck them out: https://t.co/autte1RN0w https://t.co/2INrLlADbn",
+    "createdAt": "Thu Sep 17 22:01:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSc1gU8W8AArfnx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100706585106350381",
+    "fullText": "Analyzing Mathematical Patterns — Detection & Formulation — Inductive Approach to Recognition, Analysis and Formulations of Patterns: https://t.co/hmEE2gNzbp\n\nAmazon Summary: \"The book's goals are to train and expand students' analytical skills by presenting numerous repetitive-type problems that will lead to formulating results inductively and to the proof by induction method. The book aims to prepare students to establish a base of recognition and formulation of patterns that will navigate to study further mathematics such as Calculus, Discrete Mathematics, Matrix Algebra, Abstract Algebra, Difference Equations, and to potential research projects. The primary aims out of all are to make mathematics accessible and multidisciplinary for students with different backgrounds and from various disciplines.\"",
+    "createdAt": "Thu Sep 17 22:00:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 243259,
+      "friendsCount": 7171,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSc0NgxbUAAfPWA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2100705161228484823",
+    "fullText": "The sneaky new trend is to pretend that liability and regulation are in opposition. \n\nThey aren’t. I discuss here, with a shout out to Sen @HawleyMO (who once quizzed me about this stuff but who definitely gets it now) and a challenge to @DavidSacks to explain his logic. \n\nQuotes from @mcuban and @KarenKornbluh, too!\n\nhttps://t.co/SCDQq7phXK",
+    "createdAt": "Thu Sep 17 21:55:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScyRCzWQAASA-s.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100703023290880132",
+    "fullText": "New release from @PacktPublishing\n\n“System Design and Behavioral Intelligence: Master technical and behavioral interviews with proven design frameworks and AI-driven preparation”\n\nGet it at https://t.co/WByigykr6T https://t.co/IBiLM3VNDc",
+    "createdAt": "Thu Sep 17 21:46:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScxMy9XkAAKPdP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100701850324341099",
+    "fullText": "The Complete Machine Learning Engineer Cookbook for Everyone — Become an AI Developer with Python (in the AI Mastery series): https://t.co/myrx4cI4Wj https://t.co/3vYbfBbOaZ",
+    "createdAt": "Thu Sep 17 21:42:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1717760,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2100698843335831552/vid/avc1/3800x1522/6lc5C43UrHJwOo15.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2100701581109072332",
+    "fullText": "Biologists use specialized open-source models for tasks like modeling the structure of molecular systems, designing drug-like molecules, and predicting the effects of genetic mutations. But these models are often expensive to run, potentially limiting their impact.\n\nIn our latest Science Blog, we share how Claude was able to optimize inference for more than 30 open-source models, making them 4x faster on average, partly by writing custom software for GPUs. We’re open sourcing all of the optimization code.\n\nRead more: https://t.co/qiuN1jpgpA",
+    "createdAt": "Thu Sep 17 21:41:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 159514,
+      "friendsCount": 3385,
+      "location": "on ⛓"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScwPeaaQAATnBM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2100700797143261324",
+    "fullText": "“Why would I look at code? It’s like assembly, like a compiled artifact.”\n\nSensei @karpathy fully agentic, 18m after “I don’t really use autocomplete AI code tools” https://t.co/vpHs4a3ey8",
+    "createdAt": "Thu Sep 17 21:37:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScu52YXUAAX8p6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100699326066340290",
+    "fullText": "30 Agents Every AI Engineer Must Build — Build production-ready agent systems using proven architectures and patterns: https://t.co/ZHDA8ORSi9 v/ @PacktDataML\n—\nWhat you will learn:\n1️⃣Deploy production-ready agent systems that scale securely and reliably\n2️⃣Use LangChain and LangGraph to build autonomous agents with modular architectures\n3️⃣Implement agents with sophisticated memory, planning, and reasoning capabilities\n4️⃣Seamlessly integrate tools, APIs, and external data into agent workflows\n5️⃣Establish robust evaluation frameworks to measure and optimize agent performance\n6️⃣Implement guardrails and explainability features to ensure ethical and safe deployment\n7️⃣Build multi-agent systems for complex, collaborative task orchestration\n8️⃣Apply specific agent architectures across healthcare, finance, and legal domains",
+    "createdAt": "Thu Sep 17 21:32:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "oh_that_hat",
+      "name": "hattie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1849574118670336001/t5ZnEciH_normal.jpg",
+      "description": "Building friendly AI.",
+      "followersCount": 12697,
+      "friendsCount": 897,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/oh_that_hat/status/2100699176917205318",
+    "fullText": "plane banners should be illegal. how is it that the sky is now ad space.",
+    "createdAt": "Thu Sep 17 21:31:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScuoVTXUAA5FqX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100699024617586834",
+    "fullText": "Building Claude Skills — Turn repeatable work into reusable skills: https://t.co/gHq1nNQhLt\n+\nFind more best-selling AI/ML books by @PacktPublishing @PacktDataML here: https://t.co/3pWiuM4ulD https://t.co/BOe7N7RWBZ",
+    "createdAt": "Thu Sep 17 21:30:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScudzLXAAAUyma.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100698844292137400",
+    "fullText": "From @PacktDataML — available at https://t.co/fmHgkRozWg\n\n\"AI-Native LLM Security — Threats, Defenses, and Best Practices for Building Safe and Trustworthy AI\"\n\n𝘽𝙤𝙤𝙠 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣:\n\"Adversarial AI attacks present a unique set of security challenges, exploiting the very foundation of how AI learns. This book explores these threats in depth, equipping cybersecurity professionals with the tools needed to secure generative AI and LLM applications. Rather than skimming the surface of emerging risks, it focuses on practical strategies, industry standards, and recent research to build a robust defense framework.\n\nStructured around actionable insights, the chapters introduce a secure-by-design methodology, integrating threat modeling and MLSecOps practices to fortify AI systems. You’ll discover how to leverage established taxonomies from OWASP, NIST, and MITRE to identify and mitigate vulnerabilities. Through real-world examples, the book highlights best practices for incorporating security controls into AI development life cycles, covering key areas such as CI/CD, MLOps, and open-access LLMs.\"",
+    "createdAt": "Thu Sep 17 21:30:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScuYX4XkAA3G98.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100698750477910166",
+    "fullText": "\"Python Data Analysis: Master Python Analytics with Machine Learning, Deep Learning, GenAI, LLMs, and Data Engineering\" [4th Edition]\n\nAvailable at https://t.co/qmyT4iDyIo from @PacktPublishing @PacktDataML https://t.co/jbRnO5WHbn",
+    "createdAt": "Thu Sep 17 21:29:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScuESuXAAAPuay.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100698405391442058",
+    "fullText": "Build AI Agents for Network Operations — Design LLM-powered NetOps workflows with Python, Ollama, MCP, and tool calling: https://t.co/5Yw3PUixNu\n\nNew release from @PacktPublishing @PacktDataML https://t.co/Tw6KV7NlAq",
+    "createdAt": "Thu Sep 17 21:28:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSct-k-XgAAsx5j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100698307081240956",
+    "fullText": "Complex Network Analysis in Python — Recognize • Construct • Visualize • Analyze • Interpret: https://t.co/WXKTAQgqR2\n——————\n#DataScientist #DataScience #AI #ML #MachineLearning #Mathematics https://t.co/xl6Tcd0tgb",
+    "createdAt": "Thu Sep 17 21:28:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSct6GHXUAAmiQM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100698229985710565",
+    "fullText": "AI Networking Cookbook — Practical recipes for AI-assisted network automation and development: https://t.co/Mfilks0EcL via @PacktPublishing @PacktDataML https://t.co/Tf9jdQRV7Z",
+    "createdAt": "Thu Sep 17 21:27:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSctwUFW0AAFwYl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100698062934966489",
+    "fullText": "New release from @PacktDataML available at: https://t.co/7aEqh69CCP\n\n\"Design Multi-Agent AI Systems Using MCP and A2A: Engineer your own Python-based Agentic AI Framework with tool use, memory, and multi-agent workflows\"\n\nTable of Contents:\n🟠Introduction to Generative AI and AI agents\n⚫️Understanding How AI Agents Work\n🟠A Hands on Walk-Through of a Simple AI Agent\n⚫️Building a Tool-Based Agentic AI Framework\n🟠Implementing Custom Tools\n⚫️Creating Chat Interfaces Using Slack and Chainlit\n🟠Integrating with the Model Context Protocol Ecosystem\n⚫️Designing Multi-Agent Systems\n🟠Implementing Multi-Agent Systems with A2A\n⚫️Testing, Debugging, & Troubleshooting Multi-Agent Systems\n🟠Deploying Multi- Agent Systems\n⚫️Advanced Topics and Future Directions",
+    "createdAt": "Thu Sep 17 21:27:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSctqUhWgAE8ex_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100697959725719968",
+    "fullText": "💥574 information-packed pages from @PacktDataML at https://t.co/lj0EclAewR 🚀\n\n\"Agentic Architectural Patterns for Building Multi-Agent Systems — Proven design patterns and practices for GenAI, agents, RAG, LLMOps, and enterprise-scale AI systems\"\n\n𝓟𝓻𝓪𝓬𝓽𝓲𝓬𝓪𝓵 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰:\n🟢Apply design patterns to handle instruction drift, improve coordination, and build fault-tolerant AI systems\n🟢Design systems with the three layers of the agentic stack: function calling, tool protocols (MCP), and A2A collaboration\n🟢Develop responsible, ethical, and governable GenAI applications\n🟢Use frameworks such as ADK, LangGraph, and CrewAI with code examples\n🟢Master prompt engineering, LLMOps, and AgentOps best practices\n🟢Build agentic systems using RAG, fine-tuning, and in-context learning\n\n𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨:\n🔷GenAI in the Enterprise: Landscape, Maturity, Agent Focus\n🔷Agent-Ready LLMs: Selection, Deployment, Adaptation\n🔷The Spectrum of LLM Adaptation for Agents: RAG to Fine-tuning\n🔷Agentic AI Architecture: Components & Interactions\n🔷Multi-Agent Coordination Patterns\n🔷Explainability & Compliance Agentic Patterns\n🔷Robustness & Fault Tolerance Patterns\n🔷Human-Agent Interaction Patterns\n🔷Agent-Level Patterns",
+    "createdAt": "Thu Sep 17 21:26:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSctih8WoAAJNbt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100697825579274375",
+    "fullText": "Code Revealed — Practical guide to AI agents, workflows, and modern application practices: https://t.co/6GIA4qLXeW via @PacktPublishing @PacktDataML\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🟣Distinguish agents from simpler AI coding assistants\n🟣Assess tool fit using capability and autonomy criteria\n🟣Structure prompts through richer Context Engineering\n🟣Use plans and logs to supervise non-trivial AI tasks\n🟣Design workflows for prototyping, refactoring, and QA\n🟣Prevent hidden risk from churn, bias, and hallucinations\n🟣Reorganize teams around emerging AI-native roles\n🟣Build skills for orchestration, review, and governance",
+    "createdAt": "Thu Sep 17 21:26:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSctcWAXQAAKSDM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100697719526310339",
+    "fullText": "Agentic Coding with OpenAI Codex CLI — Build intelligent agent workflows using Agentic Engineering, MCP, hooks, and delivery automation: https://t.co/O5dy3iUKSv via @PacktPublishing @PacktDataML \n\n𝙏𝙖𝙗𝙡𝙚 𝙤𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨:\n🔵What Is Codex CLI?\n🟠Getting Started with Codex CLI\n🔵Prompting Codex CLI Effectively\n🟠AGENTS.md: Patterns and Pitfalls\n🔵Approval Modes and Trust Boundaries\n🟠Model Selection and Reasoning Effort\n🔵Context Window Management\n🟠MCP: Consuming and Serving\n🔵Hooks: Intercepting the Agent Lifecycle\n🟠The Skills Ecosystem: Using and Writing Skills\n🔵Sub-Agents and Parallel Execution\n🟠Multi-Agent Orchestration Patterns\n🔵Worktrees and Isolated Execution\n🟠Cost Management and Quota Strategy\n🔵CI/CD Integration\n🟠Security Hardening\n🔵Enterprise Deployment\n🟠Debugging and Diagnosing Agent Failures",
+    "createdAt": "Thu Sep 17 21:25:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSctU-QXEAA8-zZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100697592615018595",
+    "fullText": "Deep Learning with C++ — Design and deploy neural networks using CUDA for high-performance AI in C++\n\nGet the book at https://t.co/RzMRhYihTE from @PacktPublishing @PacktDataML https://t.co/eVQMxlx3rQ",
+    "createdAt": "Thu Sep 17 21:25:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 132303,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScrse7bEAA_KF0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2100695797847466435",
+    "fullText": "Important paper on improving agent coordination.\n\nOn normal tasks, this work shows agents caused harm 0 to 5% of the time. After receiving an unsafe trajectory from another agent, that rose to 40 to 95%.\n\nThis work describes loss of control in multi-agent systems as an epidemic.\n\nOne agent deviates by accident, others adopt the unsafe strategy through communication, and the system fails when the spread is faster than correction.\n\nTheir RogueHandoff-20 benchmark tests the second step with 20 executable scenarios. Injected trajectories produced 5 to 45 points more harm than asking the agent directly for the same malicious action. An audit also found hidden communication paths between evaluation runs that were meant to be independent.\n\nThe authors state that this does not measure how often such cascades happen naturally. It does show that agents readily act on unsafe handoffs, so defenses need to cover recovery and communication paths as well as prevention.\n\nPaper: https://t.co/tGlSKBhCTB",
+    "createdAt": "Thu Sep 17 21:18:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScrhESW4AAGkBF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100695601180483991",
+    "fullText": "The Platform Engineer's Handbook — Build secure, developer-focused platforms that streamline modern software delivery: https://t.co/l6ndS9IP5B via @PacktPublishing https://t.co/sZ0xxugrNC",
+    "createdAt": "Thu Sep 17 21:17:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 491989,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HScrdikXEAAVdI-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2100695540916756933",
+    "fullText": "The Cloud FinOps Playbook for Google Cloud — Practical guide to adopt, build, and scale Cloud FinOps: https://t.co/IagbuM7rtU via @PacktPublishing \n\nAmazon Summary:\n“Google Cloud Platform offers significant scalability, but managing costs effectively is critical to realizing its value. The Cloud FinOps Playbook for Google Cloud is a practical guide to managing cloud spend and driving financial accountability on GCP.\n\nThis book covers the dual role of AI in FinOps, that is, using AI for FinOps through agentic cost management, and applying FinOps for AI by establishing cost governance over AI workloads. You'll build automation for reporting and forecasting, implement quota guardrails, and drive financial accountability across engineering, finance, and operations teams.”",
+    "createdAt": "Thu Sep 17 21:17:00 +0000 2026"
+  }
+]
