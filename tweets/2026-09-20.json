@@ -1,11 +1,169 @@
 [
   {
     "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241660454,
+      "friendsCount": 1406,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1906974196510654464/pu/vid/avc1/1280x720/2E7ECgdWc2tMasRP.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2101601873115681037",
+    "fullText": "This is the future we shall bring into being https://t.co/8aD0w8MDVc",
+    "createdAt": "Sun Sep 20 09:18:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
+      "followersCount": 320349,
+      "friendsCount": 1065,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpflY1aYAEr0fi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2101597276242325864",
+    "fullText": "NVIDIA research papers are on fire recently!\n\nHere is another interesting paper where they give full-duplex speech models tool calls.\n\n(bookmark it)\n\nCommercial duplex voice models complete 31 to 51 percent of grounded customer-service tasks under clean conditions.\n\nText agents like GPT-5 reach 85 percent on the same tasks in text mode.\n\nMost of what a voice agent loses, it loses in the speech pipeline.\n\nThe fix routes the decision out of the speech model.\n\nThe duplex frontend learns to emit a delegation token, forwards streaming transcripts to a text backend LLM for the tool call, and receives the result through a lightweight prefill-and-repeat mechanism before streaming TTS speaks it.\n\nTool-call recall runs 92.0 to 97.2 percent with 81.2 percent accuracy at rejecting irrelevant calls. Turn-taking rate, streaming ASR word error rate and spoken-language intelligence all stay at the no-tool-call baseline.\n\nPaper: https://t.co/Ltzejtx5YC\n\nChat with Paper: https://t.co/V3Sx33Yrta",
+    "createdAt": "Sun Sep 20 09:00:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 151997,
+      "friendsCount": 648,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpfMgcWIAAnXHs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2101596849094230230",
+    "fullText": "omg I love the term \"slop grenade\" it's perfect thx @tobi https://t.co/hZ74ja0o81",
+    "createdAt": "Sun Sep 20 08:58:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5275235,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpa4t4WAAAMRR7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2101592284160499905",
+    "fullText": "Jessica and I have been watching Professor T, and it's really good. If, like me, you wish Doyle had written more Sherlock Holmes stories, this may be as close as you're going to get. https://t.co/WjgcolRPKq",
+    "createdAt": "Sun Sep 20 08:40:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37356,
+      "friendsCount": 1938,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2101585641473822720/vid/avc1/960x540/FilEoHCBReZ0Z3tC.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2101591715425440249",
+    "fullText": "发一下网易有道这两天上新的实时语音识别模型：Confucius4-R2T2，基于Qwen3-ASR，核心是实时字幕不跳字\n\n流式追加式输出，已输出的文本只增不改，避免实时字幕中的文字闪烁\n\n它用了一个LSP策略，模型持续监听语音，当足够确定某段话不会变时才把这段定稿输出，没把握的部分先憋着等听到更多上下文再说，在稳定与低延迟之间找权衡，延迟大概在200~600毫秒\n\n利好直播字幕、会议同传、语音客服等场景落地\n\n解码块80ms–2s可调，延迟与精度自己权衡，想快用小块，想准用大块\n\n#Confucius4R2T2 #ASR",
+    "createdAt": "Sun Sep 20 08:38:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Michael_J_Black",
+      "name": "Michael Black",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
+      "description": "VP Digital Human Research, Epic Games. Emeritus Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Opinions are my own.",
+      "followersCount": 104307,
+      "friendsCount": 739,
+      "location": "Tübingen, Deutschland"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Michael_J_Black/status/2101546026955952565",
+    "fullText": "This is a thoughtful essay by @ezraklein on the risks of recursive self improvement when we know that the AIs training themselves are demonstrably not aligned with us.  https://t.co/8RbRqZASQy",
+    "createdAt": "Sun Sep 20 05:36:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "hardmaru",
+      "name": "hardmaru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
+      "description": "Co-Founder and CEO @SakanaAILabs 🎏",
+      "followersCount": 435943,
+      "friendsCount": 1900,
+      "location": "Minato-ku, Tokyo"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hardmaru/status/2101544383212572874",
+    "fullText": "日経新聞による、グーグルディープマインド東京を率いる全炳河（@heiga_zen）氏の素晴らしい特集記事。\n\n2018年、Heigaさんと2人でGoogle Brain東京チームを立ち上げた日々を懐かしく思います。当時は時差の厳しい深夜の会議をこなしながら、日本のAI研究の存在感を示すために必死でした。\n\n現在、彼が GDM Tokyo を率い、私が Sakana AI を起業して、東京のAIエコシステムがここまで大きく成長したことを本当に嬉しく思います！\nhttps://t.co/WcoVHqOqR3",
+    "createdAt": "Sun Sep 20 05:30:00 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 249778,
+      "followersCount": 249818,
+      "friendsCount": 1729,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSotxOJXEAIAL4v.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2101542506110349668",
+    "fullText": "Anthropic 悄悄建了一个生物实验室\n\n据路透社独家报道，Anthropic 已在旧金山湾区建成了一间湿实验室（wet lab，即可以进行真实生化实验的物理实验室），正式把 AI 的触角从软件延伸到药物研发。\n\nAnthropic 生命科学负责人 Eric Kauderer-Abrams 在采访中证实了这件事。他的说法是：要做生物学研究，最终的检验标准仍然是真实的实验室工作，光靠计算机模拟不够。一部分实验自己做，一部分和外部合作伙伴做——这和大多数生物技术公司的做法一样。\n\n这不是心血来潮。过去几个月，Anthropic 动作密集：花约 4 亿美元股票收购了一家叫 Coefficient Bio 的初创公司，用于构建药物研发工具；把诺华 CEO Vas Narasimhan 拉进了董事会；发布了名为 Claude Science 的软件；6 月在旧金山公开宣布要启动药物研发项目。LinkedIn 上也在招采购运营负责人、蛋白质和核酸表征方面的专家，招聘帖里写的目标是\"把生命科学的进展速度提高一个数量级\"。Kauderer-Abrams 说，生命科学已经是 Anthropic 在人力和资源投入上最大的方向之一。\n\nAnthropic 瞄准的是传统药企觉得\"不可成药\"（undruggable）的领域——那些因为靶点太难、商业回报不高而被忽视的罕见病。他们认为 AI 可以加速发现双特异性甚至三特异性抗体这类复杂分子，这类药物可以同时攻击多个靶点，设计难度极高，但 AI 擅长处理这种复杂度。CEO Dario Amodei 对此有切身之痛——他的父亲因一种疾病去世，而治愈方法在几年后才出现。\n\n不过，Anthropic 目前画了一条明确的线：只做临床前研究，不做临床试验，不跟药企抢生意。这也是为了缓解一个现实的信任问题——那些使用 Claude 的大药企（基因泰克、百时美施贵宝、诺和诺德都在列）会担心 Anthropic 从它们的数据中学到什么。\n\n值得注意的时间节点：这一切发生在 Anthropic 准备以约 2 万亿美元估值 IPO 的前夕，也正值 AI 安全争议白热化——就在最近两周，Anthropic 自己的研究人员警告 AI 可能导致人类灭绝，公司还发现其系统存在被用于生物武器开发的风险。一边踩油门，一边拉手刹，这种张力是 Anthropic 当下最真实的写照。\n\n作为对比，Google 旗下的 Isomorphic Labs 做 AI 药物发现已经好几年了，原计划 2026 年底进入临床，但之前已经推迟过一次。药物研发的现实就是这样：从发现一个分子到药物上市，通常要好多年，而且大多数药物在临床试验中会失败。Anthropic 的野心很大，但路还很长。",
+    "createdAt": "Sun Sep 20 05:22:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 175043,
+      "friendsCount": 1307,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2101535990846509056/vid/avc1/1920x1080/cW0I57ifnhM0YB3z.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/2101536330018918793",
+    "fullText": "我用 @typesafeai  JEV 模型做了一个实时 3D 场景生成器。\n\n这个速度实在太夸张了！\n\n从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。\n\n同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。 https://t.co/0oy1HBLVWX",
+    "createdAt": "Sun Sep 20 04:58:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 249818,
       "friendsCount": 1729,
       "location": "Chicago, IL"
     },
@@ -21,7 +179,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -37,7 +195,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 249778,
+      "followersCount": 249818,
       "friendsCount": 1729,
       "location": "Chicago, IL"
     },
@@ -55,7 +213,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 305462,
+      "followersCount": 305456,
       "friendsCount": 8484,
       "location": "United States"
     },
@@ -71,7 +229,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -89,7 +247,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -107,7 +265,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -125,7 +283,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -143,7 +301,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -161,7 +319,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -180,7 +338,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -198,7 +356,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -216,7 +374,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -234,7 +392,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -252,7 +410,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -270,7 +428,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -288,7 +446,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -306,7 +464,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -324,7 +482,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -342,7 +500,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -360,7 +518,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -378,7 +536,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -396,7 +554,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -414,7 +572,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -432,7 +590,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -450,7 +608,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -468,7 +626,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -486,7 +644,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492221,
+      "followersCount": 492262,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -926,7 +1084,7 @@
       "name": "Steven Pinker",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1924871123524591616/mc3-jzbr_normal.jpg",
       "description": "Cognitive scientist at Harvard.",
-      "followersCount": 860591,
+      "followersCount": 860647,
       "friendsCount": 90,
       "location": "Boston, MA"
     },
