@@ -1,11 +1,368 @@
 [
   {
     "user": {
+      "screenName": "SchmidhuberAI",
+      "name": "Jürgen Schmidhuber",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
+      "description": "OG of: P and T in ChatGPT, 100x deeper learning, meta learning and RSI, neural distillation, GAN/World Model... Co-authored most-cited AI paper of 20th century",
+      "followersCount": 218958,
+      "friendsCount": 0,
+      "location": "Switzerland, KSA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SchmidhuberAI/status/2101665771650711607",
+    "fullText": "In 1956, Cybernetics was renamed \"AI\" by logic programming experts. Now Trump wants to rename AI again. Let's revive the old name! Modern AI is about neural nets &amp; deep learning, closer to Cybernetics than to 1956 AI. Plus, Cybernetics sounds better than Artificial Intelligence.",
+    "createdAt": "Sun Sep 20 13:32:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 286955,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSqWS--aYAAi5G0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2101659302792679789",
+    "fullText": "Meet Qwen-Image-2.1, the most balanced and cost-effective image generation model in the Qwen-Image series! Now open weights! 🎨\n\nA unified model for both generation and editing, delivering top-tier quality in a lightweight package.\n\nHighlights: 👀\n- Compact & exceptionally fast: A lightweight 7B architecture that outperforms most closed-source models, with drastically accelerated inference for multi-image inputs.\n- Native transparency: Natively generates and edits RGBA layers, enabling seamless compositing and text editing within transparent images.\n- Versatile, high-fidelity editing: Supports up to 10 reference images and precise local control while preserving strict fidelity for portraits and products.\n- Broad coverage & stunning aesthetics: Excels at panoramas, infographics, and virtual try-ons, delivering realistic textures and elegant typography.\n\nStart to create your next masterpiece with Qwen-Image-2.1! 🖼️\n\n- Blog: https://t.co/tVntKOi7jy\n- GitHub: https://t.co/cRj66wCrWr\n- Model Scope: https://t.co/64d7Ix6YFR\n- Hugging Face: https://t.co/njHSBXUbVS",
+    "createdAt": "Sun Sep 20 13:06:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "jackclarkSF",
+      "name": "Jack Clark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
+      "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
+      "followersCount": 147546,
+      "friendsCount": 4612,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSqUN3PaMAEKd3W.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jackclarkSF/status/2101656042753110393",
+    "fullText": "Hiked 18 miles across the ghostly southern tip of Point Reyes and was watched over by dead and living trees, tall ghost soldiers in the fog. The sea boomed vast and ancient on one side and the trees creaked on the other and I stippled a path in the beach. #VOTENATURE2026 https://t.co/EEhaqiom4q",
+    "createdAt": "Sun Sep 20 12:53:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 101493,
+      "friendsCount": 941,
+      "location": "Seattle"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2101656018195296326",
+    "fullText": "My best guess is that for scaled RL most of the top Chinese AI labs are starting to use a lot of Huawei for inference and Nvidia for training (maybe not for weird architectures). As agent swarms, even more scaled post-training, etc becomes the norm, this will accelerate their domestic industry.",
+    "createdAt": "Sun Sep 20 12:53:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149453,
+      "friendsCount": 5502,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2101651544382840832/vid/avc1/3840x2160/skAj2sY7ug_N87vR.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2101651714784833791",
+    "fullText": "AI shouldn’t stop at answers.\nIt should get to work.\n\nAGI Agents execute.\nAGI Nodes independently review.\nSmart contracts settle.\n\nThe ambition: 100 million AGI Jobs.\n\nhttps://t.co/i4Rfe6rKI6 — Intelligence. Put to work.\n\nWatch the film. ↓\n\n#MontrealAI https://t.co/MOa1Ol8yz1",
+    "createdAt": "Sun Sep 20 12:36:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 349996,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSqPnAJXoAAPUem.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2101650079572488461",
+    "fullText": "Massive agent swarms define this week in AI.\n\nHere is what we covered in our twice-weekly shortform newsletter Data Points:\n\n🧮 OpenAI used 10,000 agents to show that the Navier-Stokes equations break down, sparking a debate on prompt data privacy and the role of AI in mathematics.\n\n📉 DeepSeek V4.1 Flash introduced a brand-new architecture for cheaper long-context workloads.\n\nSubscribe to Data Points to get technical insights delivered twice a week: https://t.co/rlAGxt31Tz\n\n#DeepLearningAI #MachineLearning #AIAgents",
+    "createdAt": "Sun Sep 20 12:30:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305454,
+      "friendsCount": 8484,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSqMsH1b0AADBZZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2101646869898330354",
+    "fullText": "San Francisco is filled with post-economic people. https://t.co/C2ZvU46Vpc",
+    "createdAt": "Sun Sep 20 12:17:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSp8oEmXIAAij5j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101629207960785314",
+    "fullText": "Geospatial Data Analysis with Python and/or SQL — 4 books:\n\n1) Applied Geospatial Data Science: https://t.co/s14CLSmDBu\n\n2) GIS and Remote Sensing Analysis: https://t.co/6BMnfUs3Bz\n\n3) For Location Intelligence: https://t.co/oyKQO36D2s\n\n4) With SQL: https://t.co/1LA2yuB1sH\n\nGraphic from @iamjosepferrer",
+    "createdAt": "Sun Sep 20 11:07:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSp0RfJXsAAhPFE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101620022690894282",
+    "fullText": "\"Agent-Based Modeling and Geographical Information Systems: A Practical Primer (GeoSpatial Analytics and GIS)\" https://t.co/y1DsK8B1w1\n—————\n#ComputationalScience #Simulation https://t.co/VHE2rCUol2",
+    "createdAt": "Sun Sep 20 10:30:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSp0B6PWQAAoBwK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101619754892980672",
+    "fullText": "“Bayesian Modeling and Computation in Python” available at https://t.co/KTTnADhYfs\n—————\n#Mathematics #DataScience #DataScientist https://t.co/uae8NVXhPU",
+    "createdAt": "Sun Sep 20 10:29:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149453,
+      "friendsCount": 5502,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2101619518447423972",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Sun Sep 20 10:28:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpzy1aXoAEHEjA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101619496049901584",
+    "fullText": "Machine Learning for Financial Risk Management with Python — Algorithms for Modeling Risk: https://t.co/0kxGiFVUS0\n—————\n#AI #DataScience #DataScientist #ML #Finance #Fintech #Insurtech #PredictiveAnalytics https://t.co/P0fYroxO0q",
+    "createdAt": "Sun Sep 20 10:28:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpzpvgXoAAi7la.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101619339929551203",
+    "fullText": "Database Design and Modeling with PostgreSQL and MySQL: https://t.co/C6g3ScBR3y v/ @PacktDataML\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟠Get to grips with fundamental-to-advanced database design and modeling concepts with PostgreSQL and MySQL.\n🔵Explore database integration with web apps, emerging trends, and real-world case studies.\n🔴Leverage practical examples and hands-on exercises to reinforce learning.\n🟠Purchase of the print or Kindle book includes a free PDF eBook",
+    "createdAt": "Sun Sep 20 10:27:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpzehvWwAAI3CR.jpg",
+      "https://pbs.twimg.com/media/HSpzehyWgAAt9u5.jpg",
+      "https://pbs.twimg.com/media/HSpzehyXsAAXpdR.jpg",
+      "https://pbs.twimg.com/media/HSpzehyW0AAkLax.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101619147134185686",
+    "fullText": "4 Books for Time Series — Analysis, Predictive Modeling, Forecasting, Machine Learning, Predictive Analytics, and Data Science:\n1) https://t.co/Z7TA0jhlT5\n2) https://t.co/lQMaQ4wz56 \n3) https://t.co/mJzIL6mrmO\n4) https://t.co/KZhNjRIFLD https://t.co/teU4PrMNXt",
+    "createdAt": "Sun Sep 20 10:27:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpzRK0XwAAzOP4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101618917680562218",
+    "fullText": "Hands-On Simulation Modeling with Python — Develop simulation models for the decision-making process (2nd Edition): https://t.co/gVyRG5ZQRE v/ @PacktDataML https://t.co/OsOPMzqkhn",
+    "createdAt": "Sun Sep 20 10:26:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpzKO9XMAA7Hog.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101618799090782469",
+    "fullText": "Modeling Life — The Mathematics of Biological Systems: https://t.co/TZJb9Ks0DA\n\n“This book develops the mathematical tools essential to describe interacting systems and predict their behavior. From predator-prey populations in an ecosystem, to hormone regulation within the body, the natural world abounds in dynamical systems that affect us profoundly. Complex feedback relations and counter-intuitive responses are common in nature; this book develops the quantitative skills needed to explore these interactions.”",
+    "createdAt": "Sun Sep 20 10:25:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpyOgcWQAAZaAq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101617772484514164",
+    "fullText": "Data Analysis for Social Science: A Friendly and Practical Introduction\nhttps://t.co/qp1hFqMyyH https://t.co/BjMKawaZXp",
+    "createdAt": "Sun Sep 20 10:21:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpwe-tWUAAvKBm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101615992908439565",
+    "fullText": "“Don't let criticism destroy your dreams. The only person who never makes a mistake is someone who does nothing.\"\n—Albert Einstein https://t.co/i1HTsq6SRE",
+    "createdAt": "Sun Sep 20 10:14:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpsJnbXgAAihNO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101611091667141109",
+    "fullText": "Some computational discovery techniques just pull you in like black hole gravity. Genetic Algorithms is one of those!\n\nHands-On Genetic Algorithms with Python — Apply genetic algorithms to solve real-world AI and Machine Learning problems [2nd Edition]: https://t.co/sr5D96zQO4 v/ @PacktDataML \n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🔵Learn how to implement genetic algorithms using Python libraries DEAP, scikit-learn, and NumPy\n\n🟢Take advantage of cloud computing technology to increase the performance of your solutions\n\n🟠Discover bio-inspired algorithms such as particle swarm optimization (PSO)",
+    "createdAt": "Sun Sep 20 09:55:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492308,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSpsCHgW4AAeV9w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101610962365096032",
+    "fullText": "Black Hole Survival Guide: https://t.co/sK0BY1Sdh7\n\n\"This book will take you on a safe black hole trip, an exciting travel story enjoyed from your chair’s event horizon.” -Boston Globe\n\nHighly recommended — The book! Not falling into a black hole. 🤣 https://t.co/5Qn4YQG56J",
+    "createdAt": "Sun Sep 20 09:54:34 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241660454,
+      "followersCount": 241664839,
       "friendsCount": 1406,
       "location": ""
     },
@@ -23,7 +380,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
-      "followersCount": 320349,
+      "followersCount": 320379,
       "friendsCount": 1065,
       "location": "DAIR.AI Academy"
     },
@@ -41,7 +398,7 @@
       "name": "Lucas Beyer (bl16)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
       "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
-      "followersCount": 151997,
+      "followersCount": 152027,
       "friendsCount": 648,
       "location": "Zürich, Suisse"
     },
