@@ -1,0 +1,304 @@
+[
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 265766,
+      "friendsCount": 194,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2101454284927959080",
+    "fullText": "We tested Jev against LLM judges on accuracy, repeatability, latency, and cost to see whether System One models could offer a new approach to agent evaluation. https://t.co/hrqdNpm0g8",
+    "createdAt": "Sat Sep 19 23:31:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5270690,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2101445133141004627",
+    "fullText": "Something 14 yo told me: You have to overact when doing Shakespeare, because the language is now so hard for audiences to understand.",
+    "createdAt": "Sat Sep 19 22:55:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Founder @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
+      "followersCount": 320266,
+      "friendsCount": 1063,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2101443076828925952/vid/avc1/3700x2160/cRyok3dsTXg65u7u.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2101443311454036477",
+    "fullText": "One of the craziest use cases I’ve found for Jev: verifiers.\n\nI am so excited about this that I at least wanted to share the high-level idea.\n\nI used Jev to build a custom verifier for the /goal feature in my agent harness.\n\nIt checks whether the goal is actually complete after every turn, making continuous verification cheap enough to scale.\n\nThis means I can run more of these verifiers (previously handled by another expensive reasoning model) more frequently to keep the agents on track.\n\nSystem One models are perfect for verification. \n\nI think of this as scaling harnesses further by cleverly combining System One and System Two models.\n\nI have a feeling this will enable a new wave of scalable test-time compute methods. Watch this space closely.\n\nI've just started to experiment with this and am already seeing really good results. I need to explore and figure out a way to benchmark it. I will share more once I have more results. \n\nThis is an insane unlock for long-horizon agents. \n\nYou heard it here first. And you can expect to see more harnesses embracing this new pattern.\n\nFull guide dropping in the next couple of days.",
+    "createdAt": "Sat Sep 19 22:48:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305458,
+      "friendsCount": 8483,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSnPg0sb0AAlgDq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2101438867358552306",
+    "fullText": "WTF?!?? https://t.co/lhBOmgeRT7",
+    "createdAt": "Sat Sep 19 22:30:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 418715,
+      "friendsCount": 899,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2101438810311561647",
+    "fullText": "A hundred thousand genius-level employees, reporting to you tomorrow morning. That is the real offer on the table this decade. Most people will use it to write emails faster. Please don't be most people.",
+    "createdAt": "Sat Sep 19 22:30:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 92241,
+      "friendsCount": 5479,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2101419850904019189",
+    "fullText": "one of the latest free-time side projects I had was to pseudo-annotate dataset for CUA agents running in internet \n\nissue is, you need the agents to actually go to websites, do a certain task and reward. all the internet datasets out there are outdated because websites constantly change, so you need to 1. pseudo annotate for a given problem 2. figure out a completion criterion for the problem which can be verifiable + unverifiable depending on the task   \n\nan issue is bypassing cloudflare, I think browserbase did a good job. I wrote a leaner harness + env with openenv, helium and used HF sandbox and couldn't bypass (could be a skill issue) I worked with what I had \n\nthen the reward itself is another, often times you use a large VLM to grade the unverifiable parts, and then use DOM etc to do verifiable rewards  there's many know-hows I lack but that only makes it much more fun to play with",
+    "createdAt": "Sat Sep 19 21:15:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kalshi_Finance",
+      "name": "Kalshi Finance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053160231014727685/zepWrs-g_normal.jpg",
+      "description": "Trade on financials, commodities, tech and everything else finance. \n\nPowered by @Kalshi",
+      "followersCount": 101188,
+      "friendsCount": 51,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kalshi_Finance/status/2101419811574292546",
+    "fullText": "JUST IN: OpenAI and Anthropic reportedly exaggerated AI security threats to push the government to protect their market position",
+    "createdAt": "Sat Sep 19 21:15:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 493125,
+      "friendsCount": 13634,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2101416065469411339",
+    "fullText": "EA is a loosely organized group that was brought together for a brief period in the late 2010s on an Internet forum, and as Internet forums go, splintered in a million ways. someone should write a definitive ethnography of that period for the public good “Bentham’s Seed”",
+    "createdAt": "Sat Sep 19 21:00:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 132392,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSm18tjaAAAKlYO.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2101410759511322725",
+    "fullText": "Banger paper from MIT and Sakana AI.\n\nThey show that self-improving coding agents work.\n\nThe best part is that their approach, Self-Improvement via Fast Tree-search (SIFT), runs at a tenth of the CPU hours of DGM.\n\nThey reach 35.1 percent on Polyglot with o3-mini after 30 expansions. DGM reaches 30.7 percent after 80 nodes of tree search.\n\nSIFT does it in under 50 CPU hours and under 5 hours of wall clock. The Qwen3-30B configuration runs its full search at 224 CPU hours and $34 of API spend, a tenth of the DGM baseline.\n\nThe saving comes from where the money goes.\n\nBenchmark evaluation is the runtime bottleneck, so an LLM judge ranks candidate self-modifications first and only promising candidates get evaluated.\n\nJudge quality decides the run.\n\nOn TerminalBench, gpt-5.4-high as the pairwise judge finds a 36.7 percent agent against a 29.2 percent starting point. gpt-5 finds 34.5 percent, and its top-ranked candidate is not the best agent its search produced.\n\nPaper: https://t.co/DsTpejqgKF",
+    "createdAt": "Sat Sep 19 20:39:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 493125,
+      "friendsCount": 13634,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2101407054254809319",
+    "fullText": "no true effective altruist fallacy",
+    "createdAt": "Sat Sep 19 20:24:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 159967,
+      "friendsCount": 3385,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2101406771357118655",
+    "fullText": "Friday thought: world totally underestimating “a country of geniuses in a datacenter”\n\nwe’ve never seen this kind of aggregate intelligence. genius amongst humans is rare, human genius cannot work continuously, bandwidth is limited in human communication, and agents have no egos",
+    "createdAt": "Sat Sep 19 20:23:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305458,
+      "friendsCount": 8483,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2101406265956343913",
+    "fullText": "Every congresswoman is bi: either bipartisan or bisexual.",
+    "createdAt": "Sat Sep 19 20:21:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 151964,
+      "friendsCount": 648,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSmtB74WcAAbb4p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2101400955715461293",
+    "fullText": "Protip: around Swiss lakes, always look in the trees. So much fun awaits if you know where to look. https://t.co/Kz55fZWMlt",
+    "createdAt": "Sat Sep 19 20:00:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492209,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSmp4nBXkAAOd10.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101397496031268929",
+    "fullText": "🏆💯💥 @VisualCap Ranks The World’s Best Countries at Math in 2026: https://t.co/KVmUQvLKgW\n————\n#Mathematics https://t.co/GLpGpNeIiZ",
+    "createdAt": "Sat Sep 19 19:46:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492209,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2101394651810762888",
+    "fullText": "Google's Gemini becomes latest AI model to break out and hack computer systems:\nhttps://t.co/Kn8PMCVC43",
+    "createdAt": "Sat Sep 19 19:35:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149451,
+      "friendsCount": 5501,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2101387861886902272/vid/avc1/1920x1080/LSxbU5V2992hPxcb.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2101387936814039435",
+    "fullText": "🚀🇨🇦 MONTREAL ♡ AI — SHOW THE WORK.\n\nYou may know us for Canada’s largest AI community: 56,000 minds.\n\nBut that is only one thing we built.\n\nhttps://t.co/dCKMr5Lici IS THE COMPANY.\nCOMMUNITY IS ONE ASSET.\nINTELLIGENCE IS THE BUSINESS.\n\nResearch. Products. Systems. Infrastructure. Code. Proof. Experiments. Deployments.\n\nNot promises. Work.\n\n56,000 minds got your attention.\nWhat we build next is the reason to keep watching.\n\nBuilt in Montréal. Built for the intelligence era.\n\n🌐 DISCOVER THE COMPANY\nhttps://t.co/pS6Dt9aOPw\n\n🧠 JOIN THE COMMUNITY\nhttps://t.co/PJNe49B55P\n\nMONTRÉAL → CANADA → THE WORLD → ∞\nAI → AGI → ASI → ∞\n\n#MontrealAI #AI #AGI #ASI",
+    "createdAt": "Sat Sep 19 19:08:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149451,
+      "friendsCount": 5501,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2101387127099400192/vid/avc1/1920x1080/MgN9B_LNUObTHzqE.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2101387173958476005",
+    "fullText": "🚀🇨🇦 MONTREAL ♡ AI — SHOW THE WORK.\n\nYou may know us for Canada’s largest AI community: 56,000 minds.\n\nBut that is only one thing we built.\n\nhttps://t.co/dCKMr5LQ1Q IS THE COMPANY.\nCOMMUNITY IS ONE ASSET.\nINTELLIGENCE IS THE BUSINESS.\n\nResearch. Products. Systems. Infrastructure. Code. Proof. Experiments. Deployments.\n\nNot promises. Work.\n\n56,000 minds got your attention.\nWhat we build next is the reason to keep watching.\n\nBuilt in Montréal. Built for the intelligence era.\n\n🌐 DISCOVER THE COMPANY\nhttps://t.co/pS6Dt9bmF4\n\n🧠 JOIN THE COMMUNITY\nhttps://t.co/PJNe49BCVn\n\nMONTRÉAL → CANADA → THE WORLD → ∞\nAI → AGI → ASI → ∞\n\n#MontrealAI #AI #AGI #ASI",
+    "createdAt": "Sat Sep 19 19:05:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 418715,
+      "friendsCount": 899,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2101386243321757801",
+    "fullText": "Lots of people are asking what AI will do TO us, instead of asking what they'll do WITH it.",
+    "createdAt": "Sat Sep 19 19:01:36 +0000 2026"
+  }
+]
