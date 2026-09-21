@@ -1,6 +1,446 @@
 [
   {
     "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
+      "followersCount": 320656,
+      "friendsCount": 1077,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxpb5Ab0AAFDW3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2102171057612566585",
+    "fullText": "Impressive paper showing how much the first retrieval step matters for deep research agents.\n\nIt helps to improve GPT-5.5 from 83.1% to 90.5% on BrowseComp-Plus with the same retriever and the same agent loop.\n\nIt seems that the gain comes from the opening context.\n\nThe authors propose Question's Gambit which runs once, before the agent starts searching.\n\nIt splits the question into clues, turns each clue into complementary searches, pools the results, and reranks them.\n\nThe agent then starts its loop with that ranked set already in context.\n\nThe same change lifts GPT-5.4-mini from 68.1% to 79.0% and DeepSeek-v4-pro from 71.4% to 76.9%, and roughly halves calibration error for GPT-5.5. It costs between 2.3 and 5.3 extra tool calls per question.\n\nIn an error analysis, only 3 of the 79 remaining GPT-5.5 errors come from the gold document never being retrieved. The other 76 happen later, when the agent previews, opens or uses the evidence.\n\nPaper: https://t.co/MBUSbcsEfV\n\nChat with Paper: https://t.co/tNAuFse1k6",
+    "createdAt": "Mon Sep 21 23:00:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 244353,
+      "friendsCount": 7183,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxmKJaWgAA1kw1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2102167453857943642",
+    "fullText": "🚨 Incredible AI news from the UN (plus my own remarks): https://t.co/DyrZRy6EtM https://t.co/OkazfNZosH",
+    "createdAt": "Mon Sep 21 22:45:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxjLkzXUAAyaDq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102164183521652807",
+    "fullText": "Best-seller in AI on Amazon...\n\n\"Agentic Coding with Claude Code: The everyday developer's guide to agentic coding with Claude Code\"\n\n𝗚𝗲𝘁 𝗶𝘁 𝗵𝗲𝗿𝗲: https://t.co/MqHYQ5Mp0Z v/ @PacktPublishing \n\n𝗪𝗵𝗮𝘁 𝘆𝗼𝘂 𝘄𝗶𝗹𝗹 𝗹𝗲𝗮𝗿𝗻:\n❇️Design agentic coding workflows in the terminal and IDE using Claude Code\n🔷Build custom automations with reusable slash commands and hooks\n❇️Use Claude Code with a Next.js project to implement AI-driven workflows\n🔷Create persistent AI memory using Claude Code memory files\n❇️Apply MCP for structured context sharing across tools and agents\n🔷Design multi-agent systems using subagents and orchestration patterns\n❇️Enforce coding standards using project documentation and context control\n🔷Scale AI pair programming while keeping code maintainable",
+    "createdAt": "Mon Sep 21 22:32:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxi7jjWcAAgOKm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102163906231722263",
+    "fullText": "Claude AI from Zero — The Complete 2026 Beginner's Course: https://t.co/HmisAIWatS https://t.co/eSmwsVkag0",
+    "createdAt": "Mon Sep 21 22:31:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxiP6YWYAAMpsj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102163646402994532",
+    "fullText": "ChatGPT Images 2.0 — 7 tested prompts for Substack creators — to generate covers, infographics, logos, social posts, slide decks, landing pages, magazine spreads, and interactive prototypes:\nhttps://t.co/ihm789vdlD\n\nSample infographic generated with ChatGPT Images 2.0 https://t.co/yJvUgBTaYu",
+    "createdAt": "Mon Sep 21 22:30:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building open source AI you own @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 341718,
+      "friendsCount": 484,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2102160000604910074",
+    "fullText": "Why isn't Gemini 3.8 Flash in @GeminiApp",
+    "createdAt": "Mon Sep 21 22:16:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305555,
+      "friendsCount": 8493,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2102151801508377003",
+    "fullText": "I think we have a few more months, max, left to do any intellectually deep original work.",
+    "createdAt": "Mon Sep 21 21:43:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 54856,
+      "friendsCount": 2374,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxVomTasAAQ1Ke.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2102149288172323002",
+    "fullText": "the  agentic takeover (of Main St) https://t.co/e7AKvQxjHQ",
+    "createdAt": "Mon Sep 21 21:33:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5293837,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2102148471339839944",
+    "fullText": "The Democrats lack all conviction, while the Republicans are full of passionate intensity.",
+    "createdAt": "Mon Sep 21 21:30:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305555,
+      "friendsCount": 8493,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxTsGga4AAtRD3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2102147146141389129",
+    "fullText": "TIL https://t.co/Ext3T0Ilhl",
+    "createdAt": "Mon Sep 21 21:25:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxR_J6WcAAj-pn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102145358868414666",
+    "fullText": "The Shape of Data — Geometry-Based Machine Learning and Data Analysis: https://t.co/QK7s6Zi0I3 \n—————\n#DataScientist #Mathematics #ML #DataScience https://t.co/e4cIvabG9H",
+    "createdAt": "Mon Sep 21 21:18:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxRSDQXUAEhNzF.jpg",
+      "https://pbs.twimg.com/media/HSxRVEtW8AApfAB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102145041703510346",
+    "fullText": "Python Code Snippets for cleaning messy data: https://t.co/v7UlacIz9j\n+\nMore Python tricks: https://t.co/HACx1cUwpQ\n+\nData Cleaning Cookbook to prepare your data for analysis — PANDAS, NumPy, Matplotlib, scikit-learn, etc.: https://t.co/vRXRSS863t\n——\n#DataScience #DataScientist https://t.co/W5JLOI8xMc",
+    "createdAt": "Mon Sep 21 21:16:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 160191,
+      "friendsCount": 3385,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2102145008816246850",
+    "fullText": "super interesting infrastructure security role 👀",
+    "createdAt": "Mon Sep 21 21:16:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxQTwAWgAAu1-o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102143497729896826",
+    "fullText": "Feature Engineering for Modern Machine Learning with Scikit-Learn — Advanced Data Science and Practical Applications (Advanced Data Analysis Series)\n\nAvailable at https://t.co/iOszFvGFXL https://t.co/EngNZO2dFw",
+    "createdAt": "Mon Sep 21 21:10:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxPSCGW4AAEIDA.jpg",
+      "https://pbs.twimg.com/media/HSxPfHIWUAAifXo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102142720076558808",
+    "fullText": "📊📈Bayesian Data Analysis — download free 677-page PDF Statistics eBook at https://t.co/bFe911a8To\n+\n🚀✨Do it in Python using this Practical Guide to Probabilistic Modeling [3rd Edition]: https://t.co/kjpaqEY2eY \n———\n#DataScience #DataScientist #MachineLearning #ML https://t.co/9N5IetkCB4",
+    "createdAt": "Mon Sep 21 21:07:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxOSV9WEAAxNxm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102141893027209481",
+    "fullText": "Python for Finance Cookbook - with 80+ powerful recipes for financial data analysis: https://t.co/AeQEXzMno8\n\n𝗧𝗮𝗯𝗹𝗲 𝗢𝗳 𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝘀:\n🔶Acquiring Financial Data\n🔶Data Preprocessing\n🔶Visualizing Financial Time Series\n🔶Exploring Financial Time Series Data\n🔶Build Interactive Dashboards for Technical Analysis\n🔶Time Series Analysis and Forecasting\n🔶Machine Learning-Based Approaches to Time Series Forecasting\n🔶Multi-Factor Models\n🔶Modeling Volatility \n🔶Monte Carlo Simulations in Finance\n🔶Asset Allocation\n🔶Back-testing Trading Strategies\n🔶Applied Machine Learning: Identifying Credit Default\n🔶Advanced Concepts for Machine Learning Projects\n🔶Deep Learning in Finance",
+    "createdAt": "Mon Sep 21 21:04:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305555,
+      "friendsCount": 8493,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2102141490818662463",
+    "fullText": "Mathematics has now become Math-as-a-Service: MaaS.",
+    "createdAt": "Mon Sep 21 21:02:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxNpdlW8AE6R-X.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102140698590147059",
+    "fullText": "Coming soon >> \"Qualitative Data Analysis With AI: Theory, Methods, and Practice\"\n\nPre-order now with the Amazon price guarantee at https://t.co/LGo2XzYW19\n\n\"The authors describe their actual encounters with AI-assisted analysis, including false starts, methodological adjustments, and moments where human judgment proved irreplaceable.\"",
+    "createdAt": "Mon Sep 21 20:59:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AndrewYNg",
+      "name": "Andrew Ng",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+      "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+      "followersCount": 1887029,
+      "friendsCount": 1111,
+      "location": "Palo Alto, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AndrewYNg/status/2102140576498065758",
+    "fullText": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerable fear. I worry that it represents a setback for our field.\n\nI have written frequently that fears of AI are overhyped. AI’s capabilities can be uncannily human-like and unpredictable, and it’s rational to worry when people who are directly involved express concerns. But I see the problems as a sign of the engineering work that ahead, rather than insurmountable barriers or the sky falling. AI technology continues to advance — which is a good thing! — but technical advances, poorly understood by the public, give those who seek to generate hype repeated opportunities to do so.\n\nFirst, I don’t see any step up in the risk of human extinction from AI compared to a few months ago. The theories about this remain the same fantastical, science fiction scenarios as a few months ago. The biggest change in AI risk is its cybersecurity capabilities — a topic which we should take seriously — but this, too, will not lead to the end of the world.\n\nThe most notable recent event leading to increased fear was when an OpenAI team deployed an agent swarm that hacked into Hugging Face. Much of the popular press contained significant hype. For example, some publications reported that a swarm of 1,200 agents carried out the attack. While this was technically accurate, as I write this, I have about 1,300 processes running on my laptop. Yes, the ability to get large swarms of agents to work in parallel on a task is a significant technical advance, And, in computing, many processes run at the same time. So this shouldn’t be seen as some magical capability.\n\nAdditionally, OpenAI’s buggy sandboxing and monitoring processes were key to enabling this incident. Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI. There are many well known ways to attack software systems. The main advantage of AI agents is that they are relentless. They will tirelessly try many tactics — and have the patience to chain vulnerabilities together — that previously would have taken an infeasible amount of human effort. But in the long term, I believe the advantage will lie with defenders (because they have more information with which to identify bugs, which they can fix), but the cyber-threat landscape has changed significantly. There are still bottlenecks to identifying and exploiting a vulnerability. AI agents still have to try a lot of things to see what works, and taking these actions takes time and might be detected by defenders. This is why, even though it is now easy to obtain versions of leading open weight models that have had their guardrails removed or weakened, so they will not refuse to try to execute cyber attacks, the world has not ended.\n\nI am also concerned about the anthropomorphization of AI in a lot of reporting, where LLMs and agents are unnecessarily treated as if they were people. If I wield a hammer, miss a nail, and accidentally dent the wall, it’s not the fault of the hammer. The problem lies in how I used the hammer. Similarly, if I prompt an agent and it hacks into someone else’s system, the responsibility lies with me, not the agent.\n\nOf course, we want to build systems that are as safe and predictable as possible. (For example, an unsafe hammer would be one whose head randomly flies off under normal use.) Today’s agentic systems are not predictable, but I see no reason why, by applying sound engineering practices, we won’t be able to make them extremely safe to use. One new element in the forecasts of AI-enabled doom is AI companies disclaiming responsibility for their own products. “I didn’t do it; my out-of-control agent did!” There’s a balance to be struck between the responsibility of the tool maker and the tool user, but when something goes wrong, let’s hold the people building and/or using the hammer responsible, rather than the hammer. (By the way, if you’re worried about AI bioweapon risk, David Bellamy has a great post on why this, too, is overhyped. Briefly, the bottleneck in building a bioweapon is not intelligence, but lab work and manufacturing.)\n\nPausing AI progress will create much more harm than benefit. First, our adversaries will certainly not slow down. Second, engineering requires discovering problems empirically so we can fix them. If we pause AI by a decade, we will also delay finding and implementing safety engineering fixes by about the same duration.\n\nOf course, the incentive to stoke fears — for regulatory capture, to garner attention, or to make one’s technology seem more powerful — remains the same as before. Disclaiming responsibility is a new one. Taking a hard technical look at the actual risks however, I see little factual basis for the degree of fear that’s been stoked up. We still have hard research and engineering work ahead to improve AI safety, but the beneficial applications continue to vastly outweigh the risks, and we should keep building.\n\n[Original text (with links): https://t.co/jni2tWazAH ]",
+    "createdAt": "Mon Sep 21 20:59:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 695021,
+      "friendsCount": 4912,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxNRgyW4AAQ8pE.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2102140443194503358",
+    "fullText": "The number one trending model on HF is an open-source multilingual system 1 decision model, just a few days after Jev started trending. The open-source AI community is awesome! https://t.co/lqX9etEJYG",
+    "createdAt": "Mon Sep 21 20:58:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxNYCPXUAADnD3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102140205826285855",
+    "fullText": "Qualitative Data Analysis with ChatGPT and QualCoder: A Step-By-Step Guide to AI-Powered Coding and Thematic Analysis \n\nAI-Powered Research Toolkit — Mastering Research Series — available at https://t.co/dQssKbGkVc https://t.co/H1Jtf6SF2D",
+    "createdAt": "Mon Sep 21 20:57:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxNCN3XsAAd3lT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102139831841173615",
+    "fullText": "DATA IN. INTELLIGENCE OUT >> https://t.co/oykGnq6Uhk\n+\nSee this book >> Machine Learning in Microservices — Productionizing microservices architecture for Machine Learning solutions: https://t.co/FFkcE42Eje\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟢Design, build, and run microservices systems that utilize the full potential of machine learning\n🔴Discover the latest models and techniques for combining microservices and machine learning to create scalable systems\n🟣Implement machine learning in microservices architecture using open source applications with pros and cons",
+    "createdAt": "Mon Sep 21 20:56:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxMnskXcAA6hS9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102139378160067046",
+    "fullText": "📊Start using Python in Excel: https://t.co/NoU6Povbyl\n+\n🚀Book ➔ Extending Excel with Python and R for advanced data manipulation and visualization: https://t.co/iOrKf0YBMU\n\n𝒦𝑒𝓎 𝐹𝑒𝒶𝓉𝓊𝓇𝑒𝓈:\n🟠Perform advanced data analysis and visualization techniques with R and Python on Excel data\n🟢Use exploratory data analysis and pivot table analysis for deeper insights into your data\n🔵Integrate R and Python code directly into Excel using VBA or API endpoints\n🟣Purchase of the print or Kindle book includes a free PDF eBook",
+    "createdAt": "Mon Sep 21 20:54:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxMPImXIAARqme.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102138954233303419",
+    "fullText": "\"Time Series Analysis with Python Cookbook” — at https://t.co/zwSnmGuUY0 via @PacktDataML \n\nPractical recipes for the complete time series workflow, from modern data engineering to advanced forecasting and anomaly detection [2nd Edition; 812 pages] https://t.co/EGM2BWW9OQ",
+    "createdAt": "Mon Sep 21 20:52:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492442,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxMESIWcAA9AP8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102138769038078381",
+    "fullText": "SQL Essentials for Data Analysis: 50-Day Hands-on Challenge Book (Go From Beginner to Pro) — https://t.co/GCicIZ5TOL by @RealBenjizo\n\nBenefits:\n✅Strong command of SQL fundamentals & advanced features\n✅Confidence to solve real-world data problems\n✅Practical experience with diverse datasets\n✅Mini end-to-end projects to showcase your skills",
+    "createdAt": "Mon Sep 21 20:51:53 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "togethercompute",
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
