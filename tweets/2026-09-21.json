@@ -1,6 +1,293 @@
 [
   {
     "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 63364,
+      "friendsCount": 374,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSw6fb-aIAAn0Ea.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2102119453848903787",
+    "fullText": "coding agents are moving fast from prototype to production. the infrastructure question is what's left.\n\njoin @parthsareen  from @ollama  and @zainhas Hasan from Together AI at @AIconference for a breakout on what it actually takes to build coding agents on open models, and run them at scale.",
+    "createdAt": "Mon Sep 21 19:35:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "googleaidevs",
+      "name": "Google AI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865153179341426688/g3bdgQ0P_normal.jpg",
+      "description": "AI for every developer. So what will you build?",
+      "followersCount": 117495,
+      "friendsCount": 51,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2102106943984926720/vid/avc1/1920x1080/3sZU7qCGZKyT0dJq.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/googleaidevs/status/2102107233912016926",
+    "fullText": "Ever get stuck on a bug and wish the exact problem could be pointed out to you on screen?\n\nWatch how we used Gemini 3.8 Live Extended Thinking to build a coding tutor that sees your screen and uses function calling to reference the p5.js library, and talks you through the logic. https://t.co/0YVtjHm8oS",
+    "createdAt": "Mon Sep 21 18:46:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305547,
+      "friendsCount": 8493,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2102105499206660240",
+    "fullText": "The most fundamental resource in Silicon Valley is plausible deniability.",
+    "createdAt": "Mon Sep 21 18:39:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "v_vashishta",
+      "name": "Vin Vashishta",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531806788563005441/1p3732kF_normal.jpg",
+      "description": "I build agents that customers pay for. Also a 3X founder, author, speaker, F500 AI advisor.",
+      "followersCount": 28379,
+      "friendsCount": 1056,
+      "location": "Reno"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/v_vashishta/status/2102100530952888554",
+    "fullText": "Always solve the most expensive problems first.\nAI labs realize they should have prioritized AI workloads with the best unit economics. Most lost their early leads by prioritizing novelty over utility.\nStartups/incumbents building agentic platforms and tools are next.",
+    "createdAt": "Mon Sep 21 18:19:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
+      "followersCount": 320621,
+      "friendsCount": 1077,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSwoK9Ya8AAD1mX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2102099298716660223",
+    "fullText": "Banger paper on self-evolving ontologies for agents.\n\nYou just can't go wrong with implementing an ontology layer for your agents.\n\nThis paper shows exactly why.\n\nThe show that GPT-5.5 gains 26.7 points on DDR-Bench when the data agent can query an ontology of the data it works with.\n\nWhy is this useful?\n\nData agents normally see tables, files and databases through generic tools, reading column names and file paths one call at a time.\n\nThe alternative is a hand-written semantic layer pasted into the prompt, which does not scale to many sources.\n\nEvoOntology builds the ontology with a dedicated agent and serves it as an MCP server with schema, content and tool layers.\n\nThe data agent queries it at runtime.\n\nThe ontology is then edited in small typed steps, and each edit is kept only if a paired evaluation on the same backbone shows it helps.\n\nAcross six backbones on DDR-Bench, accuracy rises 17.8 points on average, from 4.8 on Qwen3.5-Flash to 26.7 on GPT-5.5. On BIRD, execution accuracy rises 7.4 points. Edits to the tool layer account for 57% of the gain from evolution.\n\nPaper: https://t.co/P81sIuyTPg\n\nChat with Paper: https://t.co/O4YzsViGD5",
+    "createdAt": "Mon Sep 21 18:15:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 249974,
+      "friendsCount": 1729,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSwnEZ6WYAAA2fm.jpg",
+      "https://pbs.twimg.com/media/HSwnkuxWcAAxv9c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2102098652680302967",
+    "fullText": "有人做了一个\"星际争霸\"AI 对战测试（Brood War Bench），让当下主流大模型互相打即时战略，结果所有模型的水平都没超过新手。\n\n《星际争霸：母巢之战》是 1998 年的经典即时战略游戏，也是 AI 研究的老朋友，2019 年 DeepMind 的 AlphaStar 就曾在这款游戏里击败职业选手。但那是专门训练的强化学习 AI。这次测试不同，它让通用大模型以 AI 智能体的形式直接上手操作，看看它们能不能自己建基地、造兵、打仗。\n\n作者 Ben Swerdlow 原本只是做了一个\"只能通过智能体操控\"的星际争霸版本，拿来和朋友玩。没想到几个几乎没玩过星际的朋友表现还不错——他们说自己就下了句\"去进攻\"的命令，智能体就自己造了支小部队冲过去了。这让他好奇：如果完全让 AI 自己玩，能打到什么水平？\n\n答案是：很菜，但很有意思。\n\n排名第一的 Codex Astra 打了 18 场全胜，但它最擅长的不是正面作战，而是\"骚扰\"：派一个采矿的工人（Probe）跑到对方基地捣乱。这招对 AI 对手特别好使，因为对面的智能体看到一个工人来了，会花几十秒思考该怎么办，期间什么都不干。而在正经的经济发展和大规模作战方面，Codex 反而比较弱，经常造一两个兵就往对面扔，而不是攒够兵力再出击。\n\nClaude Fable 排第三，胜率 83.3%，是所有参赛模型里最\"像在认真打游戏\"的。它会老老实实发展经济、爬科技树，甚至在一局里造出了飞龙（Mutalisk），在另一局里研究到了圣堂武士科技。虽然有时候研发做了一堆，兵力没跟上，但至少在\"试图理解游戏规则\"这件事上，Fable 比谁都认真。\n\nGrok 的表现最差。Grok 4.6 在一场 43 分钟的比赛里输出了超过 11000 个推理 token，却只发出了 6 批操作指令，全程没造过一个战斗单位。它本质上是把即时战略当成了回合制游戏，一直在想，忘了要动手。\n\n这个测试揭示的核心问题是：当前大模型在需要持续观察、快速决策、多线程协调的实时环境中，还远远不够用。即使是表现最好的模型，一个会打\"光子炮速推\"（一种最基础的快攻战术）的人类新手就能赢下所有比赛。但反过来看，这些模型已经能理解建造、采矿、进攻的基本概念，只是在执行节奏和多任务协调上差得远。\n\n测试的代码和对战平台已经开放，任何人都可以带自己的智能体上去打一局，地址是 https://t.co/AXAFG9iV0y。",
+    "createdAt": "Mon Sep 21 18:12:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2095688960156815360/O8Pnwbii_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1114652,
+      "friendsCount": 5958,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2102095924893827501",
+    "fullText": "Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal the last week.",
+    "createdAt": "Mon Sep 21 18:01:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 418946,
+      "friendsCount": 900,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2102093520441921536/vid/avc1/1920x1080/kLjnIpPz4TOGAhC_.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2102093852911796665",
+    "fullText": "Vlad Tenev said it on CNBC and again on our pod: tokenization is a freight train that will eat the entire financial system. Today, a stock, a building, a bond, and a loan are four different things held in four different systems. Tomorrow, they're the same programmable object on the same rails. Robinhood already has 200 tokenized stocks live, including SpaceX, which isn't even public. And AI agents on his platform are trading them right now. \n\n-- Every American child born since January 2025 gets $1,000 from the Treasury, invested automatically. 7 million accounts opened. \n\n-- Figure 3 walked into 30 strangers' homes it had never seen, made their beds, and folded their laundry. \n\n-- Treasury Secretary Bessent told the labs this week: \"The one thing we should not do is give them a blank check on liability. They will be held responsible.\"\n\n-- Vlad also founded Harmonic, building a mathematical superintelligence to formally verify AI code.",
+    "createdAt": "Mon Sep 21 17:53:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5356746,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2102093145051943229",
+    "fullText": "We’re working with an independent advisory group of mathematicians to help OpenAI responsibly share advances in AI and mathematics.\n\nThe group will advise on how we assess and communicate new mathematical results, uphold academic and professional standards, and build tools that support mathematical research and learning.\n\nThrough this work, we want mathematicians to be at the center of shaping how AI supports mathematical understanding and how its benefits reach the wider community.\n\nhttps://t.co/QCMFLFlIv8",
+    "createdAt": "Mon Sep 21 17:50:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305547,
+      "friendsCount": 8493,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2102092999954248189",
+    "fullText": "All the most valuable skills are unverifiable. It has always been the case to some extent, but especially now with the rise of AI.",
+    "createdAt": "Mon Sep 21 17:50:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 455961,
+      "friendsCount": 600,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2102088971883004413",
+    "fullText": "For those of you who want some coding experience:\n\nKestra's Hacktoberfest runs from October 1 through October 31, and it's a great chance to develop your reputation as an open-source contributor.\n\nYou can participate in a couple of ways:\n\n1. Fix an issue in Kestra's core or plugin repositories.\n\n2. Build a reusable Kestra workflow in YAML and submit it to the kestra-io/blueprints repository.\n\nYou will find ~200 issues labeled \"good-first-issue.\" Pick one, write the code to close it, and submit a PR with before-and-after screenshots that show the change.\n\nIf you build a workflow, your submission must include at least 3 runnable tasks, 1 flow task, 1 trigger, and at least 1 non-core plugin. They should all work together in a flow other people can reuse.\n\nYou know you made it when the Kestra maintainers accept and merge your PR.\n\nThere are prizes, by the way:\n\n• First place → MacBook Neo\n• Second place → Apple iPad\n• Third place → Apple gift card\n\nTo learn more, check out the official landing page: https://t.co/30VerwSMP1\n\nTo participate, make sure to register using the form below: https://t.co/SgIv4TTqvS\n\nWhen you fill out the form, select my name under \"Referred by.\"\n\nThanks to the @kestra_io team for partnering with me on this post.",
+    "createdAt": "Mon Sep 21 17:34:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 132627,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSwd4DkbYAAoj7Y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2102087979099717799",
+    "fullText": "Great paper from Microsoft Research and colleagues.\n\nIf you auto-generate MCP tools from agent trajectories, this one is worth your time.\n\nAutoTailor turns web trajectories into parameterized browser-automation APIs and then filters them.\n\nA quality filter drops APIs with the wrong granularity or duplicate function, and a usage filter keeps the ones likely to be needed.\n\nThat takes 1,283 candidates down to 87. Online, it watches task outcomes, adds APIs for recurring gaps and prunes ones that go unused, ending at 33.\n\nOn 106 WebArena Postmill tasks, the 33 APIs with a ReAct fallback reach 90.6% correctness against 87.5% for ReAct alone. Request-token cost drops 57.8% and latency 29.4%. Without the fallback, accuracy matches the unfiltered set while using 94.9% fewer request tokens.\n\nPaper: https://t.co/BqLiaAMvL2",
+    "createdAt": "Mon Sep 21 17:30:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 266868,
+      "friendsCount": 195,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2102081155277246532",
+    "fullText": "Jev-as-a-judge is now available in LangSmith. \n✅ Score every production trace instead of a sample. \n✅ Check more criteria per trace without the cost climbing. \n✅ Catch safety or security issues fast enough to trigger an automated response. \n\nGive it a try and let us know what you think!\n\nhttps://t.co/YDsbxCiGK7",
+    "createdAt": "Mon Sep 21 17:02:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1077630,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSwXCdpaYAAEUIL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2102080460247781401",
+    "fullText": "The SaaSpocalypse is off to a slow start\n\nSoftware stocks since the Feb 22 Citrini post:\n\nLarge cap: ~+27%\nSmall cap: ~+30%\nMid cap: ~+34%\n\nMore charts: https://t.co/TlqNcfrn9a https://t.co/NI8t90PGmX",
+    "createdAt": "Mon Sep 21 17:00:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 92271,
+      "friendsCount": 5477,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2102076331584344064",
+    "fullText": "looking at how agents talk to humans and on the openai tech report on Hugging Face incident, how they talk to each other, I'm actually curious where they picked up these lingos  no one talks about this\n\nis there a paper on how agent collab mixtures are curated?",
+    "createdAt": "Mon Sep 21 16:43:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "BornsteinMatt",
+      "name": "Matt Bornstein",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2090880177194897408/oiNHZQxv_normal.jpg",
+      "description": "GP at a16z & AI enthusiast. Investor in @cursor_ai, @inferact, @mirendil, @unconvAI, @character_ai, @replicate, @tabulario, and many others.",
+      "followersCount": 8699,
+      "friendsCount": 400,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BornsteinMatt/status/2102076171949314281",
+    "fullText": "PSA: I don't use Telegram, anyone claiming to be me is not me",
+    "createdAt": "Mon Sep 21 16:43:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 694718,
+      "friendsCount": 4912,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2102071917926613310",
+    "fullText": "What I like about Jev: for years, large generalist models sucked almost all the oxygen out of AI. \n\nBut there are huge opportunities in much more specialized and customized models, built for specific tasks and languages and as a result, orders of magnitude cheaper, faster and more optimized. There are 3 million of them publicly available on @huggingface.\n\nLet's build a much more diverse AI ecosystem!",
+    "createdAt": "Mon Sep 21 16:26:14 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "cocoweixu",
       "name": "Wei Xu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1823743197098729496/a6avHXob_normal.jpg",
@@ -370,7 +657,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 101648,
+      "followersCount": 101701,
       "friendsCount": 941,
       "location": "Seattle"
     },
