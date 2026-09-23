@@ -1,11 +1,233 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5309198,
+      "friendsCount": 799,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2102688252473782422",
+    "fullText": "A CS undergrad asked me where he could have most effect in the AI age. I said probably at either extreme: either close to the technology, actually making LLMs, or close to the customer, using AI to give them exactly what they want. Or maybe both if you can stretch that far.",
+    "createdAt": "Wed Sep 23 09:15:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SchmidhuberAI",
+      "name": "Jürgen Schmidhuber",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1715797038535680000/ZFrYnYWD_normal.jpg",
+      "description": "OG of: P and T in ChatGPT, recursive self-improvement, neural distillation, GAN/World Model, deepest learning. Co-authored most-cited AI paper of 20th century",
+      "followersCount": 219605,
+      "friendsCount": 0,
+      "location": "Switzerland, KSA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SchmidhuberAI/status/2102687769575444922",
+    "fullText": "\"Ezra Klein Calls for Ban on AI Recursive Self-Improvement\" (https://t.co/kQX9ZN90pl). Should I take that as a direct attack?",
+    "createdAt": "Wed Sep 23 09:13:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 290169,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HS4-pIvbYAAQL0M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+    "fullText": "⚡ Meet Qwen-Audio-3.1! ASR, TTS & Realtime are fully upgraded, joined by two new models: TTS-Next for audio creation and ASR-Next for audio understanding.\n\nFive models, one complete audio stack: understanding, generation, interaction & creation. \n\nPlus big price cuts across the lineup: TTS ~70% off, Realtime ~85% off, and ASR up to 95% off.\n\nHighlights: 🥳\n- ASR: stronger multilingual & dialect recognition, plus native polishing that auto-removes fillers & repetitions for cleaner, more logical transcripts.\n- ASR-Next: supports multi-speaker ASR with speaker labels, timestamps & aligned transcripts, and understands emotions, ambient & machine sounds for sound captioning, event localization, audio QA & reasoning.\n- TTS: multilingual & dialect synthesis with natural cross-lingual voice transfer; control emotion, speed & style via simple instructions.\n- TTS-Next: unified LM + diffusion framework generating voice, sound effects & background audio in one pass for audiobooks, podcasts, games & ads. \n- Realtime: speak & listen at once with anytime interruption, just like a real call; it even slows down and responds empathetically when it senses a low mood.\n\nUnlock the full potential of Qwen-Audio-3.1! 👇\n- Blog: https://t.co/e0M8wvj8Kg\n- Qwen-Audio-3.1-ASR:\nhttps://t.co/88lPQTPxyz\n- Qwen-Audio-3.1-Realtime:\nhttps://t.co/Y63sdtK2AC\n- More APIs: coming soon @qwen_cloud",
+    "createdAt": "Wed Sep 23 09:11:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37375,
+      "friendsCount": 1942,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2102678050257383424/vid/avc1/1280x720/PL5wJJKs9AxbuJus.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2102679118668324873",
+    "fullText": "阿里刚刚一口气发了五款语音模型：Qwen-Audio-3.1系列，并全线降价，ASR降95%、Realtime降85%、TTS降70%\n\n同时覆盖理解、生成、创作、实时交互的完整链条。阿里这次直接打出了语音模型的三板斧：能力全栈化、价格断崖下探、语音被推到Agent/硬件入口位置\n\n它这次的Realtime不是只会聊天，是全双工可打断、能识别情绪、能多语言切换，还能调用工具，这就会把语音从搜索式问答推向事务式对话\n\n实时语音从“功能”变成“交互入口”，直接冲击客服、助手以及硬件，AI眼镜、办公Agent、硬件结合等无屏化任务场景或将迎来一波热潮\n\nASR：能转写30种语言+16种中文方言、原生转写润色（去语气词/重复、语义重组）、分角色转写（谁在什么时候说了什么，带时间戳，支持插话/重叠语音）、流式低延迟（首字约160毫秒）\n\nASR-Next：从“语音转文字”扩展到“理解整个音频”，能听出情绪、环境声、机械声，理解事件时间、进行音频问答\n\nTTS：重点是同一音色跨语言/方言不变味，还能控制情绪和语速\n\nTTS-Next：这个比较狠，从“配音”升级到“做完整音频作品”，一次生成人声、音效、环境音，多角色音色一致、全程不变声；48kHz输出\n\n直接瞄准播客、有声书、影视、游戏、广告等场景\n\nRealtime：全双工，可同时说和听，可打断、能共情、能无缝切换语言、对话中能调用Agent工具完成任务\n\n#阿里语音模型  #QwenAudio",
+    "createdAt": "Wed Sep 23 08:39:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building open source AI you own @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 342016,
+      "friendsCount": 485,
+      "location": "London"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HS4gA9UWwAAhcc3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2102653282472579153",
+    "fullText": "The more things change https://t.co/8uGs3dHRhA",
+    "createdAt": "Wed Sep 23 06:56:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1338753,
+      "friendsCount": 2064,
+      "location": "LA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HS4Xiq1bMAAdQk3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2102643964528521286",
+    "fullText": "Hello computer,\n\nFind every Amazon purchase I ever made. \nCall the number of the manufacturer. \nSay you’re not satisfied.\nRequest a refund. \nIf they decline, threaten to leave a bad review.\nIf they decline, find the CEO’s phone number and ask him for a refund.\n\nNow, repeat the same process for items I never even purchased and see if you can get  them to send me money.\n\nIf they ask for a recipient, generate an image of one and send that.\n\nDo not stop until you’ve collected $1 million in refunds.",
+    "createdAt": "Wed Sep 23 06:19:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 696164,
+      "friendsCount": 904,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HS4VltqaQAAHF4Z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2102641816554332603",
+    "fullText": "what can’t muse do https://t.co/yvV0qjKLNa",
+    "createdAt": "Wed Sep 23 06:10:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 696164,
+      "friendsCount": 904,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HS4QN5fawAAfzyC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2102635911066665213",
+    "fullText": "gotta muse em all https://t.co/rRHeTTOJK9",
+    "createdAt": "Wed Sep 23 05:47:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 71851,
+      "friendsCount": 36738,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2102628753633681470",
+    "fullText": "you either die trying to get to the frontier, or live long enough to serve inference",
+    "createdAt": "Wed Sep 23 05:18:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "EMostaque",
+      "name": "Emad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774915113922809856/6RXK1Yy0_normal.png",
+      "description": "Building open source AI you own @ii_posts. \n\nFounder @StabilityAI. \n\nConsistent inference is possible.",
+      "followersCount": 342016,
+      "friendsCount": 485,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EMostaque/status/2102625949174862290",
+    "fullText": "When does an agent become a fiduciary",
+    "createdAt": "Wed Sep 23 05:07:45 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 492552,
+      "followersCount": 492587,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HS4AOCRXoAAcTqt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102618608027476078",
+    "fullText": "Read “Machine Super Intelligence” — visionary 2008 PhD dissertation by @ShaneLegg online here: https://t.co/S82z7n3YPl via @burkov https://t.co/gmfdfDflfv",
+    "createdAt": "Wed Sep 23 04:38:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492587,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102617629642952962",
+    "fullText": "Daily #1683\n0️⃣5️⃣⬛0️⃣6️⃣\n0️⃣7️⃣⬛0️⃣8️⃣\n1️⃣1️⃣⬛0️⃣9️⃣\n1️⃣0️⃣⬛1️⃣2️⃣\n1️⃣3️⃣⬛1️⃣4️⃣\n1️⃣5️⃣⬛1️⃣6️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\n1️⃣9️⃣⬛2️⃣0️⃣\nhttps://t.co/1gTLFg7imx\n#sedecordle",
+    "createdAt": "Wed Sep 23 04:34:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492587,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2102615066042368497",
+    "fullText": "This weekend ➡️ Agentic AI workshop hosted by @PacktPublishing\n💥💥💥\n“Build Production-Ready AI Agents: From Workflow to Deployment”, presented by Ashley Nicholson\n✨✨✨\nSee more details and Register at https://t.co/VO5DW3LPO4 — my 40% OFF discount code will be automatically applied.🚀",
+    "createdAt": "Wed Sep 23 04:24:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492587,
       "friendsCount": 3362,
       "location": "Maryland, USA"
     },
@@ -23,7 +245,7 @@
       "name": "Alexandr Wang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
       "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
-      "followersCount": 694494,
+      "followersCount": 696164,
       "friendsCount": 904,
       "location": "San Francisco, CA"
     },
@@ -40,7 +262,7 @@
       "screenName": "JeffreyTowson",
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
-      "description": "I help leadership teams launch AI & agentic initiatives fast. Professor & Founder of Agentic Org Now. Host of the Tech Strategy Podcast. Free email newsletter.",
+      "description": "I help mgmt teams launch AI & agentic initiatives fast. Alibaba Professor, Founder of Agentic Org Now. Host of the Tech Strategy Podcast. Free email newsletter.",
       "followersCount": 5714,
       "friendsCount": 1216,
       "location": "Beijing"
@@ -59,7 +281,7 @@
       "screenName": "JeffreyTowson",
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
-      "description": "I help leadership teams launch AI & agentic initiatives fast. Professor & Founder of Agentic Org Now. Host of the Tech Strategy Podcast. Free email newsletter.",
+      "description": "I help mgmt teams launch AI & agentic initiatives fast. Alibaba Professor, Founder of Agentic Org Now. Host of the Tech Strategy Podcast. Free email newsletter.",
       "followersCount": 5714,
       "friendsCount": 1216,
       "location": "Beijing"
@@ -76,8 +298,8 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 175267,
-      "friendsCount": 1305,
+      "followersCount": 175338,
+      "friendsCount": 1306,
       "location": ""
     },
     "images": [
@@ -93,7 +315,7 @@
       "screenName": "JeffreyTowson",
       "name": "Jeffrey Towson 陶迅",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
-      "description": "I help leadership teams launch AI & agentic initiatives fast. Professor & Founder of Agentic Org Now. Host of the Tech Strategy Podcast. Free email newsletter.",
+      "description": "I help mgmt teams launch AI & agentic initiatives fast. Alibaba Professor, Founder of Agentic Org Now. Host of the Tech Strategy Podcast. Free email newsletter.",
       "followersCount": 5714,
       "friendsCount": 1216,
       "location": "Beijing"
@@ -110,7 +332,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
-      "followersCount": 320882,
+      "followersCount": 320895,
       "friendsCount": 1086,
       "location": "DAIR.AI Academy"
     },
@@ -126,7 +348,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
-      "followersCount": 320882,
+      "followersCount": 320895,
       "friendsCount": 1086,
       "location": "DAIR.AI Academy"
     },
@@ -144,7 +366,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2080184671460282368/NKn-1_VA_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 160326,
+      "followersCount": 160366,
       "friendsCount": 3386,
       "location": "on ⛓"
     },
@@ -153,6 +375,22 @@
     "tweetUrl": "https://x.com/saranormous/status/2102572904676557196",
     "fullText": "just got off the phone with a new engineer hire at a portco with a very wise insight\n\n“AI has been replacing my job since I got a CS degree, yet I’m busier than ever - we can all just be more ambitious”\n\nthis is the same insight that the inimitable @JensenHuang has for us all",
     "createdAt": "Wed Sep 23 01:36:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 419178,
+      "friendsCount": 901,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2102571371947864526",
+    "fullText": "MYFIXAM — Jane Odum\n\nSmall Business Services\n\nTaskRabbit for Nigeria's informal artisan economy, where 93% of workers have no safe way to get paid. That number is the entire business case.\n\nhttps://t.co/XEp5NxCxcO",
+    "createdAt": "Wed Sep 23 01:30:53 +0000 2026"
   },
   {
     "user": {
@@ -176,7 +414,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
-      "followersCount": 1338624,
+      "followersCount": 1338753,
       "friendsCount": 2064,
       "location": "LA"
     },
@@ -387,7 +625,7 @@
       "name": "Riley Goodside",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
       "description": "Mostly screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
-      "followersCount": 230509,
+      "followersCount": 230547,
       "friendsCount": 3576,
       "location": "Virginia, USA"
     },
@@ -403,7 +641,7 @@
       "name": "Sam Altman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
       "description": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-      "followersCount": 6270279,
+      "followersCount": 6271572,
       "friendsCount": 1031,
       "location": "SF"
     },
