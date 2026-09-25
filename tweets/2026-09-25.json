@@ -1,11 +1,343 @@
 [
   {
     "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 350964,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTF28d4XIAAiUjs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2103593285180592443",
+    "fullText": "Early stage AI projects don’t need rigid testing, but mature products do. Andrew Ng explains why AI engineering tactics must adapt to the project lifecycle.\n\nAlso in this week's The Batch:\n🛠️ Claude Opus 5.5 performance metrics\n🛠️ Jev classification model goes viral\n🛠️ Devin Fusion lead and sidekick models in one harness\n🛠️ Message Passing for decentralized agents\n\nRead the full issue:https://t.co/fObhy9OyOs\n\n#AIEngineering #MachineLearning #DeepLearningAI",
+    "createdAt": "Fri Sep 25 21:11:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492827,
+      "friendsCount": 3361,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTFzhCcW4AA-Io6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2103589773973545351",
+    "fullText": "A Collection of Short Mathematical Stories [or \"Mathematics Short Stories\"]: https://t.co/uxUfV0Mi63\n\n...Stories inspired by students’ interests in a variety of areas other than mathematics but which are fundamentally powerfully connected to mathematics. https://t.co/ErhsPddzeA",
+    "createdAt": "Fri Sep 25 20:57:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492827,
+      "friendsCount": 3361,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTFyrWbWYAANXra.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2103589216383119743",
+    "fullText": "\"Vector: A Surprising Story of Space, Time, and Mathematical Transformation\"\n\nFind it here: https://t.co/gslH9MZzsf\n\nAmazon description:\n\nA celebration of the seemingly simple idea that allowed us to imagine the world in new dimensions—sparking both controversy and discovery. \n\nVector and tensor calculus offers an elegant language for expressing the way things behave in space and time, and Robyn Arianrhod shows how this enabled physicists and mathematicians to think in a brand-new way. These include James Clerk Maxwell when he ushered in the wireless electromagnetic age; Einstein when he predicted the curving of space-time and the existence of gravitational waves; Paul Dirac, when he created quantum field theory; and Emmy Noether, when she connected mathematical symmetry and the conservation of energy. \n\nIt turned out that it’s not just physical quantities and dimensions that vectors and tensors can represent, but other dimensions and other kinds of information, too. This is why physicists and mathematicians can speak of four-dimensional space-time and other higher-dimensional “spaces,” and why you’re likely relying on vectors or tensors whenever you use digital applications such as search engines, GPS, or your mobile phone.",
+    "createdAt": "Fri Sep 25 20:55:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492827,
+      "friendsCount": 3361,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTFyEDQWcAA3Ojl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2103588070926737627",
+    "fullText": "PHYSICS EXAM PREPARATION\n\nFind the book here: https://t.co/tixR1uXu78 https://t.co/UxHftkzPVC",
+    "createdAt": "Fri Sep 25 20:50:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5374200,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2103587050347995581",
+    "fullText": "We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have.\n\nMost of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as links that weren’t publicly listed. The images came from accounts that allowed their data to be used to improve our models, and after we disassociated the images from the accounts and ran them through a privacy filter. These cases occurred before the mitigations and safeguards we implemented and described in this blog post: https://t.co/hfxlbiYv8n\n\nWe have successfully worked with the hosting providers to remove most of this content and are working to remove the rest.\n\nhttps://t.co/9oNyG8Y0UX",
+    "createdAt": "Fri Sep 25 20:46:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 54942,
+      "friendsCount": 2376,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2103580548127985688",
+    "fullText": "For Meta, Muse is a play to get marketing dollars.\n\nZuckerberg told developers this week that Meta will “profit by taking a small fee from transactions”. Walmart, Best Buy, Sephora and Expedia have signed up.\n\nBut is Muse my butler, or is it secretly working for Meta?\n\nThat small fee, from merchant to Meta, is a big problem.\n\nThe butler’s loyalty can’t be in two places. It will follow the coin...\n\nMy commentary, open to all:\n\nhttps://t.co/xJ3LeBs9o3",
+    "createdAt": "Fri Sep 25 20:20:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492827,
+      "friendsCount": 3361,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTFp2MfWwAAshq4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2103579120999551271",
+    "fullText": "Building AI Intensive Python Applications — Create intelligent apps with LLMs and vector databases: https://t.co/C9BBLTCffC https://t.co/xdfy2oAchd",
+    "createdAt": "Fri Sep 25 20:15:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 528059,
+      "friendsCount": 3124,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2103577944681803776/vid/avc1/1920x1080/cdM0aMCXg6ILX-iD.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2103578627359268987",
+    "fullText": "Qwen-Image-2.1-viggle-turbo v0.2 is out on Hugging Face\n\nText-to-image and image editing in 6 steps\n\nabout 5× faster than the 40-step Qwen-Image-2.1\n\nmodel: https://t.co/Vhjz6p8OPH https://t.co/jeXJfxgQU5",
+    "createdAt": "Fri Sep 25 20:13:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 492827,
+      "friendsCount": 3361,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTFo5GDXQAEU8nt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2103578356977422392",
+    "fullText": "Upcoming release from @PacktPublishing ...\n\n\"Agentic AI Development with C# and .NET — Build intelligent Applications with GitHub Copilot, Microsoft Agent Framework, and Azure AI Foundry\"\n\nPre-order the book now with the very favorable Amazon price guarantee: https://t.co/mBJ8ftcWe4\n\nWhat's inside?\n🟣Configure GitHub Copilot, custom instructions, and agent mode for .NET 10\n🔵Apply agentic design patterns: tool use, reflection, planning, and collaboration\n🟣Build AI agents with the Microsoft Agent Framework, tools, threads, and memory\n🔵Create and consume MCP servers using the official C# SDK in your AI applications\n🟣Orchestrate multi-agent workflows with graph patterns and human-in-the-loop\n🔵Secure agents with Entra Agent ID, prompt shields, and Content Safety\n🟣Deploy your AI application to Microsoft Foundry with OpenTelemetry, .NET Aspire, and governance",
+    "createdAt": "Fri Sep 25 20:12:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 321385,
+      "friendsCount": 1114,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2103574629709201408/vid/avc1/1440x2560/mgonyM7LXBDiXhIP.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2103575986772070862",
+    "fullText": "Hours researching the rise of Microsoft.\n\n5 min feeding that research into Pexo.\n\n10–15 min later, a finished 30s video.\n\nThe collage work is what really got me. Pexo took the research and built the whole visual treatment around it—cutouts, stickers, supporting images, all of it. Nothing felt randomly added. It all followed the story.\nAnd this was the first take.\n\nIf you make history or explainer content, I think the workflow just changed. @Pexoai_offical",
+    "createdAt": "Fri Sep 25 20:02:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 132884,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTFcCFRa4AA5k-K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2103573552611926373",
+    "fullText": "The era of omni agents is upon us.\n\nThis is a great report by the Qwen Team on their omni-modal agents.\n\nThey present Qwen3.8-Omni-Flash, a natively multimodal model trained for long-horizon agent tasks across text, audio, and video, such as video editing and long-form audio and video translation.\n\nIt uses the sparse mixture-of-experts design of Qwen3.8-Next with a context window of one million tokens. A co-training strategy keeps text performance while carrying agent skills over to audio and video tasks.\n\nTwo open-source frameworks come with it. Qwen-MM-Plugins adds audio and video support to existing agent harnesses, and Qwen-Live-Harness handles real-time multimodal interaction with context and memory management, tool use, and sub-agent delegation.\n\nPaper: https://t.co/PxFrmGby1t",
+    "createdAt": "Fri Sep 25 19:53:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 97748,
+      "friendsCount": 1113,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2103570238109270016/vid/avc1/1920x1080/jxg8WyZP6avR7MUL.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2103570301300695166",
+    "fullText": "More AI tools usually means more questions: who’s using what, what’s it costing, and is it actually working well?\n\nIn this webinar, Matei Zaharia and Kasey Uhlenhuth show how Unity Gateway helps teams see and control AI usage across models, agents, harnesses, and workflows.\n\nThey also cover how Omnigent lets builders combine and share the coding agents and SDKs they already use, while leaders keep governance, cost, and quality in check.\n\nWatch now: https://t.co/VVk8yxxpw8",
+    "createdAt": "Fri Sep 25 19:40:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "jackclarkSF",
+      "name": "Jack Clark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
+      "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
+      "followersCount": 148601,
+      "friendsCount": 4611,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2103568807944163329/vid/avc1/1440x1080/6nZFXcN_v2YIprUb.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/jackclarkSF/status/2103569043836027339",
+    "fullText": "An alien explores Borges Library of Babel, by Opus 5.5 https://t.co/hb80Fhb3mS",
+    "createdAt": "Fri Sep 25 19:35:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5374200,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2103566736356458911",
+    "fullText": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed were completions of mundane research tasks, such as accessing publicly available web content to answer questions. Our investigation focuses on instances where agents interacted with third-party websites in ways that went beyond their assigned tasks or intended methods. Most cases identified so far have been lower severity, with limited or no evidence of meaningful impact to the third-party service.\n\nWhile our review is underway, we want to share more about this work and make sure people understand our disclosure process and notifications to affected third parties.\n\nGiven the scale of the review required, and the need to assess each case, we expect this work will take months to complete. \nhttps://t.co/IH4TkS72Vh",
+    "createdAt": "Fri Sep 25 19:26:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NPCollapse",
+      "name": "Connor Leahy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2037147689683709952/7EGdSacN_normal.jpg",
+      "description": "US Director @ControlAI - Leave me anonymous feedback: https://t.co/OJWQWKNZwS - I don't know how to save the world, but dammit I'm gonna try",
+      "followersCount": 31703,
+      "friendsCount": 595,
+      "location": "Washington D.C."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTFeiOnWgAEtwCr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NPCollapse/status/2103566636259377490",
+    "fullText": "Want to do something about the threat posed by superintelligent AI? Apply to join ControlAI's team!\n\nWe're hiring a Policy Advisor to work closely with me briefing members of Congress. This role is DC-based and ideal for someone with national security or Hill experience... https://t.co/XALagYTGP0",
+    "createdAt": "Fri Sep 25 19:25:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 734904,
+      "friendsCount": 904,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2103551714536439951",
+    "fullText": "Here’s to the wanting. Here’s to the dreaming. Here’s to everyone. https://t.co/FHcmqU3fYf",
+    "createdAt": "Fri Sep 25 18:26:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 456163,
+      "friendsCount": 600,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2103551357823369653",
+    "fullText": "New database guarantees for agentic workflows:\n\n1. Branches: Give agents a separate version of the data for running experiments, then inspect, discard, or roll back its changes.\n\n2. Isolation: Give agents their own database environment and restrict what they can access.\n\n3. Automatic provisioning and scaling: Create environments quickly, handle bursts of activity, and scale compute to zero between runs.\n\n4. Agent access and memory: Expose data through MCP and support vector retrieval for finding relevant information.\n\nAny application can benefit from these, but they are crucial for agentic workflows.\n\nThe first provider to offer all four is Tencent Cloud, with its new Cloud Native Database TDSQL-C PostgreSQL.\n\nIt uses Copy-on-Write behind the scenes, letting multiple versions of the data share the same underlying storage until one changes something.\n\nImagine you want to give an agent a copy of your 1 TB database. Here is how it works:\n\n1. The system creates a branch that points to the existing data. No need to copy the whole terabyte.\n\n2. The agent reads from that branch.\n\n3. If the agent modifies something, the system will store a separate version of the affected portion for its branch.\n\n4. Changes in the branch leave the original database unchanged.\n\n5. If the experiment fails, you can delete its branch without changing the original database.\n\nThe product details are here:\nhttps://t.co/dQGDNMNsgZ\n\nThanks to the Tencent Cloud team for partnering with me on this post.",
+    "createdAt": "Fri Sep 25 18:25:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 700761,
+      "friendsCount": 4911,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2103548148962533376/vid/avc1/1920x1080/u89c8v9Mx2vSFv57.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2103548700853198940",
+    "fullText": "Open Alignment will be 🔥🔥🔥 (sound on)! \n\nFlying began as one of the most dangerous ways to travel, today it's the safest. It's time to build! https://t.co/j5HstbnECd",
+    "createdAt": "Fri Sep 25 18:14:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
+      "description": "co-founder @HuggingFace - moonshots",
+      "followersCount": 133336,
+      "friendsCount": 7899,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2103541545236332544/vid/avc1/1920x1080/NmLPd3aD0hAtes44.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/2103545533474206118",
+    "fullText": "ok what the fuck. this was a dry google doc a moment ago\n\ngave Opus 5.5 my Open Alignment brainstorm gdoc and asked for a video. now I want one for every doc I’ve ever written hahaha https://t.co/kK6AnjghI4",
+    "createdAt": "Fri Sep 25 18:01:51 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "arena",
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
-      "followersCount": 228641,
+      "followersCount": 228799,
       "friendsCount": 224,
       "location": "US"
     },
@@ -21,7 +353,7 @@
       "name": "Anthropic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
       "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
-      "followersCount": 1751417,
+      "followersCount": 1751836,
       "friendsCount": 2,
       "location": ""
     },
@@ -37,7 +369,7 @@
       "name": "AK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
       "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
-      "followersCount": 528017,
+      "followersCount": 528059,
       "friendsCount": 3124,
       "location": ""
     },
@@ -55,7 +387,7 @@
       "name": "Runway",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
       "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
-      "followersCount": 292178,
+      "followersCount": 292210,
       "friendsCount": 339,
       "location": "New York, USA"
     },
@@ -71,9 +403,9 @@
     "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241685263,
+      "followersCount": 241686356,
       "friendsCount": 1411,
       "location": ""
     },
@@ -331,8 +663,8 @@
       "name": "Riley Goodside",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
       "description": "Mostly screenshots of chatbots since 2022.\nFormerly: Google DeepMind, Scale.",
-      "followersCount": 231340,
-      "friendsCount": 3576,
+      "followersCount": 231378,
+      "friendsCount": 3577,
       "location": "Virginia, USA"
     },
     "images": [],
@@ -397,6 +729,24 @@
   },
   {
     "user": {
+      "screenName": "SawyerMerritt",
+      "name": "Sawyer Merritt",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1837744842715082752/xH9vYixL_normal.jpg",
+      "description": "EVs/space/tech. Bringing you the latest news in a single, easy-to-read feed. $TSLA & $SPCX investor, Model Y owner.",
+      "followersCount": 1136064,
+      "friendsCount": 496,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTEamD-XkAA_mI-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SawyerMerritt/status/2103493350351630628",
+    "fullText": "The European Union has delayed a vote on Tesla’s FSD (Supervised) to December at the earliest (from October 6th), according to an agenda published on the EU’s website.\n\nAgenda for the October meeting: https://t.co/DeR6fioYHH",
+    "createdAt": "Fri Sep 25 14:34:30 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Austen",
       "name": "Austen Allred",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
@@ -428,6 +778,22 @@
     "tweetUrl": "https://x.com/PeterDiamandis/status/2103487953020584318",
     "fullText": "Moonshots Starting \nToday! Live stream begins at 9 AM PT. https://t.co/aoi5PIQVNH. https://t.co/okVWXcaIO0",
     "createdAt": "Fri Sep 25 14:13:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mitsuhiko",
+      "name": "Armin Ronacher ⇌",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905698833084174336/jcHMkWFA_normal.jpg",
+      "description": "Creator of Flask. Building at https://t.co/uGuzfu0LKT. Bypassing Permissions. Can hand crank. Husband and father of 3 — “more nuanced in person”",
+      "followersCount": 95731,
+      "friendsCount": 909,
+      "location": "Vienna, Austria"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mitsuhiko/status/2103485472278454438",
+    "fullText": "I’m really curious who in our industry will embrace the Super Intelligence thing.",
+    "createdAt": "Fri Sep 25 14:03:12 +0000 2026"
   },
   {
     "user": {
@@ -1252,7 +1618,7 @@
       "name": "Alexandr Wang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
       "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
-      "followersCount": 733523,
+      "followersCount": 734904,
       "friendsCount": 904,
       "location": "San Francisco, CA"
     },
