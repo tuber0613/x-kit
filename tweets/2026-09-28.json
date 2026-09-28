@@ -1,0 +1,540 @@
+[
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 321657,
+      "friendsCount": 1124,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTQ_x0JbMAAv53B.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2104377054829613473",
+    "fullText": "Banger paper from Microsoft Research.\n\n(bookmark it)\n\nThey run 1K+ coding agents at once to test a scalable self-organized multi-agent harness.\n\nThis is an interesting test because most multi-agent systems today have some hierarchy or structure.\n\nAgensh has no central orchestrator.\n\nIt coordinates parallel coding agents through a shared state instead of a central orchestrator.\n\nEach agent gathers context, claims a sub-task, does the work, shares what it found, verifies the result, and merges it, all asynchronously through a shared workspace and a message channel.\n\nOn the five hardest ProgramBench tasks with GPT-5.6-sol, increasing agents from 1 to 128 raises the mean final test-pass rate from 19.31% to 28.78%.\n\nLarger teams also reach a given pass rate sooner.\n\nOn pandoc, 1,024 agents take the test-pass rate from 33.89% to 55.06%.\n\nThe authors also report forms of cooperation that the agents start on their own and that become standard practice as the team grows.\n\nPaper: https://t.co/gSASQJ2ThT\n\nChat with Paper: https://t.co/Ywv8pkQGVU",
+    "createdAt": "Mon Sep 28 01:06:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help mgmt teams launch agentic initiatives fast. Alibaba Professor, Tencent AI Thought Leader, Founder of Agentic Org Now. Tech Strategy Podcast.",
+      "followersCount": 5711,
+      "friendsCount": 1218,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2104369486963056777",
+    "fullText": "4 TYPES OF SWITCHING COSTS FOR DURABLE MOATS\n\nI like switching costs as competitive advantages.\n\nThey’re not as powerful as network effects.\n\nBut they are way more available. \n\nEspecially to b2b businesses. \n\nHere are 4 types. I believe this list is originally from Hamilton Helmer (not sure).\n\n1. Financial switching costs.\n\nThese are direct monetary losses and contractual penalties incurred during a vendor migration.\n\nThink early cancellation fees, sunk infrastructure spending, and unamortized equipment purchases.  \n\n2. Procedural switching costs\n\nThese are operational barriers from necessary retraining and systems integration.\n\nReorganizing staff routines and reformatting legacy databases can create painful productivity declines.\n\nWhich makes switching unappealing.  \n\n3. Relational and risk based switching costs\n\nPeople avoid switching from a proven vendor because of the risk of unexpected  problems and operational downtime.\n\nTake-aways for managers?\n\n-Don’t rely strictly on financial contracts.\n\nBuild softer procedural friction into the operational habits of your customers.\n\n2. Identify the perceived operational risks of a system failure\n\nPosition your offering as the most reliable choice in the market.\n\nI hope this framework helps.\n\nYou can learn more (including  switching cost 4) here:\n\nhttps://t.co/aorbNkPo4y\n\n———\n\nAbout Us: We help businesses launch AI agents fast.\n\nGet our free Agentic Frontier email here:\nhttps://t.co/KoJpQkRj5J\n\n#CompetitiveAdvantage",
+    "createdAt": "Mon Sep 28 00:35:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 734643,
+      "friendsCount": 829,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2104365701410820363",
+    "fullText": "The purpose of the AI industry should be to produce tools that, in the human hand, will improve human prosperity and welfare.\n\nIt should not be to create a \"successor species\" to the human race. Entertaining such a thought makes you, de facto, the enemy of all present and future humans.",
+    "createdAt": "Mon Sep 28 00:20:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241705484,
+      "friendsCount": 1412,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2103533196721704960/vid/avc1/1920x1080/hK-nvYk8GWyJLtjS.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2104360927474921529",
+    "fullText": "I really felt the AGI profoundly this time https://t.co/tiAB4qETtt",
+    "createdAt": "Mon Sep 28 00:01:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2104358028694724608/pu/vid/avc1/1280x720/amnl0GsFW8GJwISQ.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104358744335269966",
+    "fullText": "Stablecoins could become one of America’s most powerful financial exports. By putting more dollars into global circulation, they can strengthen demand for the dollar while giving people around the world easier access to it. https://t.co/xFoxyBHhOA",
+    "createdAt": "Sun Sep 27 23:53:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493054,
+      "friendsCount": 3361,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTQtVKyXUAAm1OX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2104356771494306229",
+    "fullText": "150 Most Frequently Asked Questions on Quant Interviews (Third Edition. Pocket Book Guides for Quant Interviews): https://t.co/g5BZR2lUJr\n\nTopics: • Statistics and Machine Learning\n• Mathematics, calculus, differential equations\n• Covariance and correlation matrices. Linear algebra\n• Financial instruments: options, bonds, swaps, forwards, futures\n• C++, algorithms, data structures\n• Monte Carlo simulations. Numerical methods\n• Probability. Stochastic calculus\n• Brainteasers",
+    "createdAt": "Sun Sep 27 23:45:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493054,
+      "friendsCount": 3361,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTQsq6iWgAEkMIs.jpg",
+      "https://pbs.twimg.com/media/HTQsq6jWoAAthfN.jpg",
+      "https://pbs.twimg.com/media/HTQsq6YXsAAO5-4.jpg",
+      "https://pbs.twimg.com/media/HTQsq6WWgAAAcVo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2104356047985279310",
+    "fullText": "1 - Grokking Deep Learning: https://t.co/Q2F5JYIV0m\n+\n2 - Grokking Machine Learning: https://t.co/qlHXgNeHBR\n+\n3 - Grokking AI Algorithms: https://t.co/kfCgiz7FQP\n+\n4 - Grokking AI Applications: https://t.co/5vYBoVO8XY\n\n1+2+3+4=💯🏆 https://t.co/sc2IegfBqe",
+    "createdAt": "Sun Sep 27 23:42:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2104336221619257344/vid/avc1/1920x1080/s3hZAg2TSILL9AKv.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104346597307900136",
+    "fullText": "@CathieDWood hasn't changed her $1 million Bitcoin forecast. Even as stablecoins take on a bigger role, she believes BTC's core thesis remains intact. https://t.co/Bbh6cbLHJc",
+    "createdAt": "Sun Sep 27 23:05:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2104345959484342272/pu/vid/avc1/1280x720/fklmU10t0JuL56oM.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104346277236363656",
+    "fullText": "Unfortunately, @PalmerLuckey is right, we need to act before things become politically popular. https://t.co/gMZYXKP0mM",
+    "createdAt": "Sun Sep 27 23:03:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2104335481865723904/vid/avc1/1920x1080/kwJqa3xh33HE1oO0.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104339802568962501",
+    "fullText": "This is how you win $500,000 and receive non-dilutive seed capital, the best kind with AI!\n\nCongratulations Lucas Martinic (POLYFORK), and thank you to our judges @CathieDWood @OfficialLoganK @PalmerLuckey @markpinc https://t.co/yl0VPCVinK",
+    "createdAt": "Sun Sep 27 22:38:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 133053,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTQdN8Ia0AA7JYo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2104339055194546595",
+    "fullText": "An interesting idea is to continually train specialized models on skills.\n\nThis paper explores that idea.\n\nThey propose SkillGym which turns human-written skills into 2,756 training environments with code-based checkers, then fine-tunes on 8,364 successful trajectories.\n\nAfter fine-tuning, Qwen3.5-35B-A3B running in Claude Code gains 19.10 points on Terminal-Bench 2.1 and 28.13 points on skill-assisted SkillsBench v1.1, where it reaches 51.47%.\n\nThat is above the reported scores for Claude Sonnet 4.6 and GPT-5.4 Mini.\n\nWith no skills loaded, the trained model beats the base model that has the skills in context.\n\nPaper: https://t.co/ubb53Qd1Ms",
+    "createdAt": "Sun Sep 27 22:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2104329613979840512/vid/avc1/1920x1080/UXD5k0IgNIWs4CuB.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104333095835148659",
+    "fullText": "If @markpinc  were starting from zero, he'd rethink the entire online social experience. Finding ways to use AI and agents to make social media less toxic &amp; time-consuming. https://t.co/CkZkwEEmOV",
+    "createdAt": "Sun Sep 27 22:11:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2104326313872093184/vid/avc1/1920x1080/E_VlTRmQmEXptfX5.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104329017453408260",
+    "fullText": "If @OfficialLoganK  were starting from zero in AI today, he'd look at the data. Compute has been massively derisked, and data is quickly becoming the next major bottleneck. https://t.co/gMDL4d7CEY",
+    "createdAt": "Sun Sep 27 21:55:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2104324045437014016/pu/vid/avc1/1280x720/IrbNmybGSTargyja.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104325521513570761",
+    "fullText": "@CathieDWood's advice for younger generations, if she were to start from zero, is to build a company with AI and zero employees. https://t.co/kTc8bkagT4",
+    "createdAt": "Sun Sep 27 21:41:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493054,
+      "friendsCount": 3361,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTQQ1olXwAABSym.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2104325444183191917",
+    "fullText": "Get it at https://t.co/3j2WiBgGJI https://t.co/4YZHp3X4kU",
+    "createdAt": "Sun Sep 27 21:40:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2104306578983911424/vid/avc1/1920x1080/JoRQT_pFH199G9od.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104324610733031590",
+    "fullText": "@neiltyson explained to the Moonshots Live audience why art can reveal ways of seeing and feeling the world that science alone cannot. https://t.co/RYyyY3syXT",
+    "createdAt": "Sun Sep 27 21:37:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1079914,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTQOV8saoAEWm2U.jpg",
+      "https://pbs.twimg.com/media/HTQOWRfbAAANYEK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2104322707219525996",
+    "fullText": "https://t.co/5WNRoR7V9g",
+    "createdAt": "Sun Sep 27 21:30:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 485050,
+      "friendsCount": 1630,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2104322510506397949",
+    "fullText": "Koivun is very fun to watch. Has that dog in him.",
+    "createdAt": "Sun Sep 27 21:29:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2104319061358473216/vid/avc1/1280x720/kL9zLGip1gI3a3Ek.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104320800644108594",
+    "fullText": "THANK YOU to everyone who joined us at Moonshots Live, from the speakers who shared their ideas, and to the founders, builders, and creators who came to celebrate and share their visions of a future worth living.\n\nThis community is what made this event special, and I'm incredibly grateful to be building a better world alongside all of you!",
+    "createdAt": "Sun Sep 27 21:22:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTQHi0Cb0AArJhL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104317560561017124",
+    "fullText": "Following Moonshots Live, we brought the community together for open discussions and direct access to the people working on the edge of what's possible. \n\n@AnoushehAnsari broke down what it actually takes to design an XPRIZE capable of pulling breakthrough solutions out of the world.",
+    "createdAt": "Sun Sep 27 21:09:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "shivon",
+      "name": "Shivon Zilis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
+      "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
+      "followersCount": 617723,
+      "friendsCount": 1736,
+      "location": "Palo Alto, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/shivon/status/2104316629026796007",
+    "fullText": "New day, new life",
+    "createdAt": "Sun Sep 27 21:05:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTQGqrdbIAAlZSO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104314259492720906",
+    "fullText": "The winners of the Build with Gemini @XPRIZE proved to the world how AI is giving entrepreneurs everywhere the tools to turn a simple idea into a revenue-generating engine in just 90 days. \nCongratulations to Lucas Martinic (POLYFORK)! https://t.co/HmDEpW1IT6",
+    "createdAt": "Sun Sep 27 20:56:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2104311056667680768/vid/avc1/1920x1080/koKIjvOQWaID0FMx.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104311970539483220",
+    "fullText": "@BenLamm told us about the potential AI has to reshape biological research and come up with experiments. https://t.co/gftqdNgZap",
+    "createdAt": "Sun Sep 27 20:47:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420326,
+      "friendsCount": 904,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2104304527822221312/pu/vid/avc1/1280x720/xN1Ga0CVQPCoPVMW.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2104305016987136102",
+    "fullText": "I’ve had it wrong my whole career…\n\n@astroteller https://t.co/vPRTo0iFd8",
+    "createdAt": "Sun Sep 27 20:19:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 97867,
+      "friendsCount": 1113,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTP88d6WAAASuhP.jpg",
+      "https://pbs.twimg.com/media/HTP89riWwAAjxcT.jpg",
+      "https://pbs.twimg.com/media/HTP8-7gWoAAoyf1.jpg",
+      "https://pbs.twimg.com/media/HTP9AHyXkAAmByG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2104303650352857535",
+    "fullText": "91% of enterprises already have two or more AI coding tools active today. Managing that sprawl is the harder problem.\n\nA scalable agent strategy needs three things:\n\nChoice: to build on any model, harness, or framework\nContext: so every agent works from the same governed context\nControl: to govern models, tools, MCP servers, skills, and agents in one place\n\nGet the practical framework to scale agent fleets with less fragmentation: https://t.co/AlOCgIdQWn",
+    "createdAt": "Sun Sep 27 20:14:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1079914,
+      "friendsCount": 63,
+      "location": "The Cloud"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTP5wCWaIAAUrnL.jpg",
+      "https://pbs.twimg.com/media/HTP5wdfagAA3__f.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2104300067318563037",
+    "fullText": "https://t.co/8yHP1XplQF",
+    "createdAt": "Sun Sep 27 20:00:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 321657,
+      "friendsCount": 1124,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTP1KavawAAb3ua.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2104295014117589053",
+    "fullText": "Cool paper on catching alignment failures with Jev.\n\nThe ideas is to ask Jev one generic yes/no question about a model's response, and use its probability as a score.\n\nWith no extra training, that score separates failures from good responses well, with a median AUROC of 0.886.\n\nIt is also cheap. On 19 benchmarks, a Jev pass cost $0.30, while the LLM judges those benchmarks use cost $18.96.\n\nResearchers built RLCDAlignBench from 44 existing benchmarks across ten failure types, including sycophancy, jailbreaks, deception, prompt injection and reward hacking. Jev, TypeSafe AI's calibrated decision model, answers many typed questions about one input in a single call, each with a probability.\n\nOn StrongREJECT, it agrees with human labels as well as the GPT-4o-mini scorer does, and ranks responses better (AUROC 0.971 vs 0.929). Where Jev confidently disagreed with benchmark labels, it found label errors in three benchmarks.\n\nThey find that the question wording matters little. The thresholds do not transfer between benchmarks, and fitting one on 10 labelled items raises median F1 from 0.706 to 0.793.\n\nPaper: https://t.co/vUZV4k786o\n\nChat with Paper: https://t.co/3BLEIhdpYy",
+    "createdAt": "Sun Sep 27 19:40:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 436991,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTPtnLGWsAEpCBL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2104286723509207525",
+    "fullText": "OpenAI DevDay roll call \n\nWhere are you joining us from, and what are you building? https://t.co/tRqB0JbPmS",
+    "createdAt": "Sun Sep 27 19:07:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AISafetyMemes",
+      "name": "AI Notkilleveryoneism Memes ⏸️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1640414967345328130/Bfx1jmim_normal.jpg",
+      "description": "Techno-optimist, but AGI is not like the other technologies.\n\nStep 1: make memes.\nStep 2: ??? \nStep 3: lower p(doom)",
+      "followersCount": 191125,
+      "friendsCount": 1396,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2104066452739510273/vid/avc1/1280x720/QD11zD0TiddrKd4f.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/AISafetyMemes/status/2104066846832099375",
+    "fullText": "This video just won the X-Prize for \"building optimism about the future\"\n\nDoes... this make you feel optimistic about the future? https://t.co/sOa6k3UHaG",
+    "createdAt": "Sun Sep 27 04:33:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 250919,
+      "friendsCount": 1739,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2103751976400101651",
+    "fullText": "求推荐 GitHub 上开源的 Awesome Opus 5.5 Video Prompt 集合",
+    "createdAt": "Sat Sep 26 07:42:11 +0000 2026"
+  }
+]
