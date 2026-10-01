@@ -1,6 +1,420 @@
 [
   {
     "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 507243,
+      "friendsCount": 67,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2105692076633661440/vid/avc1/1920x1080/zidhO_JYSRJWBYUZ.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2105692220280226296",
+    "fullText": "Perplexity Computer now creates interactive charts and visualizations directly in your thread.\n\nFor financial data, Computer uses @tradingview Lightweight Charts for candlesticks, volume, and moving averages. https://t.co/AItBm2tN07",
+    "createdAt": "Thu Oct 01 16:12:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 109383,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTjrGqRa4AAlL5S.jpg",
+      "https://pbs.twimg.com/media/HTjrKRkaYAA5Lap.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2105691486016975130",
+    "fullText": "It was wonderful to see so many Stanford HAI faculty and leaders take part in Imagination in Action this month at the Google Bay View campus. We heard so many important conversations and research updates in AI, from scientific discovery and robotics to governance and the future of work.\n\nHAI Leaders and Affiliated Faculty at Imagination in Action: James Landay (@landay), Erik Brynjolfsson (@erikbryn), Rob Reich, Vanessa Parli (@vanessaparli), Marco Pavone (@drmapavone), Diyi Yang (@Diyi_Yang), Surya Ganguli (@SuryaGanguli), Melissa Valentine (@stanfordmav), Arvind Karunakaran, Mehran Sahami (@mehran_sahami).",
+    "createdAt": "Thu Oct 01 16:09:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra) @supabase @etched @factoryAI @sfcompute. 3 👶 under 4.",
+      "followersCount": 201119,
+      "friendsCount": 582,
+      "location": "online"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2105691118113550749",
+    "fullText": "my dot experience so far has been 💩",
+    "createdAt": "Thu Oct 01 16:07:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 322198,
+      "friendsCount": 1142,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTjqUFvbEAAp7b9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2105690460429996366",
+    "fullText": "Banger paper from Meta and colleagues.\n\n(bookmark it)\n\nThey discuss benefits of giving your agent write access to its own context.\n\nIn other words, they investigate how effective it is to allow a language model to natively manage its context.\n\nContext Language Models keep the context as a file the model edits with Bash, so the model decides what to keep, rewrite or remove.\n\nIt's a bit different from RLM, for those who are wondering but it pulls an interesting theme.\n\nRLMs place a large input in an external variable that the model can read and process recursively, but they do not let the model directly edit its own live interaction context. CLMs instead expose the live context as a read-write file, including information accumulated during execution.\n\nApplied zero-shot, this gets 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus than existing context-management strategies.\n\nOn a 24-hour task where a swarm of agents works across six repositories, it gets 65% more improvement for the same compute.\n\nThe strategy can also be trained. Online RL improves Qwen3.5-9B on BrowseComp-Plus by 47.6% while using 12% fewer FLOPs.\n\nEdits in the middle of the context break prefix caching, so the authors add Suffix Cache Reuse, which cuts server compute by 35% against standard SGLang.\n\nPaper: https://t.co/ISob0EHqQB",
+    "createdAt": "Thu Oct 01 16:05:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 351780,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTjpQssWgAAELKW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2105689301602177337",
+    "fullText": "Andrew Ng's AI Engineering Skills Map shows what to learn. AI Dev is where you hear from the people who built it in the real world. Keynotes from Andrew Ng and Yann LeCun. Engineers from Hugging Face, Google DeepMind, and BlackRock.\n\n🗓️ Nov 30 to Dec 1\n📍 New York City \n🎟️ Grab early bird tickets at $599 while they last\n\nGet your ticket: https://t.co/9H0n5CvFNN \n\n#DeepLearningAI #AIEngineering #MachineLearning",
+    "createdAt": "Thu Oct 01 16:00:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 351021,
+      "friendsCount": 20412,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTjpPkVWoAE-BRb.jpg",
+      "https://pbs.twimg.com/media/HTjpPlBWsAA6u0i.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2105689282140578268",
+    "fullText": "#otd in 1950, the Turing Test was born w/Alan Turing’s seminal paper \"Computing Machinery and Intelligence.\" \n\nhttps://t.co/bBdyWaNsTM https://t.co/YzFWyAhxuo",
+    "createdAt": "Thu Oct 01 16:00:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 345739,
+      "friendsCount": 899,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2105689015790031306",
+    "fullText": "Build Visual AI Agents From a Prompt With NVIDIA Cosmos and VSS 3.3 https://t.co/kEVxL6AoIv",
+    "createdAt": "Thu Oct 01 15:59:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "followersCount": 6316267,
+      "friendsCount": 1032,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2105688354834756036",
+    "fullText": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!",
+    "createdAt": "Thu Oct 01 15:56:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "followersCount": 6316267,
+      "friendsCount": 1032,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2105687689991483654",
+    "fullText": "DevDay was really fun, the builder energy was crazy\n\nStill wild to me to see people making whole startups in a day",
+    "createdAt": "Thu Oct 01 15:54:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 292724,
+      "friendsCount": 339,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2105678422064472064/vid/avc1/1920x1080/JXpsioHNkgB2u3T8.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2105685396734853582",
+    "fullText": "Introducing Project Continuum by @runwayml_labs, a new operating system research application built around real-time video interfaces.\n\nToday, we're sharing an early look at four new ways of interacting with your computer: Portals, Visual Thinking, Responsive Video Interfaces and Interactive Worlds. Interface World Models, like Solaris, are reimagining what an interface can be.",
+    "createdAt": "Thu Oct 01 15:44:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/tTzeqS2PkF. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14502,
+      "friendsCount": 14893,
+      "location": "Redmond, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTjizJ0aUAAnLBt.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2105684767064916143",
+    "fullText": "Holy mother of cow! I've finally managed to run Omarchy desktop in Windows via WSL!! \n\nNo dual boot, no VMs, no fuss.\n\nFull Omarchy GUI with GPU acceleration with multiple 4k monitors supported. https://t.co/tU9MNhI4kw",
+    "createdAt": "Thu Oct 01 15:42:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305786,
+      "friendsCount": 8511,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2105683963444625688",
+    "fullText": "gm\n\nhttps://t.co/UYqc22Rssy",
+    "createdAt": "Thu Oct 01 15:39:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "huggingface",
+      "name": "Hugging Face",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
+      "description": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
+      "followersCount": 807239,
+      "friendsCount": 227,
+      "location": "NYC and Paris and 🌏"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HTjjwNwXwAAnPzC.mp4"
+    ],
+    "tweetUrl": "https://x.com/huggingface/status/2105683434035384360",
+    "fullText": "MCPs are making quite the comeback! You can now use them to bring your data to https://t.co/tLDUmb9Uwp https://t.co/Fk2sV7IqFk",
+    "createdAt": "Thu Oct 01 15:37:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 322198,
+      "friendsCount": 1142,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2105683206250918049",
+    "fullText": "Build your own harness, folks!\n\nOne of the biggest benefits of building my own meta harness is how smoothly I can switch between models. \n\nI feel like this is becoming more important as model release times shrink. RSI will only scale releases. \n\nThis has been one of the best decisions I made since last November. \n\nSwitching models can really break things, but it shouldn't. If it does, your setup isn't ideal for this insane release cycle we are in. You need to fix that now.",
+    "createdAt": "Thu Oct 01 15:36:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+      "followersCount": 456401,
+      "friendsCount": 603,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2105682903640514931",
+    "fullText": "Nace AI just released Drex 1.5 — the first (and so far the only) decision model with a 128k context window.\n\n128k is really good! You can send an entire contract or a video transcript and get a scored decision over the whole thing. You don't need to mess with chunking or stitching results back together.\n\nThe idea is the same as with Jev:\n\n• Input: context + a set of choices\n• Output: classification + score for every option\n\nFor example, you can use Drex to classify a review as \"POSITIVE\", \"NEGATIVE\", or \"NEUTRAL\", and route any low-scored answer to a human for further inspection.\n\nHere is where the model differs from Jev:\n\n• 128k context\n• Small - It's under 10B parameters\n• $0.04 per 1M input tokens, a bit cheaper than Jev\n\nThe model is #1 on the Decision Index 0.2.1 (chance-corrected; random guessing = 0):\n\n • Drex: 58.28\n • Jev 1.13.0: 57.91\n\nNace is giving 250M free tokens to the first 10,000 builders: https://t.co/Q2j9qu28KY\n\nThanks to the @NaceAI team for partnering with me on this post.",
+    "createdAt": "Thu Oct 01 15:35:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241731336,
+      "friendsCount": 1414,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTjhtlZWgAA7AeZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2105681004371542326",
+    "fullText": "Both @United and @AmericanAir have @Starlink! https://t.co/7EfINWq1nU",
+    "createdAt": "Thu Oct 01 15:27:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKi8b\n› Newsletter: https://t.co/k9gGznrVGL",
+      "followersCount": 86345,
+      "friendsCount": 448,
+      "location": "Seattle, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTjgIGJXsAA3joV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/allen_ai/status/2105679258165068097",
+    "fullText": "We’re releasing Olmo-core 3—open training infrastructure for large mixture-of-experts (MoE) models.\n\nIt’s a core system behind the next generation of Olmo, designed to scale into the trillion-parameter range. 🧵\n\n💻 GitHub repo: https://t.co/JT9Y3851gU https://t.co/kj0m76tjyx",
+    "createdAt": "Thu Oct 01 15:20:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 176554,
+      "friendsCount": 1308,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2105674819899703296/vid/avc1/1920x1080/T-y7sVTFoJPweF3v.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/2105675440409174160",
+    "fullText": "Opus 5.5 做这种科普和人文视频也很牛批啊\n\n让他做了一个关于榫卯的科普介绍视频，质量非常好 https://t.co/YgTrH249fl",
+    "createdAt": "Thu Oct 01 15:05:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 248050,
+      "friendsCount": 7197,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HTjb1ShacAE9OG-.mp4"
+    ],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2105674540504535124",
+    "fullText": "The worst possible timeline would be to have a company with the ethical fiber of OpenAI self-regulating some of the most important choices in history.\n\nWelp. https://t.co/HaHXyeVbyK",
+    "createdAt": "Thu Oct 01 15:01:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1341448,
+      "friendsCount": 2065,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2105672557810892830",
+    "fullText": "If you’ve ever talked about airline status or miles, your spouse is having an affair.",
+    "createdAt": "Thu Oct 01 14:53:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 268261,
+      "friendsCount": 198,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2105669608153767936/vid/avc1/1920x1080/AdwqehqN9bXl1nwg.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2105671430826230065",
+    "fullText": "Last week, we launched LangSmith Fine-Tuning and the smithtune CLI.\n\nTurn your agent’s own trajectories into a fine-tuned model without building a training pipeline by hand.\n\nYour traces already show your agent doing the job well. Now, that signal becomes training data.\n\nQuick demo from @jakebroekhuizen",
+    "createdAt": "Thu Oct 01 14:49:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 231595,
+      "friendsCount": 224,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2105669639724491147",
+    "fullText": "Arena Open House: Rooftop Happy Hour 10/7.\n\nWe're throwing open the doors to our new SF HQ office and want to invite researchers, developers, and builders pushing on hard AI problems up to the roof! Come hang out, meet the team, and check out the space - Bay Area views included.\n\nBoba bar, light bites, and refreshments provided.\nSpace is limited. Register to request a spot on the list!\nhttps://t.co/mFe2ICRAmW",
+    "createdAt": "Thu Oct 01 14:42:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 485525,
+      "friendsCount": 1634,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2105666367097889204",
+    "fullText": "I don’t think Delta realizes how big of a self-own not having Starlink is.\n\nEven though it’s not fully rolled out yet I’ll even pay extra to book United just in case it has Starlink.",
+    "createdAt": "Thu Oct 01 14:29:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 322198,
+      "friendsCount": 1142,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2105663615906742273/vid/avc1/1920x1080/1BOe0gMDdHLJ_mNw.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2105664489534230830",
+    "fullText": "Code review has to change for coding agents.\n\nWhy? For me, it’s about scaling coding reviews while ensuring quality.\n\nIf you give a coding agent one task, it can return several pull requests across different repos.\n\nReview tools still look at each PR in isolation. \n\nReviewers have to guess which PR matters and how the PRs connect.\n\n@QodoAI just launched Qodo 3.0 with PR Triage to solve this.\n\nHere is how it works.\n\nPR Triage groups related PRs into one work package and scores it on codebase impact, SLA, and open findings. A cross-repo map shows every repo the package touches, and every score shows its own reasoning.\n\nQodo writes one review brief for the whole package, so you review the PRs together. Your coding agent can then work through the findings.\n\nHumans still approve the code. Now they see the whole package before approving the first PR.\n\nhttps://t.co/a4ZjqlR2XQ\n\nThanks to the Qodo team for partnering on this post.",
+    "createdAt": "Thu Oct 01 14:21:50 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "DavidSHolz",
       "name": "David",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1605125530084184064/xXseXWbK_normal.jpg",
