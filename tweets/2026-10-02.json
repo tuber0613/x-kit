@@ -1,11 +1,466 @@
 [
   {
     "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 133236,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTm3MgdboAAQS7T.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2105915729812050342",
+    "fullText": "New paper from Microsoft on compressing agent context at test time.\n\nIf your agent gets worse as its interaction history grows, this method is worth a look.\n\nFOCUS asks which past interactions the agent's next decisions actually depend on. It keeps those units of the history and drops the others. It needs no training data or fine-tuning, so it works as a separate layer in front of closed-API models.\n\nOn tool-calling, QA, web and multi-turn dialogue benchmarks, it cuts peak context by up to 48% and raises task success by up to 8.9 points compared with running on the full history.\n\nPaper: https://t.co/nl7pGmNcYP",
+    "createdAt": "Fri Oct 02 07:00:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help mgmt teams launch agentic initiatives fast. Alibaba Professor. Tencent AI Thought Leader. Founder @AgenticOrgNow. Tech Strategy Podcast. Free book ↓",
+      "followersCount": 5718,
+      "friendsCount": 1227,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTm2xh_bAAAw-bh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2105915273635316159",
+    "fullText": "NEVER FIGHT FAIR. ALWAYS HAVE A MOAT. \n\nYears ago, I opened a couple of restaurants. And it was brutal. (see podcast episode, link below.)\n\nIt was an operational nightmare. \n\nThere was endless competition and price wars.\n\nI'm never doing that again.\n\nI am now 100% against fair fights.\n\nI always want a moat.\n\nAnd I've spent a decade writing 7 books about how to do that.\n\nHere are 3 take-aways:\n\n1. OPERATING PERFORMANCE MATTERS. BUT MOATS MATTER MORE. \n\nOperating performance is about people, systems and technology. It's about speed, effectiveness and hours spent.\n\nIt's like bike racing. How fast you pedal really matters.\n\nHowever, a moat is like having a better machine. They're riding bikes and you have a car.\n\nIn my competition hierarchy, operating performance is important. \n\nBut it's at the bottom of the hierarchy. \n\nMoats (barriers to entry and competitive advantages) are at the top.\n\n2. MOAT DO NOT GUARANTEE GROWTH OR PROFIT.\n\nBeing the only hospital in a small town means you are very well defended. You have no competitors.\n\nBut you are not going to grow much. \n\nSo competitive dominance doesn't necessarily mean growth.\n\nSimilarly, dominance also doesn't guarantee mean profits. \n\nDidi and Uber are monopolies / duopolies in ridesharing. Yet they can barely reach operating profit.\n\n3. THE REAL VALUE OF A MOAT IS CONTROL OF YOUR OWN DESTINY.\n\nWhen a rival coffee shop cuts prices 20% or boosts its marketing spend 20%, Starbucks does not respond.\n\nWhy not?\n\nIt doesn't have to.\n\nIt has a moat based on brand, high traffic locations, and economies of scale. Plus the loyalty programs have switching costs.\n\nMoats mean you can ignore rivals (somewhat).\n\nAnd you can chart your own course. Your own destiny. \n\nRather than having your future mostly determined by competitor moves.\n\nThat's invaluable.\n\n***TAKEAWAYS FOR MANAGERS:\n\n→ Sort your competitors into three groups this week: bigger, same size and smaller. Mark every place where you are on the wrong side of a competitive advantage.\n\n→ Find one segment where rivals are few or weak. Point your next growth push there instead of at your smartest competitor.\n\nFor more, please listen to my podcast on this topic:\n\nhttps://t.co/FoyD9wvIpn",
+    "createdAt": "Fri Oct 02 06:58:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1341762,
+      "friendsCount": 2065,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2105908936801148973",
+    "fullText": "If I was Trump going into a big midterm loss, I would just go out with a bang:\n\nCut entitlements &amp; close the budget deficit \n\nIt will crash the economy and he’ll be hated for 2 years—but history will remember him for saving the country.",
+    "createdAt": "Fri Oct 02 06:33:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5379065,
+      "friendsCount": 801,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmm2NBWcAAlny3.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2105898077760667928",
+    "fullText": "AI startups grow really fast. That's why valuations have gotten so high. Not just because AI is the cool new thing, but because so many AI startups have genuinely amazing numbers. https://t.co/vJ1bPB5HkB",
+    "createdAt": "Fri Oct 02 05:50:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5379065,
+      "friendsCount": 801,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2105894620634976301",
+    "fullText": "The sentinel hypothesis proposes that teenagers staying up late has evolutionary advantages, because there's always someone awake to notice if your tribe of hunter-gatherers is attacked. You can probably guess who told me about this.",
+    "createdAt": "Fri Oct 02 05:36:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305829,
+      "friendsCount": 8510,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2105882067347423342",
+    "fullText": "NB: it’s not going to be just a tool for much longer.",
+    "createdAt": "Fri Oct 02 04:46:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105876714488234343",
+    "fullText": "#Sedecordle Daily #1692 21/21 🔥 13 day streak\n1️⃣0️⃣⬛0️⃣5️⃣\n1️⃣2️⃣⬛1️⃣3️⃣\n0️⃣6️⃣⬛0️⃣7️⃣\n0️⃣9️⃣⬛0️⃣8️⃣\n1️⃣4️⃣⬛1️⃣5️⃣\n1️⃣6️⃣⬛1️⃣7️⃣\n1️⃣8️⃣⬛1️⃣9️⃣\n2️⃣0️⃣⬛2️⃣1️⃣\nhttps://t.co/1gTLFg7imx",
+    "createdAt": "Fri Oct 02 04:25:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 485563,
+      "friendsCount": 1634,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2105874799415484692",
+    "fullText": "That’s why I always record consent of my ketamine-fueled orgies on the blockchain",
+    "createdAt": "Fri Oct 02 04:17:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmQcM2WoAAiJne.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105873117830607154",
+    "fullText": "Practical SQL [2nd Edition] — Guide to Storytelling with Data: https://t.co/IqjIRafsha\n—————\n#DataScience #DataScientist #DataLiteracy #DataStorytelling #Analytics #BI https://t.co/HjEyERWriI",
+    "createdAt": "Fri Oct 02 04:10:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmQTphXUAI1l5n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105872971281670563",
+    "fullText": "Geospatial Data Analysis with Python and/or SQL — 4 books:\n\n1) Applied Geospatial Data Science: https://t.co/s14CLSmDBu\n\n2) GIS and Remote Sensing Analysis: https://t.co/6BMnfUs3Bz\n\n3) For Location Intelligence: https://t.co/oyKQO36D2s\n\n4) With SQL: https://t.co/1LA2yuB1sH\n\nGraphic from @iamjosepferrer",
+    "createdAt": "Fri Oct 02 04:10:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmQNRdW0AAAC2k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105872861277700236",
+    "fullText": "SQL Essentials for Data Analysis: 50-Day Hands-on Challenge Book (Go From Beginner to Pro) — https://t.co/GCicIZ5TOL by @RealBenjizo\n\nBenefits:\n✅Strong command of SQL fundamentals & advanced features\n✅Confidence to solve real-world data problems\n✅Practical experience with diverse datasets\n✅Mini end-to-end projects to showcase your skills",
+    "createdAt": "Fri Oct 02 04:09:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmQIwKWYAAQstl.jpg",
+      "https://pbs.twimg.com/media/HTmQIwMWAAAm0JU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105872784643813392",
+    "fullText": "Ace the Data Science Interview with 201 Real Interview Questions Asked By FAANG, Tech Startups, &amp; Wall Street: https://t.co/3lk5CbdtSl\n—————\n#Analytics #DataScientist #AI #MachineLearning #ML #Statistics #Algorithms #SQL #Python https://t.co/yb4lJcm6XP",
+    "createdAt": "Fri Oct 02 04:09:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305829,
+      "friendsCount": 8510,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2105872657531199514",
+    "fullText": "He’s a ten but he is stepmaxxing.",
+    "createdAt": "Fri Oct 02 04:09:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmP94GXsAEE-kA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105872596923281889",
+    "fullText": "New (2nd edition) at https://t.co/3oUqMLht1G\n\nRAG-Driven Generative AI — Build MAS-RAG with DualRAG, GraphRAG, multimodal video pipelines, and Oracle Database 23ai (=Oracle’s major database release that natively embeds artificial intelligence and vector search directly into its converged database engine)\n\n𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:\n🟢Master DualRAG by combining vector search with SQL filtering over structured enterprise data.\n\n🟢Implement GraphRAG, Spatial-RAG, and vector search natively in Oracle Database 23ai.\n\n🟢Build multimodal video pipelines with human-feedback loops and fine-tuned models.\n\n𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀 𝘁𝗼 𝘁𝗵𝗲 𝗥𝗲𝗮𝗱𝗲𝗿:\n🟣Bring intelligence directly to the data within Oracle Database 23ai.\n\n🟣Defeat hallucinations and data poisoning with DualRAG, synchronizing vector semantics with structured SQL.\n\n🟣Build MAS-RAG pipelines with Planner, Agent Registry, and MCP-standardized sovereign agents.\n\n🟣Engineer an inference-time router using hybrid adaptive RAG to switch between reasoning, retrieval, and human feedback.\n\n🟣Fuse vector similarity, Oracle Spatial, and SQL Property Graph traversal into a converged hyper-query.\n\n🟣Deploy multimodal video RAG with version-controlled schema registry and semantic vector search over visual assets.",
+    "createdAt": "Fri Oct 02 04:08:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmP3k9XMAAe7ll.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105872488651456619",
+    "fullText": "DuckDB benchmarked against Spark — You Don't Always Need A Sledgehammer: https://t.co/wBZuRBSMXB\n+\nGet Started with DuckDB Database — Practical guide for accelerating your Data Science, Data Analytics, and Data Engineering workflows: https://t.co/4pTqjAKRck v/ @PacktDataML \n\nKey Features:\n🟣Use DuckDB to rapidly load, transform, and query data across a range of sources and formats.\n🔵Gain practical experience using SQL, Python, and R to effectively analyze data.\n🟠Learn how open source tools and cloud services in the broader data ecosystem complement DuckDB’s versatile capabilities.\n🟢Purchase of the print or Kindle book includes a free PDF eBook",
+    "createdAt": "Fri Oct 02 04:08:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmPSUeXAAIhJZK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105871849863410132",
+    "fullText": "Critical Thinking, Logic &amp; Problem Solving — The Complete Guide to Superior Thinking, Systematic Problem Solving, Making Outstanding Decisions, and Uncover Logical Fallacies Like a Pro: https://t.co/jsbF4mhTIv https://t.co/6YO1KhbnOI",
+    "createdAt": "Fri Oct 02 04:05:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmPFmWWwAE6NHp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105871630777930218",
+    "fullText": "Data Literacy in Practice — complete guide to making smarter decisions with data through intelligent actions: https://t.co/oiCU3bl7ZA https://t.co/Xrp7YzFrd7",
+    "createdAt": "Fri Oct 02 04:04:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmO7itWwAAdigB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105871458018775517",
+    "fullText": "Thinking Analytically — A Guide for Making Data-Driven Decisions: https://t.co/s95DCYd2Im\n\nAmazon summary:\n\nThis book introduces the ‘Thinking Analytically’ pyramid, covering:\n1. Cognitive Foundation: Understand how cognitive limitations impact data interpretation.\n2. Probability Mindset: Improve probabilistic thinking and avoid common errors.\n3. Data Quality: Learn how subtle problems can distort the results.\n4. Experimental Design: Explore how context affects the conclusions you can draw.\n5. Analytics: Produce sound results by integrating all pyramid levels.",
+    "createdAt": "Fri Oct 02 04:04:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mathemagic1an",
+      "name": "Jay Hack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1607042017095258114/sSUQlvdW_normal.jpg",
+      "description": "Head of AI @clickup. Tweets about AI, computing and their impacts on society. Previously founder @codegen / ML @palantir / startups. Not a pseudonym.",
+      "followersCount": 77703,
+      "friendsCount": 3570,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmOIJ_aQAAbd_u.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mathemagic1an/status/2105871250451263534",
+    "fullText": "\"Context Language Models\"\n\nSimilar to RLMs: agent manages its own context by editing a file\n\nVery bitter lesson-pilled. \"Do less\" on your harness.\n\nMain challenge - you would get abysmal cache hit rates on this if you frequently edited cache prefix. It cannot be implemented efficiently today via e.g. Anthropic API.\n\nThis ^ can be solved in principle but likely requires modifications to the transformer architecture and definitely to serving infrastructure.",
+    "createdAt": "Fri Oct 02 04:03:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493329,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmOvKGXEAAMXWO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105871245166162184",
+    "fullText": "Statistics Every Programmer Needs — Practical Python implementations and quantitative methods: https://t.co/SNz5K4u7do via @ManningBooks\n🌟🌟🌟🌟🌟\nThis hands-on 448-page guide teaches you how to:\n\n🔷Apply foundational and advanced statistical techniques\n🔷Build predictive models and simulations\n🔷Optimize decisions under constraints\n🔷Interpret and validate results with statistical rigor\n🔷Implement quantitative methods using Python",
+    "createdAt": "Fri Oct 02 04:03:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 176592,
+      "friendsCount": 1308,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmLp45aoAAW4Ne.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2105867869749993678",
+    "fullText": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。\n\n似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。\n\n但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。",
+    "createdAt": "Fri Oct 02 03:49:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help mgmt teams launch agentic initiatives fast. Alibaba Professor. Tencent AI Thought Leader. Founder @AgenticOrgNow. Tech Strategy Podcast. Free book ↓",
+      "followersCount": 5718,
+      "friendsCount": 1227,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmJQpsbsAEk13_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2105865226738622508",
+    "fullText": "70% OF SHOPPERS NOW ASK AI FIRST. TENCENT NOTICED.\n \nI left the Tencent forum at WAIC 2026 rethinking my view of advertising. (More in my free weekly email, link below.)\n \nAI-first marketing (and advertising) is just a sweeping change. It’s stunning. \n\nAnd it’s going to affect everyone selling online.\n \nI had 3 take-aways:\n\n1. AI IS REBUILDING THE USER DECISION PATH.\n\nChina now has 515M GenAI users and 70% of users already use GenAI when making a purchase. \n\nSo this is not a theoretical change. It’s real. And happening at scale.\n\nTencent's Xu Wei says the “search and click” model is shifting to a “question, generate, decision” model.\n\n2. CREATIVITY HAS BEEN THE BOTTLENECK IN SCALING ADVERTISING. THAT’S ENDING.\n\nCreativity is rare, human made and slow to produce.\n\nBut consumers burn through content faster every year. And ad lifespans keep getting shorter.\n\nThis creates a real problem for brands, which must constantly create and refresh in an inefficient way.\n\nPlus, they have little data on what content to make.\n\n3. AI AGENTS SOLVE THE CREATIVITY AT SCALE PROBLEM.\n\nRooms of ad execs are being replaced by 1 or 2 people managing an AI system.\n\nTake a look at the photo with this post. That’s a good summary.\n\nAt Tencent, they are pairing Miaosi (a one stop AIGC creative platform) with Marketing AIM+ for automated and intelligent ad placement. \n\nThose are two products to look into.\n\n***TAKEAWAYS FOR MANAGERS:\n \n→ Audit how your customers use GenAI before they buy, then check whether your brand shows up in those answers. This is gonna be unpleasant.\n \n→ Shift one campaign budget this week from creative headcount to computing power, data plus a feedback loop. Just try one. \n \n-----\n\nI WRITE ABOUT AI ADVERTISING AND AGENTS EVERY WEEK IN MY FREE AGENTIC FRONTIER EMAIL.\n \nSign up here for more. And to get my book Moats and Marathons free:\n \nhttps://t.co/CS9tg75AlL",
+    "createdAt": "Fri Oct 02 03:39:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 322273,
+      "friendsCount": 1152,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTmAdl7aQAAvQe7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2105855550588428584",
+    "fullText": "More agents don't mean higher performance.\n\nThere is a coordination bottleneck to consider. Not to mention the unnecessary costs.\n\nSo how many of a multi-agent team's actions actually help it finish the task?\n\nIn this AgentWorld paper, fewer than a third.\n\nAgentWorld puts 3 to 20 LLM agents with different roles into a game sandbox for tasks that run 50+ rounds.\n\nAgents can't see each other's internal state, so they have to coordinate through messages and shared plans.\n\nGemini 3 Flash has the highest task success at 52.0%. Coordination tasks are the hardest category, at 12% success, and common failures include communication breakdowns, role confusion, and lost shared plans.\n\nPaper: https://t.co/nJCElOemGC\n\nChat with Paper: https://t.co/vRSVPhkPYC",
+    "createdAt": "Fri Oct 02 03:01:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305829,
+      "friendsCount": 8510,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2105838541351887003",
+    "fullText": "1. AI is already better at doing research than 90+% of “professional” researchers. Especially in highly verifiable fields.\n\n2. This is the worst that AI will ever get at research.\n\n3. Very soon NOT using AI for research will be tantamount to malpractice.\n\n4. Being in a state of willful denial about any of this is not going to get you anywhere.",
+    "createdAt": "Fri Oct 02 01:53:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 133236,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlromzaIAA45fV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2105832649868837275",
+    "fullText": "Super interesting paper from Meta Superintelligence Labs on controlling long agent runs.\n\nThey use the same workers and same budget, and ProgramBench goes from 63.7% to 71.5% with GPT-5.5 when a dedicated controller decides what work to run next.\n\nCodex scores 58.0%.\n\nHere is how it works:\n\nThe controller keeps a short summary of the run and leaves full worker outputs in memory. Each cycle it updates that summary, proposes next steps, estimates what each one is worth under the remaining budget, and sends the chosen work to workers with the earlier outputs they need.\n\nOn ProofBench, ARC-AGI-2 and LongCoT-mini it adds 3.6 to 4.2 points over direct control, averaged over three frontier models.\n\nPaper: https://t.co/34PuaVLnkr",
+    "createdAt": "Fri Oct 02 01:30:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Code: @MiniMaxAgent \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y",
+      "followersCount": 124696,
+      "friendsCount": 994,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlq9MpaAAAVMLW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2105832011319648681",
+    "fullText": "We’re heading to @aiDotEngineer NYC! 🗽  \n\nMorgan Suo, MiniMax’s Head of US Business Development, will present on “The Hidden Costs of a Faster Model.”  \n\nThey'll cover how quantization, speculative decoding, and reasoning controls change a model’s cost, speed, and quality, and what to check before switching.\n\n 📅 October 14, 2026 · 10:40–10:58 AM ET \n\n📍 McCarthy Room · Sheraton New York Times Square Hotel  \n\nSee you there!",
+    "createdAt": "Fri Oct 02 01:27:30 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "karpathy",
       "name": "Andrej Karpathy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
       "description": "",
-      "followersCount": 4257458,
+      "followersCount": 4260156,
       "friendsCount": 1139,
       "location": "Earth"
     },
