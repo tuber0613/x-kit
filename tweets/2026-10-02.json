@@ -1,0 +1,372 @@
+[
+  {
+    "user": {
+      "screenName": "karpathy",
+      "name": "Andrej Karpathy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+      "description": "",
+      "followersCount": 4257458,
+      "friendsCount": 1139,
+      "location": "Earth"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/karpathy/status/2105819303471976479",
+    "fullText": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
+    "createdAt": "Fri Oct 02 00:37:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 215039,
+      "friendsCount": 596,
+      "location": "Venice, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2105814664814936317",
+    "fullText": "bot-blocking may well prove optimum strategy in the near term\nbut enterprises that engage, are taking on a daily cumulative dose of existential risk\nyour bot-blocking is somebody else's growth trajectory",
+    "createdAt": "Fri Oct 02 00:18:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493304,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlWdzPWgAAIfXc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105809373704434076",
+    "fullText": "Business Intelligence BI, Analytics, and Data Science — Managerial Perspective (4th Ed.): https://t.co/oWuJd6059I https://t.co/tmcbmaB5YO",
+    "createdAt": "Thu Oct 01 23:57:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493304,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlWDJVWcAAPT2I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105808915749331058",
+    "fullText": "Hockey Analytics — A Game-Changing Perspective: https://t.co/UkJouGaX0H \n—————\n#DataScience #MachineLearning #ML #PredictiveAnalytics #DecisionScience #DataScientist https://t.co/NAVZb5M8qt",
+    "createdAt": "Thu Oct 01 23:55:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493304,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlV1SrW0AA0-K9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105808678565883925",
+    "fullText": "The Danger of Making Decisions based upon Averages — See the book \"The Flaw of Averages” at https://t.co/CcaJjlLvJU\n—————\n#Analytics #DataScience #Statistics #DecisionScience https://t.co/ot9VBKKDxo",
+    "createdAt": "Thu Oct 01 23:54:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493304,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlVtANXcAARcSY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105808535733129358",
+    "fullText": "EXCELLENT BOOK! &gt;&gt; \"Winning with Data Science: Handbook for Business Leaders\" at https://t.co/7J49Ya3HFk by @howardsfriedman &amp; @akshay_swa\n🌟🌟🌟🌟🌟\n#Analytics #CDO #CMO #CAIO #CTO #AI #ML #MachineLearning #DecisionScience https://t.co/VYNlzdxiMr",
+    "createdAt": "Thu Oct 01 23:54:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493304,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlVg9BXAAAWsJd.jpg",
+      "https://pbs.twimg.com/media/HTlVg8_WQAAoFVJ.jpg",
+      "https://pbs.twimg.com/media/HTlVg9DXEAARPIe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105808327925985380",
+    "fullText": "Brilliant books on Nudge Theory &amp; Behavioral Science by @RobertCialdini  &amp; Nobel Prize-winning economist @R_Thaler\n \n1) Nudge: https://t.co/Bjcxe4LBjs\n2) Pre-Suasion: https://t.co/ATGFJ8xQdc\n3) Influence: https://t.co/l2P54AMtM9\n—\n#Neuroscience #DecisionScience https://t.co/61Hvc28OI7",
+    "createdAt": "Thu Oct 01 23:53:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493304,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlVLNAXoAALBik.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105807955606282708",
+    "fullText": "Hands-On Simulation Modeling with Python — Develop simulation models for the decision-making process (2nd Edition): https://t.co/gVyRG60oHc v/ @PacktDataML\n——————\n#DataScience #ComputationalScience #DecisionScience #DataScientist #DigitalTwins https://t.co/D0XBToSGtQ",
+    "createdAt": "Thu Oct 01 23:51:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra) @supabase @etched @factoryAI @sfcompute. 3 👶 under 4.",
+      "followersCount": 201164,
+      "friendsCount": 585,
+      "location": "online"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2105807898299580687",
+    "fullText": "personal agents should proactively make apps and sites for you",
+    "createdAt": "Thu Oct 01 23:51:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493304,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlVHA8WUAA2SVh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105807882696736886",
+    "fullText": "Algorithms to Live By — The Computer Science of Human Decisions: https://t.co/ZNBw1BrHCi\n—————\n#Mathematics #DecisionScience https://t.co/iAAIJ6uvoN",
+    "createdAt": "Thu Oct 01 23:51:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493304,
+      "friendsCount": 3362,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTlU5zVWkAAUg5y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2105807656074068119",
+    "fullText": "Learn Microsoft Fabric — Practical Guide to performing Data Analytics in the era of Artificial Intelligence: https://t.co/gJk2gbxsm8 v/ @PacktDataML\n\n𝓢𝓾𝓶𝓶𝓪𝓻𝔂:\n\"Microsoft Fabric is a unified data platform that integrates data engineering, data warehousing, and data science tools, enhancing collaboration and efficiency. It simplifies data management with a single, comprehensive solution, reducing the need for multiple, disparate systems. Fabric improves data accessibility and security with centralized governance and compliance features. The platform accelerates insights and decision-making through advanced analytics and AI capabilities. Additionally, it supports seamless integration with other Microsoft services, enhancing overall productivity and scalability for organizations.\"",
+    "createdAt": "Thu Oct 01 23:50:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 485547,
+      "friendsCount": 1634,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2105803164330938497",
+    "fullText": "Tesla Robotaxi team: for some reason my cards are all auto-denied every time I add them no matter what I do.\n\nAny suggestions?",
+    "createdAt": "Thu Oct 01 23:32:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305788,
+      "friendsCount": 8511,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2105797354792378685",
+    "fullText": "\"Winning isn’t everything; it's the only thing.\"  - Red Sanders",
+    "createdAt": "Thu Oct 01 23:09:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1081922,
+      "friendsCount": 64,
+      "location": "The Cloud"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2105793006750277632/vid/avc1/1280x720/QPr7G3ccxM1OhwiI.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2105793104523731344",
+    "fullText": "a16z's David George on product cycles versus capital cycles, and his scorecard for the last 15 years of tech:\n\n\"AI is unique because if you throw more money at it, it can just scale up and get better. That is different than previous cycles.\"\n\n\"If you threw endless amounts of money at ServiceNow or Workday or Salesforce during the SaaS era, they would get all messed up... Whereas if you put $40 billion towards training these models, they get much better.\"\n\n\"I think about the world as product cycles and capital cycles... In 2021, we were at like a 1 out of 10. We didn't realize it at the time. That was late SaaS, late cloud, post-mobile phone growth... There was no room for something new.\"\n\n\"In 2010 it was like an 8 out of 10. Right now product cycle is like a 9 or 10.\"\n\n\"Your ideal would be a 10 on product cycle and a 10 on capital cycle, meaning valuations are really low. They almost never coincide.\"\n\n\"Like 2023, early days of when AI started working... capital cycle was like a 7... Right now we're probably at a 6. It's okay, but not great.\"\n\n\"But the thing that drives our business over 10 years, whether it's venture or growth, is the product cycles. And that's like a 9 or 10 right now.\"\n\n@DavidGeorge83 w/ @jaltma",
+    "createdAt": "Thu Oct 01 22:52:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 63761,
+      "friendsCount": 373,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTk_sOEa4AA9AoV.jpg",
+      "https://pbs.twimg.com/media/HTk_sODaoAAJAYH.jpg",
+      "https://pbs.twimg.com/media/HTk_sOEaEAAjqQZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2105784341783859288",
+    "fullText": "Great talk from Yogish Baliga \"From Vim (:wq) to 'You're absolutely right!'\" tracing 20+ years of software engineering evolution.\n\nHighlights: \n\n1/ open-weight models have closed the gap with closed models for most use cases \n2/ open models often pass closed model quality with multiple passes\n3/ agentic workloads are already running mostly on open models (30%→78% in 13 weeks on Vercel's AI Gateway)\n\nSoftware engineering has come a long way over the last 20+ years and the future looks like it’ll be built on open models.",
+    "createdAt": "Thu Oct 01 22:18:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 251952,
+      "friendsCount": 1746,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTk2kFKWYAAsnb3.jpg",
+      "https://pbs.twimg.com/media/HTk3llbXoAAY7Vm.jpg",
+      "https://pbs.twimg.com/media/HTk3nDwXAAAk65U.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2105775463624810788",
+    "fullText": "今天在测试 Manus 时学到一个提示词技巧，就是画图的时候，不用提示词控制样式风格，而是直接给参考图，并且参考图中包含颜色、字体示范、宣纸纤维、墨迹边缘、水痕、远山、印章与留白规则等等\n\n这样出图的稳定性会更高，内容提示词也可以很简单。\n\n图1: 参考图\n\n图2 content_prompt ：\n> 标题‘茶与慢生活’，副标题‘留一点时间，给一杯茶’。设计需遵循参考图中的风格：安静、内敛、侘寂，使用水墨极简风格和水墨留白，背景为宣纸纹理。文字应居中、清晰。\n\n图3 content_prompt：\n> 标题‘把日常慢下来’。内容：‘温杯：先感受器物的温度’、‘闻香：留意茶叶与水的气息’、‘品饮：小口饮茶，短暂停留’。设计需遵循第一页和参考图中的风格：安静、内敛、水墨极简风格，使用少量水墨元素（如远山、茶具水痕等）在留白区域点缀，背景为宣纸纹理。文字排版应体现层次感和留白。\n\n--- 图2 完整提示词 ---\n\nCreate a professional presentation slide with the following content:\n\n标题‘茶与慢生活’，副标题‘留一点时间，给一杯茶’。设计需遵循参考图中的风格：安静、内敛、侘寂，使用水墨极简风格和水墨留白，背景为宣纸纹理。文字应居中、清晰。\n\nHierarchy & Layout Guidance:\n- Lead with the most important narrative element (headline / metric) and follow with supporting copy in clear sections\n- Any charts should reflect real data provided in the content prompt and stay faithful to the described sources\n- Arrange imagery and copy so the viewer can scan left-to-right or top-to-bottom; avoid vertical stacking of charts/images\n\nVisual Direction:\n- Professional and clean\n- Follow the style of the previous slide image (if provided) for visual continuity\n\nRequirements:\n- Professional presentation layout with clear visual hierarchy\n- Text must be clearly readable with appropriate contrast against the background\n- Include title area and content area as appropriate\n- Maintain consistent style suitable for a professional presentation\n- High quality, publication-ready visual design\n- All text should be sharp and legible\n- Keep all essential text comfortably inside the frame; avoid placing text at the very edges\n- Balance visual elements with whitespace so the slide feels clean and not cluttered",
+    "createdAt": "Thu Oct 01 21:42:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "shivon",
+      "name": "Shivon Zilis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
+      "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
+      "followersCount": 620875,
+      "friendsCount": 1735,
+      "location": "Palo Alto, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTk120iWUAAZjEa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/shivon/status/2105773521641320552",
+    "fullText": "Sweetest monkeys ❤️❤️ https://t.co/xSO7Lt9ctr",
+    "createdAt": "Thu Oct 01 21:35:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 445796,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2105766564121526604",
+    "fullText": "Submissions close in 2 days, October 3 at 2:30 PM PT.",
+    "createdAt": "Thu Oct 01 21:07:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 268289,
+      "friendsCount": 199,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2105764776966070272/pu/vid/avc1/1280x720/iAaqMa1tvXHe5wXp.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2105764795592929419",
+    "fullText": "LangSmith for Startups Spotlight: @corridor\n\n@Corridor uses LangSmith to develop + run novel agentic security evaluations, build + trace inference pipelines, and manage memory graphs that provide specialized context across various product surfaces.\n\nGet a demo: https://t.co/wchloWwj34",
+    "createdAt": "Thu Oct 01 21:00:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5376952,
+      "friendsCount": 801,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2105762531042095327",
+    "fullText": "Jessica bought me a fabulous watch from my favorite vintage watch shop (Somlo) and conspired with them to have it in the window when I walked by. Of course it was the first one I noticed.  But instead of a description, the label said \"Happy early birthday Paul.\" I still didn't get that it was for me, because one of the guys who works there is called Paul. I turned to Jessica and said that he must have a birthday coming up too, but why would they put his watch in the window? Then I noticed she was grinning like the Cheshire cat.",
+    "createdAt": "Thu Oct 01 20:51:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Winterrose",
+      "name": "britton is afk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103560822169780224/adJT24-S_normal.jpg",
+      "description": "",
+      "followersCount": 15866,
+      "friendsCount": 4013,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Winterrose/status/2105755279359103038",
+    "fullText": "first strength training session is booked for this saturday\n\ngive me your best motivational youtube videos. Im assembling a play list",
+    "createdAt": "Thu Oct 01 20:22:36 +0000 2026"
+  }
+]
