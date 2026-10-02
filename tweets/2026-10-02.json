@@ -1,6 +1,256 @@
 [
   {
     "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12089,
+      "friendsCount": 1348,
+      "location": "Raleigh, NC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2106152392358240485",
+    "fullText": "The Cambrian explosion of AI-augmented media (games and beyond) may launch a new golden era of human curation for people seeking the best stuff. Perhaps blogs will live again",
+    "createdAt": "Fri Oct 02 22:40:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 447645,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2106152048924438967",
+    "fullText": "https://t.co/jSGjA164Ag",
+    "createdAt": "Fri Oct 02 22:39:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 109406,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2106151993265807613",
+    "fullText": "Who shapes AI, and how do you keep people at the center of it? Stanford HAI Denning Director James Landay (@landay) spoke with Imagination in Action about educating lawmakers, working with industry while staying independent, and what the AI Index shows beyond the headlines: https://t.co/8ayu34UHRq",
+    "createdAt": "Fri Oct 02 22:39:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12089,
+      "friendsCount": 1348,
+      "location": "Raleigh, NC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2106150409911837040",
+    "fullText": "Whoever is DMing me on here—I forgot my password, so DM me on Bluesky or send an email",
+    "createdAt": "Fri Oct 02 22:32:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420552,
+      "friendsCount": 909,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2106149879084941394",
+    "fullText": "We’re racing to create new intelligence while barely understanding the intelligence already sharing our planet.\n\nImagine being able to communicate meaningfully with a wild animal. That's the $10 million @XPRIZE @PalmerLuckey is chasing.",
+    "createdAt": "Fri Oct 02 22:30:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "followersCount": 6322857,
+      "friendsCount": 1034,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2106147184693620924",
+    "fullText": "There is some speculation about our partnership with Cerebras.\n\nCerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed.",
+    "createdAt": "Fri Oct 02 22:19:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 322356,
+      "friendsCount": 1154,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2106144801708261390",
+    "fullText": "Sharing some notes from OpenAI DevDay in parts.\n\nThe first part matters, since it's on everyone's mind. \n\nHow do you optimize for cost and performance? \n\nIf you are building agentic applications today, these are 4 of the most important levers you absolutely must try:\n\n- prompt caching\n- reasoning effort\n- programmatic tool calling\n- batch request\n\nThe OpenAI dev docs have plenty of information, but these alone are good starting points for optimizing your agentic applications. \n\nFamiliarize yourself with these and measure them with evals.",
+    "createdAt": "Fri Oct 02 22:10:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 63782,
+      "friendsCount": 373,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTp8FVFasAAOGHo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2106134608408670385",
+    "fullText": "1/ That's a wrap on @AIconference! \n\nThroughout two days one question was on repeat: \"which open model should I actually use?\" 🧵 https://t.co/n0ZKG8Nt3G",
+    "createdAt": "Fri Oct 02 21:29:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305889,
+      "friendsCount": 8511,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2106134088080060533",
+    "fullText": "Men would rather walk for a million steps than go to therapy.",
+    "createdAt": "Fri Oct 02 21:27:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Hailuo_AI",
+      "name": "MiniMax Design (H3)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2086821620228980736/JzAOUvuf_normal.jpg",
+      "description": "Discord: https://t.co/vPihZSqbU8\nINS: https://t.co/koyDATq9CZ\nCreator Partnership Program(CPP): https://t.co/KLDCVOlk92",
+      "followersCount": 82825,
+      "friendsCount": 688,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTpRjYzaMAAqSH7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Hailuo_AI/status/2106132006451228959",
+    "fullText": "Meet Opus 5.5 on #MiniMaxDesign\n\nFrom Code to Motion.\n\nExplore a new way to create.🤖🖌️",
+    "createdAt": "Fri Oct 02 21:19:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "geoffreyhinton",
+      "name": "Geoffrey Hinton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_normal.jpg",
+      "description": "deep learning",
+      "followersCount": 663128,
+      "friendsCount": 28,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geoffreyhinton/status/2106122709285368061",
+    "fullText": "The idea of an intelligence explosion caused by recursive self improvement has been around for a long time but until very recently it did not seem imminent. Now many leading researchers think it may happen quite soon. You can read our paper about it here:\nhttps://t.co/sgUpugjpRY",
+    "createdAt": "Fri Oct 02 20:42:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Code: @MiniMaxAgent \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y",
+      "followersCount": 124736,
+      "friendsCount": 994,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTptYA0bkAAa9Zl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2106117690041712697",
+    "fullText": "New York, see you next week 🗽✨\n\nMiniMax is heading to @advertisingweek New York, Oct 5–8. \n\n📍 Booth A16E, near the Food Trucks\n🎬 Live MiniMax H3 demos all week\n🎙️ Our panel with @krea_ai  × @fal  × @magnific : Thu 10/8 · 2:30 PM ET · Innovation Stage\n\nPanel details in the replies👇\n\n@AWNewYork_ #AWNewYork26",
+    "createdAt": "Fri Oct 02 20:22:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 760378,
+      "friendsCount": 907,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTppDYHWsAAUMI_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2106113742266089526",
+    "fullText": "🚨 MUSE ECOSYSTEM ALERT 🚨\n\ntoday we are announcing Muse Gadgets!\n\nthis is an open-source ESP32 firmware and Linux SDK for anyone to make hardware that works with Muse\n\nwe are also releasing our own gadget—Muse Home Link—to enable your muse to work with your smart devices (TV, speakers, etc.)",
+    "createdAt": "Fri Oct 02 20:07:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420552,
+      "friendsCount": 909,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2106112713822765141",
+    "fullText": "The combination of Apollo showing me what humanity could do, and Star Trek showing us where we could go, changed my life. \n\nWhat visions of the future are we giving kids today that will make them want to spend their lives building it?",
+    "createdAt": "Fri Oct 02 20:02:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1342278,
+      "friendsCount": 2065,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2106102400260165632/vid/avc1/2316x1202/sIDiMrJ-duSao6-5.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nikitabier/status/2106104189457952911",
+    "fullText": "We are now entering into an era where any product can be created exactly to a consumer's preferences & needs.\n\nI vibe-fabricated a dog door with a wifi-controlled lock, perfectly to the specifications & design of my house. \n\nI know nothing about metal fabrication or electrical engineering. \n\nIt's now getting manufactured and delivered in 2 weeks -- for almost the same cost if I bought a mass-produced item off-the-shelf.",
+    "createdAt": "Fri Oct 02 19:29:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "rebecca_szkutak",
       "name": "Becca Szkutak",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945669574868803584/DS45KFLN_normal.jpg",
@@ -89,7 +339,7 @@
       "name": "Garry Tan",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_normal.jpg",
       "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
-      "followersCount": 1128706,
+      "followersCount": 1128984,
       "friendsCount": 5983,
       "location": "San Francisco, CA"
     },
@@ -418,7 +668,7 @@
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research, founder, director @trillium_labs.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 103098,
+      "followersCount": 103190,
       "friendsCount": 946,
       "location": "Seattle"
     },
@@ -1823,6 +2073,22 @@
     "tweetUrl": "https://x.com/Winterrose/status/2105755279359103038",
     "fullText": "first strength training session is booked for this saturday\n\ngive me your best motivational youtube videos. Im assembling a play list",
     "createdAt": "Thu Oct 01 20:22:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 736851,
+      "friendsCount": 830,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2105729206273634696",
+    "fullText": "The critical distinction between base LLMs (2024 and earlier) and modern LRMs is not symbolic tool use. It's the switch from a transductive paradigm (intuit the answer to the query) to an inductive paradigm (intuit the program/instructions that produce the answer to the query).\n\nThey're trained to be inductive, and they perform test-time induction, i.e. test-time prediction of a NL program / reasoning chain. This unlocks entirely new capabilities -- in particular fluid intelligence. Base LLMs, to this day, have ~0 fluid intelligence. LRMs have substantial levels of fluid intelligence.\n\nThe performance of LLMs on ARC 1 (a benchmark from 2019) remains ~10-15% today. Scaling them up by a factor ~100,000x got them from 0% to 10%. Meanwhile LRMs the same size or smaller saturated ARC 1 in 2025.",
+    "createdAt": "Thu Oct 01 18:38:59 +0000 2026"
   },
   {
     "user": {
