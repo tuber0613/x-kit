@@ -1,12 +1,148 @@
 [
   {
     "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 133292,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTvlLSfaQAAhzNS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2106529236676976773",
+    "fullText": "Must-read paper from Meta on reliable auto-research agents.\n\nIf you let coding agents run ML experiments, one silent bug like leaked eval data or a disconnected gradient can invalidate hours of training and every iteration built on it.\n\nRankEvolve enforces each research phase and gate through a compiled protocol. It runs Claude Code and Codex as separate nodes that review and repair each other's changes.\n\nAt a matched budget, combining the two products raises execution accuracy from 45.8% for the best single product to 62.5%.\n\nOver twelve iterations on the open-source HSTU recommender, it improved NDCG@10 on MovieLens-20M by 4.48% over the published result.\n\nPaper: https://t.co/HzlsOulc5D",
+    "createdAt": "Sat Oct 03 23:38:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 322458,
+      "friendsCount": 1159,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTvlLRGbwAANhtY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2106529236068819394",
+    "fullText": "Banger paper from CMU on harness learning.\n\n(bookmark it)\n\nAlso, pay attention to this important new AI engineering skill of improving agents by editing their harness code instead of their weights.\n\nSeeing a huge shift towards this.\n\nThe authors train a proposer model with RL to read a task, the current harness and an execution report, then write a code edit to the harness.\n\nThe reward is the score of the revised harness. The solver model never changes.\n\nA trained 4B proposer beats its 35B teacher at single-step revision on Reasoning Gym, including task families it never saw in training. A proposer trained on HotpotQA keeps improving harnesses on MuSiQue and 2WikiMultihopQA.\n\nPaper: https://t.co/wpOoUqPF6r\n\nChat with Paper: https://t.co/1JHXwPwbhM",
+    "createdAt": "Sat Oct 03 23:38:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1345219,
+      "friendsCount": 2064,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2106524753230200832/vid/avc1/2160x3840/WZBBpf9O8afX9iO8.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nikitabier/status/2106524818556510401",
+    "fullText": "Not now babe, I’m monetizing my wiener https://t.co/896Y1xQqjh",
+    "createdAt": "Sat Oct 03 23:20:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420587,
+      "friendsCount": 909,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTveTBLbAAAZr2u.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2106521673268899994",
+    "fullText": "Hosting a UAP salon at my home. Here with Avi Loeb, Garry Nolan, Whitley Striber, Peter Skafish and Ryan Graves. Discussing the Science and tech and disclosure. https://t.co/Xv1a6s7ibi",
+    "createdAt": "Sat Oct 03 23:07:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 763353,
+      "friendsCount": 907,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2106519030060487032",
+    "fullText": "now that i’m in consumer, i find myself constantly asking how to make a product as good as tap tap revenge",
+    "createdAt": "Sat Oct 03 22:57:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5398960,
+      "friendsCount": 802,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2106507620152693040",
+    "fullText": "A friend of mine acknowledges that something is meant to be funny by laughing with 5 has: hahahahaha. Then if he actually found it funny he shifts to a higher pitch on the 6th ha and emits several more verses of has.",
+    "createdAt": "Sat Oct 03 22:12:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5398960,
+      "friendsCount": 802,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2106499966646833554",
+    "fullText": "I recently met someone who'd printed out all my essays. I'd never seen this before and I was surprised how big they were, like two encyclopedia volumes (for anyone who even knows what an encyclopedia volume is).",
+    "createdAt": "Sat Oct 03 21:41:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "notmisha",
+      "name": "Misha Denil",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1788400083639169024/ODLsRr9C_normal.jpg",
+      "description": "Co-founder of @reimaginerobots.\n\nI tweet about things that interest me, mostly machine learning things. ex-DeepMind.",
+      "followersCount": 25549,
+      "friendsCount": 878,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/notmisha/status/2106492046261248432",
+    "fullText": "\"I thus believe that in the future we will reach a new “natural boundary” in mathematics, beyond (and perhaps way beyond) where we are now, but where machines are going to get stuck and where it is not viable to expend any more resources to make the next big leap.\"\n\nhttps://t.co/1X9OF0EDYD",
+    "createdAt": "Sat Oct 03 21:10:15 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tszzl",
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 500106,
-      "friendsCount": 13772,
+      "followersCount": 500204,
+      "friendsCount": 13771,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -21,7 +157,7 @@
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
       "description": "can't code, won't code. builder, investor (dev tools/infra) @supabase @etched @factoryAI @sfcompute. 3 👶 under 4.",
-      "followersCount": 201305,
+      "followersCount": 201307,
       "friendsCount": 586,
       "location": "online"
     },
@@ -37,8 +173,8 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
-      "followersCount": 322452,
-      "friendsCount": 1158,
+      "followersCount": 322458,
+      "friendsCount": 1159,
       "location": "DAIR.AI Academy"
     },
     "images": [],
@@ -53,7 +189,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 737087,
+      "followersCount": 737132,
       "friendsCount": 830,
       "location": "United States"
     },
@@ -105,7 +241,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
-      "followersCount": 420586,
+      "followersCount": 420587,
       "friendsCount": 909,
       "location": ""
     },
@@ -157,7 +293,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241746378,
+      "followersCount": 241747193,
       "friendsCount": 1415,
       "location": ""
     },
@@ -211,7 +347,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 305911,
+      "followersCount": 305915,
       "friendsCount": 8514,
       "location": "United States"
     },
@@ -229,7 +365,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
-      "followersCount": 1344980,
+      "followersCount": 1345219,
       "friendsCount": 2064,
       "location": "LA"
     },
@@ -245,7 +381,7 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 305911,
+      "followersCount": 305915,
       "friendsCount": 8514,
       "location": "United States"
     },
@@ -261,8 +397,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 500106,
-      "friendsCount": 13772,
+      "followersCount": 500204,
+      "friendsCount": 13771,
       "location": "San Francisco, CA"
     },
     "images": [
@@ -279,8 +415,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 500106,
-      "friendsCount": 13772,
+      "followersCount": 500204,
+      "friendsCount": 13771,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -421,8 +557,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 500106,
-      "friendsCount": 13772,
+      "followersCount": 500204,
+      "friendsCount": 13771,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -1974,7 +2110,7 @@
       "name": "Pope Leo XIV",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1922601341576216576/JA1DF-Tv_normal.jpg",
       "description": "Welcome to the official account of His Holiness, Pope Leo XIV.",
-      "followersCount": 17888322,
+      "followersCount": 17891160,
       "friendsCount": 47,
       "location": "Vatican City"
     },
