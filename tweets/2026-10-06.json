@@ -1,0 +1,335 @@
+[
+  {
+    "user": {
+      "screenName": "rebecca_szkutak",
+      "name": "Becca Szkutak",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945669574868803584/DS45KFLN_normal.jpg",
+      "description": "Pilates teacher who writes about robots @a3automate\n\nBBQ Betch, 2001 Coldplay apologist, Real Housewives scholar\nShe/her",
+      "followersCount": 6490,
+      "friendsCount": 1235,
+      "location": "Queens, NY"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HT593EkWgAAsjTD.mp4"
+    ],
+    "tweetUrl": "https://x.com/rebecca_szkutak/status/2107260067666120852",
+    "fullText": "Less than 10 minutes into the Bruins game https://t.co/1BlUTkNUgG",
+    "createdAt": "Tue Oct 06 00:02:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5414295,
+      "friendsCount": 805,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT58jmbaEAAYHur.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2107258655380996324",
+    "fullText": "Halloween 2014: A very serious 2 yo wants the full bat experience. https://t.co/tEBSHC2ZmJ",
+    "createdAt": "Mon Oct 05 23:56:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 449570,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2107242242071285760/vid/avc1/1920x1080/urDlLtHCUaB-O2A8.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2107242397361139938",
+    "fullText": "If you live in the terminal, this one’s for you.\n\nWatch how to start tasks by voice, manage agents across projects, and explore another direction in a separate worktree with the Codex CLI. https://t.co/Q4GmBprj27",
+    "createdAt": "Mon Oct 05 22:51:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 323081,
+      "friendsCount": 1169,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2107229988101517312/vid/avc1/3684x2160/5wLX7Ul9zSww7-XH.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2107232293366505651",
+    "fullText": "Own your personal agent, folks. \n\nJust built my own little personal agent with @pidotdev's Pi Durable.\n\nI wanted to see how quickly I could build an OpenAI dots clone with open-source tools. \n\nI am amazed at how quickly I got this off the ground. \n\nIt's proactive. \n\nIt keeps working when you're not watching. It remembers you, runs jobs on a schedule, waits for your approval, and uses its own computer. \n\nPi Durable makes that possible.\n\nEvery step is checkpointed. I can kill the process mid-task, and My Pi picks up right where it left off.\n\nMemory lives in durable documents. What My Pi learns about me in one Space survives a crash and carries over to every other Space.\n\nApprovals are durable too.\n\nIt also has its own computer. Each Space gets a full Linux desktop that My Pi controls with screenshots, mouse, and keyboard. \n\nThe model runs through OpenRouter, so I can swap models without changing anything else. That's all configurable however you like it. \n\nIf you've been wanting your own personal agent, now is a great time to build one. \n\nI am building this as an experimental ground where I can test new ideas and experiment deeply with proactive personal agents. But I plan to open-source it after testing it a bit and adding more interesting primitives. \n\nThe goal is to make it customizable and easy to build on, so others can experiment with their own personal agent functionalities.",
+    "createdAt": "Mon Oct 05 22:11:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 254783,
+      "friendsCount": 1749,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT5cmGmXQAAS6xC.jpg",
+      "https://pbs.twimg.com/media/HT5c20yX0AAiajt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2107224219704508709",
+    "fullText": "如果你想 Debug Codex/ChatGPT 的 Mac App 的 UI 实现\n\n1. 退出正在运行的 Codex App\n\n2. 命令行窗口执行：\n\n$ open /Applications/ChatGPT.app --args --remote-debugging-port=8315 --remote-allow-origins=http://localhost:8315\n\n2. Chrome 里面输入 chrome://inspect/ 打开 Remote Target\n\n3. 从列表中找到 ChatGPT\napp://-/index.html，点击 inspect\n\n4. 就会弹出 DevTools 窗口看到 Codex UI，像 Debug 普通网页一样 Debug Codex 了",
+    "createdAt": "Mon Oct 05 21:39:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493903,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT5b157XoAAeQQj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2107222698883502454",
+    "fullText": "\"Spec-Driven Development with BMAD: Master Agentic Workflows using Cursor, BMAD, and Context Engineering\" at https://t.co/zwXoTObYN6 from @PacktPublishing \n\nBMAD stands for Breakthrough Method for Agile AI-Driven Development, an open-source framework that organizes AI assistants into structured software development teams instead of relying on random, unstructured chat prompts.  Explore the BMAD GitHub Repository at https://t.co/EqKLAhx8DP",
+    "createdAt": "Mon Oct 05 21:33:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493903,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT5a8fUXsAAp6bN.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2107221716938449300",
+    "fullText": "New release from @PacktPublishing 💥\n\nFairness in Generative AI — Practical Guide to Benchmarking, Bias Mitigation, and Responsible AI Engineering: https://t.co/uS37T5Refc\n\nKey Features:\n💠 Turn generative AI fairness principles into testable responsible AI requirements\n💠 Build benchmarks and metrics for LLMs, image models, and multimodal generative AI\n💠 Operationalize AI governance with human review, CI gates, drift monitoring, and scorecards\n💠 Apply AI ethics to identify harms, evaluate trade-offs, and guide model releases",
+    "createdAt": "Mon Oct 05 21:29:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493903,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT5aec9WIAAoK16.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2107221163277447559",
+    "fullText": "The Generative AI Career Masterplan — Navigate the future of AI with practical insights from industry pioneers at AI-first organizations: https://t.co/6lhyxnFyaV v/ @PacktPublishing\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🟡Understand the global impact of Generative and Agentic AI on jobs and industries\n🟢Master key GenAI & Agentic AI concepts for any professional background\n🔵Identify your best-fit AI career path and transferable skills\n🟡Build familiarity with LlamaIndex, Haystack, Hugging Face, and core RAG workflows\n🟢Build an AI-enhanced personal brand using the 5-Layer LinkedIn Strategy and Portfolio Showcase Framework\n🔵Apply ethical and responsible AI principles and governance in real-world practice\n🟡Create a lifelong learning and upskilling roadmap for sustained growth",
+    "createdAt": "Mon Oct 05 21:27:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493903,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT5aDyiXcAACFSi.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2107220710204534835",
+    "fullText": "New release from @PacktPublishing\n \n“System Design and Behavioral Intelligence: Master technical and behavioral interviews with proven design frameworks and AI-driven preparation”\n\nGet it at https://t.co/8L8NCXOQtu\n\nLearn to…\n🟠 Design scalable distributed systems with confidence\n🟠 Evaluate architectural trade-offs for real-world systems\n🟠 Apply core system design patterns and algorithms\n🟠 Structure behavioral answers using STAR and STAR-L\n🟠 Prepare for FAANG-style interview expectations\n🟠 Use AI effectively throughout interview preparation\n🟠 Present technical decisions with clarity\n🟠 Build a repeatable interview preparation strategy",
+    "createdAt": "Mon Oct 05 21:25:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 493903,
+      "friendsCount": 3363,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT5YqD2XEAA7ndN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2107219223617671332",
+    "fullText": "New release from @PacktPublishing at https://t.co/7nF0kP6Rqk\n\n\"Quantum Computing for Leaders\" helps to build quantum strategies, teams, security, and ecosystems to lead in the era of quantum advantage.\n\nAmazon Summary:\n\"This book is organized as a complete strategic operating system for the quantum transition. Part One equips executives with investment frameworks, governance structures, and talent roadmaps. Part Two guides technical leaders through infrastructure assessment, workforce development, and quantum-era data strategy. Part Three delivers a security playbook covering post-quantum cryptography and adaptive architecture. Part Four maps the full quantum ecosystem and partnerships that will determine which institutions lead commercially.\"",
+    "createdAt": "Mon Oct 05 21:19:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 449570,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2107217487360360448/vid/avc1/1920x1080/0xmgrSp6EF3Q3G_0.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2107217506025009620",
+    "fullText": "Achievement unlocked:\n\nMeet the winners of our Side Quests. https://t.co/sQjVAqtz0P",
+    "createdAt": "Mon Oct 05 21:12:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 250655,
+      "friendsCount": 7207,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT5WpV3acAAnwdI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2107216946873950637",
+    "fullText": "⚠️ The copyright takedown I was sent – apparently from X turns out to be fake, a phishing attack. (I got suspicious when they asked for my password.)\n\nit looks like this (and was sent to my email account, not my X account) \n\nPlease on your guard.\n\nScammers used the URL https://t.co/tY12dj3B1T",
+    "createdAt": "Mon Oct 05 21:10:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 250655,
+      "friendsCount": 7207,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT5Vu0wbkAADjX4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2107215941268640120",
+    "fullText": "as @robweir guessed, this was a phishing scam, not the real thing. OP deleted, but to inform others, scam looked like this: https://t.co/Vi8eYeWl4z",
+    "createdAt": "Mon Oct 05 21:06:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 103742,
+      "friendsCount": 947,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2107214330529980676",
+    "fullText": "Reflection joins the list of Nvidia &amp; Thinking Machines who have released their strongest models and come up behind Chinese counterparts. There's a lot of ways people will overthink this, but the clearest takeaway should be that the Chinese are very very good at building LLMs.",
+    "createdAt": "Mon Oct 05 21:00:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5414295,
+      "friendsCount": 805,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2107208710309441821",
+    "fullText": "One very important thing that even the smartest people seem to have to learn from experience is taste in problems. There are juicy problems that tend to lead to interesting discoveries, and nasty problems that tend not to.",
+    "createdAt": "Mon Oct 05 20:38:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 250655,
+      "friendsCount": 7207,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2107193250880880703",
+    "fullText": "Live w @LizClaman @FoxNews in a sec",
+    "createdAt": "Mon Oct 05 19:36:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 268631,
+      "friendsCount": 200,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2107129710832390144/vid/avc1/3840x2160/N8KSuyVkh2vS9UvK.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2107188086715109482",
+    "fullText": "Adding a new feature to @theziphq's agent used to take weeks. Their team would have to hand-build the code for LLM calls, storage &amp; context.\n\nThey rebuilt their chatbot on LangGraph + LangSmith, and every trace was there without them writing a single line of code.\n\nFull story ⤵️ https://t.co/2dvmGkdk2T",
+    "createdAt": "Mon Oct 05 19:16:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 250655,
+      "friendsCount": 7207,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2107179555928920233",
+    "fullText": "shouldn’t Ed Boyden share in the Nobel for Optogenetics?",
+    "createdAt": "Mon Oct 05 18:42:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "jackclarkSF",
+      "name": "Jack Clark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
+      "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
+      "followersCount": 149850,
+      "friendsCount": 4615,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jackclarkSF/status/2107135859371983319",
+    "fullText": "The single most useful take I heard at The Curve was \"we can still heist the Mona Lisa after the singularity\". There's a subtle/important point here, where some things (e.g, n of 1 goods where originally is valuable) will retain/grow in value even as everything changes.",
+    "createdAt": "Mon Oct 05 15:48:32 +0000 2026"
+  }
+]
