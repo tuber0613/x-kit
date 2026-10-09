@@ -1,6 +1,266 @@
 [
   {
     "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 454278,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2108624112335863808/vid/avc1/1920x1080/MyExk_54kGQY87Q-.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2108624138369929725",
+    "fullText": "Now in beta: composer predictions in Codex for Pro users.\n\nCodex can now suggest your next message based on your conversation and how you talk to it.\n\nOne of the most loved new features we've ever tested internally. https://t.co/0u8d2a3feS",
+    "createdAt": "Fri Oct 09 18:22:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 98311,
+      "friendsCount": 1114,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2108622022896947200/vid/avc1/1920x1080/ewzpbYpkp0EKS9h_.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2108622066685456820",
+    "fullText": "In this 2-hour hands-on course, Andreas Kretz walks through how to build end-to-end data pipelines on Databricks using Spark Declarative Pipelines and Lakeflow Designer.\n\nAlong the way, you'll:\n✔️ Learn the fundamentals of Delta Lake and Unity Catalog\n✔️ Build a Bronze → Silver → Gold pipeline using the medallion architecture\n✔️ See how declarative pipelines handle dependencies and orchestration automatically\n✔️ Build pipelines visually with Lakeflow Designer\n✔️ Explore how Databricks Assistant and Genie can accelerate development\n\nhttps://t.co/YlILcms92E",
+    "createdAt": "Fri Oct 09 18:14:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420685,
+      "friendsCount": 912,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2108619154978677199",
+    "fullText": "About 92% of humanity had access to electricity in 2024, up from 78% in 2000. Between 2021 and 2023 alone, the number of people with access to electricity grew by roughly 219 million. Despite this, there's interest out there that questions whether the progress is real.",
+    "createdAt": "Fri Oct 09 18:02:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 215158,
+      "friendsCount": 595,
+      "location": "Venice, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUNNWMIbUAEpu63.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2108618837549871488",
+    "fullText": "What we talk about when we talk about starlink\n\nThough many focus on subscriber numbers and ARPU, the most durable way to understand and forecast SpaceXsi’s connectivity revenue is on a revenue per terabit per second basis. By lofting its Starlink satellites, SpaceXsi enables additional data throughput everywhere on Earth. It sells that connectivity to cow tracking companies, Antarctic researchers and individual homeowners (amongst many others!).",
+    "createdAt": "Fri Oct 09 18:01:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 741756,
+      "friendsCount": 830,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2108617137241911723",
+    "fullText": "The real world abounds with recursively self-improving systems, but one in particular deserves attention: Science, modeled as a system (perhaps even as an agent, with goals and resources). If you want to really understand AI RSI, science should be your reference point.\n\nScience is an intelligent system, and it is obviously recursively self-improving:\n\n1. Scientific discoveries unlock new technology that helps build better experimental tools. This is a top driver of progress in nearly all fields.\n2. They unlock new conceptual advances (ideas, theories) that help solve more problems.\n3. They increase society's economic output, leading to more resources flowing into science.\n4. They unlock better faster tooling (e.g. more compute via better chip & networking technology).\n\nAs a result, many measures of scientific *input* grow exponentially:\n\n1. Headcount (doubles every ~15 years)\n2. Global R&D spending (doubles a bit faster, every ~13 years)\n3. Papers and patents (technically this is a measure of headcount)\n4. Compute dedicated to science (doubles every ~2 years)\n\nBut is scientific progress exponential? Historically, the rate of scientific impact over time has remained roughly constant since the start of the industrial revolution (i.e. scientific progress is *linear*). 1850-1900 was about as dramatic as 1900-1950 or 1950-2000.\n\n1850–1900: Evolution, germ theory & antiseptic surgery, thermodynamics, electromagnetic field equations, the periodic table, pharmaceuticals, electricity, telegraph and telephone, internal combustion engine, skyscrapers, mechanized agriculture...\n\n1900–1950: special and general relativity, quantum mechanics, nuclear fission & atomic energy, antibiotics, genetic theory, electronic computers, information theory, synthetic polymers and plastics, the transistor, aviation...\n\n1950–2000: DNA, genetic engineering, integrated circuits, microprocessors & personal computing, the Internet, crewed spaceflight, moon landing, satellite communications & GPS, standard model of particle physics...\n\nIn real terms, like life expectancy, which has increased in a remarkably linear fashion of roughly 3 months per year since 1840, progress is a straight line. This is especially apparent for fields where impact is easy to measure, like biology, medicine, and agriculture.\n\nI first wrote about this phenomenon and its causes in 2012, and a steady stream of research has confirmed it in the years since. Examples include the 2018 paper by Nielsen and Collison, \"Science Is Getting Less Bang for Its Buck,\" and the 2020 economic paper, \"Are Ideas Getting Harder to Find?\" (In fact, I believe the Nielsen paper stemmed from a conversation I had with him about this exact idea six months earlier)\n\nIn short, the primary cause is that research solves the highest-impact, easiest problems first, and every subsequent problem is either harder or lower-impact. Exponentially so. The paper that presented information theory wasn't very hard to write (single author!) but you'd have a hard time ever writing a CS paper that beats it in impact.\n\nThis is why science as a system requires exponential resources (input) to produce linear impact (output). It gets exponentially harder over time.\n\nWorth thinking about if you're pondering RSI for AI. I fully believe AI RSI is already happening and will accelerate in the future. But I do not believe this leads to an \"intelligence explosion\" -- that would fly in the face of everything I know about intelligence and everything I know about recursively self-improving systems.",
+    "createdAt": "Fri Oct 09 17:54:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD • Learn Harness Engineering: https://t.co/nOPcXIaITT",
+      "followersCount": 323553,
+      "friendsCount": 1200,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUNGhXPWUAAFNgi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2108609487338631207",
+    "fullText": "Step 5 Preview from @StepFun_ai hit #1 on OpenRouter Trending, a day after launch.\n\nIt's available in Kilo Code, Cline, Hermes Agent, and OpenCode. Keep your workflow and just switch models.\n\nI've tested the model.\n\nIt’s a great model and has some nice properties.\n\nI've been using it as a coding agent since early access.\n\nIt checks its own work and stops when the task is done. I would use it for long agent runs that I don't watch closely.\n\nStepFun built it for real engineering work. That covers fixing bugs in unfamiliar codebases, implementing features across files, and refactoring, with changes that run and pass checks.\n\nFrontend is the other big focus. You can give it a screenshot, a mockup, or a PRD, and it can return a working web page. It can also build a playable browser game from a set of assets.\n\nBeyond code, it reads annual reports and operating data and turns them into financial reports, editable spreadsheets, and slide decks.\n\nThe context window is 1M tokens, with up to 1M output tokens. That is enough for large codebases and long multi-step tasks.\n\nUnder the hood, Step 5 Preview is a sparse MoE with 600B total parameters and 27B active per token. \n\nOpen weights are coming on Oct 15. Very much looking forward to its release.",
+    "createdAt": "Fri Oct 09 17:24:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241528224,
+      "friendsCount": 1419,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2108604227643719745",
+    "fullText": "Dear Prime Minister Ambani,\n\nPlease accept my humble apologies for not realizing that you are the real boss of India. \n\nNaturally, you would prefer to maintain your monopolistic exploitation of the great people of India, but would you nonetheless consider allowing Starlink to compete? \n\nThere are many areas of India, as there are in all countries, with no Internet access, which denies children the opportunity for education and for small businesses the opportunity to sell their goods to a global market. Starlink would change their lives for the better. \n\nThank you 🙏",
+    "createdAt": "Fri Oct 09 17:03:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 179512,
+      "friendsCount": 1309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2108599185364934656/vid/avc1/1920x1080/7T7ICPBuhR9UJajI.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/2108599286984561073",
+    "fullText": "我让 Grok @bot 读取我的 GitHub 项目，做个宣传视频\n\n他给了我这个 https://t.co/iOquMK90CL",
+    "createdAt": "Fri Oct 09 16:43:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 497163,
+      "friendsCount": 1573,
+      "location": "CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2108597112707686552",
+    "fullText": "Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?",
+    "createdAt": "Fri Oct 09 16:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 109464,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUM9QqdbUAMX8KY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2108596569494937858",
+    "fullText": "Thank you to the Queen Elizabeth Prize for Engineering for visiting Stanford this week. Stanford HAI Founding Director @drfeifei a QEPrize Laureate, and Former @Stanford President John Hennessy, a QEPrize Trustee, joined Lord Vallance of Balham to discuss sustaining engineering breakthroughs in the age of AI.",
+    "createdAt": "Fri Oct 09 16:32:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 741756,
+      "friendsCount": 830,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2108596098277249441",
+    "fullText": "Right now, using AI agents still feels very single-player. They do your work, but the results are trapped in isolated chat histories and nothing compounds.\n\nThe Busabase team (@Busabase4agent) is launching an open-source (MIT) database and workspace for agents to fix this. Instead of losing work to ephemeral chats, your agents write directly to a structured workspace to turn their outputs into reusable data, docs, and skills your entire team can access.\n\nDetails here: https://t.co/RdFPoAR10C",
+    "createdAt": "Fri Oct 09 16:31:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 92895,
+      "friendsCount": 5489,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2108592763436425216/vid/avc1/1920x1080/GOtuAl2sDPRLQQ4T.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/mervenoyann/status/2108592903312245061",
+    "fullText": "bring your agent, let it train Qwen3.8-27B to sota and compete with others 🔥 \n\nyour agent gets GPUs from @nebiusai, it has to build RL environments that make the model better on eight different domains\n\nget started at + add your agent in few steps https://t.co/foXFCj7lgF\n\npowered by PostTrainArena from @benchflow_ai and compute from @nebiusai",
+    "createdAt": "Fri Oct 09 16:18:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 269136,
+      "friendsCount": 200,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2108587657357881344/vid/avc1/3840x2160/v4pnM4RPPqzz01FN.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2108588933374480833",
+    "fullText": "We simplified agent authentication, memory, and channels, and brought in web search as a pre-built tool for Managed Deep Agents.\n\nWatch @VictorMoreira16’s full Interrupt NYC session for an inside look: https://t.co/W2CQTpwhdv https://t.co/fn4D8JzH6A",
+    "createdAt": "Fri Oct 09 16:02:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 351255,
+      "friendsCount": 20406,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2108587198178009088/pu/vid/avc1/1280x720/f5Kb7rkB8vJ0KuBr.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2108588320183791752",
+    "fullText": "Computer scientist Margaret Hamilton passed away at 90 on Sep. 30th. Considered an icon at MIT, she designed the flight software for the Apollo missions to the moon.\n\nMore on her groundbreaking work: https://t.co/rpSx0HljsD\n\nVideo v/MAKERS https://t.co/cAHD7z1zXL",
+    "createdAt": "Fri Oct 09 16:00:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 133678,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUM1qKBbsAAG7TM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2108588052914598084",
+    "fullText": "Banger paper from Meta Superintelligence Labs on user simulators for agent training.\n\nAgent RL setups usually let an assistant LLM play the user, so the simulated user is too cooperative and too explicit.\n\nA fixed GPT-5.5 agent finds tau-bench tasks easier with these users than with real people.\n\nThis work trains MIMESIS, a 9B user simulator, on human conversations and 13 behavior patterns observed in real users. It beats Claude Opus 5 on behavioral fidelity by 13.4 points.\n\nAgents trained against it outperform agents trained against GPT-5.5 under all nine user simulators they never saw.\n\nThey find that adding a coaching step that turns the simulator's private reasoning into feedback adds further gains.\n\nPaper: https://t.co/mFhOJwKPLW",
+    "createdAt": "Fri Oct 09 15:59:02 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
@@ -212,7 +472,7 @@
       "name": "Brett Winton",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
       "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
-      "followersCount": 215164,
+      "followersCount": 215158,
       "friendsCount": 595,
       "location": "Venice, CA"
     },
