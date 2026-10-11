@@ -1,0 +1,555 @@
+[
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 63972,
+      "friendsCount": 271,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUUImMBaEAAPoyq.jpg",
+      "https://pbs.twimg.com/media/HUUImL2bgAAXtBv.jpg",
+      "https://pbs.twimg.com/media/HUUImL0akAABysN.jpg",
+      "https://pbs.twimg.com/media/HUUImMCbYAAuGY7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2109101610840531234",
+    "fullText": "yesterday we took SF @Techweek_ to the water  ✈️\n\nThe Science of Speed brought together founders, researchers, and builders front row for Fleet Week with @nvidia and @dtcp_capital. not to mention a guest appearance from former Blue Angels\n\nthey fly 18 inches apart at 400 knots. we shave milliseconds off inference. same obsession with speed.\n\nphotos below 👇",
+    "createdAt": "Sun Oct 11 01:59:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 742080,
+      "friendsCount": 830,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2109096597011534242",
+    "fullText": "I've been having a lot of fun trying a wide range of LLM post-training experiments using KerasHub + JAX + TPUs. Might open-source some of that",
+    "createdAt": "Sun Oct 11 01:39:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 162316,
+      "friendsCount": 3399,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2109095176539103373",
+    "fullText": "the simplest fucking thing in the world is to act fairly rather than take advantage of the people who aren’t a pain in your ass, and are unequivocally on your side",
+    "createdAt": "Sun Oct 11 01:34:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305983,
+      "friendsCount": 8529,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2109085903670882529",
+    "fullText": "Human in the loop? In this economy?",
+    "createdAt": "Sun Oct 11 00:57:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. rational in the fullness of time",
+      "followersCount": 774705,
+      "friendsCount": 914,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUTdyTHbsAAZ9Gt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2109054384143487461",
+    "fullText": "muse after seeing my email inbox https://t.co/4GSQgY7PzQ",
+    "createdAt": "Sat Oct 10 22:52:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 133728,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUTVTwIbYAAXLfR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2109045065930981708",
+    "fullText": "Nice paper on agent memory.\n\nIt explores an effective routing mechanism for memory in agents.\n\nThe overall finding is that you want a separate retrieval strategy for each type of memory instead of one embedding search over everything.\n\nThe authors prove that any single retrieval strategy has an upper bound on expected precision when the memory store holds several types.\n\nMemoType classifies each memory and each query by type, retrieves memories that match the query type, and applies the strategy for that type. A new dataset, TriMEM, provides the type labels needed to train the classifier.\n\nRecall@1 improves by up to 16.18% across three datasets.\n\nPaper: https://t.co/WFiGbPsaLe",
+    "createdAt": "Sat Oct 10 22:15:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12106,
+      "friendsCount": 1375,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUTQwCLXEAAUREg.jpg",
+      "https://pbs.twimg.com/media/HUTQwCIWAAA34N-.jpg",
+      "https://pbs.twimg.com/media/HUTQwCTXQAA_5W3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2109040059848470536",
+    "fullText": "My “AI slop” co-op NES game mods were a big hit at a family party today. Might have been the first co-op NES\nMetroid session in history\n\n4-player SMB is great. Peach floats, select is bubble mode for kids https://t.co/4U0OmM1j08",
+    "createdAt": "Sat Oct 10 21:55:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494315,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2109035345136304399",
+    "fullText": "A research paper titled “On the Growth Factor of Random Matrices” is one in a deluge of AI-assisted proofs that mathematicians have achieved in this new era when they can combine their genius with supercomputing power:\nhttps://t.co/WShaRugf82",
+    "createdAt": "Sat Oct 10 21:36:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 72695,
+      "friendsCount": 36894,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUTKtwtXIAADtGE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2109035296834892259",
+    "fullText": "Thank you to @JungWooHa2 - Vice Chair of the Presidential Council on National AI Strategy - for discussing its thoughtful and ambitious design in Korea\n\nI'm grateful for Minister of Science/ICT and Deputy PM Bae Kyung-hoon @msitminister's shout out in @stateofai! https://t.co/oJrE8hloIz",
+    "createdAt": "Sat Oct 10 21:36:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 72695,
+      "friendsCount": 36894,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUTGHu7XoAEzYwP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2109028369543160077",
+    "fullText": "carlos will pull a mullet next - mark my words. https://t.co/O5P7F4UmKG",
+    "createdAt": "Sat Oct 10 21:08:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241502469,
+      "friendsCount": 1421,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2109027407185277123",
+    "fullText": "To buy stuff, you can just take a picture of your credit card, drop it in the chat and Grok @Bot will scour the Internet for the best deal on the item you want and order it",
+    "createdAt": "Sat Oct 10 21:04:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420623,
+      "friendsCount": 912,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2109026583004463251",
+    "fullText": "Abundance won't happen to us 'by luck.' It's taking many, many engineers, scientists, founders, and everyday people to work on and solve problems. Abundance is a CHOICE our civilization is making, and I hope we keep choosing it.",
+    "createdAt": "Sat Oct 10 21:01:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD",
+      "followersCount": 323655,
+      "friendsCount": 1205,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUTENWIacAAHmQ6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2109026263453294956",
+    "fullText": "Pay close attention to custom harnesses.\n\nThis is a super interesting paper showing the impact of training inside the harness.\n\nQwen3-14B goes from 22.2% to 54.8% on Spider 2.0-SQLite when it is trained in the same execution harness it uses at deployment.\n\nText-to-SQL models are usually trained to write one static query. Deployed database agents inspect schemas, run probe queries and revise, and the harness for that only appears at inference time.\n\nHarnessSQL builds isolated executable databases with hidden answer checks. Teachers run inside the target harness; we keep only verified trajectories for SFT, then apply execution-reward RL.\n\nIn addition, Qwen3-8B rises from 15.5% to 45.2%, and both models transfer to BIRD-Interact and LiveSQLBench.\n\nPaper: https://t.co/FybRkH2gne\n\nChat with Paper: https://t.co/1r2wfudPCo",
+    "createdAt": "Sat Oct 10 21:00:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 162316,
+      "friendsCount": 3399,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2109025293012983808/vid/avc1/1920x1080/bgDGbOi4XZVG0W6g.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/saranormous/status/2109026153705201963",
+    "fullText": "ICYMI, new @NoPriorsPod with @reflection_ai cofounder @MishaLaskin on China, safety, market structure of ai, the business model of open models, reasoning efficiency, distillation, and what it takes to ship massive frontier AI\n\n“Competitive tension is just good.” https://t.co/K6w56NW6OT",
+    "createdAt": "Sat Oct 10 20:59:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 104466,
+      "friendsCount": 951,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2109022204021346698",
+    "fullText": "By end of 2027 I'll be the only open models person Nvidia hasn't acquired",
+    "createdAt": "Sat Oct 10 20:44:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1348935,
+      "friendsCount": 2066,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2109016479060643966",
+    "fullText": "The only group more insufferable than tech people is anti-tech bluesky users, who have been coming back to X in droves the last few weeks.\n\nAnd they’re just discovering that the entire world got rich over the last two years while they were busy arguing with each other about politics and AI.\n\nAnd they’re very, very angry.",
+    "createdAt": "Sat Oct 10 20:21:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241502469,
+      "friendsCount": 1421,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUS30WJXgAAuTSo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2109012639049244981",
+    "fullText": "https://t.co/XOVqKjFXT6",
+    "createdAt": "Sat Oct 10 20:06:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO Gauntlet AI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 486327,
+      "friendsCount": 1659,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2109009010699702546",
+    "fullText": "When I invested in startups 5 years ago it used to be 90% of spend was headcount 10% was AWS.\n\nNow it’s 65% headcount, 5% AWS, 30% AI.",
+    "createdAt": "Sat Oct 10 19:51:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 78643,
+      "friendsCount": 1687,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2109005211834732743",
+    "fullText": "As a former math professor and still sometime math researcher, I am rather disappointed in the reaction of the \"official math community\" to LLMs doing math epically well...\n\nThe official hierarchy of award-winning mathematicians and prize committees do not f**king own mathematics, and nobody should have to get permission to prove f**king math theorems !!!  Come on people !!\n\nWhat would piss me off would be if rich companies were proving important, useful math and keeping it secret and not sharing it with the world (which after all supplied their models with all that critical data on the historical math already created etc.) -- but this is NOT what is happening, at least not so far at least...\n\nLLMs are currently superhuman mathematicians in some respects, yet inferior to strong human mathematicians in other respects.   Whether creative mathematical conjecturing turns out to be AGI-hard is not 100% clear, but I suspect that in some respects the answer will turn out to be yes.\n\nAs Josef Urban , a longtime leader of the academic AI theorem-proving world put it very concisely: Math has two big functions, it's fun and it's useful.   \n\nThe utility of math should vastly increase as we develop better and better AI-math tools.  And yes, we want to be careful this utility is not captured in a few companies, but this particular problem is not happening now... probably largely because the economic value of new math is relatively indirect compared to a lot of other things.\n\nThe fun of doing math will not go away any more than the fun of playing guitar solos goes away if there are robots that can shred faster than any human. The kinds of fun we can most naturally have will shift, as has happened over and over throughout history.\n\nIf fancy math prizes or math PhD degrees become infeasible or have to change dramatically, so be it, these were never really the core of math which existed before any of these (in some ways already problematic) social institutions...\n\nI remember when I was an academic mathematician, there was a strong vibe that the mathematicians were at the top of the intellectual hierarchy, with physicists just below, then chemists and engineers, then biologists .. and everyone else just barely above the chimpanzees and politicians.... (The physicists also placed themselves at the top, I think, and mostly considered the mathematicians useful but a bit pedantic and misguided, fussing about missing proof details in calculations that had already been successfully compared to experimental data...) -- \n\nWhat we are seeing now I think is the wounding of this sort of overweening math ego...  Plus some practical worry about the potential end of \"math researcher\" as an economically viable profession -- although current tenured profs are probably safe for a while, as governments and universities are unlikely to adapt to exponential change too much till post-Singularity..\n\nAnyway all this is a sideshow to lots of other related major issues/conflicts unfolding concurrently, it's just one that happens to hit close to home as math was where I started my career..\n\nI have been playing with using LLMs and AI agents to try to invent new kinds of math more appropriate for modeling the experiences of agent hives... a different kind of fun. For those curious...\n\n1) Basics of new \"distinction calculus\" math\n\nhttps://t.co/0MvYyYrRys|\n\n2) Attempted start of application to beneficial superintelligence,\n\nhttps://t.co/TJbGw8Wwhx\n\nSoon enough the agents may not need my help with this sort of thing, in which case I will move on to some alternate method of filling spare late evenings ;)",
+    "createdAt": "Sat Oct 10 19:36:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1092558,
+      "friendsCount": 64,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2109003538080927744/vid/avc1/1920x1080/0-v4vvysk2mjIjC6.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2109003648034615343",
+    "fullText": "Figma's Dylan Field says our definition of \"slop\" keeps silently moving:\n\n\"I said, 'AI will lower the floor and raise the ceiling.' And I had to correct myself, because actually that's not what we're seeing yet.\"\n\n\"We're seeing it lower the floor. It's more democratized to do something. But the ceiling doesn't seem to have changed.\"\n\n\"Anything you can verify, AI's great at. Math being number one, maybe cybersecurity number two... You get five designers in a room, they can't agree all the time on exactly what they should do. And that's what's interesting about design. There is not one solution.\"\n\n\"A lot of the stuff that we call slop wouldn't be stuff we'd call slop a month ago or two months ago. As the models change, our definition of slop changes.\"\n\n\"The craft that you imbue into something is reflective of your thinking. It's reflective of your care. People pick up on it. Whether they can articulate it or not, they can tell.\"\n\n\"It creates a lower bound that you have to exceed, but it doesn't define the upper bound. You define the ceiling.\"\n\n@zoink w/ @sophiadew on @MTSLive",
+    "createdAt": "Sat Oct 10 19:30:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494315,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUSjmhdW4AE0vtn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2108990411452919913",
+    "fullText": "The GMAT Mentor for Quants — The Essential Guide to Mastering the GMAT sections on Quantitative Reasoning and Data Insights: https://t.co/yD6NBdRUv0 https://t.co/2Kegh2BHVw",
+    "createdAt": "Sat Oct 10 18:37:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494315,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUSjYepW0AAfzDn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2108990169244139729",
+    "fullText": "🟡 \nComprehensive guide to applying Machine Learning in Finance: https://t.co/KQP7dcGMSF by Matthew Dixon\n🟡\n...includes some chapters (PDF) from his book: https://t.co/gfbvpKduph\n🟡\n#AlgorithmicTrading #ML #DataScience #Quant #DataScientist\n🟡 https://t.co/bi5VyjUnIT",
+    "createdAt": "Sat Oct 10 18:36:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 420623,
+      "friendsCount": 912,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2108981414225908102",
+    "fullText": "Good news compounds quietly and slowly... Bad news arrives loudly and fast. That asymmetry (rather than reality) is why many people are feeling anxious during what is perhaps the single greatest moment in human history.",
+    "createdAt": "Sat Oct 10 18:02:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "jackclarkSF",
+      "name": "Jack Clark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
+      "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
+      "followersCount": 151783,
+      "friendsCount": 4615,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2108970310233923586/vid/avc1/1920x1080/Rypno16wECDzsT5-.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/jackclarkSF/status/2108972753852543441",
+    "fullText": "Special Import AI announcement: In Monday's issue, there will be a video from a recent event I did with Robin Sloan where we talked about AI, fiction, and the future. Robin said we can read the Hugging Face hack as being like a play - a fascinating perspective! https://t.co/DHcEISJzq8",
+    "createdAt": "Sat Oct 10 17:27:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 233395,
+      "friendsCount": 224,
+      "location": "US"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUSQe59agAEvGWo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2108969676298657931",
+    "fullText": "Image-to-WebDev Arena update: Claude Opus 5.5 (Max) by @AnthropicAI takes the #1 spot with 1749 pts, with Claude Sonnet 5.5 (xHigh) just 9 pts behind at #2 with 1740 pts!\n\nBoth models also landed on the Pareto frontier! See their positioning on the visual in thread.\n\n- #1-ranked Claude Opus 5.5 (Max) has a blended input/output token price of $16/M. This is 60% lower than #3-ranked GPT-6 Astra at $40/M.\n- #2-ranked Claude Sonnet 5.5 (xHigh) costs $8/M, 50% less than Opus for a 9-point score gap. It also ranks one place above GPT-6 Astra (#3) while costing 80% less.\n\nStay tuned to see where Claude Haiku 5.5 lands in the Image-to-WebDev Arena!\n\nThe Image-to-WebDev Arena ranks AI models on their ability to generate websites from images and screenshots, alongside agentic coding workflows involving multi-step reasoning and tool use.",
+    "createdAt": "Sat Oct 10 17:15:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rsalakhu",
+      "name": "Russ Salakhutdinov",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006067605652623360/cghMLL82_normal.jpg",
+      "description": "CSO @ Sooth Labs, Professor @ CMU,  President Elect ICML Board, Ex-VP of Research @ Meta (Multimodal LLMs, AI Agents), ex-Director of AI at @Apple",
+      "followersCount": 129062,
+      "friendsCount": 205,
+      "location": "Pittsburgh, PA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rsalakhu/status/2108962463714820351",
+    "fullText": "My relatives are now asking me about AI and getting worried that AI might wipe us out. There are real risks, absolutely, but I think this doomsday rhetoric is getting a bit out of hand.",
+    "createdAt": "Sat Oct 10 16:46:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "cocoweixu",
+      "name": "Wei Xu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1823743197098729496/a6avHXob_normal.jpg",
+      "description": "CS professor @GeorgiaTech @gtcomputing @ICatGT @mlatgt. Evaluating & Improving LLMs (multilingual, reasoning, RL, multi-turn, privacy/safety, etc.)",
+      "followersCount": 12691,
+      "friendsCount": 1322,
+      "location": "Atlanta, GA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cocoweixu/status/2108962306864624068",
+    "fullText": "Who's coming to Atlanta for NeurIPS this year? 👋",
+    "createdAt": "Sat Oct 10 16:46:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 179766,
+      "friendsCount": 1309,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2108961427117789184/vid/avc1/764x930/ew39KYeZBQwXVSIw.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/2108961526635983040",
+    "fullText": "给我的 Grok Bot 换个新头像 https://t.co/B6fvHb0tLg",
+    "createdAt": "Sat Oct 10 16:43:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5421146,
+      "friendsCount": 806,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUSFajjbEAAumHZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2108958359097659453",
+    "fullText": "This skeletonized Audemars Piguet 14232 is a great way to understand how movements work. The big circle at 1:00 is the muscle: the barrel, which contains the mainspring. The other, at 5:30, is the brain: the balance wheel, which oscillates rapidly to keep time. https://t.co/OgA0hl9HJr",
+    "createdAt": "Sat Oct 10 16:30:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305983,
+      "friendsCount": 8529,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2108955410635935950",
+    "fullText": "You only have 6 - 18 months to become the person you always wanted to be.\n\nAfter that you can be anything.",
+    "createdAt": "Sat Oct 10 16:18:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 104466,
+      "friendsCount": 951,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUSCpSBXoAEBfsy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2108954173316178231",
+    "fullText": "We've been monitoring a decline in HuggingFace downloads across the top open LLMs we track for interconnects. It looks like there was a slight change in counting of downloads, as we saw a ~30% download rate drop for many top models, but this is continuing over time. What else do people think it may be?",
+    "createdAt": "Sat Oct 10 16:13:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 742080,
+      "friendsCount": 830,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUSAcpFbsAAevEh.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2108951977904517409",
+    "fullText": "How AI shifted from a transductive paradigm (token-by-token answer completion) to an inductive paradigm (on-the-fly reasoning chain synthesis), in one chart. This is the big story of 2025 and 2026. This is what made coding agents work. https://t.co/ThLm2AH127",
+    "createdAt": "Sat Oct 10 16:05:08 +0000 2026"
+  }
+]
