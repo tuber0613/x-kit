@@ -1,11 +1,253 @@
 [
   {
     "user": {
+      "screenName": "hq4ai",
+      "name": "汗青 HQ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1934920592987496448/Rdeuz225_normal.jpg",
+      "description": "AIGC | Arts | AI-IP creation | Virtual Idols | AI Interactive Storytelling | https://t.co/aiF6whMY1j | https://t.co/4bDfMXETFT |",
+      "followersCount": 38322,
+      "friendsCount": 593,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hq4ai/status/2109636013383643191",
+    "fullText": "https://t.co/xfiCaz56As",
+    "createdAt": "Mon Oct 12 13:23:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 295604,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2109633085658808515",
+    "fullText": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async.\n- Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shared trajectory trees with bounded, deduplicated training samples. Partial progress after timeout still gets scored.\n\nScaled to Qwen3.8-2.4T-A95B with ~700K tokens per rollout, QwenGyre lifts NL2RepoBench from 52.5% to 58.5% in 48 steps, cutting end-to-end training time by ~44% vs Async.\n\n🔗 Read the paper:\nhttps://t.co/gbKPIiqosk",
+    "createdAt": "Mon Oct 12 13:11:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 306007,
+      "friendsCount": 8528,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUbn_C4W0AEiKTX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2109628576874041580",
+    "fullText": "I'd love to share a blog post with you explaining the research agenda of the Commission of Artificial Intelligence and the Future of the American Workforce. My own focus will be on the impact of AI on Technology Industry - what AI can do today and what we can expect it to do in the near future. Other researchers on the commission and their specific focus are:\n\n- Bill Congdon will explore several scenarios of how AI could change the US labor market and affect workers\n- John Soroushian will explore how AI is currently being regulated and identify the policy levers that can effectively guide the pace and direction of AI adoption\n\n- Adam Leonard will lead research on the reforms needed to federal, state, and private data systems. \n- Kevin Corinth will identify the programs that could provide a cushion for workers as they transition between jobs and industries\n- Brent Parton will work to understand how to fund and design training and reskilling programs\n- Jason Tyszko will examine real-time changes in employers’ talent needs and how policymakers can protect jobs and workers\n- Rekha Balu will lead research on how AI’s effects may vary across regions and localities.\n\nYou can read more about all these efforts in the following post:\n\nhttps://t.co/8NAhQA7rgO",
+    "createdAt": "Mon Oct 12 12:53:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 137076,
+      "friendsCount": 554,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2109580100685746176/vid/avc1/1920x1080/-t0zYSlhTkgQE_ci.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2109615624985219203",
+    "fullText": "How do you make an AI-generated music video that gets people talking? 👀🎬\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know how he pulled it off.\n\nIn this episode of Creator Off Script, Simon breaks down his creative process, shares how he makes AI footage feel real, and reveals the Kling 4.0 features that impressed him most.",
+    "createdAt": "Mon Oct 12 12:02:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 306007,
+      "friendsCount": 8528,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUbb02ZWkAAk-br.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2109615183639519736",
+    "fullText": "Top AI alignment researchers right now. https://t.co/MFffNYoEiI",
+    "createdAt": "Mon Oct 12 12:00:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 252503,
+      "friendsCount": 7207,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUbXyFyagAAW50D.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2109610741951320546",
+    "fullText": "Nobel Prize committee trolls potential AI bubble https://t.co/vSp3nkkcIX",
+    "createdAt": "Mon Oct 12 11:42:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 55117,
+      "friendsCount": 2387,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUbWwcRWQAA3rqA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2109610180967014566",
+    "fullText": "AI model providers processed 39 quadrillion inference tokens globally in September, 7.9x the volume from the previous year. \nVolume grew 16% per month over the last three months. https://t.co/FZaSQjBAkV",
+    "createdAt": "Mon Oct 12 11:40:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37569,
+      "friendsCount": 1993,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2109579681162997760/vid/avc1/1916x954/LT-gips0forrzDDW.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2109581489725944002",
+    "fullText": "百度的这个新OCR可以，Unlimited OCR，解决长文档OCR速度衰减和显存膨胀问题，几十页文档一次性匀速解析完\n\n3B MoE（激活5亿参数），端到端文档解析，可本地部署\n\n基于DeepSeek-OCR微调，核心是R-SWA，输出6000 token时比DeepSeek-OCR快约35%\n\n传统LLM解码器的KV cache会随输出变长而不断膨胀，导致又吃显存又慢\n\nR-SWA模拟人类抄写的工作记忆，生成每个token时始终能看到全部图像视觉token，对已生成文本只回看最近128个，KV cache变为固定容量队列，使单token的注意力计算开销不再随输出长度持续增长，无论输出1万还是10万token，显存和计算成本保持恒定\n\n每页1024×1024图像压缩成256 token，32K上下文单次前向解析40+页，不漏行、不重复（Distinct-35 97%）\n\n直接输出Markdown/JSON，支持表格、数学公式、阅读顺序恢复，可以作为RAG和知识库的数据入口\n\n这个机制还可以扩展到ASR、机器翻译这种长序列生成上\n\n#OCR #UnlimitedOCR #文档解析",
+    "createdAt": "Mon Oct 12 09:46:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37569,
+      "friendsCount": 1993,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2109558473273098240/vid/avc1/1784x1328/CgAyNJa_4ZlWHSnq.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2109563371460977151",
+    "fullText": "Hugging Face把OpenAI前两天放出来的那批数学成果转成了开源强化学习环境，大家可以拿去训练模型\n\n挂进你的训练流程，让模型自己刷题进化，先挑会做的刷，刷不动的攒着慢慢练\n\n369个任务、405道形式化数学题、214个题型。每个任务给一份带`sorry`的Lean题面，AI要把它补成完整证明，独立沙箱里的Lean判分器自动编译验证，对1错0，reward直接拿去训练\n\n不过还处于早期版本，verifier目前只认原始形式化写法，等价证明也可能会被误伤，当练兵场来用\n\n#RL训练环境",
+    "createdAt": "Mon Oct 12 08:34:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 252503,
+      "friendsCount": 7207,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUaXY9Oa4AAX5Ew.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2109539964182757606",
+    "fullText": "No Generative AI. \n\nJust one gorgeous building, beautiful light, and an Phone 16 Pro. https://t.co/Z6mdCAXp6w",
+    "createdAt": "Mon Oct 12 07:01:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1350707,
+      "friendsCount": 2066,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2109533096324571153",
+    "fullText": "I took a 14 month break from real, unadulterated Nikita-posting.\n\nBut I’m back -- and it feels so good to be doing what I love again.",
+    "createdAt": "Mon Oct 12 06:34:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241515637,
+      "friendsCount": 1420,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2109519998691553639",
+    "fullText": "Wow\nhttps://t.co/5Enf9X1eLs",
+    "createdAt": "Mon Oct 12 05:42:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 162466,
+      "friendsCount": 3399,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2109518779139166665",
+    "fullText": "How much time we now spend peering into a machine’s thought process\n\n\"It is impossible to say just what I mean!  /\n\nBut as if a magic lantern threw the nerves in patterns on a screen\"",
+    "createdAt": "Mon Oct 12 05:37:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494455,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2109518003381616874",
+    "fullText": "What the heck is a NOUL?\n\nLearn here:\nhttps://t.co/kkUPLzqUVR",
+    "createdAt": "Mon Oct 12 05:34:19 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 179919,
+      "followersCount": 179996,
       "friendsCount": 1309,
       "location": ""
     },
@@ -23,7 +265,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 494377,
+      "followersCount": 494455,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -41,7 +283,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 494377,
+      "followersCount": 494455,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -59,7 +301,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 494377,
+      "followersCount": 494455,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -77,7 +319,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 494377,
+      "followersCount": 494455,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -95,7 +337,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 252489,
+      "followersCount": 252503,
       "friendsCount": 7207,
       "location": ""
     },
@@ -113,7 +355,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 494377,
+      "followersCount": 494455,
       "friendsCount": 3370,
       "location": "Maryland, USA"
     },
@@ -133,7 +375,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
-      "followersCount": 1349671,
+      "followersCount": 1350707,
       "friendsCount": 2066,
       "location": "LA"
     },
@@ -506,6 +748,22 @@
     "tweetUrl": "https://x.com/KirkDBorne/status/2109467364337037591",
     "fullText": "General Relativity step by step — A first course : https://t.co/Zddtwm1dwF\n\nAmazon summary:\n“Learn the mathematics of curved space-time. Understand Einstein's field equations and the principles of General Relativity in this step by step guide. Even if the reader's calculus is rusty and they need a refresher on linear algebra, this book provides the bite-sized lessons that explain each concept with no steps left out. This is not a layman's overview of General Relativity. Real understanding and learning are contained within. Neither is this an unapproachable graduate level text. Undergraduates, high school students and, even, enthusiastic amateurs can learn to solve basic problems in General Relativity — for example, how much does light bend going around the Sun?”",
     "createdAt": "Mon Oct 12 02:13:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dhh",
+      "name": "DHH",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2093715898204884992/goERjC9G_normal.jpg",
+      "description": "Father of three, Creator of Ruby on Rails + Omarchy, Co-owner & CTO of 37signals, Shopify director, NYT best-selling author, and Le Mans 24h class-winner.",
+      "followersCount": 922163,
+      "friendsCount": 474,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dhh/status/2109462583464149326",
+    "fullText": "The best part of Japan is the Japanese.",
+    "createdAt": "Mon Oct 12 01:54:06 +0000 2026"
   },
   {
     "user": {
