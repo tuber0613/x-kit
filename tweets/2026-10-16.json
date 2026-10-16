@@ -1,6 +1,410 @@
 [
   {
     "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO Gauntlet AI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 487124,
+      "friendsCount": 1663,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2111222679823175854",
+    "fullText": "People used to pay 6 figures to help manage calendar, email and meetings in a way that AI just does automatically now",
+    "createdAt": "Fri Oct 16 22:28:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 350677,
+      "friendsCount": 899,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111215185931444224/vid/avc1/1920x1080/JCEVCL608-EFaOlJ.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2111216377935831403",
+    "fullText": "Big shoutout to all of our partners for making Nemotron 3.5 Super VL their own through post-training 🙌\n\nHere’s what they’ve built 🧵 https://t.co/pL3cEDEEpw",
+    "createdAt": "Fri Oct 16 22:03:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 458256,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111157046720573440/vid/avc1/1920x1080/29RqOtlkjvtLz4xx.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2111211411766399288",
+    "fullText": "Put your dot on call.\n\nAli, an engineer at OpenAI, used his dot to triage an on-call incident at 3am.\n\nHis dot investigated the issue and started a Codex thread, so he could steer the work from his phone in the ChatGPT app. https://t.co/xLhtGUSzsx",
+    "createdAt": "Fri Oct 16 21:43:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 421053,
+      "friendsCount": 917,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2111208214893048045",
+    "fullText": "How does an AI agent prove who it is? Who owns it? Who's liable when it does something? Where does its credit history live? Every one of those questions is an unbuilt trillion-dollar infrastructure layer. Welcome back to 1994's internet.",
+    "createdAt": "Fri Oct 16 21:30:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/tTzeqS2PkF. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14522,
+      "friendsCount": 15104,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2111207451928486001",
+    "fullText": "I want to propose a simple architecture that can eliminate a lot of mess and confusion. \n\nThis can help make bot/code/work modes work cohesively and transparently. It can allow to move between local and cloud very easily.\n\nThe idea is very simple: \n\nJust enable shared file system between cloud and local.\n\nThis can be done by dropbox like file sync service that gets automatically mounted in cloud VM and by desktop app.\n\nThis can be combined with version control provider that is both available in cloud VM and locally.\n\nYou can use shared system to store encrypted secrets that agents are allowed access to. You can use it to store artifacts, memory and anything else agent will needs.\n\nThe version control system is for developer crowd so they can turn off their laptop and things can transparently move to cloud VM. This is already done by Claude (they have done great job unifying Work/Code/Bot modes).\n\nHowever, shared file system is missing which can enable more cool features for OpenAI as well as Muse.",
+    "createdAt": "Fri Oct 16 21:27:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494938,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUyBKxSXIAAx1cB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111204351406682187",
+    "fullText": "Build AI Agents for Network Operations — Design LLM-powered NetOps workflows with Python, Ollama, MCP, and tool calling: https://t.co/5Yw3PUj5D2\n\nNew release from @PacktPublishing @PacktDataML https://t.co/Ci2xskKHy7",
+    "createdAt": "Fri Oct 16 21:15:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494938,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUyBHbGWgAE51Wo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111204294234144773",
+    "fullText": "Systems Thinking for Agentic AI — Design reliable LLM and agentic AI systems with RAG, MCP, guardrails, evaluation, and observability: https://t.co/IKxOiCNLX9 https://t.co/av18tzyncs",
+    "createdAt": "Fri Oct 16 21:15:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494938,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUyBDBXXMAAlj7n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111204217457172537",
+    "fullText": "AI Engineering — Build the Next Generation of Intelligent Systems – Develop Prompt Workflows, AI Agents, and LLM Architectures for Production:\n\nhttps://t.co/E1pUeA89dW https://t.co/jOe3Vwh92d",
+    "createdAt": "Fri Oct 16 21:14:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494938,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUyA_ZDW8AEcpqE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111204155968590254",
+    "fullText": "Practical LLM Evaluation for Production Systems — Measure, monitor, and improve AI system reliability across training and inference\n\nhttps://t.co/odD4h7GAEV from @PacktPublishing @PacktDataML https://t.co/AYQ3cy75gk",
+    "createdAt": "Fri Oct 16 21:14:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494938,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUyA0vgXwAEFy7T.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111203972715331687",
+    "fullText": "Azure OpenAI Essentials — A practical guide to unlocking Generative AI-powered innovation with Azure OpenAI: https://t.co/z3CyZcrdjI \n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🔵Explore the capabilities of Azure OpenAI’s LLMs\n🔵Craft end-to-end applications by utilizing the synergy of Azure OpenAI and Cognitive Services\n🔵Design enterprise-grade GenAI solutions with effective prompt engineering, fine-tuning, and AI safety measures",
+    "createdAt": "Fri Oct 16 21:13:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494938,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUyAv98XAAAl_JK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111203890313969958",
+    "fullText": "Build Your Own AI Assistant — Step-by-step guide to customizing GPT with OpenAI for everyday users: https://t.co/iTii1kKgdu https://t.co/rV1LO7C0jn",
+    "createdAt": "Fri Oct 16 21:13:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 253346,
+      "friendsCount": 7209,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUyAX5-akAAKhI1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2111203476814647368",
+    "fullText": "You can either (a) read the lies about me or (b) see why so many other people have made Marcus on AI the #1 rising Substack in Technology. https://t.co/e1sNNCFJy5",
+    "createdAt": "Fri Oct 16 21:11:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305943,
+      "friendsCount": 8533,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUx8lyzXsAAz6nG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2111199318782968263",
+    "fullText": "Being consistent, reliable, and delivering on your promises is good actually. https://t.co/10qvpDmPtN",
+    "createdAt": "Fri Oct 16 20:55:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra) @supabase @etched @factoryAI @sfcompute. 3 👶 under 4.",
+      "followersCount": 201852,
+      "friendsCount": 590,
+      "location": "online"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUx7ukyXYAAv6oq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2111198478336770442",
+    "fullText": "spent all day on my agent setup and paying off \n\n@bot now opens threads in @get_bb_app for our 'proper' coding work\n\nthe thread emails bot updates, and updates our shared task list and work log https://t.co/goK1D8FIBX",
+    "createdAt": "Fri Oct 16 20:51:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 253346,
+      "friendsCount": 7209,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUx7Dtja8AAw8nE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2111197632546894076",
+    "fullText": "so… the whole thing really was a 5-day long SNL skit?\n\nincredible that they got the White\nHouse to play along. https://t.co/H2TpT42tOQ",
+    "createdAt": "Fri Oct 16 20:48:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1097565,
+      "friendsCount": 64,
+      "location": "It's time to build."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUx6P-EakAADaZx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2111196742872084902",
+    "fullText": "More than 1 in 3 Americans bought something based on an AI recommendation in the past year\n\n44% say AI helps them find better value for money\n\n34% would pay more for a product if AI showed it was the best option for them\n\nCharts of the Week: https://t.co/mdb37dD2sk https://t.co/AUVnx49tGV",
+    "createdAt": "Fri Oct 16 20:45:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12151,
+      "friendsCount": 1391,
+      "location": "Raleigh, NC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111195457783279616/vid/avc1/1280x720/gZXVc9YAmjEkEoQA.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/benjedwards/status/2111195559281242403",
+    "fullText": "I’ve been working on a mod of Super Mario Bros. with Zapper support. One player plays as normal and the other can use the light gun to shoot blocks and enemies on the screen—or to make\nMario huge! https://t.co/eRAG9DEyeN",
+    "createdAt": "Fri Oct 16 20:40:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD",
+      "followersCount": 324753,
+      "friendsCount": 1262,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUx3Z1_WsAAiZoJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2111195068392677612",
+    "fullText": "Surprised that so few people are talking about this.\n\nPersistence has become a core capability of recent models (Opus 5.5, GPT 6 Astra, Gemini 4 Argon,...). \n\nI was just reading through the Gemini 4 Argon Minecraft paper details and noticed that no roles were assigned to the agents.\n\nSomehow the four agents completed the goal after 27 hours, 2,783 programs, and 605 deaths. They recovered items, revised strategies, and shared lessons. I think this is a good example of persistence helping them eventually succeed.\n\nSome more thoughts for discussion:\n\nSo this is not just about hooking an agent up to an external memory system.\n\nIt's also not about loop-prompting it with /goal, although that is one of the most effective techniques right now.\n\nThis is about the model's native ability to choose what to persist, and how and when to use it.\n\nIt unlocks long-horizon capabilities, as agents often execute more complex tasks more effectively through persistence.\n\nSo it's less that the models got more intelligent and more that they got better at coordinating and planning for more complex tasks. \n\nWe are in the early days of this. But this is an important capability to optimize to really unlock AI for scientific discovery. \n\nThis is also important for building more personalized agents with identities and roles that can track and follow human preferences well and learn continually over time. \n\nWe also don't entirely know how to quantify and measure it as a field. Reward hacking combined with persistence can also enable weird, unsafe agent behaviors. \n\nJust a few quick thoughts, and I hope we can start deeper conversations about this. \n\nI am tracking this space closely and will be sharing research on the topic as it surfaces.",
+    "createdAt": "Fri Oct 16 20:38:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 353814,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUx4ARlXcAAdYnB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2111194274754613679",
+    "fullText": "🧭In this week's letter from Andrew Ng: AI improves fastest on tasks you can verify. Judgment tasks are harder, and it's easy to overgeneralize progress in math and code to the rest of human activity.\n\nAlso inside:\n\n 🤖Claude Haiku 5.5 and Sonnet 5.5\n 🇪🇺Mistral Large 4\n 💻Computers for local AI\n 📊CausalMix\n\n📬https://t.co/U66qowtGsM\n\n#DeepLearningAI #AIEngineering #MachineLearning",
+    "createdAt": "Fri Oct 16 20:35:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5442177,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2111192259073094035",
+    "fullText": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work.\n\nNow available to Pro users in the Chat tab.",
+    "createdAt": "Fri Oct 16 20:27:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra) @supabase @etched @factoryAI @sfcompute. 3 👶 under 4.",
+      "followersCount": 201852,
+      "friendsCount": 590,
+      "location": "online"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUx0iuSWcAIfwLx.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2111190538464420086",
+    "fullText": "this mfer @bot not checking its email 😂 😂 https://t.co/WnpVBHd3ay",
+    "createdAt": "Fri Oct 16 20:20:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 234443,
+      "friendsCount": 224,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2111184655726891462",
+    "fullText": "This Week in the Arena:\n\n- Gemini 4 Argon (High) by @GoogleDeepMind landed the #5 spot in Agent Arena, with +13.2% net improvement.\n\n- MiMo V2.6 Pro by @XiaomiMiMo now ranks #1 among open models in Agent Arena (#13 overall), with +3.9% net improvement.\n\n- Muse Wonder (Max) by @AIatMeta debuted at #2 in Text Arena (1513 pts), #15 in Code Arena: WebDev (1651 pts), and #12 in Agent Arena with +6.4% net improvement.\n\n- Muse Spark Open is live in the Agent Arena, with scores coming soon. Stay tuned!\n\n- We introduced our new agentic version of Max: Arena’s model router that achieves frontier-level performance at 37% lower cost. More info in thread.\n\nSee leaderboard results and Arena product updates from this last week in 60 seconds.\n\nhttps://t.co/jVI9FNVQ83",
+    "createdAt": "Fri Oct 16 19:57:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 293930,
+      "friendsCount": 361,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111184112505516032/vid/avc1/1920x1080/gF75NnzaEbu_uiOh.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2111184618116292704",
+    "fullText": "Automatic sound design, synced to every frame.\n\nMirelo SFX 2.0 is now on Runway, generating full soundscapes from your video while keeping dialogue intact. Get started at the link below. https://t.co/yPfU4douQ2",
+    "createdAt": "Fri Oct 16 19:56:51 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "databricks",
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
