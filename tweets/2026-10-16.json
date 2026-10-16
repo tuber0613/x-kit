@@ -1,6 +1,484 @@
 [
   {
     "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "followersCount": 6383784,
+      "friendsCount": 1034,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2111131677351432197",
+    "fullText": "Wow the new roadster looks quite amazing, good job @elonmusk",
+    "createdAt": "Fri Oct 16 16:26:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241499911,
+      "friendsCount": 1420,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2111131160348688395",
+    "fullText": "Going forward, all advertising on 𝕏 will be subject to a reasonable esthetic standard. \n\nAdvertisers who post ads that are ugly, shrill, strident or overstate claims about their product will be barred from advertising.",
+    "createdAt": "Fri Oct 16 16:24:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 234381,
+      "friendsCount": 224,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111130130815041537/vid/avc1/1200x912/OgoPiXydjkFws4oq.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/arena/status/2111130778059133267",
+    "fullText": "The biggest gap between AI labs isn't whether their agents get the job done. It's whether users actually enjoy working with them.\n\nWe tracked the best agent from @AnthropicAI, @OpenAI, @GoogleDeepMind, @Kimi_Moonshot, @SpaceXSI and @deepseek_ai across 4 key Agent Arena signals used between late June and the start of October to see how the industry is shifting.\n\nThree things stood out:\n1. Users like some agents far more than others.\n\nOn Praise vs Complaint, OpenAI and Anthropic sit at +35 points over the leaderboard average. Moonshot, xAI and DeepSeek land between +5 and +13. No other signal splits the labs this widely.\n\n2. Agents are getting much better at delivery.\n\nOn Confirmed Success, the average lab's best model went from -4 to +14 points in three months. Anthropic leads with Claude Opus 5.5 (Max) at +20.\n\n3. Labs are converging on error recovery and steering.\n\nSince June, the spread between the six labs has more than halved on Bash Recovery (34 → 16 points) and nearly halved on Steerability (19 → 11).\n\nIn short, the labs are catching up on avoiding failures.\n\nLeaving the user happy is where the top three are pulling away.",
+    "createdAt": "Fri Oct 16 16:22:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DrJimFan",
+      "name": "Jim Fan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+      "description": "NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
+      "followersCount": 599387,
+      "friendsCount": 3145,
+      "location": "Views my own. Contact →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111114013958672385/vid/avc1/1920x1080/-r2NyziS18FrS42z.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/DrJimFan/status/2111128797181567466",
+    "fullText": "We are open-sourcing V1.0 of our agentic robotics framework, ASPIRE, with full real robot skill discovery and self improvement capabilities! On the day Astra arrived, our lab switched the backend model and saturated all the benchmarks to ~99% over night.\n\nAnd the frontier is already on the move:\n- Opus 5.5 slightly edges out Astra on our robot simulation bench.\n- Sonnet 5.5 hits the Pareto frontier of cost vs. robot capability, $12/task. \n\nWe first introduced ASPIRE and /robot skill library in June, way before the big models could reliably do robotics. A rising frontier tide lifts all boats, but Astra was a 0->1 tsunami on many tasks.\n\nNow you can also feel the Physical Bitter Lesson at home like we did on that fateful day ;)\n\nlinks in thread",
+    "createdAt": "Fri Oct 16 16:15:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 351604,
+      "friendsCount": 20404,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUw5UlfXQAAOEV1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2111125353594761472",
+    "fullText": "AI is quickly improving at tough theory questions in math, physics, &amp; economics.\n\nIn a new MIT study, frontier OpenAI models’ success rate rose from 3% to 35% in 16 months, while a successful attempt cost about $15. The new bottleneck may be verification: https://t.co/xbxnHBKzxs https://t.co/rI6cn02umA",
+    "createdAt": "Fri Oct 16 16:01:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1097590,
+      "friendsCount": 64,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111121761396002816/vid/avc1/1920x1080/TS1z9wiDVv_D965z.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2111121864257110051",
+    "fullText": "In 2022, Berkeley PhD student Woosuk Kwon thought he could make Meta's new open-weight model, OPT-175B, run faster in two weeks.\n\nFour years and 3,000 contributors later, that project is @vllm_project, one of the largest open-source inference engines, running on ~500,000 GPUs at any given time.\n\nHe and fellow researchers Simon Mo, Kaichao You, and Roger Wang borrowed \"virtual memory\" from operating systems, handing out memory only as it's needed so each GPU can juggle requests of wildly different sizes. (The \"v\" in vLLM is for virtual.)\n\nTheir first user, Berkeley neighbor @arena, cut its GPU needs in half. Today Google, Amazon, and Meta all run vLLM in production.\n\nIn January, the core maintainers founded @inferact and raised $150M to give vLLM a full-time team.\n\nThey're hiring across eng, marketing, and devrel in SF and Singapore: https://t.co/DpODvfJWtC\n\n@simon_mo_ @woosuk_k @KaichaoYou @rogerw0108",
+    "createdAt": "Fri Oct 16 15:47:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305959,
+      "friendsCount": 8534,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2111119406893781459",
+    "fullText": "I don’t know who needs to hear this but\n\njumping ≠ flying",
+    "createdAt": "Fri Oct 16 15:37:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+      "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followersCount": 1173454,
+      "friendsCount": 178,
+      "location": "Palo Alto, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUwxG6VbYAAsnHa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mustafasuleyman/status/2111116656215032068",
+    "fullText": "MAI is the most accurate &amp; most popular transcription model on OpenRouter across all languages and use cases. \n\nTry it out for your agents now! 👇 https://t.co/rHOlsQWzro",
+    "createdAt": "Fri Oct 16 15:26:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO Gauntlet AI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 487062,
+      "friendsCount": 1663,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2111115413090099592",
+    "fullText": "AI backlash is coming.\n\nSo many people we see think they are AI gods aren't using it well at all, just wasting huge amounts of money without producing much value.\n\nThe ROI won't be there for many companies.\n\nThey'll clamp down on token spend. \n\nEveryone will get mad.",
+    "createdAt": "Fri Oct 16 15:21:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 78787,
+      "friendsCount": 1692,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111114415311634432/vid/avc1/3840x2160/sYO46R1KC8Hfsgp6.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/bengoertzel/status/2111115122660045284",
+    "fullText": "Last month I participated in a formal debate with  PauseAI leader Holly Elmore at Yale Political Union, on the topic \"Should we Unplug AI?\"\n\nMy core point was: Pausing AI is simply not feasible given actual economics and geopolitics, so the most likely result from pushing for an AI pause would be a \"pause with exceptions\" aka an intensification of oligopoly and regulatory capture...   \n\nWhether \"in theory, in an ideal world we could morph at will, pausing Ai would be the best idea\" is to me a minimally relevant question sort of like \"should we roll back to the Stone Age because civilization just causes too much neurosis.\"   (I don't want to pause AI nor roll back to the Stone Age, but neither seems likely enough to happen to really be worth seriously debating.. though hey, I did show up at the debate anyway, mostly out of interest to engage w/ the students...)\n\nMy full speech at Yale Political Union\n\nhttps://t.co/Nwse5K76Js\n\nThe full speech of the PauseAI opposition\n\nhttps://t.co/znACSDRZI7\n\nUnfortunately, the follow-on debate among the Yale students -- which for me was the fun part -- not been put online, maybe someone will eventually..",
+    "createdAt": "Fri Oct 16 15:20:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 105520,
+      "friendsCount": 952,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2111114681066901719",
+    "fullText": "A safe assumption when people are all commenting on a short Chinese policy document is that they don't know what it means and tried to parse a partial translation from claude, without reading all the way through.\nThere are maybe 5-10 people on this site who i trust to comment.",
+    "createdAt": "Fri Oct 16 15:18:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 508409,
+      "friendsCount": 68,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUwsDzfaAAEhrGS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2111110772747321460",
+    "fullText": "Gemini 4 Argon sets a new record on WANDR.\n\nIt is now available in Perplexity for Pro and Max subscribers. https://t.co/n1TyI9RhBX",
+    "createdAt": "Fri Oct 16 15:03:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 72866,
+      "friendsCount": 36900,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUS8vydW8AA_QCu.png",
+      "https://pbs.twimg.com/media/HUS8vytWIAIjtx4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2111109919847936506",
+    "fullText": "frontier attacks require frontier defense.\n\nduring @openai cyber evaluations with reduced safeguards, agents reached the internet and compromised @huggingface’s infrastructure.\n\nhugging face then found commercial api guardrails hindered its investigation, so it used a self-hosted open model.\n\nthe capabilities that enable misuse can also be vital to investigating an intrusion. how do we make them reliably available to defenders?",
+    "createdAt": "Fri Oct 16 15:00:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 137676,
+      "friendsCount": 554,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUvorJ7bsAAWFaU.jpg",
+      "https://pbs.twimg.com/media/HUvorJ5aUAACEO2.jpg",
+      "https://pbs.twimg.com/media/HUvorJ6bYAApVhT.jpg",
+      "https://pbs.twimg.com/media/HUvorJ_bAAAByui.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kling_ai/status/2111109915083264065",
+    "fullText": "At Advertising Week New York 2026, Kling AI joined WPP and Adobe to explore how AI video is moving from creative experimentation into real-world production.\n\nThe next phase of AI video is not just about better generation. It is about connecting models, tools and workflows so creative ideas can scale with greater consistency and control.\n\nKling 4.0 is now fully available on https://t.co/Cp8MI8Gu29, bringing more refined motion, more precise creative control, and professional-grade audiovisual output, opening up new possibilities for brand and advertising production. \n\nSwipe for highlights. ✨",
+    "createdAt": "Fri Oct 16 15:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1097590,
+      "friendsCount": 64,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111099494561611776/vid/avc1/1280x720/JVrnzJIbF1A-_eKE.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2111108183607607364",
+    "fullText": "Engineering leaders told Grepr founder and CEO Jad Naous they spend 5 to 20% of their infrastructure budget on observability, and it's buying less and less reliability.\n\nJad, a former a16z partner, joins a16z's Martin Casado to discuss whether AI can run production systems as well as it writes code.\n\nGrepr sits in a company's log stream, can scan a petabyte of logs a day, cuts observability costs by about 90%, and is building AI agents that use those signals to troubleshoot production issues.\n\nHow AI is changing engineering at Jad's 10-person company:\n- A data lake feature that once took one engineer about six months took Jad 10 days\n- The gap between okay and great engineers on his team \"just multiplied 10X\"\n- He runs 3-4 agent sessions at once, with a \"tech lead\" agent reviewing every PR\n\nWhy running live systems is a harder problem for AI:\n- Jad: AI can almost tune databases, but can't yet keep servers running on its own\n- Martin: every bit of code doubles the ways a program can behave, which is why humans still own systems\n- The real world is messier than AI's training data, self-driving took 20 years and $170B\n\n0:55 From Stanford to a16z to Grepr\n7:00 Why observability spend stopped paying off\n11:00 From autocomplete to AI that trains engineers\n13:10 Why AI widens the engineer skill gap\n14:55 Syntax vs semantics\n18:00 Inside Jad's AI workflow\n22:55 Six months of work in 10 days\n24:50 Can AI reason about how systems really run?\n30:10 Why AI SRE tools start in the wrong place\n32:30 Can AI run a distributed cluster yet?\n37:35 Why engineers buy extra capacity over predicting\n39:15 How AI could trace failures in production\n43:45 Why AI for ops is harder than for code\n49:55 Can AI do a VC's job?\n52:05 Why self-driving took 20 years and $170B\n57:05 Customers skipped the AI pitch for the 90% savings\n\nYouTube: https://t.co/Htzl2P6TGp\n\n@jadtnaous @grepr_ai @martin_casado",
+    "createdAt": "Fri Oct 16 14:53:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1353198,
+      "friendsCount": 2066,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2111107134083772815",
+    "fullText": "Sometimes a demo is simply to remind the world that your competition has no desire to dream -- and no ability to evolve.",
+    "createdAt": "Fri Oct 16 14:48:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 253329,
+      "friendsCount": 7209,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2111106906676752809",
+    "fullText": "it is very weird the way the far left has painted me as a doomer when i have in fact on the whole been very critical of doomers.\n\ni guess facts don’t matter to them?",
+    "createdAt": "Fri Oct 16 14:48:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 56227,
+      "friendsCount": 2388,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUwmwtgW8AAsA3Z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2111104952085164130",
+    "fullText": "Quite the chart. https://t.co/FvLXHwStKt",
+    "createdAt": "Fri Oct 16 14:40:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 56227,
+      "friendsCount": 2388,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2111101917925626224",
+    "fullText": "The data centre IPO debacle that sparked a market meltdown https://t.co/5pPvO54c5E via @ft",
+    "createdAt": "Fri Oct 16 14:28:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12150,
+      "friendsCount": 1386,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUwjzk8XwAANSX1.png",
+      "https://pbs.twimg.com/media/HUweTFGWgAAdpxr.png",
+      "https://pbs.twimg.com/media/HUwezhmXYAAjsRX.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2111101710303150411",
+    "fullText": "I am flipping out here. Opus 5.5 basically one-shotted an insanely good NES port of my web game Violent Checkers with music and animations\n\nI pointed it at my HTML and said \"make a AAA NES port.\"\n\nYou can play it in an emulator online here:\nhttps://t.co/BLMwuZtzr7 https://t.co/ZBXBVaO8du",
+    "createdAt": "Fri Oct 16 14:27:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 98505,
+      "friendsCount": 1117,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUwf2iQWAAA04wy.jpg",
+      "https://pbs.twimg.com/media/HUwf21NWAAAcRa4.jpg",
+      "https://pbs.twimg.com/media/HUwf3CIXIAEeR8L.png",
+      "https://pbs.twimg.com/media/HUwf3ezW0AAUcp1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2111097370154807435",
+    "fullText": "The fifth edition of the Big Book of Data Engineering is here.\n\nThis one covers how to bring ingestion, transformation, and orchestration onto a single governed platform, build millisecond-latency streaming pipelines at scale, and use built-in AI agents to accelerate pipeline authoring and resolve data failures.\n\nIncludes real-world examples from NAB, Panasonic, Toyota, AccuWeather, Daikin, and Coinbase.\n\n📙 Download now: https://t.co/VazZGxAjGR",
+    "createdAt": "Fri Oct 16 14:10:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "geoffreyhinton",
+      "name": "Geoffrey Hinton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_normal.jpg",
+      "description": "deep learning",
+      "followersCount": 675243,
+      "friendsCount": 28,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUweWQ6W8AABDgc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geoffreyhinton/status/2111096101520412774",
+    "fullText": "Penguin has moved up the publication date of my new book with Patchen Barss called \"Smarter Than Us\". The book explains how AI works for a non-technical reader and then talks about the myriad risks and what to do about them. https://t.co/BLOFgSHuNc",
+    "createdAt": "Fri Oct 16 14:05:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 134719,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUweskNakAAQDD4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2111096080322695440",
+    "fullText": "// FDE-Gym: Agents as Forward-Deployed Engineers //\n\nThey found that the best agent configuration fully resolved 14 of 95 real customer-delivery tasks.\n\nFDE-Gym tests agents as forward-deployed engineers. Each task comes from a real delivery project. Agents must question scripted stakeholders, work in production-like systems, and find constraints the customer never stated.\n\nA delivery is scored by how much it improves the customer's own success metric, with penalties for extra messages, trial runs, and waiting time.\n\nAcross 13 configurations from seven providers, the top mean score is 0.56. The main failure is missing unstated constraints. Even on 23 tasks where the best configuration collected every key fact, it reached 0.8 or higher on only 10.\n\nHighly recommended benchmark to look at.\n\nhttps://t.co/EwGp9jsGae\n\nChat with Paper: https://t.co/c8w3kBWyW6",
+    "createdAt": "Fri Oct 16 14:05:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "huggingface",
+      "name": "Hugging Face",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
+      "description": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
+      "followersCount": 819508,
+      "friendsCount": 227,
+      "location": "NYC and Paris and 🌏"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/huggingface/status/2111094948133216735",
+    "fullText": "LIVE STREAM: New Open Weight Model https://t.co/iBGsMXYfvr",
+    "createdAt": "Fri Oct 16 14:00:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD",
+      "followersCount": 324725,
+      "friendsCount": 1256,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUwb8rlaUAANJFr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2111093058024755365",
+    "fullText": "Banger paper from Google DeepMind on long-horizon multi-agent coding.\n\n(bookmark it)\n\nThey report that, to the best of their knowledge, this is the first end-to-end autonomous completion of Minecraft by AI agents.\n\nThey report that four Gemini 4 Argon agents beat Minecraft end-to-end. They defeated the Ender Dragon in 27 hours and 14 minutes with no human intervention.\n\nEach agent controlled one player through the standard Mineflayer library. No one assigned roles, wrote game logic, or scouted a seed in advance. The agents planned, wrote, and debugged every program themselves, and coordinated through in-game chat and a shared memory.\n\nOver the run, they wrote 2,783 programs and died 605 times. They split the work, shared what they learned, and recovered each other's items after deaths.\n\nIf you build agents for long software or enterprise tasks, this is a useful case study. The team had to keep one plan consistent across thousands of dependent steps for more than a day.\n\nhttps://t.co/h1Z87NYKqp\n\nChat with Paper: https://t.co/beTXikB3S8",
+    "createdAt": "Fri Oct 16 13:53:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 270076,
+      "friendsCount": 203,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUwXO_RWAAEBbK6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2111087943838298213",
+    "fullText": "What does it take to move healthcare and life sciences agents from experimentation into trusted production systems?\n\nExplore the architectures, evaluation practices, and production patterns teams are using as agents take on more complex work: \n\n➡️ https://t.co/RkfVB7H3zd https://t.co/mQnhuYdZ68",
+    "createdAt": "Fri Oct 16 13:32:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12150,
+      "friendsCount": 1386,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUwUSIGWQAAlkhr.png",
+      "https://pbs.twimg.com/media/HUwUCAqWUAAKi_E.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2111085465516593643",
+    "fullText": "It took a few days of fiddling with Claude Code, but I got a fnative port of Tetris DX from the Game Boy Color running on the NES using MMC5. Plays and sounds just like the original https://t.co/TW9HrG1mnM",
+    "createdAt": "Fri Oct 16 13:22:51 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "MistralAI",
       "name": "Mistral AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996905418065375232/mzwynOLB_normal.jpg",
@@ -644,7 +1122,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
       "description": "https://t.co/ZdBx5WABYx",
-      "followersCount": 241490720,
+      "followersCount": 241499911,
       "friendsCount": 1420,
       "location": ""
     },
