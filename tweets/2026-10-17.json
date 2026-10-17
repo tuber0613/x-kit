@@ -1,11 +1,151 @@
 [
   {
     "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 105620,
+      "friendsCount": 952,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU1qjLcXYAAKCgj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2111461099140772137",
+    "fullText": "Reflecting on Meta’s big week, where US open-weight models now stand, and the outlook for meaningful competition to Anthropic &amp; OpenAI.\n\nMeta feels like they’re going from strength to strength, but can they close the last bit of the gap to Claude? https://t.co/H86QwoXI7h",
+    "createdAt": "Sat Oct 17 14:15:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5443148,
+      "friendsCount": 806,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU1mTejXcAAjHrY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2111456506021622168",
+    "fullText": "One pitfall when buying old watches is \"redials,\" or repainted dials. No reputable dealer will sell you one without telling you (maybe with euphemisms like \"restored\" or \"refurbished\") but in auctions it's mostly buyer beware. Compare a redial (left) and original (right). https://t.co/i7OSvrw2Ug",
+    "createdAt": "Sat Oct 17 13:57:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 134762,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU1iywNagAAogTH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2111452428294144180",
+    "fullText": "Great paper from NVIDIA sharing an open midtraining recipe for agentic coding.\n\nNVIDIA kept SFT identical and added one midtraining stage. SWE-bench Multilingual went from 55.8 to 62.8 on Nemotron 3.5 Lightning.\n\nThe stage sits between pretraining and post-training. It trains at 256K context on 500B tokens of natural software-engineering data, such as packed repositories, pull requests, commit histories and build logs, plus a small share of agent traces.\n\nOn the same model, SWE-bench Verified rose from 60.7 to 64.5 and SWE-bench Pro from 32.0 to 35.5. On the larger Nemotron 3.5 Super, DeepSWE rose from 11.7 to 15.7.\n\nThey also explain how they evaluated the recipe. Base-model proxy metrics did not predict post-training results, so every data choice was scored with short fixed SFT runs.\n\nIf you train coding agents, the recipe and its ablations are published.\n\nhttps://t.co/SJ7JHdd1HY\n\nChat with Paper: https://t.co/eCK8iUNIi0",
+    "createdAt": "Sat Oct 17 13:41:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rasbt",
+      "name": "Sebastian Raschka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
+      "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
+      "followersCount": 527307,
+      "friendsCount": 1225,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2107292328725491712/vid/avc1/3840x2160/tw7mOGTE90Rb6eC4.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/rasbt/status/2111448141119856866",
+    "fullText": "Reasoning From Scratch round 8, the finale!\nThis last lecture in the series covers distillation as an efficient alternative to the previous reinforcement learning training runs.\n\n(Planning to take a brief break, but I will be back!)\n\n00:00 Introduction and series recap\n01:07 Why distill a reasoning model?\n02:51 Soft vs. hard distillation\n11:06 On-policy vs. off-policy distillation\n18:09 Preparing data for reasoning distillation\n22:35 Loading the DeepSeek R1 MATH dataset\n28:04 Inspecting reasoning traces and final answers\n31:27 Tokenization and chat templates\n35:58 Pre-tokenizing the training dataset\n39:01 Sequence lengths and the 2,048-token limit\n42:38 Creating training and validation splits\n45:32 Loading the Qwen3-0.6B base model\n46:24 Computing answer-token log probabilities\n54:10 Cross-entropy loss for distillation\n57:25 Training and validation loss helpers\n1:02:03 Implementing the distillation training loop\n1:07:26 Running the standalone training script\n1:09:41 Plotting training and validation losses\n1:11:31 Evaluating checkpoints on MATH-500\n1:14:09 Comparing teachers and distillation results\n1:16:34 Future directions for reasoning models\n1:19:41 Bonus exercises and next steps",
+    "createdAt": "Sat Oct 17 13:24:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12166,
+      "friendsCount": 1394,
+      "location": "Raleigh, NC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2111443769681936560",
+    "fullText": "I am going to try to figure out a unified, standardized way to release all my game mods as patches on Github—and somehow keep track of all of them so they can be updated as I fix bugs",
+    "createdAt": "Sat Oct 17 13:06:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37790,
+      "friendsCount": 2013,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111384215132729344/vid/avc1/1920x1080/TYfvRO12MESB2X5J.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2111435662033666099",
+    "fullText": "腾讯昨天开源的Hy-Memory 2.0，让不同AI Agent共享记忆，不用每换一个AI工具就从头开始了\n\n比如你在Cursor里讨论过的项目，之后切换到Codex、WorkBuddy、Hermes等，不必每次再从头解读一遍，如果相关记忆已被保存并成功召回，新Agent就能在已有上下文上继续工作\n\n这是Hy-Memory 2.0配套应用“MemHub”的能力，把分散在不同AI工具里的历史对话和工作经验汇入统一的记忆体系，让不同Agent复用相关上下文\n\n另外，Memory 2.0还针对不同场景设计了三类记忆机制，让AI能记住对话，记住任务进展、经验的适用条件，以及代码为什么这么改\n\nChat Memory：记住人和对话\n提取跨会话事实、组织长期记忆，并处理重复信息和事实冲突，减少每次对话都要重新了解用户的问题\n\nWorking Memory：记住任务与经验\n将任务事实和可复用经验分开管理，事实层记录做了什么、结果如何；经验层提炼哪些方法有效、适用于什么条件。重点是让Agent有机会把过去的解决方案复用到下一次任务中\n\nCoding Memory：记住代码如何演进\n将代码Diff、修改上下文和版本演进链纳入记忆体系，让编程Agent不只看到当前代码，还能追溯历史修改及其背景，为持续开发提供上下文\n\n配套还提供了专门针对长期记忆写入训练的模型：Hy-Memory-30B-A3B，专门学习如何筛选、组织和更新值得长期保存的信息\n\n这套方案等于说把Agent记忆从简单的事实提取和检索，扩展到了任务经验沉淀、代码演进追踪以及跨工具的上下文复用上\n\n#HyMemory  #AIMemory #AI记忆",
+    "createdAt": "Sat Oct 17 12:34:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 137835,
+      "friendsCount": 554,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111430106925211648/vid/avc1/1920x1080/P4tKkXvQE8uMvo2O.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2111430491358339480",
+    "fullText": "AI video is evolving. Where does the industry go from here? 👀\n\nAt Advertising Week New York 2026, Kling joined WPP and Adobe to discuss how AI is reshaping creative workflows and unlocking new possibilities for advertising and brand production.\n\nWatch the highlights. https://t.co/TMoQEdg39h",
+    "createdAt": "Sat Oct 17 12:13:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149212,
+      "friendsCount": 5535,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2111421536485937357",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Sat Oct 17 11:38:17 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "tunguz",
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 305948,
+      "followersCount": 305953,
       "friendsCount": 8534,
       "location": "United States"
     },
@@ -21,7 +161,7 @@
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 180940,
+      "followersCount": 180954,
       "friendsCount": 1310,
       "location": ""
     },
@@ -42,7 +182,7 @@
       "name": "DeepSeek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1717417613775757312/Uk1zNOj4_normal.jpg",
       "description": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
-      "followersCount": 1146079,
+      "followersCount": 1150062,
       "friendsCount": 1,
       "location": ""
     },
@@ -61,7 +201,7 @@
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
-      "followersCount": 152723,
+      "followersCount": 152780,
       "friendsCount": 4619,
       "location": "San Francisco, CA"
     },
@@ -77,7 +217,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 494952,
+      "followersCount": 494963,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -95,7 +235,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 506125,
+      "followersCount": 506137,
       "friendsCount": 13879,
       "location": "San Francisco, CA"
     },
@@ -111,7 +251,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 494952,
+      "followersCount": 494963,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -319,7 +459,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
-      "followersCount": 1353207,
+      "followersCount": 1353246,
       "friendsCount": 2066,
       "location": "LA"
     },
