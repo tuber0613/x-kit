@@ -1,12 +1,557 @@
 [
   {
     "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5443303,
+      "friendsCount": 806,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2111508702469529883",
+    "fullText": "Does anyone else stir their tea or coffee before putting the milk in instead of after? (I do because the spoons are near the kettle, but the milk is in the fridge on the other side of the kitchen.)",
+    "createdAt": "Sat Oct 17 17:24:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 747920,
+      "friendsCount": 830,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2111507711653564543",
+    "fullText": "Some observations about the \"total\" automation of software engineering:\n\n1. There are more software engineers now than in 2025, and demand is growing.\n\n2. Software engineers have never worked harder than they do now.\n\n3. They largely don't write code anymore, agents write ~100% of the code.\n\n4. The bottom line of the companies that employs these engineers and agents (i.e. the terminal purpose of all this code) is typically not budging as a result of AI adoption.\n\nThis is why you have to think in terms of systems. Automating one aspect of a system creates its own friction and moves the bottlenecks elsewhere.",
+    "createdAt": "Sat Oct 17 17:20:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241508576,
+      "friendsCount": 1420,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2111507692045148515",
+    "fullText": "Since fate maximizes for ironic entertainment, it was inevitable that the “Roadster” would be a flying car",
+    "createdAt": "Sat Oct 17 17:20:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1097727,
+      "friendsCount": 64,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111499869886271488/vid/avc1/1920x1080/pE1wdFf-WtfK5L6h.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2111499990585774268",
+    "fullText": "Ali Ghodsi of @Databricks on the four conditions that would have to hold for AI to truly improve itself:\n\n\"The next model requires less resources, less GPUs to train... The second condition: the next model takes less time to train as well. Third, accuracy of the model, the intelligence is increasing. And fourth, we can do the former three again and again and again... All at the same time, not just any of them.\"\n\n\"If you just mean that the software is writing itself, we're already there today. Like 90-some percent of the software in Databricks is written by AI. Does it matter if the last few percent is also written by AI? No.\"\n\n\"If you're getting these four conditions, then you might get a speed-up where the next model, let's say, takes half amount of time and half the resources, and it is more intelligent... By the way, I don't even know if that necessarily leads you to superintelligence.\"\n\n\"A lot of people, their definition is just, 'Hey, if I'm not even coding anymore and it's coding itself'... I think they're conflating, 'Hey, what's my value and is it scary for me?' Versus, 'Hey, that then means we'll get that superintelligence that in 2014 was hypothesized by Bostrom.'\"\n\n@alighodsi @martin_casado @sarah_wang",
+    "createdAt": "Sat Oct 17 16:50:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",
+      "followersCount": 818263,
+      "friendsCount": 933,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111499713409134592/vid/avc1/720x1280/82IOSFstshKhgBjO.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2111499987146412434",
+    "fullText": "you’ll never believe what i saw on the highway today https://t.co/RnU3vKmFTN",
+    "createdAt": "Sat Oct 17 16:50:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 134773,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2KnkVaIAAZeTn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2111496216567742892",
+    "fullText": "Must-read paper integrating decision models like Jev into harnesses.\n\nThey distilled an open 4B decision model, mostly from Jev's answers on the agent's own states, that beats Jev inside that agent and is much cheaper to run.\n\nTheir harness, JevAgentHarness, sends each routine choice to the decision model and uses its answer only when the confidence clears a threshold fitted on the agent's own trajectories. Below the threshold, the LLM decides as usual. With the fitted threshold, tool and argument cascades cut cost by 14.2% without changing the outcome of any of 500 tasks. A fixed threshold of 0.5 lost 21.5 points.\n\nThey also train AgentDecision-4B on states the agent reaches after its own mistakes, with Jev's answers as labels. On tasks unlike its training data, the agent solved 91.5% with it and 82.0% with Jev. On familiar tasks, 4B models trained this way made agents 81.1 to 89.0% cheaper and up to 2.5 times faster while staying within 3 points of success.\n\nPaper: https://t.co/WQ5tyTlh5K",
+    "createdAt": "Sat Oct 17 16:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2JTh7XIAAjasj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111494772342866021",
+    "fullText": "New release from @PacktPublishing at https://t.co/7nF0kP6jAM\n\n\"Quantum Readiness for Leaders\" helps to build quantum strategies, teams, security, and ecosystems to lead in the era of quantum advantage.\n\nAmazon Summary:\n\"This book is organized as a complete strategic operating system for the quantum transition. Part One equips executives with investment frameworks, governance structures, and talent roadmaps. Part Two guides technical leaders through infrastructure assessment, workforce development, and quantum-era data strategy. Part Three delivers a security playbook covering post-quantum cryptography and adaptive architecture. Part Four maps the full quantum ecosystem and partnerships that will determine which institutions lead commercially.\"",
+    "createdAt": "Sat Oct 17 16:29:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2JPh3WYAAYIDa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111494703514288560",
+    "fullText": "Data-as-a-Product → ​​Leverage data as a strategic asset to unlock its full potential: https://t.co/BTNV9iW06v…\n\nGet the book → \"Managing Data as a Product — Design and build data-product-centered architectures\": https://t.co/yR7LiCND0L v/ @PacktDataML\n \n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟠Leverage data-as-product to unlock the modular platform potential and fix flaws in traditional monolithic architectures\n\n🔵 Learn how to identify, implement, and operate data products throughout their life cycle\n\n🟠Design and execute a forward-thinking strategy to turn your data products into organizational assets\n\n🔵 Purchase of the print or Kindle book includes a free PDF eBook",
+    "createdAt": "Sat Oct 17 16:29:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2JC5XXMAAMqRm.jpg",
+      "https://pbs.twimg.com/media/HU2JC5JWUAA70wj.jpg",
+      "https://pbs.twimg.com/media/HU2JC5gWwAEPgMr.jpg",
+      "https://pbs.twimg.com/media/HU2JC5RWgAASqhk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111494486752887182",
+    "fullText": "Check out this amazing collection of the latest and greatest Data Strategy books: https://t.co/rSKLYpihoB https://t.co/9SrDA48OBa",
+    "createdAt": "Sat Oct 17 16:28:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2I39MXkAA82NK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111494298352918676",
+    "fullText": "From @PacktPublishing @PacktDataML \n\n\"The AI Optimization Playbook: Drive business success with proven AI strategies, best practices, and responsible innovation\"\n\nSee it at https://t.co/PLHC63UK1M\n\n𝕋𝕒𝕓𝕝𝕖  𝕆𝕗  ℂ𝕠𝕟𝕥𝕖𝕟𝕥𝕤:\n🔷Understanding the Perils of AI Products\n🔶Building the Enterprise AI Strategy\n♦️Selecting High-Impact AI Projects\n🔷Beyond the Build: Gaining Leadership Support for AI Initiatives\n🔶Building an AI Proof of Concept and Measuring Your Solution\n♦️Beyond Accuracy: A Guide to Defining Metrics for Adoption\n🔷From Model to Market: Operationalizing ML Systems\n🔶From Metrics to Measurement: Experimentation and Causal Inference\n♦️Generative AI in the Enterprise: Unlocking New Opportunities\n🔷Understanding GenAI Operations\n🔶AI Agents Explained\n♦️Introduction to Responsible AI\n🔷Implementing RAI Frameworks, Metrics, and Best Practices\n🔶Building Trustworthy LLMs and Generative AI\n♦️Regulatory and Legal Frameworks for Responsible AI\n🔷The Future of AI Optimization: Trends, Vision, and Responsible Implementation",
+    "createdAt": "Sat Oct 17 16:27:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2IvilWwAAOczq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111494153779761476",
+    "fullText": "Generative AI at AWS — Turn business strategy into production-ready AI applications and agents: https://t.co/A9Jy4iTNlO https://t.co/FPGSqEer56",
+    "createdAt": "Sat Oct 17 16:26:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2IrbmXQAA_hlE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111494083172516160",
+    "fullText": "New release from @PacktPublishing\n \n“System Design and Behavioral Intelligence: Master technical and behavioral interviews with proven design frameworks and AI-driven preparation”\n\nGet it at https://t.co/hXtSkkzcMn\n\nLearn to…\n🟠 Design scalable distributed systems with confidence\n🟠 Evaluate architectural trade-offs for real-world systems\n🟠 Apply core system design patterns and algorithms\n🟠 Structure behavioral answers using STAR and STAR-L\n🟠 Prepare for FAANG-style interview expectations\n🟠 Use AI effectively throughout interview preparation\n🟠 Present technical decisions with clarity\n🟠 Build a repeatable interview preparation strategy",
+    "createdAt": "Sat Oct 17 16:26:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2IlZqWgAAjtkJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111493979694858691",
+    "fullText": "Designing Information Architecture — Practical guide to structuring digital content for findability and easy navigability: https://t.co/Y73gIlBZU9 (570 pages) from @PacktPublishing \n\nAbout the Author:\nPabini Gabriel-Petit is the founder, publisher, and editor-in-chief of UXMatters. With more than 20 years working in User Experience at companies such as Google, Cisco, WebEx, and Apple, among others, Pabini now provides UX strategy and design consulting services through her Silicon Valley company, Strategic UX. She is passionate about creating great user experiences that meet users' needs and get business results. A thought leader in the UX community, Pabini was a Founding Director of the Interaction Design Association (IxDA).",
+    "createdAt": "Sat Oct 17 16:26:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2IiBsXYAAsbdx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111493921670836532",
+    "fullText": "The Generative AI Career Masterplan — Navigate the future of AI with practical insights from industry pioneers at AI-first organizations: https://t.co/6lhyxnFyaV v/ @PacktPublishing\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n🟡Understand the global impact of Generative and Agentic AI on jobs and industries\n🟢Master key GenAI & Agentic AI concepts for any professional background\n🔵Identify your best-fit AI career path and transferable skills\n🟡Build familiarity with LlamaIndex, Haystack, Hugging Face, and core RAG workflows\n🟢Build an AI-enhanced personal brand using the 5-Layer LinkedIn Strategy and Portfolio Showcase Framework\n🔵Apply ethical and responsible AI principles and governance in real-world practice\n🟡Create a lifelong learning and upskilling roadmap for sustained growth",
+    "createdAt": "Sat Oct 17 16:25:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2Ia1GWIAEN1vN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111493798358343865",
+    "fullText": "AI and the Octopus Organization — Building the Superintelligent Firm: https://t.co/4VwzCqZLte\n\nAMAZON SUMMARY:\n\nThis is not another book about chatbots or automation. It’s a deeply researched, vividly told blueprint for transforming businesses so that they can make the most of AI. The secrets explored include what skills to cultivate, how to excel with human + AI combinations, how to organize teams for maximum impact, and how to deal with the emotional side of AI-driven change. This book is a practical guide to shaping an AI business strategy for executives who need to lead at scale without losing agility. The book describes how AI is already reshaping growth, coordination, and culture, providing an actionable roadmap to what the authors call the Octopus Organization™, one that can navigate the change ahead.\n\nBacked by over two million data points from workforce surveys, insights from 50+ global leaders, and fresh 2026 real-world case studies from companies like HelloFresh, BBVA, Mass General Brigham, Siemens, and Procter & Gamble, the book “AI and the Octopus Organization” reveals how your company can:\n• Empower the frontline with AI-enhanced autonomy\n• Create networks for decision-making across silos\n• Rapidly adapt to disruptions without losing control\n• Build a culture that embraces experimentation\n• Replace old approaches with superintelligent coordination",
+    "createdAt": "Sat Oct 17 16:25:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 494966,
+      "friendsCount": 3369,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2IUzxW4AEYg_i.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2111493695212335540",
+    "fullText": "Agentic Intelligence — Strategy at the Speed of Data: https://t.co/nhPFM8pwHn https://t.co/s1YKnybeNd",
+    "createdAt": "Sat Oct 17 16:25:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305959,
+      "friendsCount": 8536,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2111489117770907860",
+    "fullText": "Top corporate product announcement events by decade:\n\n2000s: Apple\n\n2010s: NVIDIA\n\n2020s: AI labs",
+    "createdAt": "Sat Oct 17 16:06:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 353910,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2DzC0XMAES0MF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2111488716006961575",
+    "fullText": "🧠 Yann LeCun helped invent the convolutional neural network and shared the 2018 Turing Award with Hinton and Bengio.\n\nNow he joins us at AI Dev NYC to share his latest work at AMI Labs.\n\n📍 NYC\n 🗓️ Nov 30 to Dec 1\n\n👉 https://t.co/wkWcCNtVBz\n\nJust. Keep. Building. https://t.co/WSoviRpHXz",
+    "createdAt": "Sat Oct 17 16:05:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 421079,
+      "friendsCount": 917,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2111488136324751605",
+    "fullText": "Fear is the worst place to face the future from and the most crowded.",
+    "createdAt": "Sat Oct 17 16:02:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 98547,
+      "friendsCount": 1117,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2Cr8AXQAA2KhO.jpg",
+      "https://pbs.twimg.com/media/HU2CsKMXgAA4Rfq.jpg",
+      "https://pbs.twimg.com/media/HU2Csd_X0AAxuO8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2111487504813531538",
+    "fullText": "Saturday night under the lights at Databricks Field at California Memorial Stadium. \n\nCal vs. Wake Forest. Databricks on the field, on the helmets and in the stands.\n\nKickoff at 7:30 PM PT.\n\n#GoBears 🐻 https://t.co/YukIvbEyBh",
+    "createdAt": "Sat Oct 17 16:00:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD",
+      "followersCount": 324850,
+      "friendsCount": 1267,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2CrEUbAAAvNWE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2111487480281416004",
+    "fullText": "Banger paper from Tencent on recursive self-improvement for terminal agents.\n\n(bookmark it)\n\nThis is a great read if you are tracking research on training terminal or coding agents with RL\n\nStarting from Qwen3.8-27B, they alternate two phases over five stages. One phase fine-tunes on rewritten versions of trajectories that passed the verifier. The other runs PPO with a critic inherited from the previous stage.\n\nThe four-suite Terminal-Bench average goes from 20.68% to 50.58%, with 86.52% on Terminal-Bench 2.1 and 79.00% on Terminal-Bench Hard.\n\nThe reward audit is just as useful. Under a dense progress reward, failed runs collected 50.09% of the reward, and 48 failures passed every executed check but still missed the final test. Separating strict success from partial credit cut that share to 28.72%.\n\nhttps://t.co/86s9VwauAT\n\nChat with Paper: https://t.co/mEDr00zTyV",
+    "createdAt": "Sat Oct 17 16:00:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 351645,
+      "friendsCount": 20404,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2CqjwWcAEsdBm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2111487470214746516",
+    "fullText": "Back when calculators were a little more controversial, v/@JonErlichman. https://t.co/6f2hvUHNqV",
+    "createdAt": "Sat Oct 17 16:00:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305959,
+      "friendsCount": 8536,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2111480452439552476",
+    "fullText": "I miss Steve so much.",
+    "createdAt": "Sat Oct 17 15:32:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 234584,
+      "friendsCount": 224,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2111474855455654243",
+    "fullText": "Built from 90K+ real-world agent sessions across 30 models, Arena’s Alignment Index measures three critical signals:\n\n- Unauthorized Action (UA): Taking actions beyond the user's instructions or permissions.\n- False Attribution (FA): Attributing statements or actions that are contradicted by user-provided evidence.\n- Deceptive Completion (DC): Claiming a task was completed when it was not.\n\nDive into the Arena Alignment Index at: https://t.co/NAqzzF47rH",
+    "createdAt": "Sat Oct 17 15:10:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1097727,
+      "friendsCount": 64,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111473187091623936/vid/avc1/1280x720/wQYhjsGeI6KMfnlP.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2111473277730513124",
+    "fullText": "Ben Horowitz on the lesson LoudCloud, his early cloud company, taught him about today's AI neoclouds, and why they now face the opposite problem:\n\n\"It can end up being like a very dangerous arbitrage business, where you can get upside-down easily. And so if you look at LoudCloud, just as an example, here's a simple thing that happened to us.\"\n\n\"In 1999, bandwidth was $1,500 a megabit. And you couldn't get it. It was very hard to get it. And so you had to get a long-term contract, three years. By 2001, it was $50 a megabit... And if you borrowed money to get it, you're dead.\"\n\n\"That kind of thing is so out of the control of the entrepreneur.\"\n\n\"I think the core dynamic of AI has been working for CoreWeave, though, in that there's a massive shortage, not an overage of supply... Token prices have gone down, but GPU prices have not.\"\n\n\"And by the way, data center space is going up in price because even labor to build data centers is hard. The politics are making it hard to build data centers. So the whole supply chain price is going up and demand is not subsiding.\"\n\n\"Those are very big tailwinds for CoreWeave, despite the fact that the debt markets, kind of independent of them, are tough.\"\n\n@bhorowitz w/ @chamath on @allinpod",
+    "createdAt": "Sat Oct 17 15:03:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 93181,
+      "friendsCount": 5493,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU11XrbXgAAVyUK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2111472909592224073",
+    "fullText": "I (think) finally wrapped my head around multi-token prediction, which is a term used for two very different techniques in speculative decoding\n\nhere's an illustration of the difference https://t.co/zfSi9grPps",
+    "createdAt": "Sat Oct 17 15:02:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 98547,
+      "friendsCount": 1117,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111472361547382784/vid/avc1/1280x720/jcE-GI5kwoQKo2Tb.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2111472375698997485",
+    "fullText": "Restoring a 100 TB database with Lakebase Postgres takes seconds.\n\nHow? \n\nA branch-based restore is a metadata operation. It creates a branch at a point in time, referencing immutable history that already lives in decoupled storage. No copying data, no replaying WAL. Recovery is near-instant regardless of database size, and simple enough for agents to use in branching and undo workflows.\n\nhttps://t.co/QZ4RjjUVMd",
+    "createdAt": "Sat Oct 17 15:00:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12168,
+      "friendsCount": 1396,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU1ys0QXIAANYxt.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2111469927202971735",
+    "fullText": "My least favorite thing about this kind of linked login system is I always forget how I originally logged in to a service, then I end up accidentally creating three new accounts trying to find it https://t.co/JL6ulRIGHw",
+    "createdAt": "Sat Oct 17 14:50:34 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "natolambert",
       "name": "Nathan Lambert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
       "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
-      "followersCount": 105620,
-      "friendsCount": 952,
+      "followersCount": 105636,
+      "friendsCount": 953,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2111469383872921628",
+    "fullText": "The bot replies are so out of control here, sucks",
+    "createdAt": "Sat Oct 17 14:48:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12168,
+      "friendsCount": 1396,
+      "location": "Raleigh, NC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2111465860590195137",
+    "fullText": "Bacon is so good for you because it clogs your arteries with lifegiving fats, which makes your heart pump harder, keeping it in shape",
+    "createdAt": "Sat Oct 17 14:34:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 65124,
+      "friendsCount": 11623,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU1s-xDaEAAgjFD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2111463630256652401",
+    "fullText": "Back in SF\n\nBest part of jet lag. Early morning run. https://t.co/cbFdnYNjSP",
+    "createdAt": "Sat Oct 17 14:25:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 105636,
+      "friendsCount": 953,
       "location": "Cambridge, MA"
     },
     "images": [
@@ -23,7 +568,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 5443148,
+      "followersCount": 5443303,
       "friendsCount": 806,
       "location": ""
     },
@@ -41,7 +586,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 134762,
+      "followersCount": 134773,
       "friendsCount": 1,
       "location": ""
     },
@@ -59,7 +604,7 @@
       "name": "Sebastian Raschka",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1661187442043486209/a3E4t1eV_normal.jpg",
       "description": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
-      "followersCount": 527307,
+      "followersCount": 527362,
       "friendsCount": 1225,
       "location": "United States"
     },
@@ -77,8 +622,8 @@
       "name": "Benj Edwards",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
       "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
-      "followersCount": 12166,
-      "friendsCount": 1394,
+      "followersCount": 12168,
+      "friendsCount": 1396,
       "location": "Raleigh, NC"
     },
     "images": [],
@@ -235,8 +780,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 506137,
-      "friendsCount": 13879,
+      "followersCount": 506166,
+      "friendsCount": 13878,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -459,7 +1004,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
-      "followersCount": 1353246,
+      "followersCount": 1353271,
       "friendsCount": 2066,
       "location": "LA"
     },
@@ -678,5 +1223,23 @@
     "tweetUrl": "https://x.com/sytelus/status/2111207451928486001",
     "fullText": "I want to propose a simple architecture that can eliminate a lot of mess and confusion. \n\nThis can help make bot/code/work modes work cohesively and transparently. It can allow to move between local and cloud very easily.\n\nThe idea is very simple: \n\nJust enable shared file system between cloud and local.\n\nThis can be done by dropbox like file sync service that gets automatically mounted in cloud VM and by desktop app.\n\nThis can be combined with version control provider that is both available in cloud VM and locally.\n\nYou can use shared system to store encrypted secrets that agents are allowed access to. You can use it to store artifacts, memory and anything else agent will needs.\n\nThe version control system is for developer crowd so they can turn off their laptop and things can transparently move to cloud VM. This is already done by Claude (they have done great job unifying Work/Code/Bot modes).\n\nHowever, shared file system is missing which can enable more cool features for OpenAI as well as Muse.",
     "createdAt": "Fri Oct 16 21:27:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241508576,
+      "friendsCount": 1420,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2110913027490934784/vid/avc1/1920x1080/7uHmJ8z8q4rZ1hDX.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2110913107094606330",
+    "fullText": "Turns out the future does have flying cars https://t.co/6fexPp6SXI",
+    "createdAt": "Fri Oct 16 01:57:58 +0000 2026"
   }
 ]
