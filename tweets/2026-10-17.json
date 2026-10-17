@@ -1,11 +1,113 @@
 [
   {
     "user": {
+      "screenName": "bentossell",
+      "name": "Ben Tossell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
+      "description": "can't code, won't code. builder, investor (dev tools/infra) @supabase @etched @factoryAI @sfcompute. 3 👶 under 4.",
+      "followersCount": 201910,
+      "friendsCount": 590,
+      "location": "online"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bentossell/status/2111537143428297018",
+    "fullText": "a generation of builders wont know what PR review is",
+    "createdAt": "Sat Oct 17 19:17:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12170,
+      "friendsCount": 1398,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2nRK1XgAABzvi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2111527719049568347",
+    "fullText": "The gang’s all here! https://t.co/N2GF5S4B6W",
+    "createdAt": "Sat Oct 17 18:40:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 421082,
+      "friendsCount": 917,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2111525336626221233",
+    "fullText": "I always say we are perhaps living in the single greatest moment in human history, and believe me I stand by it. Here's the proof: \n- All-time high literacy rates\n- Record healthspans \n- Energy access globally is at record highs \n- Child survival rates have shattered expectations \n- Intelligence & energy are collapsing in cost for the first time ever \n\nWhat else can we ask for?",
+    "createdAt": "Sat Oct 17 18:30:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 134781,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2k8gKbsAA1bon.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2111525163447746719",
+    "fullText": "A 3B-active model can now write long-term memory as well as Claude Opus 5.\n\nTencent Hunyuan trained Hy-Memory-30B-A3B for one job. It decides what an agent stores, how precisely, and how new evidence updates what is already there.\n\nThe same model runs inside Mem0, MemOS, and Hy-Memory. On fixed 20% benchmark subsamples, it ranks first on all four evaluated harnesses, including held-out EverMemOS, with a 55.49% macro average against 54.62% for Opus 5.\n\nTraining has two stages. On-policy distillation teaches each framework's write protocol. RL then rewards the writer when later questions can be answered from what it stored, with a penalty for storing too much.\n\nhttps://t.co/If1TULtR0y\n\nChat with Paper: https://t.co/0GxMJwHTFn",
+    "createdAt": "Sat Oct 17 18:30:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305959,
+      "friendsCount": 8536,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2111516281841090925",
+    "fullText": "Just because you can show everything, it doesn't mean that you should.",
+    "createdAt": "Sat Oct 17 17:54:46 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "paulg",
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 5443303,
+      "followersCount": 5443420,
+      "friendsCount": 806,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU2XXRZWUAAbB29.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2111510655681597824",
+    "fullText": "Why is speaking of words \"doing work\" and \"doing heavy lifting\" so common in AI-generated replies? I assume this phase will pass, but how did it happen at all? Is there one model with this idiosyncrasy that they all use? https://t.co/djEd5PXhgn",
+    "createdAt": "Sat Oct 17 17:32:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5443420,
       "friendsCount": 806,
       "location": ""
     },
@@ -21,7 +123,7 @@
       "name": "François Chollet",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
       "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
-      "followersCount": 747920,
+      "followersCount": 747939,
       "friendsCount": 830,
       "location": "United States"
     },
@@ -53,7 +155,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1097727,
+      "followersCount": 1097718,
       "friendsCount": 64,
       "location": "It's time to build."
     },
@@ -71,7 +173,7 @@
       "name": "Alexandr Wang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
       "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",
-      "followersCount": 818263,
+      "followersCount": 818446,
       "friendsCount": 933,
       "location": "San Francisco, CA"
     },
@@ -89,7 +191,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 134773,
+      "followersCount": 134781,
       "friendsCount": 1,
       "location": ""
     },
@@ -306,7 +408,7 @@
       "name": "DeepLearning.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
       "description": "We are an education technology company with the mission to grow and connect the global AI community.",
-      "followersCount": 353910,
+      "followersCount": 353904,
       "friendsCount": 113,
       "location": "United States"
     },
@@ -324,7 +426,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
-      "followersCount": 421079,
+      "followersCount": 421082,
       "friendsCount": 917,
       "location": ""
     },
@@ -340,7 +442,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 98547,
+      "followersCount": 98546,
       "friendsCount": 1117,
       "location": "HQ: San Francisco, CA"
     },
@@ -360,7 +462,7 @@
       "name": "elvis",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
       "description": "Building the frontier @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD",
-      "followersCount": 324850,
+      "followersCount": 324853,
       "friendsCount": 1267,
       "location": "DAIR.AI Academy"
     },
@@ -378,8 +480,8 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 351645,
-      "friendsCount": 20404,
+      "followersCount": 351650,
+      "friendsCount": 20403,
       "location": "Cambridge, MA"
     },
     "images": [
@@ -412,7 +514,7 @@
       "name": "Arena.ai",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
       "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
-      "followersCount": 234584,
+      "followersCount": 234589,
       "friendsCount": 224,
       "location": "US"
     },
@@ -428,7 +530,7 @@
       "name": "a16z",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
       "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
-      "followersCount": 1097727,
+      "followersCount": 1097718,
       "friendsCount": 64,
       "location": "It's time to build."
     },
@@ -446,7 +548,7 @@
       "name": "merve",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
       "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
-      "followersCount": 93181,
+      "followersCount": 93184,
       "friendsCount": 5493,
       "location": "Paris"
     },
@@ -746,7 +848,7 @@
       "name": "Jack Clark",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
       "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
-      "followersCount": 152780,
+      "followersCount": 152951,
       "friendsCount": 4619,
       "location": "San Francisco, CA"
     },
@@ -780,8 +882,8 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 506166,
-      "friendsCount": 13878,
+      "followersCount": 506199,
+      "friendsCount": 13880,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -1004,7 +1106,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
-      "followersCount": 1353271,
+      "followersCount": 1353282,
       "friendsCount": 2066,
       "location": "LA"
     },
@@ -1223,6 +1325,61 @@
     "tweetUrl": "https://x.com/sytelus/status/2111207451928486001",
     "fullText": "I want to propose a simple architecture that can eliminate a lot of mess and confusion. \n\nThis can help make bot/code/work modes work cohesively and transparently. It can allow to move between local and cloud very easily.\n\nThe idea is very simple: \n\nJust enable shared file system between cloud and local.\n\nThis can be done by dropbox like file sync service that gets automatically mounted in cloud VM and by desktop app.\n\nThis can be combined with version control provider that is both available in cloud VM and locally.\n\nYou can use shared system to store encrypted secrets that agents are allowed access to. You can use it to store artifacts, memory and anything else agent will needs.\n\nThe version control system is for developer crowd so they can turn off their laptop and things can transparently move to cloud VM. This is already done by Claude (they have done great job unifying Work/Code/Bot modes).\n\nHowever, shared file system is missing which can enable more cool features for OpenAI as well as Muse.",
     "createdAt": "Fri Oct 16 21:27:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "econcallum",
+      "name": "Callum Williams",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1218114839278686208/DLv8gqdi_normal.jpg",
+      "description": "Senior economics writer, San Francisco bureau chief, The Economist. AI, financial markets, real estate, history. Book \"The Classical School\"",
+      "followersCount": 8214,
+      "friendsCount": 704,
+      "location": "San Francisco/London"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUxtOSDb0AAxxrg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/econcallum/status/2111182462231716145",
+    "fullText": "Important update from Morgan Stanley leaves The Economist's estimate of \"required AI revenues\" at close to $3trn for the first time https://t.co/mJq4JiyRpT",
+    "createdAt": "Fri Oct 16 19:48:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12170,
+      "friendsCount": 1398,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUxjqooXEAAVan6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2111171917864640916",
+    "fullText": "Co-op Super Mario Bros. 3 with Luigi in a bubble https://t.co/8amvEasGvO",
+    "createdAt": "Fri Oct 16 19:06:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12170,
+      "friendsCount": 1398,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUwUSIGWQAAlkhr.png",
+      "https://pbs.twimg.com/media/HUwUCAqWUAAKi_E.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2111085465516593643",
+    "fullText": "It took a few days of fiddling with Claude Code, but I got a fnative port of Tetris DX from the Game Boy Color running on the NES using MMC5. Plays and sounds just like the original https://t.co/TW9HrG1mnM",
+    "createdAt": "Fri Oct 16 13:22:51 +0000 2026"
   },
   {
     "user": {
