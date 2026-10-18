@@ -1,11 +1,97 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305975,
+      "friendsCount": 8539,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU6nLwNWAAA988e.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2111809099021328493",
+    "fullText": "Yes https://t.co/ZH18A32cJv",
+    "createdAt": "Sun Oct 18 13:18:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 93209,
+      "friendsCount": 5494,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111805984649654272/vid/avc1/1080x1920/Na2BH_Y53HNOY6IX.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/mervenoyann/status/2111806075653517368",
+    "fullText": "I was thinking of buying a teenage engineering sampler as I love their stuff then I remembered I have a rabbit r1\n\nI'm thinking of installing llama.cpp on it but also doing s2s apps\n\ntbf initially I wasn't as interested but now they offer you to vibe code apps, use community creations on device or jailbreak which to me is very cool \n\nprobably need to upgrade the os first\n\ndisclaimer: this was sent to me for free but it's not a paid ad or whatever, I do not do paid ads and never did",
+    "createdAt": "Sun Oct 18 13:06:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 37875,
+      "friendsCount": 2013,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111772849581248512/vid/avc1/2114x1208/DZgU3WZEU6cqKtQC.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2111789021290430767",
+    "fullText": "谷歌最新开源了一个Agent执行系统自动优化工具：Harness²，让Agent在执行任务过程中自动改进自己的工作系统\n\n不训练模型、不修改权重\n\n目的是给大模型套的System Prompt、工具、记忆、Skills、子Agent、脚本、插件、编排机制等Harness，减少开发反复尝试、修改、测试的过程\n\nHarness² 要把这种人工调试，变成Agent自己可以反复执行的优化过程\n\n两层递归优化机制：\n任务级递归：面对一个新任务，Agent不直接固定使用原来的Harness，通过Propose–Probe–Compose循环进行优化\n\nPropose，提出多个Harness修改方案\nProbe，让不同配置实际执行同一个任务，观察行为差异\nCompose，对比执行轨迹，综合有效改进，生成更适合当前任务的 Harness\n\nHarness级递归：任务完成后，不只保存结果，还会保留采用的Harness及有执行证据支持的改进经验，用于指导后续任务中的Harness优化\n\n支持并行和顺序递归，兼容OpenCode、Codex执行器，可以优化System Prompt、Guardrails、Memory、Tool Guidance、Subagents、Skills、Scripts、Plugins八类组件\n\n#Harness2 #Harness自优化",
+    "createdAt": "Sun Oct 18 11:58:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149214,
+      "friendsCount": 5535,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2111787003998024073",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Sun Oct 18 11:50:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Michael_J_Black",
+      "name": "Michael Black",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
+      "description": "VP Digital Human Research, Epic Games. Emeritus Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Opinions are my own.",
+      "followersCount": 106172,
+      "friendsCount": 744,
+      "location": "Tübingen, Deutschland"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Michael_J_Black/status/2111762613549858928",
+    "fullText": "PhD Advising vs Vibe Coding #3\n(Note: these posts are about how the way I work is changing. I find that some of the skills of being a PhD advisor translate well to the way I work today with AI and some don't. Since others are going through this transition, I decided to share my thoughts.)\n\nI can supervise 6 PhD students and feel on top of things, even during deadlines. At 8, I'm still ok but working like crazy. I've gone way above this at various points and then I can't do the job the way I want to. \n\nI would have trouble advising 6 AI projects at once. AI agents work quickly and come back with answers or questions that need my analysis or input multiple times a day.\n\nI guess I could meet each agent once a week like I might do with a PhD student, but that would defeat the efficiencies of using AI. So, with all my other responsibilities, 2-4 projects at a time seems about right.",
+    "createdAt": "Sun Oct 18 10:13:36 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 253474,
+      "followersCount": 253500,
       "friendsCount": 7210,
       "location": ""
     },
@@ -21,7 +107,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 253474,
+      "followersCount": 253500,
       "friendsCount": 7210,
       "location": ""
     },
@@ -37,7 +123,7 @@
       "name": "NVIDIA AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
       "description": "Teaching your AI new tricks.",
-      "followersCount": 351479,
+      "followersCount": 351554,
       "friendsCount": 899,
       "location": "Santa Clara, CA"
     },
@@ -57,7 +143,7 @@
       "name": "roon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
       "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
-      "followersCount": 506319,
+      "followersCount": 506332,
       "friendsCount": 13888,
       "location": "San Francisco, CA"
     },
@@ -219,7 +305,7 @@
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
-      "followersCount": 1353332,
+      "followersCount": 1353350,
       "friendsCount": 2066,
       "location": "LA"
     },
@@ -1556,7 +1642,7 @@
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
       "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
-      "followersCount": 253474,
+      "followersCount": 253500,
       "friendsCount": 7210,
       "location": ""
     },
