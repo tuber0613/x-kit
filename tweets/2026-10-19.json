@@ -1,6 +1,584 @@
 [
   {
     "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 456767,
+      "friendsCount": 610,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2112236084365246635",
+    "fullText": "Speed up your code like crazy!\n\nMaxwell is a new kind of AI. It's a code execution model that speeds up your code on CPUs and GPUs.\n\n\"Code execution models\" are a new category of AI. Maxwell is the first one, but this category will explode in popularity, and you'll see why.\n\nSay you have a script that moves and processes some data.\n\nYou integrate your code with Maxwell, run it, and let it observe how it runs on your hardware and analyze the data your script moves around.\n\nMaxwell will identify bottlenecks and look for faster algorithms and machine instructions for your workload. As long as your script runs, Maxwell rewrites the binary to make it faster.\n\nIn one example, Maxwell made a pandas pipeline 38.4x faster. It used more CPU cores, combined processing steps, reduced unnecessary memory reads and writes, and selected the right algorithms for the data the script was processing.\n\nFor example, imagine you want to check whether a number belongs to a collection. You could use hashing, but if the numbers occupy a small, dense range, a compact bitmap can make that check much faster.\n\nIn short, that's one of the algorithmic data-dependent tricks Maxwell can leverage to speed things up.\n\nHere is the most impressive part of all of this:\n\nMaxwell produces a machine-checked mathematical proof that each replacement preserves the original behavior.\n\nBasically, any code they modify will always produce the same output as the old one.\n\nThis is really cool for anyone working on AI or data engineering workflows. You will squeeze much more work from the hardware without rewriting your application.\n\nYou can try out your scripts using Maxwell by going to this link: https://t.co/wrMA61o2xB\n\nThanks to the @_doubleAI_ team for partnering with me on this post.",
+    "createdAt": "Mon Oct 19 17:35:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 93234,
+      "friendsCount": 5496,
+      "location": "Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVAqDsiWEAA2_92.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2112235935974703264",
+    "fullText": "TIL you get better speed-ups (with speculative decoding) for dense models compared to MoEs (which is quite intuitive) @MaartenGr https://t.co/iowl1saFD1",
+    "createdAt": "Mon Oct 19 17:34:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 135307,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVApswKawAA36yD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2112234077705433250",
+    "fullText": "Interesting finding about reasoning models and CoT.\n\nThey find that reasoning models can control their chain of thought much better than earlier tests suggested.\n\nEarlier evaluations put the constraint in the user prompt and found very low controllability. Researchers put the same constraint inside the chain of thought as a self-instruction, and models followed it far more often.\n\nA generic reminder to follow the user's constraint also helped a lot. The self-instruction can be triggered from the user prompt alone, so no access to the reasoning channel is needed.\n\nPaper: https://t.co/fyagSbVT8M\n\nChat with Paper: https://t.co/90LdW0qwdW",
+    "createdAt": "Mon Oct 19 17:27:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "StanfordHAI",
+      "name": "Stanford HAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633221221642010624/2gkqnAOS_normal.jpg",
+      "description": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followersCount": 109664,
+      "friendsCount": 605,
+      "location": "Stanford, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/StanfordHAI/status/2112232987794542653",
+    "fullText": "The mission of Stanford HAI is to advance humanity through AI and data science. Join Stanford HAI over the next nine days as we revisit some of the people and ideas that brought that mission to life, one year at a time. #HAIOverTheYears (1/3)",
+    "createdAt": "Mon Oct 19 17:22:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 459592,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2112229620758265938",
+    "fullText": "What have you been cooking with Codex?",
+    "createdAt": "Mon Oct 19 17:09:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 64291,
+      "friendsCount": 274,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2112229246802301248",
+    "fullText": "https://t.co/tPWYWETLju",
+    "createdAt": "Mon Oct 19 17:07:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SilverJacket",
+      "name": "Matthew Hutson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1402377580167241734/8zTEBQyJ_normal.jpg",
+      "description": "Freelance science writer for The New Yorker, Science, Nature, etc. Fire dancer. Into cognition—animal and mineral (aka psych & AI).",
+      "followersCount": 4615,
+      "friendsCount": 501,
+      "location": "NYC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SilverJacket/status/2112228822452191704",
+    "fullText": "In “You Can See Everything,” something about the Abbott &amp; Costello scene puzzles me. Spoilers ahead.",
+    "createdAt": "Mon Oct 19 17:06:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 270655,
+      "friendsCount": 204,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVAkZldXcAEHrOx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2112228327549452690",
+    "fullText": "🏢 Come to our HQ in SF\n\n🤝 Meet our team\n\n🚀 Kickstart your sales career at LangChain\n\nDon’t miss our SDR recruiting social on October 27th! Save your spot today.\n\n🎟️ RSVP: https://t.co/87Ge22Mvif https://t.co/d6TdSAgTGO",
+    "createdAt": "Mon Oct 19 17:04:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305969,
+      "friendsCount": 8540,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2112227630753665206",
+    "fullText": "If you are into moats, pivot to straits.",
+    "createdAt": "Mon Oct 19 17:01:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305969,
+      "friendsCount": 8540,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2112226403446100127",
+    "fullText": "Rules without means of enforcing them are worse than useless. They invite brazen disregard and contempt for the rule giver.",
+    "createdAt": "Mon Oct 19 16:56:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | PaperswithCode | Elastic | PhD",
+      "followersCount": 325167,
+      "friendsCount": 1276,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVAiX9Aa4AArKZ8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2112226024419365210",
+    "fullText": "Banger paper from Google DeepMind on open-ended math discovery with agents.\n\nThis is one of the early, exciting works I have seen on autonomous AI-powered discoveries.\n\n(bookmark it)\n\nA Gemini-based agent found and formally verified new acceleration rules for eleven unresolved Turing machines in BB(6), the current frontier of the Busy Beaver problem.\n\nBusy Beaver is uncomputable, so no fixed list of problems exists. The agent has to pick machines, spot patterns in their execution traces, and propose compact rules that summarize many steps at once.\n\nEach proposed rule then goes through informal reasoning and a Lean proof. Only proved rules are kept, so the result does not depend on trusting the model's reasoning.\n\nThe authors provisionally call these machines Cryptids. Their runs from a blank tape now have exact, compact descriptions, but whether they halt is still open.\n\nThis is a good example of an agent producing new, formally checked mathematical results on problems it chose itself.\n\nhttps://t.co/uZVecWK8t0\n\nChat with Paper: https://t.co/1nzoUaCkEJ",
+    "createdAt": "Mon Oct 19 16:55:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 93234,
+      "friendsCount": 5496,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2112221134783447254",
+    "fullText": "we're live! https://t.co/xewiZ65jKS",
+    "createdAt": "Mon Oct 19 16:35:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 72951,
+      "friendsCount": 36907,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2112219098876690629",
+    "fullText": "there’s this unhelpful trend of companies omitting their raise target from their materials / comms \n\ni feel like it’s to optimize for optionality and fishing for what the market might punt \n\npersonally, i think saying how much you’re raising helps me see you understand your biz",
+    "createdAt": "Mon Oct 19 16:27:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305969,
+      "friendsCount": 8540,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2112216566737838217",
+    "fullText": "Life tip: don't take advice from a misanthrope on how to socialize.",
+    "createdAt": "Mon Oct 19 16:17:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12190,
+      "friendsCount": 1408,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVAZW80XEAACjy5.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2112216245835559362",
+    "fullText": "Working on a Super NES port of Castlevania: Aria of Sorrow just to see how far we can push things with Claude code. Playable, still lots to go https://t.co/RuBXBpadmL",
+    "createdAt": "Mon Oct 19 16:16:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "huggingface",
+      "name": "Hugging Face",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
+      "description": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
+      "followersCount": 822358,
+      "friendsCount": 227,
+      "location": "NYC and Paris and 🌏"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/huggingface/status/2112214753980612886",
+    "fullText": "Local AI 202: Get Massive Speed-ups with Speculative Decoding https://t.co/3ywucgYbrD",
+    "createdAt": "Mon Oct 19 16:10:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Nano Banana, and more to over a billion people.",
+      "followersCount": 596733,
+      "friendsCount": 53,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2112214581443498261",
+    "fullText": "Our team built a playable 3D Wizard Chess game from scratch with Gemini 4 Argon using Google Antigravity in the Gemini app for Mac.\n\nCoordinate a multi-agent Blender workflow to model, design, and deliver fluid, real-time animations so you go straight from idea to play.",
+    "createdAt": "Mon Oct 19 16:09:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 421313,
+      "friendsCount": 919,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2112213357482672187",
+    "fullText": "A generation does not need to lose every job before it loses confidence in the future.\n\nThat's why the industry has a significant responsibility to build trust and demonstrate how it will safely manage the upcoming challenges we face.",
+    "createdAt": "Mon Oct 19 16:04:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 351745,
+      "friendsCount": 20403,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HUIpbX1XcAA90Ib.mp4",
+      "https://video.twimg.com/tweet_video/HUIpfMfXMAAxrl-.mp4"
+    ],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2112212175339266541",
+    "fullText": "ETH Zurich recently taught a robotic hand to walk: https://t.co/u5u7kQ955a\n\nIts clever design &amp; fluid motion reminded us of another walking hand: Thing from The Addams Family. https://t.co/91EK1DHXoz",
+    "createdAt": "Mon Oct 19 16:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5442143,
+      "friendsCount": 806,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2112211561091858537",
+    "fullText": "Someone asked what was the best way to get hired by a startup. I told him it was to start one and then hire himself.",
+    "createdAt": "Mon Oct 19 15:57:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1353975,
+      "friendsCount": 2067,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2112210052392354295",
+    "fullText": "I’m always impressed when people discover new heights in a career path that everyone assumes has a “cap”.\n\nNathan Fielder was already the new hit “Silly Camera Guy.” Every few years a new one emerges after people get sick of the humor of the last guy—like Sasha Baron Cohen, Eric Andre, Tim & Eric, and Tom Green.\n\nBut what’s remarkable is that he used his 15 minutes of fame to break out of “Silly Camera Guy” and prove that he is one of the greatest filmmakers of our time.",
+    "createdAt": "Mon Oct 19 15:51:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5442143,
+      "friendsCount": 806,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVARdLiWAAE01sf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2112207824914989252",
+    "fullText": "Pro tip: Hang paintings so that the light on them is coming from the same direction as the light in them. If you can match the color too, that's even better. https://t.co/y2lI89HZ70",
+    "createdAt": "Mon Oct 19 15:42:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 98616,
+      "friendsCount": 1117,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2112206739529424896/vid/avc1/1920x1080/dQo5ujREw-iqbasO.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2112206799080133062",
+    "fullText": "[DEMO] With Git worktrees and Lakebase Postgres database branching, each coding agent gets its own isolated, copy-on-write branch to run migrations, test changes, and experiment without affecting other environments.\n\nGitHub Actions then creates a fresh database branch per PR to validate migrations and preview the app before anything reaches production.\n\nWatch the full workflow: https://t.co/pGuwbfsqDG",
+    "createdAt": "Mon Oct 19 15:38:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 78777,
+      "friendsCount": 1697,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2112201364470440098",
+    "fullText": "Which Minds Will Emerge Beneficial “Basic AI Drives” as they Become Superintelligent?\n \nhttps://t.co/e8ug6mLTfa\n\n(TL;DR -- the ones designed to have beneficial and self-stabilizing goal-systems from the get-go...)\n\nIn his 2008 \"Basic AI Drives\" paper, Steve Omohundro argued that almost any advanced AI will tend to improve itself, guard its goals, protect itself (including against being switched off) and grab resources, whatever goals it starts with, because those things help with nearly any goal. Much of today’s AI-risk thinking comes from this argument. \n\nMy new blog post argues that it only holds for one kind of mind: a single-score maximizer that cares only about outcomes and has frozen, certain goals. It then runs Omohundro-style reasoning on a different sort of AI design -- one with many objectives, firm ethical limits, values woven deeply enough to grow back when damaged and held with some doubt, a gate that checks every change it makes to itself, and other minds around to check it. What comes out is nine beneficial drives, in many cases quite different in nature from Omohundro's selfish AI drives.\n\nThe key twist is that Omohundro’s own drives point the other way under my \"BGI\" assumptions. Goal preservation ends up defending good values. Doubt about its own judgment gives the system a reason to keep humans able to correct it, where Omohundro's assumptions imply an agent will near-inevitably get around such checks. And applying his reasoning to others’ goals, which it cares about but can’t fully know, gives a BGI agent a reason to protect, inform and empower the people around it, and to keep the world diverse.\n\nNone of this implies guaranteed BGI. Selfish and beneficial minds are both stable attractors, and a big enough shock can knock a system from one toward the other. Humans sit in an unstable middle btw selfish and beneficial, which is one reason to be wary of building superintelligent humanlike minds. The practical lesson is to build AGI designed from the start to meet the beneficial assumptions, keep on measuring the degree to which it actually does...",
+    "createdAt": "Mon Oct 19 15:17:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 270655,
+      "friendsCount": 204,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVAI-Z3XIAAj6R7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2112198096209825800",
+    "fullText": "Join our EMEA Deep Life Sci Workshop: Agent Engineering for Life Sciences for a hands-on look at how to build, trace, evaluate, and improve research agents for complex life sciences workflows.\n\n🌍 Register for the EMEA session: https://t.co/Ilm9IwoCEo https://t.co/rG40nCIj0k",
+    "createdAt": "Mon Oct 19 15:04:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 72951,
+      "friendsCount": 36907,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2109018084677734400/vid/avc1/1920x1080/Cit32l7a4ySwSqzp.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2112197090025574852",
+    "fullText": "robotics is having its gpt-2 moment.\n\nvideo pretraining, world models and action prediction are starting to come together. the exciting part is whether that learned understanding can help robots handle new tasks with less task-specific training.\n\nfrom my @mtslive interview on the @stateofai report.",
+    "createdAt": "Mon Oct 19 15:00:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149211,
+      "friendsCount": 5537,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVAGc2_XAAAXHLk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2112195324945014790",
+    "fullText": "🌌 The future of AI isn't about playing the game better. It's about discovering an entirely different game to play.\n\nWhat if the greatest breakthrough in artificial intelligence isn't solving increasingly difficult problems—but recognizing that those problems never needed to be solved that way in the first place?\n\nWelcome to TRANSFORMATIONAL INTELLIGENCE.∞\n\nFor decades, we've pursued more compute, larger models, and increasingly powerful reasoning.\n\nBut intelligence has another frontier.\n\nAn intelligence that questions the assumptions everyone else accepts.\n\nThat discovers opportunities nobody thought to look for.\n\nThat transforms seemingly impossible challenges into entirely new possibilities.\n\nNot just better answers. Fundamentally better games.\n\n🚀 Today, at https://t.co/dCKMr5Lici, we're introducing our new research paper:\n\nTRANSFORMATIONAL INTELLIGENCE: LEARNING TO CHANGE THE GAME\n\nAnd this research goes directly to the heart of our mission:\n\nFIND YOUR ALPHA. BUILD YOUR SUCCESSOR Ω.\n\nOur ambition is to make transformational intelligence accessible—not merely to automate existing work, but to empower people to discover, create, and capture entirely new forms of value.\n\nImagine AI agents that can:\n\n🔍 Identify opportunities others overlook.\n\n📚 Out-Learn by discovering better ways to acquire knowledge.\n\n🧠 Out-Think by challenging assumptions and reinventing problem formulations.\n\n🎨 Out-Design solutions that conventional approaches cannot reach.\n\n♟️ Out-Strategise by inventing fundamentally better strategies.\n\n⚡ Out-Execute through computer use, turning discoveries into real-world results.\n\n♾️ Out-Evolve by learning which transformations actually work—and improving how future transformations are discovered.\n\nThis is the vision connecting our open-source ecosystem:\n\nAGI Alpha Agent guides discovery and development.\n\nAGI Jobs enables the commissioning and verification of meaningful work.\n\nAGI Fleet provides the infrastructure for qualified execution and independent review.\n\nTogether, we're working toward a future where people can discover their Alpha, develop increasingly capable AI successors, and participate in the enormous economic opportunities created by intelligent digital work.\n\nBut the most exciting opportunity goes beyond today's work.\n\nWhy compete for a larger share of the existing economy when transformational intelligence could help humanity invent entirely new industries, capabilities, and sources of prosperity?\n\nOur new paper establishes a research framework for that ambition, including how to distinguish genuine breakthroughs from changes that merely make evaluation easier.\n\nIt is a research agenda—not a claim that general transformational intelligence has already been achieved.\n\n📄 Read our paper:\n\nhttps://t.co/FhuXNkUED0\n\n🌐 Explore our flagship:\n\nhttps://t.co/pM6lkTQRlO\n\nThe mission is not simply to build AI that does what humans do—faster.\n\nIt is to build intelligence that helps humanity discover what was previously unimaginable.\n\nFind your Alpha. Build your SUCCESSOR Ω.\n\nDon't just play the game. Transform what's possible. 🌌♾️\n\nsolana:tWKHzXd5PRmxTF5cMfJkm2Ua3TcjwNNoSRUqx6Apump #AGIALPHA #TransformationalIntelligence #Superintelligence #AGI #ArtificialIntelligence #MontrealAI",
+    "createdAt": "Mon Oct 19 14:53:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1098330,
+      "friendsCount": 64,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2112184650055720960/vid/avc1/1280x720/Vp311qKMWhl-3FYI.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2112191307016003881",
+    "fullText": "Jean-Denis Greze was CTO of Plaid. His next startup, an AI tax product for small businesses, brought in nearly $1M in revenue its first year, and he projected $2.5 to $3M the next. He shut it down anyway.\n\nThe reason: in the age of AI, it was never going to be venture scale. Incumbents could use the same technology to automate tax prep for their existing customers faster than a startup could win market share. Tax is also sold once a year, so he had about a one-month window to pivot before the door closed.\n\nThe pivot became Town, an AI assistant that works from your email and calendar. It found product-market fit fast enough that Ben Horowitz messaged a16z's Alex Rampell to say it \"changed my life.\"\n\nIn this conversation, Alex and Jean-Denis cover:\n\n- How to know when to kill a business that's working on paper\n- Why Town competes with OpenAI and Anthropic, the companies it buys its tokens from\n- Why the \"forward deployed engineer\" model gets worse as AI gets better\n- How a $1/month AI routine can save a restaurant thousands\n- What agents mean for Amazon, advertising and the future of shopping\n\n0:57 How Ben Horowitz discovered Town\n2:20 Why Town started with AI tax prep\n3:55 Why tax couldn't be venture scale\n6:30 Shutting down a working business\n10:24 The customer ask that became Town\n13:35 Why Town built for users before IT\n16:18 AI's iPhone moment at work\n21:28 Jevons paradox for executive assistants\n23:13 Town as a \"token allocation machine\"\n28:00 How Town tailors itself to each job\n34:03 Competing with your token suppliers\n42:24 Staying off the AI labs' radar\n44:42 Why AI isn't spreading evenly yet\n52:32 How agents break the ad model\n55:35 The friction humans actually enjoy\n57:05 Why supply aggregators lose to agents\n\nYouTube: https://t.co/UzKrI8Mvbe\n\n@jgreze @TownAI @arampell",
+    "createdAt": "Mon Oct 19 14:37:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 56347,
+      "friendsCount": 2390,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU_-ml-WcAAft5U.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2112188820091228550",
+    "fullText": "Side by side, 2030 AI infrastructure revenue hurdles from Goldman Sachs, Bernstein &amp; Cummings, Van Nieuwerburgh – and our own at @ExponentialView. \n\nWe explain why our 2030 revenue expectations diverge from consensus here: https://t.co/xVRqFRblMz https://t.co/AeOaUJKvH6",
+    "createdAt": "Mon Oct 19 14:27:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12190,
+      "friendsCount": 1408,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU_-q-mXQAA1dkT.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2112186840103223510",
+    "fullText": "As a teenager in the 90s I thought my fave BBS door game, \"Operation Overkill: II\" would be awesome as a NES console RPG\n\nThanks to Claude Code, we now have what might be the first ever BBS to NES game port :)\n\nhttps://t.co/WrZJgPV8k9 https://t.co/6jE55ryzkn",
+    "createdAt": "Mon Oct 19 14:19:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 305969,
+      "friendsCount": 8540,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2112186724466016582",
+    "fullText": "Bad marketers want to sell you their own dream.\n\nGood marketers want to sell you your own.",
+    "createdAt": "Mon Oct 19 14:18:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1554511506976509952/j0ZcQgnB_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12190,
+      "friendsCount": 1408,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU_5X89WMAEnnDW.jpg",
+      "https://pbs.twimg.com/media/HU_5ZUEW8AAJCjS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2112181027518967922",
+    "fullText": "If you're feeling spooky and you love Katamari Damacy, check out the Halloween-flavored clone I cooked up that you can play in your browser\n\nHalloween Roll-Up 2026: https://t.co/omOMAYDIjG\n\nIt's multiplayer and online! https://t.co/H5OfXsRo5L",
+    "createdAt": "Mon Oct 19 13:56:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 456767,
+      "friendsCount": 610,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2112180730914836480/vid/avc1/1920x1080/LwdfmplfqC5AvtgN.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2112180812624085230",
+    "fullText": "November 3rd — Forge '26 — San Francisco.\n\nThis is probably one of the biggest AI events in the world.\n\nNVIDIA's Jensen Huang and DHH are hosting fireside chats. @FireworksAI_HQ's CEO, Lin Qiao, is doing the keynote.\n\nThe event is free, but you need to apply to attend.\n\nImpossible to summarize everything you'll get out of this day, but in short, this is the time and place to learn how the best teams in the world choose their models, design evals, serve them, and route requests.\n\nYou'll learn about what worked, what failed, and how those decisions affected quality, latency, and cost.\n\nTo send an application and get a free ticket, use this link:\nhttps://t.co/RgJmCPT1p7\n\nThanks to the Fireworks team for partnering with me on this post.",
+    "createdAt": "Mon Oct 19 13:55:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 105911,
+      "friendsCount": 954,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2112150477123043514",
+    "fullText": "Trying to use the models for things outside of coding / ml, like making slides or coherent plans or longish content design, makes me feel the AGI-is-going-to-take-a-while.",
+    "createdAt": "Mon Oct 19 11:54:50 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Kling_ai",
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
@@ -779,8 +1357,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 72945,
-      "friendsCount": 36910,
+      "followersCount": 72951,
+      "friendsCount": 36907,
       "location": "latent space"
     },
     "images": [
