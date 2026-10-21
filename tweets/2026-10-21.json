@@ -1,6 +1,298 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 306016,
+      "friendsCount": 8547,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVLHQF3WAAAHgEi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2112970258881380693",
+    "fullText": "As a solopreneur I’m used to wearing many hats. https://t.co/S5bKTUFVdy",
+    "createdAt": "Wed Oct 21 18:12:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 135438,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVLFWS4bwAE6nCL.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2112968165680640143",
+    "fullText": "We love papers that go deeper down the stack.\n\nThis is a good example that shifts from agentic context engineering to agentic cache engineering.\n\nThey also apply recursive self-improvement to cache policies to further reduce cost by 7.1% over expert design.\n\nSpecifically, this work focuses on KV cache management in long-running agents.\n\nWhen an agent summarizes or trims its history, the prefix change invalidates the cache after it, and the retained context must be prefilled again.\n\nCache engineering gives the agent two operations on its own KV cache. One removes entries from future attention, and the other shifts the positions of the keys that remain. The trajectory text stays unchanged. This essentially provides a programmable interface for agents to define and refine their own cache engineering strategies.\n\nA rolling drop of old tool responses scores 1.7 points higher and costs 27.7% less than threshold-triggered summarization. Their AKV serving engine adds up to 1.2x throughput and 1.5x faster P95 latency.\n\nhttps://t.co/fks8lJ46P3\n\nChat with Paper: https://t.co/wnCyl6Oxqi",
+    "createdAt": "Wed Oct 21 18:04:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1827803,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2112966949273801086",
+    "fullText": "Anthropic is a Public Benefit Corporation. Today, we’re publishing our annual Public Benefit Report. This report shares our five pillars and takes stock of the actions we’re taking to advance them. \n\nRead the full report at this page: https://t.co/MTCgtzCoPH",
+    "createdAt": "Wed Oct 21 17:59:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 73008,
+      "friendsCount": 36934,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVLBJ36WwAA9uwu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2112963556584902940",
+    "fullText": "👋 @bfl_ai + @SereactAI https://t.co/XdNMc8nILF",
+    "createdAt": "Wed Oct 21 17:45:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2112907783834083328/V7QuDue9_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12231,
+      "friendsCount": 1422,
+      "location": "Raleigh, NC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2112963516538015784",
+    "fullText": "People don’t realize how easy it is to overstate things on X if you frame them in absolute terms. EVERYTHING on X is this way",
+    "createdAt": "Wed Oct 21 17:45:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 463357,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVLAE_EXwAAyG40.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2112962753682198969",
+    "fullText": "We built ChatGPT’s ad stack to respond to an evolving conversation, while ensuring answers stay independent.\n\nHere’s how the LLM orchestrator, retrieval, ranking  and auction tools work together. https://t.co/oho0jXkfiQ",
+    "createdAt": "Wed Oct 21 17:42:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149211,
+      "friendsCount": 5539,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVK_w9LWUAEiiok.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2112962028289524109",
+    "fullText": "🔬 A scientific instrument gives you a distorted measurement.\n\nThe usual solution? Build a smarter AI to identify the interference and correct the result.\n\nOur solution? INVENT a better experiment that cancels the interference in just FOUR carefully designed readings.\n\nNo need to reconstruct the unknown interference.\n\nNo need to explain every distortion.\n\nChange the experiment. Change what intelligence needs to know.\n\n🌌 Introducing our new research paper:\n\n♾️ OUT-LEARN 📚\nCHANGE WHAT YOU NEED TO KNOW.\n\nPart of our TRANSFORMATIONAL INTELLIGENCE ∞ research programme at https://t.co/dCKMr5Lici.\n\nHere's what we actually developed:\n\n⚡ Four carefully timed measurements.\n\n⚡ A precise sequence of polarity reversals.\n\n⚡ Mathematically derived weights that cancel constant, linear, and quadratic interference—even when its unknown coefficients change between experiments.\n\n⚡ Reference calibration to learn the instrument gain that remains necessary.\n\n⚡ A sharp mathematical accuracy guarantee establishing the best achievable error under the stated measurement assumptions.\n\nThe result?\n\nA reusable experimental capability that makes an entire class of interference parameters unnecessary to estimate.\n\nWe develop and verify this construction through mathematical proofs and reproducible synthetic experiments. Physical qualification remains a separate step.\n\nBut the bigger idea goes far beyond this example.\n\nWhat if the most powerful way to make intelligence more effective isn't to give it more information—but to INVENT capabilities that reduce how much information it needs?\n\nImagine:\n\n🧠 AI that doesn't just learn faster—but invents better ways to learn.\n\n🔬 Scientific discovery that doesn't just answer questions—but creates instruments that make new questions answerable.\n\n⚡ Engineering that doesn't just optimize existing systems—but redesigns them to make entire classes of problems easier.\n\n♾️ Intelligence that doesn't just produce the next breakthrough—but constructs capabilities that enable generations of breakthroughs.\n\nTHIS IS TRANSFORMATIONAL INTELLIGENCE ∞.\n\nNot merely getting better at playing the existing game.\n\nChanging the game itself.\n\nAnd that's the vision behind:\n\n🚀 FIND YOUR ALPHA. BUILD YOUR SUCCESSOR Ω.\n\nSUCCESSOR Ω seeks to discover and construct capabilities from which entire families of discoveries and businesses can grow.\n\nBecause the most consequential output of intelligence may not be another answer.\n\nIt may be an invention that changes what everyone can discover next.\n\n📖 READ OUR NEW PAPER — OUT-LEARN 📚\nhttps://t.co/bBPFZEtdqF\n\n🌌 EXPLORE SUCCESSOR Ω — https://t.co/dCKMr5Lici\nhttps://t.co/N3LU7jQIMu\n\n💫 A question for scientists, researchers, engineers, and AI builders everywhere:\n\nWhat's the hardest problem in your field that could become dramatically easier if we reinvented HOW we investigate it?\n\nDon't just learn more. Invent what makes the next discovery possible. ♾️✨\n\nsolana:tWKHzXd5PRmxTF5cMfJkm2Ua3TcjwNNoSRUqx6Apump #TransformationalIntelligence #OutLearn #SUCCESSOR #ScientificDiscovery #ArtificialIntelligence",
+    "createdAt": "Wed Oct 21 17:39:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 163740,
+      "friendsCount": 3409,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2112961208034959623",
+    "fullText": "https://t.co/X5dUTd3NMG",
+    "createdAt": "Wed Oct 21 17:36:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 106179,
+      "friendsCount": 954,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVK-x4tWwAAI2LF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2112960942078107960",
+    "fullText": "Finally got to put together a complete deck on the state of open models.\nWhat they are, licenses, how competitive they are, signs people are using them, distillation's impact, and how we balance the risks and benefits of openness!\nWill record a video lecture of these soon, and hopefully re-do them a few times a year.",
+    "createdAt": "Wed Oct 21 17:35:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 421700,
+      "friendsCount": 920,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2112951420454322177/vid/avc1/1920x1080/xautu6e2jUcU1D9A.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2112959600739676548",
+    "fullText": "We're at the cusp of seeing the first $10 trillion company. \n\nMy full thoughts on @SpaceX earnings call with @SquawkStreet. https://t.co/Bpr3L8GLzq",
+    "createdAt": "Wed Oct 21 17:30:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 93318,
+      "friendsCount": 5500,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2112953122486366529",
+    "fullText": "we went live! don't miss out on Nemotron demos 💚\nhttps://t.co/JQ8hCEnGwI",
+    "createdAt": "Wed Oct 21 17:04:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1827803,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2112946750264676743",
+    "fullText": "Dr. Christopher Stubbs is joining our Long-Term Benefit Trust. Chris is an experimental physicist and a former Dean of Science at Harvard University. He has also advised the US government on national security and arms control.\n\nRead more: https://t.co/8RzH8UujRU",
+    "createdAt": "Wed Oct 21 16:38:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 137990,
+      "friendsCount": 554,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVKxZ72XUAA051O.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kling_ai/status/2112946255257084260",
+    "fullText": "KLING 4.0 API — Officially Rolling Out Now\n\nIntegrate Kling 4.0 into your products and workflows. Let’s build. 🚀 #Kling4 #KlingAI",
+    "createdAt": "Wed Oct 21 16:36:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "RichardSocher",
+      "name": "Richard Socher",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1232361282759610368/YYxndVmI_normal.jpg",
+      "description": "Building self-improving superintelligence\nCEO @recursive_si and @youdotcom\nMP @aixventuresHQ\nEx: Stanford Adj Prof, Chief Scientist at Salesforce, CEO MetaMind",
+      "followersCount": 124898,
+      "friendsCount": 1172,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2112941750809419776/vid/avc1/3840x2160/OjycwsU9wNo0PMbi.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/RichardSocher/status/2112944385415426249",
+    "fullText": "Introducing Flint, @Recursive_SI’s first model: a fast local coding model built with our automated research system, the Eureka Machine.\n\n• Best-in-class fast local coding\n• Up to 2x faster than comparable models: 125+ tokens/sec on a MacBook Pro, 150+ on RTX Spark\n• Built from scratch in under 4 months\n\nPrivate, unmetered intelligence on your own machine. Open weights available now on @huggingface, run it locally on your favorite framework or try it for free on @opencode or @pidotdev.",
+    "createdAt": "Wed Oct 21 16:29:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "wintonARK",
+      "name": "Brett Winton",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600714802925486080/slXUxK2X_normal.jpg",
+      "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+      "followersCount": 215995,
+      "friendsCount": 597,
+      "location": "Venice, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wintonARK/status/2112942440248484222",
+    "fullText": "on spaceX vs Tesla\nvery crudely:\n\nrobotaxi is a bigger opportunity than starlink\n\nbut orbital compute is a *much* bigger opportunity than robotaxi\n\nand optimus requires more baking time than orbital compute \n\nand Optimus's success is predicated on access to gobsmacking amounts of superintelligence\n\nOn our modeling, compared against the no merger case, even if merged at the current share price ratio Tesla shareholders would be ~1.6x better off in 2031 while SpaceX shareholders would be ~2x better off.\n\nOn a longer timeframe (2036) Tesla shareholders would be ~5x better off having merged whereas SpaceX shareholders should be more indifferent ~1.3x better off.\n\nSo the fair premium depends heavily on your timeframe. On longer time horizons SpaceX shareholders should be asking for a discount. On shorter time horizons Tesla shareholders should be asking for a premium. \n\nBut everyone is better off with a merged entity.\n\nA 30% premium paid on Tesla's share price to day would effectively split the difference on the 2031 time frame; Tesla acquired at a 50% discount would equilibreate return differentials on the 2036 time horizon.",
+    "createdAt": "Wed Oct 21 16:21:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 306016,
+      "friendsCount": 8547,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVKcVIvXQAEPfcs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2112923069845066093",
+    "fullText": "Never seen anything more accurate. https://t.co/yRokzcmfBl",
+    "createdAt": "Wed Oct 21 15:04:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "(mer-veh) open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗 https://t.co/MhrMkGTm7p",
+      "followersCount": 93318,
+      "friendsCount": 5500,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2112922915859501194",
+    "fullText": "6.10 PM today me and Joe Nemotron @llm_wizard  go live to talk about local AI 🥵\nthere will be a Nemotron demo at @NVIDIAAI 💚\n\ntune in not to miss!",
+    "createdAt": "Wed Oct 21 15:04:14 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
@@ -2029,6 +2321,24 @@
     "tweetUrl": "https://x.com/KirkDBorne/status/2112668365865337075",
     "fullText": "Expert Data Modeling with Power BI — Enrich and optimize your data models to get the best out of Power BI for reporting and business needs: https://t.co/zSyeg62xQ7 https://t.co/s99cb2frnN",
     "createdAt": "Tue Oct 20 22:12:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 354524,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2112619910056603648/pu/vid/avc1/1280x720/wdXaTsq11FOJaMCK.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2112621120906047550",
+    "fullText": "🚀Build your AI engineering skills at AI Dev NYC: knowledge graphs, agent memory, harnesses, self-improving agents, inference and security. Plus a fireside chat with Andrew Ng and Yann LeCun on world models.\n\n📅Nov 30–Dec 1 · Chelsea Piers, NYC\n\nhttps://t.co/wkWcCNtVBz https://t.co/1uK2cxR9dQ",
+    "createdAt": "Tue Oct 20 19:05:00 +0000 2026"
   },
   {
     "user": {
