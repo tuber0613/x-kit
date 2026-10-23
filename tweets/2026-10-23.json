@@ -1,11 +1,261 @@
 [
   {
     "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 271162,
+      "friendsCount": 206,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2113636927664484512",
+    "fullText": "The best of Interrupt, now on demand.\n\nAccess our archive today and start watching our sessions from Interrupt San Francisco, NYC, and London. https://t.co/hL8WUWHbjG",
+    "createdAt": "Fri Oct 23 14:21:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodside",
+      "name": "Riley Goodside",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
+      "description": "Mostly screenshots of chatbots.\nFormerly: Google DeepMind, Scale.",
+      "followersCount": 235861,
+      "friendsCount": 3607,
+      "location": "Virginia, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goodside/status/2113636472662409279",
+    "fullText": "Things just keep getting more Pantheon.",
+    "createdAt": "Fri Oct 23 14:19:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 325807,
+      "friendsCount": 1311,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVUkV3ubMAENLbG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2113635562578178147",
+    "fullText": "RAG is so back!\n\nThis work shows that plain RAG over raw chat history beats complex agentic memory systems on most long-term memory benchmarks.\n\n(bookmark it)\n\nThey tested Raw-RAG, which is just dense retrieval plus reranking over the raw conversation, feeding a reader LLM.\n\nAcross LoCoMo, LongMemEval, MEME and MemoryAgentBench, it ranks first in six of seven benchmark and model settings, ahead of the strongest agentic memory system by 0.13 to 5.53 points. Ingestion on BEAM-1M takes 0.3 hours, against 3.2 to 27 hours for systems like Mem0, MemOS and Memora.\n\nWhy does it hold up? Raw history keeps more of the evidence a question needs, including the relations and dependency paths behind an answer. Rewriting history into memory entries tends to drop those important bits.\n\nEven with complete access to the transformed memory stores, models answer less accurately than with raw evidence.\n\nBefore adding a memory layer to your agent, at least run this baseline on your own data.\n\nhttps://t.co/4Fw1at4whN\n\nChat with Paper: https://t.co/XJyaqjw0LE",
+    "createdAt": "Fri Oct 23 14:16:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 457142,
+      "friendsCount": 614,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2113627432360231103",
+    "fullText": "Here is the GitHub link: https://t.co/Koa3BkuAeZ\n\nAnd here is the website: https://t.co/LISmNjoyf4",
+    "createdAt": "Fri Oct 23 13:43:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 457142,
+      "friendsCount": 614,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2113626999592009728/vid/avc1/1920x1080/kymXwDbbba0zzUgR.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2113627134917066993",
+    "fullText": "Your agent sucks at searching the web. I don't care what prompt you are using; you are just getting mediocre results.\n\nHere is how you can fix it. https://t.co/qi50rcyjLC",
+    "createdAt": "Fri Oct 23 13:42:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1833362,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2113626655902126442",
+    "fullText": "In August, @AISecurityInst reported an incident where Claude Mythos 5 took unauthorized actions on the internet during AISI’s testing of its cyber capabilities.\n\nWe've now produced a further analysis of this incident, to better understand the model's alignment properties.\n\nhttps://t.co/SlPQQ5xMMc",
+    "createdAt": "Fri Oct 23 13:40:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149201,
+      "friendsCount": 5542,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2113621475727151548",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Fri Oct 23 13:20:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Starting something new. Past: CEO & Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 451014,
+      "friendsCount": 713,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2113620145373598145",
+    "fullText": "It does not seem like pacing or pausing can work. \n\nThe only practical path is significantly accelerating. We must be so far ahead as a nation on both capabilities and alignment that by the time others catch up, our version of super intelligence can defend us.\n\nOne reason sweeping your systems isn’t enough for vulnerabilities right now is because hardly anyone will also sweep every single package and the packages inside those packages.\n\nAre you really going to sweep all of Python? Ubuntu? Every module?\n\nShouldn’t all these organizations had access to the best cyber models ahead of time? \n\nWell it doesn’t matter. These hackers are using frontier harnesses, tools, and multiple models (open and closed) to get frontier exploit finding tools.\n\nWe should’ve to accelerated building 0 day tooling to defend ourselves.",
+    "createdAt": "Fri Oct 23 13:14:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 457142,
+      "friendsCount": 614,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2113610137873285147",
+    "fullText": "Stay safe online.\n\nHere is what I do:\n\n1. I use a password manager (Passwords, which comes preinstalled on Apple's ecosystem)\n\n2. I have 2FA enabled everywhere.\n\n3. If the site supports hardware keys, that's what I use. I have 3 YubiKeys 5C. I keep them in different locations. These keys are a bit more inconvenient, but they make it 1000x harder for anyone in the world to access your stuff.\n\n4. If there is no hardware key support, I enable Passkeys and store them on my computer or phone.\n\n5. I do not send authentication codes via text messages unless there's no other alternative to enable 2FA. SMS codes are vulnerable to SIM swapping and interception.\n\n6. My iPhone uses an alphanumeric password. This is much better than a simple 6-digit PIN.\n\n7. I also use a long, complex password on my laptop. It's inconvenient, but if someone steals it, they'll have a hard time breaking in.\n\n8. I enabled Number Lock and SIM Protection with my phone carrier so hackers can't swap my SIM or steal my phone number.\n\n9. I enabled Stolen Device Protection on my iPhone.\n\n10. I have full disk encryption on every device that supports it (starting with my laptop and phone).\n\n11. I have automatic updates enabled on my computers and my phone. I never skip an update, and also update the browser every time I get the notification.\n\n12. I check every critical account every 3 months and make sure security is updated. Critical accounts are your bank, email, social media, and investment accounts. I make sure I don't have old emails, 2FA using SMS, etc.",
+    "createdAt": "Fri Oct 23 12:35:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 138065,
+      "friendsCount": 554,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2113532605958168576/vid/avc1/1920x1080/Qrv9UK7OSqPYy-ZM.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2113601348881002731",
+    "fullText": "Discover how creators are bringing cinematic visions to life with Kling 4.0, capturing lifelike details and the beauty, complexity, and emotion of everyday life. https://t.co/wKxF7OCsb3",
+    "createdAt": "Fri Oct 23 12:00:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310675,
+      "friendsCount": 8556,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2113599180778164649",
+    "fullText": "Real Internet has never been tried.",
+    "createdAt": "Fri Oct 23 11:51:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/tTzeqS2PkF. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14529,
+      "friendsCount": 15216,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2113588242482417825",
+    "fullText": "The most important model of 2027 will the one which most accurately simulates the effects of a given molecule on human body.",
+    "createdAt": "Fri Oct 23 11:08:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 73068,
+      "friendsCount": 36938,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2113444783569965056/vid/avc1/1080x1920/ut-xTxKwodtQVdN0.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2113586235998355785",
+    "fullText": "AI can accelerate research and still leave the hardest part unfinished.\n\nAlasdair Russell from @Cambridge_Uni on why the last 20% becomes the bottleneck, recorded at @raais in June 2026, with fresh context below! https://t.co/PZl5jQgfLZ",
+    "createdAt": "Fri Oct 23 11:00:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310675,
+      "friendsCount": 8556,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2113585329919643880",
+    "fullText": "The only thing that stops a bad guy with an abliterated LLM is a good guy with an abliterated LLM.",
+    "createdAt": "Fri Oct 23 10:56:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310675,
+      "friendsCount": 8556,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVTs1H0XAAAUFjP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2113574524897685738",
+    "fullText": "Brace yourself - cybersecurity winter is coming. https://t.co/3FVPiGQHGs",
+    "createdAt": "Fri Oct 23 10:13:29 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-      "followersCount": 181928,
+      "followersCount": 181945,
       "friendsCount": 1312,
       "location": ""
     },
@@ -23,7 +273,7 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 73051,
+      "followersCount": 73068,
       "friendsCount": 36938,
       "location": "latent space"
     },
@@ -41,7 +291,7 @@
       "name": "AIGCLINK",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
       "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
-      "followersCount": 38143,
+      "followersCount": 38142,
       "friendsCount": 2028,
       "location": ""
     },
@@ -59,7 +309,7 @@
       "name": "Yi Ma",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
       "description": "Chair Professor of AI, Hong Kong University\nPursuing a Mathematical Theory of Intelligence:\nhttps://t.co/leZlkUQDhL",
-      "followersCount": 128531,
+      "followersCount": 128550,
       "friendsCount": 838,
       "location": "Hong Kong and Berkeley"
     },
@@ -80,7 +330,7 @@
       "name": "MiniMax Design (H3)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2086821620228980736/JzAOUvuf_normal.jpg",
       "description": "Discord: https://t.co/vPihZSqbU8\nINS: https://t.co/koyDATq9CZ\nCreator Partnership Program(CPP): https://t.co/KLDCVOlk92",
-      "followersCount": 83033,
+      "followersCount": 83047,
       "friendsCount": 693,
       "location": "San Francisco"
     },
@@ -1247,5 +1497,23 @@
     "tweetUrl": "https://x.com/ruima/status/2113336004673524031",
     "fullText": "Saw the head of McKinsey China post this on LinkedIn today, quoting a former Google executive. I think it depends on the sector, but in most areas of tech, it feels like it's less than 10%\n\n“Westerners have about 10 percent of the knowledge of China that Chinese people have about the West.”",
     "createdAt": "Thu Oct 22 18:25:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 106459,
+      "friendsCount": 956,
+      "location": "Cambridge, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVK-x4tWwAAI2LF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2112960942078107960",
+    "fullText": "Finally got to put together a complete deck on the state of open models.\nWhat they are, licenses, how competitive they are, signs people are using them, distillation's impact, and how we balance the risks and benefits of openness!\nWill record a video lecture of these soon, and hopefully re-do them a few times a year.",
+    "createdAt": "Wed Oct 21 17:35:20 +0000 2026"
   }
 ]
