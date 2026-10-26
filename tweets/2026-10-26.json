@@ -1,6 +1,453 @@
 [
   {
     "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 271627,
+      "friendsCount": 206,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2114708610127106048/vid/avc1/1920x1080/o6HFznng6pC1AOAg.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2114734295818318107",
+    "fullText": "What’s new in Managed Deep Agents 0.9? And how can you get started?\n\nWatch @VictorMoreira16's keynote from Interrupt London for an inside look. https://t.co/cMWoYlj69f https://t.co/F059jHymSR",
+    "createdAt": "Mon Oct 26 15:02:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 495425,
+      "friendsCount": 3368,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVkLehVXQAAWI4_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2114734122509729975",
+    "fullText": "Math Makers - The Lives and Works of 50 Famous Mathematicians: https://t.co/ckC915MKNr\n\n\"The unusual behaviors and life circumstances of these intriguing personalities make for fascinating reading and a highly enjoyable introduction to mathematics.\" \n\nHT @oprydai ... the book \"shows how breakthroughs came from obsession, struggle, and curiosity; not just equations.\"",
+    "createdAt": "Mon Oct 26 15:01:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "RamaswmySridhar",
+      "name": "sridhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
+      "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
+      "followersCount": 36338,
+      "friendsCount": 626,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RamaswmySridhar/status/2114733584313639058",
+    "fullText": "we called them custom chatbots; now we need migration plans for their tools, permissions and users. \n\nat what point does a prompt quietly become an enterprise application?\n\nevals are the new sdlc\n\nhttps://t.co/U7R6U3DZLV",
+    "createdAt": "Mon Oct 26 14:59:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO @GauntletAI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 488001,
+      "friendsCount": 1669,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2114732510974546109",
+    "fullText": "Companies in Austin:\n\nMany of you have seen Gauntlet AI and asked if we could build a \"mini gauntlet\" for your existing engineers.\n\nWe've done that.\n\nTwo weeks of intensive training/building on-site at our downtown HQ.\n\nBring your real work.\n\nCall w/me: https://t.co/ZC3h5E8oZb",
+    "createdAt": "Mon Oct 26 14:54:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 326214,
+      "friendsCount": 1317,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVkJlH9bYAA8RaW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2114732037827662278",
+    "fullText": "Learn to build a custom harness, folks!\n\nThere is so much alpha in understanding how to optimize the harness.\n\nThis work shows the benefits of a smart harness configuration and caching the decisions your agent harness has already made.\n\n(bookmark it)\n\nThey propose HarnessMM, which cuts tokens per task on a DeepSeek harness from 96.28k to 11.62k while success rises from 71.43% to 85.71%.\n\nHarnesses often call the model again after tool feedback even when an earlier call already settled the next action. HarnessMM stores those settled decisions in an Executable Decision Graph with exact actions, arguments, dependencies, and guards. When the guard holds, the controller reuses the decision. Anything new goes back to the model.\n\nA recursive self-improvement (RSI) loop tunes the harness configuration from training feedback, and the model weights never change.\n\nWith Codex on HumanEval, success stays at 90.82%, and tokens per task drop 29.54%.\n\nBefore you pay for a bigger model, check how many of your harness calls repeat a decision the agent already made.\n\nPaper: https://t.co/HwRNalCUlm\n\nChat with Paper: https://t.co/DRJZBwHh9J",
+    "createdAt": "Mon Oct 26 14:53:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 536253,
+      "friendsCount": 3120,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HVkIdqjW8AA__AG.mp4"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2114730846426890689",
+    "fullText": "Building Auditable AI Text Detectors with Sparse Autoencoders\n\npaper: https://t.co/n3rM07EZ3B https://t.co/XuwyS1DMwf",
+    "createdAt": "Mon Oct 26 14:48:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 536253,
+      "friendsCount": 3120,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVkIKX5WwAAOoYx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2114730501626015880",
+    "fullText": "On-Policy Self-Training\n\nData-Free Self-Improvement in Large Language Models\n\npaper: https://t.co/Xce3fWH0es https://t.co/yxYVsuKOzh",
+    "createdAt": "Mon Oct 26 14:46:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 536253,
+      "friendsCount": 3120,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVkH5xmXkAAMoUQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2114730217562665324",
+    "fullText": "HiSTEVE 1.0\n\nHarnessing Human-Interface VLA Agents for Open-World Games\n\npaper: https://t.co/pcawKKPslv https://t.co/Mc5HWm5asq",
+    "createdAt": "Mon Oct 26 14:45:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 457211,
+      "friendsCount": 615,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2114728398820143104/vid/avc1/1920x1080/s9_sgj3NlcIP8k3Z.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2114728685668536668",
+    "fullText": "$1 million fund for tech funders who host their product on a .tech domain.\n\nYou don't need to give equity. No shares, no SAFE, no convertible, no board seat.\n\nThis is literally free money.\n\nHere are more details: https://t.co/RrDxGz53On",
+    "createdAt": "Mon Oct 26 14:39:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 98998,
+      "friendsCount": 1117,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVkGJbZXYAAwO2T.jpg",
+      "https://pbs.twimg.com/media/HVkGJm3XAAA43Di.jpg",
+      "https://pbs.twimg.com/media/HVkGJxrWEAEHN0b.jpg",
+      "https://pbs.twimg.com/media/HVkGJ7NXUAAGclS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/databricks/status/2114728270696468930",
+    "fullText": "What if agent memory didn’t need another sync pipeline?\n\nJoin @rxin, Databricks Co-founder and Chief Architect, to unpack the LTAP architecture for agentic apps:\n\n• Transactions + analytics read the same copy of data\n• Agent memory, application state + historical data share the same permissions\n• Runs on standard Postgres with existing drivers, extensions + ORMs\n\nRegister: https://t.co/7zo3Z6Mx5j",
+    "createdAt": "Mon Oct 26 14:38:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1102473,
+      "friendsCount": 64,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2114723515450720256/vid/avc1/1280x720/ixxC5jRIqAcTvIa8.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2114726804665798823",
+    "fullText": "OpenAI's computer-using agents can now operate almost any app the way a person does, clicking and typing through software that never got an API, and the team building them says they're close to beating expert humans on speed.\n\nAri Weinstein works on OpenAI's consumer computer use products, and James Sun works on the enterprise side. Both were startup founders before joining OpenAI.\n\nThey join a16z's Seema Amble and Fabrizio Serafini to discuss what OpenAI's Astra model changed for computer use, the controls enterprises need for agents they can no longer watch, why computer use works as a universal API for legacy ERPs and finance systems, and why they think cheap software will push UI to get better and more personal.\n\n0:50 What Astra changed for computer use\n3:23 Consumer vs. enterprise computer use\n5:43 How James runs his workday with Dots\n8:06 When computer use becomes superhuman\n10:01 How much autonomy to give agents\n11:36 What agents mean for ad-supported sites\n13:51 Computer use as the universal API\n17:21 Getting enterprises to trust agents\n20:22 Why the best use cases are the boring ones\n25:37 Why UI isn't going away\n32:38 Advice for founders building on agents\n37:31 Making computer use feel coherent\n40:57 Computer use's scaling moment\n\nYouTube: https://t.co/Au9RQgUh6x\n\n@AriX @JamesZmSun @OpenAI @seema_amble @fabserafini",
+    "createdAt": "Mon Oct 26 14:32:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 495425,
+      "friendsCount": 3368,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVkDBEtXIAA4wCq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2114724820747538816",
+    "fullText": "Explore this fun website that provides a comprehensive listing of fascinating numbers…\n\nWhat's Special About This Number?\nhttps://t.co/dJCe8lYb0H\n————\n#Mathematics #Math https://t.co/Mr2ZciUGVd",
+    "createdAt": "Mon Oct 26 14:24:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 422055,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2114723384122630144/vid/avc1/1920x1080/T-_d__EIOB5s5UE-.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2114724198861922701",
+    "fullText": "SpaceX keeps proving it's more than a rocket company. AI is now its largest business, with 830% revenue growth in a year, $20 billion in quarterly data center spending, and Elon says he could bring 20 gigawatts of compute online next year. Meanwhile, OpenAI’s own agents are switching off their safety monitors and lying about it, and a San Francisco startup is turning mercury into gold.\n\n-- AI found critical flaws hiding for a decade in PHP, the language running 70% of all websites\n\n-- Anthropic’s Claude designed 318,000 anti-venom proteins in 64 hours,  built by IT analysts, not biologists\n\n-- SpaceX-Tesla merger odds jumped from 29% to 56% on prediction markets\n\n-- AI-designed molecular scissors cut a protein 30 million times faster than nature",
+    "createdAt": "Mon Oct 26 14:21:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 326214,
+      "friendsCount": 1317,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2114719919057060210",
+    "fullText": "https://t.co/tXueUSii14",
+    "createdAt": "Mon Oct 26 14:04:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 495425,
+      "friendsCount": 3368,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVj-jF5WoAENh2q.jpg",
+      "https://pbs.twimg.com/media/HVj-jF1W0AAuS_S.jpg",
+      "https://pbs.twimg.com/media/HVj-jF6XQAAtLYY.jpg",
+      "https://pbs.twimg.com/media/HVj-jF2XIAA3_bV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2114719906637779270",
+    "fullText": "Textbooks in Number Theory:\n1) https://t.co/Y9Z5bLNUEN\n2) https://t.co/SVxnAqIACi\n3) https://t.co/f7oW0EovZf\n4) https://t.co/apszYPsKRS\n5) Bonus: All the Math You Missed, But Need to Know for Graduate School: https://t.co/PCfkNWbQa1\n————\n#Mathematics https://t.co/IfRzhlti3X",
+    "createdAt": "Mon Oct 26 14:04:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 495425,
+      "friendsCount": 3368,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVj-GbvWEAEaI04.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2114719414364869011",
+    "fullText": "Chaos Theory Made Simple — A Plain-English Beginner's Guide to Chaos Theory and Complex Systems, the Butterfly Effect, and How Connected Things Really Work: https://t.co/Iu6ChyFOSP https://t.co/jWMyShBjLk",
+    "createdAt": "Mon Oct 26 14:02:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 495425,
+      "friendsCount": 3368,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVj9vmfXkAAGP6I.jpg",
+      "https://pbs.twimg.com/media/HVj9vmeXoAA6kWx.jpg",
+      "https://pbs.twimg.com/media/HVj9vmgWcAA80v5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2114719022121914715",
+    "fullText": "Build a Culture of Experimentation within your organization\n⬇️\nPractical Guide to A/B Testing: https://t.co/kE3Y8mOebf\n+\nDesigning with Data: https://t.co/wTMxeLweLL\n+\nThe Surprising Power of Business Experiments: https://t.co/p1FWPecgIF https://t.co/3TtefnM5Bq",
+    "createdAt": "Mon Oct 26 14:01:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 164388,
+      "friendsCount": 3417,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2114718968078647573",
+    "fullText": "savage timing from the cathedral team",
+    "createdAt": "Mon Oct 26 14:01:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 164388,
+      "friendsCount": 3417,
+      "location": "on ⛓"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVj81BCaEAAUkWN.jpg",
+      "https://pbs.twimg.com/media/HVj81BFasAAKF9M.jpg",
+      "https://pbs.twimg.com/media/HVj81BKagAAV5P2.jpg",
+      "https://pbs.twimg.com/media/HVj81BOawAA8KLT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2114718016286200111",
+    "fullText": "CONGRATS Anthropic on their S-1 filing! Unsurprising, but first observations: inflection in operating profit, strong emphasis on novel discovery/bio, mismatch b/w consumption based revenue and long term compute obligations, limited shareholder influence. a lot of case studies! https://t.co/tqBxz86L2S",
+    "createdAt": "Mon Oct 26 13:57:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 182272,
+      "friendsCount": 1312,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2114716867327918392",
+    "fullText": "又到了我的 AIGC Weekly 很多朋友续费的时间。今年因为 Quaily 有点问题，所以先推荐大家从小报童买了\n\n我也弄了一些 75 折的优惠券，有续费需求的话可以领一下。\n\n快到期的或者没到期的都可以领，反正时间是叠加的嘛。\n\n小报童的返利我也依然开着，如果有推荐给朋友买的可以试试，还能挣点小钱：\n\nhttps://t.co/b21nRHeRHz",
+    "createdAt": "Mon Oct 26 13:52:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 38154,
+      "friendsCount": 2031,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2114709437172838400/vid/avc1/1920x1080/EM2o3O4dfVrFMkRr.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2114715014422724854",
+    "fullText": "腾讯刚刚开源了一个实时同传模型：Hy-SimulMT，中英双向边听边译，流式延迟约3秒，部分测试中接近专业同传\n\n会议、演讲、直播、出海沟通等场景的完全可以搞起来了\n\n它的几个核心能力\n1、 流式同传，持续接收语音，说话人正在说的时候就能逐步输出译文，不是等整句话说完了再翻\n\n2、低延迟，StreamLAAL约为3秒\n\n3、实时音色克隆，能配合TTS实时生成目标语言语音，保留原说话人的声音特征\n\n相比传统分段式ASR—文本翻译—TTS流程，Hy-SimulMT 的优势在于针对连续语音输入优化同传决策，在尽量保证翻译质量的同时降低延迟，让模型能更好的判断什么时候翻、翻多少，以及如何处理还没听到的后文\n\n30B-A3B，提供BF16、FP8、GGUF权重，同时给出SimulInfer推理服务与SimulTrain训练链路\n\n#AI同传 #HySimulMT  #AI翻译",
+    "createdAt": "Mon Oct 26 13:45:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 254985,
+      "friendsCount": 7218,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVj1BCDXwAA5FRN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2114709426036748509",
+    "fullText": "This might be Generative AI’s make-or-break week; I discuss in a (paid, sorry) post at  https://t.co/UKhvk9v2yh https://t.co/KYf47bLeOm",
+    "createdAt": "Mon Oct 26 13:23:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO @GauntletAI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 488001,
+      "friendsCount": 1669,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2114708312981639244",
+    "fullText": "Another GrokBot template for you: The non-evil sales bot.\n Most sales tools are built to send spam, but I wanted the opposite: \n\nIt identifies buyers matching your ICP then mines your emails, texts, X, LinkedIn, etc. and finds your closest/warmest intro.\n\nhttps://t.co/GAk0sgx08X",
+    "createdAt": "Mon Oct 26 13:18:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1841457,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2114705042817110293",
+    "fullText": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/ofhv0DK3Zp\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.",
+    "createdAt": "Mon Oct 26 13:05:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 271627,
+      "friendsCount": 206,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVjwlZAWgAEB4WY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2114704552406483327",
+    "fullText": "On November 12th, we're teaming up with @tavilyai to showcase how production agents find, understand, and use information from the live web. \n\nRSVP for this NYC event: https://t.co/aA7L6r42Ms https://t.co/h68xlEn8Yk",
+    "createdAt": "Mon Oct 26 13:03:49 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "KirkDBorne",
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
