@@ -1,6 +1,382 @@
 [
   {
     "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO @GauntletAI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 488195,
+      "friendsCount": 1671,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2115183270547816831",
+    "fullText": "I’m presenting at Austin Startup Rodeo on the 30th.\n\nWho writes the code now? Talking about it Friday at AI Startup Rodeo in Austin. \n\nLimited free tickets for my followers + Gauntlet community: \n\nhttps://t.co/5S5LYjm0GY",
+    "createdAt": "Tue Oct 27 20:46:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 501838,
+      "friendsCount": 1574,
+      "location": "CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVqhghnXsAAS2Pu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2115181058815660449",
+    "fullText": "In the Stanford piracy case against Anthropic, the judge’s name is “Alsup” which sounds suspiciously close to “AI slop” when say it fast. https://t.co/hcuRaiQwJp",
+    "createdAt": "Tue Oct 27 20:37:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1847463,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2115178675050307942",
+    "fullText": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of drug development.\n\nIn this blog post, we share some early results from these efforts, and describe how this work fits in with our wider ambitions in the life sciences.\n\nhttps://t.co/EVbxkdDTgJ",
+    "createdAt": "Tue Oct 27 20:27:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 326433,
+      "friendsCount": 1332,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVqeA5ea4AA8z9Q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2115176716947833003",
+    "fullText": "Are decision models useful for reranking?\n\nThis new paper compares decision models with fine-tuned rerankers in a controlled experiment.\n\nBefore you replace your reranker with a general decision model, run your current reranker and the decision model on your own queries and compare their rankings.\n\nThe paper uses the same backbone model and the same candidate passages for every version it compares.\n\nThe authors tested six Qwen backbones from 0.6B to 27B.\n\nEvery version reranked the same BM25 top-100 candidates on ten collections. Five come from TREC DL 2019-2023, and five come from BEIR. They compared three versions of each backbone. The first is the untuned model asked zero-shot. The second is a decision fine-tune. The third is a plain reranker fine-tune.\n\nFrom 0.6B to 9B, the reranker fine-tune ranks better than the other two on every backbone by 5 to 29 points in nDCG@10. The gap is statistically significant on 48 of 60 comparisons. The reranker fine-tune also wins on collections that none of the fine-tunes were trained on.\n\nAt 27B, the reranker fine-tune and the decision fine-tune score about the same. No reranker fine-tune had been released at that size, so the authors trained one.\n\nUp to 9B, decision fine-tuning stays within 2.5 points below and 0.7 points above the untuned model asked the same question. Reranker fine-tuning adds 6 to 30 points.\n\nDecision models are mainly promoted for their calibrated probabilities. The paper shows that the decision models' calibration depends on how the question is worded. When asked whether a passage answers the query, decision models from 4B up are better calibrated than published reranker fine-tunes. With a slightly different question, taken from prior work, the decision models are no longer better calibrated.\n\nBetter calibration also does not fix the ranking. Up to 9B, a reranker fine-tune keeps better passages at a fixed threshold.\n\nhttps://t.co/yCgzhLgTul\n\nChat with Paper: https://t.co/TrODvdFW9n",
+    "createdAt": "Tue Oct 27 20:20:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310595,
+      "friendsCount": 8568,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVqcZwLXMAAScRg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2115174962877395416",
+    "fullText": "Seal of approval https://t.co/nz97biYm2Q",
+    "createdAt": "Tue Oct 27 20:13:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310595,
+      "friendsCount": 8568,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVqcWJBWkAAxdJt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2115174899744383057",
+    "fullText": "https://t.co/OM8sjzBvNk",
+    "createdAt": "Tue Oct 27 20:12:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5441925,
+      "friendsCount": 804,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2115174476589441450",
+    "fullText": "Took 14 yo to the Museum of Natural History and I think we saw everything in it. Even New York City Birds. We were in there for 5 hours. He really likes natural history.",
+    "createdAt": "Tue Oct 27 20:11:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Nano Banana, and more to over a billion people.",
+      "followersCount": 601815,
+      "friendsCount": 53,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115171418719883264/vid/avc1/1920x1080/pFmrthGOzeMg8qa-.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/GeminiApp/status/2115171788812669225",
+    "fullText": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.\n\nJust ask Gemini, “Is this AI generated?,\" so you can navigate the web with more confidence. https://t.co/Y8jeeJzunT",
+    "createdAt": "Tue Oct 27 20:00:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 422166,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2115171700228620316",
+    "fullText": "When someone tells me we shouldn't extend human life, I want to know which part they object to.\nAnother decade with someone you love?\nKeeping your independence?\nHaving time to start again?",
+    "createdAt": "Tue Oct 27 20:00:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5441925,
+      "friendsCount": 804,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2115169785084604880",
+    "fullText": "How NYC seems different from when I lived here in the 90s. Much richer and cleaner, lots of tall skinny new buildings, every sidewalk smells like weed.",
+    "createdAt": "Tue Oct 27 19:52:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 356223,
+      "friendsCount": 900,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115160016336687104/vid/avc1/1280x720/_GvvtVY-WGfY0h2Q.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2115168584351805628",
+    "fullText": "How do you assess cyclone risk beyond what a few decades of historical data can reveal?\n\n@AXA researchers are using NVIDIA Earth-2 to help fill that gap.\n\nUsing FourCastNet 3, one of Earth-2’s open, global weather forecasting models, the team generated more than 1,000 simulated cyclone seasons to study possible storm activity around the globe.\n\nThese simulations help researchers understand where cyclones travel, how often they occur, and how storms affect multiple regions within the same season. Those insights can inform AXA’s risk assessments and help customers target prevention efforts.\n\nLearn how AXA and other organizations are applying Earth-2 to weather forecasting, risk assessment, and environmental modeling: https://t.co/owcpGyQ6BE",
+    "createdAt": "Tue Oct 27 19:47:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 508278,
+      "friendsCount": 13997,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2115166671669461272",
+    "fullText": "honestly have no idea what frontier lab equity is worth; it seems highly plausible that huge top down slowdowns are coming, which would make frontier models uncompetitive. total nationalization also seems possible. anything could happen with this technology",
+    "createdAt": "Tue Oct 27 19:40:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",
+      "followersCount": 835545,
+      "friendsCount": 945,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115163203403669504/vid/avc1/720x1280/WhToDTN4r16HTtsT.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2115163339290783931",
+    "fullText": "how it feels to ride the subway and be disconnected from ur muse https://t.co/KKzCcm8CvF",
+    "createdAt": "Tue Oct 27 19:26:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "bengoertzel",
+      "name": "Ben Goertzel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1104599021660696576/4D5iBfAi_normal.png",
+      "description": "How can we best create beneficial AGI, ASI and Singularity for all sentient beings??  --  Founder/CEO @asi_alliance @singularitynet, BGI Foundry, etc. etc.",
+      "followersCount": 78779,
+      "friendsCount": 1705,
+      "location": "Vashon Island, WA, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bengoertzel/status/2115160872716992902",
+    "fullText": "Super-Crude Simulative Explorations of the Geometry of Superintelligence Space\n\n-- Some evocative if very simplistic toy-simulation results exploring dynamics of goal-sets under self-modification and intelligence increase\n\n-- Just trying to get a verrrry rough quantitative feel of the basin of attraction size/ shape for supermind attractors like \"selfish reward optimizer\", \"wirehead\", \"beneficial compassionate agent\", etc.\n\n-- There would also be ways to run more realistic/meaningful such simulations even without having actual supreintelligences on hand!\n\nhttps://t.co/jc76zk3Div",
+    "createdAt": "Tue Oct 27 19:17:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "RamaswmySridhar",
+      "name": "sridhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
+      "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
+      "followersCount": 36383,
+      "friendsCount": 626,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RamaswmySridhar/status/2115159261533929911",
+    "fullText": "1/16 the ai industry is making an unusual bet: buy compute for years, sell intelligence by the token. banks, commodity merchants, airlines, utilities and cloud providers each explain a different part of the risk.",
+    "createdAt": "Tue Oct 27 19:10:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 135892,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVqLwCGasAARfFN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2115156635954090345",
+    "fullText": "Must-read paper from Microsoft Research and Georgia Tech.\n\nThis one has lots of great insights.\n\nThey used 163,487 Reddit posts about AI agents and surveyed 73 experienced agent users to map how delegated agent work goes wrong.\n\nThe result is MANDATE, a taxonomy of 23 failure categories in seven groups. Each describes an agent that finishes the job in a way the user didn't expect.\n\nUsers rated the most severe failures as the hardest to notice.\n\nPeople who had already run into a failure found it easier to spot than people who only thought it was possible.\n\nThe most common failures are often the least studied.\n\nAgents that keep running and spend time and compute without making progress are among the most commonly reported failures, and they have the thinnest research base.\n\nhttps://t.co/UCgw7HZYfo\n\nChat with Paper: https://t.co/UDWpuOHsvu",
+    "createdAt": "Tue Oct 27 19:00:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 271834,
+      "friendsCount": 206,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115146331350056960/vid/avc1/1920x1080/sDoeoUovTRnP5Eeg.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2115156579498504576",
+    "fullText": "LangSmith now tracks cache hit rates for your agents 🦜\n\nCached LLM calls are cheaper and faster, so it's worth knowing how often your agent actually gets a hit.\n\n📊 View your agent's overall hit rate as a single stat\n🧵 Break it down thread by thread\n📈 Chart it over time with our dashboard templates\n\nTry it out today ➡️ https://t.co/NZbDhzp8xX",
+    "createdAt": "Tue Oct 27 19:00:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 99053,
+      "friendsCount": 1117,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115151044799852544/vid/avc1/1322x720/deG6oRM63Z_X3bii.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2115151060507488383",
+    "fullText": "Load billions of rows into Lakebase Postgres without competing with live application workloads.\n\nWith LTAP, Spark handles bulk loads on separate compute, keeping the primary focused on serving queries. https://t.co/rWYRdzPqwv https://t.co/J7lRBFetVU",
+    "createdAt": "Tue Oct 27 18:38:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 294829,
+      "friendsCount": 361,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115149357993377792/vid/avc1/1920x1080/Lxltckkdi0EwLkDF.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2115149695878402126",
+    "fullText": "If you can describe it, you can run it as a video ad.\n\nRunway Ads turns your creative direction into on-brand ads for every platform, then learns what wins and builds the ad to beat it.\n\nTeams like @Lovable already use Runway Ads to scale ad creative and cut production time. https://t.co/F7nqogoT6J",
+    "createdAt": "Tue Oct 27 18:32:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310595,
+      "friendsCount": 8568,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2115147215601651846",
+    "fullText": "Any moment now ...",
+    "createdAt": "Tue Oct 27 18:22:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1102949,
+      "friendsCount": 64,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115143996712620032/vid/avc1/1920x1080/AbkpKuaMglncb4qm.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2115144076958064974",
+    "fullText": "US construction productivity fell from 1970 to 2020 while the rest of the economy got more productive, and a 1-year-old startup called Unlimited Industries is trying to reverse that.\n\nUnlimited is managing $10 billion in data center and power plant projects, compressing design and engineering work that typically takes 18 months and 100,000 human hours into a single day.\n\nThe team has set out to do for construction what SpaceX did for launch and Anduril did for defense: question every assumption and build from first principles.\n\n\"We were better at building in the '60s, everything from power plants to houses and everything in the middle, than we are today. An era before we had computers, we were better at building stuff than we are now.\"\n\nCo-founder and CEO Alex Modon expects to 2-3x the team in the next 6 months.\n\nUnlimited is hiring founding roles across engineering, sales, supply chain, construction management, and recruiting, all in SF: https://t.co/M8sYOxXkCb\n\n@alexmodon @unltdindustries",
+    "createdAt": "Tue Oct 27 18:10:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 508278,
+      "friendsCount": 13997,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2115139423830724785",
+    "fullText": "\"we remember what you were saying in 2019. You have no credibility on this matter\"",
+    "createdAt": "Tue Oct 27 17:51:50 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "bentossell",
       "name": "Ben Tossell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1878086921726943233/vOx1kjeP_normal.jpg",
@@ -1724,8 +2100,8 @@
       "name": "Benj Edwards",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2112907783834083328/V7QuDue9_normal.jpg",
       "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
-      "followersCount": 12308,
-      "friendsCount": 1441,
+      "followersCount": 12315,
+      "friendsCount": 1442,
       "location": "Raleigh, NC"
     },
     "images": [
