@@ -1,6 +1,348 @@
 [
   {
     "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 73536,
+      "friendsCount": 37011,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115920711596318721/vid/avc1/1920x1080/6Ym4QVcR0YPrMxmc.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2115921037825085876",
+    "fullText": "on-device ai engine for games from @studioatelico, backed by @airstreet! \n\nwith the engine, you get language models, image generation, text-to-speech, speech-to-text, facial animation, semantic search, and a full np character behavior system\n\nall running locally, all under your creative control\n\nnative godot, unity, and unreal integration\n\nno cloud!",
+    "createdAt": "Thu Oct 29 21:37:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1354477,
+      "friendsCount": 2065,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2115920436399870078",
+    "fullText": "I don't own enough cyber security stocks.",
+    "createdAt": "Thu Oct 29 21:35:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 422329,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2115919346748837984",
+    "fullText": "I want to measure the AI revolution partly by how much it costs to build a life.\n\nCan you afford a home?\nRaise the children you want?\nGet healthcare?\nTake a chance on an idea?\n\nIf the technology keeps breaking records while those possibilities remain out of reach, we still have work to do.",
+    "createdAt": "Thu Oct 29 21:30:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
+      "description": "co-founder @HuggingFace - moonshots\n\nget your Microducks and Reachy Mini's at https://t.co/ovuIUzu5Ov",
+      "followersCount": 136290,
+      "friendsCount": 8010,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2115803649565671424/pu/vid/avc1/720x1280/PDUMZfXLZS4uvFCP.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/2115915072384192579",
+    "fullText": "give this robot an oscar https://t.co/EUSkp3SJfw",
+    "createdAt": "Thu Oct 29 21:13:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 272174,
+      "friendsCount": 206,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115863147181432832/vid/avc1/1920x1080/aeBgTEPU_2hLYjy0.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2115911558094000543",
+    "fullText": "LangSmith for Startups Spotlight: @PetualAI \n\n✅ Agents for internal audit and SOX teams at leading public companies and high-growth enterprises.\n\n✅ Use LangSmith within their engineering workflow to understand, improve, and validate the performance of their AI systems.\n\n🏢 Hiring across functions: https://t.co/FGVefrs7xZ",
+    "createdAt": "Thu Oct 29 21:00:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5487809,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2115896329645723836",
+    "fullText": "Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s attempt to access the live internet during training.\n\nSince the Hugging Face incident—when models broke out of an internal cybersecurity investigation where we weren’t running our misalignment monitors—we’ve substantially expanded our monitoring of frontier agents. We now monitor all frontier reinforcement learning runs and evaluations, as well as all internal Codex use. When our system finds evidence of a problem that might require intervention, it rapidly alerts human responders who can investigate and take action.\n\nTo detect when a model’s behavior departs from what we intended, we use several layers of monitoring. Activation probes look for patterns in a model’s internal activity. Reviewer models examine its reasoning and tool use, and investigative agents can read back through the model’s entire transcript to understand how a sequence of actions fits together and whether it warrants human review.\n\nTo test whether our current system would have detected the Hugging Face incident, we replayed the recorded activity with our new monitors in place. In the replay, our monitors alerted our security team about 30 minutes after the agents escaped their sandbox. That was more than 30 hours before the point at which the agents breached Hugging Face’s systems in the original incident.\n\nIn September, a model exploited a DNS misconfiguration to reach the live internet. Our monitors flagged the breach within 15 minutes, and a responder began reviewing the alert three minutes later. The alert enabled responders to investigate while the run was still underway.\n\nAs we give models more autonomy, we need to know when they cross a boundary we expected to hold. We believe that monitoring is essential to catching those failures in time for people to intervene. \nhttps://t.co/dIYP7B1GlD",
+    "createdAt": "Thu Oct 29 19:59:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 495600,
+      "friendsCount": 3368,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV0o7O9WMAEHcA_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2115892582635143377",
+    "fullText": "This is a real image! Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart: https://t.co/szuVAr9qCU\n\nRead more about it: https://t.co/2yFrunlvRK\n\nPress release: https://t.co/0EtStCB73Z https://t.co/La1fMzPCn1",
+    "createdAt": "Thu Oct 29 19:44:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 422329,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2115890482207207652",
+    "fullText": "New Moonshots pod episode is now live! Did you watch it? \nhttps://t.co/LksDaGBsGR",
+    "createdAt": "Thu Oct 29 19:36:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 136011,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV0lwpEa0AAqnAr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2115888920860958961",
+    "fullText": "Impressive NVIDIA paper on cutting agent costs.\n\nFor long-horizon agent tasks, you want the capable model for the early steps and a cheaper model for the rest. Handing off in the other direction saves little or nothing.\n\nAgentBaton learns when to make that one switch from patterns in task progress. Each check has a median latency of 338 ms on one H100.\n\nAcross 11 model pairs and two benchmarks, it cuts API cost by 65.9% on average while largely keeping accuracy. Some pairs gain up to 8.8 points over running the capable model alone.\n\nThe handoff happens once per task, so it is easy to add to an existing agent loop.\n\nIf your agent bills are dominated by a frontier model, you might want to test one capable-to-cheap handoff before building a full router.\n\nhttps://t.co/dLhuwCMo2N\n\nChat with Paper: https://t.co/5NgyprpqvB",
+    "createdAt": "Thu Oct 29 19:30:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1141780,
+      "friendsCount": 6019,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV0lq0cboAAXCSZ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2115888824484257895",
+    "fullText": "We're doubling down on hardware and are looking for someone to manage our hardware shop https://t.co/rqZuzNd4tx https://t.co/UpF6mwTzgR",
+    "createdAt": "Thu Oct 29 19:29:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Nano Banana, and more to over a billion people.",
+      "followersCount": 603490,
+      "friendsCount": 53,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2115885244805251519",
+    "fullText": "You can now create and share your avatar in Gemini to star in images and videos with friends.\n\nShare your personal avatars, tag each other in prompts, and maintain character and voice consistency. Plus, you're in control and can add or remove anyone's access whenever you want.",
+    "createdAt": "Thu Oct 29 19:15:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 355754,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV0gEbBXQAAIV8L.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2115882662925623730",
+    "fullText": "OpenAI launched new study tools for ChatGPT for Teens. The same day, Common Sense Media gave the app its lowest safety rating. 🔍\n\nIn testing, parental alerts didn't reliably fire, and Study Mode often gave away answers. OpenAI disputed the results and asked for a retest.\n\n📬 https://t.co/VIgP6y8gi3\n\n#DeepLearningAI #ResponsibleAI #AIEngineering",
+    "createdAt": "Thu Oct 29 19:05:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 272174,
+      "friendsCount": 206,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115878585143590912/vid/avc1/3840x2160/I5-m9AXzLOlz7dBJ.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2115881358132429187",
+    "fullText": "“Typically the manual mechanism takes about 20 days. Just with the first pass, we are able to drive it down to 10.”\n\n@skyworksinc uses LangGraph and LangSmith to deploy agents and run evals in one place.\n\n⏯️ How they’re using agents to cut root cause analysis time. https://t.co/H5UBHVyPbs",
+    "createdAt": "Thu Oct 29 19:00:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "SilverJacket",
+      "name": "Matthew Hutson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1402377580167241734/8zTEBQyJ_normal.jpg",
+      "description": "Freelance science writer for The New Yorker, Science, Nature, etc. Fire dancer. Into cognition—animal and mineral (aka psych & AI).",
+      "followersCount": 4608,
+      "friendsCount": 502,
+      "location": "NYC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SilverJacket/status/2115879844550680816",
+    "fullText": "Striking sentence by Ian Parker in @NewYorker: \n\n\"He made the case to me that, given his past psychiatric condition, revealed in his attempt to kill a student, restricting his access to students is a clear violation of the Americans with Disabilities Act.\"",
+    "createdAt": "Thu Oct 29 18:54:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 495600,
+      "friendsCount": 3368,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV0anDwWoAAXCsm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2115876661640187915",
+    "fullText": "Source for this image and this story: https://t.co/nUk1VGWQvg\n\nG. H. Hardy went to visit Srinivasa Ramanujan, who was ill, in London. Making conversation, Hardy said the taxi he came in had a rather dull number: 1729.\n\n\"No,\" said Ramanujan. \"It is a very interesting number. It is the smallest number expressible as the sum of two cubes in two different ways.\"\n\n1729 = 1³ + 12³ = 9³ + 10³\n\nHardy told this story himself. Mathematicians still call 1729 the \"Hardy–Ramanujan number\", and numbers like it \"taxicab numbers\".",
+    "createdAt": "Thu Oct 29 18:41:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310601,
+      "friendsCount": 8568,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2115875488421884092",
+    "fullText": "The hangover will be epic.",
+    "createdAt": "Thu Oct 29 18:36:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 326740,
+      "friendsCount": 1350,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV0ZKSWbMAAlYyB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2115875068802895878",
+    "fullText": "Fascinating paper from MIT Media Lab on coordination in large agent societies.\n\n(bookmark it)\n\nI've seen a lot of success with agent-to-agent messaging recently.\n\nThat's exciting. I think agent persistence and coordination will unlock more novel use cases.\n\nThe authors report that with push delivery, an agent leading 20 negotiations proposes options that were already rejected 97% of the time. Its context fills up fast, and it drops the oldest replies.\n\nThe alternative they study is a pull-based inbox. Messages wait outside the context, and each agent's own rules decide what it reads and keeps.\n\nIn simulations of 1,000 to 16,000 LLM agents under noisy traffic, first-come-first-read misses every request. An inbox that first reads messages carrying a refundable deposit still finds about 60% of the agents a request needs, at every size.\n\nEach inbox sets four rules. They decide what the agent reads, what it keeps, what a sender pays, and what a reply may say.\n\nFor multi-agent systems under load, you want to design the reading rules as carefully as the delivery protocol.\n\nhttps://t.co/VJdypC6tIv\n\nChat with Paper: https://t.co/sEBPUi9FE7",
+    "createdAt": "Thu Oct 29 18:35:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 64745,
+      "friendsCount": 279,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV0YKTpWgAAAHXG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2115873969257554012",
+    "fullText": "jack &amp; jill used together post-training to train a model that predicts which candidates a hiring manager will want to meet\n\nin offline evals, they matched a closed-source model’s quality on an open-source model that’s significantly cheaper to serve\n\nhttps://t.co/0WHnc47hCY https://t.co/Mb4TAnOj5l",
+    "createdAt": "Thu Oct 29 18:30:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 422329,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2115873847211590130",
+    "fullText": "Here's the truth: we can make an AI service more than 280 times cheaper and still have a housing affordability crisis. Software can be distributed instantly. Homes need land, materials, infrastructure, and permission.\n\nThe next phase of abundance requires people capable of changing the physical world. What better goal than giving people a roof over their heads?",
+    "createdAt": "Thu Oct 29 18:30:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1855524,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2115871889549865429",
+    "fullText": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t designed to catch. \n\nBecause Claude has already read the conversation, self-assessment is very efficient. And unlike classifiers, which target a discrete set of harms, it draws on Claude’s own judgment, so it gets more accurate as our models improve.\n\nRead more on our new Safeguards blog:\nhttps://t.co/18j6zdHub4",
+    "createdAt": "Thu Oct 29 18:22:24 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
@@ -76,7 +418,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 5426790,
+      "followersCount": 5414627,
       "friendsCount": 804,
       "location": ""
     },
@@ -1570,6 +1912,24 @@
     "tweetUrl": "https://x.com/MargRev/status/2115518172598272077",
     "fullText": "Errors in the research of Emmanuel Saez and Gabriel Zucman https://t.co/Fjp3tTBV8e",
     "createdAt": "Wed Oct 28 18:56:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "maithra_raghu",
+      "name": "Maithra Raghu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2023964247122997250/GZhiM7Ia_normal.jpg",
+      "description": "Cofounder and CEO @Samaya_AI. Formerly Research Scientist Google Brain (@GoogleAI), PhD in ML @Cornell.",
+      "followersCount": 23587,
+      "friendsCount": 542,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVu5aU1bUAA1k5w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/maithra_raghu/status/2115488643477590241",
+    "fullText": "Introducing Samaya Sterling, our new model post-trained for challenging financial research that outperforms the frontier! Sterling started off as a two person research effort to see if we could increase efficiency in agentic orchestration. To our surprise we were able to post-train a much smaller model (Nemotron 3.5 Lightning, a 30B mixture-of-experts model with 3B active parameters) to greater accuracy (58.9% vs 55.9% on FrontierFinance) and 11x lower cost ($0.61 vs $6.89) than Claude Fable 5.1, the best performing frontier model.\n\nWe did this via a four-stage training process, two stages of SFT where the model first learns to research with our financial tools and how to construct a good agentic research strategy. The second two stages are RL, with an offline GRPO stage where the model further hones its research strategy from eight teachers that provide diverse approaches, and an online GRPO stage where the model can make end to end attempts and learn from its mistakes.\n\nWe see substantial gains from the co-adaptation of the model and harness through post-training, both through the model learning to effectively use the high-quality financial tools, and better compaction approaches that let even a small model execute on longer and deeper research.\n\nWe are exploring multiple follow-up directions, from multi-agent research swarms using this small model, to training firm-specific models to encode unique judgement, to training a larger model, where early results show even greater gains from the training process.\n\nThe full research is linked below!",
+    "createdAt": "Wed Oct 28 16:59:31 +0000 2026"
   },
   {
     "user": {
