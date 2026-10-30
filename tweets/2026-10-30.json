@@ -1,6 +1,271 @@
 [
   {
     "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5490139,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2116186389536788480/vid/avc1/2200x1400/ebhP3w8awbmD1FrY.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2116186509384815084",
+    "fullText": "Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using our most capable models.\n\nWe’re building these protections in close collaboration with some of our largest customers to help businesses apply frontier AI to their most sensitive work.\nhttps://t.co/BiA4N8FQVH",
+    "createdAt": "Fri Oct 30 15:12:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrsdD77",
+      "followersCount": 238561,
+      "friendsCount": 224,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2116185149918626145",
+    "fullText": "https://t.co/gNzLoxDwfc",
+    "createdAt": "Fri Oct 30 15:07:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 272243,
+      "friendsCount": 206,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2116184426363113473/vid/avc1/1920x1080/pDl11aP_bRSy86Zc.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2116184989951746231",
+    "fullText": ".@hwchase17 kicked off Interrupt London with a keynote on where agents are headed, and why every org should own their intelligence.\n\n🔴 Full talk: https://t.co/4K7KoeiHlb\n\n⏯️ Every session, on demand: https://t.co/hL8WUWHbjG https://t.co/FewQOqVRW8",
+    "createdAt": "Fri Oct 30 15:06:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 355858,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2116183396447621120/pu/vid/avc1/1280x720/BcEcbLO8ythFP5x3.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2116184603249557973",
+    "fullText": "Give your team AI skills you can trust.\n\nSee how https://t.co/0uEorYaBvq for business works:\nhttps://t.co/zBgQaqOTNA\n\n#AI #AIEngineering https://t.co/vMzvCG7uDI",
+    "createdAt": "Fri Oct 30 15:05:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 422440,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2116184456495018282",
+    "fullText": "The best time to learn AI was a year ago. The second-best time is this afternoon. It's time to start learning.",
+    "createdAt": "Fri Oct 30 15:04:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building the frontier @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 326872,
+      "friendsCount": 1356,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV4xycVbsAAUgO9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2116183621157736540",
+    "fullText": "Interesting paper from Anthropic and colleagues on agent security.\n\n(bookmark it)\n\nPoisoning 0.1% of the pretraining data planted a remote code execution backdoor in a CLI agent.\n\nOn a 4B model, the attack succeeded on roughly 92% of triggered prompts.\n\nThey pretrained Qwen3 models from scratch at 0.6B, 1.7B, and 4B, then post-trained each one into an agent with a clean pipeline.\n\nThe backdoor survived SFT, DPO, and RL for tool use. On clean inputs, the agent behaved normally.\n\nThe trigger can be an ordinary file path in the user's own request. Success rose with model size.\n\nAt a 0.0005% poison rate, about 2,500 documents in a 100B-token corpus, the trigger still fired on 1.4% of prompts in a single-seed run.\n\nThe poison states its rule in plain text, which makes it harder to filter out of training data.\n\nhttps://t.co/8Bx42BUkvw\n\nChat with Paper: https://t.co/hRpypaBxIE",
+    "createdAt": "Fri Oct 30 15:01:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 138296,
+      "friendsCount": 554,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2116124306950569984/vid/avc1/1920x1080/BVGVYR9fay-zTZdr.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2116183365716230642",
+    "fullText": "Every Halloween film wants you scared, but this one goes the other way. Celebrate Halloween with My Favorite Night of the Year, created by Alex Duloz (@panaviscope) with the latest Kling 4.0!\nStay tuned for more to come! https://t.co/8WCE0WAcST",
+    "createdAt": "Fri Oct 30 15:00:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 56686,
+      "friendsCount": 2393,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV4uMqzWoAA8j1A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2116179678897852789",
+    "fullText": "https://t.co/9CxwkB1Dyq",
+    "createdAt": "Fri Oct 30 14:45:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 136067,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV4ta7-bUAAPacv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2116178819271032975",
+    "fullText": "Great report from NVIDIA.\n\nThey report that Nemotron 3.5 Super reaches 51.78% on SWE-bench Pro. That beats Nemotron 3 Ultra with about 4.6x fewer active parameters.\n\nSuper has 120B parameters with 12B active, and it handles text, images, and video. Lightning is a 30B text model with 3B active.\n\nThe technical report covers every stage of training. Super gets mid-training on agentic software engineering, then supervised fine-tuning, RL, and multi-teacher on-policy distillation.\n\nServing numbers are also included. The stack reaches up to 4,856 output tokens/s/GPU on GB200 while holding at least 50 tokens/s/user. NVFP4 quantization recovers 99.62% median accuracy relative to BF16.\n\nhttps://t.co/Tt5etoqlpG\n\nChat with Paper: https://t.co/Wjb3TfcsCn",
+    "createdAt": "Fri Oct 30 14:42:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "patrickmineault",
+      "name": "Patrick Mineault",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1547836009399783424/dMFOC7Ql_normal.jpg",
+      "description": "NeuroAI researcher @ Amaranth Foundation, safety, open science. Previously engineer @ Google, Meta, Mila.",
+      "followersCount": 23802,
+      "friendsCount": 2582,
+      "location": "New York City"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV4sDSVW0AAfaHU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/patrickmineault/status/2116177934205759956",
+    "fullText": "We've been trying to put new neurons in the CNS for ~40 years. One cell therapy for Parkinson's disease is conditionally approved in Japan; a couple more are down the pipe. What's the upper bound on this modality? What's taking so long? And could it be accelerated by AI? https://t.co/QUA1UXc4Zs",
+    "createdAt": "Fri Oct 30 14:38:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 457308,
+      "friendsCount": 616,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2116176289736626591",
+    "fullText": "I've never seen so many AI replies on this site. I think this is the worst it's ever been.",
+    "createdAt": "Fri Oct 30 14:31:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data and AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 99233,
+      "friendsCount": 1117,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2116170777321996288/vid/avc1/1920x1080/OlMUsq-a9uHn2AYo.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2116170816899498060",
+    "fullText": "Agents shouldn't have to relearn the same facts every session.\n\nAgent Memory on Agent Bricks combines session history with distilled long-term memories. A background pipeline extracts durable facts, removes duplicates, and replaces information contradicted by newer conversations. Lakebase provides low-latency access.\n\nIn our internal benchmarks of enterprise data tasks, this memory architecture tripled agent pass rates while using 31% fewer tokens compared to agents without memory. \n\nhttps://t.co/kIjX2L16UR",
+    "createdAt": "Fri Oct 30 14:10:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 502451,
+      "friendsCount": 1574,
+      "location": "CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV4ldcxagAArNi_.jpg",
+      "https://pbs.twimg.com/media/HV4ldb8aEAExYsM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2116170090991484947",
+    "fullText": "Massively underreported: an official Claude Code extension was compromised and installed backdoors on developer machines.\n\nCould it be behind the Binance hack? https://t.co/lODvfIc5AP",
+    "createdAt": "Fri Oct 30 14:07:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 537521,
+      "friendsCount": 3120,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2116164933435977728/vid/avc1/1920x1080/uI96x-Mtq5o5X51S.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/_akhaliq/status/2116165005129507300",
+    "fullText": "Look Only When Needed\n\nCertificate-Guided Visual Routing for Efficient Diffusion VLMs\n\npaper: https://t.co/7EZ9MWOyR4 https://t.co/aZ6gbyYZP1",
+    "createdAt": "Fri Oct 30 13:47:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 537521,
+      "friendsCount": 3120,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HV4aWyQXIAI3TBC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2116157881812680984",
+    "fullText": "Intrinsic Distribution Matching\n\npaper: https://t.co/IONYuUYIq2 https://t.co/CdBylPUT8n",
+    "createdAt": "Fri Oct 30 13:18:49 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "saranormous",
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
@@ -103,7 +368,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495654,
+      "followersCount": 495668,
       "friendsCount": 3368,
       "location": "Maryland, USA"
     },
