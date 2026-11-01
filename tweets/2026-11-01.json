@@ -1,11 +1,95 @@
 [
   {
     "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241495250,
+      "friendsCount": 1421,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2116875604889112772",
+    "fullText": "I have this great idea for a drug called Regretamine. One dose and all your regrets are gone!\n\nIncluding, obviously, having taken Regretamine in the first place.",
+    "createdAt": "Sun Nov 01 12:50:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO @GauntletAI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 488745,
+      "friendsCount": 1672,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2116867257276026892",
+    "fullText": "Last 24h of AI for builders:\n\n• 5 local Qwen 27Bs beat a frontier model at coding\n• DeepSeek open-sourced a proactive repo agent\n• A harness with deadlines on everything\n• JS frameworks have a token price\n• ChatGPT + Codex limits merge\n\n👇 https://t.co/NzeLWOaMqv",
+    "createdAt": "Sun Nov 01 12:17:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5403703,
+      "friendsCount": 804,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWCctd-WAAA2e6I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2116864344210239755",
+    "fullText": "Ridiculous looking haircuts are not a modern phenomenon. Indeed you can pretty much assume that the most fashionable haircut now will look ridiculous later in photographs. https://t.co/CZrM6oCMRP",
+    "createdAt": "Sun Nov 01 12:06:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149143,
+      "friendsCount": 5546,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2116858419554779230",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Sun Nov 01 11:42:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 38271,
+      "friendsCount": 2040,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWBSTYpaoAADsLD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2116785797051646452",
+    "fullText": "一个值得关注的开源AI小说写作工具：书童Pagekin，专门解决AI写长篇小说时人物设定混乱、剧情前后矛盾、上下文丢失的问题\n\n可以拿来搞网络小说、长篇故事、AI剧本、系列儿童故事等，直接利好AI短剧的剧本供给和IP孵化\n\n是一套完整的小说创作AI工作流，从构思、规划、逐章写作，到审稿、修订和长期剧情管理\n\n输入题材、人物设定等信息，AI可规划故事主线、章节结构、冲突、转折、悬念，再根据章节蓝图生成正文。支持导入已有小说，在原有基础上续写扩写和改写\n\n长篇小说上下文管理，不需要每次都把整本小说塞进模型上下文，它能结构化管理人物档案、关系、世界观、剧情线索以及前文摘要\n\n创作时按需组装当前章节所需的上下文，避免无关信息反复占用Token，也有助于减少人物设定冲突和情节前后矛盾\n\n#AI写小说 #书童Pagekin",
+    "createdAt": "Sun Nov 01 06:53:56 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "nikitabier",
       "name": "Nikita Bier",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
       "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
-      "followersCount": 1355589,
+      "followersCount": 1355603,
       "friendsCount": 2063,
       "location": "LA"
     },
@@ -23,7 +107,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -41,7 +125,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -59,7 +143,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -77,7 +161,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -95,7 +179,7 @@
       "name": "Alexandr Wang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
       "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",
-      "followersCount": 838774,
+      "followersCount": 838936,
       "friendsCount": 949,
       "location": "San Francisco, CA"
     },
@@ -115,7 +199,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -133,7 +217,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -151,7 +235,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -169,7 +253,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -189,7 +273,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -207,7 +291,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -226,7 +310,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -244,7 +328,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -262,7 +346,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -281,7 +365,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -299,7 +383,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -317,7 +401,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -335,7 +419,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -353,7 +437,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -371,7 +455,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -389,7 +473,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -407,7 +491,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -425,7 +509,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -444,7 +528,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -462,7 +546,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 64833,
+      "followersCount": 64837,
       "friendsCount": 279,
       "location": "San Francisco, CA"
     },
@@ -480,7 +564,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495844,
+      "followersCount": 495888,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -498,8 +582,8 @@
       "name": "Bojan Tunguz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
       "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
-      "followersCount": 310521,
-      "friendsCount": 8575,
+      "followersCount": 310519,
+      "friendsCount": 8576,
       "location": "United States"
     },
     "images": [
@@ -877,7 +961,7 @@
       "name": "Shital Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
       "description": "CEO and founder https://t.co/tTzeqS2PkF. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
-      "followersCount": 14616,
+      "followersCount": 14614,
       "friendsCount": 15393,
       "location": "Redmond, WA"
     },
