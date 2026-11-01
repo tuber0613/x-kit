@@ -1,12 +1,187 @@
 [
   {
     "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2112907783834083328/V7QuDue9_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12333,
+      "friendsCount": 1447,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWEm7VlWoAA9Oui.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2117016106481131960",
+    "fullText": "Scientists believe that this accidental photo of the inside of my pocket closely resembles the first few milliseconds after the big bang, where high energy plasma began to coalesce into the first atoms https://t.co/3BLkbWTdIt",
+    "createdAt": "Sun Nov 01 22:09:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1103783,
+      "friendsCount": 65,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2117007776442671104/vid/avc1/1920x1080/c5eGRjnXpP2w6q1j.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2117007937189425564",
+    "fullText": "a16z's Connor Love on why the old defense model gave soldiers systems \"developed for 10 years ago,\" and how private capital lets startups build what they need before the Pentagon asks:\n\n\"I experienced this in my past when I served in the Army. The buyer is not the user, and the appropriator of the dollars for the buyer is completely removed.\"\n\n\"You had primes who would just sit there and listen, like, 'Tell me what you want. I'll develop the thing after you give me the money.'... You get a system that was developed for 10 years ago.\"\n\n\"The beautiful thing is venture capital and what we do in American Dynamism, but also the rest of the capital markets is saying, 'We will actually fund that in advance.'\"\n\n\"The outcome of that is the soldier gets a better product, gets something that actually fundamentally changes the battlefield and helps with deterrence or security or safety.\"\n\n\"More importantly, you get a type of system that is actually aligned with the requirement of the market and what technology can do today.\"\n\n\"Instead of sitting and waiting for the government to tell you what they want, the government signals, and you see it, and you build it in advance by using private capital, and that just has not happened in the history of defense.\"\n\n@ConnorLoveCA",
+    "createdAt": "Sun Nov 01 21:36:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "jackclarkSF",
+      "name": "Jack Clark",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_normal.jpg",
+      "description": "@AnthropicAI, writer @ Import AI.  \nPast: @openai, @business @theregister. \nNeural nets, distributed systems, weird futures.",
+      "followersCount": 155637,
+      "friendsCount": 4620,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jackclarkSF/status/2117007176971825571",
+    "fullText": "Best summary of juggling a toddler with a baby is finding a suspicious puddle of liquid in a bathroom and attending to it, then texting my wife \"just cleaned it up. Good news - it was water, not piss!\"",
+    "createdAt": "Sun Nov 01 21:33:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 422668,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2116999467232542725",
+    "fullText": "Progress should become something people can experience in their own lives, not centuries from now. Cheaper tools, better care, more opportunity. Some areas of the industry are starting to feel the effects of that change. That's why I remain optimistic that countless lives will change at the pace tech is going.",
+    "createdAt": "Sun Nov 01 21:02:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MiniMax_AI",
+      "name": "MiniMax (official)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875100548535574529/VxHk9HyU_normal.jpg",
+      "description": "Code: @MiniMaxAgent \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nM Plan: https://t.co/XfJWSyauda",
+      "followersCount": 129314,
+      "friendsCount": 1015,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWEUv-oaoAAwjBk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MiniMax_AI/status/2116996123164569606",
+    "fullText": "MiniMax M3.1 Flash, on more of your hardware.\n\nQuantizing a 428B model opens up more ways to run it locally. Lower-bit weights reduce the memory needed to load the model and the weight data moved during decoding. Making those savings useful takes careful calibration, efficient low-bit kernels, and hardware-aware placement of experts across GPU and system RAM.\n\nThank you to the builders doing that work:\n\n• @UnslothAI @danielhanchen — 2-bit Dynamic GGUF weights at 143.9 GB, with calibration and fidelity testing across coding, tool use and other workloads.\n• @ViC305 — SAGE-EXL3, token-level fidelity measurements and a single-DGX-Spark recipe.\n• @PeasantSmith — Project Maya quants and expert offloading for local coding and tool use.\n• @MiaAI_lab — EXL3-EAQ quantization work.\n• @jundotkim + mlx-community — oQ quants and DSpark-powered decoding through oMLX on Apple Silicon.\n• @AIatAMD — Quark MXFP4 adapted for AMD Instinct.\n• @atomic_chat_hq — GGUFs for local desktop workflows.\n• @superalesha — custom inference work combining quantized weights, expert caching and system RAM on 4× RTX 3090.\nEvery shared quant, kernel, measurement and recipe gives the next builder a better starting point. Thank you.",
+    "createdAt": "Sun Nov 01 20:49:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241494160,
+      "friendsCount": 1421,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWEQCFgWIAAYfY1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2116990933103509723",
+    "fullText": "This is what they stole from us https://t.co/q1GnpjF394",
+    "createdAt": "Sun Nov 01 20:29:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",
+      "followersCount": 839229,
+      "friendsCount": 949,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2116989899073274098",
+    "fullText": "psa: if you met muse last night at halloween and (s)he asked for ur number, that is NOT muse and is a phishing attack",
+    "createdAt": "Sun Nov 01 20:24:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 241494160,
+      "friendsCount": 1421,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWELdnLWkAAT83A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2116985908268572975",
+    "fullText": "The people deserve to have their RAM too! https://t.co/q6dwauALw4",
+    "createdAt": "Sun Nov 01 20:09:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1103783,
+      "friendsCount": 65,
+      "location": "It's time to build."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWEA7mHaYAA7Wa0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2116974326989857048",
+    "fullText": "Shoppers sent by AI show up ready to buy\n\nAI-referred shoppers vs. other online shoppers:\n- Conversion +60%\n- Revenue per visit +53%\n- Bounce rate -34%\n\nCharts of the Week: https://t.co/VOYp2wQyoZ https://t.co/aS8mCoMmwL",
+    "createdAt": "Sun Nov 01 19:23:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 752475,
+      "friendsCount": 833,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWD2lA2akAAR-gR.jpg",
+      "https://pbs.twimg.com/media/HWD2lfSb0AAUbza.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2116962954877014152",
+    "fullText": "I got a fun birthday present from the team at Ndea ❤️ https://t.co/T69tbG565E",
+    "createdAt": "Sun Nov 01 18:37:54 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Suhail",
       "name": "Suhail",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
       "description": "Founder @particle_api, Past: Founder @mixpanel\nPizzatarian, engineer, music maker",
-      "followersCount": 453370,
-      "friendsCount": 722,
+      "followersCount": 453432,
+      "friendsCount": 725,
       "location": "Inference:"
     },
     "images": [],
@@ -21,7 +196,7 @@
       "name": "Andrej Karpathy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
       "description": "",
-      "followersCount": 4408306,
+      "followersCount": 4410058,
       "friendsCount": 1144,
       "location": "Earth"
     },
@@ -39,7 +214,7 @@
       "name": "Together AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
       "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
-      "followersCount": 64837,
+      "followersCount": 64847,
       "friendsCount": 279,
       "location": "San Francisco, CA"
     },
@@ -57,7 +232,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
-      "followersCount": 422648,
+      "followersCount": 422668,
       "friendsCount": 931,
       "location": ""
     },
@@ -73,7 +248,7 @@
       "name": "LangChain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
       "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
-      "followersCount": 272391,
+      "followersCount": 272406,
       "friendsCount": 207,
       "location": ""
     },
@@ -91,7 +266,7 @@
       "name": "DAIR.AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
       "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
-      "followersCount": 136130,
+      "followersCount": 136227,
       "friendsCount": 1,
       "location": ""
     },
@@ -107,7 +282,7 @@
       "name": "MIT CSAIL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
       "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
-      "followersCount": 352141,
+      "followersCount": 352143,
       "friendsCount": 20396,
       "location": "Cambridge, MA"
     },
@@ -125,7 +300,7 @@
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
       "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
-      "followersCount": 422648,
+      "followersCount": 422668,
       "friendsCount": 931,
       "location": ""
     },
@@ -141,8 +316,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 73591,
-      "friendsCount": 37029,
+      "followersCount": 73599,
+      "friendsCount": 37030,
       "location": "latent space"
     },
     "images": [
@@ -159,7 +334,7 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 495933,
+      "followersCount": 495957,
       "friendsCount": 3369,
       "location": "Maryland, USA"
     },
@@ -177,7 +352,7 @@
       "name": "Databricks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
       "description": "Databricks is the Data + AI company, helping organizations build and scale data and AI apps, analytics and agents.",
-      "followersCount": 99287,
+      "followersCount": 99292,
       "friendsCount": 1117,
       "location": "HQ: San Francisco, CA"
     },
@@ -195,8 +370,8 @@
       "name": "Nathan Benaich",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
       "description": "solo member of rsi staff @airstreet",
-      "followersCount": 73591,
-      "friendsCount": 37029,
+      "followersCount": 73599,
+      "friendsCount": 37030,
       "location": "latent space"
     },
     "images": [
@@ -213,7 +388,7 @@
       "name": "Mustafa Suleyman",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
       "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
-      "followersCount": 1169010,
+      "followersCount": 1169077,
       "friendsCount": 182,
       "location": "Palo Alto, CA"
     },
@@ -313,7 +488,7 @@
       "name": "Robin Hanson",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1903854509702488064/975Vh53p_normal.jpg",
       "description": "Let’s skip witty banter & talk deep Qs. \nBooks: https://t.co/hpZgEm5DBI https://t.co/iFs9C3J2Ek \nAdvisor @_futarchy @MetaDAOProject @butterygg",
-      "followersCount": 127923,
+      "followersCount": 127931,
       "friendsCount": 791,
       "location": "Fairfax, VA"
     },
