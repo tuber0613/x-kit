@@ -1,0 +1,520 @@
+[
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 38297,
+      "friendsCount": 2044,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWP2W1OaAAA2Isv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2117812815524401445",
+    "fullText": "英伟达开源的一个能理解企业数据的AI语义大脑：Auto Ontology，让AI真正理解数据的业务含义，从而给出可信可审计的回复\n\n它解决几个问题，大模型会查表但不懂业务口径\n\n比如说，“上季度华东收入多少”，数据库里没有一个叫“华东收入”的字段\n\n模型需要知道收入是由哪些字段计算、华东对应哪些地区、时间字段应该用下单日发货日还是开票日、哪些表能连哪些不能连\n\nAuto-Ontology就是先把这些定义整理出来，让模型按已认证口径查询\n\n还一个，数据分析师在重复解释上浪费时间\n\n“这个收入为什么不等于财务报表里的收入”、“这张表应该和哪张表连”等等\n\nAuto-Ontology就可以把这些重复知识固化成可查询、可审核、可复用的语义层，减少每个AI、每个用户都重新猜一遍的情况\n\n核心工作流包括这几步：\n1、Discover自动发现数据结构\n读取数据库元数据，识别业务实体、字段、关系以及潜在的语义关联\n\n2、Ground语义落地\n把“客户”“订单”“收入”等业务术语映射到具体表和列\n\n3、Certify人工认证\n业务人员可以检查、修正业务术语、SQL指标以及表关系，对经过核验的语义定义进行认证和管理\n\n4、Validate校验查询\n查询前先判断当前数据是否真的支持这个问题，比如计算广告回报率时，如果缺少广告支出数据，它会要求澄清，不是说硬算一个广告回报率\n\n最大的价值应该是它把“企业数据是什么意思”从分析师脑子里的隐性经验，变成了AI可调用、可认证、可审计的基础设施\n\n你的销售Agent、财务Agent、运营Agent也不必各自盲猜含义，可以基于统一的业务定义理解查询数据\n\n#AutoOntology #企业数据AI #企业AI",
+    "createdAt": "Wed Nov 04 02:54:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help mgmt teams launch agentic initiatives fast. Alibaba Prof. AI Research Analyst for Tencent. Founder @AgenticOrgNow. Tech Strategy Podcast. Free book ↓",
+      "followersCount": 5816,
+      "friendsCount": 1252,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWP5ByfbMAE3khC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2117810068318298396",
+    "fullText": "Most Robot Companies Will Fail. These Three Will Win. \nMost robot companies won't make it, but three got my attention. \n\nHere’s my list. \n\nNote: I have a full podcast episode on this. Link below.\n\n1: Deep Robotics\n\nIt is betting on slower but way more predictable industrial contracts.\n Its industrial grade robot dogs inspect power grids from negative 20 up to 50 degrees Celsius.\n\n2: Agibot\n\nIt has a full suite of robot types and use cases. Everything from humanoids to sweepers. \n\nThey are racing fast to get to scaled deployment first. \n\nMgmt is top tier. \n\nPoint 3: Booster\n\nTheir robot soccer players are really an education platform.\n\nThey train high schoolers to PhD candidates in robot programming svd deployment. \n\n***Takeaways for Managers:\n\nTakeaway 1: Pick one team to start learning to deploy and operate robots. Try Booster for this. \n\nI go deeper on this in Episode 291 of The Tech Strategy Podcast.\n https://t.co/ByaLotAhMC\n\nQUESTION: Which job in your business would you hand to a robot first, and why?\n\n#Podcast #Robotics #EmbodiedAI #TechStrategy",
+    "createdAt": "Wed Nov 04 02:44:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 509005,
+      "friendsCount": 14046,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2117809407635624365",
+    "fullText": "this datacenter was built on stolen comanche land.",
+    "createdAt": "Wed Nov 04 02:41:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "johnvmcdonnell",
+      "name": "John McDonnell",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2117375642367115264/VEwNu7do_normal.jpg",
+      "description": "Head of Data @foundforbiz.  alum SQ, SFIX, RDL.",
+      "followersCount": 3476,
+      "friendsCount": 2915,
+      "location": "Oakland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWP2pfQaYAAITP7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/johnvmcdonnell/status/2117807452704080139",
+    "fullText": "Doomscroll live election betting odds with me here (focus on CA and Oakland): https://t.co/5tk0S7reU8 https://t.co/zgzsskqwAl",
+    "createdAt": "Wed Nov 04 02:33:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 185748,
+      "friendsCount": 1311,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWP0APvb0AAwY0P.jpg",
+      "https://pbs.twimg.com/media/HWP0APubwAAzzeZ.jpg",
+      "https://pbs.twimg.com/media/HWP0APiboAA62Et.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2117804545829171299",
+    "fullText": "Siri 终于即将能调用第三方的 APP 去完成任务了！\n\n苹果发布了一个更新叫 App Intents，所有开发者都可以将自己的 APP 功能接入 Siri AI 了。\n\n你可以自由决定将哪些功能开放给 Siri AI 去控制。\n\nSiri AI 的接入加上之前 iPhone Duo的适配，给很多大厂超级应用提出了难题。\n\n之前豆包在手机上的时候，国内基本上这些超级应用都拒绝了豆包自动操作它们的应用。\n\n现在 Siri AI 也有类似的功能了，到时候可以看看它们的应对，应该会很有意思。\n\n这个能力的大概介绍：\n\n打车之后，让 Siri 帮你改上车地点，或者让 Siri 帮你挑选对应 APP 里收藏的商品。\n\nSiri AI 也可以跨 APP 工作，比如将某一个收藏的商品，从一个购物软件里发送给聊天软件的朋友。\n\n还内置了一个 Agent 的 Skill 格式的子集。Siri 会先看 Skill，再判断用户的请求是否匹配，然后读正文。Skill 会给 Siri 提供指导，比如它应该怎么操作，哪些东西能做，哪些东西不能做。\n\n现在开发者可以从 27.3 测试版开始去测试。",
+    "createdAt": "Wed Nov 04 02:22:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149127,
+      "friendsCount": 5549,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPvO1YWUAAzsra.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2117799291909472323",
+    "fullText": "🌌♾️ THE NEXT BREAKTHROUGH MAY NOT BE A BETTER AI. IT MAY BE A BETTER ECONOMY.\n\nWhat if the most extraordinary invention is not a new product, a better algorithm, or a more powerful machine?\n\nWhat if it is an entirely new game that makes previously impossible businesses, discoveries, and inventions possible?\n\nToday, we are introducing our new research paper:\n\n🌌♾️ FLYWHEEL Ω — THE ECONOMY AS AN OUTPUT\n\nTRANSFORMATIONAL INTELLIGENCE ∞\n\nThe next breakthrough may be the game that makes it possible.\n\nFor years, the dominant question in AI has been: How do we make intelligence better at solving problems?\n\nWe are pursuing a more consequential question:\n\nWhat if intelligence could transform the conditions under which problems become solvable, inventions become constructible, and economic value becomes possible?\n\nThis is the frontier we are exploring through AGI ALPHA at https://t.co/dCKMr5Lici and https://t.co/9VRSyr4dv4.\n\nAnd our new paper makes that idea concrete.\n\n⚡ THE SAME WORK. A DIFFERENT ECONOMY.\n\nIn one exact, reproducible analytical experiment:\n\n• Same final outcome.\n\n• Same 9 units of production cost.\n\n• Conventional arrangement: 9 units of opening cash required.\n\n• Redesigned arrangement: just 5 units required.\n\nThe breakthrough was not cheaper production. It was a different arrangement of production, verification, delivery, and payment.\n\nWith only 6 units of opening cash, the conventional route cannot operate. The redesigned route can.\n\nThe result is analytical, not a claim of real-world commercial revenue. But it demonstrates an important possibility: changing the relationships between capabilities can change what becomes achievable.\n\nAnd there is another revealing discovery.\n\nA mechanism passed 72 modeled incentive checks—yet a buyer could obtain the same joint services for $2.13 less by combining separate purchases.\n\nThe lesson?\n\nAn intelligent enterprise must understand the choices its inventions create—not merely optimize the choices its original model anticipated.\n\nThis takes us beyond conventional automation.\n\nBeyond optimizing a fixed business model.\n\nBeyond inventing isolated products.\n\nToward intelligence that can discover new productive arrangements, construct missing capabilities, eliminate unnecessary dependencies, and independently verify the value of what it creates.\n\nWe are building an invention-automation machine in which verified inventions can become tools for discovering, constructing, and economically enabling their successors.\n\nInvention becomes infrastructure for further invention.\n\nAnd the two flywheels can reinforce each other:\n\nEconomic compounding: Create valuable outcomes, earn sustainable surplus, and finance further production.\n\nIntellectual compounding: Discover, verify, and retain capabilities that make new inventions possible.\n\nThe ambition is extraordinary. The evidence standard must be equally demanding.\n\nOur new 27-page LaTeX paper includes formal results, executable experiments, strong alternative comparisons, complete source code, and reproducible evidence.\n\n📖 Explore FLYWHEEL Ω — THE ECONOMY AS AN OUTPUT:\n\nhttps://t.co/grWjo5BmRb\n\nThe ultimate frontier is not merely what intelligence can accomplish.\n\nIt is what intelligence can invent that changes what becomes possible.\n\n🌌♾️ DON'T JUST PLAY THE GAME BETTER. INVENT THE GAME THAT MAKES THE NEXT BREAKTHROUGH POSSIBLE.\n\n#TransformationalIntelligence #AGIAlpha #AutonomousAI #Invention #MontrealAI",
+    "createdAt": "Wed Nov 04 02:01:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "description": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "followersCount": 6415929,
+      "friendsCount": 1034,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/2117794005165748448",
+    "fullText": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to superintelligence, and that requirement should ultimately constrain AI progress.",
+    "createdAt": "Wed Nov 04 01:40:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO @GauntletAI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 489020,
+      "friendsCount": 1675,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2117791838312804701",
+    "fullText": "Turned on an AI agent’s ability to email people telling it to require my approval of each draft before sending.\n\nThree hours later it had emailed 10 people without me reading drafts.\n\nI got mad at it.\n\nIt emailed 5 more people, then sent them all apologies immediately after.",
+    "createdAt": "Wed Nov 04 01:31:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "RamaswmySridhar",
+      "name": "sridhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1971654551360217088/txOTOnco_normal.jpg",
+      "description": "CEO @snowflake; founder @neeva Ex-@GreylockVC Ex-@Google SVP of Ads Ex-@BellLabs.",
+      "followersCount": 46503,
+      "friendsCount": 628,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RamaswmySridhar/status/2117791176602574848",
+    "fullText": "step 1: &lt;buzzword&gt;\nstep 2: &lt;buzzword&gt; puddle\nstep 3: deafening silence",
+    "createdAt": "Wed Nov 04 01:28:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 422879,
+      "friendsCount": 931,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2117784606535499816",
+    "fullText": "Imagine a household robot that reliably gives your family 10 hours back each week.\n\nThat's 520 hours a year. THAT'S the robot economy people will care about.",
+    "createdAt": "Wed Nov 04 01:02:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5401420,
+      "friendsCount": 805,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPdjfzWUAAsNSU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2117779986442551785",
+    "fullText": "Victorian furniture to help couples maintain a decorous distance. https://t.co/KDh7KUGEVM",
+    "createdAt": "Wed Nov 04 00:44:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPRFvNWYAAJK3a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117766161534476490",
+    "fullText": "Beginning in Algebraic Geometry (Undergraduate Texts in Mathematics): https://t.co/LiotlHhqOp https://t.co/Q85KaausHc",
+    "createdAt": "Tue Nov 03 23:49:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPQvfuX0AAUtSu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117765773003469265",
+    "fullText": "Linear Algebra and Optimization for Machine Learning [516-page textbook]: https://t.co/LH2L8FyKGr\n—\nThis textbook is organized around its 2 main themes:\n[Amazon Summary]\n\n1. Linear algebra and its applications: The chapters focus on the basics of linear algebra together with their common applications to singular value decomposition, matrix factorization, similarity matrices (kernel methods), and graph analysis. Numerous machine learning applications have been used as examples, such as spectral clustering, kernel-based classification, and outlier detection. The tight integration of linear algebra methods with examples from machine learning differentiates this book from generic volumes on linear algebra. The focus is clearly on the most relevant aspects of linear algebra for machine learning and to teach readers how to apply these concepts.\n\n2. Optimization and its applications: Much of machine learning is posed as an optimization problem in which we try to maximize the accuracy of regression and classification models. The “parent problem” of optimization-centric machine learning is least-squares regression. Interestingly, this problem arises in both linear algebra and optimization, and is one of the key connecting problems of the two fields. Least-squares regression is also the starting point for support vector machines, logistic regression, and recommender systems. Furthermore, the methods for dimensionality reduction and matrix factorization also require the development of optimization methods. A general view of optimization in computational graphs is discussed together with its applications to back propagation in neural networks.",
+    "createdAt": "Tue Nov 03 23:48:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPQhqnW4AA904G.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117765545265451040",
+    "fullText": "A Gentle Introduction to Optimization\n⬇️\nhttps://t.co/A7hN9gQmz3\n—————\n#Mathematics #PrescriptiveAnalytics #DataScience #ML #MachineLearning #ORMS #LinearAlgebra https://t.co/40vAZv3bH6",
+    "createdAt": "Tue Nov 03 23:47:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPP7EpXoAAEv0I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117764873056886929",
+    "fullText": "“Optimization — A Bootcamp for Machine Learning, Inverse Problems, and Control”\n\nCheck it out at https://t.co/EHGu5IWx5t by @eigensteve\n \nAmazon summary: “The book opens with an ‘Optimization Bootcamp’, introducing methods at a beginning level, before progressing to deep-dives into advanced topics and research-ready methods. The focus throughout is on modern applications of machine learning, inverse problems, and control. Rich pedagogy includes Python code with simple working examples and advanced case studies.”",
+    "createdAt": "Tue Nov 03 23:44:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPPrmOW8AA_nqM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117764635721871530",
+    "fullText": "Full Stack AI and Data Science Bootcamp: https://t.co/qIRQ4IQ5n0 https://t.co/EBuAPN2lgz",
+    "createdAt": "Tue Nov 03 23:43:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPPQWOXwAAwqnU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117764203507499210",
+    "fullText": "Math Olympiad Geometry Bootcamp — Progressive Learning System with Multi-Level Practice That Builds Confidence, Strengthens Logical Thinking, and Geometry Skills, with 750 practice questions and 25+3 tests (and solutions): https://t.co/pi8BYj8MEq\n+\nMore Math Olympiad books: https://t.co/NeOHMEnlpT by Mia Mathison",
+    "createdAt": "Tue Nov 03 23:41:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPPAn8WoAAHana.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117763865903517874",
+    "fullText": "Math Olympiad Bootcamp — 500 Problems and 30 Timed Tests with Step-by-Step Solutions, Intensive Competitive Training, and Proof Techniques for Grades 4–8\n\nGet it here: https://t.co/PFKccWmLbT https://t.co/Jkz7pyd6yS",
+    "createdAt": "Tue Nov 03 23:40:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPOqv9XgAEOQQk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117763526769213754",
+    "fullText": "Modern Statistical Methods and Theory — An Introduction to Nonparametric and High-Dimensional Statistics: https://t.co/mjjKYBIqVp https://t.co/afuXhHb8zK",
+    "createdAt": "Tue Nov 03 23:39:05 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPOOqoWwAAIDuU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117763236397191407",
+    "fullText": "Introduction To Probability [2nd Edition. 528 pages]: https://t.co/2musqCyLsg\n\n...covers probability theory (probabilistic models, discrete and continuous random variables, multiple random variables, and limit theorems), stochastic processes, and probabilistic models used in science, engineering, economics, and related fields. The main new feature of the 2nd edition is thorough introduction to Bayesian and classical statistics.",
+    "createdAt": "Tue Nov 03 23:37:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPNi0EXMAAG023.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117762297661940129",
+    "fullText": "All of Statistics [in 462 pages] — A Concise Course in Statistical Inference: https://t.co/DEJM4z2TBr https://t.co/fcomG7EV8Z",
+    "createdAt": "Tue Nov 03 23:34:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPNMJcXMAE_UM1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117761946111848478",
+    "fullText": "Statistical Inference: https://t.co/Ze5wfRBksf\n\nThe 2nd Edition of this classic textbook builds theoretical statistics from the first principles of probability theory. Starting from the basics of probability, the authors develop the theory of statistical inference using techniques, definitions, and concepts that are statistical and natural extensions, and consequences, of previous concepts. It covers all topics from a standard inference course including: distributions, random variables, data reduction, point estimation, hypothesis testing, and interval estimation.",
+    "createdAt": "Tue Nov 03 23:32:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPMv-ZX0AAngAY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117761597708157218",
+    "fullText": "Forecasting with Python — Principles and Practice, the Pythonic Way: https://t.co/1kOJLaa2LT\n\nIn this Python edition, two new chapters have been added on neural networks and foundation forecasting models. The latest version of the e-book is freely available online at https://t.co/l6T5dlujqo",
+    "createdAt": "Tue Nov 03 23:31:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPLbvBXgAAAWwj.jpg",
+      "https://pbs.twimg.com/media/HWPLpcDXoAA98B8.jpg",
+      "https://pbs.twimg.com/media/HWPLtRrWQAIndVV.jpg",
+      "https://pbs.twimg.com/media/HWPL9uOXcAABaYx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117760752824283501",
+    "fullText": "Infographic: 11 Python Libraries \nSource: https://t.co/NZTErtcm0g\n\nPolars Guidebook: https://t.co/vUrWJOZGCb\nPolars Cookbook: https://t.co/eiGx2ud1IT\nUltimate Polars for Analytics: https://t.co/0MoU4pCWuT\nPolars website: https://t.co/HK00J5KEdn https://t.co/aibUpwxnSY",
+    "createdAt": "Tue Nov 03 23:28:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPKxhfXgAALXKc.jpg",
+      "https://pbs.twimg.com/media/HWPLDzKXQAAy5v9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117759804475371597",
+    "fullText": "Build Interactive Data Apps with Streamlit ...\n\n1) Create Dynamic Dashboards, Machine Learning Workflows, and AI Chatbots with Streamlit and Python: https://t.co/DS5rOrvJGr\n\n2) Streamlit for Data Science: https://t.co/ztMSdSR16w\n\n3) Streamlit website: https://t.co/eWBR8NpxM5 https://t.co/5VjTXUo0TE",
+    "createdAt": "Tue Nov 03 23:24:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPKS61XsAAwJaN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117758741789729154",
+    "fullText": "WOW! Check this out &gt;&gt;\n\nPrompting Pandas for Data Analysis — Analyze, Clean, Transform, and Automate Real-World Data Workflows Faster with Pandas, Python, and AI Prompt Engineering: https://t.co/OurfaSfUCS https://t.co/1I7crDPVhc",
+    "createdAt": "Tue Nov 03 23:20:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPJ9BdXgAA19uL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117758355997335868",
+    "fullText": "Over 650 Most Commonly Asked DATA SCIENTIST Interview Questions &amp; Answers: https://t.co/e3UgBrzuSK\n\n#DataScience #AI #ML #MachineLearning https://t.co/ptAgkQSx87",
+    "createdAt": "Tue Nov 03 23:18:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496100,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPJuYfXMAABRp-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2117758075868492118",
+    "fullText": "\"Forecasting: Principles and Practice\" (3rd edition)\n\nRead the complete book online here: https://t.co/RhEy0aTcrx\n-or-\nGet a print copy here: https://t.co/WqS3tXGlcu\n—————\n#DataScience #PredictiveModeling #PredictiveAnalytics #MachineLearning #DataScientist https://t.co/545ZV1QtG9",
+    "createdAt": "Tue Nov 03 23:17:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1143192,
+      "friendsCount": 6023,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWOF2bXaAAA9FUm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2117683423611670608",
+    "fullText": "Was a true honor to sit down with @WalterIsaacson for The Builders podcast out this morning\n\nWe are at an unusual inflection point in history and there are so many reasons to be excited for the future with superintelligence almost here https://t.co/Jo45ClgZeq",
+    "createdAt": "Tue Nov 03 18:20:47 +0000 2026"
+  }
+]
