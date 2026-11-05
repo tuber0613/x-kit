@@ -1,6 +1,875 @@
 [
   {
     "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 138459,
+      "friendsCount": 554,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kling_ai/status/2118239441902768505",
+    "fullText": "Over the past few weeks, @TechHalla has been using Kling 4.0 and Kling 4.0 Flash across a range of creative projects. Along the way, he explored what each model could bring to his creative process, and where they made the biggest difference. #KlingAI https://t.co/MBHWS1vgCj",
+    "createdAt": "Thu Nov 05 07:10:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 38294,
+      "friendsCount": 2045,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2118232826391023616/vid/avc1/2502x1370/PzWsFIAGLlXq0mp7.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2118237906716516496",
+    "fullText": "又有人把谷歌的EmbeddingGemma 2玩出了新花样！做成了一个能实时学习的本地语义决策系统，CPU上就能实现毫秒级判断\n\n文本22毫秒出一次判断，图片约100毫秒，每百万token成本不到3美分，本地运行\n\n项目叫hunch，让大模型当老师，让本地小模型边用边学，逐渐接管大模型的高频判断任务\n\n架构：EmbeddingGemma 2+轻量分类器+教师模型蒸馏\n\n像工具调用是否失败、日志是否异常、用户意图属于哪一类、应该路由给哪个Agent，这些判断每次都调用大模型，既有延迟也会持续消耗Token\n\n大模型先提供判断、充当老师，本地小模型持续学习，把重复任务接过去，复杂问题继续交给大模型，简单、高频、稳定的任务交给本地轻量模型\n\n让AI的高频判断形成一个持续学习、逐渐降低成本的闭环，让小模型也能承担更有实际价值的任务\n\n对Agent日志分析、工具调用监控、实时分类和任务路由，这种架构比较有潜力\n\n#hunch #EmbeddingGemma2 #语义决策系统",
+    "createdAt": "Thu Nov 05 07:04:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVwRZPWcAAWAjn.jpg",
+      "https://pbs.twimg.com/media/HWVwRZPXgAAIlmC.jpg",
+      "https://pbs.twimg.com/media/HWVwRZOWgAAihoy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118222647498801223",
+    "fullText": "Transformers from Scratch — Beginner's Guide to the Neural Network Behind Large Language Models — Self-Attention, the Math, and Working Code in Python and PyTorch: https://t.co/3MTpnEh18N\n+\nMastering Transformers: https://t.co/tWnbF4GQDF https://t.co/uGhPQ7D0LH",
+    "createdAt": "Thu Nov 05 06:03:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1143045,
+      "friendsCount": 6027,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVu2VvbIAA8_ZM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2118221083233206736",
+    "fullText": "GStack’s /review skill is actually useful for preventing bugs still https://t.co/aROfFOWDwK",
+    "createdAt": "Thu Nov 05 05:57:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVkekWW8AApKzC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118209680409567615",
+    "fullText": "#Sedecordle Daily #1726 20/21 🔥13-day streak\n1️⃣6️⃣⬛0️⃣5️⃣\n0️⃣7️⃣⬛0️⃣6️⃣\n0️⃣8️⃣⬛0️⃣9️⃣\n1️⃣0️⃣⬛1️⃣1️⃣\n1️⃣2️⃣⬛1️⃣3️⃣\n1️⃣4️⃣⬛1️⃣5️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\n1️⃣9️⃣⬛2️⃣0️⃣\nhttps://t.co/1gTLFg7Qc5 https://t.co/vtHOZcxIXe",
+    "createdAt": "Thu Nov 05 05:11:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 508915,
+      "friendsCount": 14046,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2118208053774622964",
+    "fullText": "the federal government and who runs it is a very small part of the story in america, by design. most of history happens with its private citizens and their enterprise and individual courage. easy to forget in the onslaught of political media",
+    "createdAt": "Thu Nov 05 05:05:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVg90YW0AAWqHw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118205818680029466",
+    "fullText": "DATA IN. INTELLIGENCE OUT!\nhttps://t.co/DG6aCouKfZ\n+\nSee this book >> Machine Learning in Microservices — Productionizing Microservices Architecture for Machine Learning Solutions: https://t.co/FFkcE42Eje\n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🟢Design, build, and run microservices systems that utilize the full potential of machine learning\n🔴Discover the latest models and techniques for combining microservices and machine learning to create scalable systems\n🟣Implement machine learning in microservices architecture using open source applications with pros and cons",
+    "createdAt": "Thu Nov 05 04:56:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVf4rtX0AAF_Wx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118204631209648246",
+    "fullText": "Agentic AI Development with C# and .NET — Build intelligent Applications with GitHub Copilot, Microsoft Agent Framework, and Azure AI Foundry: https://t.co/m6u4vgltZ4 from @PacktPublishing \n\n𝙏𝙖𝙗𝙡𝙚 𝙊𝙛 𝘾𝙤𝙣𝙩𝙚𝙣𝙩𝙨:\n♦️Introduction to AI-Augmented Development in .NET 10\n♦️Set Up Your AI-Powered Development Environment\n♦️Understanding Agentic Design Patterns\n♦️GitHub Copilot Fundamentals in Visual Studio\n♦️Advanced Copilot Techniques and Agent Mode\n♦️AI-Assisted Refactoring, Testing, and Code Quality\n♦️Getting Started with Azure AI Foundry\n♦️Microsoft Agent Framework Deep Dive\n♦️MCP Servers and Tool Integration\n♦️Multi-Agent Workflows and Orchestration\n♦️Agent Security and Responsible AI\n♦️Testing, Observability, and Evaluation\n♦️Enterprise Integration and Production Deployment",
+    "createdAt": "Thu Nov 05 04:51:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVfhAsXAAALLoF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118204224706138349",
+    "fullText": "\"Multi-Agent AI Engineering: Design, build, and operate AI systems that think and act as coordinated teams\"\n\nGet it at https://t.co/dloQr18otV from @PacktPublishing \n\n𝓣𝓪𝓫𝓵𝓮 𝓸𝓯 𝓒𝓸𝓷𝓽𝓮𝓷𝓽𝓼:\n🟣Introduction to Multi-Agent Systems\n🟡Principles of Multi-Agent Systems\n🟢Frameworks and Mental Models\n🟣Constructing Your First Agents\n🟡Agent Communication and Collaboration\n🟢Context Management in Agents\n🟣Orchestrating Agent Teams\n🟡Unified Abstractions and Protocols for Agent Collaboration\n🟢Design Patterns for Multi-Agent Collaboration\n🟣Comparative Survey of Frameworks\n🟡Evaluating the Performance and Behaviors of Multi-Agent Systems\n🟢Security and Online Guardrails for Multi-Agent Systems\n🟣Observability for Agentic AI\n🟡Self-Evolving Multi-Agent Systems\n🟢Deploying and Scaling Multi-Agent Systems\n🟣Case Studies from Real-World Applications\n🟡Emerging Research and Industry Trends\n🟢Conclusions and Future Outlook\n\n𝓦𝓱𝓪𝓽 𝓨𝓸𝓾 𝓦𝓲𝓵𝓵 𝓛𝓮𝓪𝓻𝓷:\n♦️Apply foundational principles to design production-ready agents\n♦️Design agent communication, routing, and collaboration flows\n♦️Orchestrate teams with proven multi-agent design patterns\n♦️Manage memory, retrieval, and context across agent teams\n♦️Evaluate, red-team, and benchmark agent system behaviors\n♦️Deploy and scale multi-agent systems in production\n♦️Augment agents with OpenTelemetry-based observability\n♦️Evolve and improve agent systems safely in production",
+    "createdAt": "Thu Nov 05 04:50:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVe6YjXkAATdTY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118203561079079287",
+    "fullText": "💥Scikit-learn Cookbook — 80+ recipes for Machine Learning in Python with scikit-learn [3rd Edition]: https://t.co/Z32D8jOzxC\n\n𝓒𝓸𝓷𝓽𝓮𝓷𝓽𝓼:\n🔹Common Conventions & API Elements of Scikit-Learn\n🔹Pre-Model Workflow and Data Preprocessing\n🔹Dimensionality Reduction Techniques\n🔹Build Models with Distance Metrics & Nearest Neighbors\n🔹Linear Models and Regularization\n🔹Advanced Logistic Regression and Extensions\n🔹Support Vector Machines and Kernel Methods\n🔹Tree-Based Algorithms and Ensemble Methods\n🔹Text Processing and Multiclass Classification\n🔹Clustering Techniques\n🔹Novelty and Outlier Detection\n🔹Cross-Validation and Model Evaluation Techniques\n🔹Deploying Scikit-Learn Models in Production\n\nMy Review (on Amazon):\nI love this book, not only for its amazing content, but also for its brilliant adherence to its \"Cookbook\" label. The table of contents looks repetitive, but that's the magic of it. Find the algorithm, method, or application that you want \"to cook up,\" and the presentation follows a uniform format from chapter to chapter. This is an extraordinarily practical, useful, and reader-friendly style, perfect for the target audience: anyone who needs to use (or is discovering how to use) specific Scikit-learn tools for their Python-based machine learning tasks. Consequently, this is great not only for individual use but also for training workshops and other educational settings. Python code in a cookbook context has never looked so good. IMHO.",
+    "createdAt": "Thu Nov 05 04:47:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVeXJQXsAAcD-L.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118202955413283302",
+    "fullText": "“System Design and Behavioral Intelligence: Master technical and behavioral interviews with proven design frameworks and AI-driven preparation”\n\nGet it at https://t.co/hXtSkkzcMn from @PacktPublishing\n\nLearn to…\n🟠 Design scalable distributed systems with confidence\n🟠 Evaluate architectural trade-offs for real-world systems\n🟠 Apply core system design patterns and algorithms\n🟠 Structure behavioral answers using STAR and STAR-L\n🟠 Prepare for FAANG-style interview expectations\n🟠 Use AI effectively throughout interview preparation\n🟠 Present technical decisions with clarity\n🟠 Build a repeatable interview preparation strategy",
+    "createdAt": "Thu Nov 05 04:45:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVd89WWEAAeLpc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118202506404655386",
+    "fullText": "Some computational discovery techniques just pull you in through their cleverness. Genetic Algorithms is one of those!\n\nHands-On Genetic Algorithms with Python — Apply genetic algorithms to solve real-world AI and Machine Learning problems [2nd Edition]: https://t.co/VniTS5y2Xm v/ @PacktPublishing \n\n𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:\n🔵Learn how to implement genetic algorithms using Python libraries DEAP, scikit-learn, and NumPy\n\n🟢Take advantage of cloud computing technology to increase the performance of your solutions\n\n🟠Discover bio-inspired algorithms such as particle swarm optimization (PSO)",
+    "createdAt": "Thu Nov 05 04:43:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVdP1SWMAAwQUZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118201729917321365",
+    "fullText": "Understanding Molecular Simulation — From Algorithms to Applications: https://t.co/hIKXObtk3t https://t.co/4zkY49aVDO",
+    "createdAt": "Thu Nov 05 04:40:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVdJ5jWkAAUdv_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118201628322934850",
+    "fullText": "Fabulous Adventures in Data Structures and Algorithms: https://t.co/gfFKOKUq2W https://t.co/rOsNmdeqto",
+    "createdAt": "Thu Nov 05 04:39:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVc4LGXcAAXLAN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118201323791241389",
+    "fullText": "Comprehensive Data Structures and Algorithms in Python — Learn fundamentals with 500+ code samples and problems: https://t.co/Hy8jURq5jh https://t.co/IQzh6zvskt",
+    "createdAt": "Thu Nov 05 04:38:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVcxNgWAAAeaLt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118201204433891621",
+    "fullText": "Probability and Computing — Randomization and Probabilistic Techniques in Algorithms and Data Analysis: https://t.co/61Mkv5SWpB https://t.co/IUsSXaTeLD",
+    "createdAt": "Thu Nov 05 04:38:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 255552,
+      "friendsCount": 7222,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVcqlGWAAAwiaU.jpg",
+      "https://pbs.twimg.com/media/HWVcqlRXUAAM96c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2118201094354489576",
+    "fullText": "Trump and Musk’s impact on Texas. \n\nA pair of stunning graphics from https://t.co/jNhiZG4LJQ https://t.co/fMtTRkLEKs",
+    "createdAt": "Thu Nov 05 04:37:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 165640,
+      "friendsCount": 3425,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2118198538559701158",
+    "fullText": "winners don’t mock the moves of great players on social. they’re busy with practice, or watching game tape\n\nstrong anti-correlation between people who spend energy on schadenfreude and great returns",
+    "createdAt": "Thu Nov 05 04:27:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVaDSsXMAAxfPw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118198216042680551",
+    "fullText": "Mathematical Analysis of Machine Learning Algorithms: https://t.co/7Zpe00drMa https://t.co/md1t8egaGe",
+    "createdAt": "Thu Nov 05 04:26:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVZICxXIAAIxBU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118197198391238737",
+    "fullText": "Information is Energy — A physically based concept of information: https://t.co/TGyGInZQDz https://t.co/RHwMjuexhe",
+    "createdAt": "Thu Nov 05 04:22:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVY2_tXwAAAnFY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118196905259729305",
+    "fullText": "\"The Algorithm Design Manual\"\nat https://t.co/I4f0mek0tS by @StevenSkiena\n...The primary textbook &amp; reference guide for algorithm design.\n+⬇️+⬇️+\nMore information about the book including the Table of Contents: https://t.co/Wb3fdUTjQf https://t.co/0i0QBagr6Z",
+    "createdAt": "Thu Nov 05 04:21:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVYNKvWMAErNh4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118196187031367680",
+    "fullText": "Mathematical Foundations of Quantum Computing — A Scaffolding Approach: https://t.co/v97KxF10t7 \n\nHIGHLIGHTS:\n🟣Covers key mathematical concepts, including matrix algebra, probability, and Dirac notation, tailored for quantum computing.\n\n🟣Explains essential topics like tensor products, matrix decompositions, Hermitian and unitary matrices, and their roles in quantum transformations.\n\n🟣Offers a streamlined introduction to foundational math topics for quantum computing, with an emphasis on accessibility and application.",
+    "createdAt": "Thu Nov 05 04:18:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVX9DoWMAAHNV2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118195910060474846",
+    "fullText": "Tensor Decompositions for Data Science [and Computational Science]: https://t.co/WofrhrRiGo\n——\n#ML #MachineLearning #DataScientist #DataScience #Mathematics\n——\nNote: Extensive background materials in linear algebra, optimization, probability, & statistics are included as appendices.",
+    "createdAt": "Thu Nov 05 04:17:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVXyAcX0AAz8jW.jpg",
+      "https://pbs.twimg.com/media/HWVXyAgXYAAEza0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118195721212232174",
+    "fullText": "Principles of Tensor Calculus: https://t.co/kRedZY6Fqc — Become acquainted with this multidimensional mind-bending and space-bending subdomain of calculus.\n+\nTensor Calculus Made Simple: https://t.co/VB6vMjnJAO https://t.co/1RRUwyvmoq",
+    "createdAt": "Thu Nov 05 04:16:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVXli8WQAAZbdM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118195506795180391",
+    "fullText": "Tensor Calculus for Physics — A Concise Guide [2nd Edition]: https://t.co/ZD0nSUnVtJ https://t.co/NzJ2oR01W4",
+    "createdAt": "Thu Nov 05 04:15:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVXbC5WIAAIrNo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118195326368567412",
+    "fullText": "\"Vector: A Surprising Story of Space, Time, and Mathematical Transformation\"\n\nFind it here: https://t.co/6vomnSEvTS\n\nAmazon description:\n\nA celebration of the seemingly simple idea that allowed us to imagine the world in new dimensions—sparking both controversy and discovery. \n\nVector and tensor calculus offers an elegant language for expressing the way things behave in space and time, and Robyn Arianrhod shows how this enabled physicists and mathematicians to think in a brand-new way. These include James Clerk Maxwell when he ushered in the wireless electromagnetic age; Einstein when he predicted the curving of space-time and the existence of gravitational waves; Paul Dirac, when he created quantum field theory; and Emmy Noether, when she connected mathematical symmetry and the conservation of energy. \n\nIt turned out that it’s not just physical quantities and dimensions that vectors and tensors can represent, but other dimensions and other kinds of information, too. This is why physicists and mathematicians can speak of four-dimensional space-time and other higher-dimensional “spaces,” and why you’re likely relying on vectors or tensors whenever you use digital applications such as search engines, GPS, or your mobile phone.",
+    "createdAt": "Thu Nov 05 04:14:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVXQRXX0AAjVgC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118195141060010159",
+    "fullText": "Competitive Programming in Python — 128 Algorithms to Develop Your Coding Skills: https://t.co/GX5fe9Oaqb\n\n\"Classic problems like Dijkstra's shortest path algorithm and Knuth-Morris-Pratt's string matching algorithm are featured alongside lesser known data structures like Fenwick trees and Knuth's dancing links. The book provides a framework to tackle algorithmic problem solving, including: Definition, Complexity, Applications, Algorithm, Key Information, Implementation, Variants, In Practice, and Problems. Python code included in the book and on the companion website.\"\n-Amazon summary",
+    "createdAt": "Thu Nov 05 04:14:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVXEpOW4AAcVAW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118194941469905244",
+    "fullText": "Designing Information Architecture — Practical guide to structuring digital content for findability and easy navigability: https://t.co/Y73gIlBZU9 (570 pages) from @PacktPublishing \n\nAbout the Author:\nPabini Gabriel-Petit is the founder, publisher, and editor-in-chief of UXMatters. With more than 20 years working in User Experience at companies such as Google, Cisco, WebEx, and Apple, among others, Pabini now provides UX strategy and design consulting services through her Silicon Valley company, Strategic UX. She is passionate about creating great user experiences that meet users' needs and get business results. A thought leader in the UX community, Pabini was a Founding Director of the Interaction Design Association (IxDA).",
+    "createdAt": "Thu Nov 05 04:13:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVWz06WkAAr1c4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118194652041925038",
+    "fullText": "Model Selection and Inference — Practical Information-Theoretic Approach: https://t.co/2T5QSBjDDs \n\nClassic text on data analysis, parameter estimation, statistical modeling, and optimal (parsimonious) model selection. https://t.co/5pfYFeueqb",
+    "createdAt": "Thu Nov 05 04:12:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVWZUSWsAAgbYu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118194197429973456",
+    "fullText": "Building Claude Skills — Turn repeatable work into reusable skills: https://t.co/gHq1nNQPB1\n+\nFind more best-selling AI/ML books by @PacktPublishing @PacktDataML here: https://t.co/3pWiuM52bb https://t.co/67mecWORdI",
+    "createdAt": "Thu Nov 05 04:10:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVWEa5WYAA8JXP.jpg",
+      "https://pbs.twimg.com/media/HWVWEa6W4AAsvlw.jpg",
+      "https://pbs.twimg.com/media/HWVWEbAW8AAOwsp.jpg",
+      "https://pbs.twimg.com/media/HWVWEa6WsAAR7x0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118193839504511316",
+    "fullText": "Before Machine Learning [Volume 3] - Probability & Statistics for AI: The Fundamental Mathematics for Data Science and AI [400 pages]\n\nGet it here: https://t.co/2FeC070ywW\n\nAlso...\nVol. 1 - Linear Algebra: https://t.co/ar2X2fnB7Q\nVol. 2 - Calculus: https://t.co/CZ6GOTkYvl\nNow ML - Supervised Learning: https://t.co/nWjirIjim0",
+    "createdAt": "Thu Nov 05 04:09:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVVWPAW8AAHg87.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118193044583514282",
+    "fullText": "Top #Bitcoin $BTC books:\n\nhttps://t.co/UdVtEaz8vd\n\nhttps://t.co/OjjrJAK9Tu\n\nhttps://t.co/pWANS4oSKr\n\nhttps://t.co/3xcu5ochn9\n\nand more! https://t.co/wFy1huakkz",
+    "createdAt": "Thu Nov 05 04:05:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVU88nXYAAlzWH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118192609940115553",
+    "fullText": "“Agent-Based Evolutionary Game Dynamics: A guide to implement and analyze Agent-Based Models within the framework of Evolutionary Game Theory” — available here: https://t.co/qydotByw13 https://t.co/NsiJQDjk4H",
+    "createdAt": "Thu Nov 05 04:04:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVUoqxWgAAI5zb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118192262396215453",
+    "fullText": "\"Financial Intelligence: A Manager's Guide to Knowing What the Numbers Really Mean\": https://t.co/R2lr9XUdTd \n\nOr get the audiobook version (with additional benefits): https://t.co/6g3aNp3NOq\n—————\n#Finance #CFO #Quants https://t.co/UOO1K2Gly6",
+    "createdAt": "Thu Nov 05 04:02:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVUPP_W0AEknQW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118191824548356422",
+    "fullText": "Mastering the AI Revolution: https://t.co/In35xdFoQT https://t.co/9OeIsGXoLs",
+    "createdAt": "Thu Nov 05 04:00:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVT8RSW0AA6nVy.jpg",
+      "https://pbs.twimg.com/media/HWVT8RdWIAAqB4L.jpg",
+      "https://pbs.twimg.com/media/HWVT8RUWsAAIZaX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118191498793533767",
+    "fullText": "🚀Mastering the AI Revolution series of books:\n\n🔥Machine Learning Hero — Master Data Science with Python Essentials: https://t.co/1ZeesxM262\n\n🔥🔥Deep Learning and AI Superhero — Mastering TensorFlow, Keras, and PyTorch: https://t.co/8U5I0ypkft\n\n🔥🔥🔥Generative Deep Learning — Unlocking the Creative Power of AI and Python: https://t.co/HC7TA9uivH",
+    "createdAt": "Thu Nov 05 03:59:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVTmIWWQAAfw75.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118191117942337992",
+    "fullText": "Generative AI at AWS — Turn business strategy into production-ready AI applications and agents: https://t.co/A9Jy4iTfwg https://t.co/HPIv2frvSn",
+    "createdAt": "Thu Nov 05 03:58:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVTdBAWQAAvT5Q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118190966100353464",
+    "fullText": "“Superintelligence — Paths, Dangers, Strategies” (top selling AI book on Amazon): https://t.co/jZKLMmzihY\n🌟🌟🌟🌟🌟\nSee more Artificial Intelligence bestsellers for reading, learning, growing your knowledge, and advancing your career: https://t.co/Ij9I7SAoTL https://t.co/lHREoy3u2k",
+    "createdAt": "Thu Nov 05 03:57:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 186126,
+      "friendsCount": 1311,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HWVKFMFboAApgRC.mp4",
+      "https://video.twimg.com/tweet_video/HWVKFMMbIAA4Geo.mp4",
+      "https://video.twimg.com/tweet_video/HWVKFMIb0AA2teV.mp4",
+      "https://video.twimg.com/tweet_video/HWVKFMHawAEA-lR.mp4"
+    ],
+    "tweetUrl": "https://x.com/op7418/status/2118181775688241456",
+    "fullText": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。\n\n提示词放下面\n\n你可以用这套提示词生成各种大肥鱼表情包。 https://t.co/rdJ8krO2w6",
+    "createdAt": "Thu Nov 05 03:21:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 503884,
+      "friendsCount": 1577,
+      "location": "CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVJsWcWcAEcZ97.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2118180254300688857",
+    "fullText": "Excited to announce our partnership with Sumitomo Mitsui Finance & Leasing (SMFL), one of Japan’s leading financial institutions!\n\nReplit is powering SMFL’s core software products and has massively accelerated their development process: For example they recently in just one week, with one person, completed a project that previously required six people working for six months.\n\nNext we’re partnering to bring AI-powered software creation to Japanese enterprises, helping them overcome labor shortages, accelerate innovation, and unlock entirely new business opportunities.\n\nhttps://t.co/eTMLFDkIv1",
+    "createdAt": "Thu Nov 05 03:15:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310538,
+      "friendsCount": 8589,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2118178675212366091",
+    "fullText": "They better give us some cool new models tomorrow. I am out of weekly usage on all my models, and I don't want to use my banked resets. Saving those for some really big stuff.",
+    "createdAt": "Thu Nov 05 03:08:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO @GauntletAI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 489285,
+      "friendsCount": 1677,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2118177484772381070",
+    "fullText": "It’s pretty clear that AI is going to swallow everything.\n\nYou can either figure out how to feed it or spend your time picking up pennies in front of the steamroller.",
+    "createdAt": "Thu Nov 05 03:04:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help mgmt teams launch agentic initiatives fast. Alibaba Prof. AI Research Analyst for Tencent. Founder @AgenticOrgNow. Tech Strategy Podcast. Free book ↓",
+      "followersCount": 5817,
+      "friendsCount": 1252,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVCb3-aEAA6Pcr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2118172252827222258",
+    "fullText": "Tencent AI Cloud Wants Every Business to Be Agentic First\n\nI saw the WorkBuddy character everywhere at Tencent’s Shenzhen summit. \n\nIt was in almost every product. The character was running around in every forum.\n\nWorkBuddy is Tencent's flagship agentic product. \n\nAnd the big prize is the agentic first organization.\n\nNote: More on this in my free weekly email, link below.\n\n1: Tencent Cloud wants to be every business’s partner for agentic operations\n\nWith agentic services that are:\n\n-Convenient\n\n-Low cost\n\n-Reliable\n\n-Secure\n\n2: There are 3 tipping points to becoming agentic first.\n\n**Data flywheels.** Agents get clear goals and data feedback loops. \n\n**Autonomous activity.** Agents stop doing tasks that humans approve and support.\n\n**From single agent to multi agent.** Agents work together, as teams or as a lead agent directing specialized agents.\n\n***Takeaways for Managers:\n\n→ Pick one workflow in business analysis or marketing and map every step where a human still has to approve the work.\n\n→ Assign one team to test a lead agent directing two specialized agents on a single task this month.\n\nI write about digital AI strategy every week in my free Agentic Frontier email.\n\nSign up here and get my book Moats and Marathons free:\n\nhttps://t.co/NXE7NGloJQ\n\nQUESTION: What is the biggest thing stopping your company from becoming agentic first?\n\n#AgenticAI #Tencent #AIAgents #DigitalStrategy #EnterpriseAI",
+    "createdAt": "Thu Nov 05 02:43:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 508915,
+      "friendsCount": 14046,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2118170499180282254",
+    "fullText": "*99th percentile extremist voice* this is actually the moderate solution. you don’t even know what’s coming",
+    "createdAt": "Thu Nov 05 02:36:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help mgmt teams launch agentic initiatives fast. Alibaba Prof. AI Research Analyst for Tencent. Founder @AgenticOrgNow. Tech Strategy Podcast. Free book ↓",
+      "followersCount": 5817,
+      "friendsCount": 1252,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWU96utaYAALAnG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2118167285815034251",
+    "fullText": "Why Growth Fails in Fragmented Industries\n\nFragmented industries break almost every rule I teach about scale. \n\nThey don't consolidate over time.\n\nGoing for growth is usually a mistake.\n\nHere's my reasoning.\n\nNote: I have a full podcast episode on this. Link below.\n\nPoint 1: In fragmented markets, getting bigger does not make you stronger.\n\nThe largest player can stay stuck at 2% market share forever.\n\nThis is the case with most restaurants. \n\nMcDonalds got around this by franchising.\n\nPoint 2: Two forces keep industries fragmented: industry structure and diseconomies of scale.\n\nCustom birthday cakes are too varied to standardize and scale.\n\nScaling up increases costs more than benefits.\n\nPoint 3: With no structural moat, superior operating performance is the only strategy.\n\nThink of the Korean grocer in Los Angeles who works his own register. And lives upstairs.\n\nThat's your best business model in a fragmented industry.\n\n***Takeaways for Managers:\n\nTakeaway 1: Score your industry’s concentration this week by squaring and adding each player’s market share.\n\nTakeaway 2: Review your growth targets and drop any that pull decisions away from local managers.\n\nI go deeper on this in Episode 250 of The Tech Strategy Podcast.\n\nhttps://t.co/UBQINXXS6x\n\nQUESTION: Is your industry concentrated or fragmented? What keeps it that way?\n\n#Podcast #Strategy #CompetitiveAdvantage",
+    "createdAt": "Thu Nov 05 02:23:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 266119,
+      "friendsCount": 1780,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2118162172744200192/vid/avc1/1920x1080/1GbdW_NKbylMdu9Q.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2118164405594595702",
+    "fullText": "Anthropic 的 Addy Osmani：一天合并三万次代码变更，人看的是 AI 交上来的证据\n\nAnthropic 今年 5 月每天往代码库里合并大约 2500 次代码变更，到 9 月已经超过 3 万次，涨了十几倍。这么多改动，显然不可能每一行都有人看过。那他们凭什么敢合并？\n\n负责 Claude Code 开发者体验的 Addy Osmani 在这场对谈里讲了他们的做法：每个改动先由 Claude 像真实用户一样实际用一遍、审一遍，发现问题自动修；人不再逐行读代码，而是去看 AI 交上来的证据，比如它在浏览器里点来点去的录屏、在手机和电脑上的截图。\n\n在他看来，写代码已经不是难点，接下来能不能再快一截，取决于能不能把“验证”做扎实。给 AI 一个检查自己做得对不对的办法，产出的质量能好两到三倍。如果你也在用 AI 写代码，又拿不准哪些改动敢直接合并，这期给了一份大公司内部的参考答案。\n\n这是 AI Engineer 大会上一场 18 分钟的台上对谈。Addy Osmani 在 Google 工作了大约 14 年，长期负责 Chrome 的开发者体验，写过大量面向开发者的文章，今年 9 月加入 Anthropic。提问的 Manish Kapur 在 Sonar 负责产品和开发者关系，Sonar 是做代码质量和安全检查工具的公司，旗下的 SonarQube 用来自动扫描代码里的漏洞和问题。\n\n【Anthropic 的做法：Claude 先审一遍，人看证据】\n\nManish 提到，他前一晚刚读了 Anthropic 发的一篇文章，里面说 Anthropic 现在每天合并约 3 万次代码变更。Addy 补充了两个数字：5 月的时候每天大约 2500 次；最近 https://t.co/aTfkxmbzQe 网页版重做，性能提到了原来的三倍左右，这次重做在很短时间里合并了大约 3000 个 PR（代码合并请求），参与的不只有工程师，还有产品设计师和其他岗位的人。\n\n他说他们的审查流程分几步。第一步是让 Claude 先审一遍，关键在于要让它能像真实用户一样把功能实际用一遍：跑端到端测试（从头到尾模拟用户操作的自动化测试），在浏览器里打开页面检查，运行各种工具和代码规范检查，凡是能建立信心的检查都做。\n\n发现 bug 或者功能缺口怎么办？他们设置了 Hook（一种在特定时机自动触发的脚本），每次代码有改动就自动运行，检查这次改了什么，这样 PR 里的问题能尽快被改掉。Anthropic 还有一个代码审查产品，他们自己也在用。整体思路是尽可能把代码审查自动化。\n\n第二步是把团队的“品味”写下来。Addy 说现在大家常讲品味和判断力，团队应该把自己认为的最佳实践和品味写进共享的 CLAUDE.md、AGENTS.md 这类文件（放在项目里、专门写给 AI 看的说明文档），AI 审代码时会去参考。\n\n第三步才轮到人，人负责检查 AI 给出的证据。他举的例子是：做一个用户在浏览器里用的界面，就要确认它在浏览器里测过，最好让 AI 生成一段它点来点去的录屏，看完你就有信心说“这个能用”；在意手机或桌面端的体验，就让它给出这些设备上的截图或录屏。他说目标是让 AI 尽可能多地提供验证证据。\n\n【瓶颈从写代码转到了验证】\n\nManish 给了几组数字说明问题。持续集成服务 CircleCI（代码提交后自动构建、测试的云服务）今年分析了 2800 万次自动化流程，发现代码产出量涨了 59%，但每 10 次往生产环境合并的尝试里有 3 次失败。Sonar 即将发布的一份调查里，76% 用 AI 生成代码的开发者说，代码产出的速度快到他们根本来不及验证。\n\nAddy 说，现在技术负责人最关心的是怎么在保证有信心的前提下更快上线。过去我们说一段代码质量高，依据是好的测试、性能基准、需求规格，这些能给人信心的东西现在都可以让 AI 便宜又快地生成出来，人再去修改完善。他认为工程师现在最该花时间的就是这些检查。\n\n至于下一步的提升从哪来，他说模型质量已经相当不错了，他举了 Opus 5.5 为例。更大的空间在验证，而且要讲具体。你跟人说“验证一下”，对方下一个问题就是“验证到底指什么”。所以讨论应该落到哪些测试真正有用上。Anthropic 用得最多的是三类：端到端测试；属性测试，也就是不写一个个具体例子，而是写一条规则（比如“排序后列表长度不变”），让程序自动生成大量随机输入去验证；还有视觉验证测试，通过截图对比检查界面有没有变样。目标是有足够的信心让这些改动自动合并。\n\nManish 从 Sonar 的角度补充了一个“多层验证”的框架，主张零信任，在每个环节都验证。第一层是规则固定的自动扫描，查 SQL 注入这类安全漏洞和常见 bug；第二层是 AI 审查，查规则扫不出来的逻辑问题，以及代码是否符合本来的意图；第三层是软件供应链检查，看项目依赖的第三方代码包里有没有已知漏洞或恶意代码。每一层专门抓一类问题。\n\n【从“亮灯工厂”到“熄灯工厂”，自主权要一步步挣】\n\n对谈的标题里有个说法叫“软件工厂”，来自 Addy 今年写的一篇文章，他的定义是“把循环规模化”：让 AI 一遍又一遍地规划、编写、检查、上线代码。他把软件工厂分成两种。亮灯工厂里，AI 承担这些步骤，但人还在里面，用自己的判断和品味把关。熄灯工厂更像全自动的汽车厂，机器人一直在干活，人退到更上游，只负责定方向，只有遇到最特殊的例外情况才被叫进来。\n\n他说大多数团队处在两者之间，都在摸索怎么在信得过的前提下一步步提高自动化程度。AI 能给出的验证越多、越让人有信心，就越能往熄灯的方向走。Sonar 的调查显示，目前只有 5% 的公司在用软件工厂，预计会涨到 34%，金融行业是 39%。被问到 2027 年底大多数团队会是哪种工厂，Addy 的判断是：亮灯工厂为主，带着一些熄灯的角落。\n\n自动化程度高了，管控就成了企业的难题。Addy 说，几个月前他接触过的很多公司都在担心同一件事：放手让工程团队用 AI 智能体，结果冒出了几百甚至几千个智能体，谁也不知道它们在干什么，它们访问各种系统和数据，可能还在往生产环境部署。他总结企业最关心三件事：怎么控制、怎么分配权限、怎么用沙箱（隔离的运行环境）保证智能体不越界。\n\nAI 写的代码要不要在 PR 里标出来？Addy 认为应该。过去工程师对自己写的代码有很强的归属感，在 Anthropic 大家没那么在意 Claude 被署名为作者，更看重给用户交付的东西对不对。标出来还有一个用处：知道是 AI 写的，就能决定要加哪些额外的约束和检查。Manish 也同意，他认为至少未来半年到九个月里应该标注，对金融客户来说还关系到审计。两人都强调责任归属不变。Addy 说，就算这次是我让 Claude 去干的活，出了问题还是我负责，还得我去修。\n\n那 AI 开的 PR 什么时候能放心合并？Addy 的回答是：你有充分的信心不会出问题，或者已经尽可能把风险降下来的时候。\n\n快问快答里，Addy 还给了两条建议。对技术负责人，要推着团队想清楚“验证”具体指什么，现在的测试做到了哪一步，离“AI 自己判断代码可以合并、你也放心”还差什么。对刚入行的开发者，多积累各种测试的经验，端到端测试、属性测试都要会。\n\n【不逐行看代码，和不验证是两回事】\n\nAnthropic 一天三万次合并，人显然也没有逐行看，但按 Addy 的说法，每次合并之前 AI 都得先把功能实际跑一遍，再把证据交给人看。省掉的是读代码的时间，验证一步都没少。\n\n他们能这样做是有前提的。\n\n一是模型，Addy 自己提到 Opus 5.5 这一代已经够好，我也是用上 Fable 和 Opus 5.5 之后才放心不怎么 Review。\n\n二是验证的基础设施：端到端测试、自动录屏、每次改动都触发的检查，这些都得先搭好。\n\n为了扛住这个量，据 Anthropic 10 月发的工程博客，他们连 Git 都换成了自己开发的版本管理系统。这样的投入，大多数团队一时做不到。\n\n所以我的建议是，想少看代码，别先急着把 Review 关掉，先补上 Addy 说的那一步：让 AI 交活的时候附上证据。如果不知道从哪里下手的话，可以从最容易出问题的界面开始，要求它在浏览器里实际操作一遍，给你截图或录屏。证据还是要你自己看，只是看录屏比读几百行代码快得多。\n\n另外，Manish 讲的三层验证框架可以参考，不过 Sonar 本身就是卖代码检查工具的，听这部分时心里有个数就行。\n\n视频来源：https://t.co/NAnM2wC9wj",
+    "createdAt": "Thu Nov 05 02:12:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWU4xpBW8AALgWS.jpg",
+      "https://pbs.twimg.com/media/HWU4xpCXQAAb82b.jpg",
+      "https://pbs.twimg.com/media/HWU4xpFXkAAvQpf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118161630043509051",
+    "fullText": "Deep Learning with PyTorch — Step-by-Step Beginner's Guides (3 volumes)\n\nVol.1 (Fundamentals): https://t.co/OVTiCVXNwH\n\nVol.2 (Computer Vision): https://t.co/YrGvgi1GaP\n\nVol.3 (Sequences and NLP): https://t.co/78cnfscBMM\n———\n#MachineLearning #ML #AI #DataScience #DataScientist https://t.co/P8baGJoKHN",
+    "createdAt": "Thu Nov 05 02:01:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496228,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWU4mhKX0AAHBcv.jpg",
+      "https://pbs.twimg.com/media/HWU4mhFXwAAMk6D.jpg",
+      "https://pbs.twimg.com/media/HWU4mhJX0AA4VkU.jpg",
+      "https://pbs.twimg.com/media/HWU4mhGXYAEV1k0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118161438942609512",
+    "fullText": "Textbooks in Number Theory:\n1) https://t.co/Y9Z5bLOsul\n2) https://t.co/SVxnAqJ8rQ\n3) https://t.co/f7oW0Ep3ON\n4) https://t.co/apszYPtiHq\n————\n#Mathematics https://t.co/U6gJ4ZmVef",
+    "createdAt": "Thu Nov 05 02:00:15 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
