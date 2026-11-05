@@ -1,6 +1,508 @@
 [
   {
     "user": {
+      "screenName": "natolambert",
+      "name": "Nathan Lambert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+      "description": "Open model research, founder, director @trillium_labs. Prev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followersCount": 108563,
+      "friendsCount": 964,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/natolambert/status/2118362983285850288",
+    "fullText": "I regularly hear from people that my post-training book/writing has helped them get a job at labs by focusing on material that develops intuitions for how training methods work. It's very validating, because this type of \"idea/math heavy\" writing doesn't really sell many books. It's rewarding the right people who put the effort into learning. I'm happy I made the time for it.",
+    "createdAt": "Thu Nov 05 15:21:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building and measuring frontier intelligence @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 327971,
+      "friendsCount": 1439,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXu-KqbsAAL14A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2118361955991978126",
+    "fullText": "Banger paper on RSI with foundation model systems.\n\n(bookmark it)\n\nSeriously, I highly recommend this paper if you want to start experimenting with RSI in your own company.\n\nLots of great insights and tips.\n\nThey propose Recursa, which raises DeepSeek-V4.1-Flash from 30.0% to 55.0% all-pass on held-out legal tasks, without a stronger teacher or human experts.\n\nThe model weights stay the same. The gain comes from a knowledge repository the system writes for itself.\n\nThe repository stores domain skills, instructions on when to use them, memories of past tasks, and reflections.\n\nRecursa first builds it from domain materials. Then parallel learners run tasks and propose fixes, and only validated fixes get merged back.\n\nOn Harvey LAB's Firm Knowledge benchmark, Qwen3.8-Flash goes from 35.0% to 46.0% with the same loop.\n\nIf you are adapting an agent to a new domain, try a validated skill repository before reaching for fine-tuning.\n\nhttps://t.co/bMuUpfJ4jb\n\nChat with Paper: https://t.co/LY6p84YP4e",
+    "createdAt": "Thu Nov 05 15:17:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149124,
+      "friendsCount": 5551,
+      "location": "Montréal · Québec"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXsIDCW4AAhmr6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2118358827464618485",
+    "fullText": "🌌♾️ ALPHA GENESIS FLYWHEEL Ω\n\nImagine something extraordinary.\n\nFor the first time in history, we have AI systems that can draw upon an enormous amount of humanity's accumulated knowledge.\n\nThink about it: centuries of science, mathematics, engineering, discoveries, inventions, successes, and failures.\n\nThat's our starting point: the past.\n\nBut we're not stopping there.\n\nWe're also continuously watching what's happening at the very frontier of AI and science. Every time a meaningful new capability appears, we want to know about it, understand it, and see what it changes.\n\nThat's the present.\n\nNow comes the really interesting part.\n\nMost people look at a new AI breakthrough and ask:\n\n\"How can we use this to do what we're already doing, but faster or cheaper?\"\n\nWe're asking a much bigger question:\n\n\"What has just become possible that wasn't economically or technically practical before?\"\n\nAnd we go even further.\n\nSometimes an extraordinary opportunity looks impossible—not because the technology doesn't exist, but because everyone is trying to solve their part of the problem separately.\n\nWhat if we could connect those pieces differently?\n\nWhat if we could invent not just a new solution, but an entirely new way for people and businesses to work together, create value, and make money?\n\nThat's what we mean by Transformational Intelligence: learning to change the game itself.\n\nAnd here's the final piece.\n\nWhen we discover something valuable, we want to build it, test it, make it commercially viable, and preserve what we've learned.\n\nThen we use that new capability to discover and build the next one.\n\nAnd we keep improving the very process that discovers these opportunities.\n\nThat's the flywheel.\n\nAn invention helps create the next invention. A successful business helps finance the next opportunity. And each generation can make the enterprise more capable.\n\n🌊 Catch the wave. Awaken the possible. SURF THE EXPONENTIAL. ♾️♾️♾️✨✨✨\n\n📖 Explore the paper: https://t.co/7hI2wJBqkm\n\nWe're not just trying to build a successful AI company.\n\nWe're trying to build a company that continually discovers and constructs the next generation of extraordinary opportunities.\n\n#AGIALPHA #MontrealAI #QuebecAI",
+    "createdAt": "Thu Nov 05 15:04:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310537,
+      "friendsCount": 8592,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2118358455232737785",
+    "fullText": "Here is an easy way to stop stressing over all of your problems in life: just ignore them and hope they go away on their own.",
+    "createdAt": "Thu Nov 05 15:03:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 360465,
+      "friendsCount": 900,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2118357795607105958",
+    "fullText": "Run Polars on a GPU with AWS | Live with cuDF Polars https://t.co/1S0CGF2aA4",
+    "createdAt": "Thu Nov 05 15:00:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 457406,
+      "friendsCount": 615,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2118356664479052207",
+    "fullText": "Building more software means managing more data, access rules, deployments, and monitoring.\n\nEvery company I talk to is using agentic coding to do more. Codebases are growing, and so are problems.\n\nHere is the best way to manage complexity: ↓",
+    "createdAt": "Thu Nov 05 14:56:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building and measuring frontier intelligence @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 327971,
+      "friendsCount": 1439,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2118353084887777381",
+    "fullText": "Own your intelligence stack, folks!\n\nWe've reached the point where it's simply not possible to do reliable groundbreaking AI research (using autoresearch loops) with GPT or Claude.\n\nI constantly get hammered with inaccurate refusals.\n\nThis is sad!\n\nThey should at least spend time fixing their classifiers.\n\nBut over the last year, I've learned to build my own thing and own more of the intelligence stack. \n\nMy advice: never lock yourself into any of these vendors if you really care about your business and customers. \n\nImagine trying to stay at the frontier and depending on these models. You simply won't be able to. They'll refuse requests (at the model and harness layer), and that will hurt you profoundly. \n\nIf you run a small research lab, or even plan to do minimal research (we all should be trying to) in the future (with RSI pipelines) for your business, you need to get this part right.\n\nMany companies have already realized this and have started building their own intelligence stack.\n\nFrom the harness to training and serving their own models. \n\nIt's not easy, but it is the way.\n\nIt's very clear to me that open-source models are truly the only path forward.",
+    "createdAt": "Thu Nov 05 14:41:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496253,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXjpa-W8AALCFh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118349504458158503",
+    "fullText": "Western Digital 8TB WD Purple Surveillance Internal Hard Drive HDD - SATA 6 Gb/s, 128 MB Cache, 3.5\" \n\n💥https://t.co/9u8jdkmvXF ⚡️ https://t.co/VeTvrHTcZQ",
+    "createdAt": "Thu Nov 05 14:27:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496253,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXhzjQWsAA-JQV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118347478281986186",
+    "fullText": "Comprehensive Guide to Learning the Essentials of Data Centers \n\nAvailable at https://t.co/DQeBfJX4QC https://t.co/LuZWxxIM5A",
+    "createdAt": "Thu Nov 05 14:19:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496253,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXhuhGW8AAxq8H.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118347391854432548",
+    "fullText": "Data Center Handbook: Get ahead of the data center gold rush starting now — Learn and Execute the steps here — Plan, Design, Build, and Operate a Smart Data Center\n\nAvailable at https://t.co/q0tI1MQPgK https://t.co/xKSwVKxCeD",
+    "createdAt": "Thu Nov 05 14:19:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496253,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXhnduWsAA4UY1.jpg",
+      "https://pbs.twimg.com/media/HWXhndrXoAAEXF6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118347272077693103",
+    "fullText": "“The Intelligence Grid — AI Data Center Power: From Grid Bottlenecks to Productive Compute” (Part of the 4-part AI Infrastructure Field Guides)\n\nSee it here: https://t.co/xlPdrlTQcW https://t.co/48ZJG6Nx9w",
+    "createdAt": "Thu Nov 05 14:18:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496253,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXgRrDXYAAVH6g.jpg",
+      "https://pbs.twimg.com/media/HWXgRrBXgAAgfkm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118345798014378176",
+    "fullText": "Attention and Transformer Thinking (Volume 11 in the “AI Mathematics Ladder Building Intelligence from First Principles” series): https://t.co/Bzwi054vHG\n+\nSee also… Python First Principles for Data Scientists and Developers, Volume 4 — The Data Scientist's Python Workbench: https://t.co/Ofawn0WRUt",
+    "createdAt": "Thu Nov 05 14:12:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496253,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXeJ0rXUAAjGh6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118343463297028532",
+    "fullText": "Cybersecurity Strategy for the AI-Driven Era — Proven strategies and data-driven tactics to disrupt attacks and strengthen enterprise defenses: https://t.co/EjPXropKVa from @PacktPublishing \n\nWhat you will learn:\n🔴Identify common enterprise intrusion paths and reduce initial compromise\n🔴 Distinguish credible threat intelligence from industry noise\n🔴 Improve vulnerability management while reducing risk and cost\n🔴 Assess malware, ransomware, and internet-based attack techniques\n🔴 Secure APIs and reduce exposure from trusted enterprise tools\n🔴 Evaluate Zero Trust and attack-centric security strategies\n🔴 Apply cloud, resilience, and AI capabilities to improve security outcomes\n🔴 How governments request data and how enterprises manage access, risk, and oversight",
+    "createdAt": "Thu Nov 05 14:03:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/tTzeqS2PkF. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14616,
+      "friendsCount": 15428,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2118341815040409821",
+    "fullText": "People of the world needs to feel for the kind of choice Americans have for their politicians.",
+    "createdAt": "Thu Nov 05 13:57:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496253,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXcAszXkAA8DLi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118341106999898463",
+    "fullText": "Advanced Cyber Threat Intelligence and Hunting with AI — Detect APTs and zero-day attacks using CTI, behavioral analytics, and AI techniques: https://t.co/PCrbkUrgBw from @PacktPublishing https://t.co/99kpl6WuIb",
+    "createdAt": "Thu Nov 05 13:54:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496253,
+      "friendsCount": 3372,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXbMDBWAAAyasX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118340202418618803",
+    "fullText": "OpenAI API Cookbook — Build intelligent applications including chatbots, virtual assistants, and content generators: https://t.co/Lqoettp9xs from @PacktPublishing https://t.co/GlCPohUjCc",
+    "createdAt": "Thu Nov 05 13:50:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building and measuring frontier intelligence @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 327971,
+      "friendsCount": 1439,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXama6a0AAVtN0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2118339557154504969",
+    "fullText": "Impressive paper from CMU.\n\nSoon, we will have coding agents that can tune the entire stack, from prompts to token serving.\n\nThis work experiments with coding agents to tune an LLM serving stack.\n\nThey get Claude Sonnet 5.5 to build a serving system for Gemma E4B that delivers 4.87x the value per GPU dollar of the vLLM reference.\n\nServerBench asks coding agents to design a complete, specialized serving system and decide how many concurrent sessions to run. The score is latency-qualified token value per dollar of GPU cost, measured by replaying real coding sessions with their dependencies intact. An independent check verifies the system works.\n\nAcross 11 coding-agent models and three deployments, 22 of 33 runs produced a verified system and 13 beat the strongest baseline.\n\nThe best designs raised capacity and chose the load to match it. Failed runs often shipped optimizations whose new code paths were never tested.\n\nhttps://t.co/JjG3Wr8Hkn\n\nChat with Paper: https://t.co/ODYAwhxGUJ",
+    "createdAt": "Thu Nov 05 13:48:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 255607,
+      "friendsCount": 7223,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2118339397435179045",
+    "fullText": "happy news: my p(doom), p(catastrophe), and p(dystopia) have all dropped this week, given the results of the midterms.\n\ndems may possibly go too far in regulation but they are likely to limit the chances of many of the worst harms.\n\nand to expose a lot of malfeasance.\n\nthat in turn will increase the public desire to regulate the worst actors, — and make us all safer.",
+    "createdAt": "Thu Nov 05 13:47:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 56768,
+      "friendsCount": 2394,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXZkw_WMAEryDE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2118338593991369152",
+    "fullText": "Apple had a rather good quarter. This helps put into perspective sales growth in AI-affiliated companies. https://t.co/EIsNaa94DY",
+    "createdAt": "Thu Nov 05 13:44:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 136704,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWXY_67bUAA2CuZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2118337806120718495",
+    "fullText": "Recommended benchmark from OpenAI on agents for everyday life tasks.\n\nThey surveyed 3,837 US consumers to rank 148 life tasks by what people would pay an assistant to handle. Together, those tasks are worth over $1.7 trillion a year.\n\nLifeVal turns the most valuable of them into 169 agent tasks. Each one is written by someone who has done the task many times in real life, using their own ChatGPT conversations, memories, and files. The tasks include managing finances, moving apartments, searching for a job, and finding childcare.\n\nEvery task comes with a rubric, a working environment and an offline copy of the web, and passes three rounds of human review.\n\nScores rise steadily from GPT-5.2 to GPT-6 Astra. The most common failure for every model is a wrong answer or recommendation, often because the model missed a fact sitting in the user's past chats. On criteria tied only to past conversations, the win rate was 33%, compared with 48% for saved memories.\n\nIf you build assistants with memory, test whether the agent actually finds what the user told it weeks ago.\n\nhttps://t.co/lVuZkcx8Nt\n\nChat with Paper: https://t.co/TU5Ot5vcoV",
+    "createdAt": "Thu Nov 05 13:41:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 74332,
+      "friendsCount": 37066,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2118330195782619243",
+    "fullText": "two pretty cool @airstreet portfolio tings today 🤗",
+    "createdAt": "Thu Nov 05 13:10:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149124,
+      "friendsCount": 5551,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2118314148304171489",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Thu Nov 05 12:07:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/tTzeqS2PkF. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14616,
+      "friendsCount": 15428,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2118307245935215046",
+    "fullText": "In representative democracy, what you vote for and what you get are two different things.",
+    "createdAt": "Thu Nov 05 11:39:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "huggingface",
+      "name": "Hugging Face",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
+      "description": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
+      "followersCount": 836922,
+      "friendsCount": 227,
+      "location": "NYC and Paris and 🌏"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWW70eYWUAAzbW8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/huggingface/status/2118306577203822976",
+    "fullText": "Join us in this livestream next Tuesday, learn how to shrink models to fit in your laptop and make them go brrr 💨\n\nWe will have @mervenoyann @maximelabonne @TadimetiAditya @bartowski1182  and @mgoin_ giving a primer and know-hows on quantization with llama.cpp and vLLM ⚡️ https://t.co/JXjQUouVM4",
+    "createdAt": "Thu Nov 05 11:36:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 56768,
+      "friendsCount": 2394,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWWxAzoWcAAMz8M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2118293932987814103",
+    "fullText": "Even as equity markets tank, bond investors are still buying. The Europeans in particular. https://t.co/Jqza0V0wM5",
+    "createdAt": "Thu Nov 05 10:46:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5399766,
+      "friendsCount": 805,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWWgOaEW4AAcdhj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2118275406012784962",
+    "fullText": "AI startups grow fast. https://t.co/8rHqUNWdw1",
+    "createdAt": "Thu Nov 05 09:33:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 255607,
+      "friendsCount": 7223,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2118272456754364678",
+    "fullText": "next stop NYC!",
+    "createdAt": "Thu Nov 05 09:21:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 255607,
+      "friendsCount": 7223,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWWSkLxXQAAITPV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2118260359249215802",
+    "fullText": "Fighting bullshit, together with @ZackKorman \n\nIn Madrid @elconfidencial. https://t.co/8w67F0byEp",
+    "createdAt": "Thu Nov 05 08:33:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
+      "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followersCount": 186486,
+      "friendsCount": 1311,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWWOVUHaoAAiqQ2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/op7418/status/2118255706759651755",
+    "fullText": "前几天又聊到语音输入法\n\n评论区有朋友说网易的叭哥说不错，试了一下，确实可以！\n\n网易在 AI 领域最近做这些小产品都很不错，这个叭哥说，还有 UU 远程都非常好。\n\n它这个是免费的，像 Typeless 还是就海外很多都是收费的.\n\n他们用到的这个本地的模型也是他们自己训的 ASR 模型。\n\n我主要是在桌面端将语音输入法和正常的输入法分开，这样的话就不会相互影响.\n\n正常输入法有语音的时候，因为输入法切换什么的，经常会被打断，然后你输出一长串，最后又被打断没了。\n\n这个就很麻烦，后分开的话就可以避免这个问题。\n\n然后国产的这种语音输入法有个什么好处呢？就是它速度快呀。老快了，这个速度。\n\n他们这个也没有什么多余功能，非常克制，就是一个输入，然后还有一个翻译，没有什么花里胡哨的一个界面，进去就直接用。\n\n然后润色，比如说 Typeless 的润色啊，真的很烦。\n\n每次尤其是这种模型名称、数字之类的，他固执地认为 Claude 的模型就只有到 3.5，模型名称和一些数字上就要给我故意改错，就我说的很清楚，他也会改错。\n\n然后叭哥说就没有这个问题。他掌握得很好，不会过度润色。\n\n自定义词库也有，因为我有自己的 Memory ，我直接让 Codex 分析了一下我的 Memory，给我出了一个自定义词库的文件，直接上传就全部搞好了。\n\n这段也都是叭哥说语音输入的。",
+    "createdAt": "Thu Nov 05 08:14:50 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "Kling_ai",
       "name": "Kling AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
@@ -910,7 +1412,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 5504068,
+      "followersCount": 5508553,
       "friendsCount": 4,
       "location": ""
     },
