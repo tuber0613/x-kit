@@ -1,11 +1,335 @@
 [
   {
     "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310465,
+      "friendsCount": 8598,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2119086648080080896/vid/avc1/1280x720/3v1vS2chaj7IvdbI.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/tunguz/status/2119086749469028633",
+    "fullText": "Analog techno is the thing. https://t.co/ZhspZAXRgU",
+    "createdAt": "Sat Nov 07 15:17:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building and measuring frontier intelligence @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 328192,
+      "friendsCount": 1452,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWiBdtHaIAAT03a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2119085975880212842",
+    "fullText": "Great paper from Google on making ML experiments reproducible for coding agents.\n\n(bookmark it)\n\nIf you run agents on research code, this one is worth your time.\n\nThey find that refined artifacts raise agent reproduction success from 76.4% to 92.6% across four models and cut API spending by 19.7%.\n\nReproBridge turns one successful reproduction into a package the next agent can reuse. The package holds the cleaned code, the environment setup, scripts that launch each experiment, and a written guide.\n\nA new agent reruns the experiment from that package. A separate auditor then checks that the runs actually happened.\n\nThe benchmark covers 1,029 tasks from 36 papers, each with five human-verified reference scores. The gap between the best and worst model drops from 21.6 to 3.9 points. Removing the code or the environment setup causes the largest losses.\n\nIf your agents keep failing to rerun a repo, save the setup steps from the first successful run before trying a bigger model.\n\nhttps://t.co/sKYl7Nf77S\n\nChat with Paper: https://t.co/ENz1N5wOUw",
+    "createdAt": "Sat Nov 07 15:14:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 136802,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWh_Z6aaAAA7OGy.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2119083711522316490",
+    "fullText": "Great paper finds that MCP agents rarely say that tasks are impossible.\n\nThey propose MCPHallu, which runs 358 tasks on 36 production MCP servers.\n\nEach task is built to trigger one failure type, such as branch collapse, an unreachable goal, tool misuse, or forgetting context.\n\nAcross fourteen frontier agents and 5,012 trajectories, the average score is 0.642 out of 1.\n\nOn unreachable-goal tasks, only 23.2% of runs pass. Agents keep calling tools or report success instead of saying the goal cannot be met.\n\nA model's rank moves by 6.9 of 13 places on average depending on the failure type.\n\nThe main takeaway is that you want to pick models for MCP work by the failure type your users hit most, and add tests where the right answer is to stop.\n\nhttps://t.co/cHwZGiZReh\n\nChat with Paper: https://t.co/Wa7Nzqi8g5",
+    "createdAt": "Sat Nov 07 15:05:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Kling_ai",
+      "name": "Kling AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+      "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+      "followersCount": 138566,
+      "friendsCount": 552,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2119062090967035904/vid/avc1/1920x1080/F3sTSru573FaEjx8.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/Kling_ai/status/2119074897230233831",
+    "fullText": "Behind the scenes of a fashion campaign made with Kling 4.0.\n\nFrom creative vision to final frame, take a closer look at how UNVEIL brought HELIOT EMIL's CORE UNIFORM campaign to life. https://t.co/uQZq8eDKl5",
+    "createdAt": "Sat Nov 07 14:30:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 255968,
+      "friendsCount": 7225,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2119071528855695551",
+    "fullText": "Amazing! That’s me up front, just to the right of the Pope, in Italy’s leading newspaper.\n\nhttps://t.co/0VjObuAn3S\n\n(There’s also interview me, posted in a separate link)",
+    "createdAt": "Sat Nov 07 14:16:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 255968,
+      "friendsCount": 7225,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2119067976850604251",
+    "fullText": "Interview with me in Corriere Della Sera\n\nhttps://t.co/GakRVQnO9r",
+    "createdAt": "Sat Nov 07 14:02:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 423006,
+      "friendsCount": 933,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2119060004607086878",
+    "fullText": "Looking out the window of my plane, what I see is millions of rooftops WITHOUT SOLAR. Why isn’t every rooftop, sucking down photons from the sun?",
+    "createdAt": "Sat Nov 07 13:30:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 457392,
+      "friendsCount": 615,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/svpino/status/2119056311019049187",
+    "fullText": "X is rate limiting how many people I can block daily, so that’s not even an option to stop ai replies.",
+    "createdAt": "Sat Nov 07 13:16:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 74552,
+      "friendsCount": 37123,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2118830204953169920/vid/avc1/1280x720/2-LHPeKfI0KrNTvC.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2119054853628735687",
+    "fullText": "THIS IS SPARTA https://t.co/th5G63qPHj",
+    "createdAt": "Sat Nov 07 13:10:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5398323,
+      "friendsCount": 805,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWhhr8uWAAAcg-D.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2119051661276742141",
+    "fullText": "The famous Zenith cal 135. The competition version won the Neuchâtel trials every year from 1950 to 1954. The secret is the huge balance wheel (the gold wheel at lower left with the coiled spring in the middle). https://t.co/EHAuF9QN3k",
+    "createdAt": "Sat Nov 07 12:57:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 356944,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWheJ2KW4AAJKez.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2119047151892210084",
+    "fullText": "Strong pathways for local talent build a stronger NYC tech ecosystem.\n\nBrendan Collins, Executive Director of the @NYCTechTalent, joins AI Dev NYC to share how the city is putting AI engineers in the classroom. The Pipeline connects employers, training providers, job seekers, and government to expand tech access in NYC.\n\n📅Nov 30–Dec 1, 2026 · Chelsea Piers, NYC\n🎟️Get your tickets: https://t.co/u1UDvdlgdP\n\n#AIDev #DeepLearningAI #NYCTech",
+    "createdAt": "Sat Nov 07 12:39:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sarahookr",
+      "name": "Sara Hooker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1403376500192071683/zvr_Hkox_normal.jpg",
+      "description": "Building intelligence that evolves @adaption_ai. Built @Cohere_Labs, @GoogleBrain, @GoogleDeepmind. ML Efficiency, Multimodal\\lingual.",
+      "followersCount": 65493,
+      "friendsCount": 11713,
+      "location": "San Francisco"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWhdiI7XcAAhnqe.jpg",
+      "https://pbs.twimg.com/media/HWhdiJJWUAAugXu.jpg",
+      "https://pbs.twimg.com/media/HWhdiJIX0AARtuG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sarahookr/status/2119046514316017860",
+    "fullText": "Wouldn’t be a London trip without one excellent Indian meal. https://t.co/Pl335XKxxK",
+    "createdAt": "Sat Nov 07 12:37:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149130,
+      "friendsCount": 5554,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2119045360337231966",
+    "fullText": "🏗️♾️ LEARNING TO BUILD ✨\n\n“How Intelligence Learns to Create What Makes New Possibilities Real”\n\nNot merely a tool. Not merely a prototype. The *complete means* for something worthwhile to become possible: the knowledge, instruments, processes, resources and arrangements that must work together.\n\nChange the game → build what the new game requires → learn to build better.\n\nWhen we build something new, we change what can be built next. ♾️\n\n#AGIALPHA",
+    "createdAt": "Sat Nov 07 12:32:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Austen",
+      "name": "Austen Allred",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+      "description": "CEO @GauntletAI: Free AI training + high-paying jobs for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+      "followersCount": 489613,
+      "friendsCount": 1681,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Austen/status/2119041327383924961",
+    "fullText": "The last 24 hours of AI, for builders:\n\n• Model cascades: Opus accuracy at a fraction of the cost\n• Anthropic's agent memory playbook\n• An MCP trust-boundary bug worth reading\n• Cursor agents ship live apps\n• Conductor data gone Nov 20\n\n👇 https://t.co/SqdbXc8DQP",
+    "createdAt": "Sat Nov 07 12:16:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310465,
+      "friendsCount": 8598,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2119035504637218885",
+    "fullText": "Just FYI, doubling down on your worst traits is *NOT* course correction.",
+    "createdAt": "Sat Nov 07 11:53:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 38301,
+      "friendsCount": 2046,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWg6POJboAALWcq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aigclink/status/2119016469292040358",
+    "fullText": "一个专为研究打造的本地LaTeX工作空间：Lattice\n\n对经常写学术论文的人来说，你可能需要用LaTeX编辑器写论文，用Zotero管理参考文献，用Overleaf和导师、合作者协同修改，再打开Claude Code帮忙修改内容、检查代码、或者修复编译错误\n\n文献、笔记、论文、Agent在不同工具里来回切换非常麻烦\n\nLattice，把论文写作、文献、研究资料、Overleaf协作和现有Coding Agent全部整合进了一个本地科研工作台\n\n它有几个能力：\n1、LaTeX写作与PDF预览一体化\n本地编辑.tex文件，支持一键编译和PDF并排预览、源码与 PDF双向定位、编译错误诊断，修改效果可以直接检查\n\n2、把参考文献和研究资料放进工作区\n支持从arXiv、DOI、BibTeX导入文献，统一管理参考论文、引用、Markdown笔记等资料\n\n3、直接接入Claude Code、Codex等\n让Agent读取论文项目和参考文献、修改LaTeX、修复编译错误，并通过Diff检查AI对文件做了哪些改动等\n\n4、支持Overleaf双向同步\n自己可以在本地使用Lattice，导师和合作者继续在 Overleaf上协作，无需大家都迁移到同一个工具\n\n5、研究成果和展示材料放在一起\n除了论文，还可以在同一个工作区管理研究笔记、白板和演示幻灯片，让写论文、整理资料、准备报告成为连续的工作流程\n\n#Lattice #科研写作AI #本地LaTeX",
+    "createdAt": "Sat Nov 07 10:37:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310465,
+      "friendsCount": 8598,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2119014119320019086",
+    "fullText": "Software was a low AI phenomenon.",
+    "createdAt": "Sat Nov 07 10:28:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 149130,
+      "friendsCount": 5554,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2119008758110019758",
+    "fullText": "GM 🤩✨",
+    "createdAt": "Sat Nov 07 10:07:11 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 255968,
+      "friendsCount": 7225,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2119002620438429730",
+    "fullText": "Figures that a man who trusted Sam Altman would fall for a Chinese spy.",
+    "createdAt": "Sat Nov 07 09:42:48 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "hardmaru",
       "name": "hardmaru",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
       "description": "Co-Founder and CEO @SakanaAILabs 🎏",
-      "followersCount": 446546,
+      "followersCount": 446609,
       "friendsCount": 1913,
       "location": "Minato-ku, Tokyo"
     },
@@ -23,7 +347,7 @@
       "name": "Michael Black",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
       "description": "VP Digital Human Research, Epic Games. Emeritus Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Opinions are my own.",
-      "followersCount": 107134,
+      "followersCount": 107155,
       "friendsCount": 744,
       "location": "Tübingen, Deutschland"
     },
@@ -39,8 +363,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 496284,
-      "friendsCount": 3373,
+      "followersCount": 496348,
+      "friendsCount": 3372,
       "location": "Maryland, USA"
     },
     "images": [
@@ -57,8 +381,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 496284,
-      "friendsCount": 3373,
+      "followersCount": 496348,
+      "friendsCount": 3372,
       "location": "Maryland, USA"
     },
     "images": [
@@ -75,8 +399,8 @@
       "name": "Kirk Borne",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
       "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
-      "followersCount": 496284,
-      "friendsCount": 3373,
+      "followersCount": 496348,
+      "friendsCount": 3372,
       "location": "Maryland, USA"
     },
     "images": [
