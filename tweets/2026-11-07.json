@@ -1,6 +1,711 @@
 [
   {
     "user": {
+      "screenName": "hardmaru",
+      "name": "hardmaru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1678402467078234113/XN5Oy2UP_normal.jpg",
+      "description": "Co-Founder and CEO @SakanaAILabs 🎏",
+      "followersCount": 446546,
+      "friendsCount": 1913,
+      "location": "Minato-ku, Tokyo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWgmyRUawAAaImo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hardmaru/status/2118986274715685244",
+    "fullText": "There’s a manga about Alan Turing at Tsutaya bookstore https://t.co/ZJ7pzXtTyQ",
+    "createdAt": "Sat Nov 07 08:37:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Michael_J_Black",
+      "name": "Michael Black",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1447944791048740864/wLZXbH9b_normal.jpg",
+      "description": "VP Digital Human Research, Epic Games. Emeritus Director, Max Planck Institute for Intelligent Systems (@MPI_IS). Opinions are my own.",
+      "followersCount": 107134,
+      "friendsCount": 744,
+      "location": "Tübingen, Deutschland"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Michael_J_Black/status/2118963839249047846",
+    "fullText": "Writing software for human use is different from writing software for an AI.\n\nFor humans, we provide an API/CLI/GUI that defines a contract. It controls what the valid inputs are and how the software should respond. The software itself is immutable.\n\nWe do this because we don't expect users of software to be able to easily modify it. We don’t expect everyone to be an expert and very fast programmer. We also do this because a contract is useful – it defines what the creator of the software commits to and what they don’t.\n\nThe future is that we write software for AIs to use for us. In this world, I’m delivering code to an expert coder and I can assume that this coder can easily understand and modify my code if the user need differs a bit from what I expected.\n\nGood software design has always depended on a good specification of user requirements. Now user requirements can change on the fly. My agent can modify the code to suit my particular use case.\n\nWe should think about software as having two parts: (1) an immutable part that is the contract about the core method and what it does. And (2) a modifiable part that the AI can adapt to different use cases.\n\nThere are lots of example of how this plays out. The simplest example is probably a GUI. It's easy for Claude to build an interface tailored to what I like. Why would I settle for a GUI designed by someone who doesn’t know my task and my tastes?\n\nIn computer vision, algorithms that are designed or trained for a specific case may be adaptable to other cases. As a trivial example, imagine a method that estimates the 3D pose of a person in an image but is not designed to process video. It’s easy for an AI to take this core method and build a method that works on video.\n\nThe mindset change is to deliver software into the “hands” of an expert AI coder that can understand and modify the code. This changes the contract between designer and user. The designer is now just providing a springboard that the user can exploit to finish the job.",
+    "createdAt": "Sat Nov 07 07:08:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWgIYIIXMAA9IGA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118952838441345367",
+    "fullText": "Download 634-page PDF from MIT — ALGORITHMS FOR OPTIMIZATION — here: https://t.co/wL9oBf3pyi https://t.co/HNdgLX9Hv3",
+    "createdAt": "Sat Nov 07 06:24:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWgCIG-W4AALmhD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118945966585995521",
+    "fullText": "#Sedecordle Daily #1728 21/21 🔥15-day streak\n0️⃣5️⃣⬛0️⃣7️⃣\n0️⃣6️⃣⬛0️⃣8️⃣\n0️⃣9️⃣⬛1️⃣0️⃣\n1️⃣1️⃣⬛1️⃣2️⃣\n1️⃣3️⃣⬛1️⃣4️⃣\n1️⃣5️⃣⬛2️⃣1️⃣\n1️⃣7️⃣⬛1️⃣8️⃣\n2️⃣0️⃣⬛1️⃣9️⃣\nhttps://t.co/1gTLFg7Qc5 https://t.co/Uh16uJOzAp",
+    "createdAt": "Sat Nov 07 05:57:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWf_ejCWAAAC1eE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118943053235056658",
+    "fullText": "Foundations of Large Language Models\n(Updated. Version 4. PDF 315 pages)\n\n⤷ https://t.co/wZmeFmRY6w https://t.co/DJSx59468i",
+    "createdAt": "Sat Nov 07 05:46:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 508943,
+      "friendsCount": 14059,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2118938933363114459",
+    "fullText": "imagine how much you’d look down upon congressmen if you were a senator . full on joke chamber, you’d think",
+    "createdAt": "Sat Nov 07 05:29:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfzykrXAAA8Yi7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118930203841900900",
+    "fullText": "Tensor Mathematics for Modern AI: https://t.co/kRwSi5tBb4 https://t.co/Swm418K6n7",
+    "createdAt": "Sat Nov 07 04:55:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 165897,
+      "friendsCount": 3426,
+      "location": "on ⛓"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfxSakbgAA6j3j.jpg",
+      "https://pbs.twimg.com/media/HWfxSasa4AAlUXi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2118929332093788274",
+    "fullText": "seeking compute wisdom https://t.co/1K0swqshoT",
+    "createdAt": "Sat Nov 07 04:51:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfxNPNWoAAq8Cn.jpg",
+      "https://pbs.twimg.com/media/HWfxNPPXwAAFVPf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118927363266490634",
+    "fullText": "Teaching LLMs to Plan — Logical Chain-of-Thought Instruction Tuning for Symbolic Planning\n\nResearch paper: https://t.co/nDeS9CzmCp [30-page PDF] https://t.co/Cc73B2iueU",
+    "createdAt": "Sat Nov 07 04:43:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfwUa-WEAAt6I0.jpg",
+      "https://pbs.twimg.com/media/HWfwUa_XEAA8CK3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118926386144428182",
+    "fullText": "17-page PDF explains Hidden Markov Models (HMM): https://t.co/FaIXSPx8Za\n+\nMarkov Chains infographic\n(source: https://t.co/ER42ihx4uL ) https://t.co/X6MYSOXIYZ",
+    "createdAt": "Sat Nov 07 04:39:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfvpqoWQAAAGBI.jpg",
+      "https://pbs.twimg.com/media/HWfvpqpWQAEawEP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118925651419804153",
+    "fullText": "Markov Chains\n\nInfographic source: @themathpulse \n\nMarkov Chain Monte Carlo (MCMC) Simulation for Bayesian Inference: https://t.co/Ni59sicOOO https://t.co/ckeDbHwbVZ",
+    "createdAt": "Sat Nov 07 04:36:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfuP59XoAAQ5Dq.jpg",
+      "https://pbs.twimg.com/media/HWfuP59XYAAyQey.jpg",
+      "https://pbs.twimg.com/media/HWfuP6CWIAAxkLR.jpg",
+      "https://pbs.twimg.com/media/HWfuP59XoAE2r5D.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118924110604509459",
+    "fullText": "Terence Tao - master mathematician and (IMHO) mathemagician.\n\nBooks by him:\n\n1) Solving Mathematical Problems: https://t.co/VUqh5nHU76\n\n2) Pages from a Mathematical Blog: https://t.co/3TexZTynke\n\n3) Six Math Essentials: https://t.co/lXLHiQYOzX\n\nMore: https://t.co/hMwiqJrgJI\n\nNote: Most infographics have some sort of error that isn’t fact-checked (as does this one), but generally I do find them to be a curious entry point encouraging me to dig deeper and to learn more about the subject matter — i.e, as a learning prompt.😎",
+    "createdAt": "Sat Nov 07 04:30:50 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",
+      "followersCount": 843067,
+      "friendsCount": 949,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2118923122321858560/vid/avc1/1080x1920/R0jA7-1fietFsbTP.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2118923825232621998",
+    "fullText": "\"god when is meta ever going to launch muse voice they announced it forever ago\"\n\nmuse: https://t.co/X5Y5Pcw8H5",
+    "createdAt": "Sat Nov 07 04:29:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1143258,
+      "friendsCount": 6027,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfqUu2awAAxfI7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2118920030243139596",
+    "fullText": "Eval-driven development loops for agent skills is necessary. Every new model gets better. You can remove things you don't need anymore. \n\nI just removed /investigate as a skill because Opus 5.5 does it better without it. \n\nYou can feel the AGI tide rising https://t.co/RTpbEAMZVU",
+    "createdAt": "Sat Nov 07 04:14:37 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1356447,
+      "friendsCount": 2063,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2118913020072173936",
+    "fullText": "What do I have to do to get PS5 Pro? I have been trying to buy one for 2 weeks. Not a single place has had it in stock. I specifically quit my job so I could play GTA6.",
+    "createdAt": "Sat Nov 07 03:46:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfjTqqXsAA9XZ9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118912080422260902",
+    "fullText": "The Mathematics of Artificial Intelligence Agents — A Guide to Decisions, Planning, Memory, Tools, Learning, and Cooperation: https://t.co/Hd7bUNcQ3b https://t.co/kn3GvR5Zkh",
+    "createdAt": "Sat Nov 07 03:43:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfjOFHW4AAtck8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118911984297201696",
+    "fullText": "Generative AI — The Mathematics and Architecture Behind It — From the Mathematics of the Transformer to the Architecture of Nested Learning All in One Volume: https://t.co/0uDRsMGMPv https://t.co/5p7p50LJsv",
+    "createdAt": "Sat Nov 07 03:42:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfjCAGWAAAOGxd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118911776834380190",
+    "fullText": "Make Your Own Neural Network: https://t.co/3jVVWjk8NP \n\n...A step-by-step gentle journey through the mathematics of neural networks, and making your own using Python. https://t.co/90KI9iH6Ej",
+    "createdAt": "Sat Nov 07 03:41:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfigvHWsAALPvI.jpg",
+      "https://pbs.twimg.com/media/HWfigvIXcAA6ioN.jpg",
+      "https://pbs.twimg.com/media/HWfigvKXQAA3ivs.jpg",
+      "https://pbs.twimg.com/media/HWfigvIXEAAmJzM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118911204408123853",
+    "fullText": "The Art of Problem Solving (AoPS) in Mathematics — 13 volumes: https://t.co/Co5WBgtb6H — 🌟BRILLIANT🌟\n\nPrecalculus\nCalculus\nNumber Theory\nPrealgebra\nAlgebra\nIntermediate Algebra\nGeometry\nProbability\nSolutions Manuals\nand more!\n\nRead this and then get the books…. https://t.co/PlZO8AT7EV",
+    "createdAt": "Sat Nov 07 03:39:33 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfiAZfXMAADCN3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118910649170333944",
+    "fullText": "Molly and the Mathematical Mysteries — Ten Interactive Adventures in Mathematical Wonderland: https://t.co/STsGCl7OST https://t.co/KOUrTwjuDS",
+    "createdAt": "Sat Nov 07 03:37:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfhlNOWwAAzFSM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118910181555806249",
+    "fullText": "Math Study Guide — 750 Realistic Mathematics Questions With Detailed Explanation Covering Number Systems, Functions, Probability, Calculus and Geometry: https://t.co/exoCHwTr1h https://t.co/PDpySOUgUX",
+    "createdAt": "Sat Nov 07 03:35:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfhfMUXoAIhDM7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118910079210762251",
+    "fullText": "High-Dimensional Probability — An Introduction with Applications in Data Science (Cambridge Series in Statistical and Probabilistic Mathematics): https://t.co/7uOHSoUjFB\n—————\n#Statistics #DataScientist #Mathematics https://t.co/SdU3TMBQ4I",
+    "createdAt": "Sat Nov 07 03:35:04 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfhYvUWQAAuj4g.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118909967323238526",
+    "fullText": "Networks — Probability and Statistics (Cambridge Series in Statistical and Probabilistic Mathematics)\n\nGet it at https://t.co/rGfJBDExPo https://t.co/nhs7EDyqZc",
+    "createdAt": "Sat Nov 07 03:34:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfhLy3W4AAn32j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118909744970678694",
+    "fullText": "‘Concrete’ [CONtinuous and disCRETE] Mathematics — A Foundation for Computer Science (and for serious users of mathematics in virtually every discipline): https://t.co/uB0fHTXaGU [672 pages]\n\nTopics covered:\n🔶 Evaluating  Horrendous Sums\n🔶 Recurrences\n🔶 Integer functions\n🔶 Elementary number theory\n🔶 Binomial coefficients\n🔶 Generating functions\n🔶 Discrete probability\n🔶 Asymptotic methods",
+    "createdAt": "Sat Nov 07 03:33:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118909490330268054",
+    "fullText": "https://t.co/7ixaFw1vfi\n\nExplore this huge curated collection of some of the best mathematics books ever written — spans classical foundations, probability, analysis, geometry, and problem-solving texts used by mathematicians, scientists, engineers, & AI researchers.\n\nThe list is organized by these topics: \nMath\nMachine Learning\nPhysics\nEconometrics\nOptimization\nInformation Theory\nSignal Processing\nHistory\nProbability",
+    "createdAt": "Sat Nov 07 03:32:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfglKrWkAANX3n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118909081901584576",
+    "fullText": "Problem Solving Through Recreational Mathematics (Math Games &amp; Puzzles): https://t.co/YhLWnMy6aF https://t.co/ELs2OD8QOl",
+    "createdAt": "Sat Nov 07 03:31:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfggCNXYAAZjPX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118908994320519344",
+    "fullText": "Creative Puzzles to Ignite Your Mind (Problem Books in Mathematics)\n\nCool book at https://t.co/2tpj3mA1Ht https://t.co/UIHhJjNVyb",
+    "createdAt": "Sat Nov 07 03:30:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfgZZaXIAAgTPS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118908880768176482",
+    "fullText": "Martin Gardner’s “Colossal Book of Mathematics: Classic Puzzles, Paradoxes, and Problems” ➡️ https://t.co/D1biVJSdgY [736 pages] https://t.co/eACO2r5zEE",
+    "createdAt": "Sat Nov 07 03:30:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWffsHVXcAASg_j.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118908102359621864",
+    "fullText": "Mental Math—Tricks To Become A Human Calculator — for Speed Math, Math Tricks, Vedic Math Enthusiasts, GMAT, GRE, SAT Students, &amp; Prepping for a Case Study Interview [problem-solving exercises]\n\n╰┈➤ https://t.co/THlOq3EJrV\n\n[Vedic Mathematics is a mental calculation system] https://t.co/4QA9eGG7ey",
+    "createdAt": "Sat Nov 07 03:27:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWffmtcWgAAt7Ne.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118908009611227225",
+    "fullText": "SAT Math Workbook — Up-to-Date Practice for the Digital Exam (Barron's SAT Test Prep): https://t.co/BaOfceS0tm https://t.co/tkjIwFNLNf",
+    "createdAt": "Sat Nov 07 03:26:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWffSkSWUAEnYSo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118907662599368999",
+    "fullText": "SAT Math Prep — Advanced Guide and Workbook: https://t.co/kCqu6xsjMC\n\n\"It leaves no stones unturned. Clear explanations of the tested math concepts, from the simplest to the most obscure. Over 500 practice questions and explanations to help you master each topic.\" https://t.co/58IHfIHvZW",
+    "createdAt": "Sat Nov 07 03:25:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWffBWqW4AAW282.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118907367475782050",
+    "fullText": "Machine Learning From Scratch: Intuition, Math and Code of ML Algorithms\n\nGet it at https://t.co/QyWXX8Lc0o https://t.co/tsUla0NjzW",
+    "createdAt": "Sat Nov 07 03:24:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfesehWEAAvM6M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118907011517546816",
+    "fullText": "🌟🌟🌟🌟🌟\nIntroduction to Algorithms (4th edition; 1312 pages): https://t.co/otsh2WpldZ\n   ———\n#Mathematics #ComputerScience #ML #DataScience #MachineLearning \n🌟🌟🌟🌟🌟 https://t.co/PZ5Vx4DiIp",
+    "createdAt": "Sat Nov 07 03:22:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfea_GXkAAcJD1.jpg",
+      "https://pbs.twimg.com/media/HWfea_IW4AAxhZa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118906708496163083",
+    "fullText": "Explore this fun website that provides a comprehensive listing of fascinating numbers…\n\nWhat's Special About This Number?\nhttps://t.co/dJCe8lYb0H\n\nSee also the book “Exploring the Beauty of Fascinating Numbers” at https://t.co/Fiojr1pebT\n————\n#Mathematics #Math https://t.co/Ctyge40g4P",
+    "createdAt": "Sat Nov 07 03:21:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfeOVBXMAAPHVf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118906490052399509",
+    "fullText": "GRE Mathematics Test Practice Book [36-page PDF]: https://t.co/L4mYGeLXnu https://t.co/8CmK49FOmf",
+    "createdAt": "Sat Nov 07 03:20:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfd_ADWsAIYIiY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118906228667830442",
+    "fullText": "Introduction to Graph Theory: https://t.co/wP0nfijOxN (454-page PDF) — edges, vertices, trees, networks, paths, and graphs (and theorems!)\n—————\n#Mathematics #NetworkScience https://t.co/krJNr90ccy",
+    "createdAt": "Sat Nov 07 03:19:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfde1BWcAE9dqU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118905674176352725",
+    "fullText": "The Mathematics of Large Language Models — A Readable Guide to LLMs, Transformers, Diffusion, Neural Networks, and Generative AI: https://t.co/YwQcH897fv https://t.co/E6RBFvuNXy",
+    "createdAt": "Sat Nov 07 03:17:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfZ9FqWIAAzlWE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118901797037469869",
+    "fullText": "Download 348-page PDF eBook &gt;&gt; Machine Learning for Scientists and Engineers: https://t.co/zTchjkRevV\n————\n#DataScience #DataScientist #ML #Algorithms #Mathematics https://t.co/bzA0GOKOx5",
+    "createdAt": "Sat Nov 07 03:02:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496284,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWfZr39XYAEm1KZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2118901499585511850",
+    "fullText": "Download 280-page PDF math book. “Combinatorics Through Guided Discovery” at https://t.co/9jVFJhnCE6 https://t.co/HA0fVAXGZj",
+    "createdAt": "Sat Nov 07 03:00:59 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
