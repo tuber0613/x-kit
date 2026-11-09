@@ -1,6 +1,340 @@
 [
   {
     "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496565,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtcyQHWgAARppy.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2119890259823784326",
+    "fullText": "Smart Probability and Data Thinking [179-page PDF] - Mastering Math, Predictions, and TinyML for the AI Era\n\nAvailable here: https://t.co/n5NcYLKxdh https://t.co/QHNSnBaZXR",
+    "createdAt": "Mon Nov 09 20:29:58 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 257127,
+      "friendsCount": 7226,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2119888423813320788",
+    "fullText": "live in a moment on @FoxBusiness w @LizClaman, discussing Jensen Huang, around  3:30 ET.",
+    "createdAt": "Mon Nov 09 20:22:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 137132,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtZiZwbkAAfJs_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2119886501421167042",
+    "fullText": "Great work on harness self-improvement from Microsoft and colleagues.\n\nIt discusses how to build long-running agents that improve their own harness,\n\nIt turns out that if you run agents for hours, giving them a way to fix their own harness during the run improves results on long-running problems.\n\nMore from the paper:\n\nHarness optimization usually runs offline.\n\nYou tune the harness on tasks that have reference answers, then reuse it. Long open-ended tasks have no reference answers, and they run into problems the tuned harness never saw.\n\nBOXBOX moves that loop into the task itself.\n\nThe agent decides when to revise its harness, and a kernel hot-reloads the new version while keeping the full execution context, so the run continues without a restart.\n\nThey test it on PerfRace, a new benchmark where agents spend hours speeding up real software projects. Under the same time and cost budget, BOXBOX reaches a 1.70x speedup at four hours, against 1.54x for the best baseline.\n\nhttps://t.co/UQgvVqgSQQ\n\nChat with Paper: https://t.co/9NGxXIpJ8f",
+    "createdAt": "Mon Nov 09 20:15:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496565,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtY0U6WkAAeagk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2119885740071092586",
+    "fullText": "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations: https://t.co/lfQliBilHL [38-page PDF] https://t.co/lJknZYHD1J",
+    "createdAt": "Mon Nov 09 20:12:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "svpino",
+      "name": "Santiago",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+      "description": "Computer scientist. YouTube: https://t.co/pROi08PxOh",
+      "followersCount": 457395,
+      "friendsCount": 615,
+      "location": "🇺🇸 Collaborations →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2119885237044105216/vid/avc1/1920x1080/DpNKY48aviX7NBZJ.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/svpino/status/2119885386763952131",
+    "fullText": "This is super cool for automating tasks with Codex or Claude Code:\n\n• Connect your coding agent to Swamp\n• Ask your agent to solve a task\n• You get a deterministic workflow with TypeScript\n• You also get a skill that you can run whenever you want\n• Every step becomes a reusable behavior\n\nHere is a link to install it: https://t.co/sX4Rn0fHz7\n\nCheck out the attached video.\n\nThanks to the Swamp team for partnering with me on this post.",
+    "createdAt": "Mon Nov 09 20:10:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496565,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtXPj7WYAAIqB6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2119884003377324103",
+    "fullText": "AI in Science - Early Insights: https://t.co/0bbrL2BA7N\n[42-page PDF] https://t.co/guTzVnl8nd",
+    "createdAt": "Mon Nov 09 20:05:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 273149,
+      "friendsCount": 207,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LangChain/status/2119883444947665209",
+    "fullText": "Headed to AWS re:Invent? On December 2nd, we're teaming up with @mongodb for a happy hour at Sugarcane! \n\nInterested in attending? RSVP today! https://t.co/5rxIETBuG1",
+    "createdAt": "Mon Nov 09 20:02:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 478593,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2119883144707047424/vid/avc1/1920x1080/K4K1D0kALP2ouIok.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2119883176726409645",
+    "fullText": "You can now connect multiple local computers to the same dot and choose which one it uses for a task.\n\nIt can build and test your app on a dedicated machine while you keep coding on your laptop. https://t.co/7NcrytEqHC",
+    "createdAt": "Mon Nov 09 20:01:49 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2112907783834083328/V7QuDue9_normal.jpg",
+      "description": "Tech reporter, tech historian. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12329,
+      "friendsCount": 1466,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtTcApXQAA-yB8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2119879826781659170",
+    "fullText": "In a way, Steve Jobs vibe coded the Macintosh interface by telling his staff of engineers what to do (and who to draw inspiration from). He didn't write a line of code himself! 😜 https://t.co/pifuKOOhdO",
+    "createdAt": "Mon Nov 09 19:48:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "perplexity_ai",
+      "name": "Perplexity",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_normal.jpg",
+      "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "followersCount": 511140,
+      "friendsCount": 72,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtPKM-aAAAQi-m.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/perplexity_ai/status/2119875089974104489",
+    "fullText": "Claude Fable 5.2 is now available in Perplexity Computer for Pro and Max subscribers, and in Search for Max subscribers.\n\nOn our WANDR benchmark, it achieved Pareto frontier of performance and efficiency, with a record score of 0.851 at $14.51 per task. https://t.co/P510QumCGW",
+    "createdAt": "Mon Nov 09 19:29:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "runwayml",
+      "name": "Runway",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999115192232292353/zOq5-uwB_normal.jpg",
+      "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followersCount": 295947,
+      "friendsCount": 362,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2119873758273961985/vid/avc1/1920x1080/ojIwqSTIm2Idq_LK.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/runwayml/status/2119874555581694370",
+    "fullText": "New in Runway, Sightline. Create a 360 panorama of any location, then frame your shots from any angle, with the environment staying consistent in every one. Export your panorama for 3D to use as an environment in your scenes. \n\nGet started in App Studio at the link below. https://t.co/098wikwL2k",
+    "createdAt": "Mon Nov 09 19:27:34 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "arena",
+      "name": "Arena.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+      "description": "Where AI meets the real world. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+      "followersCount": 239992,
+      "friendsCount": 224,
+      "location": "US"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/arena/status/2119871594403336451",
+    "fullText": "First impressions of @AnthropicAI’s Fable 5.2 are in. @petergostev puts it through 100+ generations, comparing it with Opus across 3D worlds, playable games, website UI, data visualization, and animation.\n\nWhere does Fable 5.2 improve, where does Opus still stand out, and at what cost? Watch the full breakdown \nhttps://t.co/AHXrXn5PHH",
+    "createdAt": "Mon Nov 09 19:15:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 56824,
+      "friendsCount": 2396,
+      "location": "2.718281828459045"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtCwDyXQAAliUB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2119868613759041941",
+    "fullText": "How soon should we see AI's impact in productivity statistics? \n\nWith the PC, it took 14 years for aggregate productivity growth to show up. Economists didn't see it in their analysis for another five years. \n\nBut work by @erikbryn and others showed individual firms seeing results by 1987 (although that work was published 9 years later.)\n\nWith genAI, individual companies will report results well before we can see aggregate impact. And our data (and others) show that some firms are reporting exactly those early results.\n\nIt shouldn't surprise people if today, four years after ChatGPT and three years after general availability of enterprise GenAI services from Microsoft and Google, we can't be confident that the strong productivity growth numbers released are really driven by GenAI. It's just too soon for big companies to show huge results and too soon for AI-native startups to be big enough to matter. \n\nIf AI is more like electricity than the PC, and requires wholesale redesign of business operations, it might take even longer to show up in aggregate statistics.\n\nBut this doesn't mean the corporate spending on AI won't increase as firms figure out how to get better results. \n\nThese firms will face their own individual J-curves, where their total investment runs ahead of results, even as they become successful. (The reason is that once you figure out how to succeed in one domain, you'll apply that playbook to several others, all of which will need investment before payback). \n\nIf AI is really boosting productivity, I reckon aggregate numbers might start to persuasively (but not unimpeachably) show that by 2028.",
+    "createdAt": "Mon Nov 09 19:03:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496565,
+      "friendsCount": 3370,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtGKrfW8AAyN0u.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2119865341744734341",
+    "fullText": "🌟\nBecome a better coder / developer / software engineer through deliberate practice on incredible curated coding projects that actually challenge you.\n💯\nTry @CodeCraftersIO FOR FREE, then get 40% OFF when you upgrade!\n🚀\nSign up here➡️: https://t.co/iGDSh9MaFq\n🏆\nBuild your own Kafka, Git, DNS Server, BitTorrent, grep, HTTP server, SQLite, etc... including 2 new challenges:\n1) Claude Code: https://t.co/dZMxG1vePA\n2) Redis: https://t.co/AnAROwo1na\n➕\n20+ Language tracks include Python, Go, Rust, C, C#, C++, Clojure, Dart, Elixir, Gleam, Haskell, Crystal, Zig, PHP, Scala, Kotlin, Java, Javascript, and more\n🥇#ad",
+    "createdAt": "Mon Nov 09 18:50:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 478593,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2119864411682975744/vid/avc1/1920x1080/KOox-U2e34ctMpbU.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2119864571733446774",
+    "fullText": "Ever thought about building your own games? The Codex edition @modretro Chromatic is now on Supply Co.\n\nWith the ModRetro Chromatic plugin in Codex, you can design levels, animate sprites, and playtest on your handheld.\n\nSpeedrun checkout while Codex builds your ROM 😉 https://t.co/3OViRHh2Ry",
+    "createdAt": "Mon Nov 09 18:47:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 166169,
+      "friendsCount": 3427,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2119863974271545449",
+    "fullText": "startup who want AI-scale revenues must measure themselves on outcomes over seats and stations https://t.co/hRf8ZcESuC",
+    "createdAt": "Mon Nov 09 18:45:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "_akhaliq",
+      "name": "AK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+      "description": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace 🤗) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+      "followersCount": 540118,
+      "friendsCount": 3122,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWs_i1YacAE8Mtq.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_akhaliq/status/2119858032888991775",
+    "fullText": "AgentBaton\n\nEfficient Model Collaboration in Agentic Tasks\n\npaper: https://t.co/QVoez0sOvh https://t.co/2zzCfUa5gc",
+    "createdAt": "Mon Nov 09 18:21:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",
+      "followersCount": 845506,
+      "friendsCount": 950,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWs_iJba0AEZwRa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alexandr_wang/status/2119857909098283406",
+    "fullText": "today we released our smallest model yet: Muse Ember 🔥\n\nMuse Ember offers nearly Muse Spark 1.3 (max) intelligence at a 17x cheaper price point (per AA)\n\nMuse Ember is the first model we’ve released trained using Muse Wonder Full\n\nexcited for y’all to try on API and muse code! https://t.co/ttBa7hGgUH",
+    "createdAt": "Mon Nov 09 18:21:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "DeepLearningAI",
+      "name": "DeepLearning.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2099541018089607169/6_ec0Cx__normal.jpg",
+      "description": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followersCount": 357150,
+      "friendsCount": 113,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWs90hBWcAA8eZt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DeepLearningAI/status/2119856024915993060",
+    "fullText": "Gemini 4 Carbon vs. Claude Opus 5.5:\n\nSame price per token (not counting Carbon’s intro discount).\nCarbon uses 29% fewer output tokens.\nCarbon has 23% lower cost per task.\nCarbon is #1 on AA’s independent Intelligence Index (59).\n\nRead the full story in The Batch, our weekly AI newsletter: 📬 https://t.co/25Ytn2eicp\n\n#DeepLearningAI #AIEngineering #LLMs",
+    "createdAt": "Mon Nov 09 18:13:56 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "op7418",
       "name": "歸藏(guizang.ai)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1636981205504786434/xDl77JIw_normal.jpg",
@@ -458,7 +792,7 @@
       "name": "sarah guo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
       "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
-      "followersCount": 166125,
+      "followersCount": 166169,
       "friendsCount": 3427,
       "location": "on ⛓"
     },
