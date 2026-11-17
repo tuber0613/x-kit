@@ -1,6 +1,406 @@
 [
   {
     "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 38355,
+      "friendsCount": 2049,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2122637482047295488/vid/avc1/576x768/OT1uIqjSk_9amePZ.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2122639075945697661",
+    "fullText": "蚂蚁刚刚开源 Duo：双向世界模型的首个实现，让虚拟人自主决定何时说话、何时倾听，实时生成视听回应\n\n现有的世界模型大多聚焦于模拟物理世界，比如说光影、材质、运动，人通过外部控制信号影响场景演化，推理和交互决策不属于世界模型本身\n\n而数字人呢本质是拼装管线，语音识别、LLM 想词、语音合成、驱动面部，什么时候说话、被打断怎么办，全靠外部脚本\n\nDuo是把智能主体放进世界模型内部，让它自己决定什么时候开口、什么时候倾听，并生成与之一致的表情、口型、声音，不是你控制它，是你和它在同一个时空里互相感知、互相回应\n\n核心架构是两个紧密耦合的模块：\n\nIntent：负责思考和决策，相当于虚拟主体的大脑\n每约0.7秒处理一个时间块，结合你的输入和交互历史，决定是speak还是wait，并生成对应语言内容\n\nRealization：负责视听表达，相当于虚拟主体的身体\n它直接接收Intent的隐状态，并不是只读取最终生成的文本，再结合你的输入和历史画面，联合生成音频与视频\n\n两个模块在统一时间线上因果同步，通过注意力掩码防止访问未来信息，让交互决策和视听生成能够持续衔接\n\n这个模型的范式意义大于产品意义\n\n如果世界模型能内生承载具有自主交互决策能力的智能主体，那未来的游戏NPC、虚拟陪伴、沉浸培训，就不再是触发式对话树，而是真正“活”在场景里的存在了\n\n#数字人 #Duo #世界模型 #WorldModel",
+    "createdAt": "Tue Nov 17 10:32:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 74741,
+      "friendsCount": 37163,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2122362007768727552/vid/avc1/1280x590/XttJPw1PzfclgFWA.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2122611182037340391",
+    "fullText": "\"did you watch me crush him?\" https://t.co/HSI2W4smw4",
+    "createdAt": "Tue Nov 17 08:41:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "mervenoyann",
+      "name": "merve",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2097392151068090368/BONVOT2t_normal.jpg",
+      "description": "open-sourceress at @huggingface 🧙🏻‍♀️ DM me for any feedback about HF 🤗",
+      "followersCount": 94267,
+      "friendsCount": 5531,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mervenoyann/status/2122609630052315614",
+    "fullText": "breaking: an ex-nvidia employee said that jensen has taken the last chocolate chip cookie left in the stall",
+    "createdAt": "Tue Nov 17 08:35:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496968,
+      "friendsCount": 3371,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXUFI-YXgAE3cNf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2122608454523387905",
+    "fullText": "Elementary Applied Topology [353-page PDF] — download here: https://t.co/6dIsZVVnj6\n\n#Mathematics #Math #DataScience https://t.co/ad7kouqM5J",
+    "createdAt": "Tue Nov 17 08:31:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/tTzeqS2PkF. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14656,
+      "friendsCount": 15625,
+      "location": "Redmond, WA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWVagM9awAAUPXd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2122608176994648313",
+    "fullText": "Copy paste for personal agents that I should perhaps be ashamed of… https://t.co/7ClNAAo53q",
+    "createdAt": "Tue Nov 17 08:30:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "giffmana",
+      "name": "Lucas Beyer (bl16)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+      "description": "Researcher (now: Meta. ex:  OpenAI, DeepMind, Brain, RWTH Aachen), Gamer, Hacker, Belgian. Anon feedback: https://t.co/xe2XUqkKit\n✗DMs → email",
+      "followersCount": 158834,
+      "friendsCount": 671,
+      "location": "Zürich, Suisse"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXT6dqEWwAAycYs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/giffmana/status/2122596718113882608",
+    "fullText": "For once i was excited about a new Gemini-related feature, thinking this would be asking questions about the currently open page. The label says \"Ask a question\".\n\nAlas it's just a button opening new Google search frontpage in ai mode lol\nshame on me for getting excited 🤦‍♂️ https://t.co/I7kjuTCVV6",
+    "createdAt": "Tue Nov 17 07:44:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1146319,
+      "friendsCount": 6052,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2122586989082059129",
+    "fullText": "I send around PDFs and markdown files to my coworkers so much and they use their agents to make sense of the world too, so I started using this skill methodology-appendix to make sure their agents could replicate what my agents found. \n\n---\nname: methodology-appendix\ndescription: \"Every data-backed report or memo ends with a Methodology / Replication Appendix: the signal choice and its sensitivity, verbatim queries, derivation pseudocode over named constants, the rebuild command, and drift/limits. Appended by default, without asking.\"\n---\n\n# Methodology / Replication Appendix\n\n## Rule\n\nAny report, PDF or page whose conclusions rest on data queries ends with a\n**Replication Appendix**. It is a working recipe, not a citation list. The test:\n\n> A reader with an agent and equivalent data access can regenerate the document\n> end to end from the appendix alone, without contacting the author.\n\nIf a reader would have to ask \"which column did you use?\", \"what date was this\npulled?\" or \"how do I rebuild the PDF?\", the appendix failed.\n\n## Body voice\n\nThe body states conclusions plainly. No process narration (\"I was asked...\",\n\"on the first pass...\"), no self-grading. The first sentence after the title\ncontains a finding. Everything about how you got there goes in the appendix at\nthe end, written for forensic recreation.\n\n## When this fires\n\nAlways, automatically, for:\n- analysis memos backed by database or API queries\n- any PDF sent to partners, executives or external stakeholders\n- pages presenting quantitative findings\n- anything with tables of counts, rates or percentiles\n\nSkip for narrative or qualitative writing, meeting notes, personal memos,\nshort ephemera, and documents with no data spine. Do not ask permission.\n\n## The six sections\n\n### 1. Header\n\n```markdown\n## Replication Appendix\n\nA reader with an agent and equivalent data access can regenerate every number\nand rebuild this document from this appendix alone.\n\n**Access required:** <tool/CLI + auth, internal APIs>\n**Snapshot date:** <ISO date>. Live-data documents won't reproduce exactly after this date; see Drift.\n```\n\n### 2. Signal definitions and the choice that mattered\n\nThe most important section. Analyses usually turn on one column or threshold\nchoice. Name it, name the alternatives, state the impact.\n\n```markdown\n### Signal definitions\n\n| Field | What it is | Why chosen / rejected |\n|---|---|---|\n| `score_a` | Ensembled score | **Primary.** More predictive per <source>. |\n| `score_b` | Single-model score | Rejected as primary; kept for contrast. |\n| final_decision | Human decision object | Not queried. Known gap. |\n\n**Outcome sensitivity:** switching from score_b to score_a moved the headline\ncount from N1 to N2 and changed claim X. A replication that changes the signal\ncolumn will not match these numbers.\n```\n\nAlways include an **Outcome sensitivity** line. If a different defensible choice\nchanges the conclusion, the reader must know before quoting it.\n\n### 3. Verbatim queries\n\nEvery query that produced a number, copy-pasteable, in document order, labelled\nby the finding it supports. Never paraphrase SQL. Never write \"similar to the\nabove.\" Add schema notes a replicator would otherwise get wrong: enum meanings,\nnon-obvious joins, columns that seem to exist but don't.\n\n### 4. Derivation pseudocode\n\nQueries give raw counts; the document has derived figures. Show the arithmetic,\nwith assumptions as named constants a reader can swap.\n\n```\nITEMS_PER_DAY   = 8        # observed median, <period>\nYIELD_HAIRCUT   = 0.10..0.15   # marginal cases convert below observed rate\n\ngap          = count(status = REJECTED and score >= threshold)\nextra_days   = gap / ITEMS_PER_DAY\nadded_wins   = gap * YIELD_HAIRCUT\n```\n\nDifferent constants change the recommendation, not just the number, so they\nmust be visible.\n\n### 5. Rebuild command\n\nExact commands from source markdown to verified PDF, plus a visual check\n(e.g. `pdfinfo` page count, `pdftoppm` a couple of pages and look at them).\nName the source of record: the PDF is a render, never the original.\n\n### 6. Drift, limits and known gaps\n\n- **Live data moves.** What was mid-flight at snapshot; what is closed and stable.\n- **Coverage gaps.** Fields only populated for part of the range, and how tables were restricted rather than shown with misleading denominators.\n- **What this cannot see.** Inputs to the real decision that the data lacks.\n- **Retractions.** Any claim withdrawn between versions, and why.\n\n## Procedure\n\n1. Log queries verbatim as you run them. Reconstructed SQL is how appendices go wrong.\n2. Write the analysis.\n3. Append the six sections before rendering.\n4. Name the signal choice and its outcome sensitivity.\n5. Render, check visually, then send.\n6. On revision, update the appendix in the same commit as the finding. An appendix describing a superseded method is worse than none.\n\n## Quality bar\n\n- [ ] Could a reader re-run this without asking me anything?\n- [ ] Is every headline number traceable to a pasted query?\n- [ ] Is the signal/threshold choice named, with alternatives and impact?\n- [ ] Are derived figures arithmetic over named constants?\n- [ ] Is the rebuild command present and correct?\n- [ ] Are drift, coverage gaps and retractions stated?\n\n## Anti-patterns\n\n- **Citation theater:** table names instead of runnable queries.\n- **Reconstructed SQL:** retyped from memory, drifted from what ran.\n- **Silent signal choice:** one column presented as \"the score\" when a defensible alternative changes the answer.\n- **Buried assumptions:** constants hard-coded in prose.\n- **Stale appendix:** findings revised, appendix untouched.\n- **Asking first:** this is a default, not an offer.",
+    "createdAt": "Tue Nov 17 07:05:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496968,
+      "friendsCount": 3371,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXTwgQ2XIAAhp8t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2122585763934019804",
+    "fullText": "This introduction to the fundamentals of information theory builds from classical Shannon theory through to modern applications in statistical learning: https://t.co/ERfbqiv8ak https://t.co/uFHBtqsZG4",
+    "createdAt": "Tue Nov 17 07:00:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496968,
+      "friendsCount": 3371,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXTwIx0WEAAxAZg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2122585361935208734",
+    "fullText": "\"THE LANGUAGE OF SYMMETRY\" explores, amongst other topics:\n🟡Order & chaos in the formation of planetary systems\n🟡Entropy & symmetry in physics\n🟡Group theory, fractals, and self-similarity\n🟡Symmetrical structures in western classical music\n🟡How biological systems harness disorder to create order\n\nAvailable here: https://t.co/LgQ0p73J3c",
+    "createdAt": "Tue Nov 17 06:59:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496968,
+      "friendsCount": 3371,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXTsfzlXIAAE3Yy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2122581358702727456",
+    "fullText": "2027, The American AI Crisis — AI Has Outgrown The Grid. Meet The New Energy System Built To Replace It And Earn Billions: https://t.co/EvsRQENWKN https://t.co/jLJOPCdMvE",
+    "createdAt": "Tue Nov 17 06:43:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 496968,
+      "friendsCount": 3371,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXTrkOhXAAAr0TP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2122580334495621570",
+    "fullText": "#Sedecordle Daily #1738 20/21 🔥6-day streak\n0️⃣5️⃣⬛0️⃣6️⃣\n0️⃣7️⃣⬛1️⃣9️⃣\n0️⃣8️⃣⬛0️⃣9️⃣\n1️⃣0️⃣⬛1️⃣1️⃣\n1️⃣2️⃣⬛1️⃣3️⃣\n1️⃣4️⃣⬛1️⃣5️⃣\n2️⃣0️⃣⬛1️⃣6️⃣\n1️⃣8️⃣⬛1️⃣7️⃣\nhttps://t.co/1gTLFg7imx https://t.co/S2yWPKM6Hu",
+    "createdAt": "Tue Nov 17 06:39:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122506092437504001/NSS4RHyZ_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 240661498,
+      "friendsCount": 1427,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2122577169863885235",
+    "fullText": "Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence",
+    "createdAt": "Tue Nov 17 06:26:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "XFreeze",
+      "name": "X Freeze",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876785200010539008/2_HFJjq9_normal.jpg",
+      "description": "try Grok Bot templates here https://t.co/17cPsDtzhk",
+      "followersCount": 298061,
+      "friendsCount": 2134,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXTopylbwAAftO4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/XFreeze/status/2122577137609912605",
+    "fullText": "Delta CEO Ed Bastian is STILL defending his decision to reject Starlink in favor of Amazon Leo\n\nHe calls it “playing the long game” and insists he's “very confident” in his decision\n\nI'm not sure what he's really confident about because his competitors are literally advertising with Starlink and winning massive passengers\n\nUnited already has over 700 aircraft equipped with Starlink, while Delta won't even begin installing Amazon Leo until 2028\n\nBy then, United expects to have completed its entire fleet rollout\n\nDelta is betting on a service that hasn't even proven itself on commercial aircraft while its competitors are already delivering Starlink to millions of passengers\n\nI don't know how calling it the “long game” magically makes it a smart decision\n\nYou're handing your competitors a massive head start and calling it strategy\n\nThat's an incredibly stupid gamble",
+    "createdAt": "Tue Nov 17 06:26:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1146319,
+      "friendsCount": 6052,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2122576951080792543",
+    "fullText": "Fun project for GBrain coming in the next few weeks using Vorflux as my software factory: GBrain backend engine written in Rust\n\nThis will replace postgres+pgvector or pglite as the backing store for vector search, graph search, embeddings, RAG and HNSW",
+    "createdAt": "Tue Nov 17 06:25:55 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122506092437504001/NSS4RHyZ_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 240661498,
+      "friendsCount": 1427,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2121913754531377152/vid/avc1/1920x1080/__6JS3S0_oO9yF5g.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2122576221846253837",
+    "fullText": "Starship 42 https://t.co/qcnoZ74uXS",
+    "createdAt": "Tue Nov 17 06:23:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048405471900606464/kPeRHI2z_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 258400,
+      "friendsCount": 7233,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2122545957065933087",
+    "fullText": "Jensen Huang’s return to Nvidia is a ‘fantasy’, says NYU professor\n\nhttps://t.co/QgnY8MdQ2V",
+    "createdAt": "Tue Nov 17 04:22:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help mgmt teams launch agentic initiatives fast. Alibaba Prof. AI Research Analyst for Tencent. Founder @AgenticOrgNow. Tech Strategy Podcast. Free book ↓",
+      "followersCount": 5856,
+      "friendsCount": 1296,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXTIaHaaAAAteBw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2122541682797494466",
+    "fullText": "Alibaba’s QwenWork Takes On Claude and ChatGPT\n\nI spent a week at Alibaba headquarters, and one tool stood out. QwenWork.\n\nNote: There is more on this in my free weekly email, link below.\n\n1: QwenWork is Alibaba’s most important tool right now.\n\nAgents are costly to run for long periods, so they need high value use cases like coding.\n\nAnd enterprise work.\n\nThis has a ready-made audience in the tons of merchants / brands already selling on Alibaba.\n\nAnd QwenWork just opened an international public beta, joining Tencent’s WorkBuddy overseas.\n\n2: Alibaba has a resource advantage that standalone AI companies (OpenAI, Anthropic) lack.\n\nIts cash generating businesses supply the people and technology for its AI and agent businesses.\n\nUnlike OpenAI and Anthropic.\n\nThat's a big advantage in this long, expensive fight.\n\nNote: I expect Chinese agent subscriptions to stay much cheaper than Claude and ChatGPT.\n\n3: Accio Work could turn cross border ecommerce into agent squads.\n\nAccio is the agent being built on top of https://t.co/qTrQ8q08kK, which has +25 years of cross-border supply chain data.\n\nThat's a really unique data set and capability. \n\n***Takeaways for Managers:\n\n1: Test QwenWork or WorkBuddy against your current AI tool on one real task and compare the results.\n\nI write about digital AI strategy every week in my free Agentic Frontier email.\n\nSign up here and get my book Moats and Marathons free:\n\nhttps://t.co/NXE7NGloJQ\n\nQUESTION: Will cheaper Chinese agents win global business customers? Why or why not?\n\n] @AlibabaGroup @alibaba_cloud @Alibaba_Qwen @TencentGlobal\n\n#AgenticAI #Alibaba #Ecommerce #DigitalStrategy #ChinaTech",
+    "createdAt": "Tue Nov 17 04:05:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "azeem",
+      "name": "Azeem Azhar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712261265907650560/ozcGIe7s_normal.jpg",
+      "description": "Exponential View @exponentialview.",
+      "followersCount": 56931,
+      "friendsCount": 2400,
+      "location": "2.718281828459045"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/azeem/status/2122536585543712973",
+    "fullText": "Protection money. \n\nhttps://t.co/NHwpssRRCI",
+    "createdAt": "Tue Nov 17 03:45:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "JeffreyTowson",
+      "name": "Jeffrey Towson 陶迅",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/800358659410821124/J7py-bEh_normal.jpg",
+      "description": "I help mgmt teams launch agentic initiatives fast. Alibaba Prof. AI Research Analyst for Tencent. Founder @AgenticOrgNow. Tech Strategy Podcast. Free book ↓",
+      "followersCount": 5856,
+      "friendsCount": 1296,
+      "location": "Beijing"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXTBAb9aoAE0b3N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JeffreyTowson/status/2122533548330815823",
+    "fullText": "Get Ready for 900 Billion Agents\n\nI started 2026 with a visit to the Mobile World Congress in Barcelona. \n\nAnd my big takeaway was that I was underestimating how sweeping agents are going to be in business, life, society, etc.\n\nHuawei, Ericsson, and Nokia were all talking about building mobile networks for a world of 10B humans and 900B agents.\n\nThat kind of blew my mind. \n\nHere is my current thinking. \n\nNote: I have a full podcast episode on this. Link below.\n\nPoint 1: Get ready for agent native networks.\n\nA Huawei paper sees 900 billion agents on the network by 2035.\n\nWhat kind of architecture do you need for that? Data centers? Payment rails? Mobile networks?\n\nPoint 2: AI infrastructure is becoming a fight between smarter chips and faster connections.\n\nNVIDIA and the US lead in chip power. That's not as important in data centers as it is in smartphones, but it's still a big deal. \n\nHuawei and China lead in connectivity (and electricity). \n\nExample: Huawei's SuperPoD links 8,192 NPUs across 160 cabinets, versus 576 GPUs for Nvidia. You can see that in the photo.\n\nPoint 3: Outside the US and China, AI cloud is becoming an ecosystem fight.\n\nWe pretty much know how this will play out in the US and China.\n\nBut what about the rest of the world? SE Asia? Latam?\n\nIt's mostly becoming an ecosystem fight. You want to watch tool use by developers and businesses. \n\nThat's the fight to watch.\n\n***Takeaways for Managers:\n\n1: Map which AI cloud ecosystem your Asia business depends on, and name a backup.\n\nI go deeper on this in Episode 278 of The Tech Strategy Podcast.\n\nhttps://t.co/xNf8mycoUN\n\nQUESTION: Which AI cloud ecosystem would you bet on for Southeast Asia, and why?\n\n@Huawei @HuaweiCloud1 \n#Podcast #Huawei #AgenticAI #AICloud #TechStrategy",
+    "createdAt": "Tue Nov 17 03:33:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 38355,
+      "friendsCount": 2049,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2122530994444193792/vid/avc1/1200x1200/YK4aLe_4b85Ok70f.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2122533040064991472",
+    "fullText": "把重复的skill编译成确定性的工作流，建一次，跑无数次，Token消耗减少8倍、速度提升2倍\n\n现在都用Skill，但每次运行，模型都要重新读说明、重新理解、重新决定每一步怎么走，就很浪费\n\n每次重新规划，等于每次烧token、每次有随机性、每次都慢\n\nSwamp给出了解法，让Agent第一次就把任务拆解成可复用的Behaviors，再连接成可执行的Workflow，以后直接运行\n\n比如让Agent定期检查服务器状态、分析异常并生成报告\n\nSwamp让Agent先把任务固化成工作流：获取服务器状态、检查指标、判断是否异常、必要时调用LLM分析原因、生成报告\n\n每个behaviors有强类型的输入输出，步骤之间传什么是明确可校验的 \n\n其中获取数据、比较阈值、决定流程分支等确定性操作，直接由代码完成，只有真正需要理解分析判断的环节才调用大模型\n\n支持Claude Code、Cursor、Codex等9个主流coding agent的skill，装上就能用\n\n#skill优化 #AgentSkill #OpenSource",
+    "createdAt": "Tue Nov 17 03:31:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "garrytan",
+      "name": "Garry Tan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_normal.jpg",
+      "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "followersCount": 1146319,
+      "friendsCount": 6052,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXSykYMaQAA1vk9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/garrytan/status/2122517681740124271",
+    "fullText": "If you want individual employee brains rolling up into team brains and then a top level company brain, GBrain's Hosted option supports it out of the box \n\nMemory works the way you want it to\n\nhttps://t.co/3z3j2G3Oyl https://t.co/myV5KlcvmK",
+    "createdAt": "Tue Nov 17 02:30:24 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 311002,
+      "friendsCount": 8624,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2122511453018087644",
+    "fullText": "He's a ten but he spends all of his time vibe coding SaaS apps.",
+    "createdAt": "Tue Nov 17 02:05:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "aigclink",
+      "name": "AIGCLINK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+      "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+      "followersCount": 38355,
+      "friendsCount": 2049,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HXSpKmGbsAAG381.mp4"
+    ],
+    "tweetUrl": "https://x.com/aigclink/status/2122511103985168488",
+    "fullText": "Anthropic把常驻AI智能体到底该怎么构建讲透了，五个核心组件，架构思路清清楚楚\n\n对正在开发AI数字员工、长期运行的Agent的朋友，值得参考，架构基本可以照着搭，能省去不少摸索时间\n\n首先Always-on只是一种感觉，智能体实际上大部分时间都在睡觉\n\n它平时不运行不烧token，只有当事件触发时才被唤醒，完成一轮接收事件、开启会话、干活、把结果写回持久存储，然后休眠，如此循环\n\n你之所以感受到的它一直在，是架构设计出来的幻觉，不过这个幻觉极其有用\n\n智能体的主循环本身没什么新东西，和普通Agent一模一样，真正的工程挑战全在循环之外，比如说它什么时候醒、两次运行之间记住什么、干完的活怎么交到你手上\n\nAnthropic给拆解出了构建常驻智能体的5个核心组件\n\n1、事件收件箱Event Inbox\n一个持久化的事件入口，统一接收Webhook、定时任务、用户消息等事件，由Worker按序处理，避免事件丢失、重复执行和并发冲突\n\n2、定时器Timers\n让智能体具备时间感，能安排后续跟进、执行周期性任务\n\n比如说“明早9点检查昨晚的构建结果”、“每周五生成一份周报”，不需要你每次都手动触发\n\n3、记忆Memory\n这是关键，每次运行结束会话就关闭了，但记忆独立存在持久存储里，新一轮运行时先加载指令和索引，再按需调取细节文件\n\n没有记忆，每次唤醒都是失忆重启；有了记忆，它才是同一个员工\n\n4、权限Permissions\n凭证代理、自动模式、延迟工具调用等，定义智能体能自主做什么、什么是必须升级给人类批准的 \n\n这是常驻智能体从玩具变成生产工具的分水岭，你敢不敢让它半夜自己改代码取决于这一层\n\n5、发件箱Outbox\n干完活怎么通知用户？是发送任务结果、提醒查看PR，还是请求人工审批？Outbox负责可靠投递消息、管理通知节奏和失败重试，避免Agent干完活却没人知道\n\n一个值得注意的设计是：记忆和会话是解耦的，会话是临时的、记忆是持久的，这是有状态的智能体和无状态的聊天机器人的本质区别\n\n整个运行闭环：事件或定时触发、Inbox接收、Worker唤醒Agent、加载记忆、执行任务、保存状态、必要时通知用户、重新休眠\n\n如此循环，就能让Agent跨越一次次独立会话，持续推进任务\n\n事件怎么管理、定时任务怎么触发、记忆怎么持久化、权限怎么控制、执行结果怎么通知，都给了明确设计思路\n\n#常驻智能体 #AlwaysOnAgent #AI员工构建",
+    "createdAt": "Tue Nov 17 02:04:16 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "PeterDiamandis",
       "name": "Peter H. Diamandis, MD",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
@@ -541,5 +941,41 @@
     "tweetUrl": "https://x.com/togethercompute/status/2122462441699492168",
     "fullText": "Two weeks ago we announced Together Compiler: agents that tune inference to your model, chip, and traffic, for up to 2.6x more throughput.\n\nToday, we’re sharing the journey behind it: the experiments that challenged our assumptions of megakernels, the surprising strengths of Torch Compile, and the lessons that shaped our development of a next-generation system for inference optimization.\n\nShout out to @dylan__lim @reyna_abhyankar @simran_s_arora and the team!\n\nRead more: https://t.co/9Yb1toI5jq",
     "createdAt": "Mon Nov 16 22:50:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 74741,
+      "friendsCount": 37163,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2122007365767897088/vid/avc1/1280x720/EVtU2J0c2cBJadEB.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2122413896740851755",
+    "fullText": "europe has built the leaders in image, audio, video and app generation.\n\nbut look at where those companies find their customers.\n\ngrowing stateside early matters.\n\nfrom my conversation with @mattturck https://t.co/eOQmSyFmrF",
+    "createdAt": "Mon Nov 16 19:38:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Alibaba_Qwen",
+      "name": "Qwen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+      "description": "Open foundation models for AGI.",
+      "followersCount": 322182,
+      "friendsCount": 3,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXNgxQIaEAAHHwZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alibaba_Qwen/status/2122148127520289151",
+    "fullText": "📢 Meet Qwen4-Max, your new AI teammate for work, creativity, and discovery!\n\nQwen4-Max is built on a new MoE architecture with native vision and a 1M-token context window.\n\nHighlights:\n- Outperforms Qwen3.8-Max with up to ~50% fewer tokens, while average cost per task drops over 60% in our internal evaluation.\n- Advances real-world productivity through greater proficiency with professional tools, stronger long-horizon execution, and higher-quality deliverables.\n- Handles real tasks, including 3D modeling, game development, manufacturing, finance, law, healthcare, and frontier scientific discovery.\n- $1.5/M tokens for input, $4.5/M tokens for output, and $0.075/M tokens for implicit caching — all lower than Qwen3.8-Max, with implicit caching down by 70%.\n\nThe API is live on QwenCloud. You can also try Qwen4-Max on Qwen Studio, QwenWork and Qoder. \n\nStart building today! 🚀\n- Blog: https://t.co/AuiWxugjE6\n- API: https://t.co/aS1QEkS8nu\n- Token Plan: https://t.co/YRvcGdB9Bv\n\nMore to come! The open weights of smaller Qwen4 models will be released. Stay tuned. 👀",
+    "createdAt": "Mon Nov 16 02:01:55 +0000 2026"
   }
 ]
