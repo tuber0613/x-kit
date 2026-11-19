@@ -1,6 +1,407 @@
 [
   {
     "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 258577,
+      "friendsCount": 7234,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXghqp6a8AAar6X.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2123484243439620231",
+    "fullText": "🚨 Anthropic had a big opening pop, but has steadily fallen ever since the open, around 17%.\n\nAnd the rest of the tech stocks have been steadily falling all day. Most are down double digits over the last month.\n\nLooking like the initial enthusiasm on Ant won’t be enough to turn things around.",
+    "createdAt": "Thu Nov 19 18:31:10 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 311017,
+      "friendsCount": 8638,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2123483987817668625",
+    "fullText": "Gemini 4 Unobtainium is ASI.",
+    "createdAt": "Thu Nov 19 18:30:09 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 66348,
+      "friendsCount": 279,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXgfKzcbIAAeeZK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2123482333068325279",
+    "fullText": "post-training frontier open models with RL is now within reach for most teams. but an RL run can finish cleanly and still produce a worse model.\n\nthe causes usually live below the training loop. a slight mismatch between trainer and inference engine can skew the signal. slow rollouts cap how many experiments you can run. compressing adapters for serving can cost you quality.\n\nOn Dec. 15 at 9 a.m. PT, our research team will walk through an RL run on Together Post-Training step by step, show how it handles each of these, and cover how to post-train Kimi K3.1 with RL.\n\nregister now: https://t.co/CyTJqIRdGP",
+    "createdAt": "Thu Nov 19 18:23:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 311017,
+      "friendsCount": 8638,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2123480070652117284",
+    "fullText": "He's a ten but he is in charge of naming Gemini models.",
+    "createdAt": "Thu Nov 19 18:14:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 258577,
+      "friendsCount": 7234,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXgdEBHawAAsVLS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2123479181711593856",
+    "fullText": "Looking tentatively like tulipmania compressed to an afternoon, with banks and institutional investors doing fine, and retail investors getting screwed.\n\nWho would have imagined? https://t.co/UpJa5wwiA5",
+    "createdAt": "Thu Nov 19 18:11:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "LangChain",
+      "name": "LangChain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_normal.jpg",
+      "description": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followersCount": 274959,
+      "friendsCount": 211,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123459813120122880/vid/avc1/1920x1080/Z03H5FXbyoePkLfP.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/LangChain/status/2123476404595782107",
+    "fullText": "Introducing LangSmith Tool Gateway, a managed tool layer that handles credentials, identity, and access for every tool call an agent makes, making it simple to govern the actions your agents take.\n\n💻 Learn more: https://t.co/l8pMZiNUMY https://t.co/HZyCRM8Gan",
+    "createdAt": "Thu Nov 19 18:00:01 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ravi_lsvp",
+      "name": "Ravi Mhatre",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2457153324/wli19i6hma98317lo1im_normal.jpeg",
+      "description": "Investor and adviser to start-ups",
+      "followersCount": 10408,
+      "friendsCount": 792,
+      "location": "California"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123475330069319680/vid/avc1/1920x1080/p3oEshTe3HwFotr7.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/ravi_lsvp/status/2123475944849502347",
+    "fullText": "Today the world’s eyes are on @AnthropicAI as they go public.\n\nWhile their success might seem like an inevitability now, it’s easy to forget the unprecedented levels of courage that it took to get here.\n\nWhen @DarioAmodei, @DanielaAmodei, @NotTomBrown, @jackclarkSF,  Jared Kaplan, @Sam_McCandlish and @ch402, set out to build Anthropic, few outside the AI ecosystem believed that their vision was possible.\n\nIt was a time where AI coding agents and AI driven task competition seemed like something from the pages of science fiction and not the mission of a global company.\n\nFast forward to 2026 and Anthropic is very much on track to help lead us into the next era of intelligence. We are at a moment in our history where we are likely to see transformative gains from science and innovation, to work and productivity.\n\nThis is being driven not only by exceptional engineers and researchers at Anthropic but it’s also the product of the outstanding leadership team. All of the seven co-founders remain at the company, a testament to the culture of curiosity and integrity that they have built.\n\nThe founding team’s bond rests on a shared belief that safe and trustworthy AI is possible, and that conviction has been strengthened by challenges few founders have faced before. For the past five years they have worked at the frontier of intelligence and at the frontier of what it means to build a global business at the dawn of a new era.\n\nTheir persistence has not only helped the company go from strength to strength but it has also been the driving force behind building a wider team that include brilliant minds such as Krishna Rao, @realpaulsmith, @mikeyk and Rahul Patil.\n\nFor Anthropic this is only the beginning and all of us who share in their mission are ready to support them and be part of their journey to take humanity to places it has never been before.\n\nCongratulations to the whole Anthropic team.",
+    "createdAt": "Thu Nov 19 17:58:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497270,
+      "friendsCount": 3368,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXgXfy9WQAAO5bQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2123473373548192022",
+    "fullText": "AI and Data at the Edge — The New Global Era with Agentic AI, Edge AI, and Open Networking\n\nSee the full conference schedule and register here: https://t.co/Eh2bkmHpWe https://t.co/2mEiWh3RrG",
+    "createdAt": "Thu Nov 19 17:47:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+      "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+      "followersCount": 484523,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123470811633762304/vid/avc1/2704x1288/dNfYX-zmWHtbAhCN.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAIDevs/status/2123471880292299171",
+    "fullText": "Codex already helps us build ChatGPT faster. Now it’s helping us keep ChatGPT fast.\n\nWe built the Performance Factory to coordinate agents that investigate regressions, propose fixes for engineers to review, and check if those fixes work in production. https://t.co/zUEAO4wjoI",
+    "createdAt": "Thu Nov 19 17:42:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 423742,
+      "friendsCount": 934,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2123469236450349491",
+    "fullText": "A moonshot can feel overwhelming because the distance between your life today and the outcome you want is enormous.\nWork backward.",
+    "createdAt": "Thu Nov 19 17:31:32 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 311017,
+      "friendsCount": 8638,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2123468107528515708",
+    "fullText": "Semiconductors are sandcastles.",
+    "createdAt": "Thu Nov 19 17:27:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 258577,
+      "friendsCount": 7234,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXgO3tMaIAA45dZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2123463576849695224",
+    "fullText": "🚨 A bunch of people who bought Anthropic to flip it already have a paper loss of 13% — in less than an hour. 🚨\n\nLive by the sword, die by the sword. https://t.co/SbWsxlBo7v",
+    "createdAt": "Thu Nov 19 17:09:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2055340743552831488/me-KUIug_normal.png",
+      "description": "Teaching your AI new tricks.",
+      "followersCount": 364608,
+      "friendsCount": 906,
+      "location": "Santa Clara, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NVIDIAAI/status/2123462901579059298",
+    "fullText": "From Human Demonstrations to Robot Training Data With RLWRLD | Cosmos Labs https://t.co/QA4GVlRbCh",
+    "createdAt": "Thu Nov 19 17:06:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MicrosoftAI",
+      "name": "Microsoft AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2112590524376825856/xbY9DiiU_normal.jpg",
+      "description": "Building a new class of safer, more capable AI systems we call Humanist Superintelligence: AI that is always aligned, controllable, and in service of humanity.",
+      "followersCount": 26330,
+      "friendsCount": 19,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123462439941378048/vid/avc1/1920x1080/mrqulK5iOROFAUEU.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/MicrosoftAI/status/2123462465740533910",
+    "fullText": "Meet Canvas, our new interactive workspace powered by MAI Image 2.7 Flash.\n\nTurn sketches into polished diagrams, make precise image edits and refine your creations without starting over.\n\nSee it in action and try it yourself: https://t.co/tCaZCBWJES https://t.co/xKOcWKgbZU",
+    "createdAt": "Thu Nov 19 17:04:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "AnthropicAI",
+      "name": "Anthropic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followersCount": 1931486,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AnthropicAI/status/2123461658890686863",
+    "fullText": "Remarks from Anthropic CEO @DarioAmodei on our initial public offering:\n\nMy co-founders and I started Anthropic because we believe that the most powerful technology of our time should be built for the benefit of humankind.\n\nDaniela and I lost our father to a disease that, just a few years later, became curable. I started my career in biology, hoping to help future cures come sooner. In the lab, I saw the vast thicket of complexity that scientists face when they’re trying to understand disease and develop new treatments.\n\nSo many of the scientific tools that can cut through that thicket—tools for gene editing, gene synthesis, controlling brain cells with light—started as pure ideas. In other words, they came from thinking. From intelligence.\n\nHuman intelligence has already made diseases like plague, smallpox, and polio history for most of the world. But progress on other diseases has been too slow for so many patients and their families. Going from a great idea to a treatment can take decades: it took many years from the first discovery of a strange repeating pattern in DNA to the approval of the first treatment for a disease using CRISPR.\n\nNature is full of these patterns. But we’ve had too little intelligence to decipher most of them; too few scientists, with too little time. Now we can build that intelligence. Whether it’s protein folding, drug design, cancer genetics, or clinical trial administration, scientists across many areas of biology and medicine are finding Claude can help them do their research in a fraction of the time it would’ve taken just a couple of years ago. I believe sufficiently powerful AI, working in concert with humans, could compress a century of scientific and medical progress into a decade.\n\nI don’t want to get ahead of myself. At this point all we have are early results. Experiments and clinical trials will still take time. And although they involve slow and ponderous processes, I believe those processes can be substantially accelerated by AI. We hope that in the future fewer families miss a cure by just a few years.\n\nMedicine is just a particularly vivid example, but there are many others. Our customers—the world’s most ambitious companies, nonprofits, and individual people—are already applying the intelligence we’ve built to stimulate economic growth; lift people out of poverty; protect democracy and free societies; even make everyday services like the DMV work better. We’re proud to work alongside them. And I’m extremely optimistic about what we can do together in the future.\n\nAt the same time, we have always been honest that this technology has very real risks. These range from misuse of the technology by individuals or nation-states, to economic disruption, to losing control of AI systems. We discuss these risks not because we think they are inevitable, but because we think they are avoidable.\n\nAvoiding them depends on the choices made by the people building AI. There is a gigantic difference between how AI will go if we pay little attention to safety, versus how it will go if we are obsessed with safety. And an obsession with safety and with public benefit has been woven into Anthropic’s DNA from the start. From safeguards against biological and cyber risks, to alignment training and testing, to looking inside our models like an X-ray, Anthropic has pioneered methods for understanding and steering the behavior of AI systems.\n\nThere is much work still to be done, and the most difficult safety work lies ahead of us. The incredible talent of the company that has enabled us to build the most capable AI systems will need to be directed, even more so than it has already, towards double- and triple-checking that those AI systems are safe and secure.\n\nAnd to state it unequivocally, we will pace the training and deployment of AI systems, taking as long as is necessary to have confidence that they are safe and will remain under human control. We will not bend to either business or political pressure. Today puts the company in a stronger financial position, and in doing so only strengthens our resolve to do the right thing.\n\nIf we can show it’s possible to make the right choices on safety and still build an incredibly successful company, others in our industry will be inspired to do the same. We call this a race to the top. When the race to the top is working properly, it doesn’t matter which company has the best models—everyone wins because everyone is building safely. The race to the top works best when driven from the front of the pack, and we fully hope and expect to do so, but the goal is to make the whole industry better, regardless of whether Anthropic is winning or losing at any given time.\n\nThe advent of machine intelligence is one of the seminal moments in human history, and we have a rare opportunity to shape it for the better.\n\nThis moment is bigger than any one company, or any one country. It will take all of us, working together, to ensure this technology goes well for us and the many generations to come. Starting today, we hope that you’ll join us on this mission.",
+    "createdAt": "Thu Nov 19 17:01:26 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 258577,
+      "friendsCount": 7234,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2123460625104064634",
+    "fullText": "Anthropic jumps out of the gate, from 83 to 110. Will it last?",
+    "createdAt": "Thu Nov 19 16:57:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 258577,
+      "friendsCount": 7234,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2123457461629993070",
+    "fullText": "“In the meantime, I suspect Anthropic’s attempts to nominate itself as the leader of our species’ next phase of existence will ultimately falter. Regardless of the legal protections they’ve enacted, or the intensity of their righteousness, elitists are not popular with the American people. And what could be more elite than nominating yourself to be a techno-king?\n\nIn a September interview, Mr. Amodei reflected on Anthropic taking on so much responsibility. “People ask me that question all the time: ‘Why isn’t this being built by the government?’” he said. “And the strangest thing about it is, I agree with them. I’m uncomfortable.” We all should be uncomfortable too.”\n\n– Cal Newport,  Don’t Play Anthropic’s Game https://t.co/EtDMqImL5f via @NYTOpinion",
+    "createdAt": "Thu Nov 19 16:44:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2112907783834083328/V7QuDue9_normal.jpg",
+      "description": "Tech reporter, AI builder. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12350,
+      "friendsCount": 1509,
+      "location": "Raleigh, NC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXgFkcwXEAAhNaH.jpg",
+      "https://pbs.twimg.com/media/HXgFkc3WUAApI1l.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HXgI6zzWsAET1K-.mp4"
+    ],
+    "tweetUrl": "https://x.com/benjedwards/status/2123457434962608525",
+    "fullText": "AI runs on GPUs, so I wondered: how good would @ChatGPT be if it ran on the Super NES's best GPU, the Super FX 2 chip?\n\nWith the help of GPT-6 Astra and gpt-oss, I present unofficial ChatGPT for SNES: 2.2M parameters on a real Super Nintendo. It can make mistakes, but it's fun https://t.co/TAJ4jYREo7",
+    "createdAt": "Thu Nov 19 16:44:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 311017,
+      "friendsCount": 8638,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXgIYXBXwAAmecF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2123456444926509397",
+    "fullText": "Still my favorite Jensen work. https://t.co/dEkwEvgYbn",
+    "createdAt": "Thu Nov 19 16:40:43 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497270,
+      "friendsCount": 3368,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXgHIICWEAA7zXq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2123455574398365984",
+    "fullText": "🌟All credit for this post goes to @pascal_bornet🌟\n\nSee his full post here: https://t.co/erL19FzUq7\n\nAnd here...\n\nThis is how an AI transformation meeting ends up sounding:\n\n“Revenue is flat, customers are leaving, and the product is getting worse.”\n\n“Yes, but token usage is up 340%.”\n\n\"Excellent. Put it in green and make the chart bigger.\"\n\nSoon, we will need an AI agent to explain why all the other AI agents are extremely busy achieving absolutely nothing. Naturally, we will measure its performance in tokens.\n\nAt least the dashboard is having a fantastic quarter.\n\nWhat should we measure next, meeting minutes or executive nods?",
+    "createdAt": "Thu Nov 19 16:37:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 74882,
+      "friendsCount": 37204,
+      "location": "latent space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXgG-CabwAABq6I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2123454902051782913",
+    "fullText": "“Buy it and if it tanks, you can join the crowd. Pass on the deal, and if the stock goes on a tear, you'll be known as the Neanderthal who missed out on the most transformative technology of our time.”\n\nlol https://t.co/8Yb04WsGjQ",
+    "createdAt": "Thu Nov 19 16:34:35 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1113266,
+      "friendsCount": 65,
+      "location": "It's time to build."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123445555414347776/vid/avc1/1280x720/8HvMYds5B3pGhUoP.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/a16z/status/2123452728722833673",
+    "fullText": "Nick Bostrom says delaying superintelligence carries risks of its own. Every year of delay could postpone medical breakthroughs that extend human life and reduce suffering.\n\nFurthermore, AI's upside could extend far beyond longer lives and higher living standards, opening up new possibilities for human intelligence, emotional depth, creativity, and connection.\n\nNick joins a16z's Eddy Lazzarin and Elena Burger to discuss what people misunderstand about his views, what “deep utopia” means, and what human purpose might look like in a world with superintelligence.\n\n00:00 Intro\n00:56 What we've learned about AI\n02:51 Misconceptions about Bostrom’s views\n04:12 Why he wrote Deep Utopia\n07:29 How humanity should navigate superintelligence\n11:00 Aligning superintelligence\n15:51 The cost of delaying superintelligence\n23:09 Building superintelligence safely\n27:10 AI research isn’t the Manhattan Project\n30:27 Why our vision of the future matters now\n32:49 Does life have a meaning, and can AI answer it?\n\nYouTube: https://t.co/k5tmfaj1LF\n\n@eddylazzarin @VirtualElena",
+    "createdAt": "Thu Nov 19 16:25:57 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "allen_ai",
+      "name": "Ai2",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1819065604370051072/UrIOp6zI_normal.png",
+      "description": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKi8b\n› Newsletter: https://t.co/k9gGznrVGL",
+      "followersCount": 88270,
+      "friendsCount": 451,
+      "location": "Seattle, WA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2123451687213948929/pu/vid/avc1/1280x720/obRVTAHpJHFRE0PI.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/allen_ai/status/2123451767648125042",
+    "fullText": "Theorizer is now available in Asta. It draws on published research to propose theories scientists can test. \n\nWatch @AllenInstitute neuroscientist Jérôme Lecoq explain how he used an early version to explore a link between neurons and vision. 🧵 https://t.co/zadpwV18v8",
+    "createdAt": "Thu Nov 19 16:22:07 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "MistralAI",
       "name": "Mistral AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996905418065375232/mzwynOLB_normal.jpg",
