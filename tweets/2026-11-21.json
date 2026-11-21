@@ -1,6 +1,518 @@
 [
   {
     "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 137664,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXrW8LwbMAA2ZoW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2124246507125903841",
+    "fullText": "Brilliant work from Google on speculative decoding for Gemma 4.\n\nThis matters a lot if your agents generate long outputs, because faster decoding lowers both latency and serving cost.\n\nThe team built a multi-token prediction drafter directly into the model. It uses one shared drafting head that reads the backbone's own activations and its existing KV cache. That removes the separate prefill step a standalone drafter needs.\n\nA clustered vocabulary projection also cuts the cost of each draft step, which helps most on small devices.\n\nThe speedups reach 3.1x for large models on servers. Small models get up to 2.3x on an H100 and up to 2.2x on a smartphone GPU.\n\nThey also tested fine-tuning.\n\nWhen the backbone is adapted to a new domain, distilling the drafter with it needs up to 1.83x fewer target forward passes than tuning the backbone alone.\n\nThe code for the domain adaptation recipes is public.\n\nhttps://t.co/Rc0goHRki2\n\nChat with Paper: https://t.co/IVFPYWIOMr",
+    "createdAt": "Sat Nov 21 21:00:08 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 259455,
+      "friendsCount": 7232,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2124241740727206092",
+    "fullText": "if said for 3.5 years that AI valuations are overly high and then the market collapsed does that make me “overly pessimistic”?\n\nif i said o1 wouldn’t work without interpreting symbolic elements and it didn’t, does that make me “overly pessimistic”?",
+    "createdAt": "Sat Nov 21 20:41:12 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497157,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HXrSfKhWkAAGlTF.mp4"
+    ],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2124241699216167415",
+    "fullText": "Amazon Black Friday Deals on Tech things (books and much more): https://t.co/5uL8LJOXqI https://t.co/pwvbUh8on6",
+    "createdAt": "Sat Nov 21 20:41:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122506092437504001/NSS4RHyZ_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 240333312,
+      "friendsCount": 1427,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2124241570451054609",
+    "fullText": "It’s high time we probed Uranus again!\n\nMuch better images are needed (actually).",
+    "createdAt": "Sat Nov 21 20:40:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122506092437504001/NSS4RHyZ_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 240333312,
+      "friendsCount": 1427,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2124221674111512576/vid/avc1/3840x2160/paG-_6HblizxnFgC.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2124238164512714925",
+    "fullText": "In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. \n\nYou can tap any point on the reality revisualizer to make your car go there.  https://t.co/A5ZB2yFkd7",
+    "createdAt": "Sat Nov 21 20:26:59 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310930,
+      "friendsCount": 8645,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2124235260925735328",
+    "fullText": "Remember how we treated each other like crap because of things we had no choice over and asserted our birthright over things that we had lucked out with?\n\nWell, AI remembers.\n\nAI remembers everything.",
+    "createdAt": "Sat Nov 21 20:15:27 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 423727,
+      "friendsCount": 934,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2124232095790735669",
+    "fullText": "If your AI thinks every idea you have is brilliant, congratulations. You’ve built yourself a very efficient yes-man.\nAsk it to find the weakest assumption in your plan. Tell you what evidence is missing. Explain why the customer might refuse to buy. Use this technology to prepare you for the challenges ahead.",
+    "createdAt": "Sat Nov 21 20:02:52 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2068682157451571200/_ZNKM_5E_normal.jpg",
+      "description": "co-founder @HuggingFace - moonshots\n\nget your Microducks and Reachy Mini's at https://t.co/ovuIUzu5Ov",
+      "followersCount": 139173,
+      "friendsCount": 8137,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Thom_Wolf/status/2124229526846898251",
+    "fullText": "would love to read the trace of @__alpoge__ dialogue with Claude - seeing a discovery like that happening",
+    "createdAt": "Sat Nov 21 19:52:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497157,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXrDG9mXMAAUawz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2124226461506891928",
+    "fullText": "The Proposed Proof of the Riemann Hypothesis — An Explainer:\nhttps://t.co/Gexosvf3Ou\n[43-page PDF]\n\nStatus: It passes 4 external checks, but further verification is pending, and it has not yet been peer reviewed.\n\nRemarks from the discoverer: https://t.co/UAvyHDBm8W [4-page PDF]\n\n#Math #Mathematics #RiemannHypothesis #Anthropic #AI",
+    "createdAt": "Sat Nov 21 19:40:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data + AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 100518,
+      "friendsCount": 1117,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2124225087180066816/vid/avc1/1920x1080/rwydkl9gxprM-WTq.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2124225158311235910",
+    "fullText": "Your AI agent just updated a document. Now it needs to find the new version.\n\nSee how Lakebase Search handles vector, full-text, and hybrid search in Lakebase Postgres, with an automated pipeline to chunk, embed, and sync document changes. https://t.co/S0lsxVuL1x https://t.co/MsySp2zMV7",
+    "createdAt": "Sat Nov 21 19:35:18 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "sytelus",
+      "name": "Shital Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1600058846332190720/XeRAikbl_normal.jpg",
+      "description": "CEO and founder https://t.co/tTzeqS2PkF. Ex-Microsoft Research, Microsoft AI, Code infra lead Microsoft Phi models. If universe is an optimizer, what is its loss function?",
+      "followersCount": 14669,
+      "friendsCount": 15746,
+      "location": "Redmond, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sytelus/status/2124224672594382867",
+    "fullText": "AI proving Riemann Hypothesis and, on the same day, stock market tanking out of concern that AI is overhyped is one of the most fascinating coincidences.\n\nHowever, when you look closely, what you find is how the crowds and markets are being manipulated. \n\nThere are literal people like Ed Ziltron who have no real job, no real qualifications and no real AUMs are deployed in the field for the singular job of killing AI industry by constant fear mongering. These people don't disclose how they are getting funded. They have magical connections that leap frogs them into central media hubs.\n\nThen there are massive social media campaigns by people with huge short positions. They constantly talk about Oracle tanking, OpenAI not getting to IPO, NVidia China business, neoclouds going bankrupt and basically entire AI industry collapsing at any time now.\n\nI'm not an expert on any of these but we all have access to experts who can impartially analyse the situation using hard numbers and facts. Select the best model you can get, max out the effort and let it lose on scouring through all the data and facts like Warren Buffet would do. Except that Buffet will take perhaps month while AI would take an hour.\n\nSo here's what is being found:\n\n- NVidia has less than 8% exposure to China situation\n\n- Oracle has 0.8% probability of default/missed payments over next 6 months\n\n-CoreWeave has 5% probability of default/missed debt payment over next 6 months\n\n- OpenAI should have enough cash from previous rounds to survive through 2027. Meanwhile revenue increases makes IPO more appealing every quater.\n\nAnd so on.\n\nI have wider interest in AI, not much in above individual players, but it's interesting to me how this game being played.",
+    "createdAt": "Sat Nov 21 19:33:22 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497157,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXrCjDDXMAAuuIf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2124224300312096793",
+    "fullText": "Some statistics, data analysis, and business analytics equations for your consideration.\n\nSource: https://t.co/9li2ygIx6S https://t.co/JSkNanuSUQ",
+    "createdAt": "Sat Nov 21 19:31:54 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Founder @particle_api, Past: Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 455929,
+      "friendsCount": 727,
+      "location": "Inference:"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2124224102470914318",
+    "fullText": "Nobody should expect the breakthroughs for humanity to stop. The ego death of only a human coming up with things is upon us. Recognize that you can either sit aside and let this happen *to you* or you can work on the tools to accelerate ourselves to a sort of Sci-Fi the movies can't keep up with.",
+    "createdAt": "Sat Nov 21 19:31:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497157,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HXrBXl2XsAAWNWU.mp4"
+    ],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2124223835407061433",
+    "fullText": "Data Analysis (Analytics & Data Science included) in one diagram.\n\nI love how we start with Questions and Goals, then take the journey, and arrive at Results +plus+ Feedback, Iteration, Refinement, and Continuous Improvement. After all, science is a continuous process, not an end-point to be reached where you stop searching for new questions to ask. Step 10 should point back to Step 1 in those cases.\n\nSource: https://t.co/MsiP06igRr",
+    "createdAt": "Sat Nov 21 19:30:03 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497157,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXq9rX1XoAADNEC.png"
+    ],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HXq91fEWsAAQsix.mp4"
+    ],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2124218943967793380",
+    "fullText": "AI Security infographics\n\nSource #1: https://t.co/hQ1Eq8YZQc\n\nSource #2: https://t.co/xxdoGBZjJJ https://t.co/eIN3SFxeCf",
+    "createdAt": "Sat Nov 21 19:10:36 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497157,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXq9OruXEAAgxxh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2124218407134413010",
+    "fullText": "11 Geometric Shapes and their Elegant Mathematics Equations \n\nSource: https://t.co/CxpVl6MKJY https://t.co/9D8ew2MdN2",
+    "createdAt": "Sat Nov 21 19:08:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122506092437504001/NSS4RHyZ_normal.jpg",
+      "description": "https://t.co/ZdBx5WABYx",
+      "followersCount": 240333312,
+      "friendsCount": 1427,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2124213680422387741",
+    "fullText": "Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. \n\nAnd, of course, is yet another mind-blowing thing achieved by super intelligence …\n\nhttps://t.co/F1sAyxwaSF",
+    "createdAt": "Sat Nov 21 18:49:42 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "fchollet",
+      "name": "François Chollet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+      "description": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followersCount": 757654,
+      "friendsCount": 834,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fchollet/status/2124212823563845839",
+    "fullText": "I believe there is a vast, extremely diverse space of possible approaches to learning (for both time scales: long-term plasticity / pretraining & on-the-fly adaptation / reasoning), and that the current stack (Transformer + gradient descent & token-space reasoning chain generation) is not even in the top 50% most efficient.\n\nFuture AI will look nothing like the current stack.",
+    "createdAt": "Sat Nov 21 18:46:17 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ClementDelangue",
+      "name": "clem 🤗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+      "description": "Co-founder & CEO @HuggingFace 🤗, the open and collaborative platform for AI builders",
+      "followersCount": 735596,
+      "friendsCount": 4946,
+      "location": "Miami / New York / Paris"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXq04BKWoAAR0Mw.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClementDelangue/status/2124209139337331158",
+    "fullText": "Inkling 2 Mini from @thinkymachines is number one trending on HF (and the gguf from @UnslothAI number 2). Let's go! https://t.co/wFg1vl2xUa",
+    "createdAt": "Sat Nov 21 18:31:39 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5392849,
+      "friendsCount": 806,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2124207933026414957",
+    "fullText": "At dinner yesterday someone said \"You couldn't make that show now\" about something made just 20 years ago. We've all heard that sentence so often that we take it for granted, but it's a sign of a real problem.",
+    "createdAt": "Sat Nov 21 18:26:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497157,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2124207147684618390",
+    "fullText": "Is it true? It isn't impossible, just impossibly hard Mathematics for humans! Here's the claim:\nhttps://t.co/H9mg2gqHVH\n\n\"Anthropic mathematician claims to have proven the Riemann Hypothesis, the most famous problem in all of math — An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion.\"",
+    "createdAt": "Sat Nov 21 18:23:44 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 74936,
+      "friendsCount": 37222,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2124206074060534056",
+    "fullText": "carlos volleying a mega shelton return from the baseline to win the point goes so hard",
+    "createdAt": "Sat Nov 21 18:19:28 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310930,
+      "friendsCount": 8645,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2124205538292445447",
+    "fullText": "The only thing worse than having tech people in charge of tech policy is having non-tech people in charge of tech policy.",
+    "createdAt": "Sat Nov 21 18:17:20 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310930,
+      "friendsCount": 8645,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2124202648748605587",
+    "fullText": "Oh yes it's an explosion all right.",
+    "createdAt": "Sat Nov 21 18:05:51 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "a16z",
+      "name": "a16z",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+      "description": "https://t.co/A9eTFq6Xbx\n\nhttps://t.co/3RHK5vqQo7\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "followersCount": 1113649,
+      "friendsCount": 65,
+      "location": "It's time to build."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXqtzC4akAAN-k6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/a16z/status/2124201269879570695",
+    "fullText": "Planes stopped, bookings spiked\n\nAfter the November 13 FAA ground stop, car and hotel bookings on Navan spiked to roughly twice their normal hourly volume as travelers searched for alternatives\n\nCharts of the Week: https://t.co/LqguBQ2ukE https://t.co/QHSFs6HEN4",
+    "createdAt": "Sat Nov 21 18:00:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building and measuring frontier intelligence @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 330334,
+      "friendsCount": 1586,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXqskm4a0AEa61x.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2124199923424104874",
+    "fullText": "Can coding agents build better RAG systems than the best published human designs?\n\nAutoRAGBench gives an agent nine RAG development tasks to measure this. There is no starter code and no suggested approach. The agent gets six hours and one H800 GPU to analyze the data, build a pipeline, and refine it from experiments.\n\nGPT-6.1 Sol with Codex CLI averages 56.1. The composite human baseline, which takes the best published method on each task, averages 44.4.\n\nWhen the agent starts from a human-designed system instead of from scratch, it adds 16.6 points on average across seven tasks.\n\nThe paper compares nine agent setups and also studies how each one's development process unfolds over the six hours.\n\nPaper: https://t.co/lBaGGVw7KK\n\nChat with Paper: https://t.co/2AvIc2kCe1",
+    "createdAt": "Sat Nov 21 17:55:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "drfeifei",
+      "name": "Fei-Fei Li",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
+      "description": "Chief Scientist and EVP @AMD, Fmr Cofounder/CEO @theworldlabs, Prof @Stanford, Founding Director @StanfordHAI, #AI #robotics",
+      "followersCount": 1100268,
+      "friendsCount": 1206,
+      "location": "Stanford, CA, U.S.A."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXqr2trbcAAwNKV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/drfeifei/status/2124199134118948957",
+    "fullText": "Week One at AMD accomplished! As I have always said, AI is compute, compute is AI. LFG!🚀 @AMD @theworldlabs https://t.co/YQ6PSA7l2l",
+    "createdAt": "Sat Nov 21 17:51:53 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497157,
+      "friendsCount": 3373,
+      "location": "Maryland, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HXqrHMLXMAE5mOv.mp4"
+    ],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2124198354712154323",
+    "fullText": "The EU AI Act is changing how companies build and deploy AI.\n\nAnd it doesn't just affect businesses based in Europe.\n\nIf your organization develops, sells, or uses AI systems connected to the EU market, these regulations could apply to you.\n\nLearn more here: https://t.co/iKdd0lW74T",
+    "createdAt": "Sat Nov 21 17:48:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Founder @particle_api, Past: Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 455929,
+      "friendsCount": 727,
+      "location": "Inference:"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2124193720086192338",
+    "fullText": "Particle is on OpenRouter. \n\nGuarantees from us: \n- Will always respect ZDR\n- Will never re-route traffic to China or send your data anywhere else \n- Tirelessly monitor our security \n\nI did these things at Mixpanel for over a decade without any major issues. I had an extremely high bar around security and privacy whether customers were a small 2 person team or F100 company.",
+    "createdAt": "Sat Nov 21 17:30:23 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building and measuring frontier intelligence @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 330334,
+      "friendsCount": 1586,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2124171486499926016/vid/avc1/1920x1080/5riJd6CGLISDzLT9.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/omarsar0/status/2124174963410174246",
+    "fullText": "Can't believe I am saying this. \n\nI am strongly considering replacing Opus 5.5 with Gemini Neon as my daily driver. \n\nGoogle absolutely cooked with this model. \n\nI've been testing it with Pi + Gemini API, and it's the first Gemini model that actually feels like a daily driver. \n\nNow I just want to use this with a subscription in other harnesses. @OfficialLoganK, I think it's time to make it happen. \n\nIf this is a sign of what's to come, you'll want to watch Google's next releases very closely. \n\nCheck out this nice visual explainer it generated in one shot using the ElevenLabs API for voice, based on the RSI conversation in @a16z's first episode of Working Theory. \n\nThese explainers are quickly becoming one of the best ways to learn and consume research. Gemini Neon is extremely good for scientific knowledge and work.\n\nI already preferred Gemini Flash models for research outputs, explainers, and notes. So this makes me want to use the new Gemini models even more.",
+    "createdAt": "Sat Nov 21 16:15:51 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "GaryMarcus",
       "name": "Gary Marcus",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
@@ -248,6 +760,40 @@
     "tweetUrl": "https://x.com/PeterDiamandis/status/2124118297159291342",
     "fullText": "The best way to get the general population to trust AI is to solve the problems that affect them daily. Prices, diseases, the environment, etc. \n\nThe opportunities for the industry are endless.",
     "createdAt": "Sat Nov 21 12:30:40 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nathanbenaich",
+      "name": "Nathan Benaich",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1860887094/2564_517540442680_3904369_31246376_1912207_n_normal.jpg",
+      "description": "solo member of rsi staff @airstreet",
+      "followersCount": 74936,
+      "friendsCount": 37222,
+      "location": "latent space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123891564892090368/vid/avc1/1080x1920/iZlPX1eeTa6T8f39.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/nathanbenaich/status/2124087754636382713",
+    "fullText": "this is pretty brutal to watch - not cool  https://t.co/3cDJf3La3L",
+    "createdAt": "Sat Nov 21 10:29:19 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "nikitabier",
+      "name": "Nikita Bier",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+      "description": "former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+      "followersCount": 1356493,
+      "friendsCount": 2061,
+      "location": "LA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nikitabier/status/2124043630071652772",
+    "fullText": "There would be a massive market opportunity unlocked if there were good local models that could run on a mobile device.\n\nThere are vast amounts of data on our phones that is too private and too large to give to a frontier model—especially in today’s cybersecurity environment.\n\nThe benefits may not accrue to the model developer but it would be a big win for society.",
+    "createdAt": "Sat Nov 21 07:33:58 +0000 2026"
   },
   {
     "user": {
@@ -1571,6 +2117,22 @@
   },
   {
     "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 511393,
+      "friendsCount": 14177,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2123993115631784022",
+    "fullText": "ten years later - it’s so impressive thinking back on lee sedol and the pure grace he showed as the era of human supremacy in his domain ended, even as he became an avatar for the human race and crushingly lost in front of a global audience. very few have managed it",
+    "createdAt": "Sat Nov 21 04:13:15 +0000 2026"
+  },
+  {
+    "user": {
       "screenName": "goodside",
       "name": "Riley Goodside",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
@@ -1603,6 +2165,42 @@
     "tweetUrl": "https://x.com/op7418/status/2123965901787873382",
     "fullText": "谷歌现在真争气呀！\n\n他们推出了黑五最高 50% 的折扣和 Antigravity 的重置功能，这下可以爽用了 Neon 了。\n\n首先是他们启动了黑色星期五的优惠活动：\n\n从今天到 11 月 26 号，谷歌的 Plus 和年度 Pro 计划最高会有 50% 的优惠。Ultra 没有，希望他们后面给 Ultra 也上一上。另外他说新用户在黑五估计还有别的优惠。\n\n另外，他们通过大幅增加缓存池的大小，在 Antigravity 上将原有的缓存命中率提高了 4%。\n\n他们说这个修复会让额度能完成的工作量增加 20%，这个还是相当可以的。\n昨天晚上进行了一次重置。\n\n后面的话，他们说重置会常驻，会像 Codex 一样增加一个常驻功能，后面会不时地重置。",
     "createdAt": "Sat Nov 21 02:25:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1472916836408721409/zQl-1tuq_normal.png",
+      "description": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followersCount": 353550,
+      "friendsCount": 20395,
+      "location": "Cambridge, MA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2123894706773827584/pu/vid/avc1/1280x720/fUBmSQmMvFuVtFm_.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/MIT_CSAIL/status/2123894784557298064",
+    "fullText": "Will stronger LLMs make harnesses obsolete?\n\nNew MIT CSAIL paper argues the opposite: Harnesses compose model capabilities to generalize across longer, deeper, &amp; more strategic tasks, while enabling more data-efficient training: https://t.co/Cdi0hAvMdB https://t.co/wVwmKzpupI",
+    "createdAt": "Fri Nov 20 21:42:31 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 259455,
+      "friendsCount": 7232,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123865586325397504/vid/avc1/480x270/rp3eLVTT1Sh0yRHx.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2123865592616886749",
+    "fullText": "🪦  R.I.P. Generative AI Mania 2022-2026 🪦\n\nWhat really gets me is how everybody seems so stunned, when I have been warning that this day would come literally for three and a half years.\n\nNobody *should* be surprised.\n\nInstead, far too many of you got hypnotized by gaslighters and hype artists.\n\nYou might want to think about that, for next time.",
+    "createdAt": "Fri Nov 20 19:46:31 +0000 2026"
   },
   {
     "user": {
