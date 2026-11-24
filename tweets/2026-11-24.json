@@ -1,0 +1,388 @@
+[
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 259615,
+      "friendsCount": 7238,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2125038643563950427",
+    "fullText": "Given how many *Republican* Senators have come down publicly against today’s shenanigans, I would no longer assume that conviction for impeachment is entirely out of the question.\n\nEspecially when Trump made $15M out of the deal and many Americans can’t afford gas.\n\n54 Democrats plus 2 Independents and 11 Republicans looking to separate themselves from Trump in 2028 is all it would take. \n\nOdds still aren’t high but no longer zero.",
+    "createdAt": "Tue Nov 24 01:27:48 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2112907783834083328/V7QuDue9_normal.jpg",
+      "description": "Tech commentary and history, AI builder. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12555,
+      "friendsCount": 1529,
+      "location": "Raleigh, NC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2125037270751416336",
+    "fullText": "Riemann hypothesis proven and I still gotta do my damn dishes",
+    "createdAt": "Tue Nov 24 01:22:21 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "saranormous",
+      "name": "sarah guo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2104624169661124608/uQ5t8Dsx_normal.jpg",
+      "description": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followersCount": 168225,
+      "friendsCount": 3458,
+      "location": "on ⛓"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/saranormous/status/2125029049395445856",
+    "fullText": "Great people exist. That doesn't make them infallible, morally superior, or exempt from accountability. But some individuals really are exceptional. You don't have to worship them. You don't even have to like them. But wishing it weren't true doesn't make history any less true.",
+    "createdAt": "Tue Nov 24 00:49:41 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tunguz",
+      "name": "Bojan Tunguz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+      "description": "Founder and CEO @tabul_ai. Creator of @trainxgb. ML ex Nvidia. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+      "followersCount": 310946,
+      "friendsCount": 8648,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tunguz/status/2125027425545588845",
+    "fullText": "If your company doesn't fire and rehire the CEO in November, it's not a *real* AI company.\n\nI don't make the rules.",
+    "createdAt": "Tue Nov 24 00:43:14 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "dair_ai",
+      "name": "DAIR.AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_normal.jpg",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+      "followersCount": 138377,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX2dIszbcAAYeC2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dair_ai/status/2125027375553605836",
+    "fullText": "// Model Carving //\n\nThis work from Harvard and NYU proposes Model Carving, which puts a learnable scalar gate on every attention and MLP sublayer. The training loss closes gates it does not need, and those sublayers are removed.\n\nAt equal training compute, carved models reached lower validation loss than dense models trained with up to 1.7x more compute. They tested standard Transformers from 140M to 2.7B parameters and looped Transformers up to 1.3B.\n\nCarved models also beat size-matched models made by pruning or distillation. The advantage grew with scale and held on few-shot evaluation and generation.\n\nRemoved sublayers do not run, so carved models used up to 34% fewer FLOPs per token and decoded up to 1.6x faster with no quality loss.\n\nIf you need a small model for edge or latency-bound use, compare carving during pretraining against your current prune-then-distill pipeline.\n\nhttps://t.co/1sbiXKyrqN\n\nChat with Paper: https://t.co/L4qHIKmuK0",
+    "createdAt": "Tue Nov 24 00:43:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 66639,
+      "friendsCount": 279,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX2cEH8akAAgd1n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/togethercompute/status/2125027182313672761",
+    "fullText": "DeepSeek V4.1 Flash 1017 ⚡Fast⚡ is now available.\n\nOptimized for coding agents, priced at $0.60/$2.40.\n\nGive it a try and let us know what you think: https://t.co/T9DOowfo21 https://t.co/Fu8ttl6x5s",
+    "createdAt": "Tue Nov 24 00:42:16 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "rebecca_szkutak",
+      "name": "Becca Szkutak",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1945669574868803584/DS45KFLN_normal.jpg",
+      "description": "Pilates teacher who writes about robots @a3automate\n\nBBQ Betch, 2001 Coldplay apologist, Real Housewives scholar\nShe/her",
+      "followersCount": 6478,
+      "friendsCount": 1234,
+      "location": "Queens, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rebecca_szkutak/status/2125022281734992294",
+    "fullText": "Living in a co-op will really have you beefing with an 80-year-old while simultaneously building a beautiful friendship with a 91-year-old",
+    "createdAt": "Tue Nov 24 00:22:47 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "Suhail",
+      "name": "Suhail",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1898611158330077184/oCfpUSm-_normal.jpg",
+      "description": "Founder @particle_api, Past: Founder @mixpanel\nPizzatarian, engineer, music maker",
+      "followersCount": 456795,
+      "friendsCount": 730,
+      "location": "Inference:"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Suhail/status/2125016959691767972",
+    "fullText": "Have a question about GRPO with trajectories &gt; 300K tokens if someone has a few min. Will be very appreciative!",
+    "createdAt": "Tue Nov 24 00:01:38 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "ceobillionaire",
+      "name": "Vincent Boucher · AGI.eth → ASI.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1780344532795641856/a0hP6TR__normal.jpg",
+      "description": "President, @Quebec_AI & @Montreal_AI. AGI.eth → ASI.eth. Sovereign Intelligence. Institutional Command. Govern capability before capability governs.",
+      "followersCount": 148582,
+      "friendsCount": 5568,
+      "location": "Montréal · Québec"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ceobillionaire/status/2125015540259598506",
+    "fullText": "🌕",
+    "createdAt": "Mon Nov 23 23:56:00 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "amasad",
+      "name": "Amjad Masad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897858917507776512/TRVTyKFk_normal.jpg",
+      "description": "ceo @replit. civilizationist",
+      "followersCount": 508992,
+      "friendsCount": 1585,
+      "location": "CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX2MQDRbkAAiFEd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/amasad/status/2125008810041610359",
+    "fullText": "Great meeting with VP @JDVance on Friday to discuss American AI leadership, cybersecurity, and modernizing our nation’s software infrastructure.\n\nWe also discussed an issue close to my heart: American leadership in open-weight AI. \n\nOur allies want sovereign AI and are increasingly looking to Chinese open models. At home, American startups need a competitive model ecosystem.\n\nAmerica could win the frontier AI race and still lose the global AI ecosystem.\n\nVery happy to see Jensen back at Nvidia. He’s been one of the most important champions of American open-weight AI.",
+    "createdAt": "Mon Nov 23 23:29:15 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5560831,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2125002652929196032/vid/avc1/3840x2160/AdpVBCNFOOa4eaYN.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2125007927098699827",
+    "fullText": "In one run, GPT-6 Cyber helped us validate 948 Linux kernel bugs that could grant local root access and generate patches for review.\n\nOur researchers @clintgibler and @ky1ebot share their findings and how they worked with maintainers to get fixes upstream.\n\nRead the research: https://t.co/wFfTbqet4H",
+    "createdAt": "Mon Nov 23 23:25:45 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "shivon",
+      "name": "Shivon Zilis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/755006920314937344/PPQ8LKFs_normal.jpg",
+      "description": "Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.",
+      "followersCount": 646791,
+      "friendsCount": 1739,
+      "location": "Palo Alto, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2124994560178733056/vid/avc1/1280x720/ZZuwUdgVTPH0hwo9.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/shivon/status/2125004590932468079",
+    "fullText": "Longer form GTA 6 with a Neuralink, including A+ commentary ☺️ https://t.co/OZNzmQdpOz",
+    "createdAt": "Mon Nov 23 23:12:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+      "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360 & @moonshots_pod",
+      "followersCount": 423922,
+      "friendsCount": 935,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeterDiamandis/status/2125002074916044982",
+    "fullText": "The AI doctor of the future starts by making your human doctor better! \nBeth Israel had real patients chat with Google's AMIE before urgent care visits while a physician watched. When doctors read the transcript first, they said it helped them prepare 75% of the time.",
+    "createdAt": "Mon Nov 23 23:02:29 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "GaryMarcus",
+      "name": "Gary Marcus",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2122703474278449152/MofYqUcu_normal.jpg",
+      "description": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followersCount": 259615,
+      "friendsCount": 7238,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GaryMarcus/status/2125001251389903131",
+    "fullText": "am sure that CA AG @AGRobBonta is completely satisfied with Trump’s assertion that everything Jensen is A-OK.\n\nright?",
+    "createdAt": "Mon Nov 23 22:59:13 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "databricks",
+      "name": "Databricks",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_normal.jpg",
+      "description": "Databricks is the Data + AI company, helping organizations build and scale data and AI apps, analytics and agents.",
+      "followersCount": 100625,
+      "friendsCount": 1117,
+      "location": "HQ: San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2125000399576793088/vid/avc1/608x1080/3DmsgiZ8lPrZkZt2.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/databricks/status/2125000465431629905",
+    "fullText": "What if you could git branch an entire agent?\n\nIts sandbox, notes, plans, scripts. All of it.\n\n@ankit_math explains how we built branchable sandboxes so agents can explore multiple paths without losing their working context.\n\ns/o @aiDotEngineer https://t.co/NRppKmjsC9",
+    "createdAt": "Mon Nov 23 22:56:06 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "paulg",
+      "name": "Paul Graham",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "description": "",
+      "followersCount": 5393456,
+      "friendsCount": 806,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/paulg/status/2124999626944299292",
+    "fullText": "Someone asked how I judge founders' characters before helping them to become powerful. I think he expected me to offer a complicated intellectual answer, but the truth is that I just ask Jessica:\n\nhttps://t.co/wRohkkMV6p",
+    "createdAt": "Mon Nov 23 22:52:46 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "togethercompute",
+      "name": "Together AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028879663221882886/sMzEKnKc_normal.jpg",
+      "description": "Accelerate inference, model shaping, and pre-training on a research-optimized platform.",
+      "followersCount": 66639,
+      "friendsCount": 279,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2124992963973627905/vid/avc1/3840x2160/uTkWpK5tUbJzJyOn.mp4?tag=29"
+    ],
+    "tweetUrl": "https://x.com/togethercompute/status/2124996147681145162",
+    "fullText": "When a new model drops, teams want to use it that day, without cost calling the shots. Kernel work on @nvidia Accelerated Computing and CUDA helps us run open models at production quality from day zero, so builders can focus on what they do best. https://t.co/9vzi6IZ89M",
+    "createdAt": "Mon Nov 23 22:38:56 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "goodside",
+      "name": "Riley Goodside",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1027023337497800704/4rtouf4R_normal.jpg",
+      "description": "Frontier LLM poast-training.\nFormerly: Google DeepMind, Scale.\nDeleted posts are mostly bad jokes.",
+      "followersCount": 242227,
+      "friendsCount": 3669,
+      "location": "Virginia, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goodside/status/2124991255499124996",
+    "fullText": "At last, we have empirically quantified the difference in Nvidia’s market cap with and without Jensen Huang—henceforth known as “Jensen’s inequality.”",
+    "createdAt": "Mon Nov 23 22:19:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "benjedwards",
+      "name": "Benj Edwards",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2112907783834083328/V7QuDue9_normal.jpg",
+      "description": "Tech commentary and history, AI builder. Bylines Fast Company / The Atlantic / Retronauts / Creator https://t.co/Rh4KGhtWM0, The Culture of Tech",
+      "followersCount": 12555,
+      "friendsCount": 1529,
+      "location": "Raleigh, NC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/benjedwards/status/2124990984245174326",
+    "fullText": "I think we might be witnessing the dawn of a new publishing format that reminds me of early blogging. You might call it an \"applog,\" where people share their interactive app projects for others to play with or learn from\n\nMine is here: https://t.co/RUOkSa4ZgB\n\nWhat is yours?",
+    "createdAt": "Mon Nov 23 22:18:25 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "tszzl",
+      "name": "roon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918970926668054530/fy-ZsgJ7_normal.jpg",
+      "description": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "followersCount": 512247,
+      "friendsCount": 14186,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tszzl/status/2124985854976565434",
+    "fullText": "the way distributed power works in America is showcased especially clearly by the jensen saga. everyone had a move to play here: the IC / deep state, Cabinet factions, the New York Times, corporate governance, the stock market, Congress Dems, and also social media",
+    "createdAt": "Mon Nov 23 21:58:02 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 5560831,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX1vOUNXwAESQQN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OpenAI/status/2124980590717911527",
+    "fullText": "We’re introducing Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches. Built by @cisco together with OpenAI.\n\nShirudo is a first step toward self-defending infrastructure that can adapt to new threats while keeping services running. Our goal is for defenders to work with AI agents to find affected systems, test and share shields, and deploy them without disrupting workloads.\n\nhttps://t.co/0AqGmcbxWH",
+    "createdAt": "Mon Nov 23 21:37:07 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "KirkDBorne",
+      "name": "Kirk Borne",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+      "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+      "followersCount": 497155,
+      "friendsCount": 3375,
+      "location": "Maryland, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX07fkwWUAAhOy0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/KirkDBorne/status/2124920540435533942",
+    "fullText": "Over the past couple of weeks, we have seen some great announcements from @Commvault addressing the critical need for continuous recovery and resilience in the AI era. Specifically, the presentations at SHIFT Nashville and their rebroadcast online at SHIFT Virtual have made very clear the necessity of AI-powered recovery being proactive, not simply reactive.\n\n“Recovery is the new resilience” was more than the event’s mantra. It is a very serious business imperative. You can watch the SHIFT presentations after registering here: https://t.co/1eadJq0PPE\n\nWhat is SHIFT’s key message? Recovery can no longer wait for the breach to happen or for an AI agent to make a mistake. Recovery must be continuous, starting before disaster strikes and continuing until the full business is recovered with 100% assurance. Call it pre-recovery, if that makes it clearer, but it doesn’t change the escalated risk exposure that AI agents now pose across enterprises everywhere.\n\nThe idea that recovery is only a data integrity (backup and recovery) issue is completely outdated now. AI agents can change many things, either intentionally (by bad actors), or unintentionally (by lax governance or inherent AI app behaviors), or accidentally (by business teams mis-encoding configurations or policies). AI agents are internal and external, and thus vulnerability is a 360 issue. Continuous Recovery must include undoing all the things that those AI agents may have changed (for whichever reason) and rewinding the system to the “most recent uncorrupted state”.\n\nCommvault’s Continuous Recovery solution AgentRecover has 3 major ResOps components: Discovery, Detection, and Recovery. It knows your business rules, what normal looks like, when any of that breaks, exactly what changed, and the provenance and context of every enterprise resource.\n\nAgentRecover will not just discover all the things that AI agents or other actors (whether rogue or accidental) have touched or changed, and then simply flip all those switches back the other way. That approach itself could be a disaster. Instead, the recovery must have a plan (developed during pre-recovery phases): bringing back everything in the correct order, with assurance and trust that the configuration of the business is 100% ready to run. By “everything”, AI-powered resilient recovery of the business includes the critical enterprise identity infrastructure, data (on-prem, hybrid, and cloud), agents, applications, and the entire interdependent connected business infrastructure of those resources. No tier left behind!\n\nCommvault Recovery Studio will enable continuous discovery, assessment, and recovery across the entire enterprise — bringing it all back clean and trusted. Recovery Studio is targeted for early access in December, with general availability in the coming months.\n\nOne of the speakers at SHIFT gave us this equation: Cyber Risk = Likelihood x Impact. He then pointed out that Likelihood is never zero. So, the \"smartest place for your money is AI-powered Recovery.\" @Commvault is your go-to partner for instantiating the imperative “Recovery is the New Resilience.” AI-powered resilient recovery doesn't just protect your business’ mission; it is the foundation that enables your mission.\n\nFor further details on Recovery Studio, AgentRecover, and SHIFT’s other major announcements, start here: https://t.co/sEZhgeMlCE\n\n#ResOps #CyberResilience #CommvaultPartner #CommvaultSHIFT #AI",
+    "createdAt": "Mon Nov 23 17:38:30 +0000 2026"
+  },
+  {
+    "user": {
+      "screenName": "omarsar0",
+      "name": "elvis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_normal.jpg",
+      "description": "Building and measuring frontier intelligence @dair_ai • Prev: Meta AI | Galactica LLM | Papers with Code | Elastic | PhD",
+      "followersCount": 330726,
+      "friendsCount": 1598,
+      "location": "DAIR.AI Academy"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/omarsar0/status/2124894375088189710",
+    "fullText": "Open source AI is good. Good always prevails!",
+    "createdAt": "Mon Nov 23 15:54:32 +0000 2026"
+  }
+]
